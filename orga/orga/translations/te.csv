@@ -1,0 +1,1492 @@
++ Add Milestone,+ మైలురాయి జోడించు
++ Create Task,+ పని సృష్టించు
++ Log Time,+ సమయం నమోదు చేయి
+-- Select a project --,-- ప్రాజెక్టు ఎంచుకోండి --
+0m,0ని
+1 day,1 రోజు
+1 day ago,1 రోజు క్రితం
+1 dependency,1 ఆధారం
+1 entry,1 నమోదు
+1 file,1 ఫైల్
+1 hour ago,1 గంట క్రితం
+1 member,1 సభ్యుడు
+1 milestone,1 మైలురాయి
+1 month,1 నెల
+1 task,1 పని
+< 1m,< 1ని
+"A clear, actionable title for the task","పనికి స్పష్టమైన, చేయదగిన శీర్షిక"
+A client with email {0} already exists: {1},{0} ఇమెయిల్ ఉన్న క్లయింట్ ఇప్పటికే ఉంది: {1}
+A key deliverable or checkpoint for the project,ప్రాజెక్టుకు కీలకమైన డెలివరబుల్ లేదా చెక్‌పాయింట్
+Accept,అంగీకరించు
+Accepted,అంగీకరించబడింది
+Acknowledge,గుర్తించు
+across,అంతటా
+Action,చర్య
+Actions,చర్యలు
+Active,సక్రియం
+Active Assignments,సక్రియ కేటాయింపులు
+Active Projects,సక్రియ ప్రాజెక్టులు
+Activity,కార్యకలాపం
+Activity data deleted successfully,కార్యకలాప డేటా విజయవంతంగా తొలగించబడింది
+Activity Info,కార్యకలాప సమాచారం
+Activity Stats,కార్యకలాప గణాంకాలు
+Activity will appear here as you work on tasks and projects.,మీరు పనులు మరియు ప్రాజెక్టులపై పని చేస్తున్నప్పుడు కార్యకలాపం ఇక్కడ కనిపిస్తుంది.
+Actual,వాస్తవ
+Actual Cost,వాస్తవ ఖర్చు
+Actual cost cannot be negative,వాస్తవ ఖర్చు ఋణాత్మకంగా ఉండకూడదు
+Actual end date cannot be before actual start date,వాస్తవ ముగింపు తేదీ వాస్తవ ప్రారంభ తేదీకి ముందు ఉండకూడదు
+Actual Hours,వాస్తవ గంటలు
+Add,జోడించు
+Add a checklist item...,చెక్‌లిస్ట్ అంశం జోడించు...
+Add a comment...,వ్యాఖ్య జోడించు...
+Add a comment... (Ctrl+Enter to send),వ్యాఖ్య జోడించు... (పంపడానికి Ctrl+Enter)
+Add a description...,వివరణ జోడించు...
+Add a milestone description...,మైలురాయి వివరణ జోడించు...
+Add a note below to annotate this activity.,ఈ కార్యకలాపానికి గమనిక జోడించడానికి క్రింద రాయండి.
+Add a note...,గమనిక జోడించు...
+Add a project description...,ప్రాజెక్టు వివరణ జోడించు...
+Add a task description...,పని వివరణ జోడించు...
+Add checklist item...,చెక్‌లిస్ట్ అంశం జోడించు...
+Add Contact,పరిచయం జోడించు
+Add contacts via the Desk interface or clear filters,Desk ఇంటర్‌ఫేస్ ద్వారా పరిచయాలు జోడించండి లేదా ఫిల్టర్లు తొలగించండి
+Add Dependency,ఆధారం జోడించు
+Add details about this event...,ఈ ఈవెంట్ గురించి వివరాలు జోడించు...
+Add details about this milestone...,ఈ మైలురాయి గురించి వివరాలు జోడించు...
+Add details about this task...,ఈ పని గురించి వివరాలు జోడించు...
+Add details or acceptance criteria for this milestone,ఈ మైలురాయికి వివరాలు లేదా ఆమోద ప్రమాణాలు జోడించు
+"Add details, context, or acceptance criteria","వివరాలు, సందర్భం లేదా ఆమోద ప్రమాణాలు జోడించు"
+Add first dependency,మొదటి ఆధారం జోడించు
+Add item,అంశం జోడించు
+Add items below to track progress.,పురోగతిని ట్రాక్ చేయడానికి క్రింద అంశాలు జోడించండి.
+Add items below to track subtasks,ఉపపనులను ట్రాక్ చేయడానికి క్రింద అంశాలు జోడించండి
+Add Milestone,మైలురాయి జోడించు
+Add Milestone (Shift+M),మైలురాయి జోడించు (Shift+M)
+Add milestones to track key deliverables.,కీలక డెలివరబుల్స్ ట్రాక్ చేయడానికి మైలురాళ్లు జోడించండి.
+Add New Contact,కొత్త పరిచయం జోడించు
+Add Note,గమనిక జోడించు
+Add note,గమనిక జోడించు
+Add notes about this contact...,ఈ పరిచయం గురించి గమనికలు జోడించు...
+Add reaction,స్పందన జోడించు
+Add Skill,నైపుణ్యం జోడించు
+Add start and due dates to tasks to see them on the Gantt chart,Gantt చార్ట్‌లో చూడటానికి పనులకు ప్రారంభ మరియు గడువు తేదీలు జోడించండి
+Add Task,పని జోడించు
+Add Task (Shift+T),పని జోడించు (Shift+T)
+Added Finish-to-Start dependency,ముగింపు-నుండి-ప్రారంభం ఆధారం జోడించబడింది
+Adding this dependency would create a circular reference: {0},ఈ ఆధారాన్ని జోడిస్తే వృత్తాకార సూచన ఏర్పడుతుంది: {0}
+Adding...,జోడిస్తోంది...
+Address,చిరునామా
+Advanced,ఆధునికం
+All,అన్నీ
+All Active,అన్ని సక్రియం
+All Assignees,అందరు కేటాయింపుదారులు
+All Categories,అన్ని వర్గాలు
+All caught up!,అంతా తాజాగా ఉంది!
+All Contexts,అన్ని సందర్భాలు
+All day,రోజంతా
+All day event,రోజంతా ఈవెంట్
+All fields,అన్ని ఫీల్డ్‌లు
+All Priorities,అన్ని ప్రాధాన్యతలు
+All Projects,అన్ని ప్రాజెక్టులు
+All Status,అన్ని స్థితులు
+All Statuses,అన్ని స్థితులు
+All task dependencies & relative dates,అన్ని పని ఆధారాలు & సాపేక్ష తేదీలు
+All Tasks,అన్ని పనులు
+All tasks across all projects.,అన్ని ప్రాజెక్టులలోని అన్ని పనులు.
+All tasks are already linked,అన్ని పనులు ఇప్పటికే లింక్ చేయబడ్డాయి
+All team members,అందరు బృంద సభ్యులు
+All Types,అన్ని రకాలు
+All Users,అందరు వాడుకరులు
+Allocated,కేటాయించబడింది
+allocated,కేటాయించబడింది
+Allow users to log time against tasks,వాడుకరులను పనులపై సమయం నమోదు చేయడానికి అనుమతించు
+Already exported to timesheet {0},ఇప్పటికే టైమ్‌షీట్ {0}కి ఎక్స్‌పోర్ట్ చేయబడింది
+Already Migrated,ఇప్పటికే మైగ్రేట్ చేయబడింది
+Anyone with access,యాక్సెస్ ఉన్న ఎవరైనా
+anytime to show this help,ఈ సహాయాన్ని చూపించడానికి ఎప్పుడైనా
+App Updates,App Updates
+Appearance,రూపం
+Apply,వర్తింపజేయి
+Apply cascade?,కాస్కేడ్ వర్తింపజేయాలా?
+Apply Changes,మార్పులు వర్తింపజేయి
+Apply failed,వర్తింపజేయడం విఫలమైంది
+Apply Template,టెంప్లేట్ వర్తింపజేయి
+Applying...,వర్తింపజేస్తోంది...
+Appointment,అపాయింట్‌మెంట్
+Appointment and resource are required,అపాయింట్‌మెంట్ మరియు వనరు అవసరం
+Appointment name is required,అపాయింట్‌మెంట్ పేరు అవసరం
+Appointment not found,అపాయింట్‌మెంట్ కనుగొనబడలేదు
+Appointment {0} not found,అపాయింట్‌మెంట్ {0} కనుగొనబడలేదు
+Apps,యాప్‌లు
+Archive,ఆర్కైవ్ చేయి
+Archive Activity,కార్యకలాపం ఆర్కైవ్ చేయి
+Archived,ఆర్కైవ్ చేయబడింది
+Are you sure you want to delete this activity data? This cannot be undone.,మీరు ఈ కార్యకలాప డేటాను తొలగించాలనుకుంటున్నారా? ఇది రద్దు చేయలేము.
+Are you sure you want to delete this comment?,మీరు ఈ వ్యాఖ్యను తొలగించాలనుకుంటున్నారా?
+Are you sure you want to delete this project?,మీరు ఈ ప్రాజెక్టును తొలగించాలనుకుంటున్నారా?
+Are you sure?,మీరు ఖచ్చితంగా అనుకుంటున్నారా?
+Ascending -- click to reverse,ఆరోహణ -- తిరగేయడానికి క్లిక్ చేయండి
+Assign To,కేటాయించు
+Assign to Me,నాకు కేటాయించు
+Assigned Contact,కేటాయించిన పరిచయం
+Assigned To,కేటాయించబడింది
+Assigned to,కేటాయించబడింది
+Assigned to Me,నాకు కేటాయించబడింది
+Assignee,కేటాయింపుదారు
+Assignment,కేటాయింపు
+Assignment History,కేటాయింపు చరిత్ర
+Assignment name is required,కేటాయింపు పేరు అవసరం
+Assignment {0} not found,కేటాయింపు {0} కనుగొనబడలేదు
+Assignments,కేటాయింపులు
+At least one action is required,కనీసం ఒక చర్య అవసరం
+At least one event is required,కనీసం ఒక ఈవెంట్ అవసరం
+At least one event must be selected,కనీసం ఒక ఈవెంట్ ఎంచుకోవాలి
+Attachment,జోడింపు
+Attachments,జోడింపులు
+Attendees,హాజరయ్యేవారు
+"Audit trail, assignments, version history","ఆడిట్ ట్రయల్, కేటాయింపులు, వెర్షన్ చరిత్ర"
+Auto,ఆటో
+Auto Calculate Progress,పురోగతిని ఆటోమేటిక్‌గా లెక్కించు
+Auto Set Missed Milestones,తప్పిన మైలురాళ్లను ఆటోమేటిక్‌గా సెట్ చేయి
+Auto-shift dependents when dates change,తేదీలు మారినప్పుడు ఆధారపడినవాటిని ఆటోమేటిక్‌గా మార్చు
+Auto-Trail Start,ఆటో-ట్రయల్ ప్రారంభం
+Auto-Trail updated,ఆటో-ట్రయల్ అప్‌డేట్ చేయబడింది
+Automatically calculate project progress from task completion,పని పూర్తి నుండి ప్రాజెక్టు పురోగతిని ఆటోమేటిక్‌గా లెక్కించు
+Automatically mark milestones as missed when overdue,గడువు దాటినప్పుడు మైలురాళ్లను ఆటోమేటిక్‌గా తప్పినవిగా గుర్తించు
+Automation rule {0} not found,ఆటోమేషన్ నియమం {0} కనుగొనబడలేదు
+Automation: {0},ఆటోమేషన్: {0}
+Availability,అందుబాటు
+Available,అందుబాటులో ఉంది
+Avatar updated successfully,అవతార్ విజయవంతంగా అప్‌డేట్ చేయబడింది
+Avg Progress,సగటు పురోగతి
+Back,వెనుకకు
+Back to Portal,పోర్టల్‌కు తిరిగి
+Back to Projects,ప్రాజెక్టులకు తిరిగి
+Beginner,ప్రారంభకుడు
+Best regards,శుభాకాంక్షలతో
+Billable,బిల్లు చేయదగిన
+Billable Amount,బిల్లు చేయదగిన మొత్తం
+Billable Hours,బిల్లు చేయదగిన గంటలు
+Billable Rate,బిల్లు చేయదగిన రేటు
+Billing Rate,బిల్లింగ్ రేటు
+Blocked,నిరోధించబడింది
+Both dates are needed to display task as a bar in Gantt chart,Gantt చార్ట్‌లో పనిని బార్‌గా చూపించడానికి రెండు తేదీలు అవసరం
+Both doctype and docname are required,doctype మరియు docname రెండూ అవసరం
+Both proposed start and end times are required,ప్రతిపాదిత ప్రారంభ మరియు ముగింపు సమయాలు రెండూ అవసరం
+Both task_name and depends_on are required,task_name మరియు depends_on రెండూ అవసరం
+Breadcrumb,బ్రెడ్‌క్రమ్
+Brief description of the defect or damage,లోపం లేదా నష్టం గురించి సంక్షిప్త వివరణ
+Brief description of this template,ఈ టెంప్లేట్ గురించి సంక్షిప్త వివరణ
+Brief description of your request,మీ అభ్యర్థన గురించి సంక్షిప్త వివరణ
+Brief project description,సంక్షిప్త ప్రాజెక్టు వివరణ
+Budget,బడ్జెట్
+Budget at risk,బడ్జెట్ ప్రమాదంలో ఉంది
+Budget Burn Rate,బడ్జెట్ వినియోగ రేటు
+Budget Status,బడ్జెట్ స్థితి
+Budget updated,బడ్జెట్ అప్‌డేట్ చేయబడింది
+Budget:,బడ్జెట్:
+Bug,బగ్
+Burn Rate,వినియోగ రేటు
+Busy,బిజీ
+By,ద్వారా
+By Assignee,కేటాయింపుదారు ప్రకారం
+By Group,గ్రూప్ ప్రకారం
+By Milestone,మైలురాయి ప్రకారం
+By Priority,ప్రాధాన్యత ప్రకారం
+By Status,స్థితి ప్రకారం
+Cancel,రద్దు చేయి
+Cancelled,రద్దు చేయబడింది
+cannot be undone,తిరిగి పొందలేరు
+Cannot delete client with {0} linked projects. Unlink projects first.,{0} లింక్ చేయబడిన ప్రాజెక్టులతో క్లయింట్‌ను తొలగించలేము. ముందు ప్రాజెక్టులను అన్‌లింక్ చేయండి.
+Cannot delete project with {0} linked tasks. Delete tasks first.,{0} లింక్ చేయబడిన పనులతో ప్రాజెక్టును తొలగించలేము. ముందు పనులను తొలగించండి.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,{0} సక్రియ కేటాయింపులతో వనరును తొలగించలేము. ముందు వాటిని పూర్తి చేయండి లేదా రద్దు చేయండి.
+Cannot delete task with {0} subtasks. Delete subtasks first.,{0} ఉపపనులతో పనిని తొలగించలేము. ముందు ఉపపనులను తొలగించండి.
+Capacity,సామర్థ్యం
+capacity,సామర్థ్యం
+Capacity & Rates,సామర్థ్యం & రేట్లు
+Capture project structure for reuse,తిరిగి ఉపయోగించడానికి ప్రాజెక్టు నిర్మాణాన్ని సంగ్రహించు
+Cascade,కాస్కేడ్
+Cascade Preview,కాస్కేడ్ ప్రివ్యూ
+Category,వర్గం
+Celebrate,అభినందించు
+Change,మార్చు
+Change History,మార్పు చరిత్ర
+Change Priority,ప్రాధాన్యత మార్చు
+Change Status,స్థితి మార్చు
+Changes,మార్పులు
+Changes appear when fields are modified.,ఫీల్డ్‌లు మార్చినప్పుడు మార్పులు కనిపిస్తాయి.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,చెక్‌లిస్ట్
+Checklist item name is required,చెక్‌లిస్ట్ అంశం పేరు అవసరం
+Checklist item not found,చెక్‌లిస్ట్ అంశం కనుగొనబడలేదు
+Checklist item title is required,చెక్‌లిస్ట్ అంశం శీర్షిక అవసరం
+Checklist item {0} not found,చెక్‌లిస్ట్ అంశం {0} కనుగొనబడలేదు
+Checklist item {0} not found in task,చెక్‌లిస్ట్ అంశం {0} పనిలో కనుగొనబడలేదు
+Child,చైల్డ్
+Choose file to upload,అప్‌లోడ్ చేయడానికి ఫైల్ ఎంచుకోండి
+Circular dependency detected: {0},వృత్తాకార ఆధారం గుర్తించబడింది: {0}
+Circular parent-child relationship detected,వృత్తాకార పేరెంట్-చైల్డ్ సంబంధం గుర్తించబడింది
+Clear,తొలగించు
+Clear all read,అన్ని చదివినవి తొలగించు
+Clear date,తేదీ తొలగించు
+Click on an activity from the list to view and manage its details.,వివరాలు చూడటానికి మరియు నిర్వహించడానికి జాబితా నుండి కార్యకలాపంపై క్లిక్ చేయండి.
+Click the avatar to upload a new photo,కొత్త ఫోటో అప్‌లోడ్ చేయడానికి అవతార్‌పై క్లిక్ చేయండి
+Click to add description...,వివరణ జోడించడానికి క్లిక్ చేయండి...
+Click to add notes...,గమనికలు జోడించడానికి క్లిక్ చేయండి...
+Click to assign contact,పరిచయం కేటాయించడానికి క్లిక్ చేయండి
+Click to change status,స్థితి మార్చడానికి క్లిక్ చేయండి
+Click to change type,రకం మార్చడానికి క్లిక్ చేయండి
+Click to edit,సవరించడానికి క్లిక్ చేయండి
+Click to edit budget,బడ్జెట్ సవరించడానికి క్లిక్ చేయండి
+Click to edit description,వివరణ సవరించడానికి క్లిక్ చేయండి
+Click to edit end date,ముగింపు తేదీ సవరించడానికి క్లిక్ చేయండి
+Click to edit milestone name,మైలురాయి పేరు సవరించడానికి క్లిక్ చేయండి
+Click to edit rate,రేటు సవరించడానికి క్లిక్ చేయండి
+Click to edit start date,ప్రారంభ తేదీ సవరించడానికి క్లిక్ చేయండి
+Click to edit title,శీర్షిక సవరించడానికి క్లిక్ చేయండి
+Click to load,లోడ్ చేయడానికి క్లిక్ చేయండి
+Click to set group dependency...,గ్రూప్ ఆధారం సెట్ చేయడానికి క్లిక్ చేయండి...
+Click to set group...,గ్రూప్ సెట్ చేయడానికి క్లిక్ చేయండి...
+Click to view,చూడటానికి క్లిక్ చేయండి
+Click to view at-risk projects,ప్రమాదంలో ఉన్న ప్రాజెక్టులు చూడటానికి క్లిక్ చేయండి
+Click to view critical projects,క్లిష్టమైన ప్రాజెక్టులు చూడటానికి క్లిక్ చేయండి
+Click to view healthy projects,ఆరోగ్యకరమైన ప్రాజెక్టులు చూడటానికి క్లిక్ చేయండి
+Client,క్లయింట్
+Client already has a portal user: {0},క్లయింట్‌కు ఇప్పటికే పోర్టల్ వాడుకరి ఉంది: {0}
+Client already has portal access,క్లయింట్‌కు ఇప్పటికే పోర్టల్ యాక్సెస్ ఉంది
+Client has no portal user to revoke,క్లయింట్‌కు రద్దు చేయడానికి పోర్టల్ వాడుకరి లేరు
+Client link removed from project {0},ప్రాజెక్టు {0} నుండి క్లయింట్ లింక్ తొలగించబడింది
+Client Portal,క్లయింట్ పోర్టల్
+Client {0} deleted successfully,క్లయింట్ {0} విజయవంతంగా తొలగించబడింది
+Close,మూసివేయి
+Close (Esc),మూసివేయి (Esc)
+Comment,వ్యాఖ్య
+comment,వ్యాఖ్య
+Comment added,వ్యాఖ్య జోడించబడింది
+Comment content is required,వ్యాఖ్య విషయం అవసరం
+Comment name is required,వ్యాఖ్య పేరు అవసరం
+Comment not found,వ్యాఖ్య కనుగొనబడలేదు
+Comment removed,వ్యాఖ్య తొలగించబడింది
+Comment {0} not found in task,వ్యాఖ్య {0} పనిలో కనుగొనబడలేదు
+Comments,వ్యాఖ్యలు
+comments,వ్యాఖ్యలు
+Community Edition,Community Edition
+Company,కంపెనీ
+Company name...,కంపెనీ పేరు...
+Complete,పూర్తి చేయి
+Completed,పూర్తయింది
+completed,పూర్తయింది
+Completed Tasks,పూర్తయిన పనులు
+Compliance,అనుసరణ
+Configure default values for new projects and tasks,కొత్త ప్రాజెక్టులు మరియు పనుల కోసం డిఫాల్ట్ విలువలు కాన్ఫిగర్ చేయండి
+Configure email notification settings,ఇమెయిల్ నోటిఫికేషన్ సెట్టింగ్‌లు కాన్ఫిగర్ చేయండి
+Confirm,నిర్ధారించు
+Contact deleted,పరిచయం తొలగించబడింది
+Contact Details,పరిచయ వివరాలు
+Contact Information,సంప్రదింపు సమాచారం
+Contact name is required,పరిచయం పేరు అవసరం
+Contact Support,సపోర్ట్‌ను సంప్రదించండి
+Contact your project manager for more information.,మరిన్ని సమాచారం కోసం మీ ప్రాజెక్టు మేనేజర్‌ను సంప్రదించండి.
+Contact:,పరిచయం:
+Contacts,పరిచయాలు
+Context,సందర్భం
+Contractor,కాంట్రాక్టర్
+Cost estimate cannot be negative,ఖర్చు అంచనా ఋణాత్మకంగా ఉండకూడదు
+Cost Impact,ఖర్చు ప్రభావం
+Cost Summary,ఖర్చు సారాంశం
+Could not apply the template. Please try again.,టెంప్లేట్ వర్తింపజేయడం సాధ్యం కాలేదు. దయచేసి మళ్ళీ ప్రయత్నించండి.
+Could not attach file to project,ప్రాజెక్టుకు ఫైల్ జోడించడం సాధ్యం కాలేదు
+Could not change task priority,పని ప్రాధాన్యత మార్చడం సాధ్యం కాలేదు
+Could not change task status,పని స్థితి మార్చడం సాధ్యం కాలేదు
+Could not delete the project. Please try again.,ప్రాజెక్టును తొలగించడం సాధ్యం కాలేదు. దయచేసి మళ్ళీ ప్రయత్నించండి.
+Could not delete the task. Please try again.,పనిని తొలగించడం సాధ్యం కాలేదు. దయచేసి మళ్ళీ ప్రయత్నించండి.
+Could not delete the template.,టెంప్లేట్‌ను తొలగించడం సాధ్యం కాలేదు.
+Could not duplicate the task. Please try again.,పనిని నకలు చేయడం సాధ్యం కాలేదు. దయచేసి మళ్ళీ ప్రయత్నించండి.
+Could not export the template.,టెంప్లేట్‌ను ఎక్స్‌పోర్ట్ చేయడం సాధ్యం కాలేదు.
+Could not import the template. Please check the file format.,టెంప్లేట్‌ను ఇంపోర్ట్ చేయడం సాధ్యం కాలేదు. దయచేసి ఫైల్ ఫార్మాట్ తనిఖీ చేయండి.
+Could not link task to milestone,పనిని మైలురాయికి లింక్ చేయడం సాధ్యం కాలేదు
+Could not load document details.,డాక్యుమెంట్ వివరాలు లోడ్ చేయడం సాధ్యం కాలేదు.
+Could not load task details,పని వివరాలు లోడ్ చేయడం సాధ్యం కాలేదు
+Could not promote checklist item to task.,చెక్‌లిస్ట్ అంశాన్ని పనిగా ప్రమోట్ చేయడం సాధ్యం కాలేదు.
+Could not remove task from milestone,మైలురాయి నుండి పనిని తొలగించడం సాధ్యం కాలేదు
+Could not save budget.,బడ్జెట్ సేవ్ చేయడం సాధ్యం కాలేదు.
+Could not save changes to the milestone,మైలురాయికి మార్పులు సేవ్ చేయడం సాధ్యం కాలేదు
+Could not save changes to the task,పనికి మార్పులు సేవ్ చేయడం సాధ్యం కాలేదు
+Could not save description.,వివరణ సేవ్ చేయడం సాధ్యం కాలేదు.
+Could not save end date.,ముగింపు తేదీ సేవ్ చేయడం సాధ్యం కాలేదు.
+Could not save milestone name.,మైలురాయి పేరు సేవ్ చేయడం సాధ్యం కాలేదు.
+Could not save start date.,ప్రారంభ తేదీ సేవ్ చేయడం సాధ్యం కాలేదు.
+Could not save the template. Please try again.,టెంప్లేట్ సేవ్ చేయడం సాధ్యం కాలేదు. దయచేసి మళ్ళీ ప్రయత్నించండి.
+Could not save title.,శీర్షిక సేవ్ చేయడం సాధ్యం కాలేదు.
+Could not update dependency mode.,ఆధార మోడ్ అప్‌డేట్ చేయడం సాధ్యం కాలేదు.
+Could not update milestone date,మైలురాయి తేదీ అప్‌డేట్ చేయడం సాధ్యం కాలేదు
+Could not update project status.,ప్రాజెక్టు స్థితి అప్‌డేట్ చేయడం సాధ్యం కాలేదు.
+Could not update project type.,ప్రాజెక్టు రకం అప్‌డేట్ చేయడం సాధ్యం కాలేదు.
+Could not update setting.,సెట్టింగ్ అప్‌డేట్ చేయడం సాధ్యం కాలేదు.
+Could not update task dates,పని తేదీలు అప్‌డేట్ చేయడం సాధ్యం కాలేదు
+Could not update task status,పని స్థితి అప్‌డేట్ చేయడం సాధ్యం కాలేదు
+Could not update the template.,టెంప్లేట్ అప్‌డేట్ చేయడం సాధ్యం కాలేదు.
+Create a copy of this task,ఈ పని యొక్క కాపీ సృష్టించు
+Create Contact,పరిచయం సృష్టించు
+Create Event,ఈవెంట్ సృష్టించు
+Create Milestone,మైలురాయి సృష్టించు
+Create New Milestone,కొత్త మైలురాయి సృష్టించు
+Create New Task,కొత్త పని సృష్టించు
+Create Project,ప్రాజెక్టు సృష్టించు
+Create Task,పని సృష్టించు
+Create tasks and milestones from a template,టెంప్లేట్ నుండి పనులు మరియు మైలురాళ్లు సృష్టించు
+Create your first project to get started.,ప్రారంభించడానికి మీ మొదటి ప్రాజెక్టును సృష్టించండి.
+Create your first task to start tracking work on this project.,ఈ ప్రాజెక్టుపై పనిని ట్రాక్ చేయడం ప్రారంభించడానికి మీ మొదటి పనిని సృష్టించండి.
+Created,సృష్టించబడింది
+Creating...,సృష్టిస్తోంది...
+Critical,క్లిష్టమైన
+Critical Path,క్లిష్ట మార్గం
+"Currency used for budgets, costs, and billing rates","బడ్జెట్లు, ఖర్చులు మరియు బిల్లింగ్ రేట్ల కోసం ఉపయోగించే కరెన్సీ"
+Current,ప్రస్తుత
+Current Assignments,ప్రస్తుత కేటాయింపులు
+Current scheduled time:,ప్రస్తుతం షెడ్యూల్ చేసిన సమయం:
+Currently running version,Currently running version
+d lag,రోజుల ఆలస్యం
+Daily Availability,రోజువారీ అందుబాటు
+Daily Hours,రోజువారీ గంటలు
+Danger Zone,ప్రమాద జోన్
+Dark,డార్క్
+Dashboard,డాష్‌బోర్డ్
+Date,తేదీ
+Date changes on this task will show cascade impact here,ఈ పనిపై తేదీ మార్పులు ఇక్కడ కాస్కేడ్ ప్రభావాన్ని చూపిస్తాయి
+Date cleared,తేదీ తొలగించబడింది
+Date of Joining,చేరిన తేదీ
+Date updated,తేదీ అప్‌డేట్ చేయబడింది
+Dates,తేదీలు
+Dates cascaded,తేదీలు కాస్కేడ్ చేయబడ్డాయి
+Dates will be relative to the project's start date.,తేదీలు ప్రాజెక్టు ప్రారంభ తేదీకి సాపేక్షంగా ఉంటాయి.
+Day,రోజు
+day,రోజు
+days,రోజులు
+Days before due date to send reminder,గడువు తేదీకి ముందు రిమైండర్ పంపడానికి రోజులు
+Days Overdue,ఆలస్యమైన రోజులు
+Days Remaining,మిగిలిన రోజులు
+Deadline,గడువు
+Deadlines,గడువులు
+Decision,నిర్ణయం
+Decline,తిరస్కరించు
+Declined,తిరస్కరించబడింది
+Default Currency,డిఫాల్ట్ కరెన్సీ
+Default hours per week for contact capacity planning,పరిచయ సామర్థ్య ప్రణాళిక కోసం వారానికి డిఫాల్ట్ గంటలు
+Default Priority,డిఫాల్ట్ ప్రాధాన్యత
+Default Project Status,డిఫాల్ట్ ప్రాజెక్టు స్థితి
+Default Task Status,డిఫాల్ట్ పని స్థితి
+Default task view,డిఫాల్ట్ పని వీక్షణ
+Default Values,డిఫాల్ట్ విలువలు
+Default Weekly Capacity,డిఫాల్ట్ వారపు సామర్థ్యం
+Defaults,డిఫాల్ట్‌లు
+Defect Cost Impact,లోపం ఖర్చు ప్రభావం
+Defect name is required,లోపం పేరు అవసరం
+Defect Type,లోపం రకం
+Defect {0} not found,లోపం {0} కనుగొనబడలేదు
+Defects,లోపాలు
+Defects & Issues,లోపాలు & సమస్యలు
+Defects Resolved,పరిష్కరించబడిన లోపాలు
+Delayed,ఆలస్యమైంది
+Delete,తొలగించు
+Delete Activity Data,కార్యకలాప డేటా తొలగించు
+Delete all read notifications?,అన్ని చదివిన నోటిఫికేషన్లు తొలగించాలా?
+Delete comment,వ్యాఖ్య తొలగించు
+Delete Contact,పరిచయం తొలగించు
+Delete Event,ఈవెంట్ తొలగించు
+Delete Event?,ఈవెంట్ తొలగించాలా?
+Delete failed,తొలగించడం విఫలమైంది
+Delete file,ఫైల్ తొలగించు
+Delete item,అంశం తొలగించు
+Delete note,గమనిక తొలగించు
+Delete Project,ప్రాజెక్టు తొలగించు
+Delete Task,పని తొలగించు
+Delete this project,ఈ ప్రాజెక్టు తొలగించు
+Deleted,తొలగించబడింది
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","ప్రాజెక్టు ""{0}"" తొలగించబడింది ({1} పనులు, {2} మైలురాళ్లు)"
+Deletes notes and preferences. Source document is not affected.,గమనికలు మరియు ప్రాధాన్యతలను తొలగిస్తుంది. మూల డాక్యుమెంట్ ప్రభావితం కాదు.
+Deleting...,తొలగిస్తోంది...
+Department,విభాగం
+Dependencies,ఆధారాలు
+dependencies,డిపెండెన్సీలు
+Dependencies are informational only,ఆధారాలు సమాచారం కోసం మాత్రమే
+dependency,డిపెండెన్సీ
+Dependency already exists,ఆధారం ఇప్పటికే ఉంది
+Dependency Chain,ఆధార గొలుసు
+Dependency created,ఆధారం సృష్టించబడింది
+Dependency mode updated,ఆధార మోడ్ అప్‌డేట్ చేయబడింది
+Dependency name is required,ఆధారం పేరు అవసరం
+Dependency task {0} not found,ఆధార పని {0} కనుగొనబడలేదు
+Dependency {0} not found,ఆధారం {0} కనుగొనబడలేదు
+depends,ఆధారపడి ఉంది
+Depends on Group,గ్రూప్‌పై ఆధారపడి ఉంది
+Depends on task is required,ఆధార పని అవసరం
+depends on...,ఆధారపడి ఉంది...
+Descending -- click to reverse,అవరోహణ -- తిరగేయడానికి క్లిక్ చేయండి
+Describe the defect in detail...,లోపాన్ని వివరంగా వర్ణించండి...
+Description,వివరణ
+Description updated,వివరణ అప్‌డేట్ చేయబడింది
+Designation,హోదా
+"Detailed description of the defect, location, and impact","లోపం, స్థానం మరియు ప్రభావం యొక్క వివరమైన వివరణ"
+Details,వివరాలు
+Discard timer,టైమర్ విస్మరించు
+Discussion,చర్చ
+Dismiss,Dismiss
+Display,ప్రదర్శన
+Document,డాక్యుమెంట్
+Document attached to project,ప్రాజెక్టుకు డాక్యుమెంట్ జోడించబడింది
+Document final decision and rationale,తుది నిర్ణయం మరియు హేతువును డాక్యుమెంట్ చేయండి
+Documentation Review,డాక్యుమెంటేషన్ సమీక్ష
+Documents,డాక్యుమెంట్లు
+Done,పూర్తయింది
+Download,డౌన్‌లోడ్
+Drag to create dependency,ఆధారం సృష్టించడానికి డ్రాగ్ చేయండి
+Dry Run,డ్రై రన్
+Dry Run Complete,డ్రై రన్ పూర్తయింది
+Due Date,గడువు తేదీ
+Due date,గడువు తేదీ
+Due Date (Earliest),గడువు తేదీ (ముందుగా)
+Due date cannot be before start date,గడువు తేదీ ప్రారంభ తేదీకి ముందు ఉండకూడదు
+Due date is in the past,గడువు తేదీ గతంలో ఉంది
+Due Date Reminders,గడువు తేదీ రిమైండర్లు
+Due Diligence,సమగ్ర పరిశీలన
+Due Diligence Checklist,సమగ్ర పరిశీలన చెక్‌లిస్ట్
+Due This Week,ఈ వారం గడువు
+Due:,గడువు:
+Duplicate events are not allowed,నకిలీ ఈవెంట్లు అనుమతించబడవు
+Duplicate failed,నకలు చేయడం విఫలమైంది
+Duplicate Task,పనిని నకలు చేయి
+Duration,వ్యవధి
+Duration Summary,వ్యవధి సారాంశం
+Duration:,వ్యవధి:
+e.g. Cracked wall finish in bathroom...,ఉదా. బాత్‌రూమ్‌లో పగిలిన గోడ ఫినిష్...
+"e.g. Electrical, Plumbing...","ఉదా. ఎలక్ట్రికల్, ప్లంబింగ్..."
+Edit,సవరించు
+Edit (E),సవరించు (E)
+Edit dependency,ఆధారం సవరించు
+Edit Event,ఈవెంట్ సవరించు
+Efficiency,సామర్థ్యం
+Either dependency_name or depends_on is required,dependency_name లేదా depends_on అవసరం
+Email,ఇమెయిల్
+Email invitations to all attendees,అందరు హాజరయ్యేవారికి ఇమెయిల్ ఆహ్వానాలు
+Email is required to create portal user,పోర్టల్ వాడుకరిని సృష్టించడానికి ఇమెయిల్ అవసరం
+Email notifications,ఇమెయిల్ నోటిఫికేషన్లు
+Employee,ఉద్యోగి
+Employee DocType not available,ఉద్యోగి DocType అందుబాటులో లేదు
+Employee not found,ఉద్యోగి కనుగొనబడలేదు
+Enable or disable optional features,ఐచ్ఛిక ఫీచర్లను ఎనేబుల్ లేదా డిసేబుల్ చేయి
+Enable Time Tracking,సమయ ట్రాకింగ్ ఎనేబుల్ చేయి
+End,ముగింపు
+End Date,ముగింపు తేదీ
+End date,ముగింపు తేదీ
+End Date cannot be before Start Date,ముగింపు తేదీ ప్రారంభ తేదీకి ముందు ఉండకూడదు
+End date cannot be before start date,ముగింపు తేదీ ప్రారంభ తేదీకి ముందు ఉండకూడదు
+End date updated,ముగింపు తేదీ అప్‌డేట్ చేయబడింది
+End time was before start time. Adjusted to 1 hour after start.,ముగింపు సమయం ప్రారంభ సమయానికి ముందు ఉంది. ప్రారంభానికి 1 గంట తర్వాతకు సర్దుబాటు చేయబడింది.
+End:,ముగింపు:
+Enter milestone name...,మైలురాయి పేరు నమోదు చేయండి...
+Enter project name,ప్రాజెక్టు పేరు నమోదు చేయండి
+Enter task title...,పని శీర్షిక నమోదు చేయండి...
+Enter template name,టెంప్లేట్ పేరు నమోదు చేయండి
+Enter your note... Use @name to mention someone,మీ గమనిక నమోదు చేయండి... ఎవరినైనా ప్రస్తావించడానికి @పేరు ఉపయోగించండి
+Error,లోపం
+Error loading activity,కార్యకలాపం లోడ్ చేయడంలో లోపం
+Error loading contacts,పరిచయాలు లోడ్ చేయడంలో లోపం
+Error loading dashboard,డాష్‌బోర్డ్ లోడ్ చేయడంలో లోపం
+Error loading project,ప్రాజెక్టు లోడ్ చేయడంలో లోపం
+Error loading projects,ప్రాజెక్టులు లోడ్ చేయడంలో లోపం
+Error loading settings,సెట్టింగ్‌లు లోడ్ చేయడంలో లోపం
+Error loading tasks,పనులు లోడ్ చేయడంలో లోపం
+Error loading templates,టెంప్లేట్లు లోడ్ చేయడంలో లోపం
+Est. Hours,అంచనా గంటలు
+Estimated,అంచనా
+Estimated Cost,అంచనా ఖర్చు
+Estimated Cost (€),అంచనా ఖర్చు (€)
+Estimated Hours,అంచనా గంటలు
+Estimated:,అంచనా:
+Evaluate potential risks and concerns,సంభావ్య ప్రమాదాలు మరియు ఆందోళనలను అంచనా వేయండి
+Event,ఈవెంట్
+Event is required for event context,ఈవెంట్ సందర్భం కోసం ఈవెంట్ అవసరం
+Event is required when tracking context is 'event',ట్రాకింగ్ సందర్భం 'event' అయినప్పుడు ఈవెంట్ అవసరం
+Event Type,ఈవెంట్ రకం
+Events,ఈవెంట్లు
+Events not available. Please run: bench --site orga.localhost migrate,ఈవెంట్లు అందుబాటులో లేవు. దయచేసి ఇది అమలు చేయండి: bench --site orga.localhost migrate
+Events:,ఈవెంట్లు:
+Expert,నిపుణుడు
+Explain why you are proposing a different time...,మీరు వేరే సమయాన్ని ఎందుకు ప్రతిపాదిస్తున్నారో వివరించండి...
+Export,ఎక్స్‌పోర్ట్
+Export failed,ఎక్స్‌పోర్ట్ విఫలమైంది
+Export JSON,JSON ఎక్స్‌పోర్ట్
+Exported,ఎక్స్‌పోర్ట్ చేయబడింది
+Exported to timesheet {0},టైమ్‌షీట్ {0}కి ఎక్స్‌పోర్ట్ చేయబడింది
+External,బాహ్య
+Failed to add item,అంశం జోడించడం విఫలమైంది
+Failed to add note,గమనిక జోడించడం విఫలమైంది
+Failed to add skill,నైపుణ్యం జోడించడం విఫలమైంది
+Failed to apply cascade changes: {0},కాస్కేడ్ మార్పులు వర్తింపజేయడం విఫలమైంది: {0}
+Failed to create defect,లోపం సృష్టించడం విఫలమైంది
+Failed to create dependency,ఆధారం సృష్టించడం విఫలమైంది
+Failed to create event,ఈవెంట్ సృష్టించడం విఫలమైంది
+Failed to create milestone,మైలురాయి సృష్టించడం విఫలమైంది
+Failed to create project,ప్రాజెక్టు సృష్టించడం విఫలమైంది
+Failed to create task,పని సృష్టించడం విఫలమైంది
+Failed to create time log,సమయ నమోదు సృష్టించడం విఫలమైంది
+Failed to delete,తొలగించడం విఫలమైంది
+Failed to delete comment,వ్యాఖ్య తొలగించడం విఫలమైంది
+Failed to delete contact,పరిచయం తొలగించడం విఫలమైంది
+Failed to load,లోడ్ చేయడం విఫలమైంది
+Failed to load activity,కార్యకలాపం లోడ్ చేయడం విఫలమైంది
+Failed to load assignments,కేటాయింపులు లోడ్ చేయడం విఫలమైంది
+Failed to load contact,పరిచయం లోడ్ చేయడం విఫలమైంది
+Failed to load dashboard data,డాష్‌బోర్డ్ డేటా లోడ్ చేయడం విఫలమైంది
+Failed to load defects,లోపాలు లోడ్ చేయడం విఫలమైంది
+Failed to load events,ఈవెంట్లు లోడ్ చేయడం విఫలమైంది
+Failed to load project,ప్రాజెక్టు లోడ్ చేయడం విఫలమైంది
+Failed to load projects,ప్రాజెక్టులు లోడ్ చేయడం విఫలమైంది
+Failed to load report data,రిపోర్ట్ డేటా లోడ్ చేయడం విఫలమైంది
+Failed to load settings,సెట్టింగ్‌లు లోడ్ చేయడం విఫలమైంది
+Failed to load tasks,పనులు లోడ్ చేయడం విఫలమైంది
+Failed to move task,పనిని తరలించడం విఫలమైంది
+Failed to post comment,వ్యాఖ్య పోస్ట్ చేయడం విఫలమైంది
+Failed to propose new time,కొత్త సమయం ప్రతిపాదించడం విఫలమైంది
+Failed to remove item,అంశం తొలగించడం విఫలమైంది
+Failed to remove skill,నైపుణ్యం తొలగించడం విఫలమైంది
+Failed to reorder milestones: {0},మైలురాళ్ల క్రమం మార్చడం విఫలమైంది: {0}
+Failed to reorder tasks: {0},పనుల క్రమం మార్చడం విఫలమైంది: {0}
+Failed to reschedule dependent tasks: {0},ఆధారపడిన పనులను పునఃషెడ్యూల్ చేయడం విఫలమైంది: {0}
+Failed to save,సేవ్ చేయడం విఫలమైంది
+Failed to save preferences,ప్రాధాన్యతలు సేవ్ చేయడం విఫలమైంది
+Failed to save settings,సెట్టింగ్‌లు సేవ్ చేయడం విఫలమైంది
+Failed to submit request. Please try again.,అభ్యర్థన సమర్పించడం విఫలమైంది. దయచేసి మళ్ళీ ప్రయత్నించండి.
+Failed to update item,అంశం అప్‌డేట్ చేయడం విఫలమైంది
+Failed to update priority,ప్రాధాన్యత అప్‌డేట్ చేయడం విఫలమైంది
+Failed to update task,పని అప్‌డేట్ చేయడం విఫలమైంది
+Failed to update tasks: {0},పనులు అప్‌డేట్ చేయడం విఫలమైంది: {0}
+Failed to upload avatar,అవతార్ అప్‌లోడ్ చేయడం విఫలమైంది
+Feature,ఫీచర్
+Features,ఫీచర్లు
+FF (Finish-Finish),FF (ముగింపు-ముగింపు)
+FF - Finish-to-Finish,FF - ముగింపు-నుండి-ముగింపు
+Field has been updated,ఫీల్డ్ అప్‌డేట్ చేయబడింది
+Field name is required for 'Set Field Value' action,'Set Field Value' చర్య కోసం ఫీల్డ్ పేరు అవసరం
+Field {0} is not a Link field,ఫీల్డ్ {0} లింక్ ఫీల్డ్ కాదు
+Field {0} not found in {1},ఫీల్డ్ {0} {1}లో కనుగొనబడలేదు
+File,ఫైల్
+file,ఫైల్
+File does not belong to this task,ఫైల్ ఈ పనికి చెందినది కాదు
+File name is required,ఫైల్ పేరు అవసరం
+File uploaded,ఫైల్ అప్‌లోడ్ చేయబడింది
+File {0} not found,ఫైల్ {0} కనుగొనబడలేదు
+Files,ఫైల్‌లు
+files,ఫైళ్లు
+Filter,ఫిల్టర్
+Final Decision,తుది నిర్ణయం
+Finance,ఫైనాన్స్
+Financial,ఆర్థిక
+Finish-to-Finish,ముగింపు-నుండి-ముగింపు
+Finish-to-Start,ముగింపు-నుండి-ప్రారంభం
+Flag,ఫ్లాగ్
+Flag for attention,దృష్టికి ఫ్లాగ్ చేయి
+Flagged,ఫ్లాగ్ చేయబడింది
+Focus Panel,ఫోకస్ ప్యానెల్
+Follows your system preference. Currently:,మీ సిస్టమ్ ప్రాధాన్యతను అనుసరిస్తుంది. ప్రస్తుతం:
+Frappe Project {0} not found,Frappe ప్రాజెక్టు {0} కనుగొనబడలేదు
+Frappe Projects Migration,Frappe Projects మైగ్రేషన్
+Frappe Projects module not available,Frappe Projects మాడ్యూల్ అందుబాటులో లేదు
+Frappe Projects module not installed,Frappe Projects మాడ్యూల్ ఇన్‌స్టాల్ చేయబడలేదు
+Frappe Projects sync is not enabled,Frappe Projects సింక్ ఎనేబుల్ చేయబడలేదు
+Frappe Task DocType not found,Frappe టాస్క్ DocType కనుగొనబడలేదు
+Frappe Task has no project,Frappe టాస్క్‌కు ప్రాజెక్టు లేదు
+Frappe Task {0} not found,Frappe టాస్క్ {0} కనుగొనబడలేదు
+Fri,శుక్ర
+From,నుండి
+From Template,టెంప్లేట్ నుండి
+FS (Finish-Start),FS (ముగింపు-ప్రారంభం)
+FS - Finish-to-Start (default),FS - ముగింపు-నుండి-ప్రారంభం (డిఫాల్ట్)
+Full form view with audit trail,ఆడిట్ ట్రయల్‌తో పూర్తి ఫారం వీక్షణ
+Full name,పూర్తి పేరు
+Gantt,Gantt
+Gantt Chart,Gantt చార్ట్
+Gantt View,Gantt వీక్షణ
+General Note,సాధారణ గమనిక
+Get started,ప్రారంభించండి
+Go back,వెనుకకు వెళ్ళు
+Go Back,Go Back
+Group by,గ్రూప్ చేయి
+Group dependency removed,గ్రూప్ ఆధారం తొలగించబడింది
+Group dependency set,గ్రూప్ ఆధారం సెట్ చేయబడింది
+Group removed,గ్రూప్ తొలగించబడింది
+Group updated,గ్రూప్ అప్‌డేట్ చేయబడింది
+Hammock task dates are auto-calculated and cannot be changed manually,హామక్ పని తేదీలు ఆటోమేటిక్‌గా లెక్కించబడతాయి మరియు మాన్యువల్‌గా మార్చలేము
+Have a question or need assistance? Fill out the form below and our team will get back to you.,ప్రశ్న ఉందా లేదా సహాయం కావాలా? క్రింది ఫారమ్ నింపండి మరియు మా బృందం మీకు తిరిగి సమాధానం ఇస్తుంది.
+Health,ఆరోగ్యం
+Healthy,ఆరోగ్యకరం
+Hello {0},నమస్కారం {0}
+Here's what's happening with your projects today.,ఈ రోజు మీ ప్రాజెక్టులలో ఏం జరుగుతోందో ఇక్కడ ఉంది.
+Hide,దాచు
+High,అధిక
+History,చరిత్ర
+Home,హోమ్
+Hourly Cost,గంటకు ఖర్చు
+Hours,గంటలు
+hours,గంటలు
+Hours Logged,నమోదు చేసిన గంటలు
+ID,ID
+Image must be smaller than 5 MB,చిత్రం 5 MB కంటే చిన్నదిగా ఉండాలి
+Import,ఇంపోర్ట్
+Import existing projects and tasks from Frappe Projects module,Frappe Projects మాడ్యూల్ నుండి ఉన్న ప్రాజెక్టులు మరియు పనులను ఇంపోర్ట్ చేయండి
+Import failed,ఇంపోర్ట్ విఫలమైంది
+Import Template,టెంప్లేట్ ఇంపోర్ట్
+Imported,ఇంపోర్ట్ చేయబడింది
+in,లో
+In Progress,పురోగతిలో ఉంది
+In Review,సమీక్షలో ఉంది
+In-app notifications,యాప్‌లో నోటిఫికేషన్లు
+Inactive,నిష్క్రియం
+Initial Review,ప్రారంభ సమీక్ష
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,అన్ని పనులను చూడడానికి తగినంత అనుమతులు లేవు
+Intermediate,మధ్యస్థ
+Internal,అంతర్గత
+Invalid DocType,చెల్లని DocType
+Invalid DocType for import,ఇంపోర్ట్ కోసం చెల్లని DocType
+Invalid item type: {0},చెల్లని అంశం రకం: {0}
+Invalid JSON data,చెల్లని JSON డేటా
+Invalid note type. Must be one of: {0},చెల్లని గమనిక రకం. ఇవి ఒకటి అయి ఉండాలి: {0}
+Invalid project reference,చెల్లని ప్రాజెక్టు సూచన
+Invalid reaction type. Must be one of: {0},చెల్లని స్పందన రకం. ఇవి ఒకటి అయి ఉండాలి: {0}
+Invalid RSVP status,చెల్లని RSVP స్థితి
+Invalid status. Must be one of: {0},చెల్లని స్థితి. ఇవి ఒకటి అయి ఉండాలి: {0}
+Invalid status: {0},చెల్లని స్థితి: {0}
+Invalid status: {0}. Must be one of: {1},చెల్లని స్థితి: {0}. ఇవి ఒకటి అయి ఉండాలి: {1}
+Invalid tracking context: {0},చెల్లని ట్రాకింగ్ సందర్భం: {0}
+Invalid visibility. Must be one of: {0},చెల్లని దృశ్యమానత. ఇవి ఒకటి అయి ఉండాలి: {0}
+Invitation: {0} - {1} at {2},ఆహ్వానం: {0} - {1} {2} వద్ద
+Invite People,వ్యక్తులను ఆహ్వానించు
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,అంశం జోడించబడింది
+Item ID is required,అంశం ID అవసరం
+Item removed,అంశం తొలగించబడింది
+Item type is required,అంశం రకం అవసరం
+Item {0} not found,అంశం {0} కనుగొనబడలేదు
+Job title or role,ఉద్యోగ శీర్షిక లేదా పాత్ర
+Join Meeting,మీటింగ్‌లో చేరు
+Just now,ఇప్పుడే
+just now,ఇప్పుడే
+Kanban,Kanban
+Kanban Board,Kanban బోర్డ్
+Kanban View,Kanban వీక్షణ
+Keyboard Shortcuts,కీబోర్డ్ షార్ట్‌కట్లు
+Keyboard shortcuts (?),కీబోర్డ్ షార్ట్‌కట్లు (?)
+Last checked: {0},Last checked: {0}
+Last Updated,చివరిగా అప్‌డేట్ చేయబడింది
+Last updated:,చివరిగా అప్‌డేట్:
+Last Week,గత వారం
+Latest Version,Latest Version
+Light,లైట్
+Link failed,లింక్ చేయడం విఫలమైంది
+Link Task,పనిని లింక్ చేయి
+Linked,లింక్ చేయబడింది
+Linked employee not found,లింక్ చేయబడిన ఉద్యోగి కనుగొనబడలేదు
+Linked Tasks,లింక్ చేయబడిన పనులు
+List,జాబితా
+List View,జాబితా వీక్షణ
+Load failed,లోడ్ చేయడం విఫలమైంది
+Load More,మరిన్ని లోడ్ చేయి
+Load more comments,మరిన్ని వ్యాఖ్యలు లోడ్ చేయి
+Loading activity...,కార్యకలాపం లోడ్ అవుతోంది...
+Loading changes...,మార్పులు లోడ్ అవుతున్నాయి...
+Loading checklist...,చెక్‌లిస్ట్ లోడ్ అవుతోంది...
+Loading comments...,వ్యాఖ్యలు లోడ్ అవుతున్నాయి...
+Loading contact...,పరిచయం లోడ్ అవుతోంది...
+Loading contacts...,పరిచయాలు లోడ్ అవుతున్నాయి...
+Loading dependencies...,ఆధారాలు లోడ్ అవుతున్నాయి...
+Loading details...,వివరాలు లోడ్ అవుతున్నాయి...
+Loading discussion...,చర్చ లోడ్ అవుతోంది...
+Loading events...,ఈవెంట్లు లోడ్ అవుతున్నాయి...
+Loading files...,ఫైల్‌లు లోడ్ అవుతున్నాయి...
+Loading notes...,గమనికలు లోడ్ అవుతున్నాయి...
+Loading preferences...,ప్రాధాన్యతలు లోడ్ అవుతున్నాయి...
+Loading project...,ప్రాజెక్టు లోడ్ అవుతోంది...
+Loading projects...,ప్రాజెక్టులు లోడ్ అవుతున్నాయి...
+Loading replies...,ప్రత్యుత్తరాలు లోడ్ అవుతున్నాయి...
+Loading report data...,రిపోర్ట్ డేటా లోడ్ అవుతోంది...
+Loading settings...,సెట్టింగ్‌లు లోడ్ అవుతున్నాయి...
+Loading task...,పని లోడ్ అవుతోంది...
+Loading templates...,టెంప్లేట్లు లోడ్ అవుతున్నాయి...
+Loading time logs...,సమయ నమోదులు లోడ్ అవుతున్నాయి...
+Loading your portal...,మీ పోర్టల్ లోడ్ అవుతోంది...
+Loading...,లోడ్ అవుతోంది...
+Location,స్థానం
+Log Time,సమయం నమోదు చేయండి
+Logout,లాగ్అవుట్
+Low,తక్కువ
+Make Offer,ఆఫర్ చేయండి
+Manager,నిర్వాహకుడు
+Manual Entry,మాన్యువల్ ఎంట్రీ
+Margin,మార్జిన్
+Mark all as read,అన్నీ చదివినట్లు గుర్తించండి
+Mark all read,అన్నీ చదివినట్లు గుర్తించు
+Mark as read,చదివినట్లు గుర్తించు
+Mark as unread,చదవనిదిగా గుర్తించు
+Mark read,చదివినదిగా గుర్తించు
+Marking...,గుర్తిస్తోంది...
+Material,మెటీరియల్
+Maybe,బహుశా
+Medium,మధ్యస్థం
+Meeting,సమావేశం
+Meeting Link,సమావేశ లింక్
+Meeting title,సమావేశ శీర్షిక
+Meeting URL,సమావేశ URL
+Meetings,సమావేశాలు
+Mention,ప్రస్తావన
+Message,సందేశం
+Message is required,సందేశం అవసరం
+Message is required for '{0}' action,'{0}' చర్యకు సందేశం అవసరం
+Migrate,మైగ్రేట్ చేయండి
+Migration Complete,మైగ్రేషన్ పూర్తయింది
+Migration ID:,మైగ్రేషన్ ID:
+Migration log not found: {0},మైగ్రేషన్ లాగ్ కనుగొనబడలేదు: {0}
+Milestone,మైలురాయి
+milestone,మైలురాయి
+Milestone created,మైలురాయి సృష్టించబడింది
+Milestone description has been saved.,మైలురాయి వివరణ భద్రపరచబడింది.
+Milestone ID is required,మైలురాయి ID అవసరం
+Milestone marked as Missed (past due date),మైలురాయి మిస్డ్‌గా గుర్తించబడింది (గడువు తేదీ దాటింది)
+Milestone moved,మైలురాయి తరలించబడింది
+Milestone Name,మైలురాయి పేరు
+Milestone name has been saved.,మైలురాయి పేరు భద్రపరచబడింది.
+Milestone name is required,మైలురాయి పేరు అవసరం
+Milestone updated,మైలురాయి నవీకరించబడింది
+Milestone {0} not found,మైలురాయి {0} కనుగొనబడలేదు
+Milestone {0} not in project {1},మైలురాయి {0} ప్రాజెక్ట్ {1}లో లేదు
+Milestones,మైలురాళ్లు
+milestones,మైలురాళ్లు
+Milestones:,మైలురాళ్లు:
+Minutes,నిమిషాలు
+Missed,మిస్సయింది
+Mixed,మిశ్రమం
+Mobile,మొబైల్
+Moderate,మితమైన
+Modified,సవరించబడింది
+"Modify details, time, or attendees","వివరాలు, సమయం లేదా హాజరయ్యేవారిని మార్చండి"
+Mon,సోమ
+Month,నెల
+Move failed,తరలింపు విఫలమైంది
+Must be a positive number,సానుకూల సంఖ్య అయి ఉండాలి
+Must finish before this finishes,ఇది ముగియడానికి ముందు పూర్తి కావాలి
+Must finish before this starts,ఇది ప్రారంభమవడానికి ముందు పూర్తి కావాలి
+Must start before this finishes,ఇది ముగియడానికి ముందు ప్రారంభమవాలి
+Must start before this starts,ఇది ప్రారంభమవడానికి ముందు ప్రారంభమవాలి
+My Assignments,నా అసైన్‌మెంట్లు
+My Projects,నా ప్రాజెక్ట్‌లు
+My Schedule,నా షెడ్యూల్
+My Tasks,నా టాస్క్‌లు
+N/A,వర్తించదు
+Name,పేరు
+Name (A-Z),పేరు (A-Z)
+Name (Z-A),పేరు (Z-A)
+Name cannot exceed 255 characters,పేరు 255 అక్షరాలకు మించకూడదు
+Need help?,సహాయం కావాలా?
+Needs Attention,దృష్టి అవసరం
+Never,Never
+new activities,కొత్త యాక్టివిటీలు
+New Activity,కొత్త యాక్టివిటీ
+New activity,కొత్త యాక్టివిటీ
+New Event,కొత్త ఈవెంట్
+New index is required,కొత్త ఇండెక్స్ అవసరం
+New Project,కొత్త ప్రాజెక్ట్
+New tasks will auto-trail by default.,కొత్త టాస్క్‌లు డిఫాల్ట్‌గా ఆటో-ట్రెయిల్ అవుతాయి.
+Newest First,కొత్తవి ముందుగా
+Next,తదుపరి
+Next 14 days,తదుపరి 14 రోజులు
+Next 30 days,తదుపరి 30 రోజులు
+Next 60 days,తదుపరి 60 రోజులు
+Next 7 days,తదుపరి 7 రోజులు
+Next 90 days,తదుపరి 90 రోజులు
+Next Week,వచ్చే వారం
+Next:,తదుపరి:
+No,కాదు
+No active assignments,యాక్టివ్ అసైన్‌మెంట్లు లేవు
+No active projects,యాక్టివ్ ప్రాజెక్ట్‌లు లేవు
+No active timer found,యాక్టివ్ టైమర్ కనుగొనబడలేదు
+No activity selected,యాక్టివిటీ ఎంపిక కాలేదు
+No assignments found,అసైన్‌మెంట్లు కనుగొనబడలేదు
+No attendees,హాజరయ్యేవారు లేరు
+no change,మార్పు లేదు
+No changes for this field.,ఈ ఫీల్డ్‌కు మార్పులు లేవు.
+No changes recorded for this activity.,ఈ యాక్టివిటీకి మార్పులు నమోదు కాలేదు.
+No checklist items yet,ఇంకా చెక్‌లిస్ట్ అంశాలు లేవు
+No checklist items yet.,ఇంకా చెక్‌లిస్ట్ అంశాలు లేవు.
+No comments yet,ఇంకా వ్యాఖ్యలు లేవు
+No comments yet.,ఇంకా వ్యాఖ్యలు లేవు.
+No contacts available,అందుబాటులో ఉన్న సంప్రదింపులు లేవు
+No content for this tab,ఈ ట్యాబ్‌కు కంటెంట్ లేదు
+No data available,డేటా అందుబాటులో లేదు
+No data available for the selected filters,ఎంచుకున్న ఫిల్టర్లకు డేటా అందుబాటులో లేదు
+No data to export,ఎగుమతి చేయడానికి డేటా లేదు
+No dates set,తేదీలు సెట్ కాలేదు
+No defects reported,లోపాలు నివేదించబడలేదు
+No dependencies defined,డిపెండెన్సీలు నిర్వచించబడలేదు
+No description,వివరణ లేదు
+No discussion yet.,ఇంకా చర్చ లేదు.
+No documents attached,డాక్యుమెంట్లు జతచేయబడలేదు
+No due date,గడువు తేదీ లేదు
+No employee linked to this resource,ఈ వనరుకు ఉద్యోగి లింక్ కాలేదు
+No ERPNext employee linked to resource,వనరుకు ERPNext ఉద్యోగి లింక్ కాలేదు
+No events found,ఈవెంట్లు కనుగొనబడలేదు
+No files attached yet.,ఇంకా ఫైళ్లు జతచేయబడలేదు.
+No Frappe Project linked,Frappe ప్రాజెక్ట్ లింక్ కాలేదు
+No Grouping,గ్రూపింగ్ లేదు
+No items,అంశాలు లేవు
+No matching tasks,సరిపోయే టాస్క్‌లు లేవు
+No matching tasks found,సరిపోయే టాస్క్‌లు కనుగొనబడలేదు
+No migration history,మైగ్రేషన్ చరిత్ర లేదు
+No Milestone,మైలురాయి లేదు
+No milestones,మైలురాళ్లు లేవు
+No milestones defined for this project.,ఈ ప్రాజెక్ట్‌కు మైలురాళ్లు నిర్వచించబడలేదు.
+No notes yet.,ఇంకా నోట్స్ లేవు.
+No notes yet. Add a due diligence note to track progress.,ఇంకా నోట్స్ లేవు. పురోగతిని ట్రాక్ చేయడానికి డ్యూ డిలిజెన్స్ నోట్ జోడించండి.
+No notifications,నోటిఫికేషన్లు లేవు
+No Orga Project linked to Frappe Project {0},Frappe ప్రాజెక్ట్ {0}కు Orga ప్రాజెక్ట్ లింక్ కాలేదు
+No overdue tasks,ఆలస్యమైన టాస్క్‌లు లేవు
+No pending cascade changes,పెండింగ్ క్యాస్కేడ్ మార్పులు లేవు
+No predecessors - this task can start independently,పూర్వగాములు లేరు - ఈ టాస్క్ స్వతంత్రంగా ప్రారంభమవగలదు
+No project,ప్రాజెక్ట్ లేదు
+No projects found,ప్రాజెక్ట్‌లు కనుగొనబడలేదు
+No Projects Yet,ఇంకా ప్రాజెక్ట్‌లు లేవు
+No recent activity,ఇటీవలి యాక్టివిటీ లేదు
+No related documents,సంబంధిత డాక్యుమెంట్లు లేవు
+No resolved threads.,పరిష్కరించబడిన థ్రెడ్‌లు లేవు.
+No resources found,వనరులు కనుగొనబడలేదు
+No results found,ఫలితాలు కనుగొనబడలేదు
+No skills listed,నైపుణ్యాలు జాబితా చేయబడలేదు
+No skills recorded yet,ఇంకా నైపుణ్యాలు నమోదు కాలేదు
+No successors - no tasks are waiting for this one,వారసులు లేరు - ఈ టాస్క్ కోసం ఏ టాస్క్‌లు వేచి ఉండటం లేదు
+No task selected,టాస్క్ ఎంపిక కాలేదు
+No tasks assigned to you,మీకు అసైన్ చేసిన టాస్క్‌లు లేవు
+No tasks available to add,జోడించడానికి టాస్క్‌లు అందుబాటులో లేవు
+No tasks found,టాస్క్‌లు కనుగొనబడలేదు
+No tasks linked to this milestone,ఈ మైలురాయికి టాస్క్‌లు లింక్ కాలేదు
+No tasks with dates to display,ప్రదర్శించడానికి తేదీలతో టాస్క్‌లు లేవు
+No tasks yet,ఇంకా టాస్క్‌లు లేవు
+No team members,బృంద సభ్యులు లేరు
+No template,టెంప్లేట్ లేదు
+No templates yet,ఇంకా టెంప్లేట్‌లు లేవు
+No time data found,సమయ డేటా కనుగొనబడలేదు
+No time logged today,ఈ రోజు సమయం నమోదు కాలేదు
+No time logged yet,ఇంకా సమయం నమోదు కాలేదు
+No time logs for this period,ఈ కాలానికి సమయ లాగ్‌లు లేవు
+No time logs found,సమయ లాగ్‌లు కనుగొనబడలేదు
+No unread notifications,చదవని నోటిఫికేషన్లు లేవు
+No update information available yet.,No update information available yet.
+None,ఏదీ లేదు
+Not found,కనుగొనబడలేదు
+Not permitted,అనుమతి లేదు
+Not permitted to access this project,ఈ ప్రాజెక్ట్‌ను యాక్సెస్ చేయడానికి అనుమతి లేదు
+Not permitted to access this task,ఈ టాస్క్‌ను యాక్సెస్ చేయడానికి అనుమతి లేదు
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,ఈ డాక్యుమెంట్‌పై వ్యాఖ్యానించడానికి అనుమతి లేదు
+Not permitted to create clients,క్లయింట్‌లను సృష్టించడానికి అనుమతి లేదు
+Not permitted to delete this client,ఈ క్లయింట్‌ను తొలగించడానికి అనుమతి లేదు
+Not permitted to delete this defect,ఈ లోపాన్ని తొలగించడానికి అనుమతి లేదు
+Not permitted to delete this note,ఈ నోట్‌ను తొలగించడానికి అనుమతి లేదు
+Not permitted to delete this project,ఈ ప్రాజెక్ట్‌ను తొలగించడానికి అనుమతి లేదు
+Not permitted to delete this task,ఈ టాస్క్‌ను తొలగించడానికి అనుమతి లేదు
+Not permitted to delete this time log,ఈ సమయ లాగ్‌ను తొలగించడానికి అనుమతి లేదు
+Not permitted to invite clients,క్లయింట్‌లను ఆహ్వానించడానికి అనుమతి లేదు
+Not permitted to modify client access,క్లయింట్ యాక్సెస్‌ను మార్చడానికి అనుమతి లేదు
+Not permitted to modify this project,ఈ ప్రాజెక్ట్‌ను మార్చడానికి అనుమతి లేదు
+Not permitted to update settings,సెట్టింగ్‌లను నవీకరించడానికి అనుమతి లేదు
+Not permitted to update this client,ఈ క్లయింట్‌ను నవీకరించడానికి అనుమతి లేదు
+Not permitted to view this client,ఈ క్లయింట్‌ను చూడడానికి అనుమతి లేదు
+not sent,పంపబడలేదు
+Not set,సెట్ కాలేదు
+Not specified,పేర్కొనబడలేదు
+Note,నోట్
+Note (optional),నోట్ (ఐచ్ఛికం)
+Note Content,నోట్ కంటెంట్
+Note content is required,నోట్ కంటెంట్ అవసరం
+Note name is required,నోట్ పేరు అవసరం
+Note not found,నోట్ కనుగొనబడలేదు
+Note Type,నోట్ రకం
+Notes,నోట్స్
+Notification,నోటిఫికేషన్
+Notification not found,నోటిఫికేషన్ కనుగొనబడలేదు
+Notifications,నోటిఫికేషన్లు
+Off Track,ట్రాక్ తప్పింది
+Offer,ఆఫర్
+Offer Prepared,ఆఫర్ సిద్ధమైంది
+Oldest First,పాతవి ముందుగా
+On Hold,హోల్డ్‌లో ఉంది
+On Leave,సెలవులో
+On Track,ట్రాక్‌లో ఉంది
+On-Time Rate,సకాలంలో రేటు
+Only administrators can delete activities,నిర్వాహకులు మాత్రమే యాక్టివిటీలను తొలగించగలరు
+Only the comment author or administrators can delete comments,వ్యాఖ్య రచయిత లేదా నిర్వాహకులు మాత్రమే వ్యాఖ్యలను తొలగించగలరు
+Only you and admins,మీరు మరియు అడ్మిన్‌లు మాత్రమే
+Open,తెరిచి ఉంది
+Open in Desk,డెస్క్‌లో తెరవండి
+Open Task Log,టాస్క్ లాగ్ తెరవండి
+Open Tasks,తెరిచిన టాస్క్‌లు
+Optional,ఐచ్ఛికం
+optional,ఐచ్ఛికం
+Or email us directly at,లేదా నేరుగా మాకు ఇమెయిల్ చేయండి
+Orga Project {0} from Frappe Projects,Frappe ప్రాజెక్ట్‌ల నుండి Orga ప్రాజెక్ట్ {0}
+Orga Task {0} from Frappe,Frappe నుండి Orga టాస్క్ {0}
+Organizer,నిర్వాహకుడు
+Other,ఇతరం
+Over Budget,బడ్జెట్ మించిపోయింది
+Overall Progress,మొత్తం పురోగతి
+Overall Utilization,మొత్తం వినియోగం
+Overallocated,అధికంగా కేటాయించబడింది
+Overdue,ఆలస్యమైంది
+overdue,ఆలస్యమైంది
+Overdue Tasks,ఆలస్యమైన టాస్క్‌లు
+Overview,అవలోకనం
+Owner,యజమాని
+Page Not Found,పేజీ కనుగొనబడలేదు
+Parent,పేరెంట్
+Parent comment must belong to the same document,పేరెంట్ వ్యాఖ్య అదే డాక్యుమెంట్‌కు చెందాలి
+Parent comment not found,పేరెంట్ వ్యాఖ్య కనుగొనబడలేదు
+Parent project not synced to Frappe yet,పేరెంట్ ప్రాజెక్ట్ ఇంకా Frappeకు సింక్ కాలేదు
+Parent project sync not enabled,పేరెంట్ ప్రాజెక్ట్ సింక్ ఎనేబుల్ కాలేదు
+Partner,భాగస్వామి
+Pending,పెండింగ్‌లో ఉంది
+per page,పేజీకి
+Perform initial assessment and background check,ప్రారంభ మూల్యాంకనం మరియు నేపథ్య తనిఖీ చేయండి
+Permanently remove this event,ఈ ఈవెంట్‌ను శాశ్వతంగా తొలగించండి
+Permanently remove this task,ఈ టాస్క్‌ను శాశ్వతంగా తొలగించండి
+Phone,ఫోన్
+Pin,పిన్
+Pin Activity,యాక్టివిటీ పిన్ చేయండి
+Pin to top,పైకి పిన్ చేయండి
+Pinned,పిన్ చేయబడింది
+Planned budget for this task,ఈ టాస్క్ కోసం ప్రణాళిక బడ్జెట్
+Planning,ప్రణాళిక
+Please describe your question or issue in detail...,దయచేసి మీ ప్రశ్న లేదా సమస్యను వివరంగా వివరించండి...
+Please login to access Orga,Orgaను యాక్సెస్ చేయడానికి దయచేసి లాగిన్ చేయండి
+Please login to access the client portal,క్లయింట్ పోర్టల్‌ను యాక్సెస్ చేయడానికి దయచేసి లాగిన్ చేయండి
+Please respond to this invitation in Orga,దయచేసి Orgaలో ఈ ఆహ్వానానికి ప్రతిస్పందించండి
+Please select an image file,దయచేసి ఇమేజ్ ఫైల్ ఎంచుకోండి
+Please try again,దయచేసి మళ్ళీ ప్రయత్నించండి
+Please type,దయచేసి టైప్ చేయండి
+Portal,పోర్టల్
+Portal access revoked for {0},{0} కోసం పోర్టల్ యాక్సెస్ రద్దు చేయబడింది
+Portal user created successfully. Welcome email {0},పోర్టల్ యూజర్ విజయవంతంగా సృష్టించబడింది. స్వాగత ఇమెయిల్ {0}
+Post,పోస్ట్
+Powered by,ద్వారా శక్తి
+Powered by Tonic,Tonic ద్వారా శక్తి
+Predecessors (Blocked By),పూర్వగాములు (బ్లాక్ చేసినవి)
+Preferences,ప్రాధాన్యతలు
+Preferences saved successfully,ప్రాధాన్యతలు విజయవంతంగా భద్రపరచబడ్డాయి
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)","ఆటో-జనరేట్ ప్రాజెక్ట్ కోడ్‌ల ప్రిఫిక్స్ (ఉదా., ORG-2026-0001)"
+Prepare and document offer terms,ఆఫర్ నిబంధనలను సిద్ధం చేసి డాక్యుమెంట్ చేయండి
+Press,నొక్కండి
+Preview,ప్రివ్యూ
+Preview cascade before applying,వర్తింపజేయడానికి ముందు క్యాస్కేడ్ ప్రివ్యూ చేయండి
+Previous,మునుపటి
+Priority,ప్రాధాన్యత
+Priority assigned to new tasks,కొత్త టాస్క్‌లకు కేటాయించిన ప్రాధాన్యత
+Priority updated,ప్రాధాన్యత నవీకరించబడింది
+Proficiency,నైపుణ్యత
+Profile,ప్రొఫైల్
+Progress,పురోగతి
+Progress (High-Low),పురోగతి (ఎక్కువ-తక్కువ)
+Progress (Low-High),పురోగతి (తక్కువ-ఎక్కువ)
+Progress Overview,పురోగతి అవలోకనం
+Progress updated,పురోగతి నవీకరించబడింది
+Project,ప్రాజెక్ట్
+Project budget has been saved.,ప్రాజెక్ట్ బడ్జెట్ భద్రపరచబడింది.
+Project code (e.g. ORG-2026-0001),ప్రాజెక్ట్ కోడ్ (ఉదా. ORG-2026-0001)
+Project Code Prefix,ప్రాజెక్ట్ కోడ్ ప్రిఫిక్స్
+Project created,ప్రాజెక్ట్ సృష్టించబడింది
+Project deleted,ప్రాజెక్ట్ తొలగించబడింది
+Project description has been saved.,ప్రాజెక్ట్ వివరణ భద్రపరచబడింది.
+Project Details,ప్రాజెక్ట్ వివరాలు
+Project end date has been saved.,ప్రాజెక్ట్ ముగింపు తేదీ భద్రపరచబడింది.
+Project Files,ప్రాజెక్ట్ ఫైళ్లు
+Project has no linked client,ప్రాజెక్ట్‌కు లింక్ చేసిన క్లయింట్ లేదు
+Project Health,ప్రాజెక్ట్ ఆరోగ్యం
+Project Info,ప్రాజెక్ట్ సమాచారం
+Project is required,ప్రాజెక్ట్ అవసరం
+Project is required for project context,ప్రాజెక్ట్ సందర్భం కోసం ప్రాజెక్ట్ అవసరం
+Project is required when tracking context is 'project',ట్రాకింగ్ సందర్భం 'project' అయినప్పుడు ప్రాజెక్ట్ అవసరం
+Project Manager,ప్రాజెక్ట్ మేనేజర్
+Project Name,ప్రాజెక్ట్ పేరు
+Project name and template name are required,ప్రాజెక్ట్ పేరు మరియు టెంప్లేట్ పేరు అవసరం
+Project name is required,ప్రాజెక్ట్ పేరు అవసరం
+Project not found,ప్రాజెక్ట్ కనుగొనబడలేదు
+Project not found or you do not have access,ప్రాజెక్ట్ కనుగొనబడలేదు లేదా మీకు యాక్సెస్ లేదు
+Project settings,ప్రాజెక్ట్ సెట్టింగ్‌లు
+Project start date has been saved.,ప్రాజెక్ట్ ప్రారంభ తేదీ భద్రపరచబడింది.
+Project title has been saved.,ప్రాజెక్ట్ శీర్షిక భద్రపరచబడింది.
+Project Type,ప్రాజెక్ట్ రకం
+Project updated,ప్రాజెక్ట్ నవీకరించబడింది
+Project {0} linked to client {1},ప్రాజెక్ట్ {0} క్లయింట్ {1}కు లింక్ చేయబడింది
+Project {0} not found,ప్రాజెక్ట్ {0} కనుగొనబడలేదు
+Project {0} to Frappe Projects,ప్రాజెక్ట్ {0} Frappe ప్రాజెక్ట్‌లకు
+Project:,ప్రాజెక్ట్:
+Projects,ప్రాజెక్ట్‌లు
+projects,ప్రాజెక్ట్‌లు
+Projects created:,సృష్టించబడిన ప్రాజెక్ట్‌లు:
+Projects Overview,ప్రాజెక్ట్‌ల అవలోకనం
+Projects skipped:,స్కిప్ చేయబడిన ప్రాజెక్ట్‌లు:
+Projects updated:,నవీకరించబడిన ప్రాజెక్ట్‌లు:
+Promote failed,ప్రమోట్ విఫలమైంది
+Promote to task,టాస్క్‌గా ప్రమోట్ చేయండి
+Promoted to task,టాస్క్‌గా ప్రమోట్ చేయబడింది
+Propose,ప్రతిపాదించండి
+Propose New Time,కొత్త సమయం ప్రతిపాదించండి
+Propose Time,సమయం ప్రతిపాదించండి
+Proposed End,ప్రతిపాదిత ముగింపు
+Proposed Start,ప్రతిపాదిత ప్రారంభం
+Public,పబ్లిక్
+Quick Action,త్వరిత చర్య
+Quick Actions,త్వరిత చర్యలు
+Quick Stats,త్వరిత గణాంకాలు
+Rates,రేట్లు
+Receive notifications via email,ఇమెయిల్ ద్వారా నోటిఫికేషన్లు అందుకోండి
+Receive notifications within the application,అప్లికేషన్‌లో నోటిఫికేషన్లు అందుకోండి
+Recent Activity,ఇటీవలి యాక్టివిటీ
+Recipient {0} is not a valid user,గ్రహీత {0} చెల్లుబాటు అయ్యే యూజర్ కాదు
+Reference,రిఫరెన్స్
+Refresh,రిఫ్రెష్
+Related,సంబంధిత
+Related Company (optional),సంబంధిత కంపెనీ (ఐచ్ఛికం)
+Related Documents,సంబంధిత డాక్యుమెంట్లు
+Related Project,సంబంధిత ప్రాజెక్ట్
+Remaining,మిగిలింది
+Reminder,రిమైండర్
+Reminder Lead Time,రిమైండర్ లీడ్ టైమ్
+Reminder: {0} - {1} at {2},రిమైండర్: {0} - {1} {2} వద్ద
+Remove,తొలగించండి
+Remove dependency,డిపెండెన్సీ తొలగించండి
+Remove dependency on,డిపెండెన్సీ తొలగించండి
+Remove from group,గ్రూప్ నుండి తొలగించండి
+Remove group dependency,గ్రూప్ డిపెండెన్సీ తొలగించండి
+Remove skill,నైపుణ్యం తొలగించండి
+Reopen,తిరిగి తెరవండి
+Reopen thread,థ్రెడ్ తిరిగి తెరవండి
+reopened,తిరిగి తెరవబడింది
+replies,జవాబులు
+Reply,జవాబు
+reply,జవాబు
+Replying to,కు జవాబు ఇస్తోంది
+Replying to comment,వ్యాఖ్యకు జవాబు ఇస్తోంది
+Report Defect,లోపం నివేదించండి
+Reported Date,నివేదించిన తేదీ
+Reports,నివేదికలు
+Reports To,రిపోర్ట్ చేస్తుంది
+Request Submitted!,అభ్యర్థన సమర్పించబడింది!
+Required,అవసరం
+required,అవసరం
+Research,పరిశోధన
+Reset to Defaults,డిఫాల్ట్‌లకు రీసెట్ చేయండి
+Resolve,పరిష్కరించండి
+Resolve thread,థ్రెడ్ పరిష్కరించండి
+Resolved,పరిష్కరించబడింది
+Resolved date cannot be before reported date,పరిష్కరించిన తేదీ నివేదించిన తేదీకి ముందు ఉండకూడదు
+Resource,వనరు
+Resource and skill name are required,వనరు మరియు నైపుణ్యం పేరు అవసరం
+Resource is already an attendee,వనరు ఇప్పటికే హాజరయ్యేవారిలో ఉంది
+Resource name is required,వనరు పేరు అవసరం
+Resource not found,వనరు కనుగొనబడలేదు
+Resource synced from employee {0},ఉద్యోగి {0} నుండి వనరు సింక్ చేయబడింది
+Resource {0} is already assigned to this task ({1}),వనరు {0} ఇప్పటికే ఈ టాస్క్‌కు ({1}) అసైన్ చేయబడింది
+Resource {0} not found,వనరు {0} కనుగొనబడలేదు
+Resources,వనరులు
+Retry,మళ్ళీ ప్రయత్నించండి
+Review,సమీక్ష
+Review all relevant documents and contracts,అన్ని సంబంధిత డాక్యుమెంట్లు మరియు కాంట్రాక్ట్‌లను సమీక్షించండి
+Reviews,సమీక్షలు
+Risk Assessment,రిస్క్ అసెస్‌మెంట్
+Rollback,రోల్‌బ్యాక్
+Rolled back,రోల్‌బ్యాక్ చేయబడింది
+Room or address,గది లేదా చిరునామా
+RSVP,RSVP
+Safety,భద్రత
+Sat,శని
+Save,భద్రపరచండి
+"Save a project as a template, or import one from a JSON file.",ప్రాజెక్ట్‌ను టెంప్లేట్‌గా భద్రపరచండి లేదా JSON ఫైల్ నుండి దిగుమతి చేయండి.
+Save as Template,టెంప్లేట్‌గా భద్రపరచండి
+Save Changes,మార్పులు భద్రపరచండి
+Save failed,భద్రపరచడం విఫలమైంది
+Save Preferences,ప్రాధాన్యతలు భద్రపరచండి
+Save Template,టెంప్లేట్ భద్రపరచండి
+Saving...,భద్రపరుస్తోంది...
+Schedule,షెడ్యూల్
+Schedule type is required for scheduled triggers,షెడ్యూల్ ట్రిగ్గర్‌లకు షెడ్యూల్ రకం అవసరం
+Scheduled,షెడ్యూల్ చేయబడింది
+Search,శోధన
+"Search by name, email, or skill...","పేరు, ఇమెయిల్ లేదా నైపుణ్యం ద్వారా శోధించండి..."
+Search for a project...,ప్రాజెక్ట్ కోసం శోధించండి...
+Search for a task...,టాస్క్ కోసం శోధించండి...
+Search for an event...,ఈవెంట్ కోసం శోధించండి...
+Search for people to invite...,ఆహ్వానించడానికి వ్యక్తులను శోధించండి...
+Search tasks to link...,లింక్ చేయడానికి టాస్క్‌లను శోధించండి...
+Search tasks...,టాస్క్‌లను శోధించండి...
+Search...,శోధించండి...
+Searching...,శోధిస్తోంది...
+Seen,చూసారు
+Select a project if your request is related to a specific project.,మీ అభ్యర్థన నిర్దిష్ట ప్రాజెక్ట్‌కు సంబంధించినదైతే ప్రాజెక్ట్ ఎంచుకోండి.
+Select a project...,ప్రాజెక్ట్ ఎంచుకోండి...
+Select a task from the Gantt chart to view and manage its details.,వివరాలను చూడటానికి మరియు నిర్వహించడానికి గ్యాంట్ చార్ట్ నుండి టాస్క్ ఎంచుకోండి.
+Select a task from the list or Kanban board to view and manage its details.,వివరాలను చూడటానికి మరియు నిర్వహించడానికి జాబితా లేదా కాన్‌బాన్ బోర్డ్ నుండి టాస్క్ ఎంచుకోండి.
+Select a template...,టెంప్లేట్ ఎంచుకోండి...
+Select priority...,ప్రాధాన్యత ఎంచుకోండి...
+Select status...,స్టేటస్ ఎంచుకోండి...
+Select task...,టాస్క్ ఎంచుకోండి...
+Select type...,రకం ఎంచుకోండి...
+Selection,ఎంపిక
+Send,పంపండి
+Send comment,వ్యాఖ్య పంపండి
+Send email invitations to attendees,హాజరయ్యేవారికి ఇమెయిల్ ఆహ్వానాలు పంపండి
+Send Invitations,ఆహ్వానాలు పంపండి
+Send notification when a task is assigned to a user,టాస్క్ యూజర్‌కు అసైన్ చేయబడినప్పుడు నోటిఫికేషన్ పంపండి
+Send notification when task status changes,టాస్క్ స్టేటస్ మారినప్పుడు నోటిఫికేషన్ పంపండి
+Send reminder before task due date,టాస్క్ గడువు తేదీకి ముందు రిమైండర్ పంపండి
+sent,పంపబడింది
+Set rate,రేటు సెట్ చేయండి
+Settings,సెట్టింగ్‌లు
+Settings saved successfully,సెట్టింగ్‌లు విజయవంతంగా భద్రపరచబడ్డాయి
+Severity,తీవ్రత
+SF (Start-Finish),SF (ప్రారంభం-ముగింపు)
+SF - Start-to-Finish,SF - ప్రారంభం నుండి ముగింపు
+Show,చూపించు
+Show all,అన్నీ చూపించు
+Show all changes,అన్ని మార్పులు చూపించు
+Show Archived,ఆర్కైవ్ చేసినవి చూపించు
+Show full diff,పూర్తి తేడా చూపించు
+Show less,తక్కువ చూపించు
+Show more,మరిన్ని చూపించు
+Skill added,నైపుణ్యం జోడించబడింది
+Skill is required,నైపుణ్యం అవసరం
+Skill Name,నైపుణ్యం పేరు
+Skill removed,నైపుణ్యం తొలగించబడింది
+Skill {0} already exists for this resource,నైపుణ్యం {0} ఈ వనరుకు ఇప్పటికే ఉంది
+Skills,నైపుణ్యాలు
+Skills & Competencies,నైపుణ్యాలు & సామర్థ్యాలు
+Skip already migrated projects,ఇప్పటికే మైగ్రేట్ చేసిన ప్రాజెక్ట్‌లను స్కిప్ చేయండి
+Sort by,ఆధారంగా క్రమబద్ధీకరించు
+Sort: Due Date,క్రమం: గడువు తేదీ
+Sort: Priority,క్రమం: ప్రాధాన్యత
+Sort: Project,క్రమం: ప్రాజెక్ట్
+Sort: Status,క్రమం: స్టేటస్
+Sort: Task,క్రమం: టాస్క్
+Source Code,సోర్స్ కోడ్
+Spent,ఖర్చు చేసిన
+Spent:,ఖర్చు:
+SS (Start-Start),SS (ప్రారంభం-ప్రారంభం)
+SS - Start-to-Start,SS - ప్రారంభం నుండి ప్రారంభం
+Standalone,స్వతంత్ర
+Start,ప్రారంభం
+Start a discussion below,క్రింద చర్చ ప్రారంభించండి
+Start Date,ప్రారంభ తేదీ
+Start date,ప్రారంభ తేదీ
+Start Date (Earliest),ప్రారంభ తేదీ (తొలిది)
+Start date updated,ప్రారంభ తేదీ నవీకరించబడింది
+Start date/time is required,ప్రారంభ తేదీ/సమయం అవసరం
+Start Migration,మైగ్రేషన్ ప్రారంభించండి
+Start the conversation below.,క్రింద సంభాషణ ప్రారంభించండి.
+Start Timer,టైమర్ ప్రారంభించండి
+Start typing to search...,శోధించడానికి టైప్ చేయడం ప్రారంభించండి...
+Start-to-Finish,ప్రారంభం నుండి ముగింపు
+Start-to-Start,ప్రారంభం నుండి ప్రారంభం
+Start:,ప్రారంభం:
+Statistics reset,గణాంకాలు రీసెట్ చేయబడ్డాయి
+Status,స్టేటస్
+Status assigned to new projects,కొత్త ప్రాజెక్ట్‌లకు కేటాయించిన స్టేటస్
+Status assigned to new tasks,కొత్త టాస్క్‌లకు కేటాయించిన స్టేటస్
+Status Changes,స్టేటస్ మార్పులు
+Status updated,స్టేటస్ నవీకరించబడింది
+Status:,స్టేటస్:
+Stop,ఆపు
+Stop & Save,ఆపు & భద్రపరచు
+Stop Timer,టైమర్ ఆపు
+Stops current timer and starts for this event,ప్రస్తుత టైమర్‌ను ఆపి ఈ ఈవెంట్ కోసం ప్రారంభిస్తుంది
+Stops current timer and starts for this task,ప్రస్తుత టైమర్‌ను ఆపి ఈ టాస్క్ కోసం ప్రారంభిస్తుంది
+Subject,విషయం
+Subject cannot exceed 255 characters,విషయం 255 అక్షరాలకు మించకూడదు
+Subject is required,విషయం అవసరం
+Submit,సమర్పించండి
+Submit Another Request,మరో అభ్యర్థన సమర్పించండి
+Submit Request,అభ్యర్థన సమర్పించండి
+Submitting...,సమర్పిస్తోంది...
+Successfully saved,విజయవంతంగా భద్రపరచబడింది
+Successors (Blocking),వారసులు (బ్లాక్ చేస్తోంది)
+Sun,ఆది
+Supplier,సరఫరాదారు
+Support,మద్దతు
+Switch to this event,ఈ ఈవెంట్‌కు మారండి
+Switch to this task,ఈ టాస్క్‌కు మారండి
+Sync direction is set to Frappe to Orga only,సింక్ దిశ Frappe నుండి Orgaకు మాత్రమే సెట్ చేయబడింది
+Sync direction is set to Orga to Frappe only,సింక్ దిశ Orga నుండి Frappeకు మాత్రమే సెట్ చేయబడింది
+Sync not enabled for this project,ఈ ప్రాజెక్ట్ కోసం సింక్ ఎనేబుల్ కాలేదు
+System,సిస్టమ్
+Table,పట్టిక
+Take ownership of this task,ఈ టాస్క్ యాజమాన్యం తీసుకోండి
+Target Date,లక్ష్య తేదీ
+Target End,లక్ష్య ముగింపు
+Target Project,లక్ష్య ప్రాజెక్ట్
+Target user is required for '{0}' action,'{0}' చర్యకు లక్ష్య యూజర్ అవసరం
+Task,టాస్క్
+task,టాస్క్
+Task '{0}' is due on {1}.,టాస్క్ '{0}' {1}న గడువు.
+Task and resource are required,టాస్క్ మరియు వనరు అవసరం
+Task Assignment,టాస్క్ అసైన్‌మెంట్
+Task cannot be its own parent,టాస్క్ దాని స్వంత పేరెంట్ కాలేదు
+Task cannot depend on itself,టాస్క్ తనపైన తాను ఆధారపడలేదు
+Task cannot depend on the group it belongs to,టాస్క్ అది చెందిన గ్రూప్‌పై ఆధారపడలేదు
+Task created,టాస్క్ సృష్టించబడింది
+Task deleted,టాస్క్ తొలగించబడింది
+Task description has been saved.,టాస్క్ వివరణ భద్రపరచబడింది.
+Task Details,టాస్క్ వివరాలు
+Task due in {0} days: {1},టాస్క్ {0} రోజుల్లో గడువు: {1}
+Task due today: {0},ఈ రోజు గడువు టాస్క్: {0}
+Task due tomorrow: {0},రేపు గడువు టాస్క్: {0}
+Task duplicated,టాస్క్ డూప్లికేట్ చేయబడింది
+Task Group,టాస్క్ గ్రూప్
+Task ID is required,టాస్క్ ID అవసరం
+Task is blocked by incomplete dependencies,అసంపూర్ణ డిపెండెన్సీల వల్ల టాస్క్ బ్లాక్ చేయబడింది
+Task is cancelled,టాస్క్ రద్దు చేయబడింది
+Task is completed,టాస్క్ పూర్తయింది
+Task is no longer blocked by a group,టాస్క్ ఇకపై గ్రూప్ ద్వారా బ్లాక్ కాలేదు
+Task is required for task context,టాస్క్ సందర్భం కోసం టాస్క్ అవసరం
+Task is required when tracking context is 'task',ట్రాకింగ్ సందర్భం 'task' అయినప్పుడు టాస్క్ అవసరం
+Task linked,టాస్క్ లింక్ చేయబడింది
+Task moved,టాస్క్ తరలించబడింది
+Task name,టాస్క్ పేరు
+Task name is required,టాస్క్ పేరు అవసరం
+Task removed from group,టాస్క్ గ్రూప్ నుండి తొలగించబడింది
+Task Subject,టాస్క్ విషయం
+Task subject is required,టాస్క్ విషయం అవసరం
+Task Type,టాస్క్ రకం
+Task unblocked: {0},టాస్క్ అన్‌బ్లాక్ చేయబడింది: {0}
+Task unlinked,టాస్క్ అన్‌లింక్ చేయబడింది
+Task updated,టాస్క్ నవీకరించబడింది
+Task {0} not found,టాస్క్ {0} కనుగొనబడలేదు
+Task {0} not in project {1},టాస్క్ {0} ప్రాజెక్ట్ {1}లో లేదు
+Task {0} to Frappe,టాస్క్ {0} Frappeకు
+Tasks,టాస్క్‌లు
+tasks,టాస్క్‌లు
+Tasks and milestones will be created with dates relative to the project start date.,టాస్క్‌లు మరియు మైలురాళ్లు ప్రాజెక్ట్ ప్రారంభ తేదీకి సంబంధించి తేదీలతో సృష్టించబడతాయి.
+Tasks assigned to you across all projects.,అన్ని ప్రాజెక్ట్‌లలో మీకు అసైన్ చేసిన టాస్క్‌లు.
+Tasks created:,సృష్టించబడిన టాస్క్‌లు:
+Tasks from projects you manage.,మీరు నిర్వహించే ప్రాజెక్ట్‌ల నుండి టాస్క్‌లు.
+Tasks updated:,నవీకరించబడిన టాస్క్‌లు:
+"Tasks, milestones, and dependencies have been created.","టాస్క్‌లు, మైలురాళ్లు మరియు డిపెండెన్సీలు సృష్టించబడ్డాయి."
+Tasks:,టాస్క్‌లు:
+TBD,నిర్ధారించబడాల్సింది
+Team,బృందం
+Team Members,బృంద సభ్యులు
+Template,టెంప్లేట్
+Template applied,టెంప్లేట్ వర్తింపజేయబడింది
+Template data is required in import data,దిగుమతి డేటాలో టెంప్లేట్ డేటా అవసరం
+Template has no data,టెంప్లేట్‌కు డేటా లేదు
+Template Name,టెంప్లేట్ పేరు
+Template name,టెంప్లేట్ పేరు
+Template name is required,టెంప్లేట్ పేరు అవసరం
+Template name is required in import data,దిగుమతి డేటాలో టెంప్లేట్ పేరు అవసరం
+Template saved,టెంప్లేట్ భద్రపరచబడింది
+Template updated successfully.,టెంప్లేట్ విజయవంతంగా నవీకరించబడింది.
+Template {0} not found,టెంప్లేట్ {0} కనుగొనబడలేదు
+Templates,టెంప్లేట్‌లు
+Tentative,తాత్కాలిక
+The comment has been deleted,వ్యాఖ్య తొలగించబడింది
+The project,ప్రాజెక్ట్
+The source document may have been deleted.,మూల డాక్యుమెంట్ తొలగించబడి ఉండవచ్చు.
+The source document will not be affected.,మూల డాక్యుమెంట్‌పై ప్రభావం ఉండదు.
+The status of '{0}' was changed from {1} to {2}.,'{0}' స్టేటస్ {1} నుండి {2}కు మార్చబడింది.
+Theme,థీమ్
+Theme preference,థీమ్ ప్రాధాన్యత
+This action,ఈ చర్య
+This action cannot be undone.,ఈ చర్యను తిరిగి పొందలేరు.
+This activity has been flagged for attention,ఈ యాక్టివిటీ దృష్టికి ఫ్లాగ్ చేయబడింది
+This is a reminder for your upcoming appointment,ఇది మీ రాబోయే అపాయింట్‌మెంట్ కోసం రిమైండర్
+This method is only meant for developer mode,ఈ మెథడ్ డెవలపర్ మోడ్ కోసం మాత్రమే
+This page wandered off,This page wandered off
+This Week,ఈ వారం
+This will delete all notes and preferences associated with this activity.,ఇది ఈ యాక్టివిటీతో అనుబంధించిన అన్ని నోట్స్ మరియు ప్రాధాన్యతలను తొలగిస్తుంది.
+This will import all Frappe Projects into Orga. Continue?,ఇది అన్ని Frappe ప్రాజెక్ట్‌లను Orgaలోకి దిగుమతి చేస్తుంది. కొనసాగించాలా?
+This will permanently delete,ఇది శాశ్వతంగా తొలగిస్తుంది
+This will permanently delete:,ఇది శాశ్వతంగా తొలగిస్తుంది:
+Thu,గురు
+Time,సమయం
+Time & Billing,సమయం & బిల్లింగ్
+Time & Revenue,సమయం & ఆదాయం
+Time Entries,సమయ ఎంట్రీలు
+Time log name is required,సమయ లాగ్ పేరు అవసరం
+Time Log not found,సమయ లాగ్ కనుగొనబడలేదు
+Time log {0} not found,సమయ లాగ్ {0} కనుగొనబడలేదు
+Time Logs,సమయ లాగ్‌లు
+Time Summary,సమయ సారాంశం
+Time Tracking,సమయ ట్రాకింగ్
+Timeline,టైమ్‌లైన్
+Timer active on,టైమర్ యాక్టివ్
+Timer is not running,టైమర్ నడవడం లేదు
+Timer Running,టైమర్ నడుస్తోంది
+Timer running,టైమర్ నడుస్తోంది
+Timesheet DocType not available,టైమ్‌షీట్ DocType అందుబాటులో లేదు
+Timesheets,టైమ్‌షీట్‌లు
+Timezone,టైమ్‌జోన్
+Timezone is detected from your browser,మీ బ్రౌజర్ నుండి టైమ్‌జోన్ గుర్తించబడింది
+Title,శీర్షిక
+Title cannot exceed 255 characters,శీర్షిక 255 అక్షరాలకు మించకూడదు
+Title is required,శీర్షిక అవసరం
+Title updated,శీర్షిక నవీకరించబడింది
+To,కు
+to,కు
+to cancel,రద్దు చేయడానికి
+to close,మూసివేయడానికి
+to confirm:,నిర్ధారించడానికి:
+to edit,సవరించడానికి
+"to save,","భద్రపరచడానికి,"
+To Time cannot be before From Time,ముగింపు సమయం ప్రారంభ సమయానికి ముందు ఉండకూడదు
+Today,ఈ రోజు
+today,ఈ రోజు
+Toggle billable,బిల్ చేయగలిగేది టాగుల్ చేయండి
+Toggle Details Panel,వివరాల ప్యానెల్ టాగుల్ చేయండి
+Toggle Manager Panel,మేనేజర్ ప్యానెల్ టాగుల్ చేయండి
+Toggle Sidebar,సైడ్‌బార్ టాగుల్ చేయండి
+Tomorrow,రేపు
+tomorrow,రేపు
+Total,మొత్తం
+Total Budget,మొత్తం బడ్జెట్
+Total Contacts,మొత్తం సంప్రదింపులు
+Total Cost,మొత్తం ఖర్చు
+Total Cost to Org,సంస్థకు మొత్తం ఖర్చు
+Total Defect Cost,మొత్తం లోపం ఖర్చు
+Total Hours,మొత్తం గంటలు
+Total Hours Logged,మొత్తం నమోదైన గంటలు
+Total Projects,మొత్తం ప్రాజెక్ట్‌లు
+Total Spent,మొత్తం ఖర్చు చేసింది
+Total Tasks,మొత్తం టాస్క్‌లు
+Total:,మొత్తం:
+Tracked,ట్రాక్ చేయబడింది
+trails to today while Open at 0%,0% వద్ద ఓపెన్‌లో ఉన్నప్పుడు ఈ రోజు వరకు ట్రెయిల్ అవుతుంది
+Tried:,Tried:
+Try adjusting your filter criteria,మీ ఫిల్టర్ ప్రమాణాలను సర్దుబాటు చేయడానికి ప్రయత్నించండి
+Try adjusting your filters.,మీ ఫిల్టర్లను సర్దుబాటు చేయడానికి ప్రయత్నించండి.
+Try Again,మళ్ళీ ప్రయత్నించండి
+Tue,మంగళ
+Type,రకం
+Type updated,రకం నవీకరించబడింది
+Type:,రకం:
+Typical response time: 1-2 business days,సాధారణ ప్రతిస్పందన సమయం: 1-2 వ్యాపార రోజులు
+Unarchive,ఆర్కైవ్ తీసివేయండి
+Unarchive Activity,యాక్టివిటీ ఆర్కైవ్ తీసివేయండి
+Unassign,అన్‌అసైన్ చేయండి
+Unassigned,అన్‌అసైన్ చేయబడింది
+Under Budget,బడ్జెట్ లోపల
+Ungrouped,గ్రూప్ చేయబడలేదు
+Unknown,తెలియనిది
+Unknown error,తెలియని లోపం
+Unlink failed,అన్‌లింక్ విఫలమైంది
+Unlink task from milestone,మైలురాయి నుండి టాస్క్ అన్‌లింక్ చేయండి
+Unpin,అన్‌పిన్
+Unpin Activity,యాక్టివిటీ అన్‌పిన్ చేయండి
+Unread,చదవనిది
+Unread only,చదవనివి మాత్రమే
+Until,వరకు
+Up to Date,Up to Date
+Upcoming,రాబోయే
+upcoming,రాబోయే
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,నవీకరణ విఫలమైంది
+Updated,నవీకరించబడింది
+Updated successfully,విజయవంతంగా నవీకరించబడింది
+Updates,Updates
+Upload,అప్‌లోడ్
+Upload failed,అప్‌లోడ్ విఫలమైంది
+Upload files below to attach them to this task.,ఈ టాస్క్‌కు జతచేయడానికి క్రింద ఫైళ్లను అప్‌లోడ్ చేయండి.
+Upload to project,ప్రాజెక్ట్‌కు అప్‌లోడ్ చేయండి
+Uploading...,అప్‌లోడ్ అవుతోంది...
+Urgent,అత్యవసరం
+User {0} is already linked to client {1},యూజర్ {0} ఇప్పటికే క్లయింట్ {1}కు లింక్ అయి ఉంది
+User {0} is already linked to resource {1},యూజర్ {0} ఇప్పటికే వనరు {1}కు లింక్ అయి ఉంది
+Utilization,వినియోగం
+Valid,చెల్లుబాటు అయ్యే
+Value:,విలువ:
+Variance,వ్యత్యాసం
+Variance:,వ్యత్యాసం:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,వీక్షించు
+View All,అన్నీ వీక్షించు
+View all active projects,అన్ని యాక్టివ్ ప్రాజెక్ట్‌లను వీక్షించు
+View all open tasks,అన్ని తెరిచిన టాస్క్‌లను వీక్షించు
+View overdue tasks,ఆలస్యమైన టాస్క్‌లను వీక్షించు
+View Release,View Release
+Visibility,కనిపించడం
+Waiting for this task,ఈ టాస్క్ కోసం వేచి ఉంది
+Waits for:,కోసం వేచి ఉంది:
+Warning: Resource {0} status is {1},హెచ్చరిక: వనరు {0} స్టేటస్ {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,హెచ్చరిక: HTTPS బదులు HTTP వాడుతోంది. Webhook పేలోడ్‌లు సురక్షితం కాకపోవచ్చు.
+Watch budget closely,బడ్జెట్‌ను జాగ్రత్తగా పరిశీలించండి
+We'll respond to:,మేము ప్రతిస్పందిస్తాము:
+Webhook deleted,Webhook తొలగించబడింది
+Webhook name is required,Webhook పేరు అవసరం
+Webhook not found,Webhook కనుగొనబడలేదు
+Webhook URL is required,Webhook URL అవసరం
+Webhook URL must start with http:// or https://,Webhook URL http:// లేదా https://తో ప్రారంభమవాలి
+Wed,బుధ
+Week,వారం
+Weekend,వారాంతం
+Weekly Capacity,వారపు సామర్థ్యం
+weekly capacity,వారపు సామర్థ్యం
+Weekly Capacity (h),వారపు సామర్థ్యం (గం)
+Welcome,స్వాగతం
+Welcome back!,తిరిగి స్వాగతం!
+Welcome to Orga,Orgaకు స్వాగతం
+What are you working on?,మీరు దేనిపై పని చేస్తున్నారు?
+What did you work on?,మీరు దేనిపై పని చేశారు?
+When,ఎప్పుడు
+When work begins,పని ప్రారంభమైనప్పుడు
+When work is due,పని గడువు అయినప్పుడు
+Where,ఎక్కడ
+Will capture:,క్యాప్చర్ చేస్తుంది:
+Will create:,సృష్టిస్తుంది:
+with checklist items,చెక్‌లిస్ట్ అంశాలతో
+Working,పని చేస్తోంది
+Workload,పనిభారం
+Workmanship,పనితనం
+Write a comment...,వ్యాఖ్య రాయండి...
+Write a comment... Use @name to mention (Ctrl+Enter to send),వ్యాఖ్య రాయండి... ప్రస్తావించడానికి @name వాడండి (పంపడానికి Ctrl+Enter)
+Year,సంవత్సరం
+Yes,అవును
+Yesterday,నిన్న
+yesterday,నిన్న
+You are not an attendee of this appointment,మీరు ఈ అపాయింట్‌మెంట్‌కు హాజరయ్యేవారు కాదు
+You are not linked to any resource,మీరు ఏ వనరుకూ లింక్ కాలేదు
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,మీరు మీ స్వంత వ్యాఖ్యలను మాత్రమే తొలగించగలరు
+You can only delete your own reactions,మీరు మీ స్వంత రియాక్షన్‌లను మాత్రమే తొలగించగలరు
+You do not have access to the client portal. Please contact support.,మీకు క్లయింట్ పోర్టల్‌కు యాక్సెస్ లేదు. దయచేసి మద్దతును సంప్రదించండి.
+You have already reacted with '{0}',మీరు ఇప్పటికే '{0}'తో రియాక్ట్ చేశారు
+You have been assigned to task '{0}' in project '{1}'.,మీరు ప్రాజెక్ట్ '{1}'లో టాస్క్ '{0}'కు అసైన్ చేయబడ్డారు.
+You have been assigned to: {0},మీరు దీనికి అసైన్ చేయబడ్డారు: {0}
+You have been invited to the following appointment,మీరు ఈ క్రింది అపాయింట్‌మెంట్‌కు ఆహ్వానించబడ్డారు
+You have no tasks assigned to you right now.,ప్రస్తుతం మీకు అసైన్ చేసిన టాస్క్‌లు లేవు.
+You were mentioned in {0},మీరు {0}లో ప్రస్తావించబడ్డారు
+Your attendance,మీ హాజరు
+Your comment has been posted,మీ వ్యాఖ్య పోస్ట్ చేయబడింది
+Your Projects,మీ ప్రాజెక్ట్‌లు
+Your projects will appear here once they're assigned to you.,మీ ప్రాజెక్ట్‌లు మీకు అసైన్ చేయబడిన తర్వాత ఇక్కడ కనిపిస్తాయి.
+Your Response,మీ ప్రతిస్పందన
+Your RSVP,మీ RSVP
+Your support request has been submitted successfully.,మీ మద్దతు అభ్యర్థన విజయవంతంగా సమర్పించబడింది.
+Your support request has been submitted successfully. We'll get back to you shortly.,మీ మద్దతు అభ్యర్థన విజయవంతంగా సమర్పించబడింది. మేము త్వరలో మీకు తిరిగి సమాధానం ఇస్తాము.
+"Your task ""{0}"" is no longer blocked and can now be started.","మీ టాస్క్ ""{0}"" ఇకపై బ్లాక్ కాలేదు మరియు ఇప్పుడు ప్రారంభించవచ్చు."
+{0} is required,{0} అవసరం
+{0} new activities,{0} కొత్త యాక్టివిటీలు
+{0} of {1} completed,{1}లో {0} పూర్తయింది
+{0} projects already migrated (will be skipped or updated),{0} ప్రాజెక్ట్‌లు ఇప్పటికే మైగ్రేట్ చేయబడ్డాయి (స్కిప్ లేదా నవీకరించబడతాయి)
+{0} status changed to {1},{0} స్టేటస్ {1}కు మార్చబడింది
+{0} tasks remaining,{0} టాస్క్‌లు మిగిలి ఉన్నాయి
+{0} tasks without projects will be skipped,ప్రాజెక్ట్‌లు లేని {0} టాస్క్‌లు స్కిప్ చేయబడతాయి
+{0} {1} not found,{0} {1} కనుగొనబడలేదు

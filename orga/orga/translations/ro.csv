@@ -1,0 +1,1492 @@
++ Add Milestone,+ Adaugă o etapă
++ Create Task,+ Creează o sarcină
++ Log Time,+ Înregistrează timpul
+-- Select a project --,-- Selectați un proiect --
+0m,0m
+1 day,1 zi
+1 day ago,acum 1 zi
+1 dependency,1 dependență
+1 entry,1 intrare
+1 file,1 fișier
+1 hour ago,acum 1 oră
+1 member,1 membru
+1 milestone,1 etapă
+1 month,1 lună
+1 task,1 sarcină
+< 1m,< 1m
+"A clear, actionable title for the task",Un titlu clar și concret pentru sarcină
+A client with email {0} already exists: {1},Un client cu adresa de e-mail {0} există deja: {1}
+A key deliverable or checkpoint for the project,Un livrabil cheie sau punct de control al proiectului
+Accept,Acceptă
+Accepted,Acceptat
+Acknowledge,Confirmă primirea
+across,în
+Action,Acțiune
+Actions,Acțiuni
+Active,Activ
+Active Assignments,Atribuiri active
+Active Projects,Proiecte active
+Activity,Activitate
+Activity data deleted successfully,Datele de activitate au fost șterse cu succes
+Activity Info,Informații despre activitate
+Activity Stats,Statistici de activitate
+Activity will appear here as you work on tasks and projects.,Activitatea va apărea aici pe măsură ce lucrați la sarcini și proiecte.
+Actual,Real
+Actual Cost,Cost real
+Actual cost cannot be negative,Costul real nu poate fi negativ
+Actual end date cannot be before actual start date,Data reală de finalizare nu poate fi anterioară datei reale de începere
+Actual Hours,Ore reale
+Add,Adaugă
+Add a checklist item...,Adăugați un element în lista de verificare...
+Add a comment...,Adăugați un comentariu...
+Add a comment... (Ctrl+Enter to send),Adăugați un comentariu... (Ctrl+Enter pentru a trimite)
+Add a description...,Adăugați o descriere...
+Add a milestone description...,Adăugați o descriere a etapei...
+Add a note below to annotate this activity.,Adăugați o notă mai jos pentru a adnota această activitate.
+Add a note...,Adăugați o notă...
+Add a project description...,Adăugați o descriere a proiectului...
+Add a task description...,Adăugați o descriere a sarcinii...
+Add checklist item...,Adăugați un element în lista de verificare...
+Add Contact,Adaugă un contact
+Add contacts via the Desk interface or clear filters,Adăugați contacte prin interfața Desk sau ștergeți filtrele
+Add Dependency,Adaugă o dependență
+Add details about this event...,Adăugați detalii despre acest eveniment...
+Add details about this milestone...,Adăugați detalii despre această etapă...
+Add details about this task...,Adăugați detalii despre această sarcină...
+Add details or acceptance criteria for this milestone,Adăugați detalii sau criterii de acceptare pentru această etapă
+"Add details, context, or acceptance criteria","Adăugați detalii, context sau criterii de acceptare"
+Add first dependency,Adăugați prima dependență
+Add item,Adaugă un element
+Add items below to track progress.,Adăugați elemente mai jos pentru a urmări progresul.
+Add items below to track subtasks,Adăugați elemente mai jos pentru a urmări subsarcinile
+Add Milestone,Adaugă o etapă
+Add Milestone (Shift+M),Adaugă o etapă (Shift+M)
+Add milestones to track key deliverables.,Adăugați etape pentru a urmări livrabilele cheie.
+Add New Contact,Adaugă un contact nou
+Add Note,Adaugă o notă
+Add note,Adaugă o notă
+Add notes about this contact...,Adăugați note despre acest contact...
+Add reaction,Adaugă o reacție
+Add Skill,Adaugă o competență
+Add start and due dates to tasks to see them on the Gantt chart,Adăugați date de început și de scadență la sarcini pentru a le vedea pe diagrama Gantt
+Add Task,Adaugă o sarcină
+Add Task (Shift+T),Adaugă o sarcină (Shift+T)
+Added Finish-to-Start dependency,Dependență Final-la-Început adăugată
+Adding this dependency would create a circular reference: {0},Adăugarea acestei dependențe ar crea o referință circulară: {0}
+Adding...,Se adaugă...
+Address,Adresă
+Advanced,Avansat
+All,Toate
+All Active,Toate active
+All Assignees,Toți atribuiții
+All Categories,Toate categoriile
+All caught up!,Totul la zi!
+All Contexts,Toate contextele
+All day,Toată ziua
+All day event,Eveniment pe toată ziua
+All fields,Toate câmpurile
+All Priorities,Toate prioritățile
+All Projects,Toate proiectele
+All Status,Toate stările
+All Statuses,Toate stările
+All task dependencies & relative dates,Toate dependențele sarcinilor și datele relative
+All Tasks,Toate sarcinile
+All tasks across all projects.,Toate sarcinile din toate proiectele.
+All tasks are already linked,Toate sarcinile sunt deja asociate
+All team members,Toți membrii echipei
+All Types,Toate tipurile
+All Users,Toți utilizatorii
+Allocated,Alocat
+allocated,alocat
+Allow users to log time against tasks,Permite utilizatorilor să înregistreze timp pentru sarcini
+Already exported to timesheet {0},Deja exportat în foaia de pontaj {0}
+Already Migrated,Deja migrat
+Anyone with access,Oricine are acces
+anytime to show this help,oricând pentru a afișa acest ajutor
+App Updates,App Updates
+Appearance,Aspect
+Apply,Aplică
+Apply cascade?,Aplicați efectul în cascadă?
+Apply Changes,Aplică modificările
+Apply failed,Aplicarea a eșuat
+Apply Template,Aplică un șablon
+Applying...,Se aplică...
+Appointment,Programare
+Appointment and resource are required,Programarea și resursa sunt obligatorii
+Appointment name is required,Numele programării este obligatoriu
+Appointment not found,Programare negăsită
+Appointment {0} not found,Programarea {0} nu a fost găsită
+Apps,Aplicații
+Archive,Arhivează
+Archive Activity,Arhivează activitatea
+Archived,Arhivat
+Are you sure you want to delete this activity data? This cannot be undone.,Sunteți sigur că doriți să ștergeți aceste date de activitate? Această acțiune este ireversibilă.
+Are you sure you want to delete this comment?,Sunteți sigur că doriți să ștergeți acest comentariu?
+Are you sure you want to delete this project?,Sunteți sigur că doriți să ștergeți acest proiect?
+Are you sure?,Sunteți sigur?
+Ascending -- click to reverse,Crescător -- faceți clic pentru a inversa
+Assign To,Atribuie la
+Assign to Me,Atribuie-mi mie
+Assigned Contact,Contact atribuit
+Assigned To,Atribuit la
+Assigned to,Atribuit la
+Assigned to Me,Atribuit mie
+Assignee,Atribuit
+Assignment,Atribuire
+Assignment History,Istoric de atribuiri
+Assignment name is required,Numele atribuirii este obligatoriu
+Assignment {0} not found,Atribuirea {0} nu a fost găsită
+Assignments,Atribuiri
+At least one action is required,Este necesară cel puțin o acțiune
+At least one event is required,Este necesar cel puțin un eveniment
+At least one event must be selected,Trebuie selectat cel puțin un eveniment
+Attachment,Atașament
+Attachments,Atașamente
+Attendees,Participanți
+"Audit trail, assignments, version history","Jurnal de audit, atribuiri, istoric al versiunilor"
+Auto,Automat
+Auto Calculate Progress,Calculează automat progresul
+Auto Set Missed Milestones,Marchează automat etapele ratate
+Auto-shift dependents when dates change,Deplasează automat dependenții la modificarea datelor
+Auto-Trail Start,Început automat prin alunecare
+Auto-Trail updated,Început automat prin alunecare actualizat
+Automatically calculate project progress from task completion,Calculează automat progresul proiectului pe baza finalizării sarcinilor
+Automatically mark milestones as missed when overdue,Marchează automat etapele ca ratate când sunt depășite
+Automation rule {0} not found,Regula de automatizare {0} nu a fost găsită
+Automation: {0},Automatizare: {0}
+Availability,Disponibilitate
+Available,Disponibil
+Avatar updated successfully,Avatarul a fost actualizat cu succes
+Avg Progress,Progres mediu
+Back,Înapoi
+Back to Portal,Înapoi la portal
+Back to Projects,Înapoi la proiecte
+Beginner,Începător
+Best regards,Cu stimă
+Billable,Facturabil
+Billable Amount,Sumă facturabilă
+Billable Hours,Ore facturabile
+Billable Rate,Tarif facturabil
+Billing Rate,Tarif de facturare
+Blocked,Blocat
+Both dates are needed to display task as a bar in Gantt chart,Ambele date sunt necesare pentru a afișa sarcina ca bară în diagrama Gantt
+Both doctype and docname are required,Sunt necesare atât doctype cât și docname
+Both proposed start and end times are required,Sunt necesare atât ora de început cât și ora de finalizare propuse
+Both task_name and depends_on are required,Sunt necesare atât task_name cât și depends_on
+Breadcrumb,Traseu de navigare
+Brief description of the defect or damage,Scurtă descriere a defectului sau deteriorării
+Brief description of this template,Scurtă descriere a acestui șablon
+Brief description of your request,Scurtă descriere a solicitării dumneavoastră
+Brief project description,Scurtă descriere a proiectului
+Budget,Buget
+Budget at risk,Buget în pericol
+Budget Burn Rate,Ritm de consum al bugetului
+Budget Status,Starea bugetului
+Budget updated,Buget actualizat
+Budget:,Buget:
+Bug,Eroare
+Burn Rate,Ritm de consum
+Busy,Ocupat
+By,De
+By Assignee,După atribuit
+By Group,După grup
+By Milestone,După etapă
+By Priority,După prioritate
+By Status,După stare
+Cancel,Anulează
+Cancelled,Anulat
+cannot be undone,ireversibil
+Cannot delete client with {0} linked projects. Unlink projects first.,Nu se poate șterge clientul cu {0} proiecte asociate. Disociați mai întâi proiectele.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Nu se poate șterge proiectul cu {0} sarcini asociate. Ștergeți mai întâi sarcinile.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Nu se poate șterge resursa cu {0} atribuiri active. Finalizați-le sau anulați-le mai întâi.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Nu se poate șterge sarcina cu {0} subsarcini. Ștergeți mai întâi subsarcinile.
+Capacity,Capacitate
+capacity,capacitate
+Capacity & Rates,Capacitate și tarife
+Capture project structure for reuse,Salvează structura proiectului pentru reutilizare
+Cascade,Cascadă
+Cascade Preview,Previzualizare în cascadă
+Category,Categorie
+Celebrate,Sărbătorește
+Change,Modifică
+Change History,Istoric de modificări
+Change Priority,Schimbă prioritatea
+Change Status,Schimbă starea
+Changes,Modificări
+Changes appear when fields are modified.,Modificările apar când câmpurile sunt schimbate.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Listă de verificare
+Checklist item name is required,Numele elementului din lista de verificare este obligatoriu
+Checklist item not found,Element din lista de verificare negăsit
+Checklist item title is required,Titlul elementului din lista de verificare este obligatoriu
+Checklist item {0} not found,Elementul {0} din lista de verificare nu a fost găsit
+Checklist item {0} not found in task,Elementul {0} din lista de verificare nu a fost găsit în sarcină
+Child,Copil
+Choose file to upload,Alegeți un fișier de încărcat
+Circular dependency detected: {0},Dependență circulară detectată: {0}
+Circular parent-child relationship detected,Relație circulară părinte-copil detectată
+Clear,Șterge
+Clear all read,Șterge toate cele citite
+Clear date,Șterge data
+Click on an activity from the list to view and manage its details.,Faceți clic pe o activitate din listă pentru a-i vedea și gestiona detaliile.
+Click the avatar to upload a new photo,Faceți clic pe avatar pentru a încărca o fotografie nouă
+Click to add description...,Faceți clic pentru a adăuga o descriere...
+Click to add notes...,Faceți clic pentru a adăuga note...
+Click to assign contact,Faceți clic pentru a atribui un contact
+Click to change status,Faceți clic pentru a schimba starea
+Click to change type,Faceți clic pentru a schimba tipul
+Click to edit,Faceți clic pentru a edita
+Click to edit budget,Faceți clic pentru a edita bugetul
+Click to edit description,Faceți clic pentru a edita descrierea
+Click to edit end date,Faceți clic pentru a edita data de finalizare
+Click to edit milestone name,Faceți clic pentru a edita numele etapei
+Click to edit rate,Faceți clic pentru a edita tariful
+Click to edit start date,Faceți clic pentru a edita data de începere
+Click to edit title,Faceți clic pentru a edita titlul
+Click to load,Faceți clic pentru a încărca
+Click to set group dependency...,Faceți clic pentru a stabili o dependență de grup...
+Click to set group...,Faceți clic pentru a stabili grupul...
+Click to view,Faceți clic pentru a vedea
+Click to view at-risk projects,Faceți clic pentru a vedea proiectele în pericol
+Click to view critical projects,Faceți clic pentru a vedea proiectele critice
+Click to view healthy projects,Faceți clic pentru a vedea proiectele sănătoase
+Client,Client
+Client already has a portal user: {0},Clientul are deja un utilizator de portal: {0}
+Client already has portal access,Clientul are deja acces la portal
+Client has no portal user to revoke,Clientul nu are niciun utilizator de portal de revocat
+Client link removed from project {0},Legătura cu clientul a fost eliminată din proiectul {0}
+Client Portal,Portalul clientului
+Client {0} deleted successfully,Clientul {0} a fost șters cu succes
+Close,Închide
+Close (Esc),Închide (Esc)
+Comment,Comentariu
+comment,comentariu
+Comment added,Comentariu adăugat
+Comment content is required,Conținutul comentariului este obligatoriu
+Comment name is required,Numele comentariului este obligatoriu
+Comment not found,Comentariu negăsit
+Comment removed,Comentariu eliminat
+Comment {0} not found in task,Comentariul {0} nu a fost găsit în sarcină
+Comments,Comentarii
+comments,comentarii
+Community Edition,Community Edition
+Company,Companie
+Company name...,Numele companiei...
+Complete,Finalizează
+Completed,Finalizat
+completed,finalizat
+Completed Tasks,Sarcini finalizate
+Compliance,Conformitate
+Configure default values for new projects and tasks,Configurați valorile implicite pentru proiecte și sarcini noi
+Configure email notification settings,Configurați setările de notificare prin e-mail
+Confirm,Confirmă
+Contact deleted,Contact șters
+Contact Details,Detalii contact
+Contact Information,Informații de contact
+Contact name is required,Numele contactului este obligatoriu
+Contact Support,Contactați asistența
+Contact your project manager for more information.,Contactați responsabilul de proiect pentru mai multe informații.
+Contact:,Contact:
+Contacts,Contacte
+Context,Context
+Contractor,Antreprenor
+Cost estimate cannot be negative,Estimarea costurilor nu poate fi negativă
+Cost Impact,Impact asupra costurilor
+Cost Summary,Rezumat costuri
+Could not apply the template. Please try again.,Șablonul nu a putut fi aplicat. Vă rugăm încercați din nou.
+Could not attach file to project,Fișierul nu a putut fi atașat la proiect
+Could not change task priority,Prioritatea sarcinii nu a putut fi schimbată
+Could not change task status,Starea sarcinii nu a putut fi schimbată
+Could not delete the project. Please try again.,Proiectul nu a putut fi șters. Vă rugăm încercați din nou.
+Could not delete the task. Please try again.,Sarcina nu a putut fi ștearsă. Vă rugăm încercați din nou.
+Could not delete the template.,Șablonul nu a putut fi șters.
+Could not duplicate the task. Please try again.,Sarcina nu a putut fi duplicată. Vă rugăm încercați din nou.
+Could not export the template.,Șablonul nu a putut fi exportat.
+Could not import the template. Please check the file format.,Șablonul nu a putut fi importat. Vă rugăm verificați formatul fișierului.
+Could not link task to milestone,Sarcina nu a putut fi asociată cu etapa
+Could not load document details.,Detaliile documentului nu au putut fi încărcate.
+Could not load task details,Detaliile sarcinii nu au putut fi încărcate
+Could not promote checklist item to task.,Elementul din lista de verificare nu a putut fi promovat în sarcină.
+Could not remove task from milestone,Sarcina nu a putut fi eliminată din etapă
+Could not save budget.,Bugetul nu a putut fi salvat.
+Could not save changes to the milestone,Modificările etapei nu au putut fi salvate
+Could not save changes to the task,Modificările sarcinii nu au putut fi salvate
+Could not save description.,Descrierea nu a putut fi salvată.
+Could not save end date.,Data de finalizare nu a putut fi salvată.
+Could not save milestone name.,Numele etapei nu a putut fi salvat.
+Could not save start date.,Data de începere nu a putut fi salvată.
+Could not save the template. Please try again.,Șablonul nu a putut fi salvat. Vă rugăm încercați din nou.
+Could not save title.,Titlul nu a putut fi salvat.
+Could not update dependency mode.,Modul de dependență nu a putut fi actualizat.
+Could not update milestone date,Data etapei nu a putut fi actualizată
+Could not update project status.,Starea proiectului nu a putut fi actualizată.
+Could not update project type.,Tipul proiectului nu a putut fi actualizat.
+Could not update setting.,Setarea nu a putut fi actualizată.
+Could not update task dates,Datele sarcinii nu au putut fi actualizate
+Could not update task status,Starea sarcinii nu a putut fi actualizată
+Could not update the template.,Șablonul nu a putut fi actualizat.
+Create a copy of this task,Creează o copie a acestei sarcini
+Create Contact,Creează un contact
+Create Event,Creează un eveniment
+Create Milestone,Creează o etapă
+Create New Milestone,Creează o etapă nouă
+Create New Task,Creează o sarcină nouă
+Create Project,Creează un proiect
+Create Task,Creează o sarcină
+Create tasks and milestones from a template,Creează sarcini și etape dintr-un șablon
+Create your first project to get started.,Creați primul proiect pentru a începe.
+Create your first task to start tracking work on this project.,Creați prima sarcină pentru a începe să urmăriți activitatea pe acest proiect.
+Created,Creat
+Creating...,Se creează...
+Critical,Critic
+Critical Path,Drum critic
+"Currency used for budgets, costs, and billing rates","Moneda folosită pentru bugete, costuri și tarife de facturare"
+Current,Curent
+Current Assignments,Atribuiri curente
+Current scheduled time:,Orar programat curent:
+Currently running version,Currently running version
+d lag,z decalaj
+Daily Availability,Disponibilitate zilnică
+Daily Hours,Ore zilnice
+Danger Zone,Zonă periculoasă
+Dark,Întunecat
+Dashboard,Tablou de bord
+Date,Dată
+Date changes on this task will show cascade impact here,Modificările de date ale acestei sarcini vor arăta impactul în cascadă aici
+Date cleared,Dată ștearsă
+Date of Joining,Data angajării
+Date updated,Dată actualizată
+Dates,Date
+Dates cascaded,Date propagate în cascadă
+Dates will be relative to the project's start date.,Datele vor fi relative la data de începere a proiectului.
+Day,Zi
+day,zi
+days,zile
+Days before due date to send reminder,Zile înainte de scadență pentru trimiterea unui memento
+Days Overdue,Zile de întârziere
+Days Remaining,Zile rămase
+Deadline,Termen limită
+Deadlines,Termene limită
+Decision,Decizie
+Decline,Refuză
+Declined,Refuzat
+Default Currency,Monedă implicită
+Default hours per week for contact capacity planning,Ore implicite pe săptămână pentru planificarea capacității contactelor
+Default Priority,Prioritate implicită
+Default Project Status,Stare implicită a proiectului
+Default Task Status,Stare implicită a sarcinii
+Default task view,Vizualizare implicită a sarcinilor
+Default Values,Valori implicite
+Default Weekly Capacity,Capacitate săptămânală implicită
+Defaults,Valori implicite
+Defect Cost Impact,Impact financiar al defectului
+Defect name is required,Numele defectului este obligatoriu
+Defect Type,Tip de defect
+Defect {0} not found,Defectul {0} nu a fost găsit
+Defects,Defecte
+Defects & Issues,Defecte și probleme
+Defects Resolved,Defecte rezolvate
+Delayed,Întârziat
+Delete,Șterge
+Delete Activity Data,Șterge datele de activitate
+Delete all read notifications?,Ștergeți toate notificările citite?
+Delete comment,Șterge comentariul
+Delete Contact,Șterge contactul
+Delete Event,Șterge evenimentul
+Delete Event?,Ștergeți evenimentul?
+Delete failed,Ștergerea a eșuat
+Delete file,Șterge fișierul
+Delete item,Șterge elementul
+Delete note,Șterge nota
+Delete Project,Șterge proiectul
+Delete Task,Șterge sarcina
+Delete this project,Șterge acest proiect
+Deleted,Șters
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Proiectul ""{0}"" a fost șters ({1} sarcini, {2} etape)"
+Deletes notes and preferences. Source document is not affected.,Șterge notele și preferințele. Documentul sursă nu este afectat.
+Deleting...,Se șterge...
+Department,Departament
+Dependencies,Dependențe
+dependencies,dependențe
+Dependencies are informational only,Dependențele sunt doar informative
+dependency,dependență
+Dependency already exists,Dependența există deja
+Dependency Chain,Lanț de dependențe
+Dependency created,Dependență creată
+Dependency mode updated,Mod de dependență actualizat
+Dependency name is required,Numele dependenței este obligatoriu
+Dependency task {0} not found,Sarcina de dependență {0} nu a fost găsită
+Dependency {0} not found,Dependența {0} nu a fost găsită
+depends,depinde
+Depends on Group,Depinde de grup
+Depends on task is required,Sarcina de dependență este obligatorie
+depends on...,depinde de...
+Descending -- click to reverse,Descrescător -- faceți clic pentru a inversa
+Describe the defect in detail...,Descrieți defectul în detaliu...
+Description,Descriere
+Description updated,Descriere actualizată
+Designation,Funcție
+"Detailed description of the defect, location, and impact","Descriere detaliată a defectului, locației și impactului"
+Details,Detalii
+Discard timer,Anulează cronometrul
+Discussion,Discuție
+Dismiss,Dismiss
+Display,Afișare
+Document,Document
+Document attached to project,Document atașat la proiect
+Document final decision and rationale,Documentează decizia finală și argumentele
+Documentation Review,Verificare documentară
+Documents,Documente
+Done,Terminat
+Download,Descarcă
+Drag to create dependency,Trageți pentru a crea o dependență
+Dry Run,Simulare
+Dry Run Complete,Simulare finalizată
+Due Date,Dată scadentă
+Due date,Dată scadentă
+Due Date (Earliest),Dată scadentă (cea mai apropiată)
+Due date cannot be before start date,Data scadentă nu poate fi anterioară datei de începere
+Due date is in the past,Data scadentă este în trecut
+Due Date Reminders,Memento-uri pentru data scadentă
+Due Diligence,Verificare prealabilă
+Due Diligence Checklist,Lista de verificare prealabilă
+Due This Week,Scadent săptămâna aceasta
+Due:,Scadent:
+Duplicate events are not allowed,Evenimentele duplicate nu sunt permise
+Duplicate failed,Duplicarea a eșuat
+Duplicate Task,Duplică sarcina
+Duration,Durată
+Duration Summary,Rezumatul duratei
+Duration:,Durată:
+e.g. Cracked wall finish in bathroom...,de ex. Finisaj crăpat pe peretele din baie...
+"e.g. Electrical, Plumbing...","de ex. Electricitate, Instalații sanitare..."
+Edit,Editează
+Edit (E),Editează (E)
+Edit dependency,Editează dependența
+Edit Event,Editează evenimentul
+Efficiency,Eficiență
+Either dependency_name or depends_on is required,Este necesar fie dependency_name fie depends_on
+Email,E-mail
+Email invitations to all attendees,Invitații prin e-mail către toți participanții
+Email is required to create portal user,Adresa de e-mail este necesară pentru crearea unui utilizator de portal
+Email notifications,Notificări prin e-mail
+Employee,Angajat
+Employee DocType not available,DocType Angajat indisponibil
+Employee not found,Angajat negăsit
+Enable or disable optional features,Activează sau dezactivează funcționalități opționale
+Enable Time Tracking,Activează urmărirea timpului
+End,Sfârșit
+End Date,Dată de finalizare
+End date,Dată de finalizare
+End Date cannot be before Start Date,Data de finalizare nu poate fi anterioară datei de începere
+End date cannot be before start date,Data de finalizare nu poate fi anterioară datei de începere
+End date updated,Dată de finalizare actualizată
+End time was before start time. Adjusted to 1 hour after start.,Ora de sfârșit era înainte de ora de început. A fost ajustată la 1 oră după începere.
+End:,Sfârșit:
+Enter milestone name...,Introduceți numele etapei...
+Enter project name,Introduceți numele proiectului
+Enter task title...,Introduceți titlul sarcinii...
+Enter template name,Introduceți numele șablonului
+Enter your note... Use @name to mention someone,Introduceți nota... Utilizați @nume pentru a menționa pe cineva
+Error,Eroare
+Error loading activity,Eroare la încărcarea activității
+Error loading contacts,Eroare la încărcarea contactelor
+Error loading dashboard,Eroare la încărcarea tabloului de bord
+Error loading project,Eroare la încărcarea proiectului
+Error loading projects,Eroare la încărcarea proiectelor
+Error loading settings,Eroare la încărcarea setărilor
+Error loading tasks,Eroare la încărcarea sarcinilor
+Error loading templates,Eroare la încărcarea șabloanelor
+Est. Hours,Ore est.
+Estimated,Estimat
+Estimated Cost,Cost estimat
+Estimated Cost (€),Cost estimat (€)
+Estimated Hours,Ore estimate
+Estimated:,Estimat:
+Evaluate potential risks and concerns,Evaluați riscurile și preocupările potențiale
+Event,Eveniment
+Event is required for event context,Evenimentul este obligatoriu pentru contextul de eveniment
+Event is required when tracking context is 'event',Evenimentul este obligatoriu când contextul de urmărire este «eveniment»
+Event Type,Tip de eveniment
+Events,Evenimente
+Events not available. Please run: bench --site orga.localhost migrate,Evenimentele nu sunt disponibile. Vă rugăm executați: bench --site orga.localhost migrate
+Events:,Evenimente:
+Expert,Expert
+Explain why you are proposing a different time...,Explicați de ce propuneți un alt orar...
+Export,Exportă
+Export failed,Exportul a eșuat
+Export JSON,Exportă în JSON
+Exported,Exportat
+Exported to timesheet {0},Exportat în foaia de pontaj {0}
+External,Extern
+Failed to add item,Elementul nu a putut fi adăugat
+Failed to add note,Nota nu a putut fi adăugată
+Failed to add skill,Competența nu a putut fi adăugată
+Failed to apply cascade changes: {0},Modificările în cascadă nu au putut fi aplicate: {0}
+Failed to create defect,Defectul nu a putut fi creat
+Failed to create dependency,Dependența nu a putut fi creată
+Failed to create event,Evenimentul nu a putut fi creat
+Failed to create milestone,Etapa nu a putut fi creată
+Failed to create project,Proiectul nu a putut fi creat
+Failed to create task,Sarcina nu a putut fi creată
+Failed to create time log,Înregistrarea de timp nu a putut fi creată
+Failed to delete,Ștergerea a eșuat
+Failed to delete comment,Comentariul nu a putut fi șters
+Failed to delete contact,Contactul nu a putut fi șters
+Failed to load,Încărcarea a eșuat
+Failed to load activity,Activitatea nu a putut fi încărcată
+Failed to load assignments,Atribuirile nu au putut fi încărcate
+Failed to load contact,Contactul nu a putut fi încărcat
+Failed to load dashboard data,Datele tabloului de bord nu au putut fi încărcate
+Failed to load defects,Defectele nu au putut fi încărcate
+Failed to load events,Evenimentele nu au putut fi încărcate
+Failed to load project,Proiectul nu a putut fi încărcat
+Failed to load projects,Proiectele nu au putut fi încărcate
+Failed to load report data,Datele raportului nu au putut fi încărcate
+Failed to load settings,Setările nu au putut fi încărcate
+Failed to load tasks,Sarcinile nu au putut fi încărcate
+Failed to move task,Sarcina nu a putut fi mutată
+Failed to post comment,Comentariul nu a putut fi publicat
+Failed to propose new time,Noul orar nu a putut fi propus
+Failed to remove item,Elementul nu a putut fi eliminat
+Failed to remove skill,Competența nu a putut fi eliminată
+Failed to reorder milestones: {0},Etapele nu au putut fi reordonate: {0}
+Failed to reorder tasks: {0},Sarcinile nu au putut fi reordonate: {0}
+Failed to reschedule dependent tasks: {0},Sarcinile dependente nu au putut fi reprogramate: {0}
+Failed to save,Salvarea a eșuat
+Failed to save preferences,Preferințele nu au putut fi salvate
+Failed to save settings,Setările nu au putut fi salvate
+Failed to submit request. Please try again.,Solicitarea nu a putut fi trimisă. Vă rugăm încercați din nou.
+Failed to update item,Elementul nu a putut fi actualizat
+Failed to update priority,Prioritatea nu a putut fi actualizată
+Failed to update task,Sarcina nu a putut fi actualizată
+Failed to update tasks: {0},Sarcinile nu au putut fi actualizate: {0}
+Failed to upload avatar,Avatarul nu a putut fi încărcat
+Feature,Funcționalitate
+Features,Funcționalități
+FF (Finish-Finish),FF (Final-Final)
+FF - Finish-to-Finish,FF - Final-la-Final
+Field has been updated,Câmpul a fost actualizat
+Field name is required for 'Set Field Value' action,Numele câmpului este obligatoriu pentru acțiunea «Setează valoarea câmpului»
+Field {0} is not a Link field,Câmpul {0} nu este un câmp de tip Legătură
+Field {0} not found in {1},Câmpul {0} nu a fost găsit în {1}
+File,Fișier
+file,fișier
+File does not belong to this task,Fișierul nu aparține acestei sarcini
+File name is required,Numele fișierului este obligatoriu
+File uploaded,Fișier încărcat
+File {0} not found,Fișierul {0} nu a fost găsit
+Files,Fișiere
+files,fișiere
+Filter,Filtru
+Final Decision,Decizie finală
+Finance,Finanțe
+Financial,Financiar
+Finish-to-Finish,Final-la-Final
+Finish-to-Start,Final-la-Început
+Flag,Semnalează
+Flag for attention,Semnalează pentru atenție
+Flagged,Semnalat
+Focus Panel,Panou de focalizare
+Follows your system preference. Currently:,Urmează preferința sistemului. În prezent:
+Frappe Project {0} not found,Proiectul Frappe {0} nu a fost găsit
+Frappe Projects Migration,Migrare Frappe Projects
+Frappe Projects module not available,Modulul Frappe Projects nu este disponibil
+Frappe Projects module not installed,Modulul Frappe Projects nu este instalat
+Frappe Projects sync is not enabled,Sincronizarea Frappe Projects nu este activată
+Frappe Task DocType not found,DocType Sarcină Frappe negăsit
+Frappe Task has no project,Sarcina Frappe nu are niciun proiect
+Frappe Task {0} not found,Sarcina Frappe {0} nu a fost găsită
+Fri,Vi
+From,De la
+From Template,Din șablon
+FS (Finish-Start),FS (Final-Început)
+FS - Finish-to-Start (default),FS - Final-la-Început (implicit)
+Full form view with audit trail,Vizualizare completă a formularului cu jurnal de audit
+Full name,Nume complet
+Gantt,Gantt
+Gantt Chart,Diagramă Gantt
+Gantt View,Vizualizare Gantt
+General Note,Notă generală
+Get started,Începeți
+Go back,Înapoi
+Go Back,Go Back
+Group by,Grupează după
+Group dependency removed,Dependență de grup eliminată
+Group dependency set,Dependență de grup stabilită
+Group removed,Grup eliminat
+Group updated,Grup actualizat
+Hammock task dates are auto-calculated and cannot be changed manually,Datele sarcinilor hamac sunt calculate automat și nu pot fi modificate manual
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Aveți o întrebare sau aveți nevoie de asistență? Completați formularul de mai jos și echipa noastră vă va răspunde.
+Health,Sănătate
+Healthy,Sănătos
+Hello {0},Bună ziua {0}
+Here's what's happening with your projects today.,Iată ce se întâmplă cu proiectele dumneavoastră astăzi.
+Hide,Ascunde
+High,Ridicată
+History,Istoric
+Home,Acasă
+Hourly Cost,Cost pe oră
+Hours,Ore
+hours,ore
+Hours Logged,Ore înregistrate
+ID,ID
+Image must be smaller than 5 MB,Imaginea trebuie să fie mai mică de 5 MB
+Import,Importă
+Import existing projects and tasks from Frappe Projects module,Importați proiecte și sarcini existente din modulul Frappe Projects
+Import failed,Importul a eșuat
+Import Template,Importă un șablon
+Imported,Importat
+in,în
+In Progress,În desfășurare
+In Review,În revizuire
+In-app notifications,Notificări în aplicație
+Inactive,Inactiv
+Initial Review,Revizuire inițială
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Permisiuni insuficiente pentru a vedea toate sarcinile
+Intermediate,Intermediar
+Internal,Intern
+Invalid DocType,DocType nevalid
+Invalid DocType for import,DocType nevalid pentru import
+Invalid item type: {0},Tip de element nevalid: {0}
+Invalid JSON data,Date JSON nevalide
+Invalid note type. Must be one of: {0},Tip de notă nevalid. Trebuie să fie unul dintre: {0}
+Invalid project reference,Referință de proiect nevalidă
+Invalid reaction type. Must be one of: {0},Tip de reacție nevalid. Trebuie să fie unul dintre: {0}
+Invalid RSVP status,Stare RSVP nevalidă
+Invalid status. Must be one of: {0},Stare nevalidă. Trebuie să fie una dintre: {0}
+Invalid status: {0},Stare nevalidă: {0}
+Invalid status: {0}. Must be one of: {1},Stare nevalidă: {0}. Trebuie să fie una dintre: {1}
+Invalid tracking context: {0},Context de urmărire nevalid: {0}
+Invalid visibility. Must be one of: {0},Vizibilitate nevalidă. Trebuie să fie una dintre: {0}
+Invitation: {0} - {1} at {2},Invitație: {0} - {1} la {2}
+Invite People,Invită persoane
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Element adăugat
+Item ID is required,Identificatorul elementului este obligatoriu
+Item removed,Element eliminat
+Item type is required,Tipul elementului este obligatoriu
+Item {0} not found,Elementul {0} nu a fost găsit
+Job title or role,Funcția sau rolul
+Join Meeting,Participă la întâlnire
+Just now,Chiar acum
+just now,chiar acum
+Kanban,Kanban
+Kanban Board,Tablou Kanban
+Kanban View,Vizualizare Kanban
+Keyboard Shortcuts,Scurtături de tastatură
+Keyboard shortcuts (?),Scurtături de tastatură (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Ultima actualizare
+Last updated:,Ultima actualizare:
+Last Week,Săptămâna trecută
+Latest Version,Latest Version
+Light,Luminos
+Link failed,Asocierea a eșuat
+Link Task,Asociază o sarcină
+Linked,Asociat
+Linked employee not found,Angajat asociat negăsit
+Linked Tasks,Sarcini asociate
+List,Listă
+List View,Vizualizare listă
+Load failed,Încărcarea a eșuat
+Load More,Încarcă mai mult
+Load more comments,Încarcă mai multe comentarii
+Loading activity...,Se încarcă activitatea...
+Loading changes...,Se încarcă modificările...
+Loading checklist...,Se încarcă lista de verificare...
+Loading comments...,Se încarcă comentariile...
+Loading contact...,Se încarcă contactul...
+Loading contacts...,Se încarcă contactele...
+Loading dependencies...,Se încarcă dependențele...
+Loading details...,Se încarcă detaliile...
+Loading discussion...,Se încarcă discuția...
+Loading events...,Se încarcă evenimentele...
+Loading files...,Se încarcă fișierele...
+Loading notes...,Se încarcă notele...
+Loading preferences...,Se încarcă preferințele...
+Loading project...,Se încarcă proiectul...
+Loading projects...,Se încarcă proiectele...
+Loading replies...,Se încarcă răspunsurile...
+Loading report data...,Se încarcă datele raportului...
+Loading settings...,Se încarcă setările...
+Loading task...,Se încarcă sarcina...
+Loading templates...,Se încarcă șabloanele...
+Loading time logs...,Se încarcă înregistrările de timp...
+Loading your portal...,Se încarcă portalul dumneavoastră...
+Loading...,Se încarcă...
+Location,Locație
+Log Time,Înregistrează timpul
+Logout,Deconectare
+Low,Scăzută
+Make Offer,Fă o ofertă
+Manager,Responsabil
+Manual Entry,Introducere manuală
+Margin,Marjă
+Mark all as read,Marchează toate ca citite
+Mark all read,Marchează toate ca citite
+Mark as read,Marchează ca citit
+Mark as unread,Marchează ca necitit
+Mark read,Marchează ca citit
+Marking...,Se marchează...
+Material,Material
+Maybe,Poate
+Medium,Medie
+Meeting,Întâlnire
+Meeting Link,Link întâlnire
+Meeting title,Titlul întâlnirii
+Meeting URL,URL întâlnire
+Meetings,Întâlniri
+Mention,Menționează
+Message,Mesaj
+Message is required,Mesajul este obligatoriu
+Message is required for '{0}' action,Mesajul este obligatoriu pentru acțiunea «{0}»
+Migrate,Migrează
+Migration Complete,Migrare finalizată
+Migration ID:,ID de migrare:
+Migration log not found: {0},Jurnalul de migrare nu a fost găsit: {0}
+Milestone,Etapă
+milestone,etapă
+Milestone created,Etapă creată
+Milestone description has been saved.,Descrierea etapei a fost salvată.
+Milestone ID is required,Identificatorul etapei este obligatoriu
+Milestone marked as Missed (past due date),Etapă marcată ca ratată (dată scadentă depășită)
+Milestone moved,Etapă mutată
+Milestone Name,Numele etapei
+Milestone name has been saved.,Numele etapei a fost salvat.
+Milestone name is required,Numele etapei este obligatoriu
+Milestone updated,Etapă actualizată
+Milestone {0} not found,Etapa {0} nu a fost găsită
+Milestone {0} not in project {1},Etapa {0} nu se află în proiectul {1}
+Milestones,Etape
+milestones,etape
+Milestones:,Etape:
+Minutes,Minute
+Missed,Ratat
+Mixed,Mixt
+Mobile,Mobil
+Moderate,Moderat
+Modified,Modificat
+"Modify details, time, or attendees","Modifică detalii, ora sau participanții"
+Mon,Lu
+Month,Lună
+Move failed,Mutarea a eșuat
+Must be a positive number,Trebuie să fie un număr pozitiv
+Must finish before this finishes,Trebuie să se termine înainte ca aceasta să se termine
+Must finish before this starts,Trebuie să se termine înainte ca aceasta să înceapă
+Must start before this finishes,Trebuie să înceapă înainte ca aceasta să se termine
+Must start before this starts,Trebuie să înceapă înainte ca aceasta să înceapă
+My Assignments,Atribuirile mele
+My Projects,Proiectele mele
+My Schedule,Programul meu
+My Tasks,Sarcinile mele
+N/A,N/D
+Name,Nume
+Name (A-Z),Nume (A-Z)
+Name (Z-A),Nume (Z-A)
+Name cannot exceed 255 characters,Numele nu poate depăși 255 de caractere
+Need help?,Aveți nevoie de ajutor?
+Needs Attention,Necesită atenție
+Never,Never
+new activities,activități noi
+New Activity,Activitate nouă
+New activity,Activitate nouă
+New Event,Eveniment nou
+New index is required,Noul index este obligatoriu
+New Project,Proiect nou
+New tasks will auto-trail by default.,Sarcinile noi vor avea alunecare automată în mod implicit.
+Newest First,Cele mai noi primele
+Next,Următorul
+Next 14 days,Următoarele 14 zile
+Next 30 days,Următoarele 30 de zile
+Next 60 days,Următoarele 60 de zile
+Next 7 days,Următoarele 7 zile
+Next 90 days,Următoarele 90 de zile
+Next Week,Săptămâna viitoare
+Next:,Următorul:
+No,Nu
+No active assignments,Nicio atribuire activă
+No active projects,Niciun proiect activ
+No active timer found,Niciun cronometru activ găsit
+No activity selected,Nicio activitate selectată
+No assignments found,Nicio atribuire găsită
+No attendees,Niciun participant
+no change,nicio modificare
+No changes for this field.,Nicio modificare pentru acest câmp.
+No changes recorded for this activity.,Nicio modificare înregistrată pentru această activitate.
+No checklist items yet,Niciun element în lista de verificare încă
+No checklist items yet.,Niciun element în lista de verificare încă.
+No comments yet,Niciun comentariu încă
+No comments yet.,Niciun comentariu încă.
+No contacts available,Niciun contact disponibil
+No content for this tab,Niciun conținut pentru această filă
+No data available,Nicio informație disponibilă
+No data available for the selected filters,Nicio informație disponibilă pentru filtrele selectate
+No data to export,Nicio informație de exportat
+No dates set,Nicio dată stabilită
+No defects reported,Niciun defect raportat
+No dependencies defined,Nicio dependență definită
+No description,Fără descriere
+No discussion yet.,Nicio discuție încă.
+No documents attached,Niciun document atașat
+No due date,Fără dată scadentă
+No employee linked to this resource,Niciun angajat asociat cu această resursă
+No ERPNext employee linked to resource,Niciun angajat ERPNext asociat cu resursa
+No events found,Niciun eveniment găsit
+No files attached yet.,Niciun fișier atașat încă.
+No Frappe Project linked,Niciun proiect Frappe asociat
+No Grouping,Fără grupare
+No items,Niciun element
+No matching tasks,Nicio sarcină corespunzătoare
+No matching tasks found,Nicio sarcină corespunzătoare găsită
+No migration history,Niciun istoric de migrare
+No Milestone,Fără etapă
+No milestones,Fără etape
+No milestones defined for this project.,Nicio etapă definită pentru acest proiect.
+No notes yet.,Nicio notă încă.
+No notes yet. Add a due diligence note to track progress.,Nicio notă încă. Adăugați o notă de verificare prealabilă pentru a urmări progresul.
+No notifications,Nicio notificare
+No Orga Project linked to Frappe Project {0},Niciun proiect Orga asociat cu proiectul Frappe {0}
+No overdue tasks,Nicio sarcină întârziată
+No pending cascade changes,Nicio modificare în cascadă în așteptare
+No predecessors - this task can start independently,Fără predecesori - această sarcină poate începe independent
+No project,Fără proiect
+No projects found,Niciun proiect găsit
+No Projects Yet,Niciun proiect încă
+No recent activity,Nicio activitate recentă
+No related documents,Niciun document asociat
+No resolved threads.,Niciun fir de discuție rezolvat.
+No resources found,Nicio resursă găsită
+No results found,Niciun rezultat găsit
+No skills listed,Nicio competență listată
+No skills recorded yet,Nicio competență înregistrată încă
+No successors - no tasks are waiting for this one,Fără succesori - nicio sarcină nu așteaptă după aceasta
+No task selected,Nicio sarcină selectată
+No tasks assigned to you,Nicio sarcină atribuită dumneavoastră
+No tasks available to add,Nicio sarcină disponibilă de adăugat
+No tasks found,Nicio sarcină găsită
+No tasks linked to this milestone,Nicio sarcină asociată cu această etapă
+No tasks with dates to display,Nicio sarcină cu date de afișat
+No tasks yet,Nicio sarcină încă
+No team members,Niciun membru al echipei
+No template,Fără șablon
+No templates yet,Niciun șablon încă
+No time data found,Nicio informație de timp găsită
+No time logged today,Niciun timp înregistrat astăzi
+No time logged yet,Niciun timp înregistrat încă
+No time logs for this period,Nicio înregistrare de timp pentru această perioadă
+No time logs found,Nicio înregistrare de timp găsită
+No unread notifications,Nicio notificare necitită
+No update information available yet.,No update information available yet.
+None,Niciunul
+Not found,Negăsit
+Not permitted,Neautorizat
+Not permitted to access this project,Nu sunteți autorizat să accesați acest proiect
+Not permitted to access this task,Nu sunteți autorizat să accesați această sarcină
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Nu sunteți autorizat să comentați acest document
+Not permitted to create clients,Nu sunteți autorizat să creați clienți
+Not permitted to delete this client,Nu sunteți autorizat să ștergeți acest client
+Not permitted to delete this defect,Nu sunteți autorizat să ștergeți acest defect
+Not permitted to delete this note,Nu sunteți autorizat să ștergeți această notă
+Not permitted to delete this project,Nu sunteți autorizat să ștergeți acest proiect
+Not permitted to delete this task,Nu sunteți autorizat să ștergeți această sarcină
+Not permitted to delete this time log,Nu sunteți autorizat să ștergeți această înregistrare de timp
+Not permitted to invite clients,Nu sunteți autorizat să invitați clienți
+Not permitted to modify client access,Nu sunteți autorizat să modificați accesul clientului
+Not permitted to modify this project,Nu sunteți autorizat să modificați acest proiect
+Not permitted to update settings,Nu sunteți autorizat să modificați setările
+Not permitted to update this client,Nu sunteți autorizat să modificați acest client
+Not permitted to view this client,Nu sunteți autorizat să vedeți acest client
+not sent,netrimis
+Not set,Nestabilit
+Not specified,Nespecificat
+Note,Notă
+Note (optional),Notă (opțional)
+Note Content,Conținutul notei
+Note content is required,Conținutul notei este obligatoriu
+Note name is required,Numele notei este obligatoriu
+Note not found,Notă negăsită
+Note Type,Tip de notă
+Notes,Note
+Notification,Notificare
+Notification not found,Notificare negăsită
+Notifications,Notificări
+Off Track,În afara graficului
+Offer,Ofertă
+Offer Prepared,Ofertă pregătită
+Oldest First,Cele mai vechi primele
+On Hold,În așteptare
+On Leave,În concediu
+On Track,Conform graficului
+On-Time Rate,Rata de punctualitate
+Only administrators can delete activities,Doar administratorii pot șterge activitățile
+Only the comment author or administrators can delete comments,Doar autorul comentariului sau administratorii pot șterge comentariile
+Only you and admins,Doar dumneavoastră și administratorii
+Open,Deschis
+Open in Desk,Deschide în Desk
+Open Task Log,Deschide jurnalul sarcinii
+Open Tasks,Sarcini deschise
+Optional,Opțional
+optional,opțional
+Or email us directly at,Sau trimiteți-ne un e-mail direct la
+Orga Project {0} from Frappe Projects,Proiect Orga {0} din Frappe Projects
+Orga Task {0} from Frappe,Sarcină Orga {0} din Frappe
+Organizer,Organizator
+Other,Altul
+Over Budget,Peste buget
+Overall Progress,Progres general
+Overall Utilization,Utilizare generală
+Overallocated,Supraalocat
+Overdue,Întârziat
+overdue,întârziat
+Overdue Tasks,Sarcini întârziate
+Overview,Prezentare generală
+Owner,Proprietar
+Page Not Found,Pagină negăsită
+Parent,Părinte
+Parent comment must belong to the same document,Comentariul părinte trebuie să aparțină aceluiași document
+Parent comment not found,Comentariu părinte negăsit
+Parent project not synced to Frappe yet,Proiectul părinte nu a fost încă sincronizat cu Frappe
+Parent project sync not enabled,Sincronizarea proiectului părinte nu este activată
+Partner,Partener
+Pending,În așteptare
+per page,pe pagină
+Perform initial assessment and background check,Efectuați evaluarea inițială și verificarea antecedentelor
+Permanently remove this event,Șterge definitiv acest eveniment
+Permanently remove this task,Șterge definitiv această sarcină
+Phone,Telefon
+Pin,Fixează
+Pin Activity,Fixează activitatea
+Pin to top,Fixează în partea de sus
+Pinned,Fixat
+Planned budget for this task,Bugetul planificat pentru această sarcină
+Planning,Planificare
+Please describe your question or issue in detail...,Vă rugăm descrieți întrebarea sau problema în detaliu...
+Please login to access Orga,Vă rugăm autentificați-vă pentru a accesa Orga
+Please login to access the client portal,Vă rugăm autentificați-vă pentru a accesa portalul clientului
+Please respond to this invitation in Orga,Vă rugăm răspundeți la această invitație în Orga
+Please select an image file,Vă rugăm selectați un fișier imagine
+Please try again,Vă rugăm încercați din nou
+Please type,Vă rugăm tastați
+Portal,Portal
+Portal access revoked for {0},Acces la portal revocat pentru {0}
+Portal user created successfully. Welcome email {0},Utilizator de portal creat cu succes. E-mail de bun venit {0}
+Post,Publică
+Powered by,Susținut de
+Powered by Tonic,Susținut de Tonic
+Predecessors (Blocked By),Predecesori (blocat de)
+Preferences,Preferințe
+Preferences saved successfully,Preferințe salvate cu succes
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)","Prefix pentru codurile de proiect generate automat (de ex., ORG-2026-0001)"
+Prepare and document offer terms,Pregătiți și documentați condițiile ofertei
+Press,Apăsați
+Preview,Previzualizare
+Preview cascade before applying,Previzualizați cascada înainte de aplicare
+Previous,Anterior
+Priority,Prioritate
+Priority assigned to new tasks,Prioritate atribuită sarcinilor noi
+Priority updated,Prioritate actualizată
+Proficiency,Competență
+Profile,Profil
+Progress,Progres
+Progress (High-Low),Progres (descrescător)
+Progress (Low-High),Progres (crescător)
+Progress Overview,Prezentare generală a progresului
+Progress updated,Progres actualizat
+Project,Proiect
+Project budget has been saved.,Bugetul proiectului a fost salvat.
+Project code (e.g. ORG-2026-0001),Cod proiect (de ex. ORG-2026-0001)
+Project Code Prefix,Prefix cod proiect
+Project created,Proiect creat
+Project deleted,Proiect șters
+Project description has been saved.,Descrierea proiectului a fost salvată.
+Project Details,Detalii proiect
+Project end date has been saved.,Data de finalizare a proiectului a fost salvată.
+Project Files,Fișiere proiect
+Project has no linked client,Proiectul nu are niciun client asociat
+Project Health,Sănătatea proiectului
+Project Info,Informații proiect
+Project is required,Proiectul este obligatoriu
+Project is required for project context,Proiectul este obligatoriu pentru contextul de proiect
+Project is required when tracking context is 'project',Proiectul este obligatoriu când contextul de urmărire este «proiect»
+Project Manager,Responsabil de proiect
+Project Name,Numele proiectului
+Project name and template name are required,Numele proiectului și numele șablonului sunt obligatorii
+Project name is required,Numele proiectului este obligatoriu
+Project not found,Proiect negăsit
+Project not found or you do not have access,Proiect negăsit sau nu aveți acces
+Project settings,Setări proiect
+Project start date has been saved.,Data de începere a proiectului a fost salvată.
+Project title has been saved.,Titlul proiectului a fost salvat.
+Project Type,Tipul proiectului
+Project updated,Proiect actualizat
+Project {0} linked to client {1},Proiectul {0} a fost asociat cu clientul {1}
+Project {0} not found,Proiectul {0} nu a fost găsit
+Project {0} to Frappe Projects,Proiectul {0} către Frappe Projects
+Project:,Proiect:
+Projects,Proiecte
+projects,proiecte
+Projects created:,Proiecte create:
+Projects Overview,Prezentare generală a proiectelor
+Projects skipped:,Proiecte omise:
+Projects updated:,Proiecte actualizate:
+Promote failed,Promovarea a eșuat
+Promote to task,Promovează la sarcină
+Promoted to task,Promovat la sarcină
+Propose,Propune
+Propose New Time,Propune un orar nou
+Propose Time,Propune un orar
+Proposed End,Sfârșit propus
+Proposed Start,Început propus
+Public,Public
+Quick Action,Acțiune rapidă
+Quick Actions,Acțiuni rapide
+Quick Stats,Statistici rapide
+Rates,Tarife
+Receive notifications via email,Primiți notificări prin e-mail
+Receive notifications within the application,Primiți notificări în cadrul aplicației
+Recent Activity,Activitate recentă
+Recipient {0} is not a valid user,Destinatarul {0} nu este un utilizator valid
+Reference,Referință
+Refresh,Reîmprospătează
+Related,Asociat
+Related Company (optional),Companie asociată (opțional)
+Related Documents,Documente asociate
+Related Project,Proiect asociat
+Remaining,Rămas
+Reminder,Memento
+Reminder Lead Time,Timp de avans al memento-ului
+Reminder: {0} - {1} at {2},Memento: {0} - {1} la {2}
+Remove,Elimină
+Remove dependency,Elimină dependența
+Remove dependency on,Elimină dependența de
+Remove from group,Scoate din grup
+Remove group dependency,Elimină dependența de grup
+Remove skill,Elimină competența
+Reopen,Redeschide
+Reopen thread,Redeschide firul de discuție
+reopened,redeschis
+replies,răspunsuri
+Reply,Răspunde
+reply,răspuns
+Replying to,Răspuns la
+Replying to comment,Răspuns la comentariu
+Report Defect,Raportează un defect
+Reported Date,Data raportării
+Reports,Rapoarte
+Reports To,Raportează la
+Request Submitted!,Solicitare trimisă!
+Required,Obligatoriu
+required,obligatoriu
+Research,Cercetare
+Reset to Defaults,Resetează la valorile implicite
+Resolve,Rezolvă
+Resolve thread,Rezolvă firul de discuție
+Resolved,Rezolvat
+Resolved date cannot be before reported date,Data rezolvării nu poate fi anterioară datei raportării
+Resource,Resursă
+Resource and skill name are required,Resursa și numele competenței sunt obligatorii
+Resource is already an attendee,Resursa este deja participant
+Resource name is required,Numele resursei este obligatoriu
+Resource not found,Resursă negăsită
+Resource synced from employee {0},Resursă sincronizată de la angajatul {0}
+Resource {0} is already assigned to this task ({1}),Resursa {0} este deja atribuită acestei sarcini ({1})
+Resource {0} not found,Resursa {0} nu a fost găsită
+Resources,Contacte
+Retry,Reîncearcă
+Review,Revizuire
+Review all relevant documents and contracts,Revizuiți toate documentele și contractele relevante
+Reviews,Revizuiri
+Risk Assessment,Evaluare a riscurilor
+Rollback,Anulează
+Rolled back,Anulat
+Room or address,Sală sau adresă
+RSVP,RSVP
+Safety,Siguranță
+Sat,Sâ
+Save,Salvează
+"Save a project as a template, or import one from a JSON file.","Salvați un proiect ca șablon, sau importați unul dintr-un fișier JSON."
+Save as Template,Salvează ca șablon
+Save Changes,Salvează modificările
+Save failed,Salvarea a eșuat
+Save Preferences,Salvează preferințele
+Save Template,Salvează șablonul
+Saving...,Se salvează...
+Schedule,Program
+Schedule type is required for scheduled triggers,Tipul de programare este obligatoriu pentru declanșatoarele programate
+Scheduled,Programat
+Search,Caută
+"Search by name, email, or skill...","Căutați după nume, e-mail sau competență..."
+Search for a project...,Căutați un proiect...
+Search for a task...,Căutați o sarcină...
+Search for an event...,Căutați un eveniment...
+Search for people to invite...,Căutați persoane de invitat...
+Search tasks to link...,Căutați sarcini de asociat...
+Search tasks...,Căutați sarcini...
+Search...,Căutați...
+Searching...,Se caută...
+Seen,Văzut
+Select a project if your request is related to a specific project.,Selectați un proiect dacă solicitarea dumneavoastră este legată de un proiect anume.
+Select a project...,Selectați un proiect...
+Select a task from the Gantt chart to view and manage its details.,Selectați o sarcină din diagrama Gantt pentru a-i vedea și gestiona detaliile.
+Select a task from the list or Kanban board to view and manage its details.,Selectați o sarcină din listă sau din tabloul Kanban pentru a-i vedea și gestiona detaliile.
+Select a template...,Selectați un șablon...
+Select priority...,Selectați o prioritate...
+Select status...,Selectați o stare...
+Select task...,Selectați o sarcină...
+Select type...,Selectați un tip...
+Selection,Selecție
+Send,Trimite
+Send comment,Trimite comentariul
+Send email invitations to attendees,Trimiteți invitații prin e-mail participanților
+Send Invitations,Trimite invitațiile
+Send notification when a task is assigned to a user,Trimite o notificare când o sarcină este atribuită unui utilizator
+Send notification when task status changes,Trimite o notificare la schimbarea stării unei sarcini
+Send reminder before task due date,Trimite un memento înainte de data scadentă a sarcinii
+sent,trimis
+Set rate,Stabilește tariful
+Settings,Setări
+Settings saved successfully,Setări salvate cu succes
+Severity,Severitate
+SF (Start-Finish),SF (Început-Final)
+SF - Start-to-Finish,SF - Început-la-Final
+Show,Afișează
+Show all,Afișează tot
+Show all changes,Afișează toate modificările
+Show Archived,Afișează arhivatele
+Show full diff,Afișează diferențele complet
+Show less,Afișează mai puțin
+Show more,Afișează mai mult
+Skill added,Competență adăugată
+Skill is required,Competența este obligatorie
+Skill Name,Numele competenței
+Skill removed,Competență eliminată
+Skill {0} already exists for this resource,Competența {0} există deja pentru această resursă
+Skills,Competențe
+Skills & Competencies,Competențe și aptitudini
+Skip already migrated projects,Omite proiectele deja migrate
+Sort by,Sortează după
+Sort: Due Date,Sortare: Dată scadentă
+Sort: Priority,Sortare: Prioritate
+Sort: Project,Sortare: Proiect
+Sort: Status,Sortare: Stare
+Sort: Task,Sortare: Sarcină
+Source Code,Cod sursă
+Spent,Cheltuit
+Spent:,Cheltuit:
+SS (Start-Start),SS (Început-Început)
+SS - Start-to-Start,SS - Început-la-Început
+Standalone,Independent
+Start,Început
+Start a discussion below,Începeți o discuție mai jos
+Start Date,Dată de începere
+Start date,Dată de începere
+Start Date (Earliest),Dată de începere (cea mai apropiată)
+Start date updated,Dată de începere actualizată
+Start date/time is required,Data/ora de începere este obligatorie
+Start Migration,Începe migrarea
+Start the conversation below.,Începeți conversația mai jos.
+Start Timer,Pornește cronometrul
+Start typing to search...,Începeți să tastați pentru a căuta...
+Start-to-Finish,Început-la-Final
+Start-to-Start,Început-la-Început
+Start:,Început:
+Statistics reset,Statistici resetate
+Status,Stare
+Status assigned to new projects,Stare atribuită proiectelor noi
+Status assigned to new tasks,Stare atribuită sarcinilor noi
+Status Changes,Schimbări de stare
+Status updated,Stare actualizată
+Status:,Stare:
+Stop,Oprește
+Stop & Save,Oprește și salvează
+Stop Timer,Oprește cronometrul
+Stops current timer and starts for this event,Oprește cronometrul curent și îl pornește pentru acest eveniment
+Stops current timer and starts for this task,Oprește cronometrul curent și îl pornește pentru această sarcină
+Subject,Subiect
+Subject cannot exceed 255 characters,Subiectul nu poate depăși 255 de caractere
+Subject is required,Subiectul este obligatoriu
+Submit,Trimite
+Submit Another Request,Trimite o altă solicitare
+Submit Request,Trimite solicitarea
+Submitting...,Se trimite...
+Successfully saved,Salvat cu succes
+Successors (Blocking),Succesori (blochează)
+Sun,Du
+Supplier,Furnizor
+Support,Asistență
+Switch to this event,Comută la acest eveniment
+Switch to this task,Comută la această sarcină
+Sync direction is set to Frappe to Orga only,Direcția de sincronizare este setată doar de la Frappe la Orga
+Sync direction is set to Orga to Frappe only,Direcția de sincronizare este setată doar de la Orga la Frappe
+Sync not enabled for this project,Sincronizarea nu este activată pentru acest proiect
+System,Sistem
+Table,Tabel
+Take ownership of this task,Preia această sarcină
+Target Date,Dată țintă
+Target End,Sfârșit țintă
+Target Project,Proiect țintă
+Target user is required for '{0}' action,Utilizatorul țintă este obligatoriu pentru acțiunea «{0}»
+Task,Sarcină
+task,sarcină
+Task '{0}' is due on {1}.,Sarcina «{0}» este scadentă pe {1}.
+Task and resource are required,Sarcina și resursa sunt obligatorii
+Task Assignment,Atribuire de sarcină
+Task cannot be its own parent,O sarcină nu poate fi propriul ei părinte
+Task cannot depend on itself,O sarcină nu poate depinde de ea însăși
+Task cannot depend on the group it belongs to,O sarcină nu poate depinde de grupul căruia îi aparține
+Task created,Sarcină creată
+Task deleted,Sarcină ștearsă
+Task description has been saved.,Descrierea sarcinii a fost salvată.
+Task Details,Detalii sarcină
+Task due in {0} days: {1},Sarcină scadentă în {0} zile: {1}
+Task due today: {0},Sarcină scadentă astăzi: {0}
+Task due tomorrow: {0},Sarcină scadentă mâine: {0}
+Task duplicated,Sarcină duplicată
+Task Group,Grup de sarcini
+Task ID is required,Identificatorul sarcinii este obligatoriu
+Task is blocked by incomplete dependencies,Sarcina este blocată de dependențe nefinalizate
+Task is cancelled,Sarcina este anulată
+Task is completed,Sarcina este finalizată
+Task is no longer blocked by a group,Sarcina nu mai este blocată de un grup
+Task is required for task context,Sarcina este obligatorie pentru contextul de sarcină
+Task is required when tracking context is 'task',Sarcina este obligatorie când contextul de urmărire este «sarcină»
+Task linked,Sarcină asociată
+Task moved,Sarcină mutată
+Task name,Numele sarcinii
+Task name is required,Numele sarcinii este obligatoriu
+Task removed from group,Sarcină eliminată din grup
+Task Subject,Subiectul sarcinii
+Task subject is required,Subiectul sarcinii este obligatoriu
+Task Type,Tipul sarcinii
+Task unblocked: {0},Sarcină deblocată: {0}
+Task unlinked,Sarcină disociată
+Task updated,Sarcină actualizată
+Task {0} not found,Sarcina {0} nu a fost găsită
+Task {0} not in project {1},Sarcina {0} nu se află în proiectul {1}
+Task {0} to Frappe,Sarcina {0} către Frappe
+Tasks,Sarcini
+tasks,sarcini
+Tasks and milestones will be created with dates relative to the project start date.,Sarcinile și etapele vor fi create cu date relative la data de începere a proiectului.
+Tasks assigned to you across all projects.,Sarcini atribuite dumneavoastră din toate proiectele.
+Tasks created:,Sarcini create:
+Tasks from projects you manage.,Sarcini din proiectele pe care le gestionați.
+Tasks updated:,Sarcini actualizate:
+"Tasks, milestones, and dependencies have been created.","Sarcinile, etapele și dependențele au fost create."
+Tasks:,Sarcini:
+TBD,De stabilit
+Team,Echipă
+Team Members,Membrii echipei
+Template,Șablon
+Template applied,Șablon aplicat
+Template data is required in import data,Datele șablonului sunt obligatorii în datele de import
+Template has no data,Șablonul nu conține date
+Template Name,Numele șablonului
+Template name,Numele șablonului
+Template name is required,Numele șablonului este obligatoriu
+Template name is required in import data,Numele șablonului este obligatoriu în datele de import
+Template saved,Șablon salvat
+Template updated successfully.,Șablon actualizat cu succes.
+Template {0} not found,Șablonul {0} nu a fost găsit
+Templates,Șabloane
+Tentative,Provizoriu
+The comment has been deleted,Comentariul a fost șters
+The project,Proiectul
+The source document may have been deleted.,Documentul sursă este posibil să fi fost șters.
+The source document will not be affected.,Documentul sursă nu va fi afectat.
+The status of '{0}' was changed from {1} to {2}.,Starea «{0}» a fost schimbată de la {1} la {2}.
+Theme,Temă
+Theme preference,Preferință de temă
+This action,Această acțiune
+This action cannot be undone.,Această acțiune este ireversibilă.
+This activity has been flagged for attention,Această activitate a fost semnalată pentru atenție
+This is a reminder for your upcoming appointment,Acesta este un memento pentru programarea dumneavoastră următoare
+This method is only meant for developer mode,Această metodă este destinată doar modului de dezvoltator
+This page wandered off,This page wandered off
+This Week,Săptămâna aceasta
+This will delete all notes and preferences associated with this activity.,Aceasta va șterge toate notele și preferințele asociate cu această activitate.
+This will import all Frappe Projects into Orga. Continue?,Aceasta va importa toate proiectele Frappe în Orga. Continuați?
+This will permanently delete,Aceasta va șterge definitiv
+This will permanently delete:,Aceasta va șterge definitiv:
+Thu,Jo
+Time,Timp
+Time & Billing,Timp și facturare
+Time & Revenue,Timp și venituri
+Time Entries,Înregistrări de timp
+Time log name is required,Numele înregistrării de timp este obligatoriu
+Time Log not found,Înregistrare de timp negăsită
+Time log {0} not found,Înregistrarea de timp {0} nu a fost găsită
+Time Logs,Înregistrări de timp
+Time Summary,Rezumatul timpului
+Time Tracking,Urmărirea timpului
+Timeline,Cronologie
+Timer active on,Cronometru activ pe
+Timer is not running,Cronometrul nu este în funcțiune
+Timer Running,Cronometru în funcțiune
+Timer running,Cronometru în funcțiune
+Timesheet DocType not available,DocType Foaie de pontaj indisponibil
+Timesheets,Foi de pontaj
+Timezone,Fus orar
+Timezone is detected from your browser,Fusul orar este detectat din navigatorul dumneavoastră
+Title,Titlu
+Title cannot exceed 255 characters,Titlul nu poate depăși 255 de caractere
+Title is required,Titlul este obligatoriu
+Title updated,Titlu actualizat
+To,Către
+to,la
+to cancel,pentru a anula
+to close,pentru a închide
+to confirm:,pentru a confirma:
+to edit,pentru a edita
+"to save,","pentru a salva,"
+To Time cannot be before From Time,Ora de sfârșit nu poate fi anterioară orei de început
+Today,Astăzi
+today,astăzi
+Toggle billable,Comută facturabil
+Toggle Details Panel,Afișează/ascunde panoul de detalii
+Toggle Manager Panel,Afișează/ascunde panoul de gestionare
+Toggle Sidebar,Afișează/ascunde bara laterală
+Tomorrow,Mâine
+tomorrow,mâine
+Total,Total
+Total Budget,Buget total
+Total Contacts,Total contacte
+Total Cost,Cost total
+Total Cost to Org,Cost total pentru organizație
+Total Defect Cost,Cost total al defectelor
+Total Hours,Total ore
+Total Hours Logged,Total ore înregistrate
+Total Projects,Total proiecte
+Total Spent,Total cheltuit
+Total Tasks,Total sarcini
+Total:,Total:
+Tracked,Urmărit
+trails to today while Open at 0%,alunecă până astăzi cât timp este Deschis la 0%
+Tried:,Tried:
+Try adjusting your filter criteria,Încercați să ajustați criteriile de filtrare
+Try adjusting your filters.,Încercați să vă ajustați filtrele.
+Try Again,Încercați din nou
+Tue,Ma
+Type,Tip
+Type updated,Tip actualizat
+Type:,Tip:
+Typical response time: 1-2 business days,Timp obișnuit de răspuns: 1-2 zile lucrătoare
+Unarchive,Dezarhivează
+Unarchive Activity,Dezarhivează activitatea
+Unassign,Retrage atribuirea
+Unassigned,Neatribuit
+Under Budget,Sub buget
+Ungrouped,Negrupat
+Unknown,Necunoscut
+Unknown error,Eroare necunoscută
+Unlink failed,Disocierea a eșuat
+Unlink task from milestone,Disociază sarcina de etapă
+Unpin,Anulează fixarea
+Unpin Activity,Anulează fixarea activității
+Unread,Necitit
+Unread only,Doar necitite
+Until,Până la
+Up to Date,Up to Date
+Upcoming,Viitor
+upcoming,viitor
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Actualizarea a eșuat
+Updated,Actualizat
+Updated successfully,Actualizat cu succes
+Updates,Updates
+Upload,Încarcă
+Upload failed,Încărcarea a eșuat
+Upload files below to attach them to this task.,Încărcați fișiere mai jos pentru a le atașa la această sarcină.
+Upload to project,Încarcă în proiect
+Uploading...,Se încarcă...
+Urgent,Urgent
+User {0} is already linked to client {1},Utilizatorul {0} este deja asociat cu clientul {1}
+User {0} is already linked to resource {1},Utilizatorul {0} este deja asociat cu resursa {1}
+Utilization,Utilizare
+Valid,Valid
+Value:,Valoare:
+Variance,Abatere
+Variance:,Abatere:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Vizualizare
+View All,Afișează tot
+View all active projects,Afișează toate proiectele active
+View all open tasks,Afișează toate sarcinile deschise
+View overdue tasks,Afișează sarcinile întârziate
+View Release,View Release
+Visibility,Vizibilitate
+Waiting for this task,Se așteaptă această sarcină
+Waits for:,Așteaptă:
+Warning: Resource {0} status is {1},Atenție: starea resursei {0} este {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Atenție: se utilizează HTTP în loc de HTTPS. Datele webhook ar putea să nu fie securizate.
+Watch budget closely,Urmăriți bugetul cu atenție
+We'll respond to:,Vom răspunde la:
+Webhook deleted,Webhook șters
+Webhook name is required,Numele webhook-ului este obligatoriu
+Webhook not found,Webhook negăsit
+Webhook URL is required,URL-ul webhook este obligatoriu
+Webhook URL must start with http:// or https://,URL-ul webhook trebuie să înceapă cu http:// sau https://
+Wed,Mi
+Week,Săptămână
+Weekend,Weekend
+Weekly Capacity,Capacitate săptămânală
+weekly capacity,capacitate săptămânală
+Weekly Capacity (h),Capacitate săptămânală (h)
+Welcome,Bine ați venit
+Welcome back!,Bine ați revenit!
+Welcome to Orga,Bine ați venit la Orga
+What are you working on?,La ce lucrați?
+What did you work on?,La ce ați lucrat?
+When,Când
+When work begins,Când începe lucrul
+When work is due,Când este scadent lucrul
+Where,Unde
+Will capture:,Va captura:
+Will create:,Va crea:
+with checklist items,cu elementele din lista de verificare
+Working,În desfășurare
+Workload,Volum de muncă
+Workmanship,Calitatea execuției
+Write a comment...,Scrieți un comentariu...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Scrieți un comentariu... Utilizați @nume pentru a menționa (Ctrl+Enter pentru a trimite)
+Year,An
+Yes,Da
+Yesterday,Ieri
+yesterday,ieri
+You are not an attendee of this appointment,Nu sunteți participant la această programare
+You are not linked to any resource,Nu sunteți asociat cu nicio resursă
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Puteți șterge doar propriile comentarii
+You can only delete your own reactions,Puteți șterge doar propriile reacții
+You do not have access to the client portal. Please contact support.,Nu aveți acces la portalul clientului. Vă rugăm contactați asistența.
+You have already reacted with '{0}',Ați reacționat deja cu «{0}»
+You have been assigned to task '{0}' in project '{1}'.,Vi s-a atribuit sarcina «{0}» din proiectul «{1}».
+You have been assigned to: {0},Vi s-a atribuit: {0}
+You have been invited to the following appointment,Ați fost invitat la următoarea programare
+You have no tasks assigned to you right now.,Nu aveți nicio sarcină atribuită în acest moment.
+You were mentioned in {0},Ați fost menționat în {0}
+Your attendance,Participarea dumneavoastră
+Your comment has been posted,Comentariul dumneavoastră a fost publicat
+Your Projects,Proiectele dumneavoastră
+Your projects will appear here once they're assigned to you.,Proiectele dumneavoastră vor apărea aici odată ce vă sunt atribuite.
+Your Response,Răspunsul dumneavoastră
+Your RSVP,RSVP-ul dumneavoastră
+Your support request has been submitted successfully.,Solicitarea dumneavoastră de asistență a fost trimisă cu succes.
+Your support request has been submitted successfully. We'll get back to you shortly.,Solicitarea dumneavoastră de asistență a fost trimisă cu succes. Vă vom răspunde în cel mai scurt timp.
+"Your task ""{0}"" is no longer blocked and can now be started.",Sarcina dumneavoastră «{0}» nu mai este blocată și poate fi începută acum.
+{0} is required,{0} este obligatoriu
+{0} new activities,{0} activități noi
+{0} of {1} completed,{0} din {1} finalizat(e)
+{0} projects already migrated (will be skipped or updated),{0} proiecte deja migrate (vor fi omise sau actualizate)
+{0} status changed to {1},Starea {0} a fost schimbată în {1}
+{0} tasks remaining,{0} sarcini rămase
+{0} tasks without projects will be skipped,{0} sarcini fără proiect vor fi omise
+{0} {1} not found,{0} {1} nu a fost găsit

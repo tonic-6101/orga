@@ -1,0 +1,1492 @@
++ Add Milestone,+ Tilfoej milepael
++ Create Task,+ Opret opgave
++ Log Time,+ Registrer tid
+-- Select a project --,-- Vaelg et projekt --
+0m,0m
+1 day,1 dag
+1 day ago,1 dag siden
+1 dependency,1 afhaengighed
+1 entry,1 post
+1 file,1 fil
+1 hour ago,1 time siden
+1 member,1 medlem
+1 milestone,1 milepael
+1 month,1 maned
+1 task,1 opgave
+< 1m,< 1m
+"A clear, actionable title for the task","En klar, handlingsorienteret titel for opgaven"
+A client with email {0} already exists: {1},En klient med e-mail {0} eksisterer allerede: {1}
+A key deliverable or checkpoint for the project,En vigtig leverance eller kontrolpunkt for projektet
+Accept,Accepter
+Accepted,Accepteret
+Acknowledge,Bekraeft modtagelse
+across,pa tvaers af
+Action,Handling
+Actions,Handlinger
+Active,Aktiv
+Active Assignments,Aktive tildelinger
+Active Projects,Aktive projekter
+Activity,Aktivitet
+Activity data deleted successfully,Aktivitetsdata slettet
+Activity Info,Aktivitetsinformation
+Activity Stats,Aktivitetsstatistik
+Activity will appear here as you work on tasks and projects.,"Aktivitet vises her, efterhanden som du arbejder med opgaver og projekter."
+Actual,Faktisk
+Actual Cost,Faktisk omkostning
+Actual cost cannot be negative,Faktisk omkostning kan ikke vaere negativ
+Actual end date cannot be before actual start date,Faktisk slutdato kan ikke vaere foer faktisk startdato
+Actual Hours,Faktiske timer
+Add,Tilfoej
+Add a checklist item...,Tilfoej et tjeklistepunkt...
+Add a comment...,Tilfoej en kommentar...
+Add a comment... (Ctrl+Enter to send),Tilfoej en kommentar... (Ctrl+Enter for at sende)
+Add a description...,Tilfoej en beskrivelse...
+Add a milestone description...,Tilfoej en milepael-beskrivelse...
+Add a note below to annotate this activity.,Tilfoej en note nedenfor for at kommentere denne aktivitet.
+Add a note...,Tilfoej en note...
+Add a project description...,Tilfoej en projektbeskrivelse...
+Add a task description...,Tilfoej en opgavebeskrivelse...
+Add checklist item...,Tilfoej tjeklistepunkt...
+Add Contact,Tilfoej kontakt
+Add contacts via the Desk interface or clear filters,Tilfoej kontakter via Desk-graensefladen eller ryd filtrene
+Add Dependency,Tilfoej afhaengighed
+Add details about this event...,Tilfoej detaljer om denne begivenhed...
+Add details about this milestone...,Tilfoej detaljer om denne milepael...
+Add details about this task...,Tilfoej detaljer om denne opgave...
+Add details or acceptance criteria for this milestone,Tilfoej detaljer eller acceptkriterier for denne milepael
+"Add details, context, or acceptance criteria","Tilfoej detaljer, kontekst eller acceptkriterier"
+Add first dependency,Tilfoej foerste afhaengighed
+Add item,Tilfoej element
+Add items below to track progress.,Tilfoej elementer nedenfor for at foelge fremskridtet.
+Add items below to track subtasks,Tilfoej elementer nedenfor for at foelge delopgaver
+Add Milestone,Tilfoej milepael
+Add Milestone (Shift+M),Tilfoej milepael (Shift+M)
+Add milestones to track key deliverables.,Tilfoej milepaele for at foelge vigtige leverancer.
+Add New Contact,Tilfoej ny kontakt
+Add Note,Tilfoej note
+Add note,Tilfoej note
+Add notes about this contact...,Tilfoej noter om denne kontakt...
+Add reaction,Tilfoej reaktion
+Add Skill,Tilfoej kompetence
+Add start and due dates to tasks to see them on the Gantt chart,Tilfoej start- og forfaldsdatoer til opgaver for at se dem i Gantt-diagrammet
+Add Task,Tilfoej opgave
+Add Task (Shift+T),Tilfoej opgave (Shift+T)
+Added Finish-to-Start dependency,Slut-til-start-afhaengighed tilfojet
+Adding this dependency would create a circular reference: {0},Tilfoejelse af denne afhaengighed ville skabe en cirkelreference: {0}
+Adding...,Tilfojer...
+Address,Adresse
+Advanced,Avanceret
+All,Alle
+All Active,Alle aktive
+All Assignees,Alle tildelte
+All Categories,Alle kategorier
+All caught up!,Alt er opdateret!
+All Contexts,Alle kontekster
+All day,Hele dagen
+All day event,Heldagsbegivenhed
+All fields,Alle felter
+All Priorities,Alle prioriteter
+All Projects,Alle projekter
+All Status,Alle statusser
+All Statuses,Alle statusser
+All task dependencies & relative dates,Alle opgaveafhaengigheder og relative datoer
+All Tasks,Alle opgaver
+All tasks across all projects.,Alle opgaver i alle projekter.
+All tasks are already linked,Alle opgaver er allerede linket
+All team members,Alle teammedlemmer
+All Types,Alle typer
+All Users,Alle brugere
+Allocated,Tildelt
+allocated,tildelt
+Allow users to log time against tasks,Tillad brugere at registrere tid pa opgaver
+Already exported to timesheet {0},Allerede eksporteret til tidsregistrering {0}
+Already Migrated,Allerede migreret
+Anyone with access,Alle med adgang
+anytime to show this help,nar som helst for at vise denne hjaelp
+App Updates,App Updates
+Appearance,Udseende
+Apply,Anvend
+Apply cascade?,Anvende kaskade?
+Apply Changes,Anvend aendringer
+Apply failed,Anvendelse mislykkedes
+Apply Template,Anvend skabelon
+Applying...,Anvender...
+Appointment,Moede
+Appointment and resource are required,Moede og ressource er paakraevet
+Appointment name is required,Moedenavn er paakraevet
+Appointment not found,Moede ikke fundet
+Appointment {0} not found,Moede {0} ikke fundet
+Apps,Apps
+Archive,Arkiver
+Archive Activity,Arkiver aktivitet
+Archived,Arkiveret
+Are you sure you want to delete this activity data? This cannot be undone.,"Er du sikker pa, at du vil slette disse aktivitetsdata? Dette kan ikke fortrydes."
+Are you sure you want to delete this comment?,Er du sikker pa at du vil slette denne kommentar?
+Are you sure you want to delete this project?,Er du sikker pa at du vil slette dette projekt?
+Are you sure?,Er du sikker?
+Ascending -- click to reverse,Stigende -- klik for at vende om
+Assign To,Tildel til
+Assign to Me,Tildel til mig
+Assigned Contact,Tildelt kontakt
+Assigned To,Tildelt til
+Assigned to,Tildelt til
+Assigned to Me,Tildelt til mig
+Assignee,Tildelt
+Assignment,Tildeling
+Assignment History,Tildelingshistorik
+Assignment name is required,Tildelingsnavn er paakraevet
+Assignment {0} not found,Tildeling {0} ikke fundet
+Assignments,Tildelinger
+At least one action is required,Mindst en handling er paakraevet
+At least one event is required,Mindst en begivenhed er paakraevet
+At least one event must be selected,Mindst en begivenhed skal vaelges
+Attachment,Bilag
+Attachments,Bilag
+Attendees,Deltagere
+"Audit trail, assignments, version history","Aendringslog, tildelinger, versionshistorik"
+Auto,Automatisk
+Auto Calculate Progress,Beregn fremskridt automatisk
+Auto Set Missed Milestones,Marker overskredet milepaele automatisk
+Auto-shift dependents when dates change,Flyt afhaengige automatisk ved datoaendring
+Auto-Trail Start,Automatisk glidende start
+Auto-Trail updated,Automatisk glidende start opdateret
+Automatically calculate project progress from task completion,Beregn projektfremskridt automatisk fra opgavefaerdiggorelse
+Automatically mark milestones as missed when overdue,Marker milepaele automatisk som overskredet ved forsinkelse
+Automation rule {0} not found,Automatiseringsregel {0} ikke fundet
+Automation: {0},Automatisering: {0}
+Availability,Tilgaengelighed
+Available,Tilgaengelig
+Avatar updated successfully,Profilbillede opdateret
+Avg Progress,Gennemsnitligt fremskridt
+Back,Tilbage
+Back to Portal,Tilbage til portalen
+Back to Projects,Tilbage til projekter
+Beginner,Begynder
+Best regards,Med venlig hilsen
+Billable,Fakturerbar
+Billable Amount,Fakturerbart beloeb
+Billable Hours,Fakturerbare timer
+Billable Rate,Fakturerbar sats
+Billing Rate,Faktureringssats
+Blocked,Blokeret
+Both dates are needed to display task as a bar in Gantt chart,Begge datoer er noedvendige for at vise opgaven som en bjealke i Gantt-diagrammet
+Both doctype and docname are required,Bade doctype og docname er paakraevet
+Both proposed start and end times are required,Bade foreslaaet start- og sluttid er paakraevet
+Both task_name and depends_on are required,Bade task_name og depends_on er paakraevet
+Breadcrumb,Sti
+Brief description of the defect or damage,Kort beskrivelse af defekten eller skaden
+Brief description of this template,Kort beskrivelse af denne skabelon
+Brief description of your request,Kort beskrivelse af din anmodning
+Brief project description,Kort projektbeskrivelse
+Budget,Budget
+Budget at risk,Budget i farezonen
+Budget Burn Rate,Budgetforbrugshastighed
+Budget Status,Budgetstatus
+Budget updated,Budget opdateret
+Budget:,Budget:
+Bug,Fejl
+Burn Rate,Forbrugshastighed
+Busy,Optaget
+By,Af
+By Assignee,Per tildelt
+By Group,Per gruppe
+By Milestone,Per milepael
+By Priority,Per prioritet
+By Status,Per status
+Cancel,Annuller
+Cancelled,Annulleret
+cannot be undone,kan ikke fortrydes
+Cannot delete client with {0} linked projects. Unlink projects first.,Kan ikke slette klient med {0} linkede projekter. Fjern links foerst.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Kan ikke slette projekt med {0} linkede opgaver. Slet opgaverne foerst.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Kan ikke slette ressource med {0} aktive tildelinger. Faerdiggoer eller annuller dem foerst.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Kan ikke slette opgave med {0} delopgaver. Slet delopgaverne foerst.
+Capacity,Kapacitet
+capacity,kapacitet
+Capacity & Rates,Kapacitet og satser
+Capture project structure for reuse,Gem projektstruktur til genbrug
+Cascade,Kaskade
+Cascade Preview,Kaskadeforhaandsvisning
+Category,Kategori
+Celebrate,Fejre
+Change,Aendr
+Change History,Aendringshistorik
+Change Priority,Aendr prioritet
+Change Status,Aendr status
+Changes,Aendringer
+Changes appear when fields are modified.,Aendringer vises nar felter aendres.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Tjekliste
+Checklist item name is required,Navn pa tjeklistepunkt er paakraevet
+Checklist item not found,Tjeklistepunkt ikke fundet
+Checklist item title is required,Titel pa tjeklistepunkt er paakraevet
+Checklist item {0} not found,Tjeklistepunkt {0} ikke fundet
+Checklist item {0} not found in task,Tjeklistepunkt {0} ikke fundet i opgaven
+Child,Underordnet
+Choose file to upload,Vaelg fil at uploade
+Circular dependency detected: {0},Cirkulaer afhaengighed registreret: {0}
+Circular parent-child relationship detected,Cirkulaert foeraeldre-barn-forhold registreret
+Clear,Ryd
+Clear all read,Ryd alle laeste
+Clear date,Ryd dato
+Click on an activity from the list to view and manage its details.,Klik pa en aktivitet i listen for at se og haandtere dens detaljer.
+Click the avatar to upload a new photo,Klik pa profilbilledet for at uploade et nyt foto
+Click to add description...,Klik for at tilfoeje beskrivelse...
+Click to add notes...,Klik for at tilfoeje noter...
+Click to assign contact,Klik for at tildele kontakt
+Click to change status,Klik for at aendre status
+Click to change type,Klik for at aendre type
+Click to edit,Klik for at redigere
+Click to edit budget,Klik for at redigere budget
+Click to edit description,Klik for at redigere beskrivelse
+Click to edit end date,Klik for at redigere slutdato
+Click to edit milestone name,Klik for at redigere milepael-navn
+Click to edit rate,Klik for at redigere sats
+Click to edit start date,Klik for at redigere startdato
+Click to edit title,Klik for at redigere titel
+Click to load,Klik for at indlaese
+Click to set group dependency...,Klik for at angive gruppeafhaengighed...
+Click to set group...,Klik for at angive gruppe...
+Click to view,Klik for at vise
+Click to view at-risk projects,Klik for at vise projekter i farezonen
+Click to view critical projects,Klik for at vise kritiske projekter
+Click to view healthy projects,Klik for at vise sunde projekter
+Client,Klient
+Client already has a portal user: {0},Klienten har allerede en portalbruger: {0}
+Client already has portal access,Klienten har allerede portaladgang
+Client has no portal user to revoke,Klienten har ingen portalbruger at tilbagekalde
+Client link removed from project {0},Klientlink fjernet fra projekt {0}
+Client Portal,Klientportal
+Client {0} deleted successfully,Klient {0} slettet
+Close,Luk
+Close (Esc),Luk (Esc)
+Comment,Kommentar
+comment,kommentar
+Comment added,Kommentar tilfojet
+Comment content is required,Kommentarindhold er paakraevet
+Comment name is required,Kommentarnavn er paakraevet
+Comment not found,Kommentar ikke fundet
+Comment removed,Kommentar fjernet
+Comment {0} not found in task,Kommentar {0} ikke fundet i opgaven
+Comments,Kommentarer
+comments,kommentarer
+Community Edition,Community Edition
+Company,Virksomhed
+Company name...,Virksomhedsnavn...
+Complete,Faerdiggoer
+Completed,Faerdiggjort
+completed,faerdiggjort
+Completed Tasks,Faerdiggjorte opgaver
+Compliance,Overholdelse
+Configure default values for new projects and tasks,Konfigurer standardvaerdier for nye projekter og opgaver
+Configure email notification settings,Konfigurer indstillinger for e-mailnotifikationer
+Confirm,Bekraeft
+Contact deleted,Kontakt slettet
+Contact Details,Kontaktoplysninger
+Contact Information,Kontaktinformation
+Contact name is required,Kontaktnavn er paakraevet
+Contact Support,Kontakt support
+Contact your project manager for more information.,Kontakt din projektleder for mere information.
+Contact:,Kontakt:
+Contacts,Kontakter
+Context,Kontekst
+Contractor,Entreprenoer
+Cost estimate cannot be negative,Omkostningsestimat kan ikke vaere negativt
+Cost Impact,Omkostningspaavirkning
+Cost Summary,Omkostningsoversigt
+Could not apply the template. Please try again.,Kunne ikke anvende skabelonen. Proev igen.
+Could not attach file to project,Kunne ikke vedhaenge fil til projektet
+Could not change task priority,Kunne ikke aendre opgaveprioritet
+Could not change task status,Kunne ikke aendre opgavestatus
+Could not delete the project. Please try again.,Kunne ikke slette projektet. Proev igen.
+Could not delete the task. Please try again.,Kunne ikke slette opgaven. Proev igen.
+Could not delete the template.,Kunne ikke slette skabelonen.
+Could not duplicate the task. Please try again.,Kunne ikke kopiere opgaven. Proev igen.
+Could not export the template.,Kunne ikke eksportere skabelonen.
+Could not import the template. Please check the file format.,Kunne ikke importere skabelonen. Tjek filformatet.
+Could not link task to milestone,Kunne ikke linke opgaven til milepael
+Could not load document details.,Kunne ikke indlaese dokumentdetaljer.
+Could not load task details,Kunne ikke indlaese opgavedetaljer
+Could not promote checklist item to task.,Kunne ikke forfremme tjeklistepunkt til opgave.
+Could not remove task from milestone,Kunne ikke fjerne opgaven fra milepael
+Could not save budget.,Kunne ikke gemme budget.
+Could not save changes to the milestone,Kunne ikke gemme aendringer i milepelen
+Could not save changes to the task,Kunne ikke gemme aendringer i opgaven
+Could not save description.,Kunne ikke gemme beskrivelse.
+Could not save end date.,Kunne ikke gemme slutdato.
+Could not save milestone name.,Kunne ikke gemme milepael-navn.
+Could not save start date.,Kunne ikke gemme startdato.
+Could not save the template. Please try again.,Kunne ikke gemme skabelonen. Proev igen.
+Could not save title.,Kunne ikke gemme titel.
+Could not update dependency mode.,Kunne ikke opdatere afhaengighedstilstand.
+Could not update milestone date,Kunne ikke opdatere milepael-dato
+Could not update project status.,Kunne ikke opdatere projektstatus.
+Could not update project type.,Kunne ikke opdatere projekttype.
+Could not update setting.,Kunne ikke opdatere indstilling.
+Could not update task dates,Kunne ikke opdatere opgavedatoer
+Could not update task status,Kunne ikke opdatere opgavestatus
+Could not update the template.,Kunne ikke opdatere skabelonen.
+Create a copy of this task,Opret en kopi af denne opgave
+Create Contact,Opret kontakt
+Create Event,Opret begivenhed
+Create Milestone,Opret milepael
+Create New Milestone,Opret ny milepael
+Create New Task,Opret ny opgave
+Create Project,Opret projekt
+Create Task,Opret opgave
+Create tasks and milestones from a template,Opret opgaver og milepaele fra en skabelon
+Create your first project to get started.,Opret dit foerste projekt for at komme i gang.
+Create your first task to start tracking work on this project.,Opret din foerste opgave for at begynde at foelge arbejdet i dette projekt.
+Created,Oprettet
+Creating...,Opretter...
+Critical,Kritisk
+Critical Path,Kritisk vej
+"Currency used for budgets, costs, and billing rates","Valuta brugt til budgetter, omkostninger og faktureringssatser"
+Current,Aktuel
+Current Assignments,Aktuelle tildelinger
+Current scheduled time:,Aktuel planlagt tid:
+Currently running version,Currently running version
+d lag,d forsinkelse
+Daily Availability,Daglig tilgaengelighed
+Daily Hours,Daglige timer
+Danger Zone,Farezone
+Dark,Moerk
+Dashboard,Oversigt
+Date,Dato
+Date changes on this task will show cascade impact here,Datoaendringer pa denne opgave viser kaskadeeffekt her
+Date cleared,Dato ryddet
+Date of Joining,Tiltraedelsesdato
+Date updated,Dato opdateret
+Dates,Datoer
+Dates cascaded,Datoer kaskaderet
+Dates will be relative to the project's start date.,Datoer vil vaere relative til projektets startdato.
+Day,Dag
+day,dag
+days,dage
+Days before due date to send reminder,Dage foer forfaldsdato for at sende paamindelse
+Days Overdue,Dage forsinket
+Days Remaining,Dage tilbage
+Deadline,Frist
+Deadlines,Frister
+Decision,Beslutning
+Decline,Afvis
+Declined,Afvist
+Default Currency,Standardvaluta
+Default hours per week for contact capacity planning,Standardtimer per uge for kontaktkapacitetsplanlaegning
+Default Priority,Standardprioritet
+Default Project Status,Standard projektstatus
+Default Task Status,Standard opgavestatus
+Default task view,Standardvisning for opgaver
+Default Values,Standardvaerdier
+Default Weekly Capacity,Standard ugekapacitet
+Defaults,Standardvaerdier
+Defect Cost Impact,Defektens omkostningspaavirkning
+Defect name is required,Defektnavn er paakraevet
+Defect Type,Defekttype
+Defect {0} not found,Defekt {0} ikke fundet
+Defects,Defekter
+Defects & Issues,Defekter og problemer
+Defects Resolved,Defekter udbedret
+Delayed,Forsinket
+Delete,Slet
+Delete Activity Data,Slet aktivitetsdata
+Delete all read notifications?,Slette alle laeste notifikationer?
+Delete comment,Slet kommentar
+Delete Contact,Slet kontakt
+Delete Event,Slet begivenhed
+Delete Event?,Slette begivenhed?
+Delete failed,Sletning mislykkedes
+Delete file,Slet fil
+Delete item,Slet element
+Delete note,Slet note
+Delete Project,Slet projekt
+Delete Task,Slet opgave
+Delete this project,Slet dette projekt
+Deleted,Slettet
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Projekt ""{0}"" slettet ({1} opgaver, {2} milepaele)"
+Deletes notes and preferences. Source document is not affected.,Sletter noter og indstillinger. Kildedokumentet paavirkes ikke.
+Deleting...,Sletter...
+Department,Afdeling
+Dependencies,Afhaengigheder
+dependencies,afhaengigheder
+Dependencies are informational only,Afhaengigheder er kun til information
+dependency,afhaengighed
+Dependency already exists,Afhaengighed eksisterer allerede
+Dependency Chain,Afhaengighedskæde
+Dependency created,Afhaengighed oprettet
+Dependency mode updated,Afhaengighedstilstand opdateret
+Dependency name is required,Afhaengighedsnavn er paakraevet
+Dependency task {0} not found,Afhaengighedsopgave {0} ikke fundet
+Dependency {0} not found,Afhaengighed {0} ikke fundet
+depends,afhaenger
+Depends on Group,Afhaenger af gruppe
+Depends on task is required,Afhaengighedsopgave er paakraevet
+depends on...,afhaenger af...
+Descending -- click to reverse,Faldende -- klik for at vende om
+Describe the defect in detail...,Beskriv defekten i detaljer...
+Description,Beskrivelse
+Description updated,Beskrivelse opdateret
+Designation,Stilling
+"Detailed description of the defect, location, and impact","Detaljeret beskrivelse af defekten, placering og paavirkning"
+Details,Detaljer
+Discard timer,Kassér tidtager
+Discussion,Diskussion
+Dismiss,Dismiss
+Display,Visning
+Document,Dokument
+Document attached to project,Dokument vedhaengt projekt
+Document final decision and rationale,Dokumenter endelig beslutning og begrundelse
+Documentation Review,Dokumentationsgennemgang
+Documents,Dokumenter
+Done,Faerdig
+Download,Download
+Drag to create dependency,Traek for at oprette afhaengighed
+Dry Run,Testkoesel
+Dry Run Complete,Testkoesel faerdig
+Due Date,Forfaldsdato
+Due date,Forfaldsdato
+Due Date (Earliest),Forfaldsdato (tidligst)
+Due date cannot be before start date,Forfaldsdato kan ikke vaere foer startdato
+Due date is in the past,Forfaldsdatoen er overskredet
+Due Date Reminders,Paamindelser om forfaldsdato
+Due Diligence,Forhaandsgennemgang
+Due Diligence Checklist,Tjekliste for forhaandsgennemgang
+Due This Week,Forfalder denne uge
+Due:,Forfalder:
+Duplicate events are not allowed,Duplikerede begivenheder er ikke tilladt
+Duplicate failed,Kopiering mislykkedes
+Duplicate Task,Kopiér opgave
+Duration,Varighed
+Duration Summary,Varighedsoversigt
+Duration:,Varighed:
+e.g. Cracked wall finish in bathroom...,f.eks. Revnet vaegoverflad i badevaerelse...
+"e.g. Electrical, Plumbing...","f.eks. El, VVS..."
+Edit,Rediger
+Edit (E),Rediger (E)
+Edit dependency,Rediger afhaengighed
+Edit Event,Rediger begivenhed
+Efficiency,Effektivitet
+Either dependency_name or depends_on is required,Enten dependency_name eller depends_on er paakraevet
+Email,E-mail
+Email invitations to all attendees,E-mailinvitationer til alle deltagere
+Email is required to create portal user,E-mail er paakraevet for at oprette portalbruger
+Email notifications,E-mailnotifikationer
+Employee,Medarbejder
+Employee DocType not available,Medarbejder DocType ikke tilgaengelig
+Employee not found,Medarbejder ikke fundet
+Enable or disable optional features,Aktivér eller deaktivér valgfrie funktioner
+Enable Time Tracking,Aktivér tidsregistrering
+End,Slut
+End Date,Slutdato
+End date,Slutdato
+End Date cannot be before Start Date,Slutdato kan ikke vaere foer startdato
+End date cannot be before start date,Slutdato kan ikke vaere foer startdato
+End date updated,Slutdato opdateret
+End time was before start time. Adjusted to 1 hour after start.,Sluttidspunktet var foer starttidspunktet. Justeret til 1 time efter start.
+End:,Slut:
+Enter milestone name...,Indtast milepael-navn...
+Enter project name,Indtast projektnavn
+Enter task title...,Indtast opgavetitel...
+Enter template name,Indtast skabelonnavn
+Enter your note... Use @name to mention someone,Skriv din note... Brug @navn for at naevne nogen
+Error,Fejl
+Error loading activity,Fejl ved indlaesning af aktivitet
+Error loading contacts,Fejl ved indlaesning af kontakter
+Error loading dashboard,Fejl ved indlaesning af oversigt
+Error loading project,Fejl ved indlaesning af projekt
+Error loading projects,Fejl ved indlaesning af projekter
+Error loading settings,Fejl ved indlaesning af indstillinger
+Error loading tasks,Fejl ved indlaesning af opgaver
+Error loading templates,Fejl ved indlaesning af skabeloner
+Est. Hours,Est. timer
+Estimated,Estimeret
+Estimated Cost,Estimeret omkostning
+Estimated Cost (€),Estimeret omkostning (€)
+Estimated Hours,Estimerede timer
+Estimated:,Estimeret:
+Evaluate potential risks and concerns,Vurder potentielle risici og bekymringer
+Event,Begivenhed
+Event is required for event context,Begivenhed er paakraevet for begivenhedskontekst
+Event is required when tracking context is 'event',"Begivenhed er paakraevet nar sporingskonteksten er ""begivenhed"""
+Event Type,Begivenhedstype
+Events,Begivenheder
+Events not available. Please run: bench --site orga.localhost migrate,Begivenheder ikke tilgaengelige. Koer: bench --site orga.localhost migrate
+Events:,Begivenheder:
+Expert,Ekspert
+Explain why you are proposing a different time...,Forklar hvorfor du foreslar et andet tidspunkt...
+Export,Eksportér
+Export failed,Eksport mislykkedes
+Export JSON,Eksportér JSON
+Exported,Eksporteret
+Exported to timesheet {0},Eksporteret til tidsregistrering {0}
+External,Ekstern
+Failed to add item,Kunne ikke tilfoeje element
+Failed to add note,Kunne ikke tilfoeje note
+Failed to add skill,Kunne ikke tilfoeje kompetence
+Failed to apply cascade changes: {0},Kunne ikke anvende kaskadeaendringer: {0}
+Failed to create defect,Kunne ikke oprette defekt
+Failed to create dependency,Kunne ikke oprette afhaengighed
+Failed to create event,Kunne ikke oprette begivenhed
+Failed to create milestone,Kunne ikke oprette milepael
+Failed to create project,Kunne ikke oprette projekt
+Failed to create task,Kunne ikke oprette opgave
+Failed to create time log,Kunne ikke oprette tidspost
+Failed to delete,Kunne ikke slette
+Failed to delete comment,Kunne ikke slette kommentar
+Failed to delete contact,Kunne ikke slette kontakt
+Failed to load,Kunne ikke indlaese
+Failed to load activity,Kunne ikke indlaese aktivitet
+Failed to load assignments,Kunne ikke indlaese tildelinger
+Failed to load contact,Kunne ikke indlaese kontakt
+Failed to load dashboard data,Kunne ikke indlaese oversigtsdata
+Failed to load defects,Kunne ikke indlaese defekter
+Failed to load events,Kunne ikke indlaese begivenheder
+Failed to load project,Kunne ikke indlaese projekt
+Failed to load projects,Kunne ikke indlaese projekter
+Failed to load report data,Kunne ikke indlaese rapportdata
+Failed to load settings,Kunne ikke indlaese indstillinger
+Failed to load tasks,Kunne ikke indlaese opgaver
+Failed to move task,Kunne ikke flytte opgave
+Failed to post comment,Kunne ikke publicere kommentar
+Failed to propose new time,Kunne ikke foresla nyt tidspunkt
+Failed to remove item,Kunne ikke fjerne element
+Failed to remove skill,Kunne ikke fjerne kompetence
+Failed to reorder milestones: {0},Kunne ikke omorganisere milepaele: {0}
+Failed to reorder tasks: {0},Kunne ikke omorganisere opgaver: {0}
+Failed to reschedule dependent tasks: {0},Kunne ikke omplanlaegge afhaengige opgaver: {0}
+Failed to save,Kunne ikke gemme
+Failed to save preferences,Kunne ikke gemme indstillinger
+Failed to save settings,Kunne ikke gemme indstillinger
+Failed to submit request. Please try again.,Kunne ikke sende anmodningen. Proev igen.
+Failed to update item,Kunne ikke opdatere element
+Failed to update priority,Kunne ikke opdatere prioritet
+Failed to update task,Kunne ikke opdatere opgave
+Failed to update tasks: {0},Kunne ikke opdatere opgaver: {0}
+Failed to upload avatar,Kunne ikke uploade profilbillede
+Feature,Funktion
+Features,Funktioner
+FF (Finish-Finish),FF (Slut-Slut)
+FF - Finish-to-Finish,FF - Slut-til-Slut
+Field has been updated,Feltet er opdateret
+Field name is required for 'Set Field Value' action,"Feltnavn er paakraevet for handlingen ""Angiv feltvaerdi"""
+Field {0} is not a Link field,Felt {0} er ikke et linkfelt
+Field {0} not found in {1},Felt {0} ikke fundet i {1}
+File,Fil
+file,fil
+File does not belong to this task,Filen tilhoerer ikke denne opgave
+File name is required,Filnavn er paakraevet
+File uploaded,Fil uploadet
+File {0} not found,Fil {0} ikke fundet
+Files,Filer
+files,filer
+Filter,Filter
+Final Decision,Endelig beslutning
+Finance,Oekonomi
+Financial,Oekonomisk
+Finish-to-Finish,Slut-til-Slut
+Finish-to-Start,Slut-til-Start
+Flag,Flag
+Flag for attention,Flag for opmaerksomhed
+Flagged,Flagget
+Focus Panel,Fokuspanel
+Follows your system preference. Currently:,Foelger din systemindstilling. Pt.:
+Frappe Project {0} not found,Frappe-projekt {0} ikke fundet
+Frappe Projects Migration,Frappe Projects-migrering
+Frappe Projects module not available,Frappe Projects-modulet er ikke tilgaengeligt
+Frappe Projects module not installed,Frappe Projects-modulet er ikke installeret
+Frappe Projects sync is not enabled,Frappe Projects-synkronisering er ikke aktiveret
+Frappe Task DocType not found,Frappe Task DocType ikke fundet
+Frappe Task has no project,Frappe-opgaven har intet projekt
+Frappe Task {0} not found,Frappe-opgave {0} ikke fundet
+Fri,Fre
+From,Fra
+From Template,Fra skabelon
+FS (Finish-Start),FS (Slut-Start)
+FS - Finish-to-Start (default),FS - Slut-til-Start (standard)
+Full form view with audit trail,Komplet formularvisning med aendringslog
+Full name,Fulde navn
+Gantt,Gantt
+Gantt Chart,Gantt-diagram
+Gantt View,Gantt-visning
+General Note,Generel note
+Get started,Kom i gang
+Go back,Ga tilbage
+Go Back,Go Back
+Group by,Gruppér efter
+Group dependency removed,Gruppeafhaengighed fjernet
+Group dependency set,Gruppeafhaengighed angivet
+Group removed,Gruppe fjernet
+Group updated,Gruppe opdateret
+Hammock task dates are auto-calculated and cannot be changed manually,Haengekoejeoppgavedatoer beregnes automatisk og kan ikke aendres manuelt
+Have a question or need assistance? Fill out the form below and our team will get back to you.,"Har du et spoergsmaal eller brug for hjaelp? Udfyld formularen nedenfor, sa kontakter vi dig."
+Health,Sundhed
+Healthy,Sund
+Hello {0},Hej {0}
+Here's what's happening with your projects today.,Her er hvad der sker med dine projekter i dag.
+Hide,Skjul
+High,Hoej
+History,Historik
+Home,Hjem
+Hourly Cost,Timeomkostning
+Hours,Timer
+hours,timer
+Hours Logged,Registrerede timer
+ID,ID
+Image must be smaller than 5 MB,Billedet skal vaere mindre end 5 MB
+Import,Importér
+Import existing projects and tasks from Frappe Projects module,Importér eksisterende projekter og opgaver fra Frappe Projects-modulet
+Import failed,Import mislykkedes
+Import Template,Importér skabelon
+Imported,Importeret
+in,i
+In Progress,I gang
+In Review,Under gennemgang
+In-app notifications,Notifikationer i appen
+Inactive,Inaktiv
+Initial Review,Indledende gennemgang
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Utilstraekkelige tilladelser til at vise alle opgaver
+Intermediate,Mellemniveau
+Internal,Intern
+Invalid DocType,Ugyldigt DocType
+Invalid DocType for import,Ugyldigt DocType til import
+Invalid item type: {0},Ugyldig elementtype: {0}
+Invalid JSON data,Ugyldige JSON-data
+Invalid note type. Must be one of: {0},Ugyldig notetype. Skal vaere en af: {0}
+Invalid project reference,Ugyldig projektreference
+Invalid reaction type. Must be one of: {0},Ugyldig reaktionstype. Skal vaere en af: {0}
+Invalid RSVP status,Ugyldig RSVP-status
+Invalid status. Must be one of: {0},Ugyldig status. Skal vaere en af: {0}
+Invalid status: {0},Ugyldig status: {0}
+Invalid status: {0}. Must be one of: {1},Ugyldig status: {0}. Skal vaere en af: {1}
+Invalid tracking context: {0},Ugyldig sporingskontekst: {0}
+Invalid visibility. Must be one of: {0},Ugyldig synlighed. Skal vaere en af: {0}
+Invitation: {0} - {1} at {2},Invitation: {0} - {1} kl. {2}
+Invite People,Inviter personer
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Element tilfojet
+Item ID is required,Element-ID er paakraevet
+Item removed,Element fjernet
+Item type is required,Elementtype er paakraevet
+Item {0} not found,Element {0} ikke fundet
+Job title or role,Jobtitel eller rolle
+Join Meeting,Deltag i moede
+Just now,Lige nu
+just now,lige nu
+Kanban,Kanban
+Kanban Board,Kanban-tavle
+Kanban View,Kanban-visning
+Keyboard Shortcuts,Tastaturgenveje
+Keyboard shortcuts (?),Tastaturgenveje (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Sidst opdateret
+Last updated:,Sidst opdateret:
+Last Week,Sidste uge
+Latest Version,Latest Version
+Light,Lys
+Link failed,Linking mislykkedes
+Link Task,Link opgave
+Linked,Linket
+Linked employee not found,Linket medarbejder ikke fundet
+Linked Tasks,Linkede opgaver
+List,Liste
+List View,Listevisning
+Load failed,Indlaesning mislykkedes
+Load More,Indlaes flere
+Load more comments,Indlaes flere kommentarer
+Loading activity...,Indlaeser aktivitet...
+Loading changes...,Indlaeser aendringer...
+Loading checklist...,Indlaeser tjekliste...
+Loading comments...,Indlaeser kommentarer...
+Loading contact...,Indlaeser kontakt...
+Loading contacts...,Indlaeser kontakter...
+Loading dependencies...,Indlaeser afhaengigheder...
+Loading details...,Indlaeser detaljer...
+Loading discussion...,Indlaeser diskussion...
+Loading events...,Indlaeser begivenheder...
+Loading files...,Indlaeser filer...
+Loading notes...,Indlaeser noter...
+Loading preferences...,Indlaeser indstillinger...
+Loading project...,Indlaeser projekt...
+Loading projects...,Indlaeser projekter...
+Loading replies...,Indlaeser svar...
+Loading report data...,Indlaeser rapportdata...
+Loading settings...,Indlaeser indstillinger...
+Loading task...,Indlaeser opgave...
+Loading templates...,Indlaeser skabeloner...
+Loading time logs...,Indlaeser tidsposter...
+Loading your portal...,Indlaeser din portal...
+Loading...,Indlaeser...
+Location,Sted
+Log Time,Registrer tid
+Logout,Log ud
+Low,Lav
+Make Offer,Opret tilbud
+Manager,Leder
+Manual Entry,Manuel indtastning
+Margin,Margin
+Mark all as read,Marker alle som laest
+Mark all read,Marker alle som laest
+Mark as read,Marker som laest
+Mark as unread,Marker som ulaest
+Mark read,Marker som laest
+Marking...,Markerer...
+Material,Materiale
+Maybe,Maaske
+Medium,Middel
+Meeting,Moede
+Meeting Link,Moedelink
+Meeting title,Moedetitel
+Meeting URL,Moede-URL
+Meetings,Moeder
+Mention,Naevn
+Message,Besked
+Message is required,Besked er paakraevet
+Message is required for '{0}' action,"Besked er paakraevet for handlingen ""{0}"""
+Migrate,Migrér
+Migration Complete,Migrering faerdig
+Migration ID:,Migrerings-ID:
+Migration log not found: {0},Migreringslog ikke fundet: {0}
+Milestone,Milepael
+milestone,milepael
+Milestone created,Milepael oprettet
+Milestone description has been saved.,Milepael-beskrivelse er gemt.
+Milestone ID is required,Milepael-ID er paakraevet
+Milestone marked as Missed (past due date),Milepael markeret som overskredet (forfaldsdato passeret)
+Milestone moved,Milepael flyttet
+Milestone Name,Milepael-navn
+Milestone name has been saved.,Milepael-navn er gemt.
+Milestone name is required,Milepael-navn er paakraevet
+Milestone updated,Milepael opdateret
+Milestone {0} not found,Milepael {0} ikke fundet
+Milestone {0} not in project {1},Milepael {0} findes ikke i projekt {1}
+Milestones,Milepaele
+milestones,milepaele
+Milestones:,Milepaele:
+Minutes,Minutter
+Missed,Overskredet
+Mixed,Blandet
+Mobile,Mobil
+Moderate,Moderat
+Modified,AEndret
+"Modify details, time, or attendees","Ændre detaljer, tid eller deltagere"
+Mon,Man
+Month,Maned
+Move failed,Flytning mislykkedes
+Must be a positive number,Skal vaere et positivt tal
+Must finish before this finishes,Skal slutte foer dette slutter
+Must finish before this starts,Skal slutte foer dette starter
+Must start before this finishes,Skal starte foer dette slutter
+Must start before this starts,Skal starte foer dette starter
+My Assignments,Mine tildelinger
+My Projects,Mine projekter
+My Schedule,Min tidsplan
+My Tasks,Mine opgaver
+N/A,I/T
+Name,Navn
+Name (A-Z),Navn (A-AA)
+Name (Z-A),Navn (AA-A)
+Name cannot exceed 255 characters,Navn kan ikke overstige 255 tegn
+Need help?,Brug for hjaelp?
+Needs Attention,Kraever opmaerksomhed
+Never,Never
+new activities,nye aktiviteter
+New Activity,Ny aktivitet
+New activity,Ny aktivitet
+New Event,Ny begivenhed
+New index is required,Nyt indeks er paakraevet
+New Project,Nyt projekt
+New tasks will auto-trail by default.,Nye opgaver far automatisk glidende start som standard.
+Newest First,Nyeste foerst
+Next,Naeste
+Next 14 days,Naeste 14 dage
+Next 30 days,Naeste 30 dage
+Next 60 days,Naeste 60 dage
+Next 7 days,Naeste 7 dage
+Next 90 days,Naeste 90 dage
+Next Week,Naeste uge
+Next:,Naeste:
+No,Nej
+No active assignments,Ingen aktive tildelinger
+No active projects,Ingen aktive projekter
+No active timer found,Ingen aktiv tidtager fundet
+No activity selected,Ingen aktivitet valgt
+No assignments found,Ingen tildelinger fundet
+No attendees,Ingen deltagere
+no change,ingen aendring
+No changes for this field.,Ingen aendringer for dette felt.
+No changes recorded for this activity.,Ingen aendringer registreret for denne aktivitet.
+No checklist items yet,Ingen tjeklistepunkter endnu
+No checklist items yet.,Ingen tjeklistepunkter endnu.
+No comments yet,Ingen kommentarer endnu
+No comments yet.,Ingen kommentarer endnu.
+No contacts available,Ingen kontakter tilgaengelige
+No content for this tab,Intet indhold for denne fane
+No data available,Ingen data tilgaengelige
+No data available for the selected filters,Ingen data tilgaengelige for valgte filtre
+No data to export,Ingen data at eksportere
+No dates set,Ingen datoer angivet
+No defects reported,Ingen defekter rapporteret
+No dependencies defined,Ingen afhaengigheder defineret
+No description,Ingen beskrivelse
+No discussion yet.,Ingen diskussion endnu.
+No documents attached,Ingen dokumenter vedhaengt
+No due date,Ingen forfaldsdato
+No employee linked to this resource,Ingen medarbejder linket til denne ressource
+No ERPNext employee linked to resource,Ingen ERPNext-medarbejder linket til ressource
+No events found,Ingen begivenheder fundet
+No files attached yet.,Ingen filer vedhaengt endnu.
+No Frappe Project linked,Intet Frappe-projekt linket
+No Grouping,Ingen gruppering
+No items,Ingen elementer
+No matching tasks,Ingen matchende opgaver
+No matching tasks found,Ingen matchende opgaver fundet
+No migration history,Ingen migreringshistorik
+No Milestone,Ingen milepael
+No milestones,Ingen milepaele
+No milestones defined for this project.,Ingen milepaele defineret for dette projekt.
+No notes yet.,Ingen noter endnu.
+No notes yet. Add a due diligence note to track progress.,Ingen noter endnu. Tilfoej en forhaandsgennemgangsnote for at foelge fremskridtet.
+No notifications,Ingen notifikationer
+No Orga Project linked to Frappe Project {0},Intet Orga-projekt linket til Frappe-projekt {0}
+No overdue tasks,Ingen forsinkede opgaver
+No pending cascade changes,Ingen ventende kaskadeaendringer
+No predecessors - this task can start independently,Ingen forgaengere -- denne opgave kan starte uafhaengigt
+No project,Intet projekt
+No projects found,Ingen projekter fundet
+No Projects Yet,Ingen projekter endnu
+No recent activity,Ingen nylig aktivitet
+No related documents,Ingen relaterede dokumenter
+No resolved threads.,Ingen loeste trade.
+No resources found,Ingen ressourcer fundet
+No results found,Ingen resultater fundet
+No skills listed,Ingen kompetencer opfoert
+No skills recorded yet,Ingen kompetencer registreret endnu
+No successors - no tasks are waiting for this one,Ingen efterfoelgere -- ingen opgaver venter pa denne
+No task selected,Ingen opgave valgt
+No tasks assigned to you,Ingen opgaver tildelt dig
+No tasks available to add,Ingen opgaver tilgaengelige at tilfoeje
+No tasks found,Ingen opgaver fundet
+No tasks linked to this milestone,Ingen opgaver linket til denne milepael
+No tasks with dates to display,Ingen opgaver med datoer at vise
+No tasks yet,Ingen opgaver endnu
+No team members,Ingen teammedlemmer
+No template,Ingen skabelon
+No templates yet,Ingen skabeloner endnu
+No time data found,Ingen tidsdata fundet
+No time logged today,Ingen tid registreret i dag
+No time logged yet,Ingen tid registreret endnu
+No time logs for this period,Ingen tidsposter for denne periode
+No time logs found,Ingen tidsposter fundet
+No unread notifications,Ingen ulaeste notifikationer
+No update information available yet.,No update information available yet.
+None,Ingen
+Not found,Ikke fundet
+Not permitted,Ikke tilladt
+Not permitted to access this project,Ikke tilladt at tilga dette projekt
+Not permitted to access this task,Ikke tilladt at tilga denne opgave
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Ikke tilladt at kommentere dette dokument
+Not permitted to create clients,Ikke tilladt at oprette klienter
+Not permitted to delete this client,Ikke tilladt at slette denne klient
+Not permitted to delete this defect,Ikke tilladt at slette denne defekt
+Not permitted to delete this note,Ikke tilladt at slette denne note
+Not permitted to delete this project,Ikke tilladt at slette dette projekt
+Not permitted to delete this task,Ikke tilladt at slette denne opgave
+Not permitted to delete this time log,Ikke tilladt at slette denne tidspost
+Not permitted to invite clients,Ikke tilladt at invitere klienter
+Not permitted to modify client access,Ikke tilladt at aendre klientadgang
+Not permitted to modify this project,Ikke tilladt at aendre dette projekt
+Not permitted to update settings,Ikke tilladt at opdatere indstillinger
+Not permitted to update this client,Ikke tilladt at opdatere denne klient
+Not permitted to view this client,Ikke tilladt at vise denne klient
+not sent,ikke sendt
+Not set,Ikke angivet
+Not specified,Ikke specificeret
+Note,Note
+Note (optional),Note (valgfrit)
+Note Content,Noteindhold
+Note content is required,Noteindhold er paakraevet
+Note name is required,Notenavn er paakraevet
+Note not found,Note ikke fundet
+Note Type,Notetype
+Notes,Noter
+Notification,Notifikation
+Notification not found,Notifikation ikke fundet
+Notifications,Notifikationer
+Off Track,Ude af kurs
+Offer,Tilbud
+Offer Prepared,Tilbud forberedt
+Oldest First,AEldst foerst
+On Hold,I bero
+On Leave,Pa orlov
+On Track,Pa sporet
+On-Time Rate,Rettidighed
+Only administrators can delete activities,Kun administratorer kan slette aktiviteter
+Only the comment author or administrators can delete comments,Kun kommentarforfatteren eller administratorer kan slette kommentarer
+Only you and admins,Kun dig og administratorer
+Open,Aben
+Open in Desk,Abn i Desk
+Open Task Log,Abn opgavelog
+Open Tasks,Abne opgaver
+Optional,Valgfrit
+optional,valgfrit
+Or email us directly at,Eller send os e-mail direkte pa
+Orga Project {0} from Frappe Projects,Orga-projekt {0} fra Frappe Projects
+Orga Task {0} from Frappe,Orga-opgave {0} fra Frappe
+Organizer,Arrangoe
+Other,Andet
+Over Budget,Over budget
+Overall Progress,Samlet fremskridt
+Overall Utilization,Samlet udnyttelse
+Overallocated,Overtildelt
+Overdue,Forsinket
+overdue,forsinket
+Overdue Tasks,Forsinkede opgaver
+Overview,Oversigt
+Owner,Ejer
+Page Not Found,Siden blev ikke fundet
+Parent,Overordnet
+Parent comment must belong to the same document,Overordnet kommentar skal tilhoere samme dokument
+Parent comment not found,Overordnet kommentar ikke fundet
+Parent project not synced to Frappe yet,Overordnet projekt er ikke synkroniseret med Frappe endnu
+Parent project sync not enabled,Overordnet projektsynkronisering er ikke aktiveret
+Partner,Partner
+Pending,Ventende
+per page,per side
+Perform initial assessment and background check,Udfoed indledende vurdering og baggrundstjek
+Permanently remove this event,Fjern denne begivenhed permanent
+Permanently remove this task,Fjern denne opgave permanent
+Phone,Telefon
+Pin,Fastgoer
+Pin Activity,Fastgoer aktivitet
+Pin to top,Fastgoer oeverst
+Pinned,Fastgjort
+Planned budget for this task,Planlagt budget for denne opgave
+Planning,Planlaegning
+Please describe your question or issue in detail...,Beskriv dit spoergsmal eller problem i detaljer...
+Please login to access Orga,Log ind for at fa adgang til Orga
+Please login to access the client portal,Log ind for at fa adgang til klientportalen
+Please respond to this invitation in Orga,Svar pa denne invitation i Orga
+Please select an image file,Vaelg en billedfil
+Please try again,Proev igen
+Please type,Skriv
+Portal,Portal
+Portal access revoked for {0},Portaladgang tilbagekaldt for {0}
+Portal user created successfully. Welcome email {0},Portalbruger oprettet. Velkomst-e-mail {0}
+Post,Publicer
+Powered by,Drevet af
+Powered by Tonic,Drevet af Tonic
+Predecessors (Blocked By),Forgaengere (blokeret af)
+Preferences,Indstillinger
+Preferences saved successfully,Indstillinger gemt
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Praefiks for automatisk genererede projektkoder (f.eks. ORG-2026-0001)
+Prepare and document offer terms,Forbered og dokumenter tilbudsvilkar
+Press,Tryk
+Preview,Forhaandsvisning
+Preview cascade before applying,Forhaandsvis kaskade foer anvendelse
+Previous,Forrige
+Priority,Prioritet
+Priority assigned to new tasks,Prioritet tildelt nye opgaver
+Priority updated,Prioritet opdateret
+Proficiency,Kompetenceniveau
+Profile,Profil
+Progress,Fremskridt
+Progress (High-Low),Fremskridt (faldende)
+Progress (Low-High),Fremskridt (stigende)
+Progress Overview,Fremskridtsoversigt
+Progress updated,Fremskridt opdateret
+Project,Projekt
+Project budget has been saved.,Projektbudgettet er gemt.
+Project code (e.g. ORG-2026-0001),Projektkode (f.eks. ORG-2026-0001)
+Project Code Prefix,Projektkodepraefiks
+Project created,Projekt oprettet
+Project deleted,Projekt slettet
+Project description has been saved.,Projektbeskrivelsen er gemt.
+Project Details,Projektdetaljer
+Project end date has been saved.,Projektets slutdato er gemt.
+Project Files,Projektfiler
+Project has no linked client,Projektet har ingen tilknyttet klient
+Project Health,Projektsundhed
+Project Info,Projektinformation
+Project is required,Projekt er paakraevet
+Project is required for project context,Projekt er paakraevet for projektkontekst
+Project is required when tracking context is 'project',"Projekt er paakraevet nar sporingskonteksten er ""projekt"""
+Project Manager,Projektleder
+Project Name,Projektnavn
+Project name and template name are required,Projektnavn og skabelonnavn er paakraevet
+Project name is required,Projektnavn er paakraevet
+Project not found,Projekt ikke fundet
+Project not found or you do not have access,Projekt ikke fundet eller du mangler adgang
+Project settings,Projektindstillinger
+Project start date has been saved.,Projektets startdato er gemt.
+Project title has been saved.,Projektets titel er gemt.
+Project Type,Projekttype
+Project updated,Projekt opdateret
+Project {0} linked to client {1},Projekt {0} tilknyttet klient {1}
+Project {0} not found,Projekt {0} ikke fundet
+Project {0} to Frappe Projects,Projekt {0} til Frappe Projects
+Project:,Projekt:
+Projects,Projekter
+projects,projekter
+Projects created:,Projekter oprettet:
+Projects Overview,Projektoversigt
+Projects skipped:,Projekter sprunget over:
+Projects updated:,Projekter opdateret:
+Promote failed,Forfremmelse mislykkedes
+Promote to task,Forfrem til opgave
+Promoted to task,Forfremmet til opgave
+Propose,Foresla
+Propose New Time,Foresla nyt tidspunkt
+Propose Time,Foresla tidspunkt
+Proposed End,Foreslaaet slut
+Proposed Start,Foreslaaet start
+Public,Offentlig
+Quick Action,Hurtighandling
+Quick Actions,Hurtighandlinger
+Quick Stats,Hurtigstatistik
+Rates,Satser
+Receive notifications via email,Modtag notifikationer via e-mail
+Receive notifications within the application,Modtag notifikationer i applikationen
+Recent Activity,Nylig aktivitet
+Recipient {0} is not a valid user,Modtager {0} er ikke en gyldig bruger
+Reference,Reference
+Refresh,Opdater
+Related,Relateret
+Related Company (optional),Relateret virksomhed (valgfrit)
+Related Documents,Relaterede dokumenter
+Related Project,Relateret projekt
+Remaining,Tilbagestaende
+Reminder,Paamindelse
+Reminder Lead Time,Paamindelsestid paa forhaand
+Reminder: {0} - {1} at {2},Paamindelse: {0} - {1} kl. {2}
+Remove,Fjern
+Remove dependency,Fjern afhaengighed
+Remove dependency on,Fjern afhaengighed af
+Remove from group,Fjern fra gruppe
+Remove group dependency,Fjern gruppeafhaengighed
+Remove skill,Fjern kompetence
+Reopen,Genabn
+Reopen thread,Genabn trad
+reopened,genabnet
+replies,svar
+Reply,Svar
+reply,svar
+Replying to,Svarer pa
+Replying to comment,Svarer pa kommentar
+Report Defect,Rapporter defekt
+Reported Date,Rapporteret dato
+Reports,Rapporter
+Reports To,Rapporterer til
+Request Submitted!,Anmodning sendt!
+Required,Paakraevet
+required,paakraevet
+Research,Forskning
+Reset to Defaults,Nulstil til standard
+Resolve,Loes
+Resolve thread,Loes trad
+Resolved,Loest
+Resolved date cannot be before reported date,Loesningsdato kan ikke vaere foer rapporteringsdato
+Resource,Ressource
+Resource and skill name are required,Ressource og kompetencenavn er paakraevet
+Resource is already an attendee,Ressourcen er allerede en deltager
+Resource name is required,Ressourcenavn er paakraevet
+Resource not found,Ressource ikke fundet
+Resource synced from employee {0},Ressource synkroniseret fra medarbejder {0}
+Resource {0} is already assigned to this task ({1}),Ressource {0} er allerede tildelt denne opgave ({1})
+Resource {0} not found,Ressource {0} ikke fundet
+Resources,Kontakter
+Retry,Proev igen
+Review,Gennemgang
+Review all relevant documents and contracts,Gennemga alle relevante dokumenter og kontrakter
+Reviews,Gennemgange
+Risk Assessment,Risikovurdering
+Rollback,Fortryd
+Rolled back,Fortrudt
+Room or address,Lokale eller adresse
+RSVP,RSVP
+Safety,Sikkerhed
+Sat,Loer
+Save,Gem
+"Save a project as a template, or import one from a JSON file.","Gem et projekt som skabelon, eller importér en fra en JSON-fil."
+Save as Template,Gem som skabelon
+Save Changes,Gem aendringer
+Save failed,Gemning mislykkedes
+Save Preferences,Gem indstillinger
+Save Template,Gem skabelon
+Saving...,Gemmer...
+Schedule,Tidsplan
+Schedule type is required for scheduled triggers,Tidsplantype er paakraevet for planlagte udloesere
+Scheduled,Planlagt
+Search,Soeg
+"Search by name, email, or skill...","Soeg efter navn, e-mail eller kompetence..."
+Search for a project...,Soeg efter et projekt...
+Search for a task...,Soeg efter en opgave...
+Search for an event...,Soeg efter en begivenhed...
+Search for people to invite...,Soeg efter personer at invitere...
+Search tasks to link...,Soeg opgaver at linke...
+Search tasks...,Soeg opgaver...
+Search...,Soeg...
+Searching...,Soeger...
+Seen,Set
+Select a project if your request is related to a specific project.,Vaelg et projekt hvis din anmodning vedroerer et bestemt projekt.
+Select a project...,Vaelg et projekt...
+Select a task from the Gantt chart to view and manage its details.,Vaelg en opgave fra Gantt-diagrammet for at se og haandtere dens detaljer.
+Select a task from the list or Kanban board to view and manage its details.,Vaelg en opgave fra listen eller Kanban-tavlen for at se og haandtere dens detaljer.
+Select a template...,Vaelg en skabelon...
+Select priority...,Vaelg prioritet...
+Select status...,Vaelg status...
+Select task...,Vaelg opgave...
+Select type...,Vaelg type...
+Selection,Udvalg
+Send,Send
+Send comment,Send kommentar
+Send email invitations to attendees,Send e-mailinvitationer til deltagere
+Send Invitations,Send invitationer
+Send notification when a task is assigned to a user,Send notifikation nar en opgave tildeles en bruger
+Send notification when task status changes,Send notifikation nar opgavestatus aendres
+Send reminder before task due date,Send paamindelse foer opgavens forfaldsdato
+sent,sendt
+Set rate,Angiv sats
+Settings,Indstillinger
+Settings saved successfully,Indstillinger gemt
+Severity,Alvorsgrad
+SF (Start-Finish),SF (Start-Slut)
+SF - Start-to-Finish,SF - Start-til-Slut
+Show,Vis
+Show all,Vis alle
+Show all changes,Vis alle aendringer
+Show Archived,Vis arkiverede
+Show full diff,Vis fuld forskel
+Show less,Vis mindre
+Show more,Vis mere
+Skill added,Kompetence tilfojet
+Skill is required,Kompetence er paakraevet
+Skill Name,Kompetencenavn
+Skill removed,Kompetence fjernet
+Skill {0} already exists for this resource,Kompetence {0} eksisterer allerede for denne ressource
+Skills,Kompetencer
+Skills & Competencies,Faerdigheder og kompetencer
+Skip already migrated projects,Spring allerede migrerede projekter over
+Sort by,Sortér efter
+Sort: Due Date,Sortering: Forfaldsdato
+Sort: Priority,Sortering: Prioritet
+Sort: Project,Sortering: Projekt
+Sort: Status,Sortering: Status
+Sort: Task,Sortering: Opgave
+Source Code,Kildekode
+Spent,Forbrugt
+Spent:,Forbrugt:
+SS (Start-Start),SS (Start-Start)
+SS - Start-to-Start,SS - Start-til-Start
+Standalone,Selvstaendig
+Start,Start
+Start a discussion below,Start en diskussion nedenfor
+Start Date,Startdato
+Start date,Startdato
+Start Date (Earliest),Startdato (tidligst)
+Start date updated,Startdato opdateret
+Start date/time is required,Startdato/-tid er paakraevet
+Start Migration,Start migrering
+Start the conversation below.,Begynd samtalen nedenfor.
+Start Timer,Start tidtager
+Start typing to search...,Begynd at skrive for at soege...
+Start-to-Finish,Start-til-Slut
+Start-to-Start,Start-til-Start
+Start:,Start:
+Statistics reset,Statistik nulstillet
+Status,Status
+Status assigned to new projects,Status tildelt nye projekter
+Status assigned to new tasks,Status tildelt nye opgaver
+Status Changes,Statusaendringer
+Status updated,Status opdateret
+Status:,Status:
+Stop,Stop
+Stop & Save,Stop og gem
+Stop Timer,Stop tidtager
+Stops current timer and starts for this event,Stopper aktuel tidtager og starter for denne begivenhed
+Stops current timer and starts for this task,Stopper aktuel tidtager og starter for denne opgave
+Subject,Emne
+Subject cannot exceed 255 characters,Emne kan ikke overstige 255 tegn
+Subject is required,Emne er paakraevet
+Submit,Indsend
+Submit Another Request,Indsend en ny anmodning
+Submit Request,Indsend anmodning
+Submitting...,Indsender...
+Successfully saved,Gemt
+Successors (Blocking),Efterfoelgere (blokerer)
+Sun,Soen
+Supplier,Leverandoer
+Support,Support
+Switch to this event,Skift til denne begivenhed
+Switch to this task,Skift til denne opgave
+Sync direction is set to Frappe to Orga only,Synkroniseringsretning er sat til kun Frappe til Orga
+Sync direction is set to Orga to Frappe only,Synkroniseringsretning er sat til kun Orga til Frappe
+Sync not enabled for this project,Synkronisering er ikke aktiveret for dette projekt
+System,System
+Table,Tabel
+Take ownership of this task,Tag ansvar for denne opgave
+Target Date,Maldato
+Target End,Malslut
+Target Project,Malprojekt
+Target user is required for '{0}' action,"Malbruger er paakraevet for handlingen ""{0}"""
+Task,Opgave
+task,opgave
+Task '{0}' is due on {1}.,"Opgave ""{0}"" forfalder {1}."
+Task and resource are required,Opgave og ressource er paakraevet
+Task Assignment,Opgavetildeling
+Task cannot be its own parent,En opgave kan ikke vaere sin egen overordnet
+Task cannot depend on itself,En opgave kan ikke afhaenge af sig selv
+Task cannot depend on the group it belongs to,En opgave kan ikke afhaenge af gruppen den tilhoerer
+Task created,Opgave oprettet
+Task deleted,Opgave slettet
+Task description has been saved.,Opgavebeskrivelsen er gemt.
+Task Details,Opgavedetaljer
+Task due in {0} days: {1},Opgave forfalder om {0} dage: {1}
+Task due today: {0},Opgave forfalder i dag: {0}
+Task due tomorrow: {0},Opgave forfalder i morgen: {0}
+Task duplicated,Opgave kopieret
+Task Group,Opgavegruppe
+Task ID is required,Opgave-ID er paakraevet
+Task is blocked by incomplete dependencies,Opgaven er blokeret af ufuldstaendige afhaengigheder
+Task is cancelled,Opgaven er annulleret
+Task is completed,Opgaven er faerdiggjort
+Task is no longer blocked by a group,Opgaven er ikke laengere blokeret af en gruppe
+Task is required for task context,Opgave er paakraevet for opgavekontekst
+Task is required when tracking context is 'task',"Opgave er paakraevet nar sporingskonteksten er ""opgave"""
+Task linked,Opgave linket
+Task moved,Opgave flyttet
+Task name,Opgavenavn
+Task name is required,Opgavenavn er paakraevet
+Task removed from group,Opgave fjernet fra gruppe
+Task Subject,Opgaveemne
+Task subject is required,Opgaveemne er paakraevet
+Task Type,Opgavetype
+Task unblocked: {0},Opgave afblokeret: {0}
+Task unlinked,Opgave aflinket
+Task updated,Opgave opdateret
+Task {0} not found,Opgave {0} ikke fundet
+Task {0} not in project {1},Opgave {0} findes ikke i projekt {1}
+Task {0} to Frappe,Opgave {0} til Frappe
+Tasks,Opgaver
+tasks,opgaver
+Tasks and milestones will be created with dates relative to the project start date.,Opgaver og milepaele oprettes med datoer relative til projektets startdato.
+Tasks assigned to you across all projects.,Opgaver tildelt dig i alle projekter.
+Tasks created:,Opgaver oprettet:
+Tasks from projects you manage.,Opgaver fra projekter du leder.
+Tasks updated:,Opgaver opdateret:
+"Tasks, milestones, and dependencies have been created.","Opgaver, milepaele og afhaengigheder er oprettet."
+Tasks:,Opgaver:
+TBD,Ikke afgjort
+Team,Team
+Team Members,Teammedlemmer
+Template,Skabelon
+Template applied,Skabelon anvendt
+Template data is required in import data,Skabelondata er paakraevet i importdata
+Template has no data,Skabelonen har ingen data
+Template Name,Skabelonnavn
+Template name,Skabelonnavn
+Template name is required,Skabelonnavn er paakraevet
+Template name is required in import data,Skabelonnavn er paakraevet i importdata
+Template saved,Skabelon gemt
+Template updated successfully.,Skabelon opdateret.
+Template {0} not found,Skabelon {0} ikke fundet
+Templates,Skabeloner
+Tentative,Foreloebig
+The comment has been deleted,Kommentaren er slettet
+The project,Projektet
+The source document may have been deleted.,Kildedokumentet kan vaere slettet.
+The source document will not be affected.,Kildedokumentet paavirkes ikke.
+The status of '{0}' was changed from {1} to {2}.,"Statusen for ""{0}"" blev aendret fra {1} til {2}."
+Theme,Tema
+Theme preference,Temaindstilling
+This action,Denne handling
+This action cannot be undone.,Denne handling kan ikke fortrydes.
+This activity has been flagged for attention,Denne aktivitet er flagget for opmaerksomhed
+This is a reminder for your upcoming appointment,Dette er en paamindelse om dit kommende moede
+This method is only meant for developer mode,Denne metode er kun beregnet til udviklertilstand
+This page wandered off,This page wandered off
+This Week,Denne uge
+This will delete all notes and preferences associated with this activity.,Dette sletter alle noter og indstillinger tilknyttet denne aktivitet.
+This will import all Frappe Projects into Orga. Continue?,Dette importerer alle Frappe-projekter til Orga. Fortsaet?
+This will permanently delete,Dette sletter permanent
+This will permanently delete:,Dette sletter permanent:
+Thu,Tor
+Time,Tid
+Time & Billing,Tid og fakturering
+Time & Revenue,Tid og indtaegt
+Time Entries,Tidsposter
+Time log name is required,Navn pa tidspost er paakraevet
+Time Log not found,Tidspost ikke fundet
+Time log {0} not found,Tidspost {0} ikke fundet
+Time Logs,Tidsposter
+Time Summary,Tidsoversigt
+Time Tracking,Tidsregistrering
+Timeline,Tidslinje
+Timer active on,Tidtager aktiv pa
+Timer is not running,Tidtageren er ikke i gang
+Timer Running,Tidtager i gang
+Timer running,Tidtager i gang
+Timesheet DocType not available,DocType for tidsregistrering ikke tilgaengelig
+Timesheets,Tidsregistreringer
+Timezone,Tidszone
+Timezone is detected from your browser,Tidszone registreres fra din browser
+Title,Titel
+Title cannot exceed 255 characters,Titel kan ikke overstige 255 tegn
+Title is required,Titel er paakraevet
+Title updated,Titel opdateret
+To,Til
+to,til
+to cancel,for at annullere
+to close,for at lukke
+to confirm:,for at bekraefte:
+to edit,for at redigere
+"to save,","for at gemme,"
+To Time cannot be before From Time,Sluttid kan ikke vaere foer starttid
+Today,I dag
+today,i dag
+Toggle billable,Skift fakturerbar
+Toggle Details Panel,Vis/skjul detaljepanelet
+Toggle Manager Panel,Vis/skjul lederpanelet
+Toggle Sidebar,Vis/skjul sidepanelet
+Tomorrow,I morgen
+tomorrow,i morgen
+Total,I alt
+Total Budget,Samlet budget
+Total Contacts,Samlet antal kontakter
+Total Cost,Samlet omkostning
+Total Cost to Org,Samlet omkostning for organisationen
+Total Defect Cost,Samlet defektomkostning
+Total Hours,Samlet antal timer
+Total Hours Logged,Samlet antal registrerede timer
+Total Projects,Samlet antal projekter
+Total Spent,Samlet forbrugt
+Total Tasks,Samlet antal opgaver
+Total:,I alt:
+Tracked,Fulgt
+trails to today while Open at 0%,glider til i dag mens Aben ved 0%
+Tried:,Tried:
+Try adjusting your filter criteria,Proev at justere dine filterkriterier
+Try adjusting your filters.,Proev at justere dine filtre.
+Try Again,Proev igen
+Tue,Tir
+Type,Type
+Type updated,Type opdateret
+Type:,Type:
+Typical response time: 1-2 business days,Typisk svartid: 1-2 hverdage
+Unarchive,Afarkiver
+Unarchive Activity,Afarkiver aktivitet
+Unassign,Fjern tildeling
+Unassigned,Ikke tildelt
+Under Budget,Under budget
+Ungrouped,Ugrupperet
+Unknown,Ukendt
+Unknown error,Ukendt fejl
+Unlink failed,Aflinking mislykkedes
+Unlink task from milestone,Aflink opgave fra milepael
+Unpin,Frigoe
+Unpin Activity,Frigoe aktivitet
+Unread,Ulaest
+Unread only,Kun ulaeste
+Until,Indtil
+Up to Date,Up to Date
+Upcoming,Kommende
+upcoming,kommende
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Opdatering mislykkedes
+Updated,Opdateret
+Updated successfully,Opdateret
+Updates,Updates
+Upload,Upload
+Upload failed,Upload mislykkedes
+Upload files below to attach them to this task.,Upload filer nedenfor for at vedhaenge dem til denne opgave.
+Upload to project,Upload til projekt
+Uploading...,Uploader...
+Urgent,Haster
+User {0} is already linked to client {1},Bruger {0} er allerede linket til klient {1}
+User {0} is already linked to resource {1},Bruger {0} er allerede linket til ressource {1}
+Utilization,Udnyttelse
+Valid,Gyldig
+Value:,Vaerdi:
+Variance,Afvigelse
+Variance:,Afvigelse:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Vis
+View All,Vis alle
+View all active projects,Vis alle aktive projekter
+View all open tasks,Vis alle abne opgaver
+View overdue tasks,Vis forsinkede opgaver
+View Release,View Release
+Visibility,Synlighed
+Waiting for this task,Venter pa denne opgave
+Waits for:,Venter pa:
+Warning: Resource {0} status is {1},Advarsel: Ressource {0} har status {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Advarsel: HTTP bruges i stedet for HTTPS. Webhook-data er muligvis ikke sikre.
+Watch budget closely,Overvaag budgettet noeje
+We'll respond to:,Vi svarer til:
+Webhook deleted,Webhook slettet
+Webhook name is required,Webhook-navn er paakraevet
+Webhook not found,Webhook ikke fundet
+Webhook URL is required,Webhook-URL er paakraevet
+Webhook URL must start with http:// or https://,Webhook-URL skal starte med http:// eller https://
+Wed,Ons
+Week,Uge
+Weekend,Weekend
+Weekly Capacity,Ugekapacitet
+weekly capacity,ugekapacitet
+Weekly Capacity (h),Ugekapacitet (t)
+Welcome,Velkommen
+Welcome back!,Velkommen tilbage!
+Welcome to Orga,Velkommen til Orga
+What are you working on?,Hvad arbejder du pa?
+What did you work on?,Hvad arbejdede du pa?
+When,Hvornaar
+When work begins,Nar arbejdet begynder
+When work is due,Nar arbejdet forfalder
+Where,Hvor
+Will capture:,Vil fange:
+Will create:,Vil oprette:
+with checklist items,med tjeklistepunkter
+Working,Arbejder
+Workload,Arbejdsbelastning
+Workmanship,Udfoersel
+Write a comment...,Skriv en kommentar...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Skriv en kommentar... Brug @navn for at naevne (Ctrl+Enter for at sende)
+Year,Ar
+Yes,Ja
+Yesterday,I gar
+yesterday,i gar
+You are not an attendee of this appointment,Du er ikke en deltager i dette moede
+You are not linked to any resource,Du er ikke linket til nogen ressource
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Du kan kun slette dine egne kommentarer
+You can only delete your own reactions,Du kan kun slette dine egne reaktioner
+You do not have access to the client portal. Please contact support.,Du har ikke adgang til klientportalen. Kontakt support.
+You have already reacted with '{0}',"Du har allerede reageret med ""{0}"""
+You have been assigned to task '{0}' in project '{1}'.,"Du er tildelt opgaven ""{0}"" i projektet ""{1}""."
+You have been assigned to: {0},Du er tildelt: {0}
+You have been invited to the following appointment,Du er inviteret til foelgende moede
+You have no tasks assigned to you right now.,Du har ingen opgaver tildelt lige nu.
+You were mentioned in {0},Du blev naevnt i {0}
+Your attendance,Din deltagelse
+Your comment has been posted,Din kommentar er publiceret
+Your Projects,Dine projekter
+Your projects will appear here once they're assigned to you.,Dine projekter vises her nar de tildeles dig.
+Your Response,Dit svar
+Your RSVP,Dit RSVP
+Your support request has been submitted successfully.,Din supportanmodning er sendt.
+Your support request has been submitted successfully. We'll get back to you shortly.,Din supportanmodning er sendt. Vi kontakter dig hurtigst muligt.
+"Your task ""{0}"" is no longer blocked and can now be started.","Din opgave ""{0}"" er ikke laengere blokeret og kan nu startes."
+{0} is required,{0} er paakraevet
+{0} new activities,{0} nye aktiviteter
+{0} of {1} completed,{0} af {1} faerdiggjort
+{0} projects already migrated (will be skipped or updated),{0} projekter allerede migreret (springes over eller opdateres)
+{0} status changed to {1},{0} status aendret til {1}
+{0} tasks remaining,{0} opgaver tilbage
+{0} tasks without projects will be skipped,{0} opgaver uden projekter springes over
+{0} {1} not found,{0} {1} ikke fundet

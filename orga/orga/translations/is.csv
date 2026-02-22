@@ -1,0 +1,1622 @@
++ Add Milestone,+ Bæta við áfanga
++ Create Task,+ Búa til verk
++ Log Time,+ Skrá tíma
+-- Select a project --,-- Veldu verkefni --
+0m,0m
+1 day,1 dagur
+1 day ago,fyrir 1 degi
+1 dependency,1 tengsl
+1 entry,1 færsla
+1 file,1 skrá
+1 hour ago,fyrir 1 klukkustund
+1 member,1 meðlimur
+1 milestone,1 áfangi
+1 month,1 mánuður
+1 task,1 verk
+< 1m,< 1m
+"A clear, actionable title for the task","Skýr, aðgerðahæfur titill fyrir verkefnið"
+A client with email {0} already exists: {1},Viðskiptavinur með netfangið {0} er þegar til: {1}
+A key deliverable or checkpoint for the project,Lykilafhending eða eftirlitspunktur í verkefninu
+Accept,Samþykkja
+Accepted,Samþykkt
+Acknowledge,Staðfesta móttöku
+across,í
+Action,Aðgerð
+Actions,Aðgerðir
+Active,Virkt
+Active Assignments,Virkar úthlutanir
+Active Projects,Virk verkefni
+Activity,Virkni
+Activity data deleted successfully,Virkniupplýsingum eytt
+Activity Info,Upplýsingar um virkni
+Activity Stats,Tölfræði um virkni
+Activity will appear here as you work on tasks and projects.,Virkni birtist hér eftir því sem þú vinnur að verkum og verkefnum.
+Actual,Raunverulegt
+Actual Cost,Raunkostnaður
+Actual cost cannot be negative,Raunkostnaður getur ekki verið neikvæður
+Actual end date cannot be before actual start date,Raunveruleg lokadagsetning getur ekki verið á undan raunverulegri upphafsdagsetningu
+Actual Hours,Raunstundir
+Add,Bæta við
+Add a checklist item...,Bæta við atriði á gátlista...
+Add a comment...,Bæta við athugasemd...
+Add a comment... (Ctrl+Enter to send),Bæta við athugasemd... (Ctrl+Enter til að senda)
+Add a description...,Bæta við lýsingu...
+Add a milestone description...,Bæta við lýsingu á áfanga...
+Add a note below to annotate this activity.,Bættu athugasemd hér að neðan til að skýra þessa virkni.
+Add a note...,Bæta við athugasemd...
+Add a project description...,Bæta við verkefnislýsingu...
+Add a task description...,Bæta við verklýsingu...
+Add checklist item...,Bæta við gátlistaatriði...
+Add Contact,Bæta við tengilið
+Add contacts via the Desk interface or clear filters,Bættu við tengiliðum í gegnum Desk viðmótið eða hreinsaðu síur
+Add Dependency,Bæta við tengslum
+Add details about this event...,Bæta við upplýsingum um þennan viðburð...
+Add details about this milestone...,Bæta við upplýsingum um þennan áfanga...
+Add details about this task...,Bæta við upplýsingum um þetta verk...
+Add details or acceptance criteria for this milestone,Bæta við upplýsingum eða samþykkisskilyrðum fyrir þennan áfanga
+"Add details, context, or acceptance criteria","Bæta við upplýsingum, samhengi eða samþykkisskilyrðum"
+Add first dependency,Bæta við fyrstu tengslum
+Add item,Bæta við atriði
+Add items below to track progress.,Bættu við atriðum hér að neðan til að fylgjast með framvindu.
+Add items below to track subtasks,Bættu við atriðum hér að neðan til að fylgjast með undirverkum
+Add Milestone,Bæta við áfanga
+Add Milestone (Shift+M),Bæta við áfanga (Shift+M)
+Add milestones to track key deliverables.,Bættu við áföngum til að fylgjast með lykilafhendigum.
+Add New Contact,Bæta við nýjum tengilið
+Add Note,Bæta við athugasemd
+Add note,Bæta við athugasemd
+Add notes about this contact...,Bæta við athugasemdum um þennan tengilið...
+Add reaction,Bæta við viðbrögðum
+Add Skill,Bæta við færni
+Add start and due dates to tasks to see them on the Gantt chart,Bættu upphafs- og skiladögum við verk til að sjá þau á Gantt-línuritinu
+Add Task,Bæta við verki
+Add Task (Shift+T),Bæta við verki (Shift+T)
+Added Finish-to-Start dependency,Tengsl frá lokum til upphafs bætt við
+Adding this dependency would create a circular reference: {0},Að bæta þessum tengslum við myndi skapa hringtilvísun: {0}
+Adding...,Bæti við...
+Address,Heimilisfang
+Advanced,Ítarlegt
+All,Allt
+All Active,Öll virk
+All Assignees,Allir úthlutaðir
+All Categories,Allir flokkar
+All caught up!,Allt uppfært!
+All Contexts,Öll samhengi
+All day,Allan daginn
+All day event,Viðburður allan daginn
+All fields,Allir reitir
+All Priorities,Allar forgangsröðanir
+All Projects,Öll verkefni
+All Status,Öll staða
+All Statuses,Allar stöður
+All task dependencies & relative dates,Öll verktengsl og hlutfallslegar dagsetningar
+All Tasks,Öll verk
+All tasks across all projects.,Öll verk í öllum verkefnum.
+All tasks are already linked,Öll verk eru þegar tengd
+All team members,Allir liðsmenn
+All Types,Allar tegundir
+All Users,Allir notendur
+Allocated,Úthlutað
+allocated,úthlutað
+Allow users to log time against tasks,Leyfa notendum að skrá tíma á verk
+Already exported to timesheet {0},Þegar flutt út í tímaskýrslu {0}
+Already Migrated,Þegar flutt
+Anyone with access,Allir sem hafa aðgang
+anytime to show this help,hvenær sem er til að sýna þessa hjálp
+App Updates,App Updates
+Appearance,Útlit
+Apply,Nota
+Apply cascade?,Nota keðjubreytingu?
+Apply Changes,Nota breytingar
+Apply failed,Notkun mistókst
+Apply Template,Nota sniðmát
+Applying...,Nota...
+Appointment,Tímabókanir
+Appointment and resource are required,Tímabókun og úrræði er krafist
+Appointment name is required,Nafn tímabókunar er krafist
+Appointment not found,Tímabókun fannst ekki
+Appointment {0} not found,Tímabókun {0} fannst ekki
+Apps,Forrit
+Archive,Setja í safn
+Archive Activity,Setja virkni í safn
+Archived,Í safni
+Are you sure you want to delete this activity data? This cannot be undone.,Ertu viss um að þú viljir eyða þessum virkniupplýsingum? Þetta er ekki hægt að afturkalla.
+Are you sure you want to delete this comment?,Ertu viss um að þú viljir eyða þessari athugasemd?
+Are you sure you want to delete this project?,Ertu viss um að þú viljir eyða þessu verkefni?
+Are you sure?,Ertu viss?
+Ascending -- click to reverse,Hækkandi -- smelltu til að snúa við
+Assign To,Úthluta á
+Assign to Me,Úthluta á mig
+Assigned Contact,Úthluaður tengiliður
+Assigned To,Úthlutað á
+Assigned to,Úthlutað á
+Assigned to Me,Úthlutað á mig
+Assignee,Úthlutunaraðili
+Assignment,Úthlutun
+Assignment History,Úthlutunarferill
+Assignment name is required,Nafn úthlutunar er krafist
+Assignment {0} not found,Úthlutun {0} fannst ekki
+Assignments,Úthlutanir
+At least one action is required,Að minnsta kosti ein aðgerð er krafist
+At least one event is required,Að minnsta kosti einn viðburður er krafist
+At least one event must be selected,Að minnsta kosti einn viðburður verður að vera valinn
+Attachment,Viðhengi
+Attachments,Viðhengi
+Attendees,Þátttakendur
+"Audit trail, assignments, version history","Eftirlitsferill, úthlutanir, útgáfuferill"
+Auto,Sjálfvirkt
+Auto Calculate Progress,Reikna framvindu sjálfvirkt
+Auto Set Missed Milestones,Merkja liðna áfanga sjálfvirkt
+Auto-shift dependents when dates change,Sjálfvirk tilfærsla á tengdum verkum þegar dagsetningar breytast
+Auto-Trail Start,Sjálfvirk framlenging upphafs
+Auto-Trail updated,Sjálfvirk framlenging uppfærð
+Automatically calculate project progress from task completion,Reikna framvindu verkefnis sjálfvirkt út frá loknum verkum
+Automatically mark milestones as missed when overdue,Merkja áfanga sjálfvirkt sem liðna þegar þeir eru komnir fram yfir frest
+Automation rule {0} not found,Sjálfvirkniregla {0} fannst ekki
+Automation: {0},Sjálfvirkni: {0}
+Availability,Lausastaða
+Available,Laus
+Avatar updated successfully,Prófílmynd uppfærð
+Avg Progress,Meðalframvinda
+Back,Til baka
+Back to Portal,Aftur á gátt
+Back to Projects,Aftur í verkefni
+Beginner,Byrjandi
+Best regards,Bestu kveðjur
+Billable,Reikningshæft
+Billable Amount,Reikningshæf upphæð
+Billable Hours,Reikningshæfar stundir
+Billable Rate,Reikningsgjald
+Billing Rate,Gjaldtaka
+Blocked,Lokað á
+Both dates are needed to display task as a bar in Gantt chart,Báðar dagsetningar þarf til að birta verk sem stiku í Gantt-línuriti
+Both doctype and docname are required,Bæði doctype og docname eru krafist
+Both proposed start and end times are required,Bæði tillögutímar upphafs og loka eru krafist
+Both task_name and depends_on are required,Bæði task_name og depends_on eru krafist
+Breadcrumb,Brauðmylsna
+Brief description of the defect or damage,Stutt lýsing á galla eða skemmdum
+Brief description of this template,Stutt lýsing á þessu sniðmáti
+Brief description of your request,Stutt lýsing á beiðni þinni
+Brief project description,Stutt verkefnislýsing
+Budget,Fjárhagsáætlun
+Budget at risk,Fjárhagsáætlun í hættu
+Budget Burn Rate,Hraði fjárnotkunar
+Budget Status,Staða fjárhagsáætlunar
+Budget updated,Fjárhagsáætlun uppfærð
+Budget:,Fjárhagsáætlun:
+Bug,Villa
+Burn Rate,Hraði notkunar
+Busy,Upptekin/n
+By,Eftir
+By Assignee,Eftir úthlutunaraðila
+By Group,Eftir hóp
+By Milestone,Eftir áfanga
+By Priority,Eftir forgangi
+By Status,Eftir stöðu
+Cancel,Hætta við
+Cancelled,Hætt við
+cannot be undone,ekki hægt að afturkalla
+Cannot delete client with {0} linked projects. Unlink projects first.,Ekki er hægt að eyða viðskiptavini með {0} tengd verkefni. Aftengdu verkefnin fyrst.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Ekki er hægt að eyða verkefni með {0} tengd verk. Eyddu verkum fyrst.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Ekki er hægt að eyða úrræði með {0} virkar úthlutanir. Ljúktu þeim eða hættu við fyrst.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Ekki er hægt að eyða verki með {0} undirverkum. Eyddu undirverkum fyrst.
+Capacity,Afkastageta
+capacity,afkastageta
+Capacity & Rates,Afkastageta og gjöld
+Capture project structure for reuse,Vista verkefnisuppbyggingu til endurnotkunar
+Cascade,Keðjubreyting
+Cascade Preview,Forskoðun keðjubreytinga
+Category,Flokkur
+Celebrate,Fagna
+Change,Breyta
+Change History,Breytingaferill
+Change Priority,Breyta forgangi
+Change Status,Breyta stöðu
+Changes,Breytingar
+Changes appear when fields are modified.,Breytingar birtast þegar reitir eru breytt.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Gátlisti
+Checklist item name is required,Nafn gátlistaatriðis er krafist
+Checklist item not found,Gátlistaatriði fannst ekki
+Checklist item title is required,Titill gátlistaatriðis er krafist
+Checklist item {0} not found,Gátlistaatriði {0} fannst ekki
+Checklist item {0} not found in task,Gátlistaatriði {0} fannst ekki í verki
+Child,Undirliður
+Choose file to upload,Veldu skrá til að hlaða upp
+Circular dependency detected: {0},Hringtengsl greind: {0}
+Circular parent-child relationship detected,Hringtengsl yfirliðar og undirliðar greind
+Clear,Hreinsa
+Clear all read,Hreinsa allar lesnar
+Clear date,Hreinsa dagsetningu
+Click on an activity from the list to view and manage its details.,Smelltu á virkni af listanum til að skoða og stjórna upplýsingum hennar.
+Click the avatar to upload a new photo,Smelltu á prófílmyndina til að hlaða upp nýrri mynd
+Click to add description...,Smelltu til að bæta við lýsingu...
+Click to add notes...,Smelltu til að bæta við athugasemdum...
+Click to assign contact,Smelltu til að úthluta tengilið
+Click to change status,Smelltu til að breyta stöðu
+Click to change type,Smelltu til að breyta tegund
+Click to edit,Smelltu til að breyta
+Click to edit budget,Smelltu til að breyta fjárhagsáætlun
+Click to edit description,Smelltu til að breyta lýsingu
+Click to edit end date,Smelltu til að breyta lokadagsetningu
+Click to edit milestone name,Smelltu til að breyta nafni áfanga
+Click to edit rate,Smelltu til að breyta gjaldi
+Click to edit start date,Smelltu til að breyta upphafsdagsetningu
+Click to edit title,Smelltu til að breyta titli
+Click to load,Smelltu til að hlaða
+Click to set group dependency...,Smelltu til að stilla hóptengsl...
+Click to set group...,Smelltu til að stilla hóp...
+Click to view,Smelltu til að skoða
+Click to view at-risk projects,Smelltu til að skoða verkefni í hættu
+Click to view critical projects,Smelltu til að skoða mikilvæg verkefni
+Click to view healthy projects,Smelltu til að skoða verkefni í góðri stöðu
+Client,Viðskiptavinur
+Client already has a portal user: {0},Viðskiptavinur á þegar gáttarnotanda: {0}
+Client already has portal access,Viðskiptavinur hefur þegar aðgang að gátt
+Client has no portal user to revoke,Viðskiptavinur á engan gáttarnotanda til að afturkalla
+Client link removed from project {0},Tengill viðskiptavinar fjarlægður úr verkefni {0}
+Client Portal,Viðskiptavinagátt
+Client {0} deleted successfully,Viðskiptavinur {0} eytt
+Close,Loka
+Close (Esc),Loka (Esc)
+Comment,Athugasemd
+comment,athugasemd
+Comment added,Athugasemd bætt við
+Comment content is required,Efni athugasemdar er krafist
+Comment name is required,Nafn athugasemdar er krafist
+Comment not found,Athugasemd fannst ekki
+Comment removed,Athugasemd fjarlægð
+Comment {0} not found in task,Athugasemd {0} fannst ekki í verki
+Comments,Athugasemdir
+comments,athugasemdir
+Community Edition,Community Edition
+Company,Fyrirtæki
+Company name...,Nafn fyrirtækis...
+Complete,Ljúka
+Completed,Lokið
+completed,lokið
+Completed Tasks,Lokin verk
+Compliance,Samræmi
+Configure default values for new projects and tasks,Stilla sjálfgefin gildi fyrir ný verkefni og verk
+Configure email notification settings,Stilla tilkynningar í tölvupósti
+Confirm,Staðfesta
+Contact deleted,Tengilið eytt
+Contact Details,Tengiliðaupplýsingar
+Contact Information,Samskiptaupplýsingar
+Contact name is required,Nafn tengiliðar er krafist
+Contact Support,Hafa samband við aðstoð
+Contact your project manager for more information.,Hafðu samband við verkefnastjóra til að fá nánari upplýsingar.
+Contact:,Tengiliður:
+Contacts,Tengiliðir
+Context,Samhengi
+Contractor,Verktaki
+Cost estimate cannot be negative,Kostnaðarmat getur ekki verið neikvætt
+Cost Impact,Kostnaðaráhrif
+Cost Summary,Kostnaðaryfirlit
+Could not apply the template. Please try again.,Ekki tókst að nota sniðmátið. Reyndu aftur.
+Could not attach file to project,Ekki tókst að hengja skrá við verkefni
+Could not change task priority,Ekki tókst að breyta forgangi verks
+Could not change task status,Ekki tókst að breyta stöðu verks
+Could not delete the project. Please try again.,Ekki tókst að eyða verkefninu. Reyndu aftur.
+Could not delete the task. Please try again.,Ekki tókst að eyða verkinu. Reyndu aftur.
+Could not delete the template.,Ekki tókst að eyða sniðmátinu.
+Could not duplicate the task. Please try again.,Ekki tókst að afrita verkið. Reyndu aftur.
+Could not export the template.,Ekki tókst að flytja sniðmátið út.
+Could not import the template. Please check the file format.,Ekki tókst að flytja sniðmátið inn. Athugaðu skráarsniðið.
+Could not link task to milestone,Ekki tókst að tengja verk við áfanga
+Could not load document details.,Ekki tókst að hlaða skjalupplýsingum.
+Could not load task details,Ekki tókst að hlaða verkupplýsingum
+Could not promote checklist item to task.,Ekki tókst að umbreyta gátlistaatriði í verk.
+Could not remove task from milestone,Ekki tókst að fjarlægja verk úr áfanga
+Could not save budget.,Ekki tókst að vista fjárhagsáætlun.
+Could not save changes to the milestone,Ekki tókst að vista breytingar á áfanga
+Could not save changes to the task,Ekki tókst að vista breytingar á verki
+Could not save description.,Ekki tókst að vista lýsingu.
+Could not save end date.,Ekki tókst að vista lokadagsetningu.
+Could not save milestone name.,Ekki tókst að vista nafn áfanga.
+Could not save start date.,Ekki tókst að vista upphafsdagsetningu.
+Could not save the template. Please try again.,Ekki tókst að vista sniðmátið. Reyndu aftur.
+Could not save title.,Ekki tókst að vista titil.
+Could not update dependency mode.,Ekki tókst að uppfæra tengslaham.
+Could not update milestone date,Ekki tókst að uppfæra dagsetningu áfanga
+Could not update project status.,Ekki tókst að uppfæra stöðu verkefnis.
+Could not update project type.,Ekki tókst að uppfæra tegund verkefnis.
+Could not update setting.,Ekki tókst að uppfæra stillingu.
+Could not update task dates,Ekki tókst að uppfæra dagsetningar verks
+Could not update task status,Ekki tókst að uppfæra stöðu verks
+Could not update the template.,Ekki tókst að uppfæra sniðmátið.
+Create a copy of this task,Búa til afrit af þessu verki
+Create Contact,Búa til tengilið
+Create Event,Búa til viðburð
+Create Milestone,Búa til áfanga
+Create New Milestone,Búa til nýjan áfanga
+Create New Task,Búa til nýtt verk
+Create Project,Búa til verkefni
+Create Task,Búa til verk
+Create tasks and milestones from a template,Búa til verk og áfanga úr sniðmáti
+Create your first project to get started.,Búðu til fyrsta verkefnið þitt til að byrja.
+Create your first task to start tracking work on this project.,Búðu til fyrsta verkið þitt til að byrja að fylgjast með vinnu í þessu verkefni.
+Created,Búið til
+Creating...,Bý til...
+Critical,Mjög brýnt
+Critical Path,Mikilvægasta leiðin
+"Currency used for budgets, costs, and billing rates","Gjaldmiðill notaður fyrir fjárhagsáætlanir, kostnað og innheimtuverð"
+Current,Núverandi
+Current Assignments,Núverandi úthlutanir
+Current scheduled time:,Tímasetning eins og hún er:
+Currently running version,Currently running version
+d lag,d seinkun
+Daily Availability,Dagleg staða
+Daily Hours,Dagstundir
+Danger Zone,Hættusvæði
+Dark,Dökkt
+Dashboard,Stjórnborð
+Date,Dagsetning
+Date changes on this task will show cascade impact here,Dagsetningarbreytingar á þessu verki munu sýna keðjuáhrif hér
+Date cleared,Dagsetning hreinsuð
+Date of Joining,Upphafsdagur
+Date updated,Dagsetning uppfærð
+Dates,Dagsetningar
+Dates cascaded,Dagsetningar keðjubreyttar
+Dates will be relative to the project's start date.,Dagsetningar verða miðað við upphafsdagsetningu verkefnisins.
+Day,Dagur
+day,dagur
+days,dagar
+Days before due date to send reminder,Dagar fyrir skiladag til að senda áminningu
+Days Overdue,Dagar fram yfir frest
+Days Remaining,Dagar eftir
+Deadline,Frestur
+Deadlines,Frestir
+Decision,Ákvörðun
+Decline,Hafna
+Declined,Hafnað
+Default Currency,Sjálfgefinn gjaldmiðill
+Default hours per week for contact capacity planning,Sjálfgefnar stundir á viku til áætlunar á afkastagetu tengiliða
+Default Priority,Sjálfgefinn forgangur
+Default Project Status,Sjálfgefin staða verkefnis
+Default Task Status,Sjálfgefin staða verks
+Default task view,Sjálfgefið viðmót verka
+Default Values,Sjálfgefin gildi
+Default Weekly Capacity,Sjálfgefin vikuleg afkastageta
+Defaults,Sjálfgildi
+Defect Cost Impact,Kostnaðaráhrif galla
+Defect name is required,Nafn galla er krafist
+Defect Type,Tegund galla
+Defect {0} not found,Galli {0} fannst ekki
+Defects,Gallar
+Defects & Issues,Gallar og vandamál
+Defects Resolved,Gallar lagfærðir
+Delayed,Seinkað
+Delete,Eyða
+Delete Activity Data,Eyða virkniupplýsingum
+Delete all read notifications?,Eyða öllum lesnum tilkynningum?
+Delete comment,Eyða athugasemd
+Delete Contact,Eyða tengilið
+Delete Event,Eyða viðburði
+Delete Event?,Eyða viðburði?
+Delete failed,Eyðing mistókst
+Delete file,Eyða skrá
+Delete item,Eyða atriði
+Delete note,Eyða athugasemd
+Delete Project,Eyða verkefni
+Delete Task,Eyða verki
+Delete this project,Eyða þessu verkefni
+Deleted,Eytt
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Verkefni ""{0}"" eytt ({1} verk, {2} áfangar)"
+Deletes notes and preferences. Source document is not affected.,Eyðir athugasemdum og stillingum. Upprunaskjalið verður ekki fyrir áhrifum.
+Deleting...,Eyði...
+Department,Deild
+Dependencies,Tengsl
+dependencies,tengsl
+Dependencies are informational only,Tengsl eru aðeins til upplýsinga
+dependency,tengsl
+Dependency already exists,Tengsl eru þegar til
+Dependency Chain,Tengslarás
+Dependency created,Tengsl búin til
+Dependency mode updated,Tengslahamur uppfærður
+Dependency name is required,Nafn tengsla er krafist
+Dependency task {0} not found,Tengsláverk {0} fannst ekki
+Dependency {0} not found,Tengsl {0} fundust ekki
+depends,veltur á
+Depends on Group,Veltur á hóp
+Depends on task is required,Tengslaverk er krafist
+depends on...,veltur á...
+Descending -- click to reverse,Lækkandi -- smelltu til að snúa við
+Describe the defect in detail...,Lýstu gallanum ítarlega...
+Description,Lýsing
+Description updated,Lýsing uppfærð
+Designation,Starfsheiti
+"Detailed description of the defect, location, and impact","Ítarleg lýsing á galla, staðsetningu og áhrifum"
+Details,Upplýsingar
+Discard timer,Henda tímamæli
+Discussion,Umræða
+Dismiss,Dismiss
+Display,Birting
+Document,Skjal
+Document attached to project,Skjal hengt við verkefni
+Document final decision and rationale,Skrá endanlega ákvörðun og rökstuðning
+Documentation Review,Yfirferð skjala
+Documents,Skjöl
+Done,Búið
+Download,Hala niður
+Drag to create dependency,Dragðu til að búa til tengsl
+Dry Run,Prufukeyrsla
+Dry Run Complete,Prufukeyrslu lokið
+Due Date,Skiladagur
+Due date,Skiladagur
+Due Date (Earliest),Skiladagur (fyrsti)
+Due date cannot be before start date,Skiladagur getur ekki verið á undan upphafsdegi
+Due date is in the past,Skiladagur er liðinn
+Due Date Reminders,Áminningar um skiladag
+Due Diligence,Áreiðanleikakönnun
+Due Diligence Checklist,Gátlisti áreiðanleikakönnunar
+Due This Week,Á dagskrá þessa viku
+Due:,Skiladagur:
+Duplicate events are not allowed,Tvítekinn viðburður er ekki leyfður
+Duplicate failed,Afritun mistókst
+Duplicate Task,Afrita verk
+Duration,Lengd
+Duration Summary,Lengdaryfirlit
+Duration:,Lengd:
+e.g. Cracked wall finish in bathroom...,t.d. Sprungið veggefni í baðherbergi...
+"e.g. Electrical, Plumbing...","t.d. Rafmagn, pípulagnir..."
+Edit,Breyta
+Edit (E),Breyta (E)
+Edit dependency,Breyta tengslum
+Edit Event,Breyta viðburði
+Efficiency,Skilvirkni
+Either dependency_name or depends_on is required,Annaðhvort dependency_name eða depends_on er krafist
+Email,Tölvupóstur
+Email invitations to all attendees,Tölvupóstboð til allra þátttakenda
+Email is required to create portal user,Netfang er krafist til að búa til gáttarnotanda
+Email notifications,Tilkynningar í tölvupósti
+Employee,Starfsmaður
+Employee DocType not available,DocType starfsmanns er ekki tiltækt
+Employee not found,Starfsmaður fannst ekki
+Enable or disable optional features,Virkja eða slökkva á valfrjálsum eiginleikum
+Enable Time Tracking,Virkja tímaskráningu
+End,Lok
+End Date,Lokadagsetning
+End date,Lokadagsetning
+End Date cannot be before Start Date,Lokadagsetning getur ekki verið á undan upphafsdagsetningu
+End date cannot be before start date,Lokadagsetning getur ekki verið á undan upphafsdagsetningu
+End date updated,Lokadagsetning uppfærð
+End time was before start time. Adjusted to 1 hour after start.,Lokatími var á undan upphafstíma. Breytt í 1 klukkustund eftir upphaf.
+End:,Lok:
+Enter milestone name...,Sláðu inn nafn áfanga...
+Enter project name,Sláðu inn nafn verkefnis
+Enter task title...,Sláðu inn titil verks...
+Enter template name,Sláðu inn nafn sniðmáts
+Enter your note... Use @name to mention someone,Skrifaðu athugasemd... Notaðu @nafn til að nefna einhvern
+Error,Villa
+Error loading activity,Villa við hleðslu virkni
+Error loading contacts,Villa við hleðslu tengiliða
+Error loading dashboard,Villa við hleðslu stjórnborðs
+Error loading project,Villa við hleðslu verkefnis
+Error loading projects,Villa við hleðslu verkefna
+Error loading settings,Villa við hleðslu stillinga
+Error loading tasks,Villa við hleðslu verka
+Error loading templates,Villa við hleðslu sniðmáta
+Est. Hours,Áætl. stundir
+Estimated,Áætlað
+Estimated Cost,Áætlaður kostnaður
+Estimated Cost (€),Áætlaður kostnaður (€)
+Estimated Hours,Áætlaðar stundir
+Estimated:,Áætlað:
+Evaluate potential risks and concerns,Meta hugsanlega áhættu og áhyggjuefni
+Event,Viðburður
+Event is required for event context,Viðburður er krafist fyrir viðburðarsamhengi
+Event is required when tracking context is 'event',"Viðburður er krafist þegar rakningarsamhengi er „viðburður""
+Events not available. Please run: bench --site orga.localhost migrate"""
+Event Type,Tegund viðburðar
+Events,Viðburðir
+Events not available. Please run: bench --site orga.localhost migrate,Viðburðir ekki tiltækir. Keyrðu: bench --site orga.localhost migrate
+Events:,Viðburðir:
+Expert,Sérfræðingur
+Explain why you are proposing a different time...,Útskýrðu hvers vegna þú leggur til annan tíma...
+Export,Flytja út
+Export failed,Útflutningur mistókst
+Export JSON,Flytja út sem JSON
+Exported,Flutt út
+Exported to timesheet {0},Flutt út í tímaskýrslu {0}
+External,Ytri
+Failed to add item,Ekki tókst að bæta við atriði
+Failed to add note,Ekki tókst að bæta við athugasemd
+Failed to add skill,Ekki tókst að bæta við færni
+Failed to apply cascade changes: {0},Ekki tókst að nota keðjubreytingar: {0}
+Failed to create defect,Ekki tókst að búa til galla
+Failed to create dependency,Ekki tókst að búa til tengsl
+Failed to create event,Ekki tókst að búa til viðburð
+Failed to create milestone,Ekki tókst að búa til áfanga
+Failed to create project,Ekki tókst að búa til verkefni
+Failed to create task,Ekki tókst að búa til verk
+Failed to create time log,Ekki tókst að búa til tímafærslu
+Failed to delete,Ekki tókst að eyða
+Failed to delete comment,Ekki tókst að eyða athugasemd
+Failed to delete contact,Ekki tókst að eyða tengilið
+Failed to load,Ekki tókst að hlaða
+Failed to load activity,Ekki tókst að hlaða virkni
+Failed to load assignments,Ekki tókst að hlaða úthlutanir
+Failed to load contact,Ekki tókst að hlaða tengilið
+Failed to load dashboard data,Ekki tókst að hlaða gögnum stjórnborðs
+Failed to load defects,Ekki tókst að hlaða galla
+Failed to load events,Ekki tókst að hlaða viðburði
+Failed to load project,Ekki tókst að hlaða verkefni
+Failed to load projects,Ekki tókst að hlaða verkefni
+Failed to load report data,Ekki tókst að hlaða skýrslugögnum
+Failed to load settings,Ekki tókst að hlaða stillingum
+Failed to load tasks,Ekki tókst að hlaða verk
+Failed to move task,Ekki tókst að færa verk
+Failed to post comment,Ekki tókst að birta athugasemd
+Failed to propose new time,Ekki tókst að leggja til nýjan tíma
+Failed to remove item,Ekki tókst að fjarlægja atriði
+Failed to remove skill,Ekki tókst að fjarlægja færni
+Failed to reorder milestones: {0},Ekki tókst að endurraða áföngum: {0}
+Failed to reorder tasks: {0},Ekki tókst að endurraða verkum: {0}
+Failed to reschedule dependent tasks: {0},Ekki tókst að enduráætla tengd verk: {0}
+Failed to save,Ekki tókst að vista
+Failed to save preferences,Ekki tókst að vista stillingar
+Failed to save settings,Ekki tókst að vista stillingar
+Failed to submit request. Please try again.,Ekki tókst að senda beiðni. Reyndu aftur.
+Failed to update item,Ekki tókst að uppfæra atriði
+Failed to update priority,Ekki tókst að uppfæra forgang
+Failed to update task,Ekki tókst að uppfæra verk
+Failed to update tasks: {0},Ekki tókst að uppfæra verk: {0}
+Failed to upload avatar,Ekki tókst að hlaða upp prófílmynd
+Feature,Eiginleiki
+Features,Eiginleikar
+FF (Finish-Finish),FF (Lok-Lok)
+FF - Finish-to-Finish,FF - Lok-til-Loka
+Field has been updated,Reitur hefur verið uppfærður
+Field name is required for 'Set Field Value' action,"Heiti reitar er krafist fyrir aðgerðina „Stilla reitargildi""
+Field {0} is not a Link field,Reitur {0} er ekki tengilsvæði
+Field {0} not found in {1},Reitur {0} fannst ekki í {1}
+File,Skrá
+File does not belong to this task,Skrá tilheyrir ekki þessu verki
+File name is required,Skráarnafn er krafist
+File uploaded,Skrá hlaðið upp
+File {0} not found,Skrá {0} fannst ekki
+Files,Skrár
+Filter,Sía
+Final Decision,Endanleg ákvörðun
+Finance,Fjármál
+Financial,Fjárhagslegt
+Finish-to-Finish,Lok-til-Loka
+Finish-to-Start,Lok-til-Upphafs
+Flag,Flagga
+Flag for attention,Flagga til athygli
+Flagged,Flaggað
+Follows your system preference. Currently:,Fylgir kerfisstillingu þinni. Núna:
+Focus Panel,Fókusgluggi
+Frappe Project {0} not found,Frappe verkefni {0} fannst ekki
+Frappe Projects Migration,Flutningur Frappe verkefna
+Frappe Projects module not available,Frappe verkefnaeining er ekki tiltæk
+Frappe Projects module not installed,Frappe verkefnaeining er ekki uppsett
+Frappe Projects sync is not enabled,Samstilling Frappe verkefna er ekki virk
+Frappe Task DocType not found,Frappe verkstegund fannst ekki
+Frappe Task has no project,Frappe verk á ekkert verkefni
+Frappe Task {0} not found,Frappe verk {0} fannst ekki
+Fri,Fös
+From,Frá
+From Template,Úr sniðmáti
+Full form view with audit trail,Fullt skráaryfirlit með eftirlitsferli
+Full name,Fullt nafn
+Gantt,Gantt
+Gantt Chart,Gantt-línurit
+Gantt View,Gantt-yfirlit
+General Note,Almenn athugasemd
+Get started,Byrja
+Go back,Fara til baka
+Group by,Hópa eftir
+Group dependency removed,Hóptengsl fjarlægð
+Group dependency set,Hóptengsl stillt
+Group removed,Hópur fjarlægður
+Group updated,Hópur uppfærður
+Hammock task dates are auto-calculated and cannot be changed manually,Dagsetningar svifverka eru reiknaðar sjálfvirkt og er ekki hægt að breyta handvirkt
+Have a question or need assistance? Fill out the form below and our team will get back to you."""
+Field {0} is not a Link field,Reitur {0} er ekki tengireitur
+Field {0} not found in {1},Reitur {0} fannst ekki í {1}
+file,skrá
+File,Skrá
+File does not belong to this task,Skrá tilheyrir ekki þessu verkefni
+File name is required,Skráarnafn er nauðsynlegt
+File uploaded,Skrá hlaðið upp
+File {0} not found,Skrá {0} fannst ekki
+files,skrár
+Files,Skrár
+Filter,Sía
+Final Decision,Endanleg ákvörðun
+Finance,Fjármál
+Financial,Fjárhagslegt
+Finish-to-Finish,Lok-til-Loka
+Finish-to-Start,Lok-til-Upphaf
+Flag,Flagg
+Flag for attention,Merkja til athygli
+Flagged,Merkt
+Focus Panel,Fókusborð
+Follows your system preference. Currently:,Fylgir kerfisstillingum þínum. Eins og stendur:
+Frappe Project {0} not found,Frappe verkefni {0} fannst ekki
+Frappe Projects Migration,Frappe Projects flutningur
+Frappe Projects module not available,Frappe Projects eining ekki tiltæk
+Frappe Projects module not installed,Frappe Projects eining ekki uppsett
+Frappe Projects sync is not enabled,Frappe Projects samstilling er ekki virkjuð
+Frappe Task DocType not found,Frappe Task DocType fannst ekki
+Frappe Task has no project,Frappe verkefni hefur ekkert verkefni
+Frappe Task {0} not found,Frappe verkefni {0} fannst ekki
+Fri,Fös
+From,Frá
+From Template,Úr sniðmáti
+FS (Finish-Start),FS (Lok-Upphaf)
+FS - Finish-to-Start (default),FS - Lok-til-Upphafs (sjálfgefið)
+Full form view with audit trail,Heildareyðublað með endurskoðunarslóð
+Full name,Fullt nafn
+Gantt,Gantt
+Gantt Chart,Gantt rit
+Gantt View,Gantt yfirlit
+General Note,Almenn athugasemd
+Get started,Byrjaðu
+Go back,Til baka
+Go Back,Go Back
+Group by,Flokka eftir
+Group dependency removed,Hópháð fjarlægt
+Group dependency set,Hópháð stillt
+Group removed,Hópur fjarlægður
+Group updated,Hópur uppfærður
+Hammock task dates are auto-calculated and cannot be changed manually,Dagsetningar hengikójuverkefna eru sjálfkrafa reiknaðar og ekki hægt að breyta handvirkt
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Ertu með spurningu eða þarft aðstoð? Fylltu út eyðublaðið hér að neðan og teymið okkar mun hafa samband.
+Health,Heilsa
+Healthy,Í góðri stöðu
+Hello {0},Hæ {0}
+Here's what's happening with your projects today.,Hér er hvað er á döfinni í verkefnum þínum í dag.
+Hide,Fela
+High,Hár
+History,Ferill
+Home,Heim
+Hourly Cost,Tímakostnaður
+Hours,Stundir
+hours,stundir
+Hours Logged,Stundir skráðar
+ID,Auðkenni
+Image must be smaller than 5 MB,Mynd verður að vera minni en 5 MB
+Import,Flytja inn
+Import existing projects and tasks from Frappe Projects module,Flytja inn fyrirliggjandi verkefni og verk úr Frappe verkefnaeiningu
+Import failed,Innflutningur mistókst
+Import Template,Flytja inn sniðmát
+Imported,Flutt inn
+in,í
+In Progress,Í vinnslu
+In Review,Í yfirferð
+In-app notifications,Tilkynningar í forriti
+Inactive,Óvirkt
+Initial Review,Upphafsyfirferð
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Ófullnægjandi heimildir til að skoða öll verk
+Intermediate,Miðlungs
+Internal,Innri
+Invalid DocType,Ógild DocType
+Invalid DocType for import,Ógild DocType til innflutnings
+Invalid item type: {0},Ógild tegund atriðis: {0}
+Invalid JSON data,Ógild JSON-gögn
+Invalid note type. Must be one of: {0},Ógild tegund athugasemdar. Verður að vera eitt af: {0}
+Invalid project reference,Ógild verkefnatilvísun
+Invalid reaction type. Must be one of: {0},Ógild tegund viðbragðs. Verður að vera eitt af: {0}
+Invalid RSVP status,Ógild RSVP-staða
+Invalid status. Must be one of: {0},Ógild staða. Verður að vera eitt af: {0}
+Invalid status: {0},Ógild staða: {0}
+Invalid status: {0}. Must be one of: {1},Ógild staða: {0}. Verður að vera eitt af: {1}
+Invalid tracking context: {0},Ógilt rakningarsamhengi: {0}
+Invalid visibility. Must be one of: {0},Ógild sýnileiki. Verður að vera eitt af: {0}
+Invitation: {0} - {1} at {2},Boð: {0} - {1} kl. {2}
+Invite People,Bjóða fólki
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Atriði bætt við
+Item ID is required,Auðkenni atriðis er krafist
+Item removed,Atriði fjarlægt
+Item type is required,Tegund atriðis er krafist
+Item {0} not found,Atriði {0} fannst ekki
+Job title or role,Starfstitill eða hlutverk
+Join Meeting,Taka þátt í fundi
+Just now,Rétt í þessu
+just now,rétt í þessu
+Kanban,Kanban
+Kanban Board,Kanban-borð
+Kanban View,Kanban-yfirlit
+Keyboard Shortcuts,Flýtilyklar
+Keyboard shortcuts (?),Flýtilyklar (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Síðast uppfært
+Last updated:,Síðast uppfært:
+Last Week,Síðustu viku
+Latest Version,Latest Version
+Light,Ljóst
+Link failed,Tenging mistókst
+Link Task,Tengja verk
+Linked,Tengt
+Linked employee not found,Tengdur starfsmaður fannst ekki
+Linked Tasks,Tengd verk
+List,Listi
+List View,Listayfirlit
+Load failed,Hleðsla mistókst
+Load More,Hlaða fleiru
+Load more comments,Hlaða fleiri athugasemdum
+Loading activity...,Hleð virkni...
+Loading changes...,Hleð breytingum...
+Loading checklist...,Hleð gátlista...
+Loading comments...,Hleð athugasemdum...
+Loading contact...,Hleð tengilið...
+Loading contacts...,Hleð tengiliðum...
+Loading dependencies...,Hleð tengslum...
+Loading details...,Hleð upplýsingum...
+Loading discussion...,Hleð umræðu...
+Loading events...,Hleð viðburðum...
+Loading files...,Hleð skrám...
+Loading notes...,Hleð athugasemdum...
+Loading preferences...,Hleð stillingum...
+Loading project...,Hleð verkefni...
+Loading projects...,Hleð verkefnum...
+Loading replies...,Hleð svörum...
+Loading report data...,Hleð skýrslugögnum...
+Loading settings...,Hleð stillingum...
+Loading task...,Hleð verki...
+Loading templates...,Hleð sniðmátum...
+Loading time logs...,Hleð tímafærslum...
+Loading your portal...,Hleð gáttinni þinni...
+Loading...,Hleð...
+Location,Staðsetning
+Log Time,Skrá tíma
+Logout,Útskrá
+Low,Lágur
+Make Offer,Gera tilboð
+Manager,Stjórnandi
+Manual Entry,Handvirk færsla
+Margin,Framlegð
+Mark all as read,Merkja allt sem lesið
+Mark all read,Merkja allt lesið
+Mark as read,Merkja sem lesið
+Mark as unread,Merkja sem ólesið
+Mark read,Merkja lesið
+Marking...,Merki...
+Material,Efni
+Maybe,Kannski
+Medium,Miðlungs
+Meeting,Fundur
+Meeting Link,Fundarslóð
+Meeting title,Titill fundar
+Meeting URL,Vefslóð fundar
+Meetings,Fundir
+Mention,Nefna
+Message,Skilaboð
+Message is required,Skilaboð eru krafist
+Message is required for '{0}' action,"Skilaboð eru krafist fyrir aðgerðina „{0}""
+Migrate,Flytja
+Migration Complete,Flutningi lokið
+Migration ID:,Flutningsauðkenni:
+Migration log not found: {0},Flutningsskrá fannst ekki: {0}
+Milestone,Áfangi
+Milestone ID is required,Auðkenni áfanga er krafist
+Milestone Name,Nafn áfanga
+Milestone created,Áfangi búinn til
+Milestone description has been saved.,Lýsing áfanga hefur verið vistuð.
+Milestone marked as Missed (past due date),Áfangi merktur sem liðinn (frestur runninn út)
+Milestone moved,Áfangi færður
+Milestone name has been saved.,Nafn áfanga hefur verið vistað.
+Milestone name is required,Nafn áfanga er krafist
+Milestone updated,Áfangi uppfærður
+Milestone {0} not found,Áfangi {0} fannst ekki
+Milestone {0} not in project {1},Áfangi {0} er ekki í verkefni {1}
+Milestones,Áfangar
+Milestones:,Áfangar:
+Minutes,Mínútur
+Missed,Liðið
+Mixed,Blandað
+Mobile,Farsími
+Moderate,Í meðallagi
+Modify details, time, or attendees,Breyta upplýsingum"
+Migrate,Flytja
+Migration Complete,Flutningur lokið
+Migration ID:,Flutnings ID:
+Migration log not found: {0},Flutningsskrá fannst ekki: {0}
+milestone,áfangi
+Milestone,Áfangi
+Milestone created,Áfangi búinn til
+Milestone description has been saved.,Lýsing áfanga hefur verið vistuð.
+Milestone ID is required,Áfanga ID er nauðsynlegt
+Milestone marked as Missed (past due date),Áfangi merktur sem sleppt (liðinn frestur)
+Milestone moved,Áfangi færður
+Milestone Name,Nafn áfanga
+Milestone name has been saved.,Nafn áfanga hefur verið vistað.
+Milestone name is required,Nafn áfanga er nauðsynlegt
+Milestone updated,Áfangi uppfærður
+Milestone {0} not found,Áfangi {0} fannst ekki
+Milestone {0} not in project {1},Áfangi {0} er ekki í verkefni {1}
+milestones,áfangar
+Milestones,Áfangar
+Milestones:,Áfangar:
+Minutes,Mínútur
+Missed,Sleppt
+Mixed,Blandað
+Mobile,Farsími
+Moderate,Hóflegt
+Modified,Breytt
+"Modify details, time, or attendees","Breyta upplýsingum, tíma eða þátttakendum"
+Mon,Mán
+Month,Mánuður
+Move failed,Færsla mistókst
+Must be a positive number,Verður að vera jákvæð tala
+Must finish before this finishes,Verður að ljúka áður en þessu lýkur
+Must finish before this starts,Verður að ljúka áður en þetta hefst
+Must start before this finishes,Verður að hefjast áður en þessu lýkur
+Must start before this starts,Verður að hefjast áður en þetta hefst
+My Assignments,Mínar úthlutanir
+My Projects,Mín verkefni
+My Schedule,Mitt dagskrá
+My Tasks,Mín verk
+N/A,Á ekki við
+Name,Nafn
+Name (A-Z),Nafn (A-Ö)
+Name (Z-A),Nafn (Ö-A)
+Name cannot exceed 255 characters,Nafn má ekki vera lengra en 255 stafir
+Need help?,Þarftu aðstoð?
+Needs Attention,Þarfnast athygli
+Never,Never
+new activities,ný virkni
+New Activity,Ný virkni
+New activity,Ný virkni
+New Event,Nýr viðburður
+New index is required,Nýtt númer er krafist
+New Project,Nýtt verkefni
+New tasks will auto-trail by default.,Ný verk munu sjálfgefið nota sjálfvirka framlengingu.
+Newest First,Nýjast fyrst
+Next,Næsta
+Next 14 days,Næstu 14 dagar
+Next 30 days,Næstu 30 dagar
+Next 60 days,Næstu 60 dagar
+Next 7 days,Næstu 7 dagar
+Next 90 days,Næstu 90 dagar
+Next Week,Næsta vika
+Next:,Næst:
+No,Nei
+No active assignments,Engar virkar úthlutanir
+No active projects,Engin virk verkefni
+No active timer found,Enginn virkur tímamælir fannst
+No activity selected,Engin virkni valin
+No assignments found,Engar úthlutanir fundust
+No attendees,Engir þátttakendur
+no change,engin breyting
+No changes for this field.,Engar breytingar á þessum reit.
+No changes recorded for this activity.,Engar breytingar skráðar fyrir þessa virkni.
+No checklist items yet,Engir gátlistaatriði ennþá
+No checklist items yet.,Engir gátlistaatriði ennþá.
+No comments yet,Engar athugasemdir ennþá
+No comments yet.,Engar athugasemdir ennþá.
+No contacts available,Engir tengiliðir tiltækir
+No content for this tab,Ekkert efni fyrir þennan flipa
+No data available,Engin gögn tiltæk
+No data available for the selected filters,Engin gögn tiltæk fyrir valdar síur
+No data to export,Engin gögn til útflutnings
+No dates set,Engar dagsetningar stilltar
+No defects reported,Engir gallar tilkynntir
+No dependencies defined,Engin tengsl skilgreind
+No description,Engin lýsing
+No discussion yet.,Engin umræða ennþá.
+No documents attached,Engin skjöl hengd við
+No due date,Enginn skiladagur
+No employee linked to this resource,Enginn starfsmaður tengdur þessu úrræði
+No ERPNext employee linked to resource,Enginn ERPNext starfsmaður tengdur við úrræði
+No events found,Engir viðburðir fundust
+No files attached yet.,Engar skrár hengdar við ennþá.
+No Frappe Project linked,Ekkert Frappe verkefni tengt
+No Grouping,Engin hópun
+No items,Engin atriði
+No matching tasks,Engin samsvarandi verk
+No matching tasks found,Engin samsvarandi verk fundust
+No migration history,Enginn flutningsferill
+No Milestone,Enginn áfangi
+No milestones,Engir áfangar
+No milestones defined for this project.,Engir áfangar skilgreindir fyrir þetta verkefni.
+No notes yet.,Engar athugasemdir ennþá.
+No notes yet. Add a due diligence note to track progress.,Engar athugasemdir ennþá. Bættu við áreiðanleikaathugasemd til að fylgjast með framvindu.
+No notifications,Engar tilkynningar
+No Orga Project linked to Frappe Project {0},Ekkert Orga verkefni tengt við Frappe verkefni {0}
+No overdue tasks,Engin verk komin fram yfir frest
+No pending cascade changes,Engar keðjubreytingar í bið
+No predecessors - this task can start independently,Engir forverar — þetta verk getur hafist sjálfstætt
+No project,Ekkert verkefni
+No projects found,Engin verkefni fundust
+No Projects Yet,Engin verkefni ennþá
+No recent activity,Engin nýleg virkni
+No related documents,Engin tengd skjöl
+No resolved threads.,Engir uppleystar umræður.
+No resources found,Engin úrræði fundust
+No results found,Engar niðurstöður fundust
+No skills listed,Engin færni skráð
+No skills recorded yet,Engin færni skráð ennþá
+No successors - no tasks are waiting for this one,Engir eftirmenn — engin verk bíða eftir þessu
+No task selected,Ekkert verk valið
+No tasks assigned to you,Engin verk úthlutað þér
+No tasks available to add,Engin verk tiltæk til að bæta við
+No tasks found,Engin verk fundust
+No tasks linked to this milestone,Engin verk tengd þessum áfanga
+No tasks with dates to display,Engin verk með dagsetningar til að birta
+No tasks yet,Engin verk ennþá
+No team members,Engir liðsmenn
+No template,Ekkert sniðmát
+No templates yet,Engin sniðmát ennþá
+No time data found,Engin tímagögn fundust
+No time logged today,Enginn tími skráður í dag
+No time logged yet,Enginn tími skráður ennþá
+No time logs for this period,Engar tímafærslur fyrir þetta tímabil
+No time logs found,Engar tímafærslur fundust
+No unread notifications,Engar ólesnar tilkynningar
+No update information available yet.,No update information available yet.
+None,Ekkert
+Not found,Fannst ekki
+Not permitted,Ekki leyfilegt
+Not permitted to access this project,Þú hefur ekki leyfi til að opna þetta verkefni
+Not permitted to access this task,Þú hefur ekki leyfi til að opna þetta verk
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Þú hefur ekki leyfi til að skrifa athugasemd við þetta skjal
+Not permitted to create clients,Þú hefur ekki leyfi til að búa til viðskiptavini
+Not permitted to delete this client,Þú hefur ekki leyfi til að eyða þessum viðskiptavini
+Not permitted to delete this defect,Þú hefur ekki leyfi til að eyða þessum galla
+Not permitted to delete this note,Þú hefur ekki leyfi til að eyða þessari athugasemd
+Not permitted to delete this project,Þú hefur ekki leyfi til að eyða þessu verkefni
+Not permitted to delete this task,Þú hefur ekki leyfi til að eyða þessu verki
+Not permitted to delete this time log,Þú hefur ekki leyfi til að eyða þessari tímafærslu
+Not permitted to invite clients,Þú hefur ekki leyfi til að bjóða viðskiptavinum
+Not permitted to modify client access,Þú hefur ekki leyfi til að breyta aðgangi viðskiptavinar
+Not permitted to modify this project,Þú hefur ekki leyfi til að breyta þessu verkefni
+Not permitted to update settings,Þú hefur ekki leyfi til að uppfæra stillingar
+Not permitted to update this client,Þú hefur ekki leyfi til að uppfæra þennan viðskiptavin
+Not permitted to view this client,Þú hefur ekki leyfi til að skoða þennan viðskiptavin
+not sent,ekki sent
+Not set,Ekki stillt
+Not specified,Ekki tilgreint
+Note,Athugasemd
+Note (optional),Athugasemd (valfrjálst)
+Note Content,Efni athugasemdar
+Note content is required,Efni athugasemdar er krafist
+Note name is required,Nafn athugasemdar er krafist
+Note not found,Athugasemd fannst ekki
+Note Type,Tegund athugasemdar
+Notes,Athugasemdir
+Notification,Tilkynning
+Notification not found,Tilkynning fannst ekki
+Notifications,Tilkynningar
+Off Track,Á villigötum
+Offer,Tilboð
+Offer Prepared,Tilboð undirbúið
+Oldest First,Elst fyrst
+On Hold,Í bið
+On Leave,Í fríi
+On Track,Á réttri leið
+On-Time Rate,Tímaheldni
+Only administrators can delete activities,Aðeins stjórnendur geta eytt virkni
+Only the comment author or administrators can delete comments,Aðeins höfundur athugasemdar eða stjórnendur geta eytt athugasemdum
+Only you and admins,Aðeins þú og stjórnendur
+Open,Opið
+Open in Desk,Opna í Desk
+Open Task Log,Opna verkskrá
+Open Tasks,Opin verk
+Optional,Valfrjálst
+optional,valfrjálst
+Or email us directly at,Eða sendu okkur tölvupóst beint á
+Orga Project {0} from Frappe Projects,Orga verkefni {0} frá Frappe Projects
+Orga Task {0} from Frappe,Orga verk {0} frá Frappe
+Organizer,Skipuleggjandi
+Other,Annað
+Over Budget,Yfir fjárhagsáætlun
+Overall Progress,Heildarframvinda
+Overall Utilization,Heildarnýting
+Overallocated,Ofúthlutað
+Overdue,Fram yfir frest
+overdue,fram yfir frest
+Overdue Tasks,Verk komin fram yfir frest
+Overview,Yfirlit
+Owner,Eigandi
+Page Not Found,Síða fannst ekki
+Parent,Yfirliður
+Parent comment must belong to the same document,Yfirathugasemd verður að tilheyra sama skjali
+Parent comment not found,Yfirathugasemd fannst ekki
+Parent project not synced to Frappe yet,Yfirverkefni ekki enn samstillt við Frappe
+Parent project sync not enabled,Samstilling yfirverkefnis er ekki virk
+Partner,Samstarfsaðili
+Pending,Í bið
+per page,á síðu
+Perform initial assessment and background check,Framkvæma upphafsmat og bakgrunnsathugun
+Permanently remove this event,Fjarlægja þennan viðburð varanlega
+Permanently remove this task,Fjarlægja þetta verk varanlega
+Phone,Sími
+Pin,Festa
+Pin Activity,Festa virkni
+Pin to top,Festa efst
+Pinned,Fest
+Planned budget for this task,Áætluð fjárhagsáætlun fyrir þetta verk
+Planning,Áætlun
+Please describe your question or issue in detail...,Lýstu spurningunni eða vandamálinu í smáatriðum...
+Please login to access Orga,Skráðu þig inn til að fá aðgang að Orga
+Please login to access the client portal,Skráðu þig inn til að fá aðgang að viðskiptavinagáttinni
+Please respond to this invitation in Orga,Svaraðu þessu boði í Orga
+Please select an image file,Veldu myndaskrá
+Please try again,Reyndu aftur
+Please type,Sláðu inn
+Portal,Gátt
+Portal access revoked for {0},Aðgangur að gátt afturkallaður fyrir {0}
+Portal user created successfully. Welcome email {0},Gáttarnotandi búinn til. Kynningarpóstur {0}
+Post,Birta
+Powered by,Keyrt af
+Powered by Tonic,Keyrt af Tonic
+Predecessors (Blocked By),Forverar (lokað á af)
+Preferences,Stillingar
+Preferences saved successfully,Stillingar vistaðar
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Forskeyti fyrir sjálfvirkt búin verkefniskóða (t.d. ORG-2026-0001)
+Prepare and document offer terms,Undirbúa og skrá tilboðsskilmála
+Press,Ýttu á
+Preview,Forskoðun
+Preview cascade before applying,Forskoða keðjubreytingu áður en hún er notuð
+Previous,Fyrri
+Priority,Forgangur
+Priority assigned to new tasks,Forgangur úthlutaður nýjum verkum
+Priority updated,Forgangur uppfærður
+Proficiency,Hæfni
+Profile,Prófíll
+Progress,Framvinda
+Progress (High-Low),Framvinda (há-lág)
+Progress (Low-High),Framvinda (lág-há)
+Progress Overview,Yfirlit framvindu
+Progress updated,Framvinda uppfærð
+Project,Verkefni
+Project budget has been saved.,Fjárhagsáætlun verkefnis hefur verið vistuð.
+Project code (e.g. ORG-2026-0001),Verkefniskóði (t.d. ORG-2026-0001)
+Project Code Prefix,Forskeyti verkefniskóða
+Project created,Verkefni búið til
+Project deleted,Verkefni eytt
+Project description has been saved.,Verkefnislýsing hefur verið vistuð.
+Project Details,Verkefnisupplýsingar
+Project end date has been saved.,Lokadagsetning verkefnis hefur verið vistuð.
+Project Files,Verkefnisskrár
+Project has no linked client,Verkefni á engan tengdan viðskiptavin
+Project Health,Heilsa verkefnis
+Project Info,Verkefnisupplýsingar
+Project is required,Verkefni er krafist
+Project is required for project context,Verkefni er krafist fyrir verkefnissamhengi
+Project is required when tracking context is 'project',"Verkefni er krafist þegar rakningarsamhengi er „verkefni""
+Project name and template name are required,Nafn verkefnis og nafn sniðmáts eru krafist
+Project name is required,Nafn verkefnis er krafist
+Project not found,Verkefni fannst ekki
+Project not found or you do not have access,Verkefni fannst ekki eða þú hefur ekki aðgang
+Project settings,Verkefnisstillingar
+Project start date has been saved.,Upphafsdagsetning verkefnis hefur verið vistuð.
+Project title has been saved.,Titill verkefnis hefur verið vistaður.
+Project updated,Verkefni uppfært
+Project {0} linked to client {1},Verkefni {0} tengt viðskiptavini {1}
+Project {0} not found,Verkefni {0} fannst ekki
+Project {0} to Frappe Projects,Verkefni {0} yfir í Frappe Projects
+Project:,Verkefni:
+Projects,Verkefni
+Projects Overview,Yfirlit verkefna
+Projects created:,Verkefni búin til:
+Projects skipped:,Verkefni sleppt:
+Projects updated:,Verkefni uppfærð:
+Promote failed,Uppfærsla mistókst
+Promote to task,Umbreyta í verk
+Promoted to task,Umbreytt í verk
+Propose,Leggja til
+Propose New Time,Leggja til nýjan tíma
+Propose Time,Leggja til tíma
+Proposed End,Tillaga um lok
+Proposed Start,Tillaga um upphaf
+Public,Opinbert
+Quick Action,Flýtiaðgerð
+Quick Actions,Flýtiaðgerðir
+Quick Stats,Stuttar tölur
+RSVP,RSVP
+Rates,Gjöld
+Receive notifications via email,Fá tilkynningar í tölvupósti
+Receive notifications within the application,Fá tilkynningar innan forritsins
+Recipient {0} is not a valid user,Viðtakandi {0} er ekki gildur notandi
+Recent Activity,Nýleg virkni
+Reference,Tilvísun
+Refresh,Endurhlaða
+Related,Tengt
+Related Company (optional),Tengt fyrirtæki (valfrjálst)
+Related Documents,Tengd skjöl
+Related Project,Tengt verkefni
+Remaining,Eftirstöðvar
+Reminder,Áminning
+Reminder Lead Time"""
+Project Manager,Verkefnastjóri
+Project Name,Nafn verkefnis
+Project name and template name are required,Verkefnanafn og sniðmátsnafn eru nauðsynleg
+Project name is required,Verkefnanafn er nauðsynlegt
+Project not found,Verkefni fannst ekki
+Project not found or you do not have access,Verkefni fannst ekki eða þú hefur ekki aðgang
+Project settings,Verkefnisstillingar
+Project start date has been saved.,Upphafsdagur verkefnis hefur verið vistaður.
+Project title has been saved.,Titill verkefnis hefur verið vistaður.
+Project Type,Tegund verkefnis
+Project updated,Verkefni uppfært
+Project {0} linked to client {1},Verkefni {0} tengt viðskiptavini {1}
+Project {0} not found,Verkefni {0} fannst ekki
+Project {0} to Frappe Projects,Verkefni {0} í Frappe Projects
+Project:,Verkefni:
+projects,verkefni
+Projects,Verkefni
+Projects created:,Verkefni búin til:
+Projects Overview,Yfirlit verkefna
+Projects skipped:,Verkefni sleppt:
+Projects updated:,Verkefni uppfærð:
+Promote failed,Hækkun mistókst
+Promote to task,Hækka í verkefni
+Promoted to task,Hækkað í verkefni
+Propose,Leggja til
+Propose New Time,Leggja til nýjan tíma
+Propose Time,Leggja til tíma
+Proposed End,Fyrirhugaðar lokar
+Proposed Start,Fyrirhugað upphaf
+Public,Opinbert
+Quick Action,Flýtiaðgerð
+Quick Actions,Flýtiaðgerðir
+Quick Stats,Flýtitölfræði
+Rates,Gjaldskrá
+Receive notifications via email,Fá tilkynningar í tölvupósti
+Receive notifications within the application,Fá tilkynningar í forritinu
+Recent Activity,Nýleg virkni
+Recipient {0} is not a valid user,Viðtakandi {0} er ekki gildur notandi
+Reference,Tilvísun
+Refresh,Endurhlaða
+Related,Tengt
+Related Company (optional),Tengt fyrirtæki (valfrjálst)
+Related Documents,Tengd skjöl
+Related Project,Tengt verkefni
+Remaining,Eftir
+Reminder,Áminning
+Reminder Lead Time,Fyrirvarartími áminninga
+Reminder: {0} - {1} at {2},Áminning: {0} - {1} kl. {2}
+Remove,Fjarlægja
+Remove dependency,Fjarlægja tengsl
+Remove dependency on,Fjarlægja tengsl við
+Remove from group,Fjarlægja úr hóp
+Remove group dependency,Fjarlægja hóptengsl
+Remove skill,Fjarlægja færni
+Reopen,Opna aftur
+Reopen thread,Opna umræðu aftur
+reopened,opnað aftur
+replies,svör
+Reply,Svara
+reply,svar
+Replying to,Svara
+Replying to comment,Svara athugasemd
+Report Defect,Tilkynna galla
+Reported Date,Dagsetning tilkynningar
+Reports,Skýrslur
+Reports To,Heyrir undir
+Request Submitted!,Beiðni send!
+Required,Krafist
+required,krafist
+Research,Rannsókn
+Reset to Defaults,Endurstilla í sjálfgildi
+Resolve,Leysa
+Resolve thread,Leysa umræðu
+Resolved,Leyst
+Resolved date cannot be before reported date,Dagsetning lausnar getur ekki verið á undan tilkynningardagsetningu
+Resource,Úrræði
+Resource and skill name are required,Úrræði og nafn færni eru krafist
+Resource is already an attendee,Úrræði er þegar þátttakandi
+Resource name is required,Nafn úrræðis er krafist
+Resource not found,Úrræði fannst ekki
+Resource synced from employee {0},Úrræði samstillt frá starfsmanni {0}
+Resource {0} is already assigned to this task ({1}),Úrræði {0} er þegar úthlutað þessu verki ({1})
+Resource {0} not found,Úrræði {0} fannst ekki
+Resources,Tengiliðir
+Retry,Reyna aftur
+Review,Yfirferð
+Review all relevant documents and contracts,Yfirfara öll viðeigandi skjöl og samninga
+Reviews,Yfirferðir
+Risk Assessment,Áhættumat
+Rollback,Afturkalla
+Rolled back,Afturkallað
+Room or address,Herbergi eða heimilisfang
+RSVP,RSVP
+Safety,Öryggi
+Sat,Lau
+Save,Vista
+"Save a project as a template, or import one from a JSON file.","Vistaðu verkefni sem sniðmát, eða flyttu eitt inn úr JSON-skrá."
+Save as Template,Vista sem sniðmát
+Save Changes,Vista breytingar
+Save failed,Vistun mistókst
+Save Preferences,Vista stillingar
+Save Template,Vista sniðmát
+Saving...,Vista...
+Schedule,Dagskrá
+Schedule type is required for scheduled triggers,Tegund dagskrár er krafist fyrir tímasetta ræsa
+Scheduled,Tímasett
+Search,Leita
+"Search by name, email, or skill...","Leita eftir nafni, netfangi eða færni..."
+Search for a project...,Leita að verkefni...
+Search for a task...,Leita að verki...
+Search for an event...,Leita að viðburði...
+Search for people to invite...,Leita að fólki til að bjóða...
+Search tasks to link...,Leita að verkum til að tengja...
+Search tasks...,Leita að verkum...
+Search...,Leita...
+Searching...,Leita...
+Seen,Séð
+Select a project if your request is related to a specific project.,Veldu verkefni ef beiðni þín tengist tilteknu verkefni.
+Select a project...,Veldu verkefni...
+Select a task from the Gantt chart to view and manage its details.,Veldu verk af Gantt-línuritinu til að skoða og stjórna upplýsingum þess.
+Select a task from the list or Kanban board to view and manage its details.,Veldu verk af listanum eða Kanban-borðinu til að skoða og stjórna upplýsingum þess.
+Select a template...,Veldu sniðmát...
+Select priority...,Veldu forgang...
+Select status...,Veldu stöðu...
+Select task...,Veldu verk...
+Select type...,Veldu tegund...
+Selection,Val
+Send,Senda
+Send comment,Senda athugasemd
+Send email invitations to attendees,Senda tölvupóstboð til þátttakenda
+Send Invitations,Senda boð
+Send notification when a task is assigned to a user,Senda tilkynningu þegar verki er úthlutað á notanda
+Send notification when task status changes,Senda tilkynningu þegar staða verks breytist
+Send reminder before task due date,Senda áminningu fyrir skiladag verks
+sent,sent
+Set rate,Stilla gjald
+Settings,Stillingar
+Settings saved successfully,Stillingar vistaðar
+Severity,Alvarleiki
+SF (Start-Finish),SF (Upphaf-Lok)
+SF - Start-to-Finish,SF - Upphaf-til-Loka
+Show,Sýna
+Show all,Sýna allt
+Show all changes,Sýna allar breytingar
+Show Archived,Sýna safnað
+Show full diff,Sýna allan mun
+Show less,Sýna minna
+Show more,Sýna meira
+Skill added,Færni bætt við
+Skill is required,Færni er krafist
+Skill Name,Nafn færni
+Skill removed,Færni fjarlægð
+Skill {0} already exists for this resource,Færni {0} er þegar til fyrir þetta úrræði
+Skills,Færni
+Skills & Competencies,Færni og hæfni
+Skip already migrated projects,Sleppa þegar fluttum verkefnum
+Sort by,Raða eftir
+Sort: Due Date,Raða: Skiladagur
+Sort: Priority,Raða: Forgangur
+Sort: Project,Raða: Verkefni
+Sort: Status,Raða: Staða
+Sort: Task,Raða: Verk
+Source Code,Frumkóði
+Spent,Eytt
+Spent:,Eytt:
+SS (Start-Start),SS (Upphaf-Upphaf)
+SS - Start-to-Start,SS - Upphaf-til-Upphafs
+Standalone,Sjálfstætt
+Start,Upphaf
+Start a discussion below,Byrjaðu umræðu hér að neðan
+Start Date,Upphafsdagsetning
+Start date,Upphafsdagsetning
+Start Date (Earliest),Upphafsdagsetning (fyrsta)
+Start date updated,Upphafsdagsetning uppfærð
+Start date/time is required,Upphafsdagsetning/tími er krafist
+Start Migration,Hefja flutning
+Start the conversation below.,Byrjaðu samtalið hér að neðan.
+Start Timer,Ræsa tímamæli
+Start typing to search...,Byrjaðu að slá inn til að leita...
+Start-to-Finish,Upphaf-til-Loka
+Start-to-Start,Upphaf-til-Upphafs
+Start:,Upphaf:
+Statistics reset,Tölfræði endurstillt
+Status,Staða
+Status assigned to new projects,Staða úthlutuð nýjum verkefnum
+Status assigned to new tasks,Staða úthlutuð nýjum verkum
+Status Changes,Stöðubreytingar
+Status updated,Staða uppfærð
+Status:,Staða:
+Stop,Stöðva
+Stop & Save,Stöðva og vista
+Stop Timer,Stöðva tímamæli
+Stops current timer and starts for this event,Stöðvar núverandi tímamæli og ræsir fyrir þennan viðburð
+Stops current timer and starts for this task,Stöðvar núverandi tímamæli og ræsir fyrir þetta verk
+Subject,Efni
+Subject cannot exceed 255 characters,Efni má ekki vera lengra en 255 stafir
+Subject is required,Efni er krafist
+Submit,Senda inn
+Submit Another Request,Senda aðra beiðni
+Submit Request,Senda beiðni
+Submitting...,Sendi...
+Successfully saved,Vistun tókst
+Successors (Blocking),Eftirmenn (lokar á)
+Sun,Sun
+Supplier,Birgir
+Support,Aðstoð
+Switch to this event,Skipta yfir í þennan viðburð
+Switch to this task,Skipta yfir í þetta verk
+Sync direction is set to Frappe to Orga only,Samstillingarstefna stillt á Frappe til Orga eingöngu
+Sync direction is set to Orga to Frappe only,Samstillingarstefna stillt á Orga til Frappe eingöngu
+Sync not enabled for this project,Samstilling ekki virk fyrir þetta verkefni
+System,Kerfi
+Table,Tafla
+Take ownership of this task,Taka þetta verk að þér
+Target Date,Markdagsetning
+Target End,Marklok
+Target Project,Markverkefni
+Target user is required for '{0}' action,"Marknotandi er krafist fyrir aðgerðina „{0}""
+Task,Verk
+Task '{0}' is due on {1}."""
+task,verk
+Task,Verkefni
+Task '{0}' is due on {1}.,Verkefni '{0}' á að vera tilbúið {1}.
+Task and resource are required,Verk og úrræði eru krafist
+Task Assignment,Verkúthlutun
+Task cannot be its own parent,Verk getur ekki verið sitt eigið yfirliður
+Task cannot depend on itself,Verk getur ekki verið háð sjálfu sér
+Task cannot depend on the group it belongs to,Verk getur ekki verið háð hópnum sem það tilheyrir
+Task created,Verk búið til
+Task deleted,Verki eytt
+Task description has been saved.,Verklýsing hefur verið vistuð.
+Task Details,Verkupplýsingar
+Task due in {0} days: {1},Verk á dagskrá eftir {0} daga: {1}
+Task due today: {0},Verk á dagskrá í dag: {0}
+Task due tomorrow: {0},Verk á dagskrá á morgun: {0}
+Task duplicated,Verk afritað
+Task Group,Verkhópur
+Task ID is required,Auðkenni verks er krafist
+Task is blocked by incomplete dependencies,Verk er lokað á vegna ólokinna tengsla
+Task is cancelled,Verki hefur verið hætt við
+Task is completed,Verki er lokið
+Task is no longer blocked by a group,Verk er ekki lengur lokað á af hóp
+Task is required for task context,Verk er krafist fyrir verksamhengi
+Task is required when tracking context is 'task',"Verk er krafist þegar rakningarsamhengi er „verk""
+Task linked,Verk tengt
+Task moved,Verk fært
+Task name,Nafn verks
+Task name is required,Nafn verks er krafist
+Task removed from group,Verk fjarlægt úr hóp
+Task subject is required,Efni verks er krafist
+Task unblocked: {0},Verki opnað: {0}
+Task unlinked,Verk aftengt
+Task updated,Verk uppfært
+Task {0} not found,Verk {0} fannst ekki
+Task {0} not in project {1},Verk {0} er ekki í verkefni {1}
+Task {0} to Frappe,Verk {0} yfir í Frappe
+Tasks and milestones will be created with dates relative to the project start date."""
+Task linked,Verkefni tengt
+Task moved,Verkefni fært
+Task name,Heiti verkefnis
+Task name is required,Heiti verkefnis er nauðsynlegt
+Task removed from group,Verkefni fjarlægt úr hópi
+Task Subject,Efni verks
+Task subject is required,Efni verkefnis er nauðsynlegt
+Task Type,Tegund verks
+Task unblocked: {0},Verkefni opnað: {0}
+Task unlinked,Verkefni aftengt
+Task updated,Verkefni uppfært
+Task {0} not found,Verkefni {0} fannst ekki
+Task {0} not in project {1},Verkefni {0} er ekki í verkefni {1}
+Task {0} to Frappe,Verkefni {0} í Frappe
+Tasks,Verk
+tasks,verk
+Tasks and milestones will be created with dates relative to the project start date.,Verkefni og áfangar verða búnir til með dagsetningum miðað við upphafsdag verkefnis.
+Tasks assigned to you across all projects.,Verk úthlutað þér í öllum verkefnum.
+Tasks created:,Verk búin til:
+Tasks from projects you manage.,Verk úr verkefnum sem þú stýrir.
+Tasks updated:,Verk uppfærð:
+"Tasks, milestones, and dependencies have been created.","Verk, áfangar og tengsl hafa verið búin til."
+Tasks:,Verk:
+TBD,Óráðið
+Team,Lið
+Team Members,Liðsmenn
+Template,Sniðmát
+Template applied,Sniðmát notað
+Template data is required in import data,Sniðmátsgögn eru krafist í innflutningsgögnum
+Template has no data,Sniðmát inniheldur engin gögn
+Template Name,Nafn sniðmáts
+Template name,Nafn sniðmáts
+Template name is required,Nafn sniðmáts er krafist
+Template name is required in import data,Nafn sniðmáts er krafist í innflutningsgögnum
+Template saved,Sniðmát vistað
+Template updated successfully.,Sniðmát uppfært.
+Template {0} not found,Sniðmát {0} fannst ekki
+Templates,Sniðmát
+Tentative,Óstaðfest
+The comment has been deleted,Athugasemdinni hefur verið eytt
+The project,Verkefnið
+The source document may have been deleted.,Upprunaskjalið gæti hafa verið eytt.
+The source document will not be affected.,Upprunaskjalið verður ekki fyrir áhrifum.
+The status of '{0}' was changed from {1} to {2}.,"Staða „{0} var breytt úr {1} í {2}."""
+Theme,Þema
+Theme preference,Þemaval
+This action,Þessi aðgerð
+This action cannot be undone.,Þessa aðgerð er ekki hægt að afturkalla.
+This activity has been flagged for attention,Þessi virkni hefur verið flagguð til athygli
+This is a reminder for your upcoming appointment,Þetta er áminning um komandi tímabókun þína
+This method is only meant for developer mode,Þessi aðferð er eingöngu fyrir þróunarham
+This page wandered off,This page wandered off
+This Week,Þessa viku
+This will delete all notes and preferences associated with this activity.,Þetta mun eyða öllum athugasemdum og stillingum sem tengjast þessari virkni.
+This will import all Frappe Projects into Orga. Continue?,Þetta mun flytja öll Frappe verkefni inn í Orga. Halda áfram?
+This will permanently delete,Þetta mun eyða varanlega
+This will permanently delete:,Þetta mun eyða varanlega:
+Thu,Fim
+Time,Tími
+Time & Billing,Tími og reikningar
+Time & Revenue,Tími og tekjur
+Time Entries,Tímafærslur
+Time log name is required,Nafn tímafærslu er krafist
+Time Log not found,Tímafærsla fannst ekki
+Time log {0} not found,Tímafærsla {0} fannst ekki
+Time Logs,Tímafærslur
+Time Summary,Tímayfirlit
+Time Tracking,Tímaskráning
+Timeline,Tímalína
+Timer active on,Tímamælir virkur á
+Timer is not running,Tímamælir er ekki í gangi
+Timer Running,Tímamælir í gangi
+Timer running,Tímamælir í gangi
+Timesheet DocType not available,DocType tímaskýrslu er ekki tiltækt
+Timesheets,Tímaskýrslur
+Timezone,Tímabelti
+Timezone is detected from your browser,Tímabelti er greint frá vafranum þínum
+Title,Titill
+Title cannot exceed 255 characters,Titill má ekki vera lengri en 255 stafir
+Title is required,Titill er krafist
+Title updated,Titill uppfærður
+To,Til
+to,til
+to cancel,til að hætta við
+to close,til að loka
+to confirm:,til að staðfesta:
+to edit,til að breyta
+"to save,","til að vista,"
+To Time cannot be before From Time,Lokatími getur ekki verið á undan upphafstíma
+Today,Í dag
+today,í dag
+Toggle billable,Skipta um reikningshæfni
+Toggle Details Panel,Sýna/fela upplýsingaglugga
+Toggle Manager Panel,Sýna/fela stjórnendaglugga
+Toggle Sidebar,Sýna/fela hliðarstiku
+Tomorrow,Á morgun
+tomorrow,á morgun
+Total,Samtals
+Total Budget,Heildarfjárhagsáætlun
+Total Contacts,Tengiliðir alls
+Total Cost,Heildarkostnaður
+Total Cost to Org,Heildarkostnaður fyrir stofnun
+Total Defect Cost,Heildarkostnaður galla
+Total Hours,Heildarstundir
+Total Hours Logged,Heildarstundir skráðar
+Total Projects,Verkefni alls
+Total Spent,Heildarnotkun
+Total Tasks,Verk alls
+Total:,Samtals:
+Tracked,Rakið
+trails to today while Open at 0%,framlengist til dagsins í dag á meðan Opið á 0%
+Tried:,Tried:
+Try adjusting your filter criteria,Prófaðu að breyta síuskilyrðum þínum
+Try adjusting your filters.,Prófaðu að breyta síunum þínum.
+Try Again,Reyndu aftur
+Tue,Þri
+Type,Tegund
+Type updated,Tegund uppfærð
+Type:,Tegund:
+Typical response time: 1-2 business days,Dæmigerður svartími: 1-2 virkir dagar
+Unarchive,Taka úr safni
+Unarchive Activity,Taka virkni úr safni
+Unassign,Afturkalla úthlutun
+Unassigned,Óúthlutað
+Under Budget,Undir fjárhagsáætlun
+Ungrouped,Óhópað
+Unknown,Óþekkt
+Unknown error,Óþekkt villa
+Unlink failed,Aftenging mistókst
+Unlink task from milestone,Aftengja verk frá áfanga
+Unpin,Losa
+Unpin Activity,Losa virkni
+Unread,Ólesið
+Unread only,Aðeins ólesið
+Until,Til og með
+Up to Date,Up to Date
+Upcoming,Framundan
+upcoming,framundan
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Uppfærsla mistókst
+Updated,Uppfært
+Updated successfully,Uppfærsla tókst
+Updates,Updates
+Upload,Hlaða upp
+Upload failed,Upphleðsla mistókst
+Upload files below to attach them to this task.,Hladdu upp skrám hér að neðan til að hengja þær við þetta verk.
+Upload to project,Hlaða upp í verkefni
+Uploading...,Hleð upp...
+Urgent,Áríðandi
+User {0} is already linked to client {1},Notandi {0} er þegar tengdur viðskiptavini {1}
+User {0} is already linked to resource {1},Notandi {0} er þegar tengdur úrræði {1}
+Utilization,Nýting
+Valid,Gilt
+Value:,Gildi:
+Variance,Frávik
+Variance:,Frávik:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Skoða
+View All,Skoða allt
+View all active projects,Skoða öll virk verkefni
+View all open tasks,Skoða öll opin verk
+View overdue tasks,Skoða verk komin fram yfir frest
+View Release,View Release
+Visibility,Sýnileiki
+Waiting for this task,Bíður eftir þessu verki
+Waits for:,Bíður eftir:
+Warning: Resource {0} status is {1},Viðvörun: Staða úrræðis {0} er {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Viðvörun: Notað er HTTP í stað HTTPS. Gögn webhook eru hugsanlega ekki örugg.
+Watch budget closely,Fylgjast vel með fjárhagsáætlun
+We'll respond to:,Við svörum á:
+Webhook deleted,Webhook eytt
+Webhook name is required,Nafn webhook er krafist
+Webhook not found,Webhook fannst ekki
+Webhook URL is required,Webhook-slóð er krafist
+Webhook URL must start with http:// or https://,Webhook-slóð verður að byrja á http:// eða https://
+Wed,Mið
+Week,Vika
+Weekend,Helgi
+Weekly Capacity,Vikuleg afkastageta
+weekly capacity,vikuleg afkastageta
+Weekly Capacity (h),Vikuleg afkastageta (klst)
+Welcome,Velkomin
+Welcome back!,Velkomin aftur!
+Welcome to Orga,Velkomin í Orga
+What are you working on?,Hvað ertu að vinna?
+What did you work on?,Hvað vannstu?
+When,Hvenær
+When work begins,Þegar vinna hefst
+When work is due,Þegar vinna er á dagskrá
+Where,Hvar
+Will capture:,Mun fanga:
+Will create:,Mun búa til:
+with checklist items,með gátlistaatriðum
+Working,Í vinnslu
+Workload,Vinnuálag
+Workmanship,Handverksgæði
+Write a comment...,Skrifaðu athugasemd...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Skrifaðu athugasemd... Notaðu @nafn til að nefna (Ctrl+Enter til að senda)
+Year,Ár
+Yes,Já
+Yesterday,Í gær
+yesterday,í gær
+You are not an attendee of this appointment,Þú ert ekki þátttakandi í þessari tímabókun
+You are not linked to any resource,Þú ert ekki tengd/ur neinu úrræði
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Þú getur aðeins eytt eigin athugasemdum
+You can only delete your own reactions,Þú getur aðeins eytt eigin viðbrögðum
+You do not have access to the client portal. Please contact support.,Þú hefur ekki aðgang að viðskiptavinagáttinni. Hafðu samband við aðstoð.
+You have already reacted with '{0}',"Þú hefur þegar brugðist við með „{0}""
+You have been assigned to task '{0}' in project '{1}'."""
+You have been assigned to task '{0}' in project '{1}'.,Þér hefur verið úthlutað verkefni '{0}' í verkefni '{1}'.
+You have been assigned to: {0},Þér hefur verið úthlutað á: {0}
+You have been invited to the following appointment,Þér hefur verið boðið í eftirfarandi tímabókun
+You have no tasks assigned to you right now.,Þú hefur engin verk úthlutað þér núna.
+You were mentioned in {0},Þú varst nefnd/ur í {0}
+Your attendance,Þátttaka þín
+Your comment has been posted,Athugasemd þín hefur verið birt
+Your Projects,Þín verkefni
+Your projects will appear here once they're assigned to you.,Verkefnin þín birtast hér þegar þeim hefur verið úthlutað til þín.
+Your Response,Svar þitt
+Your RSVP,RSVP þitt
+Your support request has been submitted successfully.,Stuðningsbeiðni þín hefur verið send.
+Your support request has been submitted successfully. We'll get back to you shortly.,Stuðningsbeiðni þín hefur verið send. Við svörum þér fljótlega.
+"Your task ""{0}"" is no longer blocked and can now be started.","Verkið þitt „{0} er ekki lengur lokað á og er hægt að hefja."""
+{0} is required,{0} er krafist
+{0} new activities,{0} ný virkni
+{0} of {1} completed,{0} af {1} lokið
+{0} projects already migrated (will be skipped or updated),{0} verkefni þegar flutt (verður sleppt eða uppfært)
+{0} status changed to {1},Staða {0} breytt í {1}
+{0} tasks remaining,{0} verk eftir
+{0} tasks without projects will be skipped,{0} verk án verkefna verður sleppt
+{0} {1} not found,{0} {1} fannst ekki

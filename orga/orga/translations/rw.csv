@@ -1,0 +1,1492 @@
++ Add Milestone,+ Ongeraho Intambwe Nkuru
++ Create Task,+ Kora Umurimo
++ Log Time,+ Andika Igihe
+-- Select a project --,-- Hitamo umushinga --
+0m,0m
+1 day,umunsi 1
+1 day ago,hashize umunsi 1
+1 dependency,isano 1
+1 entry,kwinjira 1
+1 file,dosiye 1
+1 hour ago,hashize isaha 1
+1 member,umunyamuryango 1
+1 milestone,intambwe nkuru 1
+1 month,ukwezi 1
+1 task,umurimo 1
+< 1m,< 1m
+"A clear, actionable title for the task",Umutwe usobanutse kandi ushobora gukurikizwa ku murimo
+A client with email {0} already exists: {1},Umukiriya ufite imeri {0} asanzwe ariho: {1}
+A key deliverable or checkpoint for the project,Igisubizo cy'ingenzi cyangwa ahantu ho kugenzura ku mushinga
+Accept,Emera
+Accepted,Byemewe
+Acknowledge,Emeza
+across,muri
+Action,Igikorwa
+Actions,Ibikorwa
+Active,Birakora
+Active Assignments,Ibigenewe birakora
+Active Projects,Imishinga irakora
+Activity,Ibikorwa
+Activity data deleted successfully,Amakuru y'ibikorwa yasibwe neza
+Activity Info,Amakuru y'ibikorwa
+Activity Stats,Imibare y'ibikorwa
+Activity will appear here as you work on tasks and projects.,Ibikorwa bizagaragara hano ugiye ukora ku mirimo n'imishinga.
+Actual,Nyakuri
+Actual Cost,Igiciro nyakuri
+Actual cost cannot be negative,Igiciro nyakuri ntigishobora kuba gihari
+Actual end date cannot be before actual start date,Itariki y'iherezo nyakuri ntishobora kuba mbere y'itariki yo gutangira nyakuri
+Actual Hours,Amasaha nyakuri
+Add,Ongeraho
+Add a checklist item...,Ongeraho igice cy'urutonde rwo kugenzura...
+Add a comment...,Ongeraho igitekerezo...
+Add a comment... (Ctrl+Enter to send),Ongeraho igitekerezo... (Ctrl+Enter kohereza)
+Add a description...,Ongeraho ibisobanuro...
+Add a milestone description...,Ongeraho ibisobanuro by'intambwe nkuru...
+Add a note below to annotate this activity.,Ongeraho icyanditswe hano hepfo kugira usobanuze iki gikorwa.
+Add a note...,Ongeraho icyanditswe...
+Add a project description...,Ongeraho ibisobanuro by'umushinga...
+Add a task description...,Ongeraho ibisobanuro by'umurimo...
+Add checklist item...,Ongeraho igice cy'urutonde rwo kugenzura...
+Add Contact,Ongeraho Umuntu wo Guhamagara
+Add contacts via the Desk interface or clear filters,Ongeraho abantu bo guhamagara binyuze muri Desk cyangwa ukureho ibihinguranya
+Add Dependency,Ongeraho Isano
+Add details about this event...,Ongeraho amakuru ku byerekeye iyi nama...
+Add details about this milestone...,Ongeraho amakuru ku byerekeye iyi ntambwe nkuru...
+Add details about this task...,Ongeraho amakuru ku byerekeye uyu murimo...
+Add details or acceptance criteria for this milestone,Ongeraho amakuru cyangwa ibipimo byo kwemera iyi ntambwe nkuru
+"Add details, context, or acceptance criteria","Ongeraho amakuru, imiterere, cyangwa ibipimo byo kwemera"
+Add first dependency,Ongeraho isano ya mbere
+Add item,Ongeraho igice
+Add items below to track progress.,Ongeraho ibice hano hepfo kugira ukurikirane aho bigeze.
+Add items below to track subtasks,Ongeraho ibice hano hepfo kugira ukurikirane imirimo mito
+Add Milestone,Ongeraho Intambwe Nkuru
+Add Milestone (Shift+M),Ongeraho Intambwe Nkuru (Shift+M)
+Add milestones to track key deliverables.,Ongeraho intambwe nkuru kugira ukurikirane ibisubizo by'ingenzi.
+Add New Contact,Ongeraho Umuntu Mushya wo Guhamagara
+Add Note,Ongeraho Icyanditswe
+Add note,Ongeraho icyanditswe
+Add notes about this contact...,Ongeraho amandiko ku byerekeye uyu muntu...
+Add reaction,Ongeraho igisubizo
+Add Skill,Ongeraho Ubumenyi
+Add start and due dates to tasks to see them on the Gantt chart,Ongeraho amatariki yo gutangira n'ayo gurangira ku mirimo kugira uyabone kuri Gantt
+Add Task,Ongeraho Umurimo
+Add Task (Shift+T),Ongeraho Umurimo (Shift+T)
+Added Finish-to-Start dependency,Isano y'Iherezo-kuri-Itangiriro yongewemo
+Adding this dependency would create a circular reference: {0},Kongeraho iyi sano byakwangiza ukubamo uruziga: {0}
+Adding...,Birongerwa...
+Address,Aderesi
+Advanced,Byimbitse
+All,Byose
+All Active,Byose birakora
+All Assignees,Abagenewe bose
+All Categories,Amoko yose
+All caught up!,Wasomye byose!
+All Contexts,Imiterere yose
+All day,Umunsi wose
+All day event,Ikintu cy'umunsi wose
+All fields,Imyanya yose
+All Priorities,Ibyihutirwa byose
+All Projects,Imishinga yose
+All Status,Imiterere yose
+All Statuses,Imiterere yose
+All task dependencies & relative dates,Isano zose z'imirimo n'amatariki ahuriyeho
+All Tasks,Imirimo yose
+All tasks across all projects.,Imirimo yose mu mishinga yose.
+All tasks are already linked,Imirimo yose isanzwe ihujwe
+All team members,Abanyamuryango bose b'itsinda
+All Types,Ubwoko bwose
+All Users,Abakoresha bose
+Allocated,Byagabanyijwe
+allocated,byagabanyijwe
+Allow users to log time against tasks,Emera abakoresha kwandika igihe ku mirimo
+Already exported to timesheet {0},Bisanzwe byoherejwe ku rupapuro rw'igihe {0}
+Already Migrated,Bisanzwe byimurwe
+Anyone with access,Umuntu wese ufite uburenganzira
+anytime to show this help,igihe icyo ari cyo cyose kugira werekane ubu bufasha
+App Updates,App Updates
+Appearance,Igaragara
+Apply,Koresha
+Apply cascade?,Koresha umurongo?
+Apply Changes,Koresha Amahinduka
+Apply failed,Gukoresha byanze
+Apply Template,Koresha Ingero
+Applying...,Birakoreshwa...
+Appointment,Gahunda
+Appointment and resource are required,Gahunda n'umutungo bisabwa
+Appointment name is required,Izina rya gahunda risabwa
+Appointment not found,Gahunda ntibwabonetse
+Appointment {0} not found,Gahunda {0} ntibwabonetse
+Apps,Porogaramu
+Archive,Bika mu bubiko
+Archive Activity,Bika Igikorwa mu Bubiko
+Archived,Byabitswe mu bubiko
+Are you sure you want to delete this activity data? This cannot be undone.,Uzi neza ko ushaka gusiba aya makuru y'ibikorwa? Ibi ntibizagaruka.
+Are you sure you want to delete this comment?,Uzi neza ko ushaka gusiba iki gitekerezo?
+Are you sure you want to delete this project?,Uzi neza ko ushaka gusiba uyu mushinga?
+Are you sure?,Uzi neza?
+Ascending -- click to reverse,Kuzamuka -- kanda uhindure
+Assign To,Genera
+Assign to Me,Igenere
+Assigned Contact,Umuntu Wagenewe
+Assigned To,Yagenewe
+Assigned to,Yagenewe
+Assigned to Me,Yagenewe Njye
+Assignee,Uwagenewe
+Assignment,Igenerwa
+Assignment History,Amateka y'igenerwa
+Assignment name is required,Izina ry'igenerwa risabwa
+Assignment {0} not found,Igenerwa {0} ntiryabonetse
+Assignments,Ibigenewe
+At least one action is required,Nibura igikorwa kimwe gisabwa
+At least one event is required,Nibura ikintu kimwe gisabwa
+At least one event must be selected,Nibura ikintu kimwe kigomba guhitamwa
+Attachment,Umugereka
+Attachments,Imigereka
+Attendees,Abitabiriye
+"Audit trail, assignments, version history","Inzira yo kugenzura, ibigenewe, amateka y'iversiyo"
+Auto,Otomatike
+Auto Calculate Progress,Kubara Aho Bigeze Otomatike
+Auto Set Missed Milestones,Gushyira Intambwe Nkuru Zitarashitswe Otomatike
+Auto-shift dependents when dates change,Gusunika ibiteganijwe otomatike amatariki ahindutse
+Auto-Trail Start,Gutangira Gusunikwa Otomatike
+Auto-Trail updated,Gusunikwa otomatike gwahinduwe
+Automatically calculate project progress from task completion,Kubara aho umushinga ugeze otomatike uhereye ku mirimo yarangiye
+Automatically mark milestones as missed when overdue,Gushyira ikimenyetso ku ntambwe nkuru nk'aho zitarashitswe igihe zihise
+Automation rule {0} not found,Itegeko ry'otomatike {0} ntiryabonetse
+Automation: {0},Otomatike: {0}
+Availability,Ubushobozi bwo kuboneka
+Available,Birahari
+Avatar updated successfully,Ishusho y'umukoresha yahinduwe neza
+Avg Progress,Aho Bigeze ku Rugero
+Back,Subira inyuma
+Back to Portal,Subira ku Muryango
+Back to Projects,Subira ku Mishinga
+Beginner,Utangiye
+Best regards,Amakuru meza
+Billable,Bishobora kwishyurwa
+Billable Amount,Amafaranga ashobora kwishyurwa
+Billable Hours,Amasaha ashobora kwishyurwa
+Billable Rate,Igipimo gishobora kwishyurwa
+Billing Rate,Igipimo cy'ubwishyu
+Blocked,Byahagaritswe
+Both dates are needed to display task as a bar in Gantt chart,Amatariki yombi akenewe kugira umurimo ugaragare nk'umurongo kuri Gantt
+Both doctype and docname are required,doctype na docname byombi bisabwa
+Both proposed start and end times are required,Igihe cyo gutangira n'icyo kurangira byatanzwe byombi bisabwa
+Both task_name and depends_on are required,task_name na depends_on byombi bisabwa
+Breadcrumb,Inzira y'urugendo
+Brief description of the defect or damage,Ibisobanuro bigufi by'ikosa cyangwa ubwangike
+Brief description of this template,Ibisobanuro bigufi by'iyi ngero
+Brief description of your request,Ibisobanuro bigufi by'icyifuzo cyawe
+Brief project description,Ibisobanuro bigufi by'umushinga
+Budget,Ingengo y'imari
+Budget at risk,Ingengo y'imari iri mu kaga
+Budget Burn Rate,Igipimo cy'imikoreshereze y'ingengo y'imari
+Budget Status,Uko ingengo y'imari imeze
+Budget updated,Ingengo y'imari yahinduwe
+Budget:,Ingengo y'imari:
+Bug,Ikosa
+Burn Rate,Igipimo cy'imikoreshereze
+Busy,Arafite akazi
+By,Na
+By Assignee,Ku wagenewe
+By Group,Ku itsinda
+By Milestone,Ku ntambwe nkuru
+By Priority,Ku cyihutirwa
+By Status,Ku miterere
+Cancel,Hagarika
+Cancelled,Byahagaritswe
+cannot be undone,ntibizasubizwaho
+Cannot delete client with {0} linked projects. Unlink projects first.,Ntushobora gusiba umukiriya ufite imishinga {0} ihujwe. Tangira ukure isano y'imishinga.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Ntushobora gusiba umushinga ufite imirimo {0} ihujwe. Tangira usibe imirimo.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Ntushobora gusiba umutungo ufite ibigenewe {0} birakora. Tangira ubirangize cyangwa ubihagarike.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Ntushobora gusiba umurimo ufite imirimo mito {0}. Tangira usibe imirimo mito.
+Capacity,Ubushobozi
+capacity,ubushobozi
+Capacity & Rates,Ubushobozi n'Ibipimo
+Capture project structure for reuse,Fata imiterere y'umushinga kugira ugaruke uyikoreshe
+Cascade,Umurongo
+Cascade Preview,Icyo umurongo uzagaragaza
+Category,Icyiciro
+Celebrate,Izihize
+Change,Hindura
+Change History,Amateka y'amahinduka
+Change Priority,Hindura Ibyihutirwa
+Change Status,Hindura Imiterere
+Changes,Amahinduka
+Changes appear when fields are modified.,Amahinduka agaragara imyanya ihindutse.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Urutonde rwo kugenzura
+Checklist item name is required,Izina ry'igice cy'urutonde rwo kugenzura risabwa
+Checklist item not found,Igice cy'urutonde rwo kugenzura nticyabonetse
+Checklist item title is required,Umutwe w'igice cy'urutonde rwo kugenzura usabwa
+Checklist item {0} not found,Igice cy'urutonde rwo kugenzura {0} nticyabonetse
+Checklist item {0} not found in task,Igice cy'urutonde rwo kugenzura {0} nticyabonetse mu murimo
+Child,Umwana
+Choose file to upload,Hitamo dosiye yo kohereza
+Circular dependency detected: {0},Isano y'uruziga yagaragaye: {0}
+Circular parent-child relationship detected,Isano y'uruziga y'umubyeyi-umwana yagaragaye
+Clear,Kura
+Clear all read,Kura ibyasomwe byose
+Clear date,Kura itariki
+Click on an activity from the list to view and manage its details.,Kanda ku gikorwa ku rutonde kugira ubone kandi ugenzure amakuru yacyo.
+Click the avatar to upload a new photo,Kanda ishusho y'umukoresha kohereza ifoto nshya
+Click to add description...,Kanda kongeraho ibisobanuro...
+Click to add notes...,Kanda kongeraho amandiko...
+Click to assign contact,Kanda kugira ugenere umuntu wo guhamagara
+Click to change status,Kanda guhindura imiterere
+Click to change type,Kanda guhindura ubwoko
+Click to edit,Kanda guhindura
+Click to edit budget,Kanda guhindura ingengo y'imari
+Click to edit description,Kanda guhindura ibisobanuro
+Click to edit end date,Kanda guhindura itariki y'iherezo
+Click to edit milestone name,Kanda guhindura izina ry'intambwe nkuru
+Click to edit rate,Kanda guhindura igipimo
+Click to edit start date,Kanda guhindura itariki yo gutangira
+Click to edit title,Kanda guhindura umutwe
+Click to load,Kanda gufungura
+Click to set group dependency...,Kanda gushyira isano y'itsinda...
+Click to set group...,Kanda gushyira itsinda...
+Click to view,Kanda kureba
+Click to view at-risk projects,Kanda kureba imishinga iri mu kaga
+Click to view critical projects,Kanda kureba imishinga y'ingenzi cyane
+Click to view healthy projects,Kanda kureba imishinga igenda neza
+Client,Umukiriya
+Client already has a portal user: {0},Umukiriya asanzwe afite umukoresha w'umuryango: {0}
+Client already has portal access,Umukiriya asanzwe afite uburenganzira bw'umuryango
+Client has no portal user to revoke,Umukiriya nta mukoresha w'umuryango afite wo gukuraho
+Client link removed from project {0},Isano y'umukiriya yakuwe ku mushinga {0}
+Client Portal,Umuryango w'Umukiriya
+Client {0} deleted successfully,Umukiriya {0} yasibwe neza
+Close,Funga
+Close (Esc),Funga (Esc)
+Comment,Igitekerezo
+comment,igitekerezo
+Comment added,Igitekerezo cyongewemo
+Comment content is required,Ibirimo by'igitekerezo bisabwa
+Comment name is required,Izina ry'igitekerezo risabwa
+Comment not found,Igitekerezo nticyabonetse
+Comment removed,Igitekerezo cyakuwe
+Comment {0} not found in task,Igitekerezo {0} nticyabonetse mu murimo
+Comments,Ibitekerezo
+comments,ibitekerezo
+Community Edition,Community Edition
+Company,Isosiyete
+Company name...,Izina ry'isosiyete...
+Complete,Rangiza
+Completed,Byarangiye
+completed,byarangiye
+Completed Tasks,Imirimo yarangiye
+Compliance,Kubahiriza amategeko
+Configure default values for new projects and tasks,Shiraho agaciro ka mbere ku mishinga n'imirimo mishya
+Configure email notification settings,Shiraho amabwiriza y'imenyesha z'imeri
+Confirm,Emeza
+Contact deleted,Umuntu wo guhamagara yasibwe
+Contact Details,Amakuru y'umuntu wo guhamagara
+Contact Information,Amakuru y'itumanaho
+Contact name is required,Izina ry'umuntu wo guhamagara risabwa
+Contact Support,Hamagara Ubufasha
+Contact your project manager for more information.,Hamagara umuyobozi w'umushinga kugira ubone amakuru menshi.
+Contact:,Umuntu wo guhamagara:
+Contacts,Abantu bo guhamagara
+Context,Imiterere
+Contractor,Umukozi w'amasezerano
+Cost estimate cannot be negative,Igipimo cy'igiciro ntigishobora kuba gihari
+Cost Impact,Ingaruka ku giciro
+Cost Summary,Incamake y'igiciro
+Could not apply the template. Please try again.,Byanze gukoresha ingero. Ongera ugerageze.
+Could not attach file to project,Byanze guhererekanya dosiye ku mushinga
+Could not change task priority,Byanze guhindura ibyihutirwa by'umurimo
+Could not change task status,Byanze guhindura imiterere y'umurimo
+Could not delete the project. Please try again.,Byanze gusiba umushinga. Ongera ugerageze.
+Could not delete the task. Please try again.,Byanze gusiba umurimo. Ongera ugerageze.
+Could not delete the template.,Byanze gusiba ingero.
+Could not duplicate the task. Please try again.,Byanze gusubiramo umurimo. Ongera ugerageze.
+Could not export the template.,Byanze kohereza ingero hanze.
+Could not import the template. Please check the file format.,Byanze kwinjiza ingero. Reba imiterere ya dosiye.
+Could not link task to milestone,Byanze guhuza umurimo n'intambwe nkuru
+Could not load document details.,Byanze gufungura amakuru y'inyandiko.
+Could not load task details,Byanze gufungura amakuru y'umurimo
+Could not promote checklist item to task.,Byanze gushyira hejuru igice cy'urutonde rwo kugenzura ngo kibe umurimo.
+Could not remove task from milestone,Byanze gukura umurimo mu ntambwe nkuru
+Could not save budget.,Byanze kubika ingengo y'imari.
+Could not save changes to the milestone,Byanze kubika amahinduka y'intambwe nkuru
+Could not save changes to the task,Byanze kubika amahinduka y'umurimo
+Could not save description.,Byanze kubika ibisobanuro.
+Could not save end date.,Byanze kubika itariki y'iherezo.
+Could not save milestone name.,Byanze kubika izina ry'intambwe nkuru.
+Could not save start date.,Byanze kubika itariki yo gutangira.
+Could not save the template. Please try again.,Byanze kubika ingero. Ongera ugerageze.
+Could not save title.,Byanze kubika umutwe.
+Could not update dependency mode.,Byanze guhindura uburyo bw'isano.
+Could not update milestone date,Byanze guhindura itariki y'intambwe nkuru
+Could not update project status.,Byanze guhindura imiterere y'umushinga.
+Could not update project type.,Byanze guhindura ubwoko bw'umushinga.
+Could not update setting.,Byanze guhindura amabwiriza.
+Could not update task dates,Byanze guhindura amatariki y'umurimo
+Could not update task status,Byanze guhindura imiterere y'umurimo
+Could not update the template.,Byanze guhindura ingero.
+Create a copy of this task,Kora kopi y'uyu murimo
+Create Contact,Kora Umuntu wo Guhamagara
+Create Event,Kora Ikintu
+Create Milestone,Kora Intambwe Nkuru
+Create New Milestone,Kora Intambwe Nkuru Nshya
+Create New Task,Kora Umurimo Mushya
+Create Project,Kora Umushinga
+Create Task,Kora Umurimo
+Create tasks and milestones from a template,Kora imirimo n'intambwe nkuru uhereye ku ngero
+Create your first project to get started.,Kora umushinga wawe wa mbere kugira utangire.
+Create your first task to start tracking work on this project.,Kora umurimo wawe wa mbere kugira utangire gukurikirana akazi k'uyu mushinga.
+Created,Byakozwe
+Creating...,Birakora...
+Critical,By'ingenzi cyane
+Critical Path,Inzira y'Ingenzi
+"Currency used for budgets, costs, and billing rates","Ifaranga rikoreshwa ku ngengo y'imari, ibiciro, n'ibipimo by'ubwishyu"
+Current,Biriho ubu
+Current Assignments,Ibigenewe biriho ubu
+Current scheduled time:,Igihe gipanzwe ubu:
+Currently running version,Currently running version
+d lag,d y'ubukererwe
+Daily Availability,Kuboneka bya buri munsi
+Daily Hours,Amasaha ya buri munsi
+Danger Zone,Ahantu h'akaga
+Dark,Umwijima
+Dashboard,Ikibaho
+Date,Itariki
+Date changes on this task will show cascade impact here,Amahinduka y'itariki ku murimo azagaragaza ingaruka z'umurongo hano
+Date cleared,Itariki yakuwe
+Date of Joining,Itariki yo kwinjira
+Date updated,Itariki yahinduwe
+Dates,Amatariki
+Dates cascaded,Amatariki yasunikiranywe
+Dates will be relative to the project's start date.,Amatariki azaba ahuriyeho n'itariki yo gutangira umushinga.
+Day,Umunsi
+day,umunsi
+days,iminsi
+Days before due date to send reminder,Iminsi mbere y'itariki yo kurangirira yo kohereza urwibutso
+Days Overdue,Iminsi y'ubukererwe
+Days Remaining,Iminsi isigaye
+Deadline,Itariki ntarengwa
+Deadlines,Amatariki ntarengwa
+Decision,Icyemezo
+Decline,Anga
+Declined,Byanzwe
+Default Currency,Ifaranga ry'ibanze
+Default hours per week for contact capacity planning,Amasaha y'ibanze ku cyumweru yo gutegura ubushobozi bw'abantu bo guhamagara
+Default Priority,Ibyihutirwa by'ibanze
+Default Project Status,Imiterere y'ibanze y'umushinga
+Default Task Status,Imiterere y'ibanze y'umurimo
+Default task view,Igaragara ry'ibanze ry'umurimo
+Default Values,Agaciro k'ibanze
+Default Weekly Capacity,Ubushobozi bw'icyumweru bw'ibanze
+Defaults,Iby'ibanze
+Defect Cost Impact,Ingaruka y'igiciro cy'ikosa
+Defect name is required,Izina ry'ikosa risabwa
+Defect Type,Ubwoko bw'ikosa
+Defect {0} not found,Ikosa {0} ntiryabonetse
+Defects,Amakosa
+Defects & Issues,Amakosa n'Ibibazo
+Defects Resolved,Amakosa yakosoye
+Delayed,Byatinze
+Delete,Siba
+Delete Activity Data,Siba Amakuru y'Ibikorwa
+Delete all read notifications?,Siba imenyesha zose zasomwe?
+Delete comment,Siba igitekerezo
+Delete Contact,Siba Umuntu wo Guhamagara
+Delete Event,Siba Ikintu
+Delete Event?,Siba Ikintu?
+Delete failed,Gusiba byanze
+Delete file,Siba dosiye
+Delete item,Siba igice
+Delete note,Siba icyanditswe
+Delete Project,Siba Umushinga
+Delete Task,Siba Umurimo
+Delete this project,Siba uyu mushinga
+Deleted,Byasibwe
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Umushinga ""{0}"" wasibwe (imirimo {1}, intambwe nkuru {2})"
+Deletes notes and preferences. Source document is not affected.,Isiba amandiko n'ibyashimwe. Inyandiko y'inkomoko ntireba.
+Deleting...,Birasibwa...
+Department,Ishami
+Dependencies,Isano
+dependencies,isano
+Dependencies are informational only,Isano ni iz'amakuru gusa
+dependency,isano
+Dependency already exists,Isano isanzwe iriho
+Dependency Chain,Urunigi rw'isano
+Dependency created,Isano yakozwe
+Dependency mode updated,Uburyo bw'isano bwahinduwe
+Dependency name is required,Izina ry'isano risabwa
+Dependency task {0} not found,Umurimo w'isano {0} ntiwaboneye
+Dependency {0} not found,Isano {0} ntiryabonetse
+depends,biterana na
+Depends on Group,Iterana n'Itsinda
+Depends on task is required,Umurimo uteganijwe usabwa
+depends on...,biterana na...
+Descending -- click to reverse,Kumanuka -- kanda uhindure
+Describe the defect in detail...,Sobanura ikosa mu buryo burambuye...
+Description,Ibisobanuro
+Description updated,Ibisobanuro byahinduwe
+Designation,Umwanya
+"Detailed description of the defect, location, and impact","Ibisobanuro birambuye by'ikosa, aho riherereye, n'ingaruka zaryo"
+Details,Amakuru
+Discard timer,Juga isaha
+Discussion,Ikiganiro
+Dismiss,Dismiss
+Display,Erekana
+Document,Inyandiko
+Document attached to project,Inyandiko yashyizwe ku mushinga
+Document final decision and rationale,Andika icyemezo cy'iherezo n'impamvu
+Documentation Review,Isuzuma ry'inyandiko
+Documents,Inyandiko
+Done,Byarangiye
+Download,Manura
+Drag to create dependency,Kurura kugira ukore isano
+Dry Run,Ikizamini cy'igerageza
+Dry Run Complete,Ikizamini cy'igerageza cyarangiye
+Due Date,Itariki yo Kurangirira
+Due date,Itariki yo kurangirira
+Due Date (Earliest),Itariki yo Kurangirira (ya mbere)
+Due date cannot be before start date,Itariki yo kurangirira ntishobora kuba mbere y'itariki yo gutangira
+Due date is in the past,Itariki yo kurangirira yashize
+Due Date Reminders,Ibirikumbuzo by'itariki yo kurangirira
+Due Diligence,Isuzuma ry'umwihariko
+Due Diligence Checklist,Urutonde rwo kugenzura isuzuma ry'umwihariko
+Due This Week,Bisabwa iki cyumweru
+Due:,Bisabwa:
+Duplicate events are not allowed,Ibintu bisubirwamo ntibemewe
+Duplicate failed,Gusubiramo byanze
+Duplicate Task,Subiramo Umurimo
+Duration,Igihe
+Duration Summary,Incamake y'igihe
+Duration:,Igihe:
+e.g. Cracked wall finish in bathroom...,urugero: Urukuta rumenye mu bwogero...
+"e.g. Electrical, Plumbing...","urugero: Amashanyarazi, Amazi..."
+Edit,Hindura
+Edit (E),Hindura (E)
+Edit dependency,Hindura isano
+Edit Event,Hindura Ikintu
+Efficiency,Ubushobozi bwo gukora
+Either dependency_name or depends_on is required,dependency_name cyangwa depends_on bisabwa
+Email,Imeri
+Email invitations to all attendees,Kohereza inzego z'imeri ku bitabiriye bose
+Email is required to create portal user,Imeri isabwa kugira ukore umukoresha w'umuryango
+Email notifications,Imenyesha z'imeri
+Employee,Umukozi
+Employee DocType not available,DocType y'Umukozi ntiboneka
+Employee not found,Umukozi ntiyabonetse
+Enable or disable optional features,Fungura cyangwa ufunge ibintu by'amahitamo
+Enable Time Tracking,Fungura Gukurikirana Igihe
+End,Iherezo
+End Date,Itariki y'Iherezo
+End date,Itariki y'iherezo
+End Date cannot be before Start Date,Itariki y'Iherezo ntishobora kuba mbere y'Itariki yo Gutangira
+End date cannot be before start date,Itariki y'iherezo ntishobora kuba mbere y'itariki yo gutangira
+End date updated,Itariki y'iherezo yahinduwe
+End time was before start time. Adjusted to 1 hour after start.,Isaha y'iherezo yari mbere y'isaha yo gutangira. Yahinduwe kuba isaha 1 nyuma yo gutangira.
+End:,Iherezo:
+Enter milestone name...,Injiza izina ry'intambwe nkuru...
+Enter project name,Injiza izina ry'umushinga
+Enter task title...,Injiza umutwe w'umurimo...
+Enter template name,Injiza izina ry'ingero
+Enter your note... Use @name to mention someone,Injiza icyanditswe cyawe... Koresha @izina kugira uvuge umuntu
+Error,Ikosa
+Error loading activity,Ikosa ryo gufungura ibikorwa
+Error loading contacts,Ikosa ryo gufungura abantu bo guhamagara
+Error loading dashboard,Ikosa ryo gufungura ikibaho
+Error loading project,Ikosa ryo gufungura umushinga
+Error loading projects,Ikosa ryo gufungura imishinga
+Error loading settings,Ikosa ryo gufungura amabwiriza
+Error loading tasks,Ikosa ryo gufungura imirimo
+Error loading templates,Ikosa ryo gufungura ingero
+Est. Hours,Amasaha agem.
+Estimated,Byagemanwe
+Estimated Cost,Igiciro cyagemanwe
+Estimated Cost (€),Igiciro cyagemanwe (€)
+Estimated Hours,Amasaha yagemanwe
+Estimated:,Byagemanwe:
+Evaluate potential risks and concerns,Suzuma akaga n'ibibazo bishoboka
+Event,Ikintu
+Event is required for event context,Ikintu gisabwa ku miterere y'ikintu
+Event is required when tracking context is 'event',Ikintu gisabwa imiterere yo gukurikirana iri 'ikintu'
+Event Type,Ubwoko bw'ikintu
+Events,Ibintu
+Events not available. Please run: bench --site orga.localhost migrate,Ibintu ntibiboneka. Koresha: bench --site orga.localhost migrate
+Events:,Ibintu:
+Expert,Umuhanga
+Explain why you are proposing a different time...,Sobanura impamvu utanga igihe gitandukanye...
+Export,Ohereza hanze
+Export failed,Kohereza hanze byanze
+Export JSON,Ohereza JSON hanze
+Exported,Byoherejwe hanze
+Exported to timesheet {0},Byoherejwe ku rupapuro rw'igihe {0}
+External,Inyuma
+Failed to add item,Byanze kongeraho igice
+Failed to add note,Byanze kongeraho icyanditswe
+Failed to add skill,Byanze kongeraho ubumenyi
+Failed to apply cascade changes: {0},Byanze gukoresha amahinduka y'umurongo: {0}
+Failed to create defect,Byanze gukora ikosa
+Failed to create dependency,Byanze gukora isano
+Failed to create event,Byanze gukora ikintu
+Failed to create milestone,Byanze gukora intambwe nkuru
+Failed to create project,Byanze gukora umushinga
+Failed to create task,Byanze gukora umurimo
+Failed to create time log,Byanze gukora inyandiko y'igihe
+Failed to delete,Byanze gusiba
+Failed to delete comment,Byanze gusiba igitekerezo
+Failed to delete contact,Byanze gusiba umuntu wo guhamagara
+Failed to load,Byanze gufungura
+Failed to load activity,Byanze gufungura ibikorwa
+Failed to load assignments,Byanze gufungura ibigenewe
+Failed to load contact,Byanze gufungura umuntu wo guhamagara
+Failed to load dashboard data,Byanze gufungura amakuru y'ikibaho
+Failed to load defects,Byanze gufungura amakosa
+Failed to load events,Byanze gufungura ibintu
+Failed to load project,Byanze gufungura umushinga
+Failed to load projects,Byanze gufungura imishinga
+Failed to load report data,Byanze gufungura amakuru y'iraporo
+Failed to load settings,Byanze gufungura amabwiriza
+Failed to load tasks,Byanze gufungura imirimo
+Failed to move task,Byanze kwimura umurimo
+Failed to post comment,Byanze gutangaza igitekerezo
+Failed to propose new time,Byanze gutanga igihe gishya
+Failed to remove item,Byanze gukura igice
+Failed to remove skill,Byanze gukura ubumenyi
+Failed to reorder milestones: {0},Byanze gutondekanya intambwe nkuru: {0}
+Failed to reorder tasks: {0},Byanze gutondekanya imirimo: {0}
+Failed to reschedule dependent tasks: {0},Byanze gushyira ku gahunda gashya imirimo iteganijwe: {0}
+Failed to save,Byanze kubika
+Failed to save preferences,Byanze kubika ibyashimwe
+Failed to save settings,Byanze kubika amabwiriza
+Failed to submit request. Please try again.,Byanze kohereza icyifuzo. Ongera ugerageze.
+Failed to update item,Byanze guhindura igice
+Failed to update priority,Byanze guhindura ibyihutirwa
+Failed to update task,Byanze guhindura umurimo
+Failed to update tasks: {0},Byanze guhindura imirimo: {0}
+Failed to upload avatar,Byanze kohereza ishusho y'umukoresha
+Feature,Ikintu gishya
+Features,Ibintu bishya
+FF (Finish-Finish),FF (Iherezo-Iherezo)
+FF - Finish-to-Finish,FF - Iherezo-kuri-Iherezo
+Field has been updated,Umwanya wahinduwe
+Field name is required for 'Set Field Value' action,Izina ry'umwanya risabwa ku gikorwa cyo 'Gushyira Agaciro k'Umwanya'
+Field {0} is not a Link field,Umwanya {0} si umwanya w'isano
+Field {0} not found in {1},Umwanya {0} ntiwaboneye muri {1}
+File,Dosiye
+file,dosiye
+File does not belong to this task,Dosiye si iy'uyu murimo
+File name is required,Izina rya dosiye risabwa
+File uploaded,Dosiye yoherejwe
+File {0} not found,Dosiye {0} ntiyabonetse
+Files,Dosiye
+files,dosiye
+Filter,Higurana
+Final Decision,Icyemezo cy'Iherezo
+Finance,Imari
+Financial,Iby'imari
+Finish-to-Finish,Iherezo-kuri-Iherezo
+Finish-to-Start,Iherezo-kuri-Itangiriro
+Flag,Ikimenyetso
+Flag for attention,Shyira ikimenyetso ngo bitite
+Flagged,Byashyizweho ikimenyetso
+Focus Panel,Icyapa cy'umwihariko
+Follows your system preference. Currently:,Bikurikiza ibyashimwe n'imashini yawe. Ubu:
+Frappe Project {0} not found,Umushinga wa Frappe {0} ntiwaboneye
+Frappe Projects Migration,Kwimura Imishinga ya Frappe
+Frappe Projects module not available,Modire ya Frappe Projects ntiboneka
+Frappe Projects module not installed,Modire ya Frappe Projects ntiyashyizweho
+Frappe Projects sync is not enabled,Guhuza Frappe Projects ntibifunguwe
+Frappe Task DocType not found,DocType y'Umurimo wa Frappe ntiyabonetse
+Frappe Task has no project,Umurimo wa Frappe nta mushinga ufite
+Frappe Task {0} not found,Umurimo wa Frappe {0} ntiwaboneye
+Fri,Gat
+From,Kuva
+From Template,Kuva ku Ngero
+FS (Finish-Start),FS (Iherezo-Itangiriro)
+FS - Finish-to-Start (default),FS - Iherezo-kuri-Itangiriro (cy'ibanze)
+Full form view with audit trail,Igaragara ryose ry'iform hamwe n'inzira yo kugenzura
+Full name,Izina ryose
+Gantt,Gantt
+Gantt Chart,Ishusho ya Gantt
+Gantt View,Igaragara rya Gantt
+General Note,Icyanditswe Rusange
+Get started,Tangira
+Go back,Subira inyuma
+Go Back,Go Back
+Group by,Huza ku
+Group dependency removed,Isano y'itsinda yakuwe
+Group dependency set,Isano y'itsinda yashyizweho
+Group removed,Itsinda ryakuwe
+Group updated,Itsinda ryahinduwe
+Hammock task dates are auto-calculated and cannot be changed manually,Amatariki y'umurimo w'igitanda akurwa otomatike kandi ntashobora guhindurwa n'intoki
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Ufite ikibazo cyangwa ukeneye ubufasha? Uzuza form iri hano hepfo kandi itsinda ryacu rizakugaruka.
+Health,Ubuzima
+Healthy,Bimeze neza
+Hello {0},Muraho {0}
+Here's what's happening with your projects today.,Ngiki ibigenda mu mishinga yawe uyu munsi.
+Hide,Hisha
+High,Hejuru
+History,Amateka
+Home,Ahabanza
+Hourly Cost,Igiciro cy'isaha
+Hours,Amasaha
+hours,amasaha
+Hours Logged,Amasaha yanditswe
+ID,Inomero
+Image must be smaller than 5 MB,Ishusho igomba kuba nto kuruta MB 5
+Import,Injiza
+Import existing projects and tasks from Frappe Projects module,Injiza imishinga n'imirimo bisanzwe biri muri modire ya Frappe Projects
+Import failed,Kwinjiza byanze
+Import Template,Injiza Ingero
+Imported,Byinjijwe
+in,muri
+In Progress,Biracyakora
+In Review,Birasuzumwa
+In-app notifications,Imenyesha z'imbere mu porogaramu
+Inactive,Ntibirakora
+Initial Review,Isuzuma rya Mbere
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Uburenganzira bw'intege nke bwo kureba imirimo yose
+Intermediate,Hagati
+Internal,Imbere
+Invalid DocType,DocType itari nziza
+Invalid DocType for import,DocType itari nziza yo kwinjiza
+Invalid item type: {0},Ubwoko bw'igice butari bwiza: {0}
+Invalid JSON data,Amakuru ya JSON atari meza
+Invalid note type. Must be one of: {0},Ubwoko bw'icyanditswe butari bwiza. Bugomba kuba bumwe muri: {0}
+Invalid project reference,Ireferansi y'umushinga itari nziza
+Invalid reaction type. Must be one of: {0},Ubwoko bw'igisubizo butari bwiza. Bugomba kuba bumwe muri: {0}
+Invalid RSVP status,Imiterere ya RSVP itari nziza
+Invalid status. Must be one of: {0},Imiterere itari nziza. Igomba kuba imwe muri: {0}
+Invalid status: {0},Imiterere itari nziza: {0}
+Invalid status: {0}. Must be one of: {1},Imiterere itari nziza: {0}. Igomba kuba imwe muri: {1}
+Invalid tracking context: {0},Imiterere yo gukurikirana itari nziza: {0}
+Invalid visibility. Must be one of: {0},Igaragara ritari rizima. Rigomba kuba rimwe muri: {0}
+Invitation: {0} - {1} at {2},Itumire: {0} - {1} saa {2}
+Invite People,Tumira Abantu
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Igice cyongewemo
+Item ID is required,Inomero y'igice isabwa
+Item removed,Igice cyakuwe
+Item type is required,Ubwoko bw'igice busabwa
+Item {0} not found,Igice {0} nticyabonetse
+Job title or role,Umwanya cyangwa uruhare
+Join Meeting,Injira mu Nama
+Just now,Ubu nyine
+just now,ubu nyine
+Kanban,Kanban
+Kanban Board,Ikibaho cya Kanban
+Kanban View,Igaragara rya Kanban
+Keyboard Shortcuts,Inzira z'amahinnye z'ubufunguro
+Keyboard shortcuts (?),Inzira z'amahinnye z'ubufunguro (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Igihe cyahinduwe
+Last updated:,Igihe cyahinduwe:
+Last Week,Icyumweru gishize
+Latest Version,Latest Version
+Light,Urumuri
+Link failed,Guhuza byanze
+Link Task,Huza Umurimo
+Linked,Bihujwe
+Linked employee not found,Umukozi uhujwe ntiyabonetse
+Linked Tasks,Imirimo ihujwe
+List,Urutonde
+List View,Igaragara ry'Urutonde
+Load failed,Gufungura byanze
+Load More,Fungura Byinshi
+Load more comments,Fungura ibitekerezo byinshi
+Loading activity...,Birafungura ibikorwa...
+Loading changes...,Birafungura amahinduka...
+Loading checklist...,Birafungura urutonde rwo kugenzura...
+Loading comments...,Birafungura ibitekerezo...
+Loading contact...,Birafungura umuntu wo guhamagara...
+Loading contacts...,Birafungura abantu bo guhamagara...
+Loading dependencies...,Birafungura isano...
+Loading details...,Birafungura amakuru...
+Loading discussion...,Birafungura ikiganiro...
+Loading events...,Birafungura ibintu...
+Loading files...,Birafungura dosiye...
+Loading notes...,Birafungura amandiko...
+Loading preferences...,Birafungura ibyashimwe...
+Loading project...,Birafungura umushinga...
+Loading projects...,Birafungura imishinga...
+Loading replies...,Birafungura ibisubizo...
+Loading report data...,Birafungura amakuru y'iraporo...
+Loading settings...,Birafungura amabwiriza...
+Loading task...,Birafungura umurimo...
+Loading templates...,Birafungura ingero...
+Loading time logs...,Birafungura inyandiko z'igihe...
+Loading your portal...,Birafungura umuryango wawe...
+Loading...,Birafungura...
+Location,Ahantu
+Log Time,Andika Igihe
+Logout,Sohoka
+Low,Buke
+Make Offer,Tanga Igitekerezo
+Manager,Umuyobozi
+Manual Entry,Kwinjiza ku ntoki
+Margin,Inyungu
+Mark all as read,Shyira byose nk'ibyasomwe
+Mark all read,Shyira byose zasomwe
+Mark as read,Shyira nk'icyasomwe
+Mark as unread,Shyira nk'icyatasomwe
+Mark read,Shyira icyasomwe
+Marking...,Bishyirwaho...
+Material,Ibikoresho
+Maybe,Birashoboka
+Medium,Hagati
+Meeting,Inama
+Meeting Link,Isano y'inama
+Meeting title,Umutwe w'inama
+Meeting URL,URL y'inama
+Meetings,Inama
+Mention,Vuga
+Message,Ubutumwa
+Message is required,Ubutumwa busabwa
+Message is required for '{0}' action,Ubutumwa busabwa ku gikorwa cya '{0}'
+Migrate,Imura
+Migration Complete,Kwimura byarangiye
+Migration ID:,Inomero yo kwimura:
+Migration log not found: {0},Inyandiko yo kwimura {0} ntiyabonetse
+Milestone,Intambwe Nkuru
+milestone,intambwe nkuru
+Milestone created,Intambwe nkuru yakozwe
+Milestone description has been saved.,Ibisobanuro by'intambwe nkuru byabitswe.
+Milestone ID is required,Inomero y'intambwe nkuru isabwa
+Milestone marked as Missed (past due date),Intambwe nkuru yashyizweho nk'aho itarashitswe (itariki yashize)
+Milestone moved,Intambwe nkuru yimuwe
+Milestone Name,Izina ry'Intambwe Nkuru
+Milestone name has been saved.,Izina ry'intambwe nkuru ryabitswe.
+Milestone name is required,Izina ry'intambwe nkuru risabwa
+Milestone updated,Intambwe nkuru yahinduwe
+Milestone {0} not found,Intambwe nkuru {0} ntiyabonetse
+Milestone {0} not in project {1},Intambwe nkuru {0} ntiri mu mushinga {1}
+Milestones,Intambwe nkuru
+milestones,intambwe nkuru
+Milestones:,Intambwe nkuru:
+Minutes,Iminota
+Missed,Ntibwashitswe
+Mixed,Bivanze
+Mobile,Telefoni
+Moderate,Biringaniye
+Modified,Byahinduwe
+"Modify details, time, or attendees","Hindura amakuru, igihe, cyangwa abitabiriye"
+Mon,Mbe
+Month,Ukwezi
+Move failed,Kwimura byanze
+Must be a positive number,Igomba kuba inomero yiza
+Must finish before this finishes,Igomba kurangira mbere y'uko ibi birangira
+Must finish before this starts,Igomba kurangira mbere y'uko ibi bitangira
+Must start before this finishes,Igomba gutangira mbere y'uko ibi birangira
+Must start before this starts,Igomba gutangira mbere y'uko ibi bitangira
+My Assignments,Ibigenewe Byanjye
+My Projects,Imishinga Yanjye
+My Schedule,Gahunda Yanjye
+My Tasks,Imirimo Yanjye
+N/A,Ntibireba
+Name,Izina
+Name (A-Z),Izina (A-Z)
+Name (Z-A),Izina (Z-A)
+Name cannot exceed 255 characters,Izina ntirishobora kurenza inyuguti 255
+Need help?,Ukeneye ubufasha?
+Needs Attention,Bisaba Kwitabwaho
+Never,Never
+new activities,ibikorwa bishya
+New Activity,Igikorwa Gishya
+New activity,Igikorwa gishya
+New Event,Ikintu Gishya
+New index is required,Inomero nshya isabwa
+New Project,Umushinga Mushya
+New tasks will auto-trail by default.,Imirimo mishya izasunikwa otomatike by'ibanze.
+Newest First,Bishya bya mbere
+Next,Ibikurikira
+Next 14 days,Iminsi 14 iri imbere
+Next 30 days,Iminsi 30 iri imbere
+Next 60 days,Iminsi 60 iri imbere
+Next 7 days,Iminsi 7 iri imbere
+Next 90 days,Iminsi 90 iri imbere
+Next Week,Icyumweru gitaha
+Next:,Ibikurikira:
+No,Oya
+No active assignments,Nta bigenewe birakora
+No active projects,Nta mishinga irakora
+No active timer found,Nta saha irakora yabonetse
+No activity selected,Nta gikorwa cyahisemo
+No assignments found,Nta bigenewe byabonetse
+No attendees,Nta bitabiriye
+no change,nta mahinduka
+No changes for this field.,Nta mahinduka ku mwanya.
+No changes recorded for this activity.,Nta mahinduka yanditswe ku gikorwa.
+No checklist items yet,Nta bice by'urutonde rwo kugenzura birahari
+No checklist items yet.,Nta bice by'urutonde rwo kugenzura birahari.
+No comments yet,Nta bitekerezo birahari
+No comments yet.,Nta bitekerezo birahari.
+No contacts available,Nta bantu bo guhamagara bahari
+No content for this tab,Nta birimo kuri iki gicupo
+No data available,Nta makuru ahari
+No data available for the selected filters,Nta makuru ahari ku bihinguranya byahisemo
+No data to export,Nta makuru yo kohereza hanze
+No dates set,Nta matariki yashyizweho
+No defects reported,Nta makosa yatanzwe
+No dependencies defined,Nta sano zashyizweho
+No description,Nta bisobanuro
+No discussion yet.,Nta kiganiro birahari.
+No documents attached,Nta nyandiko zishyizweho
+No due date,Nta tariki yo kurangirira
+No employee linked to this resource,Nta mukozi uhujwe n'uyu mutungo
+No ERPNext employee linked to resource,Nta mukozi wa ERPNext uhujwe n'umutungo
+No events found,Nta bintu byabonetse
+No files attached yet.,Nta dosiye zishyizweho birahari.
+No Frappe Project linked,Nta mushinga wa Frappe uhujwe
+No Grouping,Nta Guhuza
+No items,Nta bice
+No matching tasks,Nta mirimo ihuye
+No matching tasks found,Nta mirimo ihuye yabonetse
+No migration history,Nta mateka yo kwimura
+No Milestone,Nta Ntambwe Nkuru
+No milestones,Nta ntambwe nkuru
+No milestones defined for this project.,Nta ntambwe nkuru zashyizweho ku mushinga.
+No notes yet.,Nta mandiko birahari.
+No notes yet. Add a due diligence note to track progress.,Nta mandiko birahari. Ongeraho icyanditswe cy'isuzuma ry'umwihariko ukurikirane aho bigeze.
+No notifications,Nta menyesha
+No Orga Project linked to Frappe Project {0},Nta mushinga wa Orga uhujwe n'umushinga wa Frappe {0}
+No overdue tasks,Nta mirimo yatinze
+No pending cascade changes,Nta mahinduka y'umurongo ategereje
+No predecessors - this task can start independently,Nta byatangiriye — uyu murimo ushobora gutangira wenyine
+No project,Nta mushinga
+No projects found,Nta mishinga yabonetse
+No Projects Yet,Nta Mishinga Birahari
+No recent activity,Nta bikorwa bya vuba
+No related documents,Nta nyandiko zihuriyeho
+No resolved threads.,Nta biganiro byakemutse.
+No resources found,Nta mitungo yabonetse
+No results found,Nta bisubizo byabonetse
+No skills listed,Nta bumenyi bwanditswe
+No skills recorded yet,Nta bumenyi bwanditswe birahari
+No successors - no tasks are waiting for this one,Nta bikurikiranwa — nta murimo utegereje uyu
+No task selected,Nta murimo wahisemo
+No tasks assigned to you,Nta murimo wagenewe
+No tasks available to add,Nta mirimo iboneka yo kongeraho
+No tasks found,Nta mirimo yabonetse
+No tasks linked to this milestone,Nta mirimo ihujwe n'iyi ntambwe nkuru
+No tasks with dates to display,Nta mirimo ifite amatariki yo kwerekana
+No tasks yet,Nta mirimo birahari
+No team members,Nta banyamuryango b'itsinda
+No template,Nta ngero
+No templates yet,Nta ngero birahari
+No time data found,Nta makuru y'igihe yabonetse
+No time logged today,Nta gihe cyanditswe uyu munsi
+No time logged yet,Nta gihe cyanditswe birahari
+No time logs for this period,Nta nyandiko z'igihe muri iki gihe
+No time logs found,Nta nyandiko z'igihe zabonetse
+No unread notifications,Nta menyesha zitasomwe
+No update information available yet.,No update information available yet.
+None,Ntacyo
+Not found,Ntibwabonetse
+Not permitted,Ntibwemewe
+Not permitted to access this project,Ntibwemewe kugera kuri uyu mushinga
+Not permitted to access this task,Ntibwemewe kugera kuri uyu murimo
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Ntubwemewe gutanga ibitekerezo kuri iyi nyandiko
+Not permitted to create clients,Ntubwemewe gukora abakiriya
+Not permitted to delete this client,Ntubwemewe gusiba uyu mukiriya
+Not permitted to delete this defect,Ntubwemewe gusiba iri kosa
+Not permitted to delete this note,Ntubwemewe gusiba iki cyanditswe
+Not permitted to delete this project,Ntubwemewe gusiba uyu mushinga
+Not permitted to delete this task,Ntubwemewe gusiba uyu murimo
+Not permitted to delete this time log,Ntubwemewe gusiba iyi nyandiko y'igihe
+Not permitted to invite clients,Ntubwemewe gutumira abakiriya
+Not permitted to modify client access,Ntubwemewe guhindura uburenganzira bw'umukiriya
+Not permitted to modify this project,Ntubwemewe guhindura uyu mushinga
+Not permitted to update settings,Ntubwemewe guhindura amabwiriza
+Not permitted to update this client,Ntubwemewe guhindura uyu mukiriya
+Not permitted to view this client,Ntubwemewe kureba uyu mukiriya
+not sent,ntibyoherejwe
+Not set,Ntibwashyizweho
+Not specified,Ntibwasobanuwe
+Note,Icyanditswe
+Note (optional),Icyanditswe (si ngombwa)
+Note Content,Ibirimo by'Icyanditswe
+Note content is required,Ibirimo by'icyanditswe bisabwa
+Note name is required,Izina ry'icyanditswe risabwa
+Note not found,Icyanditswe nticyabonetse
+Note Type,Ubwoko bw'Icyanditswe
+Notes,Amandiko
+Notification,Imenyesha
+Notification not found,Imenyesha ntiyabonetse
+Notifications,Imenyesha
+Off Track,Biri Hanze y'Inzira
+Offer,Igitekerezo
+Offer Prepared,Igitekerezo Cyateguwe
+Oldest First,Bishaje bya mbere
+On Hold,Bihagaritswe
+On Leave,Ku Kiruhuko
+On Track,Mu Nzira
+On-Time Rate,Igipimo cy'Ubuzirantege
+Only administrators can delete activities,Abayobozi gusa bashobora gusiba ibikorwa
+Only the comment author or administrators can delete comments,Uwanditse igitekerezo cyangwa abayobozi gusa bashobora gusiba ibitekerezo
+Only you and admins,Wowe n'abayobozi gusa
+Open,Ifunguye
+Open in Desk,Fungura muri Desk
+Open Task Log,Fungura Inyandiko y'Umurimo
+Open Tasks,Imirimo Ifunguye
+Optional,Si ngombwa
+optional,si ngombwa
+Or email us directly at,Cyangwa utwohereze imeri kuri
+Orga Project {0} from Frappe Projects,Umushinga wa Orga {0} uturutse kuri Frappe Projects
+Orga Task {0} from Frappe,Umurimo wa Orga {0} uturutse kuri Frappe
+Organizer,Umutegura
+Other,Ibindi
+Over Budget,Hejuru y'Ingengo y'Imari
+Overall Progress,Aho Bigeze Muri Rusange
+Overall Utilization,Imikoreshereze Muri Rusange
+Overallocated,Byagabanyijwe birenze
+Overdue,Byatinze
+overdue,byatinze
+Overdue Tasks,Imirimo Yatinze
+Overview,Ishusho Rusange
+Owner,Nyir'ubwite
+Page Not Found,Ipaji Ntiyabonetse
+Parent,Umubyeyi
+Parent comment must belong to the same document,Igitekerezo cy'umubyeyi kigomba kuba icy'inyandiko imwe
+Parent comment not found,Igitekerezo cy'umubyeyi nticyabonetse
+Parent project not synced to Frappe yet,Umushinga w'umubyeyi nturahuza na Frappe
+Parent project sync not enabled,Guhuza umushinga w'umubyeyi ntibifunguwe
+Partner,Umufatanyabikorwa
+Pending,Birategereje
+per page,kuri buri paji
+Perform initial assessment and background check,Kora isuzuma ry'ibanze n'igenzura ry'imiterere y'inyuma
+Permanently remove this event,Kura iki kintu burundu
+Permanently remove this task,Kura uyu murimo burundu
+Phone,Telefoni
+Pin,Shyira ku kibaho
+Pin Activity,Shyira Igikorwa ku Kibaho
+Pin to top,Shyira hejuru
+Pinned,Bishyizwe ku kibaho
+Planned budget for this task,Ingengo y'imari yateguwe ku murimo
+Planning,Gutegura
+Please describe your question or issue in detail...,Sobanura ikibazo cyawe mu buryo burambuye...
+Please login to access Orga,Injira kugira ugere kuri Orga
+Please login to access the client portal,Injira kugira ugere ku muryango w'umukiriya
+Please respond to this invitation in Orga,Subiza iri tumire muri Orga
+Please select an image file,Hitamo dosiye y'ishusho
+Please try again,Ongera ugerageze
+Please type,Andika
+Portal,Umuryango
+Portal access revoked for {0},Uburenganzira bw'umuryango bwakuwe kuri {0}
+Portal user created successfully. Welcome email {0},Umukoresha w'umuryango yakozwe neza. Imeri yo kwakira {0}
+Post,Tangaza
+Powered by,Byandikoreshejwe na
+Powered by Tonic,Byandikoreshejwe na Tonic
+Predecessors (Blocked By),Ibyatangiriye (Byahagaritswe na)
+Preferences,Ibyashimwe
+Preferences saved successfully,Ibyashimwe byabitswe neza
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Imbanziriza y'amanomero y'imishinga akozwe otomatike (urugero: ORG-2026-0001)
+Prepare and document offer terms,Tegura kandi wandike amabwiriza y'igitekerezo
+Press,Kanda
+Preview,Reba mbere
+Preview cascade before applying,Reba umurongo mbere yo gukoresha
+Previous,Ibyabanjirije
+Priority,Ibyihutirwa
+Priority assigned to new tasks,Ibyihutirwa byashyizwe ku mirimo mishya
+Priority updated,Ibyihutirwa byahinduwe
+Proficiency,Ubuhanga
+Profile,Umwirondoro
+Progress,Aho bigeze
+Progress (High-Low),Aho bigeze (Hejuru-Buke)
+Progress (Low-High),Aho bigeze (Buke-Hejuru)
+Progress Overview,Ishusho y'aho bigeze
+Progress updated,Aho bigeze byahinduwe
+Project,Umushinga
+Project budget has been saved.,Ingengo y'imari y'umushinga yabitswe.
+Project code (e.g. ORG-2026-0001),Inomero y'umushinga (urugero: ORG-2026-0001)
+Project Code Prefix,Imbanziriza y'Amanomero y'Umushinga
+Project created,Umushinga wakozwe
+Project deleted,Umushinga wasibwe
+Project description has been saved.,Ibisobanuro by'umushinga byabitswe.
+Project Details,Amakuru y'Umushinga
+Project end date has been saved.,Itariki y'iherezo ry'umushinga yabitswe.
+Project Files,Dosiye z'Umushinga
+Project has no linked client,Umushinga nta mukiriya uhujwe
+Project Health,Ubuzima bw'Umushinga
+Project Info,Amakuru y'Umushinga
+Project is required,Umushinga usabwa
+Project is required for project context,Umushinga usabwa ku miterere y'umushinga
+Project is required when tracking context is 'project',Umushinga usabwa imiterere yo gukurikirana iri 'umushinga'
+Project Manager,Umuyobozi w'Umushinga
+Project Name,Izina ry'Umushinga
+Project name and template name are required,Izina ry'umushinga n'izina ry'ingero bisabwa
+Project name is required,Izina ry'umushinga risabwa
+Project not found,Umushinga ntiwaboneye
+Project not found or you do not have access,Umushinga ntiwaboneye cyangwa nta burenganzira ufite
+Project settings,Amabwiriza y'umushinga
+Project start date has been saved.,Itariki yo gutangira umushinga yabitswe.
+Project title has been saved.,Umutwe w'umushinga wabitswe.
+Project Type,Ubwoko bw'Umushinga
+Project updated,Umushinga wahinduwe
+Project {0} linked to client {1},Umushinga {0} wahujwe n'umukiriya {1}
+Project {0} not found,Umushinga {0} ntiwaboneye
+Project {0} to Frappe Projects,Umushinga {0} kuri Frappe Projects
+Project:,Umushinga:
+Projects,Imishinga
+projects,imishinga
+Projects created:,Imishinga yakozwe:
+Projects Overview,Ishusho Rusange y'Imishinga
+Projects skipped:,Imishinga yasimbuwemo:
+Projects updated:,Imishinga yahinduwe:
+Promote failed,Gushyira hejuru byanze
+Promote to task,Shyira hejuru ube umurimo
+Promoted to task,Byashyizwe hejuru bube umurimo
+Propose,Tanga igitekerezo
+Propose New Time,Tanga Igihe Gishya
+Propose Time,Tanga Igihe
+Proposed End,Iherezo Ryatanzwe
+Proposed Start,Itangiriro Ryatanzwe
+Public,Rusange
+Quick Action,Igikorwa cy'Ihuse
+Quick Actions,Ibikorwa by'Ihuse
+Quick Stats,Imibare y'Ihuse
+Rates,Ibipimo
+Receive notifications via email,Akira imenyesha binyuze ku meri
+Receive notifications within the application,Akira imenyesha mu porogaramu
+Recent Activity,Ibikorwa bya Vuba
+Recipient {0} is not a valid user,Uwakira {0} si umukoresha nyakuri
+Reference,Ireferansi
+Refresh,Ongera ufungure
+Related,Bihuriyeho
+Related Company (optional),Isosiyete ihuriyeho (si ngombwa)
+Related Documents,Inyandiko zihuriyeho
+Related Project,Umushinga uhuriyeho
+Remaining,Bisigaye
+Reminder,Urwibutso
+Reminder Lead Time,Igihe cyo Mbere y'Urwibutso
+Reminder: {0} - {1} at {2},Urwibutso: {0} - {1} saa {2}
+Remove,Kura
+Remove dependency,Kura isano
+Remove dependency on,Kura isano kuri
+Remove from group,Kura mu itsinda
+Remove group dependency,Kura isano y'itsinda
+Remove skill,Kura ubumenyi
+Reopen,Ongera ufungure
+Reopen thread,Ongera ufungure ikiganiro
+reopened,byongeye gufungurwa
+replies,ibisubizo
+Reply,Subiza
+reply,igisubizo
+Replying to,Bisubiza
+Replying to comment,Bisubiza igitekerezo
+Report Defect,Tanga Ikosa
+Reported Date,Itariki yo Gutanga
+Reports,Iraporo
+Reports To,Itanga Raporo kuri
+Request Submitted!,Icyifuzo Cyoherejwe!
+Required,Bisabwa
+required,bisabwa
+Research,Ubushakashatsi
+Reset to Defaults,Subiza ku by'Ibanze
+Resolve,Kemura
+Resolve thread,Kemura ikiganiro
+Resolved,Byakemutse
+Resolved date cannot be before reported date,Itariki yo gukemura ntishobora kuba mbere y'itariki yo gutanga
+Resource,Umutungo
+Resource and skill name are required,Umutungo n'izina ry'ubumenyi bisabwa
+Resource is already an attendee,Umutungo usanzwe ari umwitabiri
+Resource name is required,Izina ry'umutungo risabwa
+Resource not found,Umutungo ntiwaboneye
+Resource synced from employee {0},Umutungo wahujwe n'umukozi {0}
+Resource {0} is already assigned to this task ({1}),Umutungo {0} usanzwe wagenewe uyu murimo ({1})
+Resource {0} not found,Umutungo {0} ntiwaboneye
+Resources,Imitungo
+Retry,Ongera ugerageze
+Review,Suzuma
+Review all relevant documents and contracts,Suzuma inyandiko n'amasezerano byose ahuriyeho
+Reviews,Isuzuma
+Risk Assessment,Isuzuma ry'Akaga
+Rollback,Subira inyuma
+Rolled back,Byasubiye inyuma
+Room or address,Icyumba cyangwa aderesi
+RSVP,RSVP
+Safety,Umutekano
+Sat,Mtn
+Save,Bika
+"Save a project as a template, or import one from a JSON file.","Bika umushinga nk'ingero, cyangwa injiza imwe uva kuri dosiye ya JSON."
+Save as Template,Bika nk'Ingero
+Save Changes,Bika Amahinduka
+Save failed,Kubika byanze
+Save Preferences,Bika Ibyashimwe
+Save Template,Bika Ingero
+Saving...,Birabikwa...
+Schedule,Gahunda
+Schedule type is required for scheduled triggers,Ubwoko bwa gahunda busabwa ku bichochezi bipanzwe
+Scheduled,Byapanzwe
+Search,Shakisha
+"Search by name, email, or skill...","Shakisha ku izina, imeri, cyangwa ubumenyi..."
+Search for a project...,Shakisha umushinga...
+Search for a task...,Shakisha umurimo...
+Search for an event...,Shakisha ikintu...
+Search for people to invite...,Shakisha abantu bo gutumira...
+Search tasks to link...,Shakisha imirimo yo guhuza...
+Search tasks...,Shakisha imirimo...
+Search...,Shakisha...
+Searching...,Birashakisha...
+Seen,Byarebwe
+Select a project if your request is related to a specific project.,Hitamo umushinga niba icyifuzo cyawe gihuriye n'umushinga umwe.
+Select a project...,Hitamo umushinga...
+Select a task from the Gantt chart to view and manage its details.,Hitamo umurimo ku ishusho ya Gantt kugira ubone kandi ugenzure amakuru yawo.
+Select a task from the list or Kanban board to view and manage its details.,Hitamo umurimo ku rutonde cyangwa ikibaho cya Kanban kugira ubone kandi ugenzure amakuru yawo.
+Select a template...,Hitamo ingero...
+Select priority...,Hitamo ibyihutirwa...
+Select status...,Hitamo imiterere...
+Select task...,Hitamo umurimo...
+Select type...,Hitamo ubwoko...
+Selection,Ihitamo
+Send,Ohereza
+Send comment,Ohereza igitekerezo
+Send email invitations to attendees,Ohereza inzego z'imeri ku bitabiriye
+Send Invitations,Ohereza Inzego
+Send notification when a task is assigned to a user,Ohereza imenyesha umurimo ugenewe umukoresha
+Send notification when task status changes,Ohereza imenyesha imiterere y'umurimo ihindutse
+Send reminder before task due date,Ohereza urwibutso mbere y'itariki yo kurangirira y'umurimo
+sent,byoherejwe
+Set rate,Shyiraho igipimo
+Settings,Amabwiriza
+Settings saved successfully,Amabwiriza yabitswe neza
+Severity,Uburemere
+SF (Start-Finish),SF (Itangiriro-Iherezo)
+SF - Start-to-Finish,SF - Itangiriro-kuri-Iherezo
+Show,Erekana
+Show all,Erekana byose
+Show all changes,Erekana amahinduka yose
+Show Archived,Erekana Ibibitswe
+Show full diff,Erekana itandukaniro ryose
+Show less,Erekana bike
+Show more,Erekana byinshi
+Skill added,Ubumenyi bwongewemo
+Skill is required,Ubumenyi busabwa
+Skill Name,Izina ry'Ubumenyi
+Skill removed,Ubumenyi bwakuwe
+Skill {0} already exists for this resource,Ubumenyi {0} busanzwe buhari ku mutungo
+Skills,Ubumenyi
+Skills & Competencies,Ubumenyi n'Ubushobozi
+Skip already migrated projects,Simbuka imishinga isanzwe yimuwe
+Sort by,Tondekanya ku
+Sort: Due Date,Tondekanya: Itariki yo Kurangirira
+Sort: Priority,Tondekanya: Ibyihutirwa
+Sort: Project,Tondekanya: Umushinga
+Sort: Status,Tondekanya: Imiterere
+Sort: Task,Tondekanya: Umurimo
+Source Code,Inkomoko y'Ikoranabuhanga
+Spent,Byakoreshejwe
+Spent:,Byakoreshejwe:
+SS (Start-Start),SS (Itangiriro-Itangiriro)
+SS - Start-to-Start,SS - Itangiriro-kuri-Itangiriro
+Standalone,Bwigenga
+Start,Tangira
+Start a discussion below,Tangira ikiganiro hano hepfo
+Start Date,Itariki yo Gutangira
+Start date,Itariki yo gutangira
+Start Date (Earliest),Itariki yo Gutangira (ya mbere)
+Start date updated,Itariki yo gutangira yahinduwe
+Start date/time is required,Itariki/isaha yo gutangira isabwa
+Start Migration,Tangira Kwimura
+Start the conversation below.,Tangira ikiganiro hano hepfo.
+Start Timer,Tangira Isaha
+Start typing to search...,Tangira kwandika kushakisha...
+Start-to-Finish,Itangiriro-kuri-Iherezo
+Start-to-Start,Itangiriro-kuri-Itangiriro
+Start:,Itangiriro:
+Statistics reset,Imibare yasubijwe
+Status,Imiterere
+Status assigned to new projects,Imiterere yashyizwe ku mishinga mishya
+Status assigned to new tasks,Imiterere yashyizwe ku mirimo mishya
+Status Changes,Amahinduka y'Imiterere
+Status updated,Imiterere yahinduwe
+Status:,Imiterere:
+Stop,Hagarika
+Stop & Save,Hagarika kandi Ubike
+Stop Timer,Hagarika Isaha
+Stops current timer and starts for this event,Ihagarika isaha iriho kandi itangira iyi y'ikintu
+Stops current timer and starts for this task,Ihagarika isaha iriho kandi itangira iy'umurimo
+Subject,Insanganyamatsiko
+Subject cannot exceed 255 characters,Insanganyamatsiko ntishobora kurenza inyuguti 255
+Subject is required,Insanganyamatsiko isabwa
+Submit,Ohereza
+Submit Another Request,Ohereza Icyifuzo Kindi
+Submit Request,Ohereza Icyifuzo
+Submitting...,Biroherezwa...
+Successfully saved,Byabitswe neza
+Successors (Blocking),Ibikurikira (Bihagarika)
+Sun,Cyu
+Supplier,Utanga ibikoresho
+Support,Ubufasha
+Switch to this event,Hindukira kuri iki kintu
+Switch to this task,Hindukira kuri uyu murimo
+Sync direction is set to Frappe to Orga only,Icyerekezo cy'isano gishyizwe kuva Frappe kugera Orga gusa
+Sync direction is set to Orga to Frappe only,Icyerekezo cy'isano gishyizwe kuva Orga kugera Frappe gusa
+Sync not enabled for this project,Guhuza ntibifunguwe kuri uyu mushinga
+System,Sisitemu
+Table,Imbonerahamwe
+Take ownership of this task,Fata uyu murimo
+Target Date,Itariki Ntarengwa
+Target End,Iherezo Ntarengwa
+Target Project,Umushinga Ntarengwa
+Target user is required for '{0}' action,Umukoresha ntarengwa asabwa ku gikorwa cya '{0}'
+Task,Umurimo
+task,umurimo
+Task '{0}' is due on {1}.,Umurimo '{0}' ugomba kurangira ku {1}.
+Task and resource are required,Umurimo n'umutungo bisabwa
+Task Assignment,Igenerwa ry'Umurimo
+Task cannot be its own parent,Umurimo ntushobora kuba umubyeyi wawo
+Task cannot depend on itself,Umurimo ntushobora kwigendera
+Task cannot depend on the group it belongs to,Umurimo ntushobora gutegemera itsinda ririmo
+Task created,Umurimo wakozwe
+Task deleted,Umurimo wasibwe
+Task description has been saved.,Ibisobanuro by'umurimo byabitswe.
+Task Details,Amakuru y'Umurimo
+Task due in {0} days: {1},Umurimo ugomba kurangira mu minsi {0}: {1}
+Task due today: {0},Umurimo ugomba kurangira uyu munsi: {0}
+Task due tomorrow: {0},Umurimo ugomba kurangira ejo: {0}
+Task duplicated,Umurimo wasubiwe
+Task Group,Itsinda ry'Umurimo
+Task ID is required,Inomero y'umurimo isabwa
+Task is blocked by incomplete dependencies,Umurimo uhagaritswe n'isano zitarangiye
+Task is cancelled,Umurimo wahagaritswe
+Task is completed,Umurimo warangiye
+Task is no longer blocked by a group,Umurimo ntugihagarikwa n'itsinda
+Task is required for task context,Umurimo usabwa ku miterere y'umurimo
+Task is required when tracking context is 'task',Umurimo usabwa imiterere yo gukurikirana iri 'umurimo'
+Task linked,Umurimo wahujwe
+Task moved,Umurimo wimuwe
+Task name,Izina ry'umurimo
+Task name is required,Izina ry'umurimo risabwa
+Task removed from group,Umurimo wakuwe mu itsinda
+Task Subject,Insanganyamatsiko y'Umurimo
+Task subject is required,Insanganyamatsiko y'umurimo isabwa
+Task Type,Ubwoko bw'Umurimo
+Task unblocked: {0},Umurimo wafunguwe: {0}
+Task unlinked,Umurimo wahujwe wakuwe
+Task updated,Umurimo wahinduwe
+Task {0} not found,Umurimo {0} ntiwaboneye
+Task {0} not in project {1},Umurimo {0} ntiwari mu mushinga {1}
+Task {0} to Frappe,Umurimo {0} kuri Frappe
+Tasks,Imirimo
+tasks,imirimo
+Tasks and milestones will be created with dates relative to the project start date.,Imirimo n'intambwe nkuru bizakozwa hamwe n'amatariki ahuriyeho n'itariki yo gutangira umushinga.
+Tasks assigned to you across all projects.,Imirimo wagenewe mu mishinga yose.
+Tasks created:,Imirimo yakozwe:
+Tasks from projects you manage.,Imirimo y'imishinga uyobora.
+Tasks updated:,Imirimo yahinduwe:
+"Tasks, milestones, and dependencies have been created.","Imirimo, intambwe nkuru, n'isano byakozwe."
+Tasks:,Imirimo:
+TBD,Bizamenyekana
+Team,Itsinda
+Team Members,Abanyamuryango b'Itsinda
+Template,Ingero
+Template applied,Ingero yakoreshejwe
+Template data is required in import data,Amakuru y'ingero asabwa mu makuru yo kwinjiza
+Template has no data,Ingero nta makuru ifite
+Template Name,Izina ry'Ingero
+Template name,Izina ry'ingero
+Template name is required,Izina ry'ingero risabwa
+Template name is required in import data,Izina ry'ingero risabwa mu makuru yo kwinjiza
+Template saved,Ingero yabitswe
+Template updated successfully.,Ingero yahinduwe neza.
+Template {0} not found,Ingero {0} ntiyabonetse
+Templates,Ingero
+Tentative,Ntabwo bizeye
+The comment has been deleted,Igitekerezo cyasibwe
+The project,Umushinga
+The source document may have been deleted.,Inyandiko y'inkomoko ishobora kuba yarasibwe.
+The source document will not be affected.,Inyandiko y'inkomoko ntizareba.
+The status of '{0}' was changed from {1} to {2}.,Imiterere ya '{0}' yahinduwe kuva {1} kugera {2}.
+Theme,Insanganyamatsiko
+Theme preference,Ihitamo ry'insanganyamatsiko
+This action,Iki gikorwa
+This action cannot be undone.,Iki gikorwa ntigishobora gusubizwaho.
+This activity has been flagged for attention,Iki gikorwa cyashyizweho ikimenyetso ngo kitite
+This is a reminder for your upcoming appointment,Iri ni urwibutso rw'igahunda yawe iri imbere
+This method is only meant for developer mode,Ubu buryo ni ubw'imiterere y'umuhanga gusa
+This page wandered off,This page wandered off
+This Week,Iki Cyumweru
+This will delete all notes and preferences associated with this activity.,Ibi bizasiba amandiko n'ibyashimwe byose bihuriye n'iki gikorwa.
+This will import all Frappe Projects into Orga. Continue?,Ibi bizinjiza imishinga yose ya Frappe muri Orga. Komeza?
+This will permanently delete,Ibi bizasiba burundu
+This will permanently delete:,Ibi bizasiba burundu:
+Thu,Kan
+Time,Igihe
+Time & Billing,Igihe n'Ubwishyu
+Time & Revenue,Igihe n'Inyungu
+Time Entries,Inyandiko z'Igihe
+Time log name is required,Izina ry'inyandiko y'igihe risabwa
+Time Log not found,Inyandiko y'igihe ntiyabonetse
+Time log {0} not found,Inyandiko y'igihe {0} ntiyabonetse
+Time Logs,Inyandiko z'Igihe
+Time Summary,Incamake y'Igihe
+Time Tracking,Gukurikirana Igihe
+Timeline,Umurongo w'igihe
+Timer active on,Isaha irakora kuri
+Timer is not running,Isaha ntirakora
+Timer Running,Isaha Irakora
+Timer running,Isaha irakora
+Timesheet DocType not available,DocType y'Urupapuro rw'igihe ntiboneka
+Timesheets,Amapapuro y'igihe
+Timezone,Akarere k'isaha
+Timezone is detected from your browser,Akarere k'isaha kagaragajwe n'umushakisha wawe
+Title,Umutwe
+Title cannot exceed 255 characters,Umutwe ntushobora kurenza inyuguti 255
+Title is required,Umutwe usabwa
+Title updated,Umutwe wahinduwe
+To,Kuri
+to,kuri
+to cancel,guhagarika
+to close,gufunga
+to confirm:,kwemeza:
+to edit,guhindura
+"to save,","kubika,"
+To Time cannot be before From Time,Isaha yo Kurangirira ntishobora kuba mbere y'Isaha yo Gutangira
+Today,Uyu munsi
+today,uyu munsi
+Toggle billable,Hindura ubwishyu
+Toggle Details Panel,Erekana/Hisha Icyapa cy'Amakuru
+Toggle Manager Panel,Erekana/Hisha Icyapa cy'Umuyobozi
+Toggle Sidebar,Erekana/Hisha Uruhande
+Tomorrow,Ejo
+tomorrow,ejo
+Total,Igiteranyo
+Total Budget,Ingengo y'Imari Yose
+Total Contacts,Abantu Bose bo Guhamagara
+Total Cost,Igiciro Cyose
+Total Cost to Org,Igiciro Cyose ku Ishyirahamwe
+Total Defect Cost,Igiciro Cyose cy'Amakosa
+Total Hours,Amasaha Yose
+Total Hours Logged,Amasaha Yose Yanditswe
+Total Projects,Imishinga Yose
+Total Spent,Igiteranyo Cyakoreshejwe
+Total Tasks,Imirimo Yose
+Total:,Igiteranyo:
+Tracked,Byakurikiranwe
+trails to today while Open at 0%,biragusunika kugeza uyu munsi bibaye Ifunguye kuri 0%
+Tried:,Tried:
+Try adjusting your filter criteria,Gerageza guhindura ibipimo by'igihinguranya
+Try adjusting your filters.,Gerageza guhindura ibihinguranya byawe.
+Try Again,Ongera Ugerageze
+Tue,Kbe
+Type,Ubwoko
+Type updated,Ubwoko bwahinduwe
+Type:,Ubwoko:
+Typical response time: 1-2 business days,Igihe gisanzwe cyo gusubiza: iminsi 1-2 y'akazi
+Unarchive,Kura mu bubiko
+Unarchive Activity,Kura Igikorwa mu Bubiko
+Unassign,Kura igenerwa
+Unassigned,Ntibyagenewe
+Under Budget,Munsi y'Ingengo y'Imari
+Ungrouped,Ntibyahujwe
+Unknown,Ntibizwi
+Unknown error,Ikosa ritazwi
+Unlink failed,Gukura isano byanze
+Unlink task from milestone,Kura isano y'umurimo n'intambwe nkuru
+Unpin,Kura ku kibaho
+Unpin Activity,Kura Igikorwa ku Kibaho
+Unread,Ntibwasomwe
+Unread only,Bitasomwe gusa
+Until,Kugeza
+Up to Date,Up to Date
+Upcoming,Biri Imbere
+upcoming,iri imbere
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Guhindura byanze
+Updated,Byahinduwe
+Updated successfully,Byahinduwe neza
+Updates,Updates
+Upload,Ohereza
+Upload failed,Kohereza byanze
+Upload files below to attach them to this task.,Ohereza dosiye hano hepfo kuzishyira kuri uyu murimo.
+Upload to project,Ohereza ku mushinga
+Uploading...,Birohererwa...
+Urgent,Byihutirwa
+User {0} is already linked to client {1},Umukoresha {0} asanzwe ahujwe n'umukiriya {1}
+User {0} is already linked to resource {1},Umukoresha {0} asanzwe ahujwe n'umutungo {1}
+Utilization,Imikoreshereze
+Valid,Nyakuri
+Value:,Agaciro:
+Variance,Itandukaniro
+Variance:,Itandukaniro:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Reba
+View All,Reba Byose
+View all active projects,Reba imishinga yose irakora
+View all open tasks,Reba imirimo yose ifunguye
+View overdue tasks,Reba imirimo yatinze
+View Release,View Release
+Visibility,Igaragara
+Waiting for this task,Birategereje uyu murimo
+Waits for:,Bitegereje:
+Warning: Resource {0} status is {1},Umuburo: Imiterere y'umutungo {0} ni {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Umuburo: Gukoresha HTTP aho gukoresha HTTPS. Amakuru ya webhook ashobora kutaba atekanye.
+Watch budget closely,Kurikirana ingengo y'imari by'ubwitonzi
+We'll respond to:,Tuzasubiza kuri:
+Webhook deleted,Webhook yasibwe
+Webhook name is required,Izina rya webhook risabwa
+Webhook not found,Webhook ntiyabonetse
+Webhook URL is required,URL ya webhook isabwa
+Webhook URL must start with http:// or https://,URL ya webhook igomba gutangirira http:// cyangwa https://
+Wed,Ktu
+Week,Icyumweru
+Weekend,Impera z'icyumweru
+Weekly Capacity,Ubushobozi bw'Icyumweru
+weekly capacity,ubushobozi bw'icyumweru
+Weekly Capacity (h),Ubushobozi bw'Icyumweru (s)
+Welcome,Murakaza neza
+Welcome back!,Murakaza neza nanone!
+Welcome to Orga,Murakaza neza kuri Orga
+What are you working on?,Ukora iki?
+What did you work on?,Wakoreye iki?
+When,Ryari
+When work begins,Akazi gatangiye
+When work is due,Akazi kagombwa
+Where,Hehe
+Will capture:,Bizafata:
+Will create:,Bizakora:
+with checklist items,hamwe n'ibice by'urutonde rwo kugenzura
+Working,Birakora
+Workload,Umutwaro w'akazi
+Workmanship,Ubuhanga mu mirimo
+Write a comment...,Andika igitekerezo...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Andika igitekerezo... Koresha @izina kuvuga (Ctrl+Enter kohereza)
+Year,Umwaka
+Yes,Yego
+Yesterday,Ejo hashize
+yesterday,ejo hashize
+You are not an attendee of this appointment,Ntabwo uri umwitabiri w'iyi gahunda
+You are not linked to any resource,Ntabwo uhujwe n'umutungo uwo ari wo wose
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Ushobora gusiba ibitekerezo byawe gusa
+You can only delete your own reactions,Ushobora gusiba ibisubizo byawe gusa
+You do not have access to the client portal. Please contact support.,Nta burenganzira ufite bwo kugera ku muryango w'umukiriya. Hamagara ubufasha.
+You have already reacted with '{0}',Usanzwe wasubije '{0}'
+You have been assigned to task '{0}' in project '{1}'.,Wagenewe umurimo '{0}' mu mushinga '{1}'.
+You have been assigned to: {0},Wagenewe: {0}
+You have been invited to the following appointment,Watumiriwe kuri iyi gahunda ikurikira
+You have no tasks assigned to you right now.,Nta murimo wagenewe ubu.
+You were mentioned in {0},Wavuzwe muri {0}
+Your attendance,Ukwitabira Kwawe
+Your comment has been posted,Igitekerezo cyawe cyatangajwe
+Your Projects,Imishinga Yawe
+Your projects will appear here once they're assigned to you.,Imishinga yawe izagaragara hano ikugenewe.
+Your Response,Igisubizo Cyawe
+Your RSVP,RSVP Yawe
+Your support request has been submitted successfully.,Icyifuzo cyawe cy'ubufasha cyoherejwe neza.
+Your support request has been submitted successfully. We'll get back to you shortly.,Icyifuzo cyawe cy'ubufasha cyoherejwe neza. Tuzakugarukaho vuba.
+"Your task ""{0}"" is no longer blocked and can now be started.","Umurimo wawe ""{0}"" ntukihagaritswe kandi urashobora gutangira ubu."
+{0} is required,{0} bisabwa
+{0} new activities,ibikorwa bishya {0}
+{0} of {1} completed,{0} kuri {1} byarangiye
+{0} projects already migrated (will be skipped or updated),imishinga {0} isanzwe yimuwe (izasimbukwa cyangwa ihindurwe)
+{0} status changed to {1},Imiterere ya {0} yahinduwe kuri {1}
+{0} tasks remaining,imirimo {0} isigaye
+{0} tasks without projects will be skipped,imirimo {0} idafite imishinga izasimbukwa
+{0} {1} not found,{0} {1} ntiyabonetse

@@ -1,0 +1,176 @@
+{
+  "actions": [],
+  "autoname": "hash",
+  "creation": "2026-02-03 12:00:00.000000",
+  "doctype": "DocType",
+  "engine": "InnoDB",
+  "field_order": [
+    "notification_type",
+    "subject",
+    "column_break_1",
+    "recipient",
+    "from_user",
+    "section_message",
+    "message",
+    "section_reference",
+    "reference_doctype",
+    "reference_name",
+    "section_status",
+    "is_read",
+    "read_at",
+    "column_break_status",
+    "email_sent",
+    "email_sent_at"
+  ],
+  "fields": [
+    {
+      "fieldname": "notification_type",
+      "fieldtype": "Select",
+      "label": "Type",
+      "options": "Assignment\nStatus Change\nComment\nMention\nDeadline\nSystem",
+      "reqd": 1,
+      "in_list_view": 1,
+      "in_standard_filter": 1
+    },
+    {
+      "fieldname": "subject",
+      "fieldtype": "Data",
+      "label": "Subject",
+      "reqd": 1,
+      "in_list_view": 1
+    },
+    {
+      "fieldname": "column_break_1",
+      "fieldtype": "Column Break"
+    },
+    {
+      "fieldname": "recipient",
+      "fieldtype": "Link",
+      "label": "Recipient",
+      "options": "User",
+      "reqd": 1,
+      "in_list_view": 1,
+      "in_standard_filter": 1
+    },
+    {
+      "fieldname": "from_user",
+      "fieldtype": "Link",
+      "label": "From User",
+      "options": "User"
+    },
+    {
+      "fieldname": "section_message",
+      "fieldtype": "Section Break",
+      "label": "Message"
+    },
+    {
+      "fieldname": "message",
+      "fieldtype": "Text",
+      "label": "Message"
+    },
+    {
+      "fieldname": "section_reference",
+      "fieldtype": "Section Break",
+      "label": "Reference"
+    },
+    {
+      "fieldname": "reference_doctype",
+      "fieldtype": "Link",
+      "label": "Reference DocType",
+      "options": "DocType"
+    },
+    {
+      "fieldname": "reference_name",
+      "fieldtype": "Dynamic Link",
+      "label": "Reference Name",
+      "options": "reference_doctype"
+    },
+    {
+      "fieldname": "section_status",
+      "fieldtype": "Section Break",
+      "label": "Status"
+    },
+    {
+      "fieldname": "is_read",
+      "fieldtype": "Check",
+      "label": "Is Read",
+      "default": "0",
+      "in_list_view": 1
+    },
+    {
+      "fieldname": "read_at",
+      "fieldtype": "Datetime",
+      "label": "Read At",
+      "read_only": 1
+    },
+    {
+      "fieldname": "column_break_status",
+      "fieldtype": "Column Break"
+    },
+    {
+      "fieldname": "email_sent",
+      "fieldtype": "Check",
+      "label": "Email Sent",
+      "default": "0"
+    },
+    {
+      "fieldname": "email_sent_at",
+      "fieldtype": "Datetime",
+      "label": "Email Sent At",
+      "read_only": 1
+    }
+  ],
+  "index_web_pages_for_search": 0,
+  "links": [],
+  "modified": "2026-02-03 12:00:00.000000",
+  "modified_by": "Administrator",
+  "module": "Orga",
+  "name": "Orga Notification",
+  "naming_rule": "Random",
+  "owner": "Administrator",
+  "permissions": [
+    {
+      "create": 1,
+      "delete": 1,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "System Manager",
+      "share": 1,
+      "write": 1
+    },
+    {
+      "create": 1,
+      "delete": 1,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "Orga Manager",
+      "share": 1,
+      "write": 1
+    },
+    {
+      "create": 0,
+      "delete": 0,
+      "email": 0,
+      "export": 0,
+      "if_owner": 1,
+      "print": 0,
+      "read": 1,
+      "report": 0,
+      "role": "Orga User",
+      "share": 0,
+      "write": 1
+    }
+  ],
+  "search_fields": "subject,recipient,notification_type",
+  "sort_field": "creation",
+  "sort_order": "DESC",
+  "states": [],
+  "title_field": "subject",
+  "track_changes": 0
+}

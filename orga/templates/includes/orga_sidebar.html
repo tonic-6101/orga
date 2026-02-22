@@ -1,0 +1,32 @@
+{# Orga Portal Sidebar Component #}
+{# Usage: {% include "orga/templates/includes/orga_sidebar.html" %} #}
+{# Pass active_page variable to highlight current page #}
+
+<div class="orga-sidebar">
+	<nav class="orga-sidebar-nav">
+		<a href="/orga" class="orga-nav-item {{ 'active' if active_page == 'dashboard' else '' }}">
+			<i class="fa fa-tachometer-alt"></i>
+			<span>Dashboard</span>
+		</a>
+		<a href="/orga-activity" class="orga-nav-item {{ 'active' if active_page == 'activity' else '' }}">
+			<i class="fa fa-comments"></i>
+			<span>Activity</span>
+		</a>
+		<a href="/orga-projects" class="orga-nav-item {{ 'active' if active_page == 'projects' else '' }}">
+			<i class="fa fa-folder-open"></i>
+			<span>Projects</span>
+		</a>
+		<a href="/orga-resources" class="orga-nav-item {{ 'active' if active_page == 'resources' else '' }}">
+			<i class="fa fa-users"></i>
+			<span>Resources</span>
+		</a>
+		<a href="/orga-calendar" class="orga-nav-item {{ 'active' if active_page == 'calendar' else '' }}">
+			<i class="fa fa-calendar"></i>
+			<span>Calendar</span>
+		</a>
+		<a href="/orga-settings" class="orga-nav-item {{ 'active' if active_page == 'settings' else '' }}">
+			<i class="fa fa-cog"></i>
+			<span>Settings</span>
+		</a>
+	</nav>
+</div>

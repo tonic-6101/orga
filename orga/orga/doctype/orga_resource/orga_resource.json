@@ -1,0 +1,299 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "RES-.#####",
+ "creation": "2026-02-03 12:00:00.000000",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "resource_name",
+  "user",
+  "employee",
+  "column_break_1",
+  "email",
+  "phone",
+  "mobile_no",
+  "resource_type",
+  "status",
+  "section_organization",
+  "department",
+  "designation",
+  "company",
+  "column_break_org",
+  "reports_to",
+  "date_of_joining",
+  "address",
+  "section_capacity",
+  "availability_hours",
+  "weekly_capacity",
+  "column_break_capacity",
+  "hourly_cost",
+  "billable_rate",
+  "section_skills",
+  "skills",
+  "section_erpnext",
+  "sync_with_erpnext",
+  "auto_sync_employee",
+  "column_break_erpnext",
+  "last_erpnext_sync",
+  "erpnext_sync_status",
+  "section_notes",
+  "notes"
+ ],
+ "fields": [
+  {
+   "fieldname": "resource_name",
+   "fieldtype": "Data",
+   "label": "Resource Name",
+   "reqd": 1,
+   "in_list_view": 1,
+   "in_standard_filter": 1
+  },
+  {
+   "fieldname": "user",
+   "fieldtype": "Link",
+   "label": "User",
+   "options": "User",
+   "in_list_view": 1
+  },
+  {
+   "fieldname": "employee",
+   "fieldtype": "Link",
+   "label": "Employee",
+   "options": "Employee",
+   "description": "Link to ERPNext Employee (optional)"
+  },
+  {
+   "fieldname": "column_break_1",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "email",
+   "fieldtype": "Data",
+   "label": "Email",
+   "options": "Email",
+   "fetch_from": "user.email",
+   "read_only_depends_on": "eval:doc.user"
+  },
+  {
+   "fieldname": "phone",
+   "fieldtype": "Data",
+   "label": "Phone",
+   "options": "Phone"
+  },
+  {
+   "fieldname": "mobile_no",
+   "fieldtype": "Data",
+   "label": "Mobile",
+   "options": "Phone"
+  },
+  {
+   "fieldname": "resource_type",
+   "fieldtype": "Select",
+   "label": "Type",
+   "options": "Employee\nContractor\nExternal",
+   "default": "Employee",
+   "reqd": 1,
+   "in_standard_filter": 1
+  },
+  {
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "label": "Status",
+   "options": "Active\nInactive\nOn Leave",
+   "default": "Active",
+   "reqd": 1,
+   "in_list_view": 1,
+   "in_standard_filter": 1
+  },
+  {
+   "fieldname": "section_organization",
+   "fieldtype": "Section Break",
+   "label": "Organization"
+  },
+  {
+   "fieldname": "department",
+   "fieldtype": "Link",
+   "label": "Department",
+   "options": "Department",
+   "in_standard_filter": 1
+  },
+  {
+   "fieldname": "designation",
+   "fieldtype": "Data",
+   "label": "Designation"
+  },
+  {
+   "fieldname": "company",
+   "fieldtype": "Data",
+   "label": "Company",
+   "description": "Company or organization name (for contractors/external)"
+  },
+  {
+   "fieldname": "column_break_org",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "reports_to",
+   "fieldtype": "Link",
+   "label": "Reports To",
+   "options": "Orga Resource"
+  },
+  {
+   "fieldname": "date_of_joining",
+   "fieldtype": "Date",
+   "label": "Date of Joining"
+  },
+  {
+   "fieldname": "address",
+   "fieldtype": "Small Text",
+   "label": "Address"
+  },
+  {
+   "fieldname": "section_capacity",
+   "fieldtype": "Section Break",
+   "label": "Capacity"
+  },
+  {
+   "fieldname": "availability_hours",
+   "fieldtype": "Float",
+   "label": "Daily Availability (Hours)",
+   "default": "8",
+   "precision": "1",
+   "description": "Available hours per working day"
+  },
+  {
+   "fieldname": "weekly_capacity",
+   "fieldtype": "Float",
+   "label": "Weekly Capacity (Hours)",
+   "default": "40",
+   "precision": "1"
+  },
+  {
+   "fieldname": "column_break_capacity",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "hourly_cost",
+   "fieldtype": "Currency",
+   "label": "Hourly Cost",
+   "description": "Internal cost rate for planning"
+  },
+  {
+   "fieldname": "billable_rate",
+   "fieldtype": "Currency",
+   "label": "Billable Rate",
+   "description": "External billing rate"
+  },
+  {
+   "fieldname": "section_skills",
+   "fieldtype": "Section Break",
+   "label": "Skills"
+  },
+  {
+   "fieldname": "skills",
+   "fieldtype": "Table",
+   "label": "Skills",
+   "options": "Orga Resource Skill"
+  },
+  {
+   "fieldname": "section_erpnext",
+   "fieldtype": "Section Break",
+   "label": "ERPNext Integration",
+   "collapsible": 1
+  },
+  {
+   "fieldname": "sync_with_erpnext",
+   "fieldtype": "Check",
+   "label": "Sync with ERPNext",
+   "default": "0",
+   "description": "Enable synchronization with ERPNext Employee"
+  },
+  {
+   "fieldname": "auto_sync_employee",
+   "fieldtype": "Check",
+   "label": "Auto-populate from Employee",
+   "default": "1",
+   "depends_on": "eval:doc.employee",
+   "description": "Automatically fill details from linked Employee"
+  },
+  {
+   "fieldname": "column_break_erpnext",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "last_erpnext_sync",
+   "fieldtype": "Datetime",
+   "label": "Last Sync",
+   "read_only": 1,
+   "depends_on": "eval:doc.sync_with_erpnext"
+  },
+  {
+   "fieldname": "erpnext_sync_status",
+   "fieldtype": "Select",
+   "label": "Sync Status",
+   "options": "\nPending\nSynced\nError",
+   "read_only": 1,
+   "depends_on": "eval:doc.sync_with_erpnext"
+  },
+  {
+   "fieldname": "section_notes",
+   "fieldtype": "Section Break",
+   "label": "Notes",
+   "collapsible": 1
+  },
+  {
+   "fieldname": "notes",
+   "fieldtype": "Text Editor",
+   "label": "Notes"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2026-02-03 12:00:00.000000",
+ "modified_by": "Administrator",
+ "module": "Orga",
+ "name": "Orga Resource",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Orga Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Orga User"
+  }
+ ],
+ "search_fields": "resource_name, email, phone, department, company",
+ "sort_field": "resource_name",
+ "sort_order": "ASC",
+ "states": [],
+ "title_field": "resource_name",
+ "track_changes": 1
+}

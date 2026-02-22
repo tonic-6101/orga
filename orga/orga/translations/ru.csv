@@ -1,0 +1,1492 @@
++ Add Milestone,+ Добавить веху
++ Create Task,+ Создать задачу
++ Log Time,+ Записать время
+-- Select a project --,-- Выберите проект --
+0m,0м
+1 day,1 день
+1 day ago,1 день назад
+1 dependency,1 зависимость
+1 entry,1 запись
+1 file,1 файл
+1 hour ago,1 час назад
+1 member,1 участник
+1 milestone,1 веха
+1 month,1 месяц
+1 task,1 задача
+< 1m,< 1м
+"A clear, actionable title for the task","Понятное, чёткое название задачи"
+A client with email {0} already exists: {1},Клиент с адресом электронной почты {0} уже существует: {1}
+A key deliverable or checkpoint for the project,Ключевой результат или контрольная точка проекта
+Accept,Принять
+Accepted,Принято
+Acknowledge,Подтвердить
+across,во всех
+Action,Действие
+Actions,Действия
+Active,Активный
+Active Assignments,Активные назначения
+Active Projects,Активные проекты
+Activity,Активность
+Activity data deleted successfully,Данные активности успешно удалены
+Activity Info,Информация об активности
+Activity Stats,Статистика активности
+Activity will appear here as you work on tasks and projects.,Активность будет отображаться здесь по мере работы над задачами и проектами.
+Actual,Фактический
+Actual Cost,Фактическая стоимость
+Actual cost cannot be negative,Фактическая стоимость не может быть отрицательной
+Actual end date cannot be before actual start date,Фактическая дата окончания не может быть раньше фактической даты начала
+Actual Hours,Фактические часы
+Add,Добавить
+Add a checklist item...,Добавить пункт списка...
+Add a comment...,Добавить комментарий...
+Add a comment... (Ctrl+Enter to send),Добавить комментарий... (Ctrl+Enter для отправки)
+Add a description...,Добавить описание...
+Add a milestone description...,Добавить описание вехи...
+Add a note below to annotate this activity.,Добавьте заметку ниже для пояснения этой активности.
+Add a note...,Добавить заметку...
+Add a project description...,Добавить описание проекта...
+Add a task description...,Добавить описание задачи...
+Add checklist item...,Добавить пункт списка...
+Add Contact,Добавить контакт
+Add contacts via the Desk interface or clear filters,Добавьте контакты через интерфейс Desk или сбросьте фильтры
+Add Dependency,Добавить зависимость
+Add details about this event...,Добавить подробности об этом событии...
+Add details about this milestone...,Добавить подробности об этой вехе...
+Add details about this task...,Добавить подробности об этой задаче...
+Add details or acceptance criteria for this milestone,Добавить подробности или критерии приёмки для этой вехи
+"Add details, context, or acceptance criteria","Добавить подробности, контекст или критерии приёмки"
+Add first dependency,Добавить первую зависимость
+Add item,Добавить элемент
+Add items below to track progress.,Добавьте элементы ниже для отслеживания прогресса.
+Add items below to track subtasks,Добавьте элементы ниже для отслеживания подзадач
+Add Milestone,Добавить веху
+Add Milestone (Shift+M),Добавить веху (Shift+M)
+Add milestones to track key deliverables.,Добавьте вехи для отслеживания ключевых результатов.
+Add New Contact,Добавить новый контакт
+Add Note,Добавить заметку
+Add note,Добавить заметку
+Add notes about this contact...,Добавить заметки об этом контакте...
+Add reaction,Добавить реакцию
+Add Skill,Добавить навык
+Add start and due dates to tasks to see them on the Gantt chart,Добавьте даты начала и окончания к задачам для отображения на диаграмме Gantt
+Add Task,Добавить задачу
+Add Task (Shift+T),Добавить задачу (Shift+T)
+Added Finish-to-Start dependency,Добавлена зависимость «Финиш-Старт»
+Adding this dependency would create a circular reference: {0},Добавление этой зависимости создаст циклическую ссылку: {0}
+Adding...,Добавление...
+Address,Адрес
+Advanced,Расширенные
+All,Все
+All Active,Все активные
+All Assignees,Все исполнители
+All Categories,Все категории
+All caught up!,Всё актуально!
+All Contexts,Все контексты
+All day,Весь день
+All day event,Событие на весь день
+All fields,Все поля
+All Priorities,Все приоритеты
+All Projects,Все проекты
+All Status,Все статусы
+All Statuses,Все статусы
+All task dependencies & relative dates,Все зависимости задач и относительные даты
+All Tasks,Все задачи
+All tasks across all projects.,Все задачи во всех проектах.
+All tasks are already linked,Все задачи уже связаны
+All team members,Все участники команды
+All Types,Все типы
+All Users,Все пользователи
+Allocated,Распределено
+allocated,распределено
+Allow users to log time against tasks,Разрешить пользователям записывать время по задачам
+Already exported to timesheet {0},Уже экспортировано в табель {0}
+Already Migrated,Уже перенесено
+Anyone with access,Все с доступом
+anytime to show this help,в любое время для показа этой справки
+App Updates,App Updates
+Appearance,Внешний вид
+Apply,Применить
+Apply cascade?,Применить каскад?
+Apply Changes,Применить изменения
+Apply failed,Не удалось применить
+Apply Template,Применить шаблон
+Applying...,Применение...
+Appointment,Встреча
+Appointment and resource are required,Встреча и ресурс обязательны
+Appointment name is required,Название встречи обязательно
+Appointment not found,Встреча не найдена
+Appointment {0} not found,Встреча {0} не найдена
+Apps,Приложения
+Archive,Архивировать
+Archive Activity,Архивировать активность
+Archived,В архиве
+Are you sure you want to delete this activity data? This cannot be undone.,"Вы уверены, что хотите удалить эти данные активности? Это действие нельзя отменить."
+Are you sure you want to delete this comment?,Вы уверены
+Are you sure you want to delete this project?,Вы уверены
+Are you sure?,Вы уверены?
+Ascending -- click to reverse,По возрастанию — нажмите для обратного порядка
+Assign To,Назначить
+Assign to Me,Назначить мне
+Assigned Contact,Назначенный контакт
+Assigned To,Назначено
+Assigned to,Назначено
+Assigned to Me,Назначено мне
+Assignee,Исполнитель
+Assignment,Назначение
+Assignment History,История назначений
+Assignment name is required,Название назначения обязательно
+Assignment {0} not found,Назначение {0} не найдено
+Assignments,Назначения
+At least one action is required,Требуется хотя бы одно действие
+At least one event is required,Требуется хотя бы одно событие
+At least one event must be selected,Необходимо выбрать хотя бы одно событие
+Attachment,Вложение
+Attachments,Вложения
+Attendees,Участники
+"Audit trail, assignments, version history","Журнал действий, назначения, история версий"
+Auto,Авто
+Auto Calculate Progress,Автоматический расчёт прогресса
+Auto Set Missed Milestones,Автоматически отмечать пропущенные вехи
+Auto-shift dependents when dates change,Автоматически сдвигать зависимые при изменении дат
+Auto-Trail Start,Автоматическое скольжение
+Auto-Trail updated,Автоматическое скольжение обновлено
+Automatically calculate project progress from task completion,Автоматически рассчитывать прогресс проекта по выполнению задач
+Automatically mark milestones as missed when overdue,Автоматически отмечать вехи как пропущенные при просрочке
+Automation rule {0} not found,Правило автоматизации {0} не найдено
+Automation: {0},Автоматизация: {0}
+Availability,Доступность
+Available,Доступен
+Avatar updated successfully,Аватар успешно обновлён
+Avg Progress,Средний прогресс
+Back,Назад
+Back to Portal,Назад на портал
+Back to Projects,Назад к проектам
+Beginner,Начинающий
+Best regards,С уважением
+Billable,Оплачиваемый
+Billable Amount,Оплачиваемая сумма
+Billable Hours,Оплачиваемые часы
+Billable Rate,Оплачиваемая ставка
+Billing Rate,Ставка оплаты
+Blocked,Заблокировано
+Both dates are needed to display task as a bar in Gantt chart,Обе даты нужны для отображения задачи в виде полосы на диаграмме Gantt
+Both doctype and docname are required,Требуются и тип документа и имя документа
+Both proposed start and end times are required,Требуются и предлагаемое время начала и окончания
+Both task_name and depends_on are required,Требуются и task_name и depends_on
+Breadcrumb,Навигационная цепочка
+Brief description of the defect or damage,Краткое описание дефекта или повреждения
+Brief description of this template,Краткое описание этого шаблона
+Brief description of your request,Краткое описание вашего запроса
+Brief project description,Краткое описание проекта
+Budget,Бюджет
+Budget at risk,Бюджет под угрозой
+Budget Burn Rate,Скорость расходования бюджета
+Budget Status,Состояние бюджета
+Budget updated,Бюджет обновлён
+Budget:,Бюджет:
+Bug,Ошибка
+Burn Rate,Скорость расходования
+Busy,Занят
+By,По
+By Assignee,По исполнителю
+By Group,По группе
+By Milestone,По вехе
+By Priority,По приоритету
+By Status,По статусу
+Cancel,Отмена
+Cancelled,Отменено
+cannot be undone,нельзя отменить
+Cannot delete client with {0} linked projects. Unlink projects first.,Невозможно удалить клиента с {0} связанными проектами. Сначала отвяжите проекты.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Невозможно удалить проект с {0} связанными задачами. Сначала удалите задачи.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Невозможно удалить ресурс с {0} активными назначениями. Сначала завершите или отмените их.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Невозможно удалить задачу с {0} подзадачами. Сначала удалите подзадачи.
+Capacity,Нагрузка
+capacity,нагрузка
+Capacity & Rates,Нагрузка и ставки
+Capture project structure for reuse,Сохранить структуру проекта для повторного использования
+Cascade,Каскад
+Cascade Preview,Предварительный просмотр каскада
+Category,Категория
+Celebrate,Отпраздновать
+Change,Изменить
+Change History,История изменений
+Change Priority,Изменить приоритет
+Change Status,Изменить статус
+Changes,Изменения
+Changes appear when fields are modified.,Изменения отображаются при редактировании полей.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Список
+Checklist item name is required,Название пункта списка обязательно
+Checklist item not found,Пункт списка не найден
+Checklist item title is required,Заголовок пункта списка обязателен
+Checklist item {0} not found,Пункт списка {0} не найден
+Checklist item {0} not found in task,Пункт списка {0} не найден в задаче
+Child,Дочерний
+Choose file to upload,Выберите файл для загрузки
+Circular dependency detected: {0},Обнаружена циклическая зависимость: {0}
+Circular parent-child relationship detected,Обнаружена циклическая связь «родитель-потомок»
+Clear,Очистить
+Clear all read,Очистить все прочитанные
+Clear date,Очистить дату
+Click on an activity from the list to view and manage its details.,Нажмите на активность из списка для просмотра и управления её деталями.
+Click the avatar to upload a new photo,Нажмите на аватар для загрузки нового фото
+Click to add description...,Нажмите для добавления описания...
+Click to add notes...,Нажмите для добавления заметок...
+Click to assign contact,Нажмите для назначения контакта
+Click to change status,Нажмите для изменения статуса
+Click to change type,Нажмите для изменения типа
+Click to edit,Нажмите для редактирования
+Click to edit budget,Нажмите для редактирования бюджета
+Click to edit description,Нажмите для редактирования описания
+Click to edit end date,Нажмите для редактирования даты окончания
+Click to edit milestone name,Нажмите для редактирования названия вехи
+Click to edit rate,Нажмите для редактирования ставки
+Click to edit start date,Нажмите для редактирования даты начала
+Click to edit title,Нажмите для редактирования заголовка
+Click to load,Нажмите для загрузки
+Click to set group dependency...,Нажмите для указания групповой зависимости...
+Click to set group...,Нажмите для указания группы...
+Click to view,Нажмите для просмотра
+Click to view at-risk projects,Нажмите для просмотра проектов под угрозой
+Click to view critical projects,Нажмите для просмотра критических проектов
+Click to view healthy projects,Нажмите для просмотра проектов в норме
+Client,Клиент
+Client already has a portal user: {0},У клиента уже есть пользователь портала: {0}
+Client already has portal access,У клиента уже есть доступ к порталу
+Client has no portal user to revoke,У клиента нет пользователя портала для отзыва
+Client link removed from project {0},Связь с клиентом удалена из проекта {0}
+Client Portal,Клиентский портал
+Client {0} deleted successfully,Клиент {0} успешно удалён
+Close,Закрыть
+Close (Esc),Закрыть (Esc)
+Comment,Комментарий
+comment,комментарий
+Comment added,Комментарий добавлен
+Comment content is required,Содержание комментария обязательно
+Comment name is required,Название комментария обязательно
+Comment not found,Комментарий не найден
+Comment removed,Комментарий удалён
+Comment {0} not found in task,Комментарий {0} не найден в задаче
+Comments,Комментарии
+comments,комментарии
+Community Edition,Community Edition
+Company,Компания
+Company name...,Название компании...
+Complete,Завершить
+Completed,Завершено
+completed,завершено
+Completed Tasks,Завершённые задачи
+Compliance,Соответствие
+Configure default values for new projects and tasks,Настроить значения по умолчанию для новых проектов и задач
+Configure email notification settings,Настроить параметры уведомлений по электронной почте
+Confirm,Подтвердить
+Contact deleted,Контакт удалён
+Contact Details,Контактные данные
+Contact Information,Контактная информация
+Contact name is required,Имя контакта обязательно
+Contact Support,Связаться с поддержкой
+Contact your project manager for more information.,Свяжитесь с вашим руководителем проекта для получения дополнительной информации.
+Contact:,Контакт:
+Contacts,Контакты
+Context,Контекст
+Contractor,Подрядчик
+Cost estimate cannot be negative,Оценка стоимости не может быть отрицательной
+Cost Impact,Влияние на стоимость
+Cost Summary,Сводка по стоимости
+Could not apply the template. Please try again.,Не удалось применить шаблон. Пожалуйста
+Could not attach file to project,Не удалось прикрепить файл к проекту
+Could not change task priority,Не удалось изменить приоритет задачи
+Could not change task status,Не удалось изменить статус задачи
+Could not delete the project. Please try again.,Не удалось удалить проект. Пожалуйста
+Could not delete the task. Please try again.,Не удалось удалить задачу. Пожалуйста
+Could not delete the template.,Не удалось удалить шаблон.
+Could not duplicate the task. Please try again.,Не удалось дублировать задачу. Пожалуйста
+Could not export the template.,Не удалось экспортировать шаблон.
+Could not import the template. Please check the file format.,Не удалось импортировать шаблон. Проверьте формат файла.
+Could not link task to milestone,Не удалось связать задачу с вехой
+Could not load document details.,Не удалось загрузить детали документа.
+Could not load task details,Не удалось загрузить детали задачи
+Could not promote checklist item to task.,Не удалось преобразовать пункт списка в задачу.
+Could not remove task from milestone,Не удалось отвязать задачу от вехи
+Could not save budget.,Не удалось сохранить бюджет.
+Could not save changes to the milestone,Не удалось сохранить изменения вехи
+Could not save changes to the task,Не удалось сохранить изменения задачи
+Could not save description.,Не удалось сохранить описание.
+Could not save end date.,Не удалось сохранить дату окончания.
+Could not save milestone name.,Не удалось сохранить название вехи.
+Could not save start date.,Не удалось сохранить дату начала.
+Could not save the template. Please try again.,Не удалось сохранить шаблон. Пожалуйста
+Could not save title.,Не удалось сохранить заголовок.
+Could not update dependency mode.,Не удалось обновить режим зависимости.
+Could not update milestone date,Не удалось обновить дату вехи
+Could not update project status.,Не удалось обновить статус проекта.
+Could not update project type.,Не удалось обновить тип проекта.
+Could not update setting.,Не удалось обновить настройку.
+Could not update task dates,Не удалось обновить даты задачи
+Could not update task status,Не удалось обновить статус задачи
+Could not update the template.,Не удалось обновить шаблон.
+Create a copy of this task,Создать копию этой задачи
+Create Contact,Создать контакт
+Create Event,Создать событие
+Create Milestone,Создать веху
+Create New Milestone,Создать новую веху
+Create New Task,Создать новую задачу
+Create Project,Создать проект
+Create Task,Создать задачу
+Create tasks and milestones from a template,Создать задачи и вехи из шаблона
+Create your first project to get started.,Создайте ваш первый проект для начала работы.
+Create your first task to start tracking work on this project.,Создайте первую задачу для начала отслеживания работы над этим проектом.
+Created,Создано
+Creating...,Создание...
+Critical,Критический
+Critical Path,Критический путь
+"Currency used for budgets, costs, and billing rates","Валюта для бюджетов, затрат и ставок оплаты"
+Current,Текущий
+Current Assignments,Текущие назначения
+Current scheduled time:,Текущее запланированное время:
+Currently running version,Currently running version
+d lag,д задержки
+Daily Availability,Ежедневная доступность
+Daily Hours,Часов в день
+Danger Zone,Опасная зона
+Dark,Тёмная
+Dashboard,Панель управления
+Date,Дата
+Date changes on this task will show cascade impact here,Изменения дат этой задачи покажут каскадное влияние здесь
+Date cleared,Дата очищена
+Date of Joining,Дата присоединения
+Date updated,Дата обновлена
+Dates,Даты
+Dates cascaded,Даты каскадированы
+Dates will be relative to the project's start date.,Даты будут относительными к дате начала проекта.
+Day,День
+day,день
+days,дней
+Days before due date to send reminder,За сколько дней до срока отправлять напоминание
+Days Overdue,Дней просрочки
+Days Remaining,Дней осталось
+Deadline,Крайний срок
+Deadlines,Сроки
+Decision,Решение
+Decline,Отклонить
+Declined,Отклонено
+Default Currency,Валюта по умолчанию
+Default hours per week for contact capacity planning,Часов в неделю по умолчанию для планирования нагрузки контактов
+Default Priority,Приоритет по умолчанию
+Default Project Status,Статус проекта по умолчанию
+Default Task Status,Статус задачи по умолчанию
+Default task view,Вид задач по умолчанию
+Default Values,Значения по умолчанию
+Default Weekly Capacity,Нагрузка в неделю по умолчанию
+Defaults,Значения по умолчанию
+Defect Cost Impact,Финансовые последствия дефекта
+Defect name is required,Название дефекта обязательно
+Defect Type,Тип дефекта
+Defect {0} not found,Дефект {0} не найден
+Defects,Дефекты
+Defects & Issues,Дефекты и проблемы
+Defects Resolved,Дефекты устранены
+Delayed,С задержкой
+Delete,Удалить
+Delete Activity Data,Удалить данные активности
+Delete all read notifications?,Удалить все прочитанные уведомления?
+Delete comment,Удалить комментарий
+Delete Contact,Удалить контакт
+Delete Event,Удалить событие
+Delete Event?,Удалить событие?
+Delete failed,Не удалось удалить
+Delete file,Удалить файл
+Delete item,Удалить элемент
+Delete note,Удалить заметку
+Delete Project,Удалить проект
+Delete Task,Удалить задачу
+Delete this project,Удалить этот проект
+Deleted,Удалено
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Проект ""{0}"" удалён ({1} задач, {2} вех)"
+Deletes notes and preferences. Source document is not affected.,Удаляет заметки и настройки. Исходный документ не затрагивается.
+Deleting...,Удаление...
+Department,Отдел
+Dependencies,Зависимости
+dependencies,зависимости
+Dependencies are informational only,Зависимости носят информационный характер
+dependency,зависимость
+Dependency already exists,Зависимость уже существует
+Dependency Chain,Цепочка зависимостей
+Dependency created,Зависимость создана
+Dependency mode updated,Режим зависимости обновлён
+Dependency name is required,Название зависимости обязательно
+Dependency task {0} not found,Зависимая задача {0} не найдена
+Dependency {0} not found,Зависимость {0} не найдена
+depends,зависит
+Depends on Group,Зависит от группы
+Depends on task is required,Зависимая задача обязательна
+depends on...,зависит от...
+Descending -- click to reverse,По убыванию — нажмите для обратного порядка
+Describe the defect in detail...,Подробно опишите дефект...
+Description,Описание
+Description updated,Описание обновлено
+Designation,Должность
+"Detailed description of the defect, location, and impact","Подробное описание дефекта, его расположения и последствий"
+Details,Подробности
+Discard timer,Сбросить таймер
+Discussion,Обсуждение
+Dismiss,Dismiss
+Display,Отображение
+Document,Документ
+Document attached to project,Документ прикреплён к проекту
+Document final decision and rationale,Зафиксировать окончательное решение и обоснование
+Documentation Review,Проверка документации
+Documents,Документы
+Done,Готово
+Download,Скачать
+Drag to create dependency,Перетащите для создания зависимости
+Dry Run,Пробный запуск
+Dry Run Complete,Пробный запуск завершён
+Due Date,Срок выполнения
+Due date,Срок выполнения
+Due Date (Earliest),Срок выполнения (ближайший)
+Due date cannot be before start date,Срок выполнения не может быть раньше даты начала
+Due date is in the past,Срок выполнения в прошлом
+Due Date Reminders,Напоминания о сроках
+Due Diligence,Проверка
+Due Diligence Checklist,Список проверки
+Due This Week,Срок на этой неделе
+Due:,Срок:
+Duplicate events are not allowed,Дублирование событий не допускается
+Duplicate failed,Не удалось дублировать
+Duplicate Task,Дублировать задачу
+Duration,Длительность
+Duration Summary,Сводка по длительности
+Duration:,Длительность:
+e.g. Cracked wall finish in bathroom...,напр. Трещина в отделке стены в ванной комнате...
+"e.g. Electrical, Plumbing...","напр. Электрика, Сантехника..."
+Edit,Редактировать
+Edit (E),Редактировать (E)
+Edit dependency,Редактировать зависимость
+Edit Event,Редактировать событие
+Efficiency,Эффективность
+Either dependency_name or depends_on is required,Требуется dependency_name или depends_on
+Email,Электронная почта
+Email invitations to all attendees,Отправить приглашения по электронной почте всем участникам
+Email is required to create portal user,Для создания пользователя портала требуется электронная почта
+Email notifications,Уведомления по электронной почте
+Employee,Сотрудник
+Employee DocType not available,DocType «Сотрудник» недоступен
+Employee not found,Сотрудник не найден
+Enable or disable optional features,Включить или отключить необязательные функции
+Enable Time Tracking,Включить учёт времени
+End,Конец
+End Date,Дата окончания
+End date,Дата окончания
+End Date cannot be before Start Date,Дата окончания не может быть раньше даты начала
+End date cannot be before start date,Дата окончания не может быть раньше даты начала
+End date updated,Дата окончания обновлена
+End time was before start time. Adjusted to 1 hour after start.,Время окончания было раньше времени начала. Скорректировано на 1 час после начала.
+End:,Конец:
+Enter milestone name...,Введите название вехи...
+Enter project name,Введите название проекта
+Enter task title...,Введите заголовок задачи...
+Enter template name,Введите название шаблона
+Enter your note... Use @name to mention someone,Введите заметку... Используйте @имя для упоминания
+Error,Ошибка
+Error loading activity,Ошибка при загрузке активности
+Error loading contacts,Ошибка при загрузке контактов
+Error loading dashboard,Ошибка при загрузке панели управления
+Error loading project,Ошибка при загрузке проекта
+Error loading projects,Ошибка при загрузке проектов
+Error loading settings,Ошибка при загрузке настроек
+Error loading tasks,Ошибка при загрузке задач
+Error loading templates,Ошибка при загрузке шаблонов
+Est. Hours,Расч. часы
+Estimated,Расчётный
+Estimated Cost,Расчётная стоимость
+Estimated Cost (€),Расчётная стоимость (€)
+Estimated Hours,Расчётные часы
+Estimated:,Расчётное:
+Evaluate potential risks and concerns,Оценить возможные риски и проблемы
+Event,Событие
+Event is required for event context,Событие обязательно для контекста события
+Event is required when tracking context is 'event',"Событие обязательно, когда контекст отслеживания — «событие»"
+Event Type,Тип события
+Events,События
+Events not available. Please run: bench --site orga.localhost migrate,События недоступны. Выполните: bench --site orga.localhost migrate
+Events:,События:
+Expert,Эксперт
+Explain why you are proposing a different time...,Объясните
+Export,Экспорт
+Export failed,Не удалось экспортировать
+Export JSON,Экспорт JSON
+Exported,Экспортировано
+Exported to timesheet {0},Экспортировано в табель {0}
+External,Внешний
+Failed to add item,Не удалось добавить элемент
+Failed to add note,Не удалось добавить заметку
+Failed to add skill,Не удалось добавить навык
+Failed to apply cascade changes: {0},Не удалось применить каскадные изменения: {0}
+Failed to create defect,Не удалось создать дефект
+Failed to create dependency,Не удалось создать зависимость
+Failed to create event,Не удалось создать событие
+Failed to create milestone,Не удалось создать веху
+Failed to create project,Не удалось создать проект
+Failed to create task,Не удалось создать задачу
+Failed to create time log,Не удалось создать запись времени
+Failed to delete,Не удалось удалить
+Failed to delete comment,Не удалось удалить комментарий
+Failed to delete contact,Не удалось удалить контакт
+Failed to load,Не удалось загрузить
+Failed to load activity,Не удалось загрузить активность
+Failed to load assignments,Не удалось загрузить назначения
+Failed to load contact,Не удалось загрузить контакт
+Failed to load dashboard data,Не удалось загрузить данные панели управления
+Failed to load defects,Не удалось загрузить дефекты
+Failed to load events,Не удалось загрузить события
+Failed to load project,Не удалось загрузить проект
+Failed to load projects,Не удалось загрузить проекты
+Failed to load report data,Не удалось загрузить данные отчёта
+Failed to load settings,Не удалось загрузить настройки
+Failed to load tasks,Не удалось загрузить задачи
+Failed to move task,Не удалось переместить задачу
+Failed to post comment,Не удалось опубликовать комментарий
+Failed to propose new time,Не удалось предложить новое время
+Failed to remove item,Не удалось удалить элемент
+Failed to remove skill,Не удалось удалить навык
+Failed to reorder milestones: {0},Не удалось переупорядочить вехи: {0}
+Failed to reorder tasks: {0},Не удалось переупорядочить задачи: {0}
+Failed to reschedule dependent tasks: {0},Не удалось перепланировать зависимые задачи: {0}
+Failed to save,Не удалось сохранить
+Failed to save preferences,Не удалось сохранить настройки
+Failed to save settings,Не удалось сохранить настройки
+Failed to submit request. Please try again.,Не удалось отправить запрос. Пожалуйста
+Failed to update item,Не удалось обновить элемент
+Failed to update priority,Не удалось обновить приоритет
+Failed to update task,Не удалось обновить задачу
+Failed to update tasks: {0},Не удалось обновить задачи: {0}
+Failed to upload avatar,Не удалось загрузить аватар
+Feature,Функция
+Features,Функции
+FF (Finish-Finish),FF (Финиш-Финиш)
+FF - Finish-to-Finish,FF — Финиш-Финиш
+Field has been updated,Поле обновлено
+Field name is required for 'Set Field Value' action,Имя поля обязательно для действия «Задать значение поля»
+Field {0} is not a Link field,Поле {0} не является полем-ссылкой
+Field {0} not found in {1},Поле {0} не найдено в {1}
+File,Файл
+file,файл
+File does not belong to this task,Файл не относится к этой задаче
+File name is required,Имя файла обязательно
+File uploaded,Файл загружен
+File {0} not found,Файл {0} не найден
+Files,Файлы
+files,файлы
+Filter,Фильтр
+Final Decision,Окончательное решение
+Finance,Финансы
+Financial,Финансовый
+Finish-to-Finish,Финиш-Финиш
+Finish-to-Start,Финиш-Старт
+Flag,Отметить
+Flag for attention,Отметить как важное
+Flagged,Отмечено
+Focus Panel,Панель фокуса
+Follows your system preference. Currently:,Следует настройке вашей системы. Сейчас:
+Frappe Project {0} not found,Проект Frappe {0} не найден
+Frappe Projects Migration,Перенос Frappe Projects
+Frappe Projects module not available,Модуль Frappe Projects недоступен
+Frappe Projects module not installed,Модуль Frappe Projects не установлен
+Frappe Projects sync is not enabled,Синхронизация с Frappe Projects не включена
+Frappe Task DocType not found,DocType задачи Frappe не найден
+Frappe Task has no project,Задача Frappe не связана с проектом
+Frappe Task {0} not found,Задача Frappe {0} не найдена
+Fri,Пт
+From,От
+From Template,Из шаблона
+FS (Finish-Start),FS (Финиш-Старт)
+FS - Finish-to-Start (default),FS — Финиш-Старт (по умолчанию)
+Full form view with audit trail,Полный вид формы с журналом действий
+Full name,Полное имя
+Gantt,Gantt
+Gantt Chart,Диаграмма Gantt
+Gantt View,Вид Gantt
+General Note,Общая заметка
+Get started,Начать
+Go back,Вернуться
+Go Back,Назад
+Group by,Группировать по
+Group dependency removed,Групповая зависимость удалена
+Group dependency set,Групповая зависимость установлена
+Group removed,Группа удалена
+Group updated,Группа обновлена
+Hammock task dates are auto-calculated and cannot be changed manually,Даты задач-гамаков рассчитываются автоматически и не могут быть изменены вручную
+Have a question or need assistance? Fill out the form below and our team will get back to you.,"Есть вопрос или нужна помощь? Заполните форму ниже, и наша команда свяжется с вами."
+Health,Состояние
+Healthy,В норме
+Hello {0},Здравствуйте {0}
+Here's what's happening with your projects today.,Вот что происходит с вашими проектами сегодня.
+Hide,Скрыть
+High,Высокий
+History,История
+Home,Главная
+Hourly Cost,Почасовая стоимость
+Hours,Часы
+hours,часы
+Hours Logged,Записано часов
+ID,ID
+Image must be smaller than 5 MB,Изображение должно быть меньше 5 МБ
+Import,Импорт
+Import existing projects and tasks from Frappe Projects module,Импортировать существующие проекты и задачи из модуля Frappe Projects
+Import failed,Не удалось импортировать
+Import Template,Импортировать шаблон
+Imported,Импортировано
+in,в
+In Progress,В работе
+In Review,На проверке
+In-app notifications,Уведомления в приложении
+Inactive,Неактивный
+Initial Review,Первичная проверка
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Недостаточно прав для просмотра всех задач
+Intermediate,Средний уровень
+Internal,Внутренний
+Invalid DocType,Неверный DocType
+Invalid DocType for import,Неверный DocType для импорта
+Invalid item type: {0},Неверный тип элемента: {0}
+Invalid JSON data,Неверные данные JSON
+Invalid note type. Must be one of: {0},Неверный тип заметки. Должен быть одним из: {0}
+Invalid project reference,Неверная ссылка на проект
+Invalid reaction type. Must be one of: {0},Неверный тип реакции. Должен быть одним из: {0}
+Invalid RSVP status,Неверный статус RSVP
+Invalid status. Must be one of: {0},Неверный статус. Должен быть одним из: {0}
+Invalid status: {0},Неверный статус: {0}
+Invalid status: {0}. Must be one of: {1},Неверный статус: {0}. Должен быть одним из: {1}
+Invalid tracking context: {0},Неверный контекст отслеживания: {0}
+Invalid visibility. Must be one of: {0},Неверная видимость. Должна быть одной из: {0}
+Invitation: {0} - {1} at {2},Приглашение: {0} — {1} в {2}
+Invite People,Пригласить людей
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","Дело не в вас, а в ссылке. Страница, которую вы ищете, возможно, была перемещена, переименована или ушла на заслуженный перерыв на кофе. Ваши проекты и данные в полной безопасности."
+Item added,Элемент добавлен
+Item ID is required,Идентификатор элемента обязателен
+Item removed,Элемент удалён
+Item type is required,Тип элемента обязателен
+Item {0} not found,Элемент {0} не найден
+Job title or role,Должность или роль
+Join Meeting,Присоединиться к встрече
+Just now,Только что
+just now,только что
+Kanban,Kanban
+Kanban Board,Доска Kanban
+Kanban View,Вид Kanban
+Keyboard Shortcuts,Сочетания клавиш
+Keyboard shortcuts (?),Сочетания клавиш (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Последнее обновление
+Last updated:,Последнее обновление:
+Last Week,Прошлая неделя
+Latest Version,Latest Version
+Light,Светлая
+Link failed,Не удалось связать
+Link Task,Связать задачу
+Linked,Связано
+Linked employee not found,Связанный сотрудник не найден
+Linked Tasks,Связанные задачи
+List,Список
+List View,Вид списка
+Load failed,Не удалось загрузить
+Load More,Загрузить ещё
+Load more comments,Загрузить ещё комментарии
+Loading activity...,Загрузка активности...
+Loading changes...,Загрузка изменений...
+Loading checklist...,Загрузка списка...
+Loading comments...,Загрузка комментариев...
+Loading contact...,Загрузка контакта...
+Loading contacts...,Загрузка контактов...
+Loading dependencies...,Загрузка зависимостей...
+Loading details...,Загрузка подробностей...
+Loading discussion...,Загрузка обсуждения...
+Loading events...,Загрузка событий...
+Loading files...,Загрузка файлов...
+Loading notes...,Загрузка заметок...
+Loading preferences...,Загрузка настроек...
+Loading project...,Загрузка проекта...
+Loading projects...,Загрузка проектов...
+Loading replies...,Загрузка ответов...
+Loading report data...,Загрузка данных отчёта...
+Loading settings...,Загрузка настроек...
+Loading task...,Загрузка задачи...
+Loading templates...,Загрузка шаблонов...
+Loading time logs...,Загрузка записей времени...
+Loading your portal...,Загрузка вашего портала...
+Loading...,Загрузка...
+Location,Местоположение
+Log Time,Записать время
+Logout,Выйти
+Low,Низкий
+Make Offer,Сделать предложение
+Manager,Руководитель
+Manual Entry,Ввод вручную
+Margin,Маржа
+Mark all as read,Отметить все как прочитанные
+Mark all read,Отметить все как прочитанные
+Mark as read,Отметить как прочитанное
+Mark as unread,Отметить как непрочитанное
+Mark read,Отметить как прочитанное
+Marking...,Отметка...
+Material,Материал
+Maybe,Возможно
+Medium,Средний
+Meeting,Совещание
+Meeting Link,Ссылка на совещание
+Meeting title,Название совещания
+Meeting URL,Ссылка на совещание
+Meetings,Совещания
+Mention,Упоминание
+Message,Сообщение
+Message is required,Сообщение обязательно
+Message is required for '{0}' action,Сообщение обязательно для действия «{0}»
+Migrate,Перенести
+Migration Complete,Перенос завершён
+Migration ID:,ID переноса:
+Migration log not found: {0},Журнал переноса не найден: {0}
+Milestone,Веха
+milestone,веха
+Milestone created,Веха создана
+Milestone description has been saved.,Описание вехи сохранено.
+Milestone ID is required,Идентификатор вехи обязателен
+Milestone marked as Missed (past due date),Веха отмечена как пропущенная (срок истёк)
+Milestone moved,Веха перемещена
+Milestone Name,Название вехи
+Milestone name has been saved.,Название вехи сохранено.
+Milestone name is required,Название вехи обязательно
+Milestone updated,Веха обновлена
+Milestone {0} not found,Веха {0} не найдена
+Milestone {0} not in project {1},Веха {0} отсутствует в проекте {1}
+Milestones,Вехи
+milestones,вехи
+Milestones:,Вехи:
+Minutes,Минуты
+Missed,Пропущено
+Mixed,Смешанный
+Mobile,Мобильный
+Moderate,Умеренный
+Modified,Изменено
+"Modify details, time, or attendees","Изменить детали, время или участников"
+Mon,Пн
+Month,Месяц
+Move failed,Не удалось переместить
+Must be a positive number,Должно быть положительным числом
+Must finish before this finishes,Должно завершиться до окончания этого
+Must finish before this starts,Должно завершиться до начала этого
+Must start before this finishes,Должно начаться до окончания этого
+Must start before this starts,Должно начаться до начала этого
+My Assignments,Мои назначения
+My Projects,Мои проекты
+My Schedule,Моё расписание
+My Tasks,Мои задачи
+N/A,Н/Д
+Name,Название
+Name (A-Z),Название (А-Я)
+Name (Z-A),Название (Я-А)
+Name cannot exceed 255 characters,Название не может превышать 255 символов
+Need help?,Нужна помощь?
+Needs Attention,Требует внимания
+Never,Never
+new activities,новые активности
+New Activity,Новая активность
+New activity,Новая активность
+New Event,Новое событие
+New index is required,Требуется новый индекс
+New Project,Новый проект
+New tasks will auto-trail by default.,Новые задачи будут автоматически скользить по умолчанию.
+Newest First,Сначала новые
+Next,Далее
+Next 14 days,Ближайшие 14 дней
+Next 30 days,Ближайшие 30 дней
+Next 60 days,Ближайшие 60 дней
+Next 7 days,Ближайшие 7 дней
+Next 90 days,Ближайшие 90 дней
+Next Week,Следующая неделя
+Next:,Далее:
+No,Нет
+No active assignments,Нет активных назначений
+No active projects,Нет активных проектов
+No active timer found,Активный таймер не найден
+No activity selected,Активность не выбрана
+No assignments found,Назначения не найдены
+No attendees,Нет участников
+no change,без изменений
+No changes for this field.,Нет изменений для этого поля.
+No changes recorded for this activity.,Для этой активности изменения не зафиксированы.
+No checklist items yet,Пунктов списка пока нет
+No checklist items yet.,Пунктов списка пока нет.
+No comments yet,Комментариев пока нет
+No comments yet.,Комментариев пока нет.
+No contacts available,Нет доступных контактов
+No content for this tab,Нет содержимого для этой вкладки
+No data available,Нет доступных данных
+No data available for the selected filters,Нет данных для выбранных фильтров
+No data to export,Нет данных для экспорта
+No dates set,Даты не указаны
+No defects reported,Дефекты не обнаружены
+No dependencies defined,Зависимости не определены
+No description,Нет описания
+No discussion yet.,Обсуждений пока нет.
+No documents attached,Документы не прикреплены
+No due date,Нет срока выполнения
+No employee linked to this resource,К этому ресурсу не привязан сотрудник
+No ERPNext employee linked to resource,К ресурсу не привязан сотрудник ERPNext
+No events found,События не найдены
+No files attached yet.,Файлы пока не прикреплены.
+No Frappe Project linked,Проект Frappe не привязан
+No Grouping,Без группировки
+No items,Нет элементов
+No matching tasks,Нет подходящих задач
+No matching tasks found,Подходящие задачи не найдены
+No migration history,Нет истории переноса
+No Milestone,Без вехи
+No milestones,Нет вех
+No milestones defined for this project.,Для этого проекта вехи не определены.
+No notes yet.,Заметок пока нет.
+No notes yet. Add a due diligence note to track progress.,Заметок пока нет. Добавьте заметку проверки для отслеживания прогресса.
+No notifications,Нет уведомлений
+No Orga Project linked to Frappe Project {0},Проект Orga не привязан к проекту Frappe {0}
+No overdue tasks,Нет просроченных задач
+No pending cascade changes,Нет ожидающих каскадных изменений
+No predecessors - this task can start independently,Нет предшественников — эта задача может начаться самостоятельно
+No project,Нет проекта
+No projects found,Проекты не найдены
+No Projects Yet,Проектов пока нет
+No recent activity,Нет недавней активности
+No related documents,Нет связанных документов
+No resolved threads.,Нет завершённых обсуждений.
+No resources found,Ресурсы не найдены
+No results found,Результаты не найдены
+No skills listed,Навыки не указаны
+No skills recorded yet,Навыки пока не записаны
+No successors - no tasks are waiting for this one,Нет последователей — ни одна задача не ждёт эту
+No task selected,Задача не выбрана
+No tasks assigned to you,Вам не назначено задач
+No tasks available to add,Нет задач для добавления
+No tasks found,Задачи не найдены
+No tasks linked to this milestone,К этой вехе не привязано задач
+No tasks with dates to display,Нет задач с датами для отображения
+No tasks yet,Задач пока нет
+No team members,Нет участников команды
+No template,Нет шаблона
+No templates yet,Шаблонов пока нет
+No time data found,Данные о времени не найдены
+No time logged today,Сегодня время не записано
+No time logged yet,Время пока не записано
+No time logs for this period,Нет записей времени за этот период
+No time logs found,Записи времени не найдены
+No unread notifications,Нет непрочитанных уведомлений
+No update information available yet.,No update information available yet.
+None,Нет
+Not found,Не найдено
+Not permitted,Доступ запрещён
+Not permitted to access this project,Нет доступа к этому проекту
+Not permitted to access this task,Нет доступа к этой задаче
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Вам не разрешено комментировать этот документ
+Not permitted to create clients,Вам не разрешено создавать клиентов
+Not permitted to delete this client,Вам не разрешено удалять этого клиента
+Not permitted to delete this defect,Вам не разрешено удалять этот дефект
+Not permitted to delete this note,Вам не разрешено удалять эту заметку
+Not permitted to delete this project,Вам не разрешено удалять этот проект
+Not permitted to delete this task,Вам не разрешено удалять эту задачу
+Not permitted to delete this time log,Вам не разрешено удалять эту запись времени
+Not permitted to invite clients,Вам не разрешено приглашать клиентов
+Not permitted to modify client access,Вам не разрешено изменять доступ клиента
+Not permitted to modify this project,Вам не разрешено изменять этот проект
+Not permitted to update settings,Вам не разрешено изменять настройки
+Not permitted to update this client,Вам не разрешено изменять этого клиента
+Not permitted to view this client,Вам не разрешено просматривать этого клиента
+not sent,не отправлено
+Not set,Не задано
+Not specified,Не указано
+Note,Заметка
+Note (optional),Заметка (необязательно)
+Note Content,Содержание заметки
+Note content is required,Содержание заметки обязательно
+Note name is required,Название заметки обязательно
+Note not found,Заметка не найдена
+Note Type,Тип заметки
+Notes,Заметки
+Notification,Уведомление
+Notification not found,Уведомление не найдено
+Notifications,Уведомления
+Off Track,Не по плану
+Offer,Предложение
+Offer Prepared,Предложение подготовлено
+Oldest First,Сначала старые
+On Hold,На удержании
+On Leave,В отпуске
+On Track,По плану
+On-Time Rate,Доля вовремя
+Only administrators can delete activities,Только администраторы могут удалять активности
+Only the comment author or administrators can delete comments,Только автор комментария или администраторы могут удалять комментарии
+Only you and admins,Только вы и администраторы
+Open,Открыто
+Open in Desk,Открыть в Desk
+Open Task Log,Открыть журнал задачи
+Open Tasks,Открытые задачи
+Optional,Необязательно
+optional,необязательно
+Or email us directly at,Или напишите нам напрямую на
+Orga Project {0} from Frappe Projects,Проект Orga {0} из Frappe Projects
+Orga Task {0} from Frappe,Задача Orga {0} из Frappe
+Organizer,Организатор
+Other,Другое
+Over Budget,Превышение бюджета
+Overall Progress,Общий прогресс
+Overall Utilization,Общая загрузка
+Overallocated,Перегружен
+Overdue,Просрочено
+overdue,просрочено
+Overdue Tasks,Просроченные задачи
+Overview,Обзор
+Owner,Владелец
+Page Not Found,Страница не найдена
+Parent,Родитель
+Parent comment must belong to the same document,Родительский комментарий должен относиться к тому же документу
+Parent comment not found,Родительский комментарий не найден
+Parent project not synced to Frappe yet,Родительский проект ещё не синхронизирован с Frappe
+Parent project sync not enabled,Синхронизация родительского проекта не включена
+Partner,Партнёр
+Pending,Ожидание
+per page,на странице
+Perform initial assessment and background check,Провести первичную оценку и проверку
+Permanently remove this event,Безвозвратно удалить это событие
+Permanently remove this task,Безвозвратно удалить эту задачу
+Phone,Телефон
+Pin,Закрепить
+Pin Activity,Закрепить активность
+Pin to top,Закрепить вверху
+Pinned,Закреплено
+Planned budget for this task,Запланированный бюджет для этой задачи
+Planning,Планирование
+Please describe your question or issue in detail...,Подробно опишите ваш вопрос или проблему...
+Please login to access Orga,Пожалуйста
+Please login to access the client portal,Пожалуйста
+Please respond to this invitation in Orga,Пожалуйста
+Please select an image file,Пожалуйста
+Please try again,Пожалуйста
+Please type,Пожалуйста
+Portal,Портал
+Portal access revoked for {0},Доступ к порталу отозван для {0}
+Portal user created successfully. Welcome email {0},Пользователь портала успешно создан. Приветственное письмо {0}
+Post,Опубликовать
+Powered by,Работает на
+Powered by Tonic,Работает на Tonic
+Predecessors (Blocked By),Предшественники (заблокировано)
+Preferences,Настройки
+Preferences saved successfully,Настройки успешно сохранены
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Префикс для автоматических кодов проектов (напр. ORG-2026-0001)
+Prepare and document offer terms,Подготовить и зафиксировать условия предложения
+Press,Нажмите
+Preview,Предпросмотр
+Preview cascade before applying,Предпросмотр каскада перед применением
+Previous,Назад
+Priority,Приоритет
+Priority assigned to new tasks,Приоритет для новых задач
+Priority updated,Приоритет обновлён
+Proficiency,Уровень владения
+Profile,Профиль
+Progress,Прогресс
+Progress (High-Low),Прогресс (по убыванию)
+Progress (Low-High),Прогресс (по возрастанию)
+Progress Overview,Обзор прогресса
+Progress updated,Прогресс обновлён
+Project,Проект
+Project budget has been saved.,Бюджет проекта сохранён.
+Project code (e.g. ORG-2026-0001),Код проекта (напр. ORG-2026-0001)
+Project Code Prefix,Префикс кода проекта
+Project created,Проект создан
+Project deleted,Проект удалён
+Project description has been saved.,Описание проекта сохранено.
+Project Details,Детали проекта
+Project end date has been saved.,Дата окончания проекта сохранена.
+Project Files,Файлы проекта
+Project has no linked client,У проекта нет связанного клиента
+Project Health,Состояние проекта
+Project Info,Информация о проекте
+Project is required,Проект обязателен
+Project is required for project context,Проект обязателен для контекста проекта
+Project is required when tracking context is 'project',"Проект обязателен, когда контекст отслеживания — «проект»"
+Project Manager,Руководитель проекта
+Project Name,Название проекта
+Project name and template name are required,Название проекта и название шаблона обязательны
+Project name is required,Название проекта обязательно
+Project not found,Проект не найден
+Project not found or you do not have access,Проект не найден или у вас нет доступа
+Project settings,Настройки проекта
+Project start date has been saved.,Дата начала проекта сохранена.
+Project title has been saved.,Заголовок проекта сохранён.
+Project Type,Тип проекта
+Project updated,Проект обновлён
+Project {0} linked to client {1},Проект {0} связан с клиентом {1}
+Project {0} not found,Проект {0} не найден
+Project {0} to Frappe Projects,Проект {0} в Frappe Projects
+Project:,Проект:
+Projects,Проекты
+projects,проекты
+Projects created:,Проектов создано:
+Projects Overview,Обзор проектов
+Projects skipped:,Проектов пропущено:
+Projects updated:,Проектов обновлено:
+Promote failed,Не удалось преобразовать
+Promote to task,Преобразовать в задачу
+Promoted to task,Преобразовано в задачу
+Propose,Предложить
+Propose New Time,Предложить новое время
+Propose Time,Предложить время
+Proposed End,Предлагаемое окончание
+Proposed Start,Предлагаемое начало
+Public,Публичный
+Quick Action,Быстрое действие
+Quick Actions,Быстрые действия
+Quick Stats,Краткая статистика
+Rates,Ставки
+Receive notifications via email,Получать уведомления по электронной почте
+Receive notifications within the application,Получать уведомления в приложении
+Recent Activity,Недавняя активность
+Recipient {0} is not a valid user,Получатель {0} не является действительным пользователем
+Reference,Ссылка
+Refresh,Обновить
+Related,Связанное
+Related Company (optional),Связанная компания (необязательно)
+Related Documents,Связанные документы
+Related Project,Связанный проект
+Remaining,Осталось
+Reminder,Напоминание
+Reminder Lead Time,Время до напоминания
+Reminder: {0} - {1} at {2},Напоминание: {0} — {1} в {2}
+Remove,Убрать
+Remove dependency,Удалить зависимость
+Remove dependency on,Удалить зависимость от
+Remove from group,Убрать из группы
+Remove group dependency,Удалить групповую зависимость
+Remove skill,Удалить навык
+Reopen,Возобновить
+Reopen thread,Возобновить обсуждение
+reopened,возобновлено
+replies,ответы
+Reply,Ответить
+reply,ответ
+Replying to,В ответ на
+Replying to comment,В ответ на комментарий
+Report Defect,Сообщить о дефекте
+Reported Date,Дата сообщения
+Reports,Отчёты
+Reports To,Подчиняется
+Request Submitted!,Запрос отправлен!
+Required,Обязательно
+required,обязательно
+Research,Исследование
+Reset to Defaults,Сбросить на значения по умолчанию
+Resolve,Решить
+Resolve thread,Завершить обсуждение
+Resolved,Решено
+Resolved date cannot be before reported date,Дата решения не может быть раньше даты обнаружения
+Resource,Ресурс
+Resource and skill name are required,Ресурс и название навыка обязательны
+Resource is already an attendee,Ресурс уже является участником
+Resource name is required,Название ресурса обязательно
+Resource not found,Ресурс не найден
+Resource synced from employee {0},Ресурс синхронизирован из сотрудника {0}
+Resource {0} is already assigned to this task ({1}),Ресурс {0} уже назначен на эту задачу ({1})
+Resource {0} not found,Ресурс {0} не найден
+Resources,Контакты
+Retry,Повторить
+Review,Проверка
+Review all relevant documents and contracts,Проверить все соответствующие документы и договоры
+Reviews,Проверки
+Risk Assessment,Оценка рисков
+Rollback,Откатить
+Rolled back,Откачено
+Room or address,Помещение или адрес
+RSVP,RSVP
+Safety,Безопасность
+Sat,Сб
+Save,Сохранить
+"Save a project as a template, or import one from a JSON file.",Сохраните проект как шаблон или импортируйте из файла JSON.
+Save as Template,Сохранить как шаблон
+Save Changes,Сохранить изменения
+Save failed,Не удалось сохранить
+Save Preferences,Сохранить настройки
+Save Template,Сохранить шаблон
+Saving...,Сохранение...
+Schedule,Расписание
+Schedule type is required for scheduled triggers,Тип расписания обязателен для запланированных триггеров
+Scheduled,Запланировано
+Search,Поиск
+"Search by name, email, or skill...","Поиск по имени, электронной почте или навыку..."
+Search for a project...,Найти проект...
+Search for a task...,Найти задачу...
+Search for an event...,Найти событие...
+Search for people to invite...,Найти людей для приглашения...
+Search tasks to link...,Найти задачи для связи...
+Search tasks...,Поиск задач...
+Search...,Поиск...
+Searching...,Поиск...
+Seen,Просмотрено
+Select a project if your request is related to a specific project.,"Выберите проект, если ваш запрос связан с конкретным проектом."
+Select a project...,Выберите проект...
+Select a task from the Gantt chart to view and manage its details.,Выберите задачу на диаграмме Gantt для просмотра и управления её деталями.
+Select a task from the list or Kanban board to view and manage its details.,Выберите задачу из списка или доски Kanban для просмотра и управления её деталями.
+Select a template...,Выберите шаблон...
+Select priority...,Выберите приоритет...
+Select status...,Выберите статус...
+Select task...,Выберите задачу...
+Select type...,Выберите тип...
+Selection,Выбор
+Send,Отправить
+Send comment,Отправить комментарий
+Send email invitations to attendees,Отправить приглашения по электронной почте участникам
+Send Invitations,Отправить приглашения
+Send notification when a task is assigned to a user,Отправить уведомление при назначении задачи пользователю
+Send notification when task status changes,Отправить уведомление при изменении статуса задачи
+Send reminder before task due date,Отправить напоминание перед сроком задачи
+sent,отправлено
+Set rate,Задать ставку
+Settings,Настройки
+Settings saved successfully,Настройки успешно сохранены
+Severity,Серьёзность
+SF (Start-Finish),SF (Старт-Финиш)
+SF - Start-to-Finish,SF — Старт-Финиш
+Show,Показать
+Show all,Показать все
+Show all changes,Показать все изменения
+Show Archived,Показать архивные
+Show full diff,Показать полные различия
+Show less,Свернуть
+Show more,Развернуть
+Skill added,Навык добавлен
+Skill is required,Навык обязателен
+Skill Name,Название навыка
+Skill removed,Навык удалён
+Skill {0} already exists for this resource,Навык {0} уже существует для этого ресурса
+Skills,Навыки
+Skills & Competencies,Навыки и компетенции
+Skip already migrated projects,Пропустить уже перенесённые проекты
+Sort by,Сортировать по
+Sort: Due Date,Сортировка: срок выполнения
+Sort: Priority,Сортировка: приоритет
+Sort: Project,Сортировка: проект
+Sort: Status,Сортировка: статус
+Sort: Task,Сортировка: задача
+Source Code,Исходный код
+Spent,Потрачено
+Spent:,Потрачено:
+SS (Start-Start),SS (Старт-Старт)
+SS - Start-to-Start,SS — Старт-Старт
+Standalone,Самостоятельный
+Start,Начало
+Start a discussion below,Начните обсуждение ниже
+Start Date,Дата начала
+Start date,Дата начала
+Start Date (Earliest),Дата начала (ближайшая)
+Start date updated,Дата начала обновлена
+Start date/time is required,Дата/время начала обязательны
+Start Migration,Начать перенос
+Start the conversation below.,Начните разговор ниже.
+Start Timer,Запустить таймер
+Start typing to search...,Начните вводить для поиска...
+Start-to-Finish,Старт-Финиш
+Start-to-Start,Старт-Старт
+Start:,Начало:
+Statistics reset,Статистика сброшена
+Status,Статус
+Status assigned to new projects,Статус для новых проектов
+Status assigned to new tasks,Статус для новых задач
+Status Changes,Изменения статуса
+Status updated,Статус обновлён
+Status:,Статус:
+Stop,Остановить
+Stop & Save,Остановить и сохранить
+Stop Timer,Остановить таймер
+Stops current timer and starts for this event,Останавливает текущий таймер и запускает для этого события
+Stops current timer and starts for this task,Останавливает текущий таймер и запускает для этой задачи
+Subject,Тема
+Subject cannot exceed 255 characters,Тема не может превышать 255 символов
+Subject is required,Тема обязательна
+Submit,Отправить
+Submit Another Request,Отправить ещё один запрос
+Submit Request,Отправить запрос
+Submitting...,Отправка...
+Successfully saved,Успешно сохранено
+Successors (Blocking),Последователи (блокирует)
+Sun,Вс
+Supplier,Поставщик
+Support,Поддержка
+Switch to this event,Переключиться на это событие
+Switch to this task,Переключиться на эту задачу
+Sync direction is set to Frappe to Orga only,Направление синхронизации: только из Frappe в Orga
+Sync direction is set to Orga to Frappe only,Направление синхронизации: только из Orga в Frappe
+Sync not enabled for this project,Синхронизация для этого проекта не включена
+System,Система
+Table,Таблица
+Take ownership of this task,Взять эту задачу себе
+Target Date,Целевая дата
+Target End,Целевое окончание
+Target Project,Целевой проект
+Target user is required for '{0}' action,Целевой пользователь обязателен для действия «{0}»
+Task,Задача
+task,задача
+Task '{0}' is due on {1}.,Срок задачи «{0}» — {1}.
+Task and resource are required,Задача и ресурс обязательны
+Task Assignment,Назначение задачи
+Task cannot be its own parent,Задача не может быть своим собственным родителем
+Task cannot depend on itself,Задача не может зависеть от самой себя
+Task cannot depend on the group it belongs to,Задача не может зависеть от группы
+Task created,Задача создана
+Task deleted,Задача удалена
+Task description has been saved.,Описание задачи сохранено.
+Task Details,Детали задачи
+Task due in {0} days: {1},Срок задачи через {0} дней: {1}
+Task due today: {0},Срок задачи сегодня: {0}
+Task due tomorrow: {0},Срок задачи завтра: {0}
+Task duplicated,Задача дублирована
+Task Group,Группа задач
+Task ID is required,Идентификатор задачи обязателен
+Task is blocked by incomplete dependencies,Задача заблокирована незавершёнными зависимостями
+Task is cancelled,Задача отменена
+Task is completed,Задача завершена
+Task is no longer blocked by a group,Задача больше не заблокирована группой
+Task is required for task context,Задача обязательна для контекста задачи
+Task is required when tracking context is 'task',"Задача обязательна, когда контекст отслеживания — «задача»"
+Task linked,Задача связана
+Task moved,Задача перемещена
+Task name,Название задачи
+Task name is required,Название задачи обязательно
+Task removed from group,Задача удалена из группы
+Task Subject,Тема задачи
+Task subject is required,Тема задачи обязательна
+Task Type,Тип задачи
+Task unblocked: {0},Задача разблокирована: {0}
+Task unlinked,Задача отвязана
+Task updated,Задача обновлена
+Task {0} not found,Задача {0} не найдена
+Task {0} not in project {1},Задача {0} отсутствует в проекте {1}
+Task {0} to Frappe,Задача {0} в Frappe
+Tasks,Задачи
+tasks,задачи
+Tasks and milestones will be created with dates relative to the project start date.,Задачи и вехи будут созданы с датами относительно даты начала проекта.
+Tasks assigned to you across all projects.,Задачи
+Tasks created:,Задач создано:
+Tasks from projects you manage.,Задачи из проектов
+Tasks updated:,Задач обновлено:
+"Tasks, milestones, and dependencies have been created.","Задачи, вехи и зависимости созданы."
+Tasks:,Задачи:
+TBD,Уточняется
+Team,Команда
+Team Members,Участники команды
+Template,Шаблон
+Template applied,Шаблон применён
+Template data is required in import data,Данные шаблона обязательны в импортируемых данных
+Template has no data,В шаблоне нет данных
+Template Name,Название шаблона
+Template name,Название шаблона
+Template name is required,Название шаблона обязательно
+Template name is required in import data,Название шаблона обязательно в импортируемых данных
+Template saved,Шаблон сохранён
+Template updated successfully.,Шаблон успешно обновлён.
+Template {0} not found,Шаблон {0} не найден
+Templates,Шаблоны
+Tentative,Предварительно
+The comment has been deleted,Комментарий удалён
+The project,Проект
+The source document may have been deleted.,Исходный документ мог быть удалён.
+The source document will not be affected.,Исходный документ не будет затронут.
+The status of '{0}' was changed from {1} to {2}.,Статус «{0}» изменён с {1} на {2}.
+Theme,Тема оформления
+Theme preference,Предпочтение темы
+This action,Это действие
+This action cannot be undone.,Это действие нельзя отменить.
+This activity has been flagged for attention,Эта активность отмечена как важная
+This is a reminder for your upcoming appointment,Это напоминание о вашей предстоящей встрече
+This method is only meant for developer mode,Этот метод доступен только в режиме разработчика
+This page wandered off,Эта страница заблудилась
+This Week,Эта неделя
+This will delete all notes and preferences associated with this activity.,Это удалит все заметки и настройки
+This will import all Frappe Projects into Orga. Continue?,Это импортирует все проекты Frappe в Orga. Продолжить?
+This will permanently delete,Это безвозвратно удалит
+This will permanently delete:,Будет безвозвратно удалено:
+Thu,Чт
+Time,Время
+Time & Billing,Время и оплата
+Time & Revenue,Время и доход
+Time Entries,Записи времени
+Time log name is required,Название записи времени обязательно
+Time Log not found,Запись времени не найдена
+Time log {0} not found,Запись времени {0} не найдена
+Time Logs,Записи времени
+Time Summary,Сводка по времени
+Time Tracking,Учёт времени
+Timeline,Хронология
+Timer active on,Таймер активен на
+Timer is not running,Таймер не запущен
+Timer Running,Таймер работает
+Timer running,Таймер работает
+Timesheet DocType not available,DocType «Табель» недоступен
+Timesheets,Табели
+Timezone,Часовой пояс
+Timezone is detected from your browser,Часовой пояс определяется из вашего браузера
+Title,Заголовок
+Title cannot exceed 255 characters,Заголовок не может превышать 255 символов
+Title is required,Заголовок обязателен
+Title updated,Заголовок обновлён
+To,До
+to,до
+to cancel,для отмены
+to close,для закрытия
+to confirm:,для подтверждения:
+to edit,для редактирования
+"to save,","для сохранения,"
+To Time cannot be before From Time,Время окончания не может быть раньше времени начала
+Today,Сегодня
+today,сегодня
+Toggle billable,Переключить оплачиваемость
+Toggle Details Panel,Показать/скрыть панель деталей
+Toggle Manager Panel,Показать/скрыть панель руководителя
+Toggle Sidebar,Показать/скрыть боковую панель
+Tomorrow,Завтра
+tomorrow,завтра
+Total,Итого
+Total Budget,Общий бюджет
+Total Contacts,Всего контактов
+Total Cost,Общая стоимость
+Total Cost to Org,Общие затраты организации
+Total Defect Cost,Общая стоимость дефектов
+Total Hours,Всего часов
+Total Hours Logged,Всего часов записано
+Total Projects,Всего проектов
+Total Spent,Всего потрачено
+Total Tasks,Всего задач
+Total:,Итого:
+Tracked,Отслежено
+trails to today while Open at 0%,"скользит до сегодня, пока статус «Открыто» при 0%"
+Tried:,Попытка:
+Try adjusting your filter criteria,Попробуйте изменить условия фильтрации
+Try adjusting your filters.,Попробуйте изменить фильтры.
+Try Again,Попробовать снова
+Tue,Вт
+Type,Тип
+Type updated,Тип обновлён
+Type:,Тип:
+Typical response time: 1-2 business days,Обычное время ответа: 1–2 рабочих дня
+Unarchive,Разархивировать
+Unarchive Activity,Разархивировать активность
+Unassign,Снять назначение
+Unassigned,Не назначено
+Under Budget,В рамках бюджета
+Ungrouped,Без группы
+Unknown,Неизвестно
+Unknown error,Неизвестная ошибка
+Unlink failed,Не удалось отвязать
+Unlink task from milestone,Отвязать задачу от вехи
+Unpin,Открепить
+Unpin Activity,Открепить активность
+Unread,Непрочитанное
+Unread only,Только непрочитанные
+Until,До
+Up to Date,Up to Date
+Upcoming,Предстоящие
+upcoming,предстоящие
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Не удалось обновить
+Updated,Обновлено
+Updated successfully,Успешно обновлено
+Updates,Updates
+Upload,Загрузить
+Upload failed,Не удалось загрузить
+Upload files below to attach them to this task.,Загрузите файлы ниже для прикрепления к этой задаче.
+Upload to project,Загрузить в проект
+Uploading...,Загрузка...
+Urgent,Срочный
+User {0} is already linked to client {1},Пользователь {0} уже связан с клиентом {1}
+User {0} is already linked to resource {1},Пользователь {0} уже связан с ресурсом {1}
+Utilization,Загрузка
+Valid,Действительно
+Value:,Значение:
+Variance,Отклонение
+Variance:,Отклонение:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Просмотр
+View All,Показать все
+View all active projects,Показать все активные проекты
+View all open tasks,Показать все открытые задачи
+View overdue tasks,Показать просроченные задачи
+View Release,View Release
+Visibility,Видимость
+Waiting for this task,Ожидание этой задачи
+Waits for:,Ожидает:
+Warning: Resource {0} status is {1},Внимание: статус ресурса {0} — {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Внимание: используется HTTP вместо HTTPS. Данные вебхуков могут быть незащищёнными.
+Watch budget closely,Следите за бюджетом внимательно
+We'll respond to:,Мы ответим на:
+Webhook deleted,Вебхук удалён
+Webhook name is required,Название вебхука обязательно
+Webhook not found,Вебхук не найден
+Webhook URL is required,URL вебхука обязателен
+Webhook URL must start with http:// or https://,URL вебхука должен начинаться с http:// или https://
+Wed,Ср
+Week,Неделя
+Weekend,Выходные
+Weekly Capacity,Нагрузка в неделю
+weekly capacity,нагрузка в неделю
+Weekly Capacity (h),Нагрузка в неделю (ч)
+Welcome,Добро пожаловать
+Welcome back!,С возвращением!
+Welcome to Orga,Добро пожаловать в Orga
+What are you working on?,Над чем вы работаете?
+What did you work on?,Над чем вы работали?
+When,Когда
+When work begins,Когда начинается работа
+When work is due,Когда работа должна быть выполнена
+Where,Где
+Will capture:,Будет сохранено:
+Will create:,Будет создано:
+with checklist items,с пунктами списка
+Working,В работе
+Workload,Нагрузка
+Workmanship,Качество работы
+Write a comment...,Напишите комментарий...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Напишите комментарий... Используйте @имя для упоминания (Ctrl+Enter для отправки)
+Year,Год
+Yes,Да
+Yesterday,Вчера
+yesterday,вчера
+You are not an attendee of this appointment,Вы не являетесь участником этой встречи
+You are not linked to any resource,Вы не привязаны ни к одному ресурсу
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Вы можете удалять только свои комментарии
+You can only delete your own reactions,Вы можете удалять только свои реакции
+You do not have access to the client portal. Please contact support.,У вас нет доступа к клиентскому порталу. Обратитесь в поддержку.
+You have already reacted with '{0}',Вы уже отреагировали «{0}»
+You have been assigned to task '{0}' in project '{1}'.,Вам назначена задача «{0}» в проекте «{1}».
+You have been assigned to: {0},Вам назначено: {0}
+You have been invited to the following appointment,Вы приглашены на следующую встречу
+You have no tasks assigned to you right now.,У вас сейчас нет назначенных задач.
+You were mentioned in {0},Вас упомянули в {0}
+Your attendance,Ваше участие
+Your comment has been posted,Ваш комментарий опубликован
+Your Projects,Ваши проекты
+Your projects will appear here once they're assigned to you.,Ваши проекты появятся здесь
+Your Response,Ваш ответ
+Your RSVP,Ваш RSVP
+Your support request has been submitted successfully.,Ваш запрос в поддержку успешно отправлен.
+Your support request has been submitted successfully. We'll get back to you shortly.,Ваш запрос в поддержку успешно отправлен. Мы свяжемся с вами в ближайшее время.
+"Your task ""{0}"" is no longer blocked and can now be started.",Ваша задача «{0}» больше не заблокирована и может быть начата.
+{0} is required,{0} обязательно
+{0} new activities,{0} новых активностей
+{0} of {1} completed,{0} из {1} завершено
+{0} projects already migrated (will be skipped or updated),{0} проектов уже перенесено (будут пропущены или обновлены)
+{0} status changed to {1},Статус {0} изменён на {1}
+{0} tasks remaining,Осталось {0} задач
+{0} tasks without projects will be skipped,{0} задач без проектов будут пропущены
+{0} {1} not found,{0} {1} не найдено

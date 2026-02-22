@@ -1,0 +1,1492 @@
++ Add Milestone,+ Magdagdag ng Milestone
++ Create Task,+ Gumawa ng Gawain
++ Log Time,+ I-log ang Oras
+-- Select a project --,-- Pumili ng proyekto --
+0m,0m
+1 day,1 araw
+1 day ago,1 araw ang nakalipas
+1 dependency,1 dependency
+1 entry,1 entry
+1 file,1 file
+1 hour ago,1 oras ang nakalipas
+1 member,1 miyembro
+1 milestone,1 milestone
+1 month,1 buwan
+1 task,1 gawain
+< 1m,< 1m
+"A clear, actionable title for the task",Isang malinaw na pamagat para sa gawain
+A client with email {0} already exists: {1},May kliyente na nang may email na {0}: {1}
+A key deliverable or checkpoint for the project,Isang mahalagang output o checkpoint ng proyekto
+Accept,Tanggapin
+Accepted,Tinanggap
+Acknowledge,Kilalanin
+across,sa lahat ng
+Action,Aksyon
+Actions,Mga Aksyon
+Active,Aktibo
+Active Assignments,Mga Aktibong Takda
+Active Projects,Mga Aktibong Proyekto
+Activity,Aktibidad
+Activity data deleted successfully,Matagumpay na nabura ang data ng aktibidad
+Activity Info,Impormasyon ng Aktibidad
+Activity Stats,Mga Istatistika ng Aktibidad
+Activity will appear here as you work on tasks and projects.,Makikita dito ang aktibidad habang nagtatrabaho ka sa mga gawain at proyekto.
+Actual,Aktwal
+Actual Cost,Aktwal na Gastos
+Actual cost cannot be negative,Hindi maaaring negatibo ang aktwal na gastos
+Actual end date cannot be before actual start date,Ang aktwal na petsa ng pagtatapos ay hindi maaaring mauna sa aktwal na petsa ng pagsisimula
+Actual Hours,Aktwal na Oras
+Add,Magdagdag
+Add a checklist item...,Magdagdag ng item sa checklist...
+Add a comment...,Magdagdag ng komento...
+Add a comment... (Ctrl+Enter to send),Magdagdag ng komento... (Ctrl+Enter para ipadala)
+Add a description...,Magdagdag ng paglalarawan...
+Add a milestone description...,Magdagdag ng paglalarawan ng milestone...
+Add a note below to annotate this activity.,Magdagdag ng tala sa ibaba para sa aktibidad na ito.
+Add a note...,Magdagdag ng tala...
+Add a project description...,Magdagdag ng paglalarawan ng proyekto...
+Add a task description...,Magdagdag ng paglalarawan ng gawain...
+Add checklist item...,Magdagdag ng item sa checklist...
+Add Contact,Magdagdag ng Kontak
+Add contacts via the Desk interface or clear filters,Magdagdag ng mga kontak sa pamamagitan ng Desk o burahin ang mga filter
+Add Dependency,Magdagdag ng Dependency
+Add details about this event...,Magdagdag ng detalye tungkol sa event na ito...
+Add details about this milestone...,Magdagdag ng detalye tungkol sa milestone na ito...
+Add details about this task...,Magdagdag ng detalye tungkol sa gawaing ito...
+Add details or acceptance criteria for this milestone,Magdagdag ng detalye o pamantayan para sa milestone na ito
+"Add details, context, or acceptance criteria","Magdagdag ng mga detalye, konteksto, o pamantayan"
+Add first dependency,Magdagdag ng unang dependency
+Add item,Magdagdag ng item
+Add items below to track progress.,Magdagdag ng mga item sa ibaba para subaybayan ang progreso.
+Add items below to track subtasks,Magdagdag ng mga item sa ibaba para subaybayan ang mga sub-gawain
+Add Milestone,Magdagdag ng Milestone
+Add Milestone (Shift+M),Magdagdag ng Milestone (Shift+M)
+Add milestones to track key deliverables.,Magdagdag ng mga milestone para subaybayan ang mga mahahalagang output.
+Add New Contact,Magdagdag ng Bagong Kontak
+Add Note,Magdagdag ng Tala
+Add note,Magdagdag ng tala
+Add notes about this contact...,Magdagdag ng mga tala tungkol sa kontak na ito...
+Add reaction,Magdagdag ng reaksyon
+Add Skill,Magdagdag ng Kasanayan
+Add start and due dates to tasks to see them on the Gantt chart,Magdagdag ng petsa ng simula at deadline sa mga gawain para makita sa Gantt chart
+Add Task,Magdagdag ng Gawain
+Add Task (Shift+T),Magdagdag ng Gawain (Shift+T)
+Added Finish-to-Start dependency,Naidagdag ang Finish-to-Start dependency
+Adding this dependency would create a circular reference: {0},Ang pagdagdag ng dependency na ito ay lilikha ng circular reference: {0}
+Adding...,Idinadagdag...
+Address,Adres
+Advanced,Advanced
+All,Lahat
+All Active,Lahat ng Aktibo
+All Assignees,Lahat ng Nakatalaga
+All Categories,Lahat ng Kategorya
+All caught up!,Wala nang bago!
+All Contexts,Lahat ng Konteksto
+All day,Buong araw
+All day event,Buong araw na event
+All fields,Lahat ng field
+All Priorities,Lahat ng Priyoridad
+All Projects,Lahat ng Proyekto
+All Status,Lahat ng Status
+All Statuses,Lahat ng Status
+All task dependencies & relative dates,Lahat ng task dependency at relative na petsa
+All Tasks,Lahat ng Gawain
+All tasks across all projects.,Lahat ng gawain sa lahat ng proyekto.
+All tasks are already linked,Lahat ng gawain ay naka-link na
+All team members,Lahat ng miyembro ng team
+All Types,Lahat ng Uri
+All Users,Lahat ng User
+Allocated,Inilaan
+allocated,inilaan
+Allow users to log time against tasks,Payagan ang mga user na mag-log ng oras sa mga gawain
+Already exported to timesheet {0},Na-export na sa timesheet {0}
+Already Migrated,Na-migrate na
+Anyone with access,Sinumang may access
+anytime to show this help,anumang oras para ipakita ang tulong na ito
+App Updates,App Updates
+Appearance,Hitsura
+Apply,Ilapat
+Apply cascade?,Ilapat ang cascade?
+Apply Changes,Ilapat ang mga Pagbabago
+Apply failed,Nabigo ang paglalapat
+Apply Template,Ilapat ang Template
+Applying...,Inilalapat...
+Appointment,Appointment
+Appointment and resource are required,Kinakailangan ang appointment at resource
+Appointment name is required,Kinakailangan ang pangalan ng appointment
+Appointment not found,Hindi nahanap ang appointment
+Appointment {0} not found,Hindi nahanap ang appointment {0}
+Apps,Mga App
+Archive,I-archive
+Archive Activity,I-archive ang Aktibidad
+Archived,Naka-archive
+Are you sure you want to delete this activity data? This cannot be undone.,Sigurado ka bang gusto mong burahin ang data ng aktibidad na ito? Hindi na ito maibabalik.
+Are you sure you want to delete this comment?,Sigurado ka bang gusto mong burahin ang komentong ito?
+Are you sure you want to delete this project?,Sigurado ka bang gusto mong burahin ang proyektong ito?
+Are you sure?,Sigurado ka ba?
+Ascending -- click to reverse,Pataas -- i-click para baligtarin
+Assign To,Italaga Sa
+Assign to Me,Italaga sa Akin
+Assigned Contact,Nakatalagang Kontak
+Assigned To,Nakatalaga Sa
+Assigned to,Nakatalaga sa
+Assigned to Me,Nakatalaga sa Akin
+Assignee,Nakatalaga
+Assignment,Takda
+Assignment History,Kasaysayan ng Takda
+Assignment name is required,Kinakailangan ang pangalan ng takda
+Assignment {0} not found,Hindi nahanap ang takda {0}
+Assignments,Mga Takda
+At least one action is required,Kailangan ng kahit isang aksyon
+At least one event is required,Kailangan ng kahit isang event
+At least one event must be selected,Kailangan pumili ng kahit isang event
+Attachment,Attachment
+Attachments,Mga Attachment
+Attendees,Mga Dadalo
+"Audit trail, assignments, version history","Audit trail, mga takda, kasaysayan ng bersyon"
+Auto,Awtomatiko
+Auto Calculate Progress,Awtomatikong Kalkulahin ang Progreso
+Auto Set Missed Milestones,Awtomatikong Markahan ang Napalampas na Milestone
+Auto-shift dependents when dates change,Awtomatikong iusad ang mga dependent kapag nagbago ang mga petsa
+Auto-Trail Start,Awtomatikong Pag-usad ng Simula
+Auto-Trail updated,Na-update ang awtomatikong pag-usad
+Automatically calculate project progress from task completion,Awtomatikong kalkulahin ang progreso ng proyekto mula sa natapos na mga gawain
+Automatically mark milestones as missed when overdue,Awtomatikong markahan ang mga milestone bilang napalampas kapag lampas na sa deadline
+Automation rule {0} not found,Hindi nahanap ang automation rule {0}
+Automation: {0},Automation: {0}
+Availability,Availability
+Available,Available
+Avatar updated successfully,Matagumpay na na-update ang avatar
+Avg Progress,Average na Progreso
+Back,Bumalik
+Back to Portal,Bumalik sa Portal
+Back to Projects,Bumalik sa mga Proyekto
+Beginner,Baguhan
+Best regards,Nangangamusta
+Billable,Masisingil
+Billable Amount,Masisingil na Halaga
+Billable Hours,Masisingil na Oras
+Billable Rate,Rate ng Singil
+Billing Rate,Rate ng Pagsingil
+Blocked,Naka-block
+Both dates are needed to display task as a bar in Gantt chart,Kailangan ang parehong petsa para ipakita ang gawain bilang bar sa Gantt chart
+Both doctype and docname are required,Kailangan pareho ang doctype at docname
+Both proposed start and end times are required,Kailangan pareho ang iminungkahing oras ng simula at pagtatapos
+Both task_name and depends_on are required,Kailangan pareho ang task_name at depends_on
+Breadcrumb,Breadcrumb
+Brief description of the defect or damage,Maikling paglalarawan ng depekto o pinsala
+Brief description of this template,Maikling paglalarawan ng template na ito
+Brief description of your request,Maikling paglalarawan ng iyong kahilingan
+Brief project description,Maikling paglalarawan ng proyekto
+Budget,Badyet
+Budget at risk,Badyet sa panganib
+Budget Burn Rate,Bilis ng Paggastos ng Badyet
+Budget Status,Status ng Badyet
+Budget updated,Na-update ang badyet
+Budget:,Badyet:
+Bug,Bug
+Burn Rate,Bilis ng Paggastos
+Busy,Abala
+By,Ni
+By Assignee,Ayon sa Nakatalaga
+By Group,Ayon sa Grupo
+By Milestone,Ayon sa Milestone
+By Priority,Ayon sa Priyoridad
+By Status,Ayon sa Status
+Cancel,Kanselahin
+Cancelled,Kinansela
+cannot be undone,hindi na maibabalik
+Cannot delete client with {0} linked projects. Unlink projects first.,Hindi mabubura ang kliyente na may {0} naka-link na proyekto. I-unlink muna ang mga proyekto.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Hindi mabubura ang proyekto na may {0} naka-link na gawain. Burahin muna ang mga gawain.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Hindi mabubura ang resource na may {0} aktibong takda. Tapusin o kanselahin muna ang mga ito.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Hindi mabubura ang gawain na may {0} sub-gawain. Burahin muna ang mga sub-gawain.
+Capacity,Kapasidad
+capacity,kapasidad
+Capacity & Rates,Kapasidad at mga Rate
+Capture project structure for reuse,I-save ang istruktura ng proyekto para magamit ulit
+Cascade,Cascade
+Cascade Preview,Preview ng Cascade
+Category,Kategorya
+Celebrate,Ipagdiwang
+Change,Baguhin
+Change History,Kasaysayan ng mga Pagbabago
+Change Priority,Baguhin ang Priyoridad
+Change Status,Baguhin ang Status
+Changes,Mga Pagbabago
+Changes appear when fields are modified.,Lalabas ang mga pagbabago kapag binago ang mga field.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Checklist
+Checklist item name is required,Kinakailangan ang pangalan ng checklist item
+Checklist item not found,Hindi nahanap ang checklist item
+Checklist item title is required,Kinakailangan ang pamagat ng checklist item
+Checklist item {0} not found,Hindi nahanap ang checklist item {0}
+Checklist item {0} not found in task,Hindi nahanap ang checklist item {0} sa gawain
+Child,Anak
+Choose file to upload,Pumili ng file na ia-upload
+Circular dependency detected: {0},Nakita ang circular dependency: {0}
+Circular parent-child relationship detected,Nakita ang circular na relasyon ng magulang-anak
+Clear,Burahin
+Clear all read,Burahin lahat ng nabasa
+Clear date,Burahin ang petsa
+Click on an activity from the list to view and manage its details.,I-click ang isang aktibidad mula sa listahan para tingnan at pamahalaan ang mga detalye nito.
+Click the avatar to upload a new photo,I-click ang avatar para mag-upload ng bagong larawan
+Click to add description...,I-click para magdagdag ng paglalarawan...
+Click to add notes...,I-click para magdagdag ng mga tala...
+Click to assign contact,I-click para magtalaga ng kontak
+Click to change status,I-click para baguhin ang status
+Click to change type,I-click para baguhin ang uri
+Click to edit,I-click para i-edit
+Click to edit budget,I-click para i-edit ang badyet
+Click to edit description,I-click para i-edit ang paglalarawan
+Click to edit end date,I-click para i-edit ang petsa ng pagtatapos
+Click to edit milestone name,I-click para i-edit ang pangalan ng milestone
+Click to edit rate,I-click para i-edit ang rate
+Click to edit start date,I-click para i-edit ang petsa ng simula
+Click to edit title,I-click para i-edit ang pamagat
+Click to load,I-click para i-load
+Click to set group dependency...,I-click para itakda ang group dependency...
+Click to set group...,I-click para itakda ang grupo...
+Click to view,I-click para tingnan
+Click to view at-risk projects,I-click para tingnan ang mga proyektong nasa panganib
+Click to view critical projects,I-click para tingnan ang mga kritikal na proyekto
+Click to view healthy projects,I-click para tingnan ang mga malusog na proyekto
+Client,Kliyente
+Client already has a portal user: {0},May portal user na ang kliyente: {0}
+Client already has portal access,May portal access na ang kliyente
+Client has no portal user to revoke,Walang portal user ang kliyente na maaaring bawiin
+Client link removed from project {0},Natanggal ang link ng kliyente mula sa proyekto {0}
+Client Portal,Portal ng Kliyente
+Client {0} deleted successfully,Matagumpay na nabura ang kliyente {0}
+Close,Isara
+Close (Esc),Isara (Esc)
+Comment,Komento
+comment,komento
+Comment added,Naidagdag ang komento
+Comment content is required,Kinakailangan ang nilalaman ng komento
+Comment name is required,Kinakailangan ang pangalan ng komento
+Comment not found,Hindi nahanap ang komento
+Comment removed,Natanggal ang komento
+Comment {0} not found in task,Hindi nahanap ang komento {0} sa gawain
+Comments,Mga Komento
+comments,mga komento
+Community Edition,Community Edition
+Company,Kumpanya
+Company name...,Pangalan ng kumpanya...
+Complete,Tapusin
+Completed,Tapos na
+completed,tapos na
+Completed Tasks,Mga Natapos na Gawain
+Compliance,Pagsunod
+Configure default values for new projects and tasks,I-configure ang mga default na halaga para sa bagong proyekto at gawain
+Configure email notification settings,I-configure ang mga setting ng email notification
+Confirm,Kumpirmahin
+Contact deleted,Nabura ang kontak
+Contact Details,Mga Detalye ng Kontak
+Contact Information,Impormasyon ng Kontak
+Contact name is required,Kinakailangan ang pangalan ng kontak
+Contact Support,Makipag-ugnayan sa Support
+Contact your project manager for more information.,Makipag-ugnayan sa iyong project manager para sa karagdagang impormasyon.
+Contact:,Kontak:
+Contacts,Mga Kontak
+Context,Konteksto
+Contractor,Kontratista
+Cost estimate cannot be negative,Hindi maaaring negatibo ang tinatayang gastos
+Cost Impact,Epekto sa Gastos
+Cost Summary,Buod ng Gastos
+Could not apply the template. Please try again.,Hindi mailapat ang template. Pakisubukan ulit.
+Could not attach file to project,Hindi maikabit ang file sa proyekto
+Could not change task priority,Hindi mabago ang priyoridad ng gawain
+Could not change task status,Hindi mabago ang status ng gawain
+Could not delete the project. Please try again.,Hindi mabura ang proyekto. Pakisubukan ulit.
+Could not delete the task. Please try again.,Hindi mabura ang gawain. Pakisubukan ulit.
+Could not delete the template.,Hindi mabura ang template.
+Could not duplicate the task. Please try again.,Hindi ma-duplicate ang gawain. Pakisubukan ulit.
+Could not export the template.,Hindi ma-export ang template.
+Could not import the template. Please check the file format.,Hindi ma-import ang template. Pakitingnan ang format ng file.
+Could not link task to milestone,Hindi ma-link ang gawain sa milestone
+Could not load document details.,Hindi ma-load ang mga detalye ng dokumento.
+Could not load task details,Hindi ma-load ang mga detalye ng gawain
+Could not promote checklist item to task.,Hindi mapromote ang checklist item sa gawain.
+Could not remove task from milestone,Hindi matanggal ang gawain mula sa milestone
+Could not save budget.,Hindi ma-save ang badyet.
+Could not save changes to the milestone,Hindi ma-save ang mga pagbabago sa milestone
+Could not save changes to the task,Hindi ma-save ang mga pagbabago sa gawain
+Could not save description.,Hindi ma-save ang paglalarawan.
+Could not save end date.,Hindi ma-save ang petsa ng pagtatapos.
+Could not save milestone name.,Hindi ma-save ang pangalan ng milestone.
+Could not save start date.,Hindi ma-save ang petsa ng simula.
+Could not save the template. Please try again.,Hindi ma-save ang template. Pakisubukan ulit.
+Could not save title.,Hindi ma-save ang pamagat.
+Could not update dependency mode.,Hindi ma-update ang dependency mode.
+Could not update milestone date,Hindi ma-update ang petsa ng milestone
+Could not update project status.,Hindi ma-update ang status ng proyekto.
+Could not update project type.,Hindi ma-update ang uri ng proyekto.
+Could not update setting.,Hindi ma-update ang setting.
+Could not update task dates,Hindi ma-update ang mga petsa ng gawain
+Could not update task status,Hindi ma-update ang status ng gawain
+Could not update the template.,Hindi ma-update ang template.
+Create a copy of this task,Gumawa ng kopya ng gawaing ito
+Create Contact,Gumawa ng Kontak
+Create Event,Gumawa ng Event
+Create Milestone,Gumawa ng Milestone
+Create New Milestone,Gumawa ng Bagong Milestone
+Create New Task,Gumawa ng Bagong Gawain
+Create Project,Gumawa ng Proyekto
+Create Task,Gumawa ng Gawain
+Create tasks and milestones from a template,Gumawa ng mga gawain at milestone mula sa isang template
+Create your first project to get started.,Gumawa ng iyong unang proyekto para magsimula.
+Create your first task to start tracking work on this project.,Gumawa ng iyong unang gawain para magsimulang subaybayan ang trabaho sa proyektong ito.
+Created,Ginawa
+Creating...,Ginagawa...
+Critical,Kritikal
+Critical Path,Critical Path
+"Currency used for budgets, costs, and billing rates","Pera na ginagamit para sa badyet, gastos, at rate ng pagsingil"
+Current,Kasalukuyan
+Current Assignments,Kasalukuyang mga Takda
+Current scheduled time:,Kasalukuyang nakatakdang oras:
+Currently running version,Currently running version
+d lag,d na pagkaantala
+Daily Availability,Araw-araw na Availability
+Daily Hours,Araw-araw na Oras
+Danger Zone,Danger Zone
+Dark,Madilim
+Dashboard,Dashboard
+Date,Petsa
+Date changes on this task will show cascade impact here,Ang mga pagbabago ng petsa sa gawaing ito ay magpapakita ng cascade impact dito
+Date cleared,Nabura ang petsa
+Date of Joining,Petsa ng Pagsali
+Date updated,Na-update ang petsa
+Dates,Mga Petsa
+Dates cascaded,Na-cascade ang mga petsa
+Dates will be relative to the project's start date.,Ang mga petsa ay magiging relatibo sa petsa ng simula ng proyekto.
+Day,Araw
+day,araw
+days,mga araw
+Days before due date to send reminder,Mga araw bago ang deadline para magpadala ng paalala
+Days Overdue,Mga Araw na Lampas sa Deadline
+Days Remaining,Mga Natitirang Araw
+Deadline,Deadline
+Deadlines,Mga Deadline
+Decision,Desisyon
+Decline,Tanggihan
+Declined,Tinanggihan
+Default Currency,Default na Pera
+Default hours per week for contact capacity planning,Default na oras bawat linggo para sa pagplano ng kapasidad ng kontak
+Default Priority,Default na Priyoridad
+Default Project Status,Default na Status ng Proyekto
+Default Task Status,Default na Status ng Gawain
+Default task view,Default na view ng gawain
+Default Values,Mga Default na Halaga
+Default Weekly Capacity,Default na Lingguhang Kapasidad
+Defaults,Mga Default
+Defect Cost Impact,Epekto ng Gastos ng Depekto
+Defect name is required,Kinakailangan ang pangalan ng depekto
+Defect Type,Uri ng Depekto
+Defect {0} not found,Hindi nahanap ang depekto {0}
+Defects,Mga Depekto
+Defects & Issues,Mga Depekto at Isyu
+Defects Resolved,Mga Naayos na Depekto
+Delayed,Naaantala
+Delete,Burahin
+Delete Activity Data,Burahin ang Data ng Aktibidad
+Delete all read notifications?,Burahin lahat ng nabasa na notification?
+Delete comment,Burahin ang komento
+Delete Contact,Burahin ang Kontak
+Delete Event,Burahin ang Event
+Delete Event?,Burahin ang Event?
+Delete failed,Nabigo ang pagbura
+Delete file,Burahin ang file
+Delete item,Burahin ang item
+Delete note,Burahin ang tala
+Delete Project,Burahin ang Proyekto
+Delete Task,Burahin ang Gawain
+Delete this project,Burahin ang proyektong ito
+Deleted,Nabura
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Nabura ang proyektong ""{0}"" ({1} gawain, {2} milestone)"
+Deletes notes and preferences. Source document is not affected.,Buburahin ang mga tala at preference. Hindi maaapektuhan ang source document.
+Deleting...,Binubura...
+Department,Departamento
+Dependencies,Mga Dependency
+dependencies,mga dependency
+Dependencies are informational only,Ang mga dependency ay para sa impormasyon lamang
+dependency,dependency
+Dependency already exists,Umiiral na ang dependency
+Dependency Chain,Dependency Chain
+Dependency created,Nagawa ang dependency
+Dependency mode updated,Na-update ang dependency mode
+Dependency name is required,Kinakailangan ang pangalan ng dependency
+Dependency task {0} not found,Hindi nahanap ang dependency task {0}
+Dependency {0} not found,Hindi nahanap ang dependency {0}
+depends,nakadepende
+Depends on Group,Nakadepende sa Grupo
+Depends on task is required,Kinakailangan ang dependency task
+depends on...,nakadepende sa...
+Descending -- click to reverse,Pababa -- i-click para baligtarin
+Describe the defect in detail...,Ilarawan ang depekto nang detalyado...
+Description,Paglalarawan
+Description updated,Na-update ang paglalarawan
+Designation,Tungkulin
+"Detailed description of the defect, location, and impact","Detalyadong paglalarawan ng depekto, lokasyon, at epekto"
+Details,Mga Detalye
+Discard timer,Itapon ang timer
+Discussion,Diskusyon
+Dismiss,Dismiss
+Display,Display
+Document,Dokumento
+Document attached to project,Naikabit ang dokumento sa proyekto
+Document final decision and rationale,Idokumento ang huling desisyon at dahilan
+Documentation Review,Pagsusuri ng Dokumentasyon
+Documents,Mga Dokumento
+Done,Tapos na
+Download,I-download
+Drag to create dependency,I-drag para gumawa ng dependency
+Dry Run,Dry Run
+Dry Run Complete,Tapos na ang Dry Run
+Due Date,Deadline
+Due date,Deadline
+Due Date (Earliest),Deadline (Pinakamaagang)
+Due date cannot be before start date,Ang deadline ay hindi maaaring mauna sa petsa ng simula
+Due date is in the past,Ang deadline ay nakaraan na
+Due Date Reminders,Mga Paalala ng Deadline
+Due Diligence,Due Diligence
+Due Diligence Checklist,Due Diligence Checklist
+Due This Week,Deadline Ngayong Linggo
+Due:,Deadline:
+Duplicate events are not allowed,Hindi pinapayagan ang mga duplicate na event
+Duplicate failed,Nabigo ang pag-duplicate
+Duplicate Task,I-duplicate ang Gawain
+Duration,Tagal
+Duration Summary,Buod ng Tagal
+Duration:,Tagal:
+e.g. Cracked wall finish in bathroom...,hal.: Bitak sa dingding ng banyo...
+"e.g. Electrical, Plumbing...","hal.: Elektrikal, Tubero..."
+Edit,I-edit
+Edit (E),I-edit (E)
+Edit dependency,I-edit ang dependency
+Edit Event,I-edit ang Event
+Efficiency,Kahusayan
+Either dependency_name or depends_on is required,Kailangan ang dependency_name o depends_on
+Email,Email
+Email invitations to all attendees,Mga email invitation sa lahat ng dadalo
+Email is required to create portal user,Kinakailangan ang email para gumawa ng portal user
+Email notifications,Mga email notification
+Employee,Empleyado
+Employee DocType not available,Hindi available ang Employee DocType
+Employee not found,Hindi nahanap ang empleyado
+Enable or disable optional features,I-enable o i-disable ang mga opsyonal na feature
+Enable Time Tracking,I-enable ang Pagsubaybay ng Oras
+End,Pagtatapos
+End Date,Petsa ng Pagtatapos
+End date,Petsa ng pagtatapos
+End Date cannot be before Start Date,Ang petsa ng pagtatapos ay hindi maaaring mauna sa petsa ng simula
+End date cannot be before start date,Ang petsa ng pagtatapos ay hindi maaaring mauna sa petsa ng simula
+End date updated,Na-update ang petsa ng pagtatapos
+End time was before start time. Adjusted to 1 hour after start.,Ang oras ng pagtatapos ay nauna sa oras ng simula. Inayos sa 1 oras pagkatapos ng simula.
+End:,Pagtatapos:
+Enter milestone name...,Ilagay ang pangalan ng milestone...
+Enter project name,Ilagay ang pangalan ng proyekto
+Enter task title...,Ilagay ang pamagat ng gawain...
+Enter template name,Ilagay ang pangalan ng template
+Enter your note... Use @name to mention someone,Ilagay ang iyong tala... Gamitin ang @pangalan para banggitin ang isang tao
+Error,Error
+Error loading activity,Error sa pag-load ng aktibidad
+Error loading contacts,Error sa pag-load ng mga kontak
+Error loading dashboard,Error sa pag-load ng dashboard
+Error loading project,Error sa pag-load ng proyekto
+Error loading projects,Error sa pag-load ng mga proyekto
+Error loading settings,Error sa pag-load ng mga setting
+Error loading tasks,Error sa pag-load ng mga gawain
+Error loading templates,Error sa pag-load ng mga template
+Est. Hours,Tinatayang Oras
+Estimated,Tinataya
+Estimated Cost,Tinatayang Gastos
+Estimated Cost (€),Tinatayang Gastos (€)
+Estimated Hours,Tinatayang Oras
+Estimated:,Tinataya:
+Evaluate potential risks and concerns,Suriin ang mga potensyal na panganib at alalahanin
+Event,Event
+Event is required for event context,Kinakailangan ang event para sa event context
+Event is required when tracking context is 'event',Kinakailangan ang event kapag ang tracking context ay 'event'
+Event Type,Uri ng Event
+Events,Mga Event
+Events not available. Please run: bench --site orga.localhost migrate,Hindi available ang mga event. Pakipatakbo: bench --site orga.localhost migrate
+Events:,Mga Event:
+Expert,Eksperto
+Explain why you are proposing a different time...,Ipaliwanag kung bakit ka nagmumungkahi ng ibang oras...
+Export,I-export
+Export failed,Nabigo ang pag-export
+Export JSON,I-export bilang JSON
+Exported,Na-export
+Exported to timesheet {0},Na-export sa timesheet {0}
+External,Panlabas
+Failed to add item,Nabigo ang pagdagdag ng item
+Failed to add note,Nabigo ang pagdagdag ng tala
+Failed to add skill,Nabigo ang pagdagdag ng kasanayan
+Failed to apply cascade changes: {0},Nabigo ang paglalapat ng cascade na pagbabago: {0}
+Failed to create defect,Nabigo ang paggawa ng depekto
+Failed to create dependency,Nabigo ang paggawa ng dependency
+Failed to create event,Nabigo ang paggawa ng event
+Failed to create milestone,Nabigo ang paggawa ng milestone
+Failed to create project,Nabigo ang paggawa ng proyekto
+Failed to create task,Nabigo ang paggawa ng gawain
+Failed to create time log,Nabigo ang paggawa ng time log
+Failed to delete,Nabigo ang pagbura
+Failed to delete comment,Nabigo ang pagbura ng komento
+Failed to delete contact,Nabigo ang pagbura ng kontak
+Failed to load,Nabigo ang pag-load
+Failed to load activity,Nabigo ang pag-load ng aktibidad
+Failed to load assignments,Nabigo ang pag-load ng mga takda
+Failed to load contact,Nabigo ang pag-load ng kontak
+Failed to load dashboard data,Nabigo ang pag-load ng data ng dashboard
+Failed to load defects,Nabigo ang pag-load ng mga depekto
+Failed to load events,Nabigo ang pag-load ng mga event
+Failed to load project,Nabigo ang pag-load ng proyekto
+Failed to load projects,Nabigo ang pag-load ng mga proyekto
+Failed to load report data,Nabigo ang pag-load ng data ng report
+Failed to load settings,Nabigo ang pag-load ng mga setting
+Failed to load tasks,Nabigo ang pag-load ng mga gawain
+Failed to move task,Nabigo ang paglipat ng gawain
+Failed to post comment,Nabigo ang pag-post ng komento
+Failed to propose new time,Nabigo ang pagmungkahi ng bagong oras
+Failed to remove item,Nabigo ang pagtanggal ng item
+Failed to remove skill,Nabigo ang pagtanggal ng kasanayan
+Failed to reorder milestones: {0},Nabigo ang pag-aayos ng mga milestone: {0}
+Failed to reorder tasks: {0},Nabigo ang pag-aayos ng mga gawain: {0}
+Failed to reschedule dependent tasks: {0},Nabigo ang pag-reschedule ng mga dependent na gawain: {0}
+Failed to save,Nabigo ang pag-save
+Failed to save preferences,Nabigo ang pag-save ng mga preference
+Failed to save settings,Nabigo ang pag-save ng mga setting
+Failed to submit request. Please try again.,Nabigo ang pag-submit ng kahilingan. Pakisubukan ulit.
+Failed to update item,Nabigo ang pag-update ng item
+Failed to update priority,Nabigo ang pag-update ng priyoridad
+Failed to update task,Nabigo ang pag-update ng gawain
+Failed to update tasks: {0},Nabigo ang pag-update ng mga gawain: {0}
+Failed to upload avatar,Nabigo ang pag-upload ng avatar
+Feature,Feature
+Features,Mga Feature
+FF (Finish-Finish),FF (Finish-Finish)
+FF - Finish-to-Finish,FF - Finish-to-Finish
+Field has been updated,Na-update na ang field
+Field name is required for 'Set Field Value' action,Kinakailangan ang pangalan ng field para sa aksyong 'Set Field Value'
+Field {0} is not a Link field,Ang field {0} ay hindi isang Link field
+Field {0} not found in {1},Hindi nahanap ang field {0} sa {1}
+File,File
+file,file
+File does not belong to this task,Hindi kabilang ang file sa gawaing ito
+File name is required,Kinakailangan ang pangalan ng file
+File uploaded,Na-upload ang file
+File {0} not found,Hindi nahanap ang file {0}
+Files,Mga File
+files,mga file
+Filter,I-filter
+Final Decision,Huling Desisyon
+Finance,Pananalapi
+Financial,Pinansyal
+Finish-to-Finish,Finish-to-Finish
+Finish-to-Start,Finish-to-Start
+Flag,I-flag
+Flag for attention,I-flag para sa pansin
+Flagged,Naka-flag
+Focus Panel,Focus Panel
+Follows your system preference. Currently:,Sumusunod sa iyong system preference. Kasalukuyan:
+Frappe Project {0} not found,Hindi nahanap ang Frappe Project {0}
+Frappe Projects Migration,Frappe Projects Migration
+Frappe Projects module not available,Hindi available ang Frappe Projects module
+Frappe Projects module not installed,Hindi naka-install ang Frappe Projects module
+Frappe Projects sync is not enabled,Hindi naka-enable ang Frappe Projects sync
+Frappe Task DocType not found,Hindi nahanap ang Frappe Task DocType
+Frappe Task has no project,Walang proyekto ang Frappe Task
+Frappe Task {0} not found,Hindi nahanap ang Frappe Task {0}
+Fri,Biy
+From,Mula
+From Template,Mula sa Template
+FS (Finish-Start),FS (Finish-Start)
+FS - Finish-to-Start (default),FS - Finish-to-Start (default)
+Full form view with audit trail,Buong form view na may audit trail
+Full name,Buong pangalan
+Gantt,Gantt
+Gantt Chart,Gantt Chart
+Gantt View,Gantt View
+General Note,Pangkalahatang Tala
+Get started,Magsimula
+Go back,Bumalik
+Go Back,Go Back
+Group by,I-group ayon sa
+Group dependency removed,Natanggal ang group dependency
+Group dependency set,Naitakda ang group dependency
+Group removed,Natanggal ang grupo
+Group updated,Na-update ang grupo
+Hammock task dates are auto-calculated and cannot be changed manually,Ang mga petsa ng hammock task ay awtomatikong kinakalkula at hindi maaaring baguhin nang manu-mano
+Have a question or need assistance? Fill out the form below and our team will get back to you.,May tanong o kailangan ng tulong? Punan ang form sa ibaba at babalikan ka ng aming team.
+Health,Kalusugan
+Healthy,Malusog
+Hello {0},Kumusta {0}
+Here's what's happening with your projects today.,Narito ang nangyayari sa iyong mga proyekto ngayon.
+Hide,Itago
+High,Mataas
+History,Kasaysayan
+Home,Home
+Hourly Cost,Gastos bawat Oras
+Hours,Oras
+hours,oras
+Hours Logged,Oras na Nai-log
+ID,ID
+Image must be smaller than 5 MB,Ang imahe ay dapat mas maliit sa 5 MB
+Import,I-import
+Import existing projects and tasks from Frappe Projects module,I-import ang mga umiiral na proyekto at gawain mula sa Frappe Projects module
+Import failed,Nabigo ang pag-import
+Import Template,I-import ang Template
+Imported,Na-import
+in,sa
+In Progress,Isinasagawa
+In Review,Sinusuri
+In-app notifications,Mga notification sa loob ng app
+Inactive,Hindi aktibo
+Initial Review,Unang Pagsusuri
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Hindi sapat ang pahintulot para tingnan ang lahat ng gawain
+Intermediate,Katamtaman
+Internal,Panloob
+Invalid DocType,Hindi valid na DocType
+Invalid DocType for import,Hindi valid na DocType para sa pag-import
+Invalid item type: {0},Hindi valid na uri ng item: {0}
+Invalid JSON data,Hindi valid na JSON data
+Invalid note type. Must be one of: {0},Hindi valid na uri ng tala. Dapat isa sa mga: {0}
+Invalid project reference,Hindi valid na reference ng proyekto
+Invalid reaction type. Must be one of: {0},Hindi valid na uri ng reaksyon. Dapat isa sa mga: {0}
+Invalid RSVP status,Hindi valid na RSVP status
+Invalid status. Must be one of: {0},Hindi valid na status. Dapat isa sa mga: {0}
+Invalid status: {0},Hindi valid na status: {0}
+Invalid status: {0}. Must be one of: {1},Hindi valid na status: {0}. Dapat isa sa mga: {1}
+Invalid tracking context: {0},Hindi valid na tracking context: {0}
+Invalid visibility. Must be one of: {0},Hindi valid na visibility. Dapat isa sa mga: {0}
+Invitation: {0} - {1} at {2},Imbitasyon: {0} - {1} sa {2}
+Invite People,Mag-imbita ng mga Tao
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Naidagdag ang item
+Item ID is required,Kinakailangan ang Item ID
+Item removed,Natanggal ang item
+Item type is required,Kinakailangan ang uri ng item
+Item {0} not found,Hindi nahanap ang item {0}
+Job title or role,Titulo ng trabaho o tungkulin
+Join Meeting,Sumali sa Meeting
+Just now,Ngayon lang
+just now,ngayon lang
+Kanban,Kanban
+Kanban Board,Kanban Board
+Kanban View,Kanban View
+Keyboard Shortcuts,Mga Shortcut sa Keyboard
+Keyboard shortcuts (?),Mga shortcut sa keyboard (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Huling Na-update
+Last updated:,Huling na-update:
+Last Week,Nakaraang Linggo
+Latest Version,Latest Version
+Light,Maliwanag
+Link failed,Nabigo ang pag-link
+Link Task,I-link ang Gawain
+Linked,Naka-link
+Linked employee not found,Hindi nahanap ang naka-link na empleyado
+Linked Tasks,Mga Naka-link na Gawain
+List,Listahan
+List View,List View
+Load failed,Nabigo ang pag-load
+Load More,Mag-load pa
+Load more comments,Mag-load pa ng mga komento
+Loading activity...,Nilo-load ang aktibidad...
+Loading changes...,Nilo-load ang mga pagbabago...
+Loading checklist...,Nilo-load ang checklist...
+Loading comments...,Nilo-load ang mga komento...
+Loading contact...,Nilo-load ang kontak...
+Loading contacts...,Nilo-load ang mga kontak...
+Loading dependencies...,Nilo-load ang mga dependency...
+Loading details...,Nilo-load ang mga detalye...
+Loading discussion...,Nilo-load ang diskusyon...
+Loading events...,Nilo-load ang mga event...
+Loading files...,Nilo-load ang mga file...
+Loading notes...,Nilo-load ang mga tala...
+Loading preferences...,Nilo-load ang mga preference...
+Loading project...,Nilo-load ang proyekto...
+Loading projects...,Nilo-load ang mga proyekto...
+Loading replies...,Nilo-load ang mga tugon...
+Loading report data...,Nilo-load ang data ng report...
+Loading settings...,Nilo-load ang mga setting...
+Loading task...,Nilo-load ang gawain...
+Loading templates...,Nilo-load ang mga template...
+Loading time logs...,Nilo-load ang mga time log...
+Loading your portal...,Nilo-load ang iyong portal...
+Loading...,Nilo-load...
+Location,Lokasyon
+Log Time,I-log ang Oras
+Logout,Mag-logout
+Low,Mababa
+Make Offer,Gumawa ng Alok
+Manager,Manager
+Manual Entry,Manu-manong Paglagay
+Margin,Margin
+Mark all as read,Markahan lahat bilang nabasa
+Mark all read,Markahan lahat bilang nabasa
+Mark as read,Markahan bilang nabasa
+Mark as unread,Markahan bilang hindi nabasa
+Mark read,Markahan bilang nabasa
+Marking...,Minamarkahan...
+Material,Materyales
+Maybe,Siguro
+Medium,Katamtaman
+Meeting,Meeting
+Meeting Link,Link ng Meeting
+Meeting title,Titulo ng meeting
+Meeting URL,URL ng Meeting
+Meetings,Mga Meeting
+Mention,Banggitin
+Message,Mensahe
+Message is required,Kinakailangan ang mensahe
+Message is required for '{0}' action,Kinakailangan ang mensahe para sa aksyong '{0}'
+Migrate,I-migrate
+Migration Complete,Tapos na ang Migration
+Migration ID:,Migration ID:
+Migration log not found: {0},Hindi nahanap ang migration log: {0}
+Milestone,Milestone
+milestone,milestone
+Milestone created,Nagawa ang milestone
+Milestone description has been saved.,Na-save na ang paglalarawan ng milestone.
+Milestone ID is required,Kinakailangan ang Milestone ID
+Milestone marked as Missed (past due date),Milestone na minarkahan bilang Napalampas (lampas na sa deadline)
+Milestone moved,Nailipat ang milestone
+Milestone Name,Pangalan ng Milestone
+Milestone name has been saved.,Na-save na ang pangalan ng milestone.
+Milestone name is required,Kinakailangan ang pangalan ng milestone
+Milestone updated,Na-update ang milestone
+Milestone {0} not found,Hindi nahanap ang milestone {0}
+Milestone {0} not in project {1},Hindi nasa proyekto {1} ang milestone {0}
+Milestones,Mga Milestone
+milestones,mga milestone
+Milestones:,Mga Milestone:
+Minutes,Minuto
+Missed,Napalampas
+Mixed,Halo-halo
+Mobile,Mobile
+Moderate,Katamtaman
+Modified,Binago
+"Modify details, time, or attendees","Baguhin ang mga detalye, oras, o mga dadalo"
+Mon,Lun
+Month,Buwan
+Move failed,Nabigo ang paglipat
+Must be a positive number,Dapat ay positibong numero
+Must finish before this finishes,Dapat matapos bago matapos ito
+Must finish before this starts,Dapat matapos bago magsimula ito
+Must start before this finishes,Dapat magsimula bago matapos ito
+Must start before this starts,Dapat magsimula bago magsimula ito
+My Assignments,Mga Takda Ko
+My Projects,Mga Proyekto Ko
+My Schedule,Iskedyul Ko
+My Tasks,Mga Gawain Ko
+N/A,N/A
+Name,Pangalan
+Name (A-Z),Pangalan (A-Z)
+Name (Z-A),Pangalan (Z-A)
+Name cannot exceed 255 characters,Hindi maaaring lumampas sa 255 karakter ang pangalan
+Need help?,Kailangan ng tulong?
+Needs Attention,Nangangailangan ng Pansin
+Never,Never
+new activities,mga bagong aktibidad
+New Activity,Bagong Aktibidad
+New activity,Bagong aktibidad
+New Event,Bagong Event
+New index is required,Kinakailangan ang bagong index
+New Project,Bagong Proyekto
+New tasks will auto-trail by default.,Ang mga bagong gawain ay awtomatikong umusad bilang default.
+Newest First,Pinakabago Muna
+Next,Susunod
+Next 14 days,Susunod na 14 araw
+Next 30 days,Susunod na 30 araw
+Next 60 days,Susunod na 60 araw
+Next 7 days,Susunod na 7 araw
+Next 90 days,Susunod na 90 araw
+Next Week,Susunod na Linggo
+Next:,Susunod:
+No,Hindi
+No active assignments,Walang aktibong takda
+No active projects,Walang aktibong proyekto
+No active timer found,Walang nahanap na aktibong timer
+No activity selected,Walang napiling aktibidad
+No assignments found,Walang nahanap na takda
+No attendees,Walang dadalo
+no change,walang pagbabago
+No changes for this field.,Walang pagbabago para sa field na ito.
+No changes recorded for this activity.,Walang naitala na pagbabago para sa aktibidad na ito.
+No checklist items yet,Wala pang checklist item
+No checklist items yet.,Wala pang checklist item.
+No comments yet,Wala pang komento
+No comments yet.,Wala pang komento.
+No contacts available,Walang available na kontak
+No content for this tab,Walang nilalaman para sa tab na ito
+No data available,Walang available na data
+No data available for the selected filters,Walang available na data para sa napiling mga filter
+No data to export,Walang data na i-export
+No dates set,Walang nakatakdang petsa
+No defects reported,Walang naiulat na depekto
+No dependencies defined,Walang tinukoy na dependency
+No description,Walang paglalarawan
+No discussion yet.,Wala pang diskusyon.
+No documents attached,Walang nakakabit na dokumento
+No due date,Walang deadline
+No employee linked to this resource,Walang empleyado na naka-link sa resource na ito
+No ERPNext employee linked to resource,Walang ERPNext employee na naka-link sa resource
+No events found,Walang nahanap na event
+No files attached yet.,Wala pang nakakabit na file.
+No Frappe Project linked,Walang Frappe Project na naka-link
+No Grouping,Walang Grouping
+No items,Walang item
+No matching tasks,Walang tumutugmang gawain
+No matching tasks found,Walang nahanap na tumutugmang gawain
+No migration history,Walang kasaysayan ng migration
+No Milestone,Walang Milestone
+No milestones,Walang milestone
+No milestones defined for this project.,Walang milestone na tinukoy para sa proyektong ito.
+No notes yet.,Wala pang tala.
+No notes yet. Add a due diligence note to track progress.,Wala pang tala. Magdagdag ng due diligence note para subaybayan ang progreso.
+No notifications,Walang notification
+No Orga Project linked to Frappe Project {0},Walang Orga Project na naka-link sa Frappe Project {0}
+No overdue tasks,Walang overdue na gawain
+No pending cascade changes,Walang naghihintay na cascade na pagbabago
+No predecessors - this task can start independently,Walang predecessor — maaaring magsimula nang mag-isa ang gawaing ito
+No project,Walang proyekto
+No projects found,Walang nahanap na proyekto
+No Projects Yet,Wala Pang Proyekto
+No recent activity,Walang kamakailang aktibidad
+No related documents,Walang kaugnay na dokumento
+No resolved threads.,Walang nalutas na thread.
+No resources found,Walang nahanap na resource
+No results found,Walang nahanap na resulta
+No skills listed,Walang nakalista na kasanayan
+No skills recorded yet,Wala pang naitala na kasanayan
+No successors - no tasks are waiting for this one,Walang successor — walang gawaing naghihintay sa isang ito
+No task selected,Walang napiling gawain
+No tasks assigned to you,Walang gawaing nakatalaga sa iyo
+No tasks available to add,Walang available na gawaing maidadagdag
+No tasks found,Walang nahanap na gawain
+No tasks linked to this milestone,Walang gawaing naka-link sa milestone na ito
+No tasks with dates to display,Walang gawain na may petsa na ipapakita
+No tasks yet,Wala pang gawain
+No team members,Walang miyembro ng team
+No template,Walang template
+No templates yet,Wala pang template
+No time data found,Walang nahanap na data ng oras
+No time logged today,Walang oras na nai-log ngayong araw
+No time logged yet,Wala pang oras na nai-log
+No time logs for this period,Walang time log para sa panahong ito
+No time logs found,Walang nahanap na time log
+No unread notifications,Walang hindi pa nababasang notification
+No update information available yet.,No update information available yet.
+None,Wala
+Not found,Hindi nahanap
+Not permitted,Hindi pinapayagan
+Not permitted to access this project,Hindi pinapayagang i-access ang proyektong ito
+Not permitted to access this task,Hindi pinapayagang i-access ang gawaing ito
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Hindi pinapayagang magkomento sa dokumentong ito
+Not permitted to create clients,Hindi pinapayagang gumawa ng mga kliyente
+Not permitted to delete this client,Hindi pinapayagang burahin ang kliyenteng ito
+Not permitted to delete this defect,Hindi pinapayagang burahin ang depektong ito
+Not permitted to delete this note,Hindi pinapayagang burahin ang talang ito
+Not permitted to delete this project,Hindi pinapayagang burahin ang proyektong ito
+Not permitted to delete this task,Hindi pinapayagang burahin ang gawaing ito
+Not permitted to delete this time log,Hindi pinapayagang burahin ang time log na ito
+Not permitted to invite clients,Hindi pinapayagang mag-imbita ng mga kliyente
+Not permitted to modify client access,Hindi pinapayagang baguhin ang access ng kliyente
+Not permitted to modify this project,Hindi pinapayagang baguhin ang proyektong ito
+Not permitted to update settings,Hindi pinapayagang i-update ang mga setting
+Not permitted to update this client,Hindi pinapayagang i-update ang kliyenteng ito
+Not permitted to view this client,Hindi pinapayagang tingnan ang kliyenteng ito
+not sent,hindi naipadala
+Not set,Hindi nakatakda
+Not specified,Hindi tinukoy
+Note,Tala
+Note (optional),Tala (opsyonal)
+Note Content,Nilalaman ng Tala
+Note content is required,Kinakailangan ang nilalaman ng tala
+Note name is required,Kinakailangan ang pangalan ng tala
+Note not found,Hindi nahanap ang tala
+Note Type,Uri ng Tala
+Notes,Mga Tala
+Notification,Notification
+Notification not found,Hindi nahanap ang notification
+Notifications,Mga Notification
+Off Track,Hindi Nasa Tamang Landas
+Offer,Alok
+Offer Prepared,Naihanda ang Alok
+Oldest First,Pinakaluma Muna
+On Hold,Nakahinto
+On Leave,Naka-leave
+On Track,Nasa Tamang Landas
+On-Time Rate,Rate ng Pagiging sa Oras
+Only administrators can delete activities,Ang mga administrator lang ang maaaring magbura ng mga aktibidad
+Only the comment author or administrators can delete comments,Ang may-akda ng komento o mga administrator lang ang maaaring magbura ng mga komento
+Only you and admins,Ikaw at mga admin lang
+Open,Bukas
+Open in Desk,Buksan sa Desk
+Open Task Log,Buksan ang Task Log
+Open Tasks,Mga Bukas na Gawain
+Optional,Opsyonal
+optional,opsyonal
+Or email us directly at,O mag-email sa amin nang direkta sa
+Orga Project {0} from Frappe Projects,Orga Project {0} mula sa Frappe Projects
+Orga Task {0} from Frappe,Orga Task {0} mula sa Frappe
+Organizer,Nag-organisa
+Other,Iba pa
+Over Budget,Lagpas sa Badyet
+Overall Progress,Pangkalahatang Progreso
+Overall Utilization,Pangkalahatang Paggamit
+Overallocated,Sobra ang Inilaan
+Overdue,Lagpas sa Deadline
+overdue,lagpas sa deadline
+Overdue Tasks,Mga Gawaing Lagpas sa Deadline
+Overview,Pangkalahatang Tingin
+Owner,May-ari
+Page Not Found,Hindi Nahanap ang Pahina
+Parent,Magulang
+Parent comment must belong to the same document,Ang parent comment ay dapat nasa parehong dokumento
+Parent comment not found,Hindi nahanap ang parent comment
+Parent project not synced to Frappe yet,Hindi pa na-sync sa Frappe ang parent project
+Parent project sync not enabled,Hindi naka-enable ang parent project sync
+Partner,Partner
+Pending,Naghihintay
+per page,bawat pahina
+Perform initial assessment and background check,Magsagawa ng unang pagsusuri at background check
+Permanently remove this event,Permanenteng tanggalin ang event na ito
+Permanently remove this task,Permanenteng tanggalin ang gawaing ito
+Phone,Telepono
+Pin,I-pin
+Pin Activity,I-pin ang Aktibidad
+Pin to top,I-pin sa itaas
+Pinned,Naka-pin
+Planned budget for this task,Nakaplanong badyet para sa gawaing ito
+Planning,Pagpaplano
+Please describe your question or issue in detail...,Pakipaliwanag nang detalyado ang iyong tanong o isyu...
+Please login to access Orga,Pakikilala muna para ma-access ang Orga
+Please login to access the client portal,Pakikilala muna para ma-access ang client portal
+Please respond to this invitation in Orga,Pakisagot ang imbitasyong ito sa Orga
+Please select an image file,Pumili ng image file
+Please try again,Pakisubukan ulit
+Please type,Pakitipa
+Portal,Portal
+Portal access revoked for {0},Binawi ang portal access para sa {0}
+Portal user created successfully. Welcome email {0},Matagumpay na nagawa ang portal user. Welcome email {0}
+Post,I-post
+Powered by,Pinapagana ng
+Powered by Tonic,Pinapagana ng Tonic
+Predecessors (Blocked By),Mga Predecessor (Naka-block ng)
+Preferences,Mga Preference
+Preferences saved successfully,Matagumpay na na-save ang mga preference
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Prefix para sa mga awtomatikong code ng proyekto (hal.: ORG-2026-0001)
+Prepare and document offer terms,Ihanda at idokumento ang mga tuntunin ng alok
+Press,Pindutin
+Preview,Preview
+Preview cascade before applying,I-preview ang cascade bago ilapat
+Previous,Nakaraang
+Priority,Priyoridad
+Priority assigned to new tasks,Priyoridad na itinatalaga sa mga bagong gawain
+Priority updated,Na-update ang priyoridad
+Proficiency,Kahusayan
+Profile,Profile
+Progress,Progreso
+Progress (High-Low),Progreso (Mataas-Mababa)
+Progress (Low-High),Progreso (Mababa-Mataas)
+Progress Overview,Pangkalahatang Tingin ng Progreso
+Progress updated,Na-update ang progreso
+Project,Proyekto
+Project budget has been saved.,Na-save na ang badyet ng proyekto.
+Project code (e.g. ORG-2026-0001),Code ng proyekto (hal.: ORG-2026-0001)
+Project Code Prefix,Prefix ng Code ng Proyekto
+Project created,Nagawa ang proyekto
+Project deleted,Nabura ang proyekto
+Project description has been saved.,Na-save na ang paglalarawan ng proyekto.
+Project Details,Mga Detalye ng Proyekto
+Project end date has been saved.,Na-save na ang petsa ng pagtatapos ng proyekto.
+Project Files,Mga File ng Proyekto
+Project has no linked client,Walang naka-link na kliyente ang proyekto
+Project Health,Kalusugan ng Proyekto
+Project Info,Impormasyon ng Proyekto
+Project is required,Kinakailangan ang proyekto
+Project is required for project context,Kinakailangan ang proyekto para sa project context
+Project is required when tracking context is 'project',Kinakailangan ang proyekto kapag ang tracking context ay 'project'
+Project Manager,Project Manager
+Project Name,Pangalan ng Proyekto
+Project name and template name are required,Kinakailangan ang pangalan ng proyekto at pangalan ng template
+Project name is required,Kinakailangan ang pangalan ng proyekto
+Project not found,Hindi nahanap ang proyekto
+Project not found or you do not have access,Hindi nahanap ang proyekto o wala kang access
+Project settings,Mga setting ng proyekto
+Project start date has been saved.,Na-save na ang petsa ng simula ng proyekto.
+Project title has been saved.,Na-save na ang pamagat ng proyekto.
+Project Type,Uri ng Proyekto
+Project updated,Na-update ang proyekto
+Project {0} linked to client {1},Naka-link ang proyekto {0} sa kliyente {1}
+Project {0} not found,Hindi nahanap ang proyekto {0}
+Project {0} to Frappe Projects,Proyekto {0} papunta sa Frappe Projects
+Project:,Proyekto:
+Projects,Mga Proyekto
+projects,mga proyekto
+Projects created:,Mga proyektong nagawa:
+Projects Overview,Pangkalahatang Tingin ng mga Proyekto
+Projects skipped:,Mga proyektong nilampasan:
+Projects updated:,Mga proyektong na-update:
+Promote failed,Nabigo ang pag-promote
+Promote to task,I-promote sa gawain
+Promoted to task,Na-promote sa gawain
+Propose,Imungkahi
+Propose New Time,Magmungkahi ng Bagong Oras
+Propose Time,Magmungkahi ng Oras
+Proposed End,Iminungkahing Pagtatapos
+Proposed Start,Iminungkahing Simula
+Public,Pampubliko
+Quick Action,Mabilis na Aksyon
+Quick Actions,Mga Mabilis na Aksyon
+Quick Stats,Mabilis na Istatistika
+Rates,Mga Rate
+Receive notifications via email,Makatanggap ng mga notification sa pamamagitan ng email
+Receive notifications within the application,Makatanggap ng mga notification sa loob ng application
+Recent Activity,Kamakailang Aktibidad
+Recipient {0} is not a valid user,Ang tatanggap na {0} ay hindi valid na user
+Reference,Reference
+Refresh,I-refresh
+Related,Kaugnay
+Related Company (optional),Kaugnay na Kumpanya (opsyonal)
+Related Documents,Mga Kaugnay na Dokumento
+Related Project,Kaugnay na Proyekto
+Remaining,Natitira
+Reminder,Paalala
+Reminder Lead Time,Lead Time ng Paalala
+Reminder: {0} - {1} at {2},Paalala: {0} - {1} sa {2}
+Remove,Tanggalin
+Remove dependency,Tanggalin ang dependency
+Remove dependency on,Tanggalin ang dependency sa
+Remove from group,Tanggalin mula sa grupo
+Remove group dependency,Tanggalin ang group dependency
+Remove skill,Tanggalin ang kasanayan
+Reopen,Muling Buksan
+Reopen thread,Muling buksan ang thread
+reopened,muling binuksan
+replies,mga tugon
+Reply,Sumagot
+reply,tugon
+Replying to,Sumasagot sa
+Replying to comment,Sumasagot sa komento
+Report Defect,Mag-ulat ng Depekto
+Reported Date,Petsa ng Pag-ulat
+Reports,Mga Report
+Reports To,Nag-uulat Sa
+Request Submitted!,Naisumite na ang Kahilingan!
+Required,Kinakailangan
+required,kinakailangan
+Research,Pananaliksik
+Reset to Defaults,I-reset sa mga Default
+Resolve,Lutasin
+Resolve thread,Lutasin ang thread
+Resolved,Nalutas
+Resolved date cannot be before reported date,Ang petsa ng paglutas ay hindi maaaring mauna sa petsa ng pag-ulat
+Resource,Resource
+Resource and skill name are required,Kinakailangan ang resource at pangalan ng kasanayan
+Resource is already an attendee,Ang resource ay dadalo na
+Resource name is required,Kinakailangan ang pangalan ng resource
+Resource not found,Hindi nahanap ang resource
+Resource synced from employee {0},Na-sync ang resource mula sa empleyado {0}
+Resource {0} is already assigned to this task ({1}),Ang resource {0} ay nakatalaga na sa gawaing ito ({1})
+Resource {0} not found,Hindi nahanap ang resource {0}
+Resources,Mga Resource
+Retry,Subukan Ulit
+Review,Pagsusuri
+Review all relevant documents and contracts,Suriin ang lahat ng kaugnay na dokumento at kontrata
+Reviews,Mga Pagsusuri
+Risk Assessment,Pagsusuri ng Panganib
+Rollback,I-rollback
+Rolled back,Na-rollback
+Room or address,Silid o adres
+RSVP,RSVP
+Safety,Kaligtasan
+Sat,Sab
+Save,I-save
+"Save a project as a template, or import one from a JSON file.","I-save ang isang proyekto bilang template, o mag-import ng isa mula sa JSON file."
+Save as Template,I-save bilang Template
+Save Changes,I-save ang mga Pagbabago
+Save failed,Nabigo ang pag-save
+Save Preferences,I-save ang mga Preference
+Save Template,I-save ang Template
+Saving...,Sine-save...
+Schedule,Iskedyul
+Schedule type is required for scheduled triggers,Kinakailangan ang uri ng iskedyul para sa mga scheduled trigger
+Scheduled,Naka-iskedyul
+Search,Maghanap
+"Search by name, email, or skill...","Maghanap ayon sa pangalan, email, o kasanayan..."
+Search for a project...,Maghanap ng proyekto...
+Search for a task...,Maghanap ng gawain...
+Search for an event...,Maghanap ng event...
+Search for people to invite...,Maghanap ng mga tao na iimbitahan...
+Search tasks to link...,Maghanap ng mga gawain na ili-link...
+Search tasks...,Maghanap ng mga gawain...
+Search...,Maghanap...
+Searching...,Naghahanap...
+Seen,Nakita
+Select a project if your request is related to a specific project.,Pumili ng proyekto kung ang iyong kahilingan ay kaugnay ng isang partikular na proyekto.
+Select a project...,Pumili ng proyekto...
+Select a task from the Gantt chart to view and manage its details.,Pumili ng gawain mula sa Gantt chart para tingnan at pamahalaan ang mga detalye nito.
+Select a task from the list or Kanban board to view and manage its details.,Pumili ng gawain mula sa listahan o Kanban board para tingnan at pamahalaan ang mga detalye nito.
+Select a template...,Pumili ng template...
+Select priority...,Pumili ng priyoridad...
+Select status...,Pumili ng status...
+Select task...,Pumili ng gawain...
+Select type...,Pumili ng uri...
+Selection,Pagpili
+Send,Ipadala
+Send comment,Ipadala ang komento
+Send email invitations to attendees,Magpadala ng mga email invitation sa mga dadalo
+Send Invitations,Magpadala ng mga Imbitasyon
+Send notification when a task is assigned to a user,Magpadala ng notification kapag may gawaing itinalaga sa isang user
+Send notification when task status changes,Magpadala ng notification kapag nagbago ang status ng gawain
+Send reminder before task due date,Magpadala ng paalala bago ang deadline ng gawain
+sent,naipadala
+Set rate,Itakda ang rate
+Settings,Mga Setting
+Settings saved successfully,Matagumpay na na-save ang mga setting
+Severity,Kalubhaan
+SF (Start-Finish),SF (Start-Finish)
+SF - Start-to-Finish,SF - Start-to-Finish
+Show,Ipakita
+Show all,Ipakita lahat
+Show all changes,Ipakita lahat ng pagbabago
+Show Archived,Ipakita ang mga Naka-archive
+Show full diff,Ipakita ang buong diff
+Show less,Ipakita ang mas kaunti
+Show more,Ipakita ang iba pa
+Skill added,Naidagdag ang kasanayan
+Skill is required,Kinakailangan ang kasanayan
+Skill Name,Pangalan ng Kasanayan
+Skill removed,Natanggal ang kasanayan
+Skill {0} already exists for this resource,Ang kasanayan {0} ay umiiral na para sa resource na ito
+Skills,Mga Kasanayan
+Skills & Competencies,Mga Kasanayan at Kakayahan
+Skip already migrated projects,Laktawan ang mga proyektong na-migrate na
+Sort by,Ayusin ayon sa
+Sort: Due Date,Ayusin: Deadline
+Sort: Priority,Ayusin: Priyoridad
+Sort: Project,Ayusin: Proyekto
+Sort: Status,Ayusin: Status
+Sort: Task,Ayusin: Gawain
+Source Code,Source Code
+Spent,Nagastos
+Spent:,Nagastos:
+SS (Start-Start),SS (Start-Start)
+SS - Start-to-Start,SS - Start-to-Start
+Standalone,Nakapag-iisa
+Start,Simula
+Start a discussion below,Magsimula ng diskusyon sa ibaba
+Start Date,Petsa ng Simula
+Start date,Petsa ng simula
+Start Date (Earliest),Petsa ng Simula (Pinakamaagang)
+Start date updated,Na-update ang petsa ng simula
+Start date/time is required,Kinakailangan ang petsa/oras ng simula
+Start Migration,Simulan ang Migration
+Start the conversation below.,Magsimula ng usapan sa ibaba.
+Start Timer,Simulan ang Timer
+Start typing to search...,Magsimulang mag-type para maghanap...
+Start-to-Finish,Start-to-Finish
+Start-to-Start,Start-to-Start
+Start:,Simula:
+Statistics reset,Na-reset ang mga istatistika
+Status,Status
+Status assigned to new projects,Status na itinatalaga sa mga bagong proyekto
+Status assigned to new tasks,Status na itinatalaga sa mga bagong gawain
+Status Changes,Mga Pagbabago ng Status
+Status updated,Na-update ang status
+Status:,Status:
+Stop,Itigil
+Stop & Save,Itigil at I-save
+Stop Timer,Itigil ang Timer
+Stops current timer and starts for this event,Itiigil ang kasalukuyang timer at sinisimulan para sa event na ito
+Stops current timer and starts for this task,Itiigil ang kasalukuyang timer at sinisimulan para sa gawaing ito
+Subject,Paksa
+Subject cannot exceed 255 characters,Hindi maaaring lumampas sa 255 karakter ang paksa
+Subject is required,Kinakailangan ang paksa
+Submit,Isumite
+Submit Another Request,Magsumite ng Isa Pang Kahilingan
+Submit Request,Isumite ang Kahilingan
+Submitting...,Isinusumite...
+Successfully saved,Matagumpay na na-save
+Successors (Blocking),Mga Successor (Humaharang)
+Sun,Lin
+Supplier,Supplier
+Support,Suporta
+Switch to this event,Lumipat sa event na ito
+Switch to this task,Lumipat sa gawaing ito
+Sync direction is set to Frappe to Orga only,Ang direksyon ng sync ay nakatakda mula Frappe patungo sa Orga lamang
+Sync direction is set to Orga to Frappe only,Ang direksyon ng sync ay nakatakda mula Orga patungo sa Frappe lamang
+Sync not enabled for this project,Hindi naka-enable ang sync para sa proyektong ito
+System,Sistema
+Table,Talahanayan
+Take ownership of this task,Panagutan ang gawaing ito
+Target Date,Target na Petsa
+Target End,Target na Pagtatapos
+Target Project,Target na Proyekto
+Target user is required for '{0}' action,Kinakailangan ang target user para sa aksyong '{0}'
+Task,Gawain
+task,gawain
+Task '{0}' is due on {1}.,Ang gawain '{0}' ay may deadline sa {1}.
+Task and resource are required,Kinakailangan ang gawain at resource
+Task Assignment,Pagtatalaga ng Gawain
+Task cannot be its own parent,Hindi maaaring maging sariling magulang ng gawain
+Task cannot depend on itself,Hindi maaaring mag-depend ang gawain sa sarili nito
+Task cannot depend on the group it belongs to,Hindi maaaring mag-depend ang gawain sa grupo na kinabibilangan nito
+Task created,Nagawa ang gawain
+Task deleted,Nabura ang gawain
+Task description has been saved.,Na-save na ang paglalarawan ng gawain.
+Task Details,Mga Detalye ng Gawain
+Task due in {0} days: {1},Gawain na may deadline sa {0} araw: {1}
+Task due today: {0},Gawain na may deadline ngayon: {0}
+Task due tomorrow: {0},Gawain na may deadline bukas: {0}
+Task duplicated,Na-duplicate ang gawain
+Task Group,Grupo ng Gawain
+Task ID is required,Kinakailangan ang Task ID
+Task is blocked by incomplete dependencies,Naka-block ang gawain dahil sa hindi pa kumpletong mga dependency
+Task is cancelled,Kinansela ang gawain
+Task is completed,Tapos na ang gawain
+Task is no longer blocked by a group,Hindi na naka-block ang gawain ng isang grupo
+Task is required for task context,Kinakailangan ang gawain para sa task context
+Task is required when tracking context is 'task',Kinakailangan ang gawain kapag ang tracking context ay 'task'
+Task linked,Naka-link ang gawain
+Task moved,Nailipat ang gawain
+Task name,Pangalan ng gawain
+Task name is required,Kinakailangan ang pangalan ng gawain
+Task removed from group,Natanggal ang gawain mula sa grupo
+Task Subject,Paksa ng Gawain
+Task subject is required,Kinakailangan ang paksa ng gawain
+Task Type,Uri ng Gawain
+Task unblocked: {0},Na-unblock ang gawain: {0}
+Task unlinked,Na-unlink ang gawain
+Task updated,Na-update ang gawain
+Task {0} not found,Hindi nahanap ang gawain {0}
+Task {0} not in project {1},Hindi nasa proyekto {1} ang gawain {0}
+Task {0} to Frappe,Gawain {0} papunta sa Frappe
+Tasks,Mga Gawain
+tasks,mga gawain
+Tasks and milestones will be created with dates relative to the project start date.,Ang mga gawain at milestone ay gagawin na may mga petsa na relatibo sa petsa ng simula ng proyekto.
+Tasks assigned to you across all projects.,Mga gawaing nakatalaga sa iyo sa lahat ng proyekto.
+Tasks created:,Mga gawaing nagawa:
+Tasks from projects you manage.,Mga gawain mula sa mga proyektong pinapamahalaan mo.
+Tasks updated:,Mga gawaing na-update:
+"Tasks, milestones, and dependencies have been created.","Nagawa na ang mga gawain, milestone, at dependency."
+Tasks:,Mga Gawain:
+TBD,TBD
+Team,Team
+Team Members,Mga Miyembro ng Team
+Template,Template
+Template applied,Nailapat ang template
+Template data is required in import data,Kinakailangan ang template data sa import data
+Template has no data,Walang data ang template
+Template Name,Pangalan ng Template
+Template name,Pangalan ng template
+Template name is required,Kinakailangan ang pangalan ng template
+Template name is required in import data,Kinakailangan ang pangalan ng template sa import data
+Template saved,Na-save ang template
+Template updated successfully.,Matagumpay na na-update ang template.
+Template {0} not found,Hindi nahanap ang template {0}
+Templates,Mga Template
+Tentative,Pansamantala
+The comment has been deleted,Nabura na ang komento
+The project,Ang proyekto
+The source document may have been deleted.,Maaaring nabura na ang source document.
+The source document will not be affected.,Hindi maaapektuhan ang source document.
+The status of '{0}' was changed from {1} to {2}.,Ang status ng '{0}' ay binago mula {1} tungo sa {2}.
+Theme,Tema
+Theme preference,Preference sa tema
+This action,Ang aksyong ito
+This action cannot be undone.,Hindi na maibabalik ang aksyong ito.
+This activity has been flagged for attention,Ang aktibidad na ito ay na-flag para sa pansin
+This is a reminder for your upcoming appointment,Ito ay paalala para sa iyong paparating na appointment
+This method is only meant for developer mode,Ang paraang ito ay para lamang sa developer mode
+This page wandered off,This page wandered off
+This Week,Ngayong Linggo
+This will delete all notes and preferences associated with this activity.,Buburahin nito ang lahat ng tala at preference na kaugnay ng aktibidad na ito.
+This will import all Frappe Projects into Orga. Continue?,Ii-import nito ang lahat ng Frappe Projects sa Orga. Magpatuloy?
+This will permanently delete,Permanente itong buburahin
+This will permanently delete:,Permanente itong buburahin:
+Thu,Huw
+Time,Oras
+Time & Billing,Oras at Pagsingil
+Time & Revenue,Oras at Kita
+Time Entries,Mga Entry ng Oras
+Time log name is required,Kinakailangan ang pangalan ng time log
+Time Log not found,Hindi nahanap ang Time Log
+Time log {0} not found,Hindi nahanap ang time log {0}
+Time Logs,Mga Time Log
+Time Summary,Buod ng Oras
+Time Tracking,Pagsubaybay ng Oras
+Timeline,Timeline
+Timer active on,Aktibo ang timer sa
+Timer is not running,Hindi tumatakbo ang timer
+Timer Running,Tumatakbo ang Timer
+Timer running,Tumatakbo ang timer
+Timesheet DocType not available,Hindi available ang Timesheet DocType
+Timesheets,Mga Timesheet
+Timezone,Timezone
+Timezone is detected from your browser,Ang timezone ay naka-detect mula sa iyong browser
+Title,Pamagat
+Title cannot exceed 255 characters,Hindi maaaring lumampas sa 255 karakter ang pamagat
+Title is required,Kinakailangan ang pamagat
+Title updated,Na-update ang pamagat
+To,Hanggang
+to,sa
+to cancel,para kanselahin
+to close,para isara
+to confirm:,para kumpirmahin:
+to edit,para i-edit
+"to save,","para i-save,"
+To Time cannot be before From Time,Ang oras ng pagtatapos ay hindi maaaring mauna sa oras ng simula
+Today,Ngayon
+today,ngayon
+Toggle billable,I-toggle ang masisingil
+Toggle Details Panel,I-toggle ang Details Panel
+Toggle Manager Panel,I-toggle ang Manager Panel
+Toggle Sidebar,I-toggle ang Sidebar
+Tomorrow,Bukas
+tomorrow,bukas
+Total,Kabuuan
+Total Budget,Kabuuang Badyet
+Total Contacts,Kabuuang mga Kontak
+Total Cost,Kabuuang Gastos
+Total Cost to Org,Kabuuang Gastos sa Organisasyon
+Total Defect Cost,Kabuuang Gastos ng Depekto
+Total Hours,Kabuuang Oras
+Total Hours Logged,Kabuuang Oras na Nai-log
+Total Projects,Kabuuang mga Proyekto
+Total Spent,Kabuuang Nagastos
+Total Tasks,Kabuuang mga Gawain
+Total:,Kabuuan:
+Tracked,Sinubaybayan
+trails to today while Open at 0%,umusad hanggang ngayon habang Bukas sa 0%
+Tried:,Tried:
+Try adjusting your filter criteria,Subukang baguhin ang iyong mga pamantayan sa filter
+Try adjusting your filters.,Subukang baguhin ang iyong mga filter.
+Try Again,Subukan Ulit
+Tue,Mar
+Type,Uri
+Type updated,Na-update ang uri
+Type:,Uri:
+Typical response time: 1-2 business days,Karaniwang oras ng pagtugon: 1-2 araw ng trabaho
+Unarchive,I-unarchive
+Unarchive Activity,I-unarchive ang Aktibidad
+Unassign,I-unassign
+Unassigned,Hindi nakatalaga
+Under Budget,Nasa Ilalim ng Badyet
+Ungrouped,Hindi naka-grupo
+Unknown,Hindi alam
+Unknown error,Hindi kilalang error
+Unlink failed,Nabigo ang pag-unlink
+Unlink task from milestone,I-unlink ang gawain mula sa milestone
+Unpin,I-unpin
+Unpin Activity,I-unpin ang Aktibidad
+Unread,Hindi pa nabasa
+Unread only,Hindi pa nabasa lamang
+Until,Hanggang
+Up to Date,Up to Date
+Upcoming,Paparating
+upcoming,paparating
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Nabigo ang pag-update
+Updated,Na-update
+Updated successfully,Matagumpay na na-update
+Updates,Updates
+Upload,I-upload
+Upload failed,Nabigo ang pag-upload
+Upload files below to attach them to this task.,Mag-upload ng mga file sa ibaba para ikabit sa gawaing ito.
+Upload to project,I-upload sa proyekto
+Uploading...,Ina-upload...
+Urgent,Apurahan
+User {0} is already linked to client {1},Ang user {0} ay naka-link na sa kliyente {1}
+User {0} is already linked to resource {1},Ang user {0} ay naka-link na sa resource {1}
+Utilization,Paggamit
+Valid,Valid
+Value:,Halaga:
+Variance,Pagkakaiba
+Variance:,Pagkakaiba:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Tingnan
+View All,Tingnan Lahat
+View all active projects,Tingnan lahat ng aktibong proyekto
+View all open tasks,Tingnan lahat ng bukas na gawain
+View overdue tasks,Tingnan ang mga gawaing lampas sa deadline
+View Release,View Release
+Visibility,Visibility
+Waiting for this task,Naghihintay para sa gawaing ito
+Waits for:,Naghihintay para sa:
+Warning: Resource {0} status is {1},Babala: Ang status ng resource {0} ay {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Babala: Gumagamit ng HTTP sa halip na HTTPS. Maaaring hindi secure ang webhook payloads.
+Watch budget closely,Bantayang mabuti ang badyet
+We'll respond to:,Sasagutin namin sa:
+Webhook deleted,Nabura ang webhook
+Webhook name is required,Kinakailangan ang pangalan ng webhook
+Webhook not found,Hindi nahanap ang webhook
+Webhook URL is required,Kinakailangan ang Webhook URL
+Webhook URL must start with http:// or https://,Ang Webhook URL ay dapat magsimula sa http:// o https://
+Wed,Miy
+Week,Linggo
+Weekend,Katapusan ng Linggo
+Weekly Capacity,Lingguhang Kapasidad
+weekly capacity,lingguhang kapasidad
+Weekly Capacity (h),Lingguhang Kapasidad (h)
+Welcome,Maligayang Pagdating
+Welcome back!,Maligayang pagbabalik!
+Welcome to Orga,Maligayang pagdating sa Orga
+What are you working on?,Ano ang ginagawa mo?
+What did you work on?,Ano ang ginawa mo?
+When,Kailan
+When work begins,Kapag nagsimula ang trabaho
+When work is due,Kapag deadline na ng trabaho
+Where,Saan
+Will capture:,Kukunin:
+Will create:,Gagawin:
+with checklist items,kasama ang mga checklist item
+Working,Ginagawa
+Workload,Dami ng Trabaho
+Workmanship,Kalidad ng Gawa
+Write a comment...,Magsulat ng komento...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Magsulat ng komento... Gamitin ang @pangalan para banggitin (Ctrl+Enter para ipadala)
+Year,Taon
+Yes,Oo
+Yesterday,Kahapon
+yesterday,kahapon
+You are not an attendee of this appointment,Hindi ka dadalo sa appointment na ito
+You are not linked to any resource,Hindi ka naka-link sa anumang resource
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Maaari mo lamang burahin ang sarili mong mga komento
+You can only delete your own reactions,Maaari mo lamang burahin ang sarili mong mga reaksyon
+You do not have access to the client portal. Please contact support.,Wala kang access sa client portal. Pakikontak ang support.
+You have already reacted with '{0}',Nag-react ka na ng '{0}'
+You have been assigned to task '{0}' in project '{1}'.,Itinalaga ka sa gawain '{0}' sa proyekto '{1}'.
+You have been assigned to: {0},Itinalaga ka sa: {0}
+You have been invited to the following appointment,Inimbitahan ka sa sumusunod na appointment
+You have no tasks assigned to you right now.,Wala kang gawaing nakatalaga sa iyo sa ngayon.
+You were mentioned in {0},Binanggit ka sa {0}
+Your attendance,Ang pagdalo mo
+Your comment has been posted,Nai-post na ang iyong komento
+Your Projects,Mga Proyekto Mo
+Your projects will appear here once they're assigned to you.,Lalabas dito ang mga proyekto mo kapag itinalaga na sa iyo.
+Your Response,Ang Tugon Mo
+Your RSVP,Ang RSVP Mo
+Your support request has been submitted successfully.,Matagumpay na naisumite ang iyong kahilingan sa support.
+Your support request has been submitted successfully. We'll get back to you shortly.,Matagumpay na naisumite ang iyong kahilingan sa support. Babalikan ka namin sa lalong madaling panahon.
+"Your task ""{0}"" is no longer blocked and can now be started.","Ang iyong gawain ""{0}"" ay hindi na naka-block at maaari nang simulan."
+{0} is required,Kinakailangan ang {0}
+{0} new activities,{0} bagong aktibidad
+{0} of {1} completed,{0} sa {1} ang tapos na
+{0} projects already migrated (will be skipped or updated),{0} proyekto ang na-migrate na (lalaktawan o ia-update)
+{0} status changed to {1},Ang status ng {0} ay binago sa {1}
+{0} tasks remaining,{0} gawain ang natitira
+{0} tasks without projects will be skipped,{0} gawain na walang proyekto ang lalaktawan
+{0} {1} not found,Hindi nahanap ang {0} {1}

@@ -1,0 +1,1551 @@
++ Add Milestone,+ Mérföldkő hozzáadása
++ Create Task,+ Feladat létrehozása
++ Log Time,+ Idő rögzítése
+-- Select a project --,-- Válasszon projektet --
+0m,0p
+1 day,1 nap
+1 day ago,1 napja
+1 dependency,1 függőség
+1 entry,1 bejegyzés
+1 file,1 fájl
+1 hour ago,1 órája
+1 member,1 tag
+1 milestone,1 mérföldkő
+1 month,1 hónap
+1 task,1 feladat
+< 1m,< 1p
+"A clear, actionable title for the task","Egyértelmű, végrehajtható feladatcím"
+A client with email {0} already exists: {1},Már létezik ügyfél a(z) {0} e-mail címmel: {1}
+A key deliverable or checkpoint for the project,A projekt egyik fontos eredménye vagy ellenőrzési pontja
+Accept,Elfogadás
+Accepted,Elfogadva
+Acknowledge,Tudomásul vétel
+across,között
+Action,Művelet
+Actions,Műveletek
+Active,Aktív
+Active Assignments,Aktív hozzárendelések
+Active Projects,Aktív projektek
+Activity,Tevékenység
+Activity data deleted successfully,Tevékenységadatok sikeresen törölve
+Activity Info,Tevékenység információ
+Activity Stats,Tevékenység statisztikák
+Activity will appear here as you work on tasks and projects.,"A tevékenység itt jelenik meg, ahogy a feladatokon és projekteken dolgozik."
+Actual,Tényleges
+Actual Cost,Tényleges költség
+Actual cost cannot be negative,A tényleges költség nem lehet negatív
+Actual end date cannot be before actual start date,A tényleges befejezés nem lehet korábbi a tényleges kezdésnél
+Actual Hours,Tényleges órák
+Add,Hozzáadás
+Add a checklist item...,Ellenőrzőlista-elem hozzáadása...
+Add a comment...,Hozzászólás hozzáadása...
+Add a comment... (Ctrl+Enter to send),Hozzászólás hozzáadása... (Ctrl+Enter a küldéshez)
+Add a description...,Leírás hozzáadása...
+Add a milestone description...,Mérföldkő leírásának hozzáadása...
+Add a note below to annotate this activity.,Adjon hozzá egy jegyzetet alább a tevékenység megjegyzéséhez.
+Add a note...,Jegyzet hozzáadása...
+Add a project description...,Projektleírás hozzáadása...
+Add a task description...,Feladatleírás hozzáadása...
+Add checklist item...,Ellenőrzőlista-elem hozzáadása...
+Add Contact,Kapcsolattartó hozzáadása
+Add contacts via the Desk interface or clear filters,Adjon hozzá kapcsolattartókat a Desk felületen vagy törölje a szűrőket
+Add Dependency,Függőség hozzáadása
+Add details about this event...,Részletek hozzáadása az eseményhez...
+Add details about this milestone...,Részletek hozzáadása a mérföldkőhöz...
+Add details about this task...,Részletek hozzáadása a feladathoz...
+Add details or acceptance criteria for this milestone,Részletek vagy elfogadási feltételek hozzáadása a mérföldkőhöz
+"Add details, context, or acceptance criteria","Részletek, háttérinformáció vagy elfogadási feltételek hozzáadása"
+Add first dependency,Első függőség hozzáadása
+Add item,Elem hozzáadása
+Add items below to track progress.,Adjon hozzá elemeket alább a haladás nyomon követéséhez.
+Add items below to track subtasks,Adjon hozzá elemeket alább a részfeladatok nyomon követéséhez
+Add Milestone,Mérföldkő hozzáadása
+Add Milestone (Shift+M),Mérföldkő hozzáadása (Shift+M)
+Add milestones to track key deliverables.,Adjon hozzá mérföldköveket a fontos eredmények nyomon követéséhez.
+Add New Contact,Új kapcsolattartó hozzáadása
+Add Note,Jegyzet hozzáadása
+Add note,Jegyzet hozzáadása
+Add notes about this contact...,Megjegyzések hozzáadása a kapcsolattartóhoz...
+Add reaction,Reakció hozzáadása
+Add Skill,Képesség hozzáadása
+Add start and due dates to tasks to see them on the Gantt chart,Adjon kezdő és határidőket a feladatokhoz a Gantt diagramon való megjelenítéshez
+Add Task,Feladat hozzáadása
+Add Task (Shift+T),Feladat hozzáadása (Shift+T)
+Added Finish-to-Start dependency,Befejezéstől-kezdésig függőség hozzáadva
+Adding this dependency would create a circular reference: {0},Ennek a függőségnek a hozzáadása körkörös hivatkozást hozna létre: {0}
+Adding...,Hozzáadás...
+Address,Cím
+Advanced,Haladó
+All,Mind
+All Active,Minden aktív
+All Assignees,Minden hozzárendelt
+All Categories,Minden kategória
+All caught up!,Minden naprakész!
+All Contexts,Minden kontextus
+All day,Egész napos
+All day event,Egész napos esemény
+All fields,Minden mező
+All Priorities,Minden prioritás
+All Projects,Minden projekt
+All Status,Minden állapot
+All Statuses,Minden állapot
+All task dependencies & relative dates,Minden feladat-függőség és relatív dátum
+All Tasks,Minden feladat
+All tasks across all projects.,Minden feladat az összes projektből.
+All tasks are already linked,Minden feladat már össze van kapcsolva
+All team members,Minden csapattag
+All Types,Minden típus
+All Users,Minden felhasználó
+Allocated,Kiosztva
+allocated,kiosztva
+Allow users to log time against tasks,Időrögzítés engedélyezése a feladatokhoz
+Already exported to timesheet {0},Már exportálva a(z) {0} munkaidő-nyilvántartásba
+Already Migrated,Már áttelepítve
+Anyone with access,Bárki hozzáféréssel
+anytime to show this help,bármikor a súgó megjelenítéséhez
+App Updates,App Updates
+Appearance,Megjelenés
+Apply,Alkalmaz
+Apply cascade?,Alkalmazza a továbbgyűrűzést?
+Apply Changes,Módosítások alkalmazása
+Apply failed,Az alkalmazás sikertelen
+Apply Template,Sablon alkalmazása
+Applying...,Alkalmazás...
+Appointment,Időpont
+Appointment and resource are required,Az időpont és az erőforrás megadása kötelező
+Appointment name is required,Az időpont neve kötelező
+Appointment not found,Időpont nem található
+Appointment {0} not found,A(z) {0} időpont nem található
+Apps,Alkalmazások
+Archive,Archiválás
+Archive Activity,Tevékenység archiválása
+Archived,Archivált
+Are you sure you want to delete this activity data? This cannot be undone.,Biztosan törölni szeretné ezeket a tevékenységadatokat? Ez a művelet nem vonható vissza.
+Are you sure you want to delete this comment?,Biztosan törölni szeretné ezt a hozzászólást?
+Are you sure you want to delete this project?,Biztosan törölni szeretné ezt a projektet?
+Are you sure?,Biztos benne?
+Ascending -- click to reverse,Növekvő -- kattintson a megfordításhoz
+Assign To,Hozzárendelés
+Assign to Me,Hozzárendelés magamhoz
+Assigned Contact,Hozzárendelt kapcsolattartó
+Assigned To,Hozzárendelve
+Assigned to,Hozzárendelve
+Assigned to Me,Nekem hozzárendelve
+Assignee,Hozzárendelt
+Assignment,Hozzárendelés
+Assignment History,Hozzárendelési előzmények
+Assignment name is required,A hozzárendelés neve kötelező
+Assignment {0} not found,A(z) {0} hozzárendelés nem található
+Assignments,Hozzárendelések
+At least one action is required,Legalább egy művelet szükséges
+At least one event is required,Legalább egy esemény szükséges
+At least one event must be selected,Legalább egy eseményt ki kell választani
+Attachment,Melléklet
+Attachments,Mellékletek
+Attendees,Résztvevők
+"Audit trail, assignments, version history","Naplónyom, hozzárendelések, verzióelőzmények"
+Auto,Automatikus
+Auto Calculate Progress,Haladás automatikus számítása
+Auto Set Missed Milestones,Elmulasztott mérföldkövek automatikus beállítása
+Auto-shift dependents when dates change,Függő elemek automatikus eltolása dátumváltozáskor
+Auto-Trail Start,Automatikus csúszó kezdés
+Auto-Trail updated,Automatikus csúszó kezdés frissítve
+Automatically calculate project progress from task completion,Projekt haladásának automatikus számítása a feladatok teljesítéséből
+Automatically mark milestones as missed when overdue,Mérföldkövek automatikus elmulasztottnak jelölése határidő lejártakor
+Automation rule {0} not found,A(z) {0} automatizálási szabály nem található
+Automation: {0},Automatizálás: {0}
+Availability,Elérhetőség
+Available,Elérhető
+Avatar updated successfully,Profilkép sikeresen frissítve
+Avg Progress,Átlagos haladás
+Back,Vissza
+Back to Portal,Vissza a portálra
+Back to Projects,Vissza a projektekhez
+Beginner,Kezdő
+Best regards,Üdvözlettel
+Billable,Számlázható
+Billable Amount,Számlázható összeg
+Billable Hours,Számlázható órák
+Billable Rate,Számlázási díj
+Billing Rate,Számlázási díj
+Blocked,Blokkolt
+Both dates are needed to display task as a bar in Gantt chart,Mindkét dátum szükséges a feladat sávként való megjelenítéséhez a Gantt diagramon
+Both doctype and docname are required,A doctype és a docname egyaránt szükséges
+Both proposed start and end times are required,A javasolt kezdési és befejezési idő egyaránt szükséges
+Both task_name and depends_on are required,A task_name és a depends_on egyaránt szükséges
+Breadcrumb,Navigációs útvonal
+Brief description of the defect or damage,A hiba vagy sérülés rövid leírása
+Brief description of this template,A sablon rövid leírása
+Brief description of your request,Kérésének rövid leírása
+Brief project description,Rövid projektleírás
+Budget,Költségvetés
+Budget at risk,Költségvetés veszélyben
+Budget Burn Rate,Költségvetés felhasználási ütem
+Budget Status,Költségvetés állapota
+Budget updated,Költségvetés frissítve
+Budget:,Költségvetés:
+Bug,Hiba
+Burn Rate,Felhasználási ütem
+Busy,Foglalt
+By,Szerint
+By Assignee,Hozzárendelt szerint
+By Group,Csoport szerint
+By Milestone,Mérföldkő szerint
+By Priority,Prioritás szerint
+By Status,Állapot szerint
+Cancel,Mégse
+Cancelled,Visszavonva
+cannot be undone,nem vonható vissza
+Cannot delete client with {0} linked projects. Unlink projects first.,Nem lehet törölni az ügyfelet {0} kapcsolt projekttel. Először válassza le a projekteket.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Nem lehet törölni a projektet {0} kapcsolt feladattal. Először törölje a feladatokat.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Nem lehet törölni az erőforrást {0} aktív hozzárendeléssel. Először fejezze be vagy vonja vissza őket.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Nem lehet törölni a feladatot {0} részfeladattal. Először törölje a részfeladatokat.
+Capacity,Kapacitás
+capacity,kapacitás
+Capacity & Rates,Kapacitás és díjak
+Capture project structure for reuse,Projektstruktúra mentése újrafelhasználáshoz
+Cascade,Továbbgyűrűzés
+Cascade Preview,Továbbgyűrűzés előnézet
+Category,Kategória
+Celebrate,Ünneplés
+Change,Módosítás
+Change History,Módosítási előzmények
+Change Priority,Prioritás módosítása
+Change Status,Állapot módosítása
+Changes,Módosítások
+Changes appear when fields are modified.,A módosítások a mezők szerkesztésekor jelennek meg.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Ellenőrzőlista
+Checklist item name is required,Az ellenőrzőlista-elem neve kötelező
+Checklist item not found,Ellenőrzőlista-elem nem található
+Checklist item title is required,Az ellenőrzőlista-elem címe kötelező
+Checklist item {0} not found,A(z) {0} ellenőrzőlista-elem nem található
+Checklist item {0} not found in task,A(z) {0} ellenőrzőlista-elem nem található a feladatban
+Child,Gyermek
+Choose file to upload,Válasszon feltöltendő fájlt
+Circular dependency detected: {0},Körkörös függőség észlelve: {0}
+Circular parent-child relationship detected,Körkörös szülő-gyermek kapcsolat észlelve
+Clear,Törlés
+Clear all read,Összes olvasott törlése
+Clear date,Dátum törlése
+Click on an activity from the list to view and manage its details.,Kattintson egy tevékenységre a listában a részletek megtekintéséhez és kezeléséhez.
+Click the avatar to upload a new photo,Kattintson a profilképre új fénykép feltöltéséhez
+Click to add description...,Kattintson a leírás hozzáadásához...
+Click to add notes...,Kattintson a jegyzetek hozzáadásához...
+Click to assign contact,Kattintson a kapcsolattartó hozzárendeléséhez
+Click to change status,Kattintson az állapot módosításához
+Click to change type,Kattintson a típus módosításához
+Click to edit,Kattintson a szerkesztéshez
+Click to edit budget,Kattintson a költségvetés szerkesztéséhez
+Click to edit description,Kattintson a leírás szerkesztéséhez
+Click to edit end date,Kattintson a befejezési dátum szerkesztéséhez
+Click to edit milestone name,Kattintson a mérföldkő nevének szerkesztéséhez
+Click to edit rate,Kattintson a díj szerkesztéséhez
+Click to edit start date,Kattintson a kezdési dátum szerkesztéséhez
+Click to edit title,Kattintson a cím szerkesztéséhez
+Click to load,Kattintson a betöltéshez
+Click to set group dependency...,Kattintson a csoportfüggőség beállításához...
+Click to set group...,Kattintson a csoport beállításához...
+Click to view,Kattintson a megtekintéshez
+Click to view at-risk projects,Kattintson a veszélyeztetett projektek megtekintéséhez
+Click to view critical projects,Kattintson a kritikus projektek megtekintéséhez
+Click to view healthy projects,Kattintson az egészséges projektek megtekintéséhez
+Client,Ügyfél
+Client already has a portal user: {0},Az ügyfélnek már van portálfelhasználója: {0}
+Client already has portal access,Az ügyfélnek már van portálhozzáférése
+Client has no portal user to revoke,Az ügyfélnek nincs visszavonható portálfelhasználója
+Client link removed from project {0},Ügyfél-hivatkozás eltávolítva a(z) {0} projektből
+Client Portal,Ügyfélportál
+Client {0} deleted successfully,A(z) {0} ügyfél sikeresen törölve
+Close,Bezárás
+Close (Esc),Bezárás (Esc)
+Comment,Hozzászólás
+comment,hozzászólás
+Comment added,Hozzászólás hozzáadva
+Comment content is required,A hozzászólás tartalma kötelező
+Comment name is required,A hozzászólás neve kötelező
+Comment not found,Hozzászólás nem található
+Comment removed,Hozzászólás eltávolítva
+Comment {0} not found in task,A(z) {0} hozzászólás nem található a feladatban
+Comments,Hozzászólások
+comments,hozzászólások
+Community Edition,Community Edition
+Company,Cég
+Company name...,Cégnév...
+Complete,Befejezés
+Completed,Befejezve
+completed,befejezve
+Completed Tasks,Befejezett feladatok
+Compliance,Megfelelőség
+Configure default values for new projects and tasks,Alapértékek beállítása új projektekhez és feladatokhoz
+Configure email notification settings,E-mail értesítési beállítások konfigurálása
+Confirm,Megerősítés
+Contact deleted,Kapcsolattartó törölve
+Contact Details,Kapcsolattartó részletei
+Contact Information,Kapcsolattartási adatok
+Contact name is required,A kapcsolattartó neve kötelező
+Contact Support,Kapcsolatfelvétel a támogatással
+Contact your project manager for more information.,Forduljon a projektvezetőhöz további információért.
+Contact:,Kapcsolattartó:
+Contacts,Kapcsolattartók
+Context,Kontextus
+Contractor,Alvállalkozó
+Cost estimate cannot be negative,A költségbecslés nem lehet negatív
+Cost Impact,Költséghatás
+Cost Summary,Költségösszesítő
+Could not apply the template. Please try again.,Nem sikerült alkalmazni a sablont. Kérjük próbálja újra.
+Could not attach file to project,Nem sikerült fájlt csatolni a projekthez
+Could not change task priority,Nem sikerült módosítani a feladat prioritását
+Could not change task status,Nem sikerült módosítani a feladat állapotát
+Could not delete the project. Please try again.,Nem sikerült törölni a projektet. Kérjük próbálja újra.
+Could not delete the task. Please try again.,Nem sikerült törölni a feladatot. Kérjük próbálja újra.
+Could not delete the template.,Nem sikerült törölni a sablont.
+Could not duplicate the task. Please try again.,Nem sikerült duplikálni a feladatot. Kérjük próbálja újra.
+Could not export the template.,Nem sikerült exportálni a sablont.
+Could not import the template. Please check the file format.,Nem sikerült importálni a sablont. Kérjük ellenőrizze a fájlformátumot.
+Could not link task to milestone,Nem sikerült a feladatot a mérföldkőhöz kapcsolni
+Could not load document details.,Nem sikerült betölteni a dokumentum részleteit.
+Could not load task details,Nem sikerült betölteni a feladat részleteit
+Could not promote checklist item to task.,Nem sikerült az ellenőrzőlista-elemet feladattá előléptetni.
+Could not remove task from milestone,Nem sikerült a feladatot eltávolítani a mérföldkőből
+Could not save budget.,Nem sikerült menteni a költségvetést.
+Could not save changes to the milestone,Nem sikerült menteni a mérföldkő módosításait
+Could not save changes to the task,Nem sikerült menteni a feladat módosításait
+Could not save description.,Nem sikerült menteni a leírást.
+Could not save end date.,Nem sikerült menteni a befejezési dátumot.
+Could not save milestone name.,Nem sikerült menteni a mérföldkő nevét.
+Could not save start date.,Nem sikerült menteni a kezdési dátumot.
+Could not save the template. Please try again.,Nem sikerült menteni a sablont. Kérjük próbálja újra.
+Could not save title.,Nem sikerült menteni a címet.
+Could not update dependency mode.,Nem sikerült frissíteni a függőségi módot.
+Could not update milestone date,Nem sikerült frissíteni a mérföldkő dátumát
+Could not update project status.,Nem sikerült frissíteni a projekt állapotát.
+Could not update project type.,Nem sikerült frissíteni a projekt típusát.
+Could not update setting.,Nem sikerült frissíteni a beállítást.
+Could not update task dates,Nem sikerült frissíteni a feladat dátumait
+Could not update task status,Nem sikerült frissíteni a feladat állapotát
+Could not update the template.,Nem sikerült frissíteni a sablont.
+Create a copy of this task,A feladat másolatának létrehozása
+Create Contact,Kapcsolattartó létrehozása
+Create Event,Esemény létrehozása
+Create Milestone,Mérföldkő létrehozása
+Create New Milestone,Új mérföldkő létrehozása
+Create New Task,Új feladat létrehozása
+Create Project,Projekt létrehozása
+Create Task,Feladat létrehozása
+Create tasks and milestones from a template,Feladatok és mérföldkövek létrehozása sablonból
+Create your first project to get started.,Hozza létre első projektjét a kezdéshez.
+Create your first task to start tracking work on this project.,Hozza létre első feladatát a munka nyomon követésének megkezdéséhez.
+Created,Létrehozva
+Creating...,Létrehozás...
+Critical,Kritikus
+Critical Path,Kritikus útvonal
+"Currency used for budgets, costs, and billing rates","Költségvetésekhez, költségekhez és számlázási díjakhoz használt pénznem"
+Current,Jelenlegi
+Current Assignments,Jelenlegi hozzárendelések
+Current scheduled time:,Jelenleg ütemezett időpont:
+Currently running version,Currently running version
+d lag,nap eltolás
+Daily Availability,Napi elérhetőség
+Daily Hours,Napi órák
+Danger Zone,Veszélyzóna
+Dark,Sötét
+Dashboard,Irányítópult
+Date,Dátum
+Date changes on this task will show cascade impact here,A feladat dátumváltozásai itt mutatják a továbbgyűrűző hatást
+Date cleared,Dátum törölve
+Date of Joining,Belépés dátuma
+Date updated,Dátum frissítve
+Dates,Dátumok
+Dates cascaded,Dátumok továbbgyűrűzve
+Dates will be relative to the project's start date.,A dátumok a projekt kezdési dátumához lesznek viszonyítva.
+Day,Nap
+day,nap
+days,nap
+Days before due date to send reminder,Napok a határidő előtt az emlékeztető küldéséhez
+Days Overdue,Késéses napok
+Days Remaining,Hátralévő napok
+Deadline,Határidő
+Deadlines,Határidők
+Decision,Döntés
+Decline,Elutasítás
+Declined,Elutasítva
+Default Currency,Alapértelmezett pénznem
+Default hours per week for contact capacity planning,Alapértelmezett heti órák a kapcsolattartó kapacitástervezéséhez
+Default Priority,Alapértelmezett prioritás
+Default Project Status,Alapértelmezett projektállapot
+Default Task Status,Alapértelmezett feladatállapot
+Default task view,Alapértelmezett feladatnézet
+Default Values,Alapértékek
+Default Weekly Capacity,Alapértelmezett heti kapacitás
+Defaults,Alapértékek
+Defect Cost Impact,Hiba költséghatása
+Defect name is required,A hiba neve kötelező
+Defect Type,Hibatípus
+Defect {0} not found,A(z) {0} hiba nem található
+Defects,Hibák
+Defects & Issues,Hibák és problémák
+Defects Resolved,Javított hibák
+Delayed,Késleltetett
+Delete,Törlés
+Delete Activity Data,Tevékenységadatok törlése
+Delete all read notifications?,Törli az összes olvasott értesítést?
+Delete comment,Hozzászólás törlése
+Delete Contact,Kapcsolattartó törlése
+Delete Event,Esemény törlése
+Delete Event?,Esemény törlése?
+Delete failed,A törlés sikertelen
+Delete file,Fájl törlése
+Delete item,Elem törlése
+Delete note,Jegyzet törlése
+Delete Project,Projekt törlése
+Delete Task,Feladat törlése
+Delete this project,Projekt törlése
+Deleted,Törölve
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","A(z) ""{0}"" projekt törölve ({1} feladat, {2} mérföldkő)"
+Deletes notes and preferences. Source document is not affected.,Törli a jegyzeteket és beállításokat. A forrásdokumentumot nem érinti.
+Deleting...,Törlés...
+Department,Részleg
+Dependencies,Függőségek
+dependencies,függőségek
+Dependencies are informational only,A függőségek csak tájékoztató jellegűek
+dependency,függőség
+Dependency already exists,A függőség már létezik
+Dependency Chain,Függőségi lánc
+Dependency created,Függőség létrehozva
+Dependency mode updated,Függőségi mód frissítve
+Dependency name is required,A függőség neve kötelező
+Dependency task {0} not found,A(z) {0} függő feladat nem található
+Dependency {0} not found,A(z) {0} függőség nem található
+depends,függ
+Depends on Group,Csoporttól függ
+Depends on task is required,A függő feladat megadása kötelező
+depends on...,függ ettől...
+Descending -- click to reverse,Csökkenő -- kattintson a megfordításhoz
+Describe the defect in detail...,Írja le részletesen a hibát...
+Description,Leírás
+Description updated,Leírás frissítve
+Designation,Beosztás
+"Detailed description of the defect, location, and impact","A hiba részletes leírása, helye és hatása"
+Details,Részletek
+Discard timer,Időmérő elvetése
+Discussion,Megbeszélés
+Dismiss,Dismiss
+Display,Megjelenítés
+Document,Dokumentum
+Document attached to project,Dokumentum csatolva a projekthez
+Document final decision and rationale,Végső döntés és indoklás dokumentálása
+Documentation Review,Dokumentáció-ellenőrzés
+Documents,Dokumentumok
+Done,Kész
+Download,Letöltés
+Drag to create dependency,Húzza a függőség létrehozásához
+Dry Run,Próbafuttatás
+Dry Run Complete,Próbafuttatás kész
+Due Date,Határidő
+Due date,Határidő
+Due Date (Earliest),Határidő (legkorábbi)
+Due date cannot be before start date,A határidő nem lehet korábbi a kezdési dátumnál
+Due date is in the past,A határidő a múltban van
+Due Date Reminders,Határidő-emlékeztetők
+Due Diligence,Átvilágítás
+Due Diligence Checklist,Átvilágítási ellenőrzőlista
+Due This Week,Ezen a héten esedékes
+Due:,Határidő:
+Duplicate events are not allowed,Ismétlődő események nem engedélyezettek
+Duplicate failed,A duplikálás sikertelen
+Duplicate Task,Feladat duplikálása
+Duration,Időtartam
+Duration Summary,Időtartam összesítő
+Duration:,Időtartam:
+e.g. Cracked wall finish in bathroom...,pl. Megrepedezett fali burkolat a fürdőszobában...
+"e.g. Electrical, Plumbing...","pl. Villanyszerelés, Vízvezeték..."
+Edit,Szerkesztés
+Edit (E),Szerkesztés (E)
+Edit dependency,Függőség szerkesztése
+Edit Event,Esemény szerkesztése
+Efficiency,Hatékonyság
+Either dependency_name or depends_on is required,A dependency_name vagy a depends_on megadása kötelező
+Email,E-mail
+Email invitations to all attendees,E-mail meghívók minden résztvevőnek
+Email is required to create portal user,E-mail cím szükséges a portálfelhasználó létrehozásához
+Email notifications,E-mail értesítések
+Employee,Alkalmazott
+Employee DocType not available,Alkalmazott DocType nem érhető el
+Employee not found,Alkalmazott nem található
+Enable or disable optional features,Opcionális funkciók engedélyezése vagy letiltása
+Enable Time Tracking,Időkövetés engedélyezése
+End,Vége
+End Date,Befejezési dátum
+End date,Befejezési dátum
+End Date cannot be before Start Date,A befejezési dátum nem lehet korábbi a kezdési dátumnál
+End date cannot be before start date,A befejezési dátum nem lehet korábbi a kezdési dátumnál
+End date updated,Befejezési dátum frissítve
+End time was before start time. Adjusted to 1 hour after start.,A befejezési idő korábbi volt a kezdési időnél. 1 órával a kezdés utánra módosítva.
+End:,Vége:
+Enter milestone name...,Adja meg a mérföldkő nevét...
+Enter project name,Adja meg a projekt nevét
+Enter task title...,Adja meg a feladat címét...
+Enter template name,Adja meg a sablon nevét
+Enter your note... Use @name to mention someone,Írja be jegyzetét... Használja a @nevet valaki megemlítéséhez
+Error,Hiba
+Error loading activity,Hiba a tevékenység betöltésekor
+Error loading contacts,Hiba a kapcsolattartók betöltésekor
+Error loading dashboard,Hiba az irányítópult betöltésekor
+Error loading project,Hiba a projekt betöltésekor
+Error loading projects,Hiba a projektek betöltésekor
+Error loading settings,Hiba a beállítások betöltésekor
+Error loading tasks,Hiba a feladatok betöltésekor
+Error loading templates,Hiba a sablonok betöltésekor
+Est. Hours,Becs. órák
+Estimated,Becsült
+Estimated Cost,Becsült költség
+Estimated Cost (€),Becsült költség (€)
+Estimated Hours,Becsült órák
+Estimated:,Becsült:
+Evaluate potential risks and concerns,Lehetséges kockázatok és aggályok értékelése
+Event,Esemény
+Event is required for event context,Az esemény megadása kötelező eseménykontextusban
+Event is required when tracking context is 'event',"Az esemény megadása kötelező, ha a követési kontextus „esemény""
+Events not available. Please run: bench --site orga.localhost migrate"""
+Event Type,Eseménytípus
+Events,Események
+Events not available. Please run: bench --site orga.localhost migrate,"Események nem elérhetők. Kérjük, futtassa: bench --site orga.localhost migrate"
+Events:,Események:
+Expert,Szakértő
+Explain why you are proposing a different time...,Magyarázza el miért javasol más időpontot...
+Export,Exportálás
+Export failed,Az exportálás sikertelen
+Export JSON,Exportálás JSON-be
+Exported,Exportálva
+Exported to timesheet {0},Exportálva a(z) {0} munkaidő-nyilvántartásba
+External,Külső
+Failed to add item,Nem sikerült hozzáadni az elemet
+Failed to add note,Nem sikerült hozzáadni a jegyzetet
+Failed to add skill,Nem sikerült hozzáadni a képességet
+Failed to apply cascade changes: {0},Nem sikerült alkalmazni a továbbgyűrűző módosításokat: {0}
+Failed to create defect,Nem sikerült létrehozni a hibát
+Failed to create dependency,Nem sikerült létrehozni a függőséget
+Failed to create event,Nem sikerült létrehozni az eseményt
+Failed to create milestone,Nem sikerült létrehozni a mérföldkövet
+Failed to create project,Nem sikerült létrehozni a projektet
+Failed to create task,Nem sikerült létrehozni a feladatot
+Failed to create time log,Nem sikerült létrehozni az időbejegyzést
+Failed to delete,A törlés sikertelen
+Failed to delete comment,Nem sikerült törölni a hozzászólást
+Failed to delete contact,Nem sikerült törölni a kapcsolattartót
+Failed to load,A betöltés sikertelen
+Failed to load activity,Nem sikerült betölteni a tevékenységet
+Failed to load assignments,Nem sikerült betölteni a hozzárendeléseket
+Failed to load contact,Nem sikerült betölteni a kapcsolattartót
+Failed to load dashboard data,Nem sikerült betölteni az irányítópult adatait
+Failed to load defects,Nem sikerült betölteni a hibákat
+Failed to load events,Nem sikerült betölteni az eseményeket
+Failed to load project,Nem sikerült betölteni a projektet
+Failed to load projects,Nem sikerült betölteni a projekteket
+Failed to load report data,Nem sikerült betölteni a jelentés adatait
+Failed to load settings,Nem sikerült betölteni a beállításokat
+Failed to load tasks,Nem sikerült betölteni a feladatokat
+Failed to move task,Nem sikerült áthelyezni a feladatot
+Failed to post comment,Nem sikerült közzétenni a hozzászólást
+Failed to propose new time,Nem sikerült új időpontot javasolni
+Failed to remove item,Nem sikerült eltávolítani az elemet
+Failed to remove skill,Nem sikerült eltávolítani a képességet
+Failed to reorder milestones: {0},Nem sikerült átrendezni a mérföldköveket: {0}
+Failed to reorder tasks: {0},Nem sikerült átrendezni a feladatokat: {0}
+Failed to reschedule dependent tasks: {0},Nem sikerült átütemezni a függő feladatokat: {0}
+Failed to save,A mentés sikertelen
+Failed to save preferences,Nem sikerült menteni a beállításokat
+Failed to save settings,Nem sikerült menteni a beállításokat
+Failed to submit request. Please try again.,Nem sikerült elküldeni a kérést. Kérjük próbálja újra.
+Failed to update item,Nem sikerült frissíteni az elemet
+Failed to update priority,Nem sikerült frissíteni a prioritást
+Failed to update task,Nem sikerült frissíteni a feladatot
+Failed to update tasks: {0},Nem sikerült frissíteni a feladatokat: {0}
+Failed to upload avatar,Nem sikerült feltölteni a profilképet
+Feature,Funkció
+Features,Funkciók
+FF (Finish-Finish),FF (Befejezés-Befejezés)
+FF - Finish-to-Finish,FF - Befejezéstől-befejezésig
+Field has been updated,A mező frissítve lett
+Field name is required for 'Set Field Value' action,"A mező neve kötelező a „Mezőérték beállítása művelethez"""
+Field {0} is not a Link field,A(z) {0} mező nem hivatkozás típusú mező
+Field {0} not found in {1},A(z) {0} mező nem található a(z) {1} elemben
+File,Fájl
+file,fájl
+File does not belong to this task,A fájl nem tartozik ehhez a feladathoz
+File name is required,A fájlnév kötelező
+File uploaded,Fájl feltöltve
+File {0} not found,A(z) {0} fájl nem található
+Files,Fájlok
+files,fájlok
+Filter,Szűrő
+Final Decision,Végső döntés
+Finance,Pénzügyek
+Financial,Pénzügyi
+Finish-to-Finish,Befejezéstől-befejezésig
+Finish-to-Start,Befejezéstől-kezdésig
+Flag,Megjelölés
+Flag for attention,Megjelölés figyelemre
+Flagged,Megjelölve
+Focus Panel,Fókuszpanel
+Follows your system preference. Currently:,A rendszerbeállítását követi. Jelenleg:
+Frappe Project {0} not found,A(z) {0} Frappe projekt nem található
+Frappe Projects Migration,Frappe Projects áttelepítés
+Frappe Projects module not available,A Frappe Projects modul nem érhető el
+Frappe Projects module not installed,A Frappe Projects modul nincs telepítve
+Frappe Projects sync is not enabled,A Frappe Projects szinkronizálás nincs engedélyezve
+Frappe Task DocType not found,Frappe feladat DocType nem található
+Frappe Task has no project,A Frappe feladatnak nincs projektje
+Frappe Task {0} not found,A(z) {0} Frappe feladat nem található
+Fri,Pén
+From,Ettől
+From Template,Sablonból
+FS (Finish-Start),FS (Befejezés-Kezdés)
+FS - Finish-to-Start (default),FS - Befejezéstől-kezdésig (alapértelmezett)
+Full form view with audit trail,Teljes űrlapnézet naplónyommal
+Full name,Teljes név
+Gantt,Gantt
+Gantt Chart,Gantt diagram
+Gantt View,Gantt nézet
+General Note,Általános jegyzet
+Get started,Kezdjük el
+Go back,Visszalépés
+Go Back,Go Back
+Group by,Csoportosítás
+Group dependency removed,Csoportfüggőség eltávolítva
+Group dependency set,Csoportfüggőség beállítva
+Group removed,Csoport eltávolítva
+Group updated,Csoport frissítve
+Hammock task dates are auto-calculated and cannot be changed manually,A függőágy-feladat dátumait a rendszer automatikusan számítja és nem módosíthatók kézzel
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Kérdése van vagy segítségre van szüksége? Töltse ki az alábbi űrlapot és csapatunk válaszolni fog.
+Health,Egészség
+Healthy,Egészséges
+Hello {0},Szia {0}
+Here's what's happening with your projects today.,Íme mi történik a projektjeivel ma.
+Hide,Elrejtés
+High,Magas
+History,Előzmények
+Home,Főoldal
+Hourly Cost,Óradíj
+Hours,Órák
+hours,óra
+Hours Logged,Rögzített órák
+ID,Azonosító
+Image must be smaller than 5 MB,A kép nem lehet nagyobb 5 MB-nál
+Import,Importálás
+Import existing projects and tasks from Frappe Projects module,Meglévő projektek és feladatok importálása a Frappe Projects modulból
+Import failed,Az importálás sikertelen
+Import Template,Sablon importálása
+Imported,Importálva
+in,ebben
+In Progress,Folyamatban
+In Review,Felülvizsgálat alatt
+In-app notifications,Alkalmazáson belüli értesítések
+Inactive,Inaktív
+Initial Review,Előzetes felülvizsgálat
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Nincs elegendő jogosultság az összes feladat megtekintéséhez
+Intermediate,Haladó
+Internal,Belső
+Invalid DocType,Érvénytelen DocType
+Invalid DocType for import,Érvénytelen DocType az importáláshoz
+Invalid item type: {0},Érvénytelen elemtípus: {0}
+Invalid JSON data,Érvénytelen JSON adatok
+Invalid note type. Must be one of: {0},Érvénytelen jegyzettípus. Az alábbiak egyike kell legyen: {0}
+Invalid project reference,Érvénytelen projekthivatkozás
+Invalid reaction type. Must be one of: {0},Érvénytelen reakciótípus. Az alábbiak egyike kell legyen: {0}
+Invalid RSVP status,Érvénytelen RSVP állapot
+Invalid status. Must be one of: {0},Érvénytelen állapot. Az alábbiak egyike kell legyen: {0}
+Invalid status: {0},Érvénytelen állapot: {0}
+Invalid status: {0}. Must be one of: {1},Érvénytelen állapot: {0}. Az alábbiak egyike kell legyen: {1}
+Invalid tracking context: {0},Érvénytelen követési kontextus: {0}
+Invalid visibility. Must be one of: {0},Érvénytelen láthatóság. Az alábbiak egyike kell legyen: {0}
+Invitation: {0} - {1} at {2},"Meghívó: {0} - {1}, {2}"
+Invite People,Személyek meghívása
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Elem hozzáadva
+Item ID is required,Az elem azonosítója kötelező
+Item removed,Elem eltávolítva
+Item type is required,Az elemtípus kötelező
+Item {0} not found,A(z) {0} elem nem található
+Job title or role,Munkakör vagy szerep
+Join Meeting,Csatlakozás a megbeszéléshez
+Just now,Éppen most
+just now,éppen most
+Kanban,Kanban
+Kanban Board,Kanban tábla
+Kanban View,Kanban nézet
+Keyboard Shortcuts,Billentyűparancsok
+Keyboard shortcuts (?),Billentyűparancsok (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Utoljára frissítve
+Last updated:,Utoljára frissítve:
+Last Week,Múlt héten
+Latest Version,Latest Version
+Light,Világos
+Link failed,Az összekapcsolás sikertelen
+Link Task,Feladat összekapcsolása
+Linked,Összekapcsolva
+Linked employee not found,Összekapcsolt alkalmazott nem található
+Linked Tasks,Összekapcsolt feladatok
+List,Lista
+List View,Listanézet
+Load failed,A betöltés sikertelen
+Load More,Továbbiak betöltése
+Load more comments,További hozzászólások betöltése
+Loading activity...,Tevékenység betöltése...
+Loading changes...,Módosítások betöltése...
+Loading checklist...,Ellenőrzőlista betöltése...
+Loading comments...,Hozzászólások betöltése...
+Loading contact...,Kapcsolattartó betöltése...
+Loading contacts...,Kapcsolattartók betöltése...
+Loading dependencies...,Függőségek betöltése...
+Loading details...,Részletek betöltése...
+Loading discussion...,Megbeszélés betöltése...
+Loading events...,Események betöltése...
+Loading files...,Fájlok betöltése...
+Loading notes...,Jegyzetek betöltése...
+Loading preferences...,Beállítások betöltése...
+Loading project...,Projekt betöltése...
+Loading projects...,Projektek betöltése...
+Loading replies...,Válaszok betöltése...
+Loading report data...,Jelentés adatainak betöltése...
+Loading settings...,Beállítások betöltése...
+Loading task...,Feladat betöltése...
+Loading templates...,Sablonok betöltése...
+Loading time logs...,Időbejegyzések betöltése...
+Loading your portal...,Portál betöltése...
+Loading...,Betöltés...
+Location,Helyszín
+Log Time,Idő rögzítése
+Logout,Kijelentkezés
+Low,Alacsony
+Make Offer,Ajánlattétel
+Manager,Vezető
+Manual Entry,Kézi bevitel
+Margin,Árrés
+Mark all as read,Összes olvasottnak jelölése
+Mark all read,Összes olvasottnak jelölése
+Mark as read,Olvasottnak jelölés
+Mark as unread,Olvasatlannak jelölés
+Mark read,Olvasottnak jelölés
+Marking...,Jelölés...
+Material,Anyag
+Maybe,Talán
+Medium,Közepes
+Meeting,Megbeszélés
+Meeting Link,Megbeszélés hivatkozása
+Meeting title,Megbeszélés címe
+Meeting URL,Megbeszélés URL
+Meetings,Megbeszélések
+Mention,Említés
+Message,Üzenet
+Message is required,Az üzenet kötelező
+Message is required for '{0}' action,"Az üzenet kötelező a(z) „{0} művelethez"""
+Migrate,Áttelepítés
+Migration Complete,Áttelepítés kész
+Migration ID:,Áttelepítési azonosító:
+Migration log not found: {0},Áttelepítési napló nem található: {0}
+Milestone,Mérföldkő
+milestone,mérföldkő
+Milestone created,Mérföldkő létrehozva
+Milestone description has been saved.,A mérföldkő leírása mentve lett.
+Milestone ID is required,A mérföldkő azonosítója kötelező
+Milestone marked as Missed (past due date),Mérföldkő elmulasztottnak jelölve (lejárt határidő)
+Milestone moved,Mérföldkő áthelyezve
+Milestone Name,Mérföldkő neve
+Milestone name has been saved.,A mérföldkő neve mentve lett.
+Milestone name is required,A mérföldkő neve kötelező
+Milestone updated,Mérföldkő frissítve
+Milestone {0} not found,A(z) {0} mérföldkő nem található
+Milestone {0} not in project {1},A(z) {0} mérföldkő nincs a(z) {1} projektben
+Milestones,Mérföldkövek
+milestones,mérföldkövek
+Milestones:,Mérföldkövek:
+Minutes,Percek
+Missed,Elmulasztva
+Mixed,Vegyes
+Mobile,Mobil
+Moderate,Mérsékelt
+Modified,Módosítva
+"Modify details, time, or attendees","Részletek, időpont vagy résztvevők módosítása"
+Mon,Hét
+Month,Hónap
+Move failed,Az áthelyezés sikertelen
+Must be a positive number,Pozitív számnak kell lennie
+Must finish before this finishes,Be kell fejeződnie ennek befejezése előtt
+Must finish before this starts,Be kell fejeződnie ennek kezdése előtt
+Must start before this finishes,Meg kell kezdődnie ennek befejezése előtt
+Must start before this starts,Meg kell kezdődnie ennek kezdése előtt
+My Assignments,Hozzárendeléseim
+My Projects,Projektjeim
+My Schedule,Ütemtervem
+My Tasks,Feladataim
+N/A,N/A
+Name,Név
+Name (A-Z),Név (A-Z)
+Name (Z-A),Név (Z-A)
+Name cannot exceed 255 characters,A név nem lehet hosszabb 255 karakternél
+Need help?,Segítségre van szüksége?
+Needs Attention,Figyelmet igényel
+Never,Never
+new activities,új tevékenységek
+New Activity,Új tevékenység
+New activity,Új tevékenység
+New Event,Új esemény
+New index is required,Az új index megadása kötelező
+New Project,Új projekt
+New tasks will auto-trail by default.,Az új feladatok alapértelmezés szerint automatikusan csúsznak.
+Newest First,Legújabb elöl
+Next,Következő
+Next 14 days,Következő 14 nap
+Next 30 days,Következő 30 nap
+Next 60 days,Következő 60 nap
+Next 7 days,Következő 7 nap
+Next 90 days,Következő 90 nap
+Next Week,Jövő héten
+Next:,Következő:
+No,Nem
+No active assignments,Nincsenek aktív hozzárendelések
+No active projects,Nincsenek aktív projektek
+No active timer found,Nem található aktív időmérő
+No activity selected,Nincs tevékenység kiválasztva
+No assignments found,Nem találhatók hozzárendelések
+No attendees,Nincsenek résztvevők
+no change,nincs változás
+No changes for this field.,Nincs módosítás ennél a mezőnél.
+No changes recorded for this activity.,Nem rögzítettek módosítást ehhez a tevékenységhez.
+No checklist items yet,Még nincsenek ellenőrzőlista-elemek
+No checklist items yet.,Még nincsenek ellenőrzőlista-elemek.
+No comments yet,Még nincsenek hozzászólások
+No comments yet.,Még nincsenek hozzászólások.
+No contacts available,Nincsenek elérhető kapcsolattartók
+No content for this tab,Nincs tartalom ehhez a fülhöz
+No data available,Nincsenek elérhető adatok
+No data available for the selected filters,Nincs elérhető adat a kiválasztott szűrőkhöz
+No data to export,Nincs exportálandó adat
+No dates set,Nincsenek dátumok beállítva
+No defects reported,Nincsenek jelentett hibák
+No dependencies defined,Nincsenek függőségek meghatározva
+No description,Nincs leírás
+No discussion yet.,Még nincs megbeszélés.
+No documents attached,Nincsenek csatolt dokumentumok
+No due date,Nincs határidő
+No employee linked to this resource,Nincs alkalmazott ehhez az erőforráshoz kapcsolva
+No ERPNext employee linked to resource,Nincs ERPNext alkalmazott az erőforráshoz kapcsolva
+No events found,Nem találhatók események
+No files attached yet.,Még nincsenek csatolt fájlok.
+No Frappe Project linked,Nincs Frappe projekt összekapcsolva
+No Grouping,Nincs csoportosítás
+No items,Nincsenek elemek
+No matching tasks,Nincsenek egyező feladatok
+No matching tasks found,Nem találhatók egyező feladatok
+No migration history,Nincs áttelepítési előzmény
+No Milestone,Nincs mérföldkő
+No milestones,Nincsenek mérföldkövek
+No milestones defined for this project.,Nincsenek mérföldkövek meghatározva ehhez a projekthez.
+No notes yet.,Még nincsenek jegyzetek.
+No notes yet. Add a due diligence note to track progress.,Még nincsenek jegyzetek. Adjon hozzá egy átvilágítási jegyzetet a haladás nyomon követéséhez.
+No notifications,Nincsenek értesítések
+No Orga Project linked to Frappe Project {0},Nincs Orga projekt a(z) {0} Frappe projekthez kapcsolva
+No overdue tasks,Nincsenek késedelmes feladatok
+No pending cascade changes,Nincsenek függőben lévő továbbgyűrűző módosítások
+No predecessors - this task can start independently,Nincsenek előfeltételek — ez a feladat önállóan elkezdhető
+No project,Nincs projekt
+No projects found,Nem találhatók projektek
+No Projects Yet,Még nincsenek projektek
+No recent activity,Nincs közelmúltbeli tevékenység
+No related documents,Nincsenek kapcsolódó dokumentumok
+No resolved threads.,Nincsenek megoldott beszélgetések.
+No resources found,Nem találhatók erőforrások
+No results found,Nem találhatók eredmények
+No skills listed,Nincsenek képességek felsorolva
+No skills recorded yet,Még nincsenek rögzített képességek
+No successors - no tasks are waiting for this one,Nincsenek utódok — egyetlen feladat sem várakozik erre
+No task selected,Nincs kiválasztott feladat
+No tasks assigned to you,Nincs önhöz rendelt feladat
+No tasks available to add,Nincs hozzáadható feladat
+No tasks found,Nem találhatók feladatok
+No tasks linked to this milestone,Nincsenek ehhez a mérföldkőhöz kapcsolt feladatok
+No tasks with dates to display,Nincsenek dátummal rendelkező feladatok a megjelenítéshez
+No tasks yet,Még nincsenek feladatok
+No team members,Nincsenek csapattagok
+No template,Nincs sablon
+No templates yet,Még nincsenek sablonok
+No time data found,Nem találhatók időadatok
+No time logged today,Ma nincs rögzített idő
+No time logged yet,Még nincs rögzített idő
+No time logs for this period,Nincsenek időbejegyzések erre az időszakra
+No time logs found,Nem találhatók időbejegyzések
+No unread notifications,Nincsenek olvasatlan értesítések
+No update information available yet.,No update information available yet.
+None,Nincs
+Not found,Nem található
+Not permitted,Nincs engedélyezve
+Not permitted to access this project,Nincs jogosultság a projekt eléréséhez
+Not permitted to access this task,Nincs jogosultság a feladat eléréséhez
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Nincs jogosultság hozzászólni ehhez a dokumentumhoz
+Not permitted to create clients,Nincs jogosultság ügyfelek létrehozásához
+Not permitted to delete this client,Nincs jogosultság az ügyfél törléséhez
+Not permitted to delete this defect,Nincs jogosultság a hiba törléséhez
+Not permitted to delete this note,Nincs jogosultság a jegyzet törléséhez
+Not permitted to delete this project,Nincs jogosultság a projekt törléséhez
+Not permitted to delete this task,Nincs jogosultság a feladat törléséhez
+Not permitted to delete this time log,Nincs jogosultság az időbejegyzés törléséhez
+Not permitted to invite clients,Nincs jogosultság ügyfelek meghívásához
+Not permitted to modify client access,Nincs jogosultság az ügyfélhozzáférés módosításához
+Not permitted to modify this project,Nincs jogosultság a projekt módosításához
+Not permitted to update settings,Nincs jogosultság a beállítások módosításához
+Not permitted to update this client,Nincs jogosultság az ügyfél módosításához
+Not permitted to view this client,Nincs jogosultság az ügyfél megtekintéséhez
+not sent,nincs elküldve
+Not set,Nincs beállítva
+Not specified,Nincs megadva
+Note,Jegyzet
+Note (optional),Jegyzet (nem kötelező)
+Note Content,Jegyzet tartalma
+Note content is required,A jegyzet tartalma kötelező
+Note name is required,A jegyzet neve kötelező
+Note not found,Jegyzet nem található
+Note Type,Jegyzet típusa
+Notes,Jegyzetek
+Notification,Értesítés
+Notification not found,Értesítés nem található
+Notifications,Értesítések
+Off Track,Kisiklott
+Offer,Ajánlat
+Offer Prepared,Ajánlat elkészítve
+Oldest First,Legrégebbi elöl
+On Hold,Szüneteltetve
+On Leave,Szabadságon
+On Track,Ütemterv szerint
+On-Time Rate,Határidő-tartási arány
+Only administrators can delete activities,Csak rendszergazdák törölhetnek tevékenységeket
+Only the comment author or administrators can delete comments,Csak a hozzászólás szerzője vagy a rendszergazdák törölhetnek hozzászólásokat
+Only you and admins,Csak ön és a rendszergazdák
+Open,Nyitott
+Open in Desk,Megnyitás a Desk-ben
+Open Task Log,Feladatnapló megnyitása
+Open Tasks,Nyitott feladatok
+Optional,Nem kötelező
+optional,nem kötelező
+Or email us directly at,Vagy írjon nekünk közvetlenül a következő címre
+Orga Project {0} from Frappe Projects,Orga projekt {0} a Frappe Projects-ből
+Orga Task {0} from Frappe,Orga feladat {0} a Frappe-ből
+Organizer,Szervező
+Other,Egyéb
+Over Budget,Túlköltés
+Overall Progress,Összesített haladás
+Overall Utilization,Összesített kihasználtság
+Overallocated,Túlterhelt
+Overdue,Késedelmes
+overdue,késedelmes
+Overdue Tasks,Késedelmes feladatok
+Overview,Áttekintés
+Owner,Tulajdonos
+Page Not Found,Az oldal nem található
+Parent,Szülő
+Parent comment must belong to the same document,A szülő hozzászólásnak ugyanahhoz a dokumentumhoz kell tartoznia
+Parent comment not found,Szülő hozzászólás nem található
+Parent project not synced to Frappe yet,A szülő projekt még nincs szinkronizálva a Frappe-vel
+Parent project sync not enabled,A szülő projekt szinkronizálása nincs engedélyezve
+Partner,Partner
+Pending,Függőben
+per page,oldalanként
+Perform initial assessment and background check,Előzetes értékelés és háttérellenőrzés elvégzése
+Permanently remove this event,Az esemény végleges törlése
+Permanently remove this task,A feladat végleges törlése
+Phone,Telefon
+Pin,Kitűzés
+Pin Activity,Tevékenység kitűzése
+Pin to top,Kitűzés a tetejére
+Pinned,Kitűzve
+Planned budget for this task,A feladat tervezett költségvetése
+Planning,Tervezés
+Please describe your question or issue in detail...,Kérjük részletesen írja le kérdését vagy problémáját...
+Please login to access Orga,Kérjük jelentkezzen be az Orga eléréséhez
+Please login to access the client portal,Kérjük jelentkezzen be az ügyfélportál eléréséhez
+Please respond to this invitation in Orga,Kérjük válaszoljon erre a meghívóra az Orga-ban
+Please select an image file,Kérjük válasszon képfájlt
+Please try again,Kérjük próbálja újra
+Please type,Kérjük írja be
+Portal,Portál
+Portal access revoked for {0},Portálhozzáférés visszavonva a következőtől: {0}
+Portal user created successfully. Welcome email {0},Portálfelhasználó sikeresen létrehozva. Üdvözlő e-mail {0}
+Post,Közzététel
+Powered by,Működteti
+Powered by Tonic,Működteti a Tonic
+Predecessors (Blocked By),Előfeltételek (blokkolja)
+Preferences,Beállítások
+Preferences saved successfully,Beállítások sikeresen mentve
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Automatikusan generált projektkódok előtagja (pl. ORG-2026-0001)
+Prepare and document offer terms,Ajánlati feltételek előkészítése és dokumentálása
+Press,Nyomja meg a
+Preview,Előnézet
+Preview cascade before applying,Továbbgyűrűzés előnézete alkalmazás előtt
+Previous,Előző
+Priority,Prioritás
+Priority assigned to new tasks,Új feladatokhoz rendelt prioritás
+Priority updated,Prioritás frissítve
+Proficiency,Jártasság
+Profile,Profil
+Progress,Haladás
+Progress (High-Low),Haladás (csökkenő)
+Progress (Low-High),Haladás (növekvő)
+Progress Overview,Haladás áttekintése
+Progress updated,Haladás frissítve
+Project,Projekt
+Project budget has been saved.,A projekt költségvetése mentve lett.
+Project code (e.g. ORG-2026-0001),Projektkód (pl. ORG-2026-0001)
+Project Code Prefix,Projektkód előtag
+Project created,Projekt létrehozva
+Project deleted,Projekt törölve
+Project description has been saved.,A projekt leírása mentve lett.
+Project Details,Projekt részletei
+Project end date has been saved.,A projekt befejezési dátuma mentve lett.
+Project Files,Projektfájlok
+Project has no linked client,A projekthez nincs ügyfél kapcsolva
+Project Health,Projekt állapota
+Project Info,Projekt információ
+Project is required,A projekt megadása kötelező
+Project is required for project context,A projekt megadása kötelező projektkontextusban
+Project is required when tracking context is 'project',"A projekt megadása kötelező, ha a követési kontextus „projekt""
+Project name and template name are required,A projekt neve és a sablon neve kötelező
+Project name is required,A projekt neve kötelező
+Project not found,Projekt nem található
+Project not found or you do not have access,A projekt nem található vagy nincs hozzáférése
+Project settings,Projektbeállítások
+Project start date has been saved.,A projekt kezdési dátuma mentve lett.
+Project title has been saved.,A projekt címe mentve lett.
+Project updated,Projekt frissítve
+Project {0} linked to client {1},A(z) {0} projekt összekapcsolva a(z) {1} ügyféllel
+Project {0} not found,A(z) {0} projekt nem található
+Project {0} to Frappe Projects,A(z) {0} projekt a Frappe Projects-be
+Project:,Projekt:
+Projects,Projektek
+Projects Overview,Projektek áttekintése
+Projects created:,Létrehozott projektek:
+Projects skipped:,Kihagyott projektek:
+Projects updated:,Frissített projektek:
+Promote failed,Az előléptetés sikertelen
+Promote to task,Előléptetés feladattá
+Promoted to task,Feladattá előléptetve
+Propose,Javaslat
+Propose New Time,Új időpont javaslása
+Propose Time,Időpont javaslása
+Proposed End,Javasolt befejezés
+Proposed Start,Javasolt kezdés
+Public,Nyilvános
+Quick Action,Gyors művelet
+Quick Actions,Gyors műveletek
+Quick Stats,Gyors statisztikák
+RSVP,RSVP
+Rates,Díjak
+Receive notifications via email,Értesítések fogadása e-mailben
+Receive notifications within the application,Értesítések fogadása az alkalmazáson belül
+Recipient {0} is not a valid user,A(z) {0} címzett nem érvényes felhasználó
+Recent Activity,Közelmúltbeli tevékenység
+Reference,Hivatkozás
+Refresh,Frissítés
+Related,Kapcsolódó
+Related Company (optional),Kapcsolódó cég (nem kötelező)
+Related Documents,Kapcsolódó dokumentumok
+Related Project,Kapcsolódó projekt
+Remaining,Hátralévő
+Reminder,Emlékeztető
+Reminder Lead Time"""
+Project Manager,Projektvezető
+Project Name,Projekt neve
+Project name and template name are required,A projekt neve és a sablon neve kötelező
+Project name is required,A projekt neve kötelező
+Project not found,Projekt nem található
+Project not found or you do not have access,"Projekt nem található, vagy nincs hozzáférése"
+Project settings,Projekt beállítások
+Project start date has been saved.,A projekt kezdési dátuma mentve.
+Project title has been saved.,A projekt címe mentve.
+Project Type,Projekttípus
+Project updated,Projekt frissítve
+Project {0} linked to client {1},Projekt {0} összekapcsolva az ügyféllel {1}
+Project {0} not found,Projekt {0} nem található
+Project {0} to Frappe Projects,Projekt {0} a Frappe Projects-be
+Project:,Projekt:
+projects,projektek
+Projects,Projektek
+Projects created:,Létrehozott projektek:
+Projects Overview,Projektek áttekintése
+Projects skipped:,Kihagyott projektek:
+Projects updated:,Frissített projektek:
+Promote failed,Előléptetés sikertelen
+Promote to task,Előléptetés feladattá
+Promoted to task,Feladattá előléptetve
+Propose,Javaslat
+Propose New Time,Új időpont javaslata
+Propose Time,Időpont javaslata
+Proposed End,Javasolt befejezés
+Proposed Start,Javasolt kezdés
+Public,Nyilvános
+Quick Action,Gyorsművelet
+Quick Actions,Gyorsműveletek
+Quick Stats,Gyorsstatisztika
+Rates,Díjszabások
+Receive notifications via email,Értesítések fogadása e-mailben
+Receive notifications within the application,Értesítések fogadása az alkalmazáson belül
+Recent Activity,Legutóbbi tevékenység
+Recipient {0} is not a valid user,A címzett {0} nem érvényes felhasználó
+Reference,Hivatkozás
+Refresh,Frissítés
+Related,Kapcsolódó
+Related Company (optional),Kapcsolódó vállalat (opcionális)
+Related Documents,Kapcsolódó dokumentumok
+Related Project,Kapcsolódó projekt
+Remaining,Hátralévő
+Reminder,Emlékeztető
+Reminder Lead Time,Emlékeztető előzetes idő
+Reminder: {0} - {1} at {2},Emlékeztető: {0} - {1} időpontban {2}
+Remove,Eltávolítás
+Remove dependency,Függőség eltávolítása
+Remove dependency on,Függőség eltávolítása ettől
+Remove from group,Eltávolítás a csoportból
+Remove group dependency,Csoportfüggőség eltávolítása
+Remove skill,Képesség eltávolítása
+Reopen,Újranyitás
+Reopen thread,Beszélgetés újranyitása
+reopened,újranyitva
+replies,válaszok
+Reply,Válasz
+reply,válasz
+Replying to,Válasz erre
+Replying to comment,Válasz a hozzászólásra
+Report Defect,Hiba jelentése
+Reported Date,Jelentés dátuma
+Reports,Jelentések
+Reports To,Jelentés címzettje
+Request Submitted!,Kérés elküldve!
+Required,Kötelező
+required,kötelező
+Research,Kutatás
+Reset to Defaults,Visszaállítás alapértelemre
+Resolve,Megoldás
+Resolve thread,Beszélgetés megoldása
+Resolved,Megoldva
+Resolved date cannot be before reported date,A megoldás dátuma nem lehet korábbi a jelentés dátumánál
+Resource,Erőforrás
+Resource and skill name are required,Az erőforrás és a képesség neve kötelező
+Resource is already an attendee,Az erőforrás már résztvevő
+Resource name is required,Az erőforrás neve kötelező
+Resource not found,Erőforrás nem található
+Resource synced from employee {0},Erőforrás szinkronizálva a(z) {0} alkalmazottból
+Resource {0} is already assigned to this task ({1}),A(z) {0} erőforrás már hozzá van rendelve ehhez a feladathoz ({1})
+Resource {0} not found,A(z) {0} erőforrás nem található
+Resources,Kapcsolattartók
+Retry,Újrapróbálás
+Review,Felülvizsgálat
+Review all relevant documents and contracts,Minden vonatkozó dokumentum és szerződés felülvizsgálata
+Reviews,Felülvizsgálatok
+Risk Assessment,Kockázatértékelés
+Rollback,Visszagörgetés
+Rolled back,Visszagörgetve
+Room or address,Terem vagy cím
+RSVP,RSVP
+Safety,Biztonság
+Sat,Szo
+Save,Mentés
+"Save a project as a template, or import one from a JSON file.","Mentse el a projektet sablonként, vagy importáljon egyet JSON fájlból."
+Save as Template,Mentés sablonként
+Save Changes,Módosítások mentése
+Save failed,A mentés sikertelen
+Save Preferences,Beállítások mentése
+Save Template,Sablon mentése
+Saving...,Mentés...
+Schedule,Ütemterv
+Schedule type is required for scheduled triggers,Az ütemezés típusa kötelező az ütemezett eseményindítóknál
+Scheduled,Ütemezett
+Search,Keresés
+"Search by name, email, or skill...","Keresés név, e-mail vagy képesség alapján..."
+Search for a project...,Projekt keresése...
+Search for a task...,Feladat keresése...
+Search for an event...,Esemény keresése...
+Search for people to invite...,Meghívandó személyek keresése...
+Search tasks to link...,Kapcsolandó feladatok keresése...
+Search tasks...,Feladatok keresése...
+Search...,Keresés...
+Searching...,Keresés...
+Seen,Megtekintve
+Select a project if your request is related to a specific project.,Válasszon projektet ha kérése egy adott projekthez kapcsolódik.
+Select a project...,Válasszon projektet...
+Select a task from the Gantt chart to view and manage its details.,Válasszon feladatot a Gantt diagramból a részletek megtekintéséhez és kezeléséhez.
+Select a task from the list or Kanban board to view and manage its details.,Válasszon feladatot a listából vagy a Kanban tábláról a részletek megtekintéséhez és kezeléséhez.
+Select a template...,Válasszon sablont...
+Select priority...,Válasszon prioritást...
+Select status...,Válasszon állapotot...
+Select task...,Válasszon feladatot...
+Select type...,Válasszon típust...
+Selection,Kiválasztás
+Send,Küldés
+Send comment,Hozzászólás küldése
+Send email invitations to attendees,E-mail meghívók küldése a résztvevőknek
+Send Invitations,Meghívók küldése
+Send notification when a task is assigned to a user,Értesítés küldése feladat hozzárendelésekor
+Send notification when task status changes,Értesítés küldése a feladat állapotának változásakor
+Send reminder before task due date,Emlékeztető küldése a feladat határideje előtt
+sent,elküldve
+Set rate,Díj beállítása
+Settings,Beállítások
+Settings saved successfully,Beállítások sikeresen mentve
+Severity,Súlyosság
+SF (Start-Finish),SF (Kezdés-Befejezés)
+SF - Start-to-Finish,SF - Kezdéstől-befejezésig
+Show,Megjelenítés
+Show all,Összes megjelenítése
+Show all changes,Összes módosítás megjelenítése
+Show Archived,Archivált megjelenítése
+Show full diff,Teljes eltérés megjelenítése
+Show less,Kevesebb megjelenítése
+Show more,Több megjelenítése
+Skill added,Képesség hozzáadva
+Skill is required,A képesség megadása kötelező
+Skill Name,Képesség neve
+Skill removed,Képesség eltávolítva
+Skill {0} already exists for this resource,A(z) {0} képesség már létezik ennél az erőforrásnál
+Skills,Képességek
+Skills & Competencies,Képességek és kompetenciák
+Skip already migrated projects,Már áttelepített projektek kihagyása
+Sort by,Rendezés
+Sort: Due Date,Rendezés: Határidő
+Sort: Priority,Rendezés: Prioritás
+Sort: Project,Rendezés: Projekt
+Sort: Status,Rendezés: Állapot
+Sort: Task,Rendezés: Feladat
+Source Code,Forráskód
+Spent,Elköltött
+Spent:,Elköltött:
+SS (Start-Start),SS (Kezdés-Kezdés)
+SS - Start-to-Start,SS - Kezdéstől-kezdésig
+Standalone,Önálló
+Start,Kezdés
+Start a discussion below,Indítson megbeszélést alább
+Start Date,Kezdési dátum
+Start date,Kezdési dátum
+Start Date (Earliest),Kezdési dátum (legkorábbi)
+Start date updated,Kezdési dátum frissítve
+Start date/time is required,A kezdési dátum/idő kötelező
+Start Migration,Áttelepítés indítása
+Start the conversation below.,Indítsa el a beszélgetést alább.
+Start Timer,Időmérő indítása
+Start typing to search...,Kezdjen el gépelni a kereséshez...
+Start-to-Finish,Kezdéstől-befejezésig
+Start-to-Start,Kezdéstől-kezdésig
+Start:,Kezdés:
+Statistics reset,Statisztikák visszaállítva
+Status,Állapot
+Status assigned to new projects,Új projektekhez rendelt állapot
+Status assigned to new tasks,Új feladatokhoz rendelt állapot
+Status Changes,Állapotváltozások
+Status updated,Állapot frissítve
+Status:,Állapot:
+Stop,Leállítás
+Stop & Save,Leállítás és mentés
+Stop Timer,Időmérő leállítása
+Stops current timer and starts for this event,Leállítja a jelenlegi időmérőt és elindítja ennél az eseménynél
+Stops current timer and starts for this task,Leállítja a jelenlegi időmérőt és elindítja ennél a feladatnál
+Subject,Tárgy
+Subject cannot exceed 255 characters,A tárgy nem lehet hosszabb 255 karakternél
+Subject is required,A tárgy kötelező
+Submit,Beküldés
+Submit Another Request,Újabb kérés beküldése
+Submit Request,Kérés beküldése
+Submitting...,Beküldés...
+Successfully saved,Sikeresen mentve
+Successors (Blocking),Utódok (blokkoló)
+Sun,Vas
+Supplier,Szállító
+Support,Támogatás
+Switch to this event,Váltás erre az eseményre
+Switch to this task,Váltás erre a feladatra
+Sync direction is set to Frappe to Orga only,A szinkronizálás iránya csak Frappe-ből Orga-ba van beállítva
+Sync direction is set to Orga to Frappe only,A szinkronizálás iránya csak Orga-ból Frappe-be van beállítva
+Sync not enabled for this project,A szinkronizálás nincs engedélyezve ehhez a projekthez
+System,Rendszer
+Table,Táblázat
+Take ownership of this task,A feladat átvétele
+Target Date,Cél dátum
+Target End,Cél befejezés
+Target Project,Célprojekt
+Target user is required for '{0}' action,"A célfelhasználó megadása kötelező a(z) „{0} művelethez"""
+Task,Feladat
+task,feladat
+Task '{0}' is due on {1}.,"A(z) „{0} feladat határideje {1}."""
+Task and resource are required,A feladat és az erőforrás megadása kötelező
+Task Assignment,Feladat-hozzárendelés
+Task cannot be its own parent,A feladat nem lehet saját szülője
+Task cannot depend on itself,A feladat nem függhet önmagától
+Task cannot depend on the group it belongs to,A feladat nem függhet a csoportjától amelyhez tartozik
+Task created,Feladat létrehozva
+Task deleted,Feladat törölve
+Task description has been saved.,A feladat leírása mentve lett.
+Task Details,Feladat részletei
+Task due in {0} days: {1},{0} nap múlva esedékes feladat: {1}
+Task due today: {0},Mai esedékes feladat: {0}
+Task due tomorrow: {0},Holnap esedékes feladat: {0}
+Task duplicated,Feladat duplikálva
+Task Group,Feladatcsoport
+Task ID is required,A feladat azonosítója kötelező
+Task is blocked by incomplete dependencies,A feladatot befejezetlen függőségek blokkolják
+Task is cancelled,A feladat visszavonva
+Task is completed,A feladat befejezve
+Task is no longer blocked by a group,A feladatot már nem blokkolja egy csoport
+Task is required for task context,A feladat megadása kötelező feladatkontextusban
+Task is required when tracking context is 'task',"A feladat megadása kötelező, ha a követési kontextus „feladat""
+Task linked,Feladat összekapcsolva
+Task moved,Feladat áthelyezve
+Task name,Feladat neve
+Task name is required,A feladat neve kötelező
+Task removed from group,Feladat eltávolítva a csoportból
+Task subject is required,A feladat tárgya kötelező
+Task unblocked: {0},Feladat feloldva: {0}
+Task unlinked,Feladat leválasztva
+Task updated,Feladat frissítve
+Task {0} not found,A(z) {0} feladat nem található
+Task {0} not in project {1},A(z) {0} feladat nincs a(z) {1} projektben
+Task {0} to Frappe,A(z) {0} feladat a Frappe-be
+Tasks and milestones will be created with dates relative to the project start date."""
+Task linked,Feladat összekapcsolva
+Task moved,Feladat áthelyezve
+Task name,Feladat neve
+Task name is required,A feladat neve kötelező
+Task removed from group,Feladat eltávolítva a csoportból
+Task Subject,Feladat tárgya
+Task subject is required,A feladat tárgya kötelező
+Task Type,Feladattípus
+Task unblocked: {0},Feladat blokkolása feloldva: {0}
+Task unlinked,Feladat leválasztva
+Task updated,Feladat frissítve
+Task {0} not found,Feladat {0} nem található
+Task {0} not in project {1},Feladat {0} nem a(z) {1} projektben van
+Task {0} to Frappe,Feladat {0} a Frappe-be
+Tasks,Feladatok
+tasks,feladatok
+Tasks and milestones will be created with dates relative to the project start date.,A feladatok és mérföldkövek a projekt kezdési dátumához viszonyított dátumokkal jönnek létre.
+Tasks assigned to you across all projects.,Az összes projektben önhöz rendelt feladatok.
+Tasks created:,Létrehozott feladatok:
+Tasks from projects you manage.,Az ön által vezetett projektek feladatai.
+Tasks updated:,Frissített feladatok:
+"Tasks, milestones, and dependencies have been created.","A feladatok, mérföldkövek és függőségek létrehozva."
+Tasks:,Feladatok:
+TBD,Később meghatározandó
+Team,Csapat
+Team Members,Csapattagok
+Template,Sablon
+Template applied,Sablon alkalmazva
+Template data is required in import data,A sablon adatai szükségesek az importadatokban
+Template has no data,A sablonnak nincsenek adatai
+Template Name,Sablon neve
+Template name,Sablon neve
+Template name is required,A sablon neve kötelező
+Template name is required in import data,A sablon neve szükséges az importadatokban
+Template saved,Sablon mentve
+Template updated successfully.,Sablon sikeresen frissítve.
+Template {0} not found,A(z) {0} sablon nem található
+Templates,Sablonok
+Tentative,Feltételes
+The comment has been deleted,A hozzászólás törölve lett
+The project,A projekt
+The source document may have been deleted.,A forrásdokumentum valószínűleg törölve lett.
+The source document will not be affected.,A forrásdokumentumot nem érinti.
+The status of '{0}' was changed from {1} to {2}.,"A(z) „{0} állapota {1}-ról/-ről {2}-ra/-re változott."""
+Theme,Téma
+Theme preference,Téma beállítás
+This action,Ez a művelet
+This action cannot be undone.,Ez a művelet nem vonható vissza.
+This activity has been flagged for attention,Ez a tevékenység figyelemre lett jelölve
+This is a reminder for your upcoming appointment,Emlékeztető a közelgő időpontjára
+This method is only meant for developer mode,Ez a metódus csak fejlesztői módban használható
+This page wandered off,This page wandered off
+This Week,Ezen a héten
+This will delete all notes and preferences associated with this activity.,Ez törli az összes ehhez a tevékenységhez társított jegyzetet és beállítást.
+This will import all Frappe Projects into Orga. Continue?,Ez az összes Frappe projektet importálja az Orga-ba. Folytatja?
+This will permanently delete,Ez véglegesen törli
+This will permanently delete:,Ez véglegesen törli:
+Thu,Csü
+Time,Idő
+Time & Billing,Idő és számlázás
+Time & Revenue,Idő és bevétel
+Time Entries,Időbejegyzések
+Time log name is required,Az időbejegyzés neve kötelező
+Time Log not found,Időbejegyzés nem található
+Time log {0} not found,A(z) {0} időbejegyzés nem található
+Time Logs,Időbejegyzések
+Time Summary,Idő összesítő
+Time Tracking,Időkövetés
+Timeline,Idővonal
+Timer active on,Időmérő aktív ezen
+Timer is not running,Az időmérő nem fut
+Timer Running,Időmérő fut
+Timer running,Időmérő fut
+Timesheet DocType not available,Munkaidő-nyilvántartás DocType nem érhető el
+Timesheets,Munkaidő-nyilvántartások
+Timezone,Időzóna
+Timezone is detected from your browser,Az időzóna a böngészőből van felismerve
+Title,Cím
+Title cannot exceed 255 characters,A cím nem lehet hosszabb 255 karakternél
+Title is required,A cím kötelező
+Title updated,Cím frissítve
+To,Eddig
+to,eddig
+to cancel,a visszavonáshoz
+to close,a bezáráshoz
+to confirm:,a megerősítéshez:
+to edit,a szerkesztéshez
+"to save,","a mentéshez,"
+To Time cannot be before From Time,"Az „eddig"" időpont nem lehet korábbi a „kezdés"" időpontnál"
+Today,Ma
+today,ma
+Toggle billable,Számlázhatóság váltása
+Toggle Details Panel,Részletek panel ki-/bekapcsolása
+Toggle Manager Panel,Kezelő panel ki-/bekapcsolása
+Toggle Sidebar,Oldalsáv ki-/bekapcsolása
+Tomorrow,Holnap
+tomorrow,holnap
+Total,Összesen
+Total Budget,Összes költségvetés
+Total Contacts,Összes kapcsolattartó
+Total Cost,Összes költség
+Total Cost to Org,Szervezet összköltsége
+Total Defect Cost,Hibák összköltsége
+Total Hours,Összes óra
+Total Hours Logged,Összes rögzített óra
+Total Projects,Összes projekt
+Total Spent,Összes elköltött
+Total Tasks,Összes feladat
+Total:,Összesen:
+Tracked,Követett
+trails to today while Open at 0%,csúszik a mai napig amíg Nyitott és 0%-on áll
+Tried:,Tried:
+Try adjusting your filter criteria,Próbálja módosítani a szűrési feltételeket
+Try adjusting your filters.,Próbálja módosítani a szűrőket.
+Try Again,Próbálja újra
+Tue,Ked
+Type,Típus
+Type updated,Típus frissítve
+Type:,Típus:
+Typical response time: 1-2 business days,Szokásos válaszidő: 1-2 munkanap
+Unarchive,Archiválás visszavonása
+Unarchive Activity,Tevékenység archiválásának visszavonása
+Unassign,Hozzárendelés megszüntetése
+Unassigned,Nincs hozzárendelve
+Under Budget,Költségvetésen belül
+Ungrouped,Csoportosítatlan
+Unknown,Ismeretlen
+Unknown error,Ismeretlen hiba
+Unlink failed,A leválasztás sikertelen
+Unlink task from milestone,Feladat leválasztása a mérföldkőről
+Unpin,Kitűzés visszavonása
+Unpin Activity,Tevékenység kitűzésének visszavonása
+Unread,Olvasatlan
+Unread only,Csak olvasatlanok
+Until,Eddig
+Up to Date,Up to Date
+Upcoming,Közelgő
+upcoming,közelgő
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,A frissítés sikertelen
+Updated,Frissítve
+Updated successfully,Sikeresen frissítve
+Updates,Updates
+Upload,Feltöltés
+Upload failed,A feltöltés sikertelen
+Upload files below to attach them to this task.,Töltsön fel fájlokat alább a feladathoz csatoláshoz.
+Upload to project,Feltöltés a projektbe
+Uploading...,Feltöltés...
+Urgent,Sürgős
+User {0} is already linked to client {1},A(z) {0} felhasználó már össze van kapcsolva a(z) {1} ügyféllel
+User {0} is already linked to resource {1},A(z) {0} felhasználó már össze van kapcsolva a(z) {1} erőforrással
+Utilization,Kihasználtság
+Valid,Érvényes
+Value:,Érték:
+Variance,Eltérés
+Variance:,Eltérés:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Megtekintés
+View All,Összes megtekintése
+View all active projects,Összes aktív projekt megtekintése
+View all open tasks,Összes nyitott feladat megtekintése
+View overdue tasks,Késedelmes feladatok megtekintése
+View Release,View Release
+Visibility,Láthatóság
+Waiting for this task,Várakozás erre a feladatra
+Waits for:,Várakozik:
+Warning: Resource {0} status is {1},Figyelmeztetés: a(z) {0} erőforrás állapota {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Figyelmeztetés: HTTP használata HTTPS helyett. A webhook adatok nem biztonságosak.
+Watch budget closely,Költségvetés szoros figyelemmel kísérése
+We'll respond to:,Válaszolni fogunk a következő címre:
+Webhook deleted,Webhook törölve
+Webhook name is required,A webhook neve kötelező
+Webhook not found,Webhook nem található
+Webhook URL is required,A webhook URL kötelező
+Webhook URL must start with http:// or https://,A webhook URL-nek http:// vagy https:// előtaggal kell kezdődnie
+Wed,Sze
+Week,Hét
+Weekend,Hétvége
+Weekly Capacity,Heti kapacitás
+weekly capacity,heti kapacitás
+Weekly Capacity (h),Heti kapacitás (ó)
+Welcome,Üdvözöljük
+Welcome back!,Üdvözöljük újra!
+Welcome to Orga,Üdvözöljük az Orga-ban
+What are you working on?,Min dolgozik éppen?
+What did you work on?,Min dolgozott?
+When,Mikor
+When work begins,Amikor a munka elkezdődik
+When work is due,Amikor a munka esedékes
+Where,Hol
+Will capture:,Rögzíteni fogja:
+Will create:,Létrehozza:
+with checklist items,ellenőrzőlista-elemekkel
+Working,Folyamatban
+Workload,Munkaterhelés
+Workmanship,Kivitelezés minősége
+Write a comment...,Írjon hozzászólást...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Írjon hozzászólást... Használja a @nevet az említéshez (Ctrl+Enter a küldéshez)
+Year,Év
+Yes,Igen
+Yesterday,Tegnap
+yesterday,tegnap
+You are not an attendee of this appointment,Ön nem résztvevője ennek az időpontnak
+You are not linked to any resource,Ön nincs egyetlen erőforráshoz sem kapcsolva
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Csak saját hozzászólásait törölheti
+You can only delete your own reactions,Csak saját reakcióit törölheti
+You do not have access to the client portal. Please contact support.,Nincs hozzáférése az ügyfélportálhoz. Kérjük lépjen kapcsolatba a támogatással.
+You have already reacted with '{0}',"Ön már reagált a következővel: „{0}""
+You have been assigned to task '{0}' in project '{1}'."""
+You have been assigned to task '{0}' in project '{1}'.,Hozzárendelték a(z) '{0}' feladathoz a(z) '{1}' projektben.
+You have been assigned to: {0},Hozzá lett rendelve: {0}
+You have been invited to the following appointment,Meghívták a következő időpontra
+You have no tasks assigned to you right now.,Jelenleg nincs önhöz rendelt feladat.
+You were mentioned in {0},Megemlítették a(z) {0} dokumentumban
+Your attendance,Az ön részvétele
+Your comment has been posted,Hozzászólása közzétéve
+Your Projects,Projektjei
+Your projects will appear here once they're assigned to you.,Projektjei itt jelennek meg amint önhöz lesznek rendelve.
+Your Response,Az ön válasza
+Your RSVP,Az ön RSVP-je
+Your support request has been submitted successfully.,Támogatási kérése sikeresen elküldve.
+Your support request has been submitted successfully. We'll get back to you shortly.,Támogatási kérése sikeresen elküldve. Hamarosan válaszolunk.
+"Your task ""{0}"" is no longer blocked and can now be started.","A(z) „{0} feladat már nincs blokkolva és most már elkezdhető."""
+{0} is required,{0} megadása kötelező
+{0} new activities,{0} új tevékenység
+{0} of {1} completed,{0} / {1} befejezve
+{0} projects already migrated (will be skipped or updated),{0} projekt már áttelepítve (ki lesznek hagyva vagy frissítve)
+{0} status changed to {1},{0} állapota {1}-ra/-re változott
+{0} tasks remaining,{0} hátralévő feladat
+{0} tasks without projects will be skipped,{0} projekt nélküli feladat ki lesz hagyva
+{0} {1} not found,{0} {1} nem található

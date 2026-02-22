@@ -1,0 +1,1492 @@
++ Add Milestone,+ 마일스톤 추가
++ Create Task,+ 작업 만들기
++ Log Time,+ 시간 기록
+-- Select a project --,-- 프로젝트 선택 --
+0m,0분
+1 day,1일
+1 day ago,1일 전
+1 dependency,종속성 1개
+1 entry,1건
+1 file,파일 1개
+1 hour ago,1시간 전
+1 member,멤버 1명
+1 milestone,마일스톤 1개
+1 month,1개월
+1 task,작업 1개
+< 1m,< 1분
+"A clear, actionable title for the task",작업 내용을 명확히 나타내는 제목
+A client with email {0} already exists: {1},이메일 {0}을(를) 사용하는 클라이언트가 이미 있습니다: {1}
+A key deliverable or checkpoint for the project,프로젝트의 주요 결과물 또는 체크포인트
+Accept,수락
+Accepted,수락됨
+Acknowledge,확인
+across,전체에서
+Action,작업
+Actions,작업
+Active,활성
+Active Assignments,활성 배정
+Active Projects,진행 중인 프로젝트
+Activity,활동
+Activity data deleted successfully,활동 데이터를 삭제했습니다
+Activity Info,활동 정보
+Activity Stats,활동 통계
+Activity will appear here as you work on tasks and projects.,작업과 프로젝트를 진행하면 활동 내역이 여기에 표시됩니다.
+Actual,실적
+Actual Cost,실제 비용
+Actual cost cannot be negative,실제 비용은 음수일 수 없습니다
+Actual end date cannot be before actual start date,실제 종료일이 실제 시작일보다 앞설 수 없습니다
+Actual Hours,실제 시간
+Add,추가
+Add a checklist item...,체크리스트 항목 추가...
+Add a comment...,댓글 추가...
+Add a comment... (Ctrl+Enter to send),댓글 추가... (Ctrl+Enter로 전송)
+Add a description...,설명 추가...
+Add a milestone description...,마일스톤 설명 추가...
+Add a note below to annotate this activity.,이 활동에 메모를 추가하세요.
+Add a note...,메모 추가...
+Add a project description...,프로젝트 설명 추가...
+Add a task description...,작업 설명 추가...
+Add checklist item...,체크리스트 항목 추가...
+Add Contact,연락처 추가
+Add contacts via the Desk interface or clear filters,Desk 화면에서 연락처를 추가하거나 필터를 해제하세요
+Add Dependency,종속성 추가
+Add details about this event...,이 일정의 세부 정보 추가...
+Add details about this milestone...,이 마일스톤의 세부 정보 추가...
+Add details about this task...,이 작업의 세부 정보 추가...
+Add details or acceptance criteria for this milestone,이 마일스톤의 세부 정보 또는 완료 기준 추가
+"Add details, context, or acceptance criteria","세부 정보, 배경 또는 완료 기준 추가"
+Add first dependency,첫 번째 종속성 추가
+Add item,항목 추가
+Add items below to track progress.,아래에 항목을 추가하여 진행 상황을 관리하세요.
+Add items below to track subtasks,아래에 항목을 추가하여 하위 작업을 관리하세요
+Add Milestone,마일스톤 추가
+Add Milestone (Shift+M),마일스톤 추가 (Shift+M)
+Add milestones to track key deliverables.,마일스톤을 추가하여 주요 결과물을 관리하세요.
+Add New Contact,새 연락처 추가
+Add Note,메모 추가
+Add note,메모 추가
+Add notes about this contact...,이 연락처에 대한 메모 추가...
+Add reaction,반응 추가
+Add Skill,기술 추가
+Add start and due dates to tasks to see them on the Gantt chart,작업에 시작일과 마감일을 설정하면 Gantt 차트에 표시됩니다
+Add Task,작업 추가
+Add Task (Shift+T),작업 추가 (Shift+T)
+Added Finish-to-Start dependency,완료-시작 종속성을 추가했습니다
+Adding this dependency would create a circular reference: {0},이 종속성을 추가하면 순환 참조가 발생합니다: {0}
+Adding...,추가 중...
+Address,주소
+Advanced,고급 설정
+All,전체
+All Active,모든 활성
+All Assignees,모든 담당자
+All Categories,모든 카테고리
+All caught up!,모두 확인했습니다!
+All Contexts,모든 컨텍스트
+All day,종일
+All day event,종일 일정
+All fields,모든 필드
+All Priorities,모든 우선순위
+All Projects,모든 프로젝트
+All Status,모든 상태
+All Statuses,모든 상태
+All task dependencies & relative dates,모든 작업 종속성 및 상대 날짜
+All Tasks,모든 작업
+All tasks across all projects.,모든 프로젝트의 모든 작업.
+All tasks are already linked,모든 작업이 이미 연결되어 있습니다
+All team members,모든 팀원
+All Types,모든 유형
+All Users,모든 사용자
+Allocated,배정됨
+allocated,배정됨
+Allow users to log time against tasks,작업에 대한 시간 기록 허용
+Already exported to timesheet {0},타임시트 {0}에 이미 내보내졌습니다
+Already Migrated,이미 마이그레이션됨
+Anyone with access,접근 권한이 있는 모든 사람
+anytime to show this help,언제든지 이 도움말 표시
+App Updates,App Updates
+Appearance,외관
+Apply,적용
+Apply cascade?,연쇄 적용하시겠습니까?
+Apply Changes,변경 사항 적용
+Apply failed,적용에 실패했습니다
+Apply Template,템플릿 적용
+Applying...,적용 중...
+Appointment,일정
+Appointment and resource are required,일정과 리소스는 필수입니다
+Appointment name is required,일정 이름은 필수입니다
+Appointment not found,일정을 찾을 수 없습니다
+Appointment {0} not found,일정 {0}을(를) 찾을 수 없습니다
+Apps,앱
+Archive,보관
+Archive Activity,활동 보관
+Archived,보관됨
+Are you sure you want to delete this activity data? This cannot be undone.,이 활동 데이터를 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다.
+Are you sure you want to delete this comment?,이 댓글을 삭제하시겠습니까?
+Are you sure you want to delete this project?,이 프로젝트를 삭제하시겠습니까?
+Are you sure?,계속하시겠습니까?
+Ascending -- click to reverse,오름차순 -- 클릭하여 반대로
+Assign To,담당자 지정
+Assign to Me,나에게 배정
+Assigned Contact,배정된 연락처
+Assigned To,담당자
+Assigned to,담당자
+Assigned to Me,나에게 배정됨
+Assignee,담당자
+Assignment,배정
+Assignment History,배정 이력
+Assignment name is required,배정 이름은 필수입니다
+Assignment {0} not found,배정 {0}을(를) 찾을 수 없습니다
+Assignments,배정
+At least one action is required,작업을 하나 이상 지정해야 합니다
+At least one event is required,일정을 하나 이상 지정해야 합니다
+At least one event must be selected,일정을 하나 이상 선택해야 합니다
+Attachment,첨부 파일
+Attachments,첨부 파일
+Attendees,참석자
+"Audit trail, assignments, version history","변경 추적, 배정, 버전 이력"
+Auto,자동
+Auto Calculate Progress,진행률 자동 계산
+Auto Set Missed Milestones,기한 초과 마일스톤 자동 설정
+Auto-shift dependents when dates change,날짜 변경 시 종속 작업 자동 조정
+Auto-Trail Start,자동 슬라이드 시작
+Auto-Trail updated,자동 슬라이드가 업데이트되었습니다
+Automatically calculate project progress from task completion,작업 완료 상태에서 프로젝트 진행률 자동 계산
+Automatically mark milestones as missed when overdue,기한이 지난 마일스톤을 자동으로 미달성으로 표시
+Automation rule {0} not found,자동화 규칙 {0}을(를) 찾을 수 없습니다
+Automation: {0},자동화: {0}
+Availability,가용 여부
+Available,가용
+Avatar updated successfully,아바타가 업데이트되었습니다
+Avg Progress,평균 진행률
+Back,뒤로
+Back to Portal,포털로 돌아가기
+Back to Projects,프로젝트로 돌아가기
+Beginner,초급
+Best regards,감사합니다
+Billable,청구 가능
+Billable Amount,청구 금액
+Billable Hours,청구 가능 시간
+Billable Rate,청구 단가
+Billing Rate,청구 요율
+Blocked,차단됨
+Both dates are needed to display task as a bar in Gantt chart,Gantt 차트에 막대로 표시하려면 두 날짜가 모두 필요합니다
+Both doctype and docname are required,doctype과 docname이 모두 필요합니다
+Both proposed start and end times are required,제안 시작 시간과 종료 시간이 모두 필요합니다
+Both task_name and depends_on are required,task_name과 depends_on이 모두 필요합니다
+Breadcrumb,경로 탐색
+Brief description of the defect or damage,결함 또는 손상에 대한 간단한 설명
+Brief description of this template,이 템플릿에 대한 간단한 설명
+Brief description of your request,요청 사항에 대한 간단한 설명
+Brief project description,프로젝트에 대한 간단한 설명
+Budget,예산
+Budget at risk,예산 위험
+Budget Burn Rate,예산 소진율
+Budget Status,예산 상태
+Budget updated,예산이 업데이트되었습니다
+Budget:,예산:
+Bug,버그
+Burn Rate,소진율
+Busy,바쁨
+By,작성자
+By Assignee,담당자별
+By Group,그룹별
+By Milestone,마일스톤별
+By Priority,우선순위별
+By Status,상태별
+Cancel,취소
+Cancelled,취소됨
+cannot be undone,되돌릴 수 없음
+Cannot delete client with {0} linked projects. Unlink projects first.,연결된 프로젝트가 {0}개 있어 클라이언트를 삭제할 수 없습니다. 먼저 프로젝트 연결을 해제하세요.
+Cannot delete project with {0} linked tasks. Delete tasks first.,연결된 작업이 {0}개 있어 프로젝트를 삭제할 수 없습니다. 먼저 작업을 삭제하세요.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,활성 배정이 {0}개 있어 리소스를 삭제할 수 없습니다. 먼저 완료하거나 취소하세요.
+Cannot delete task with {0} subtasks. Delete subtasks first.,하위 작업이 {0}개 있어 작업을 삭제할 수 없습니다. 먼저 하위 작업을 삭제하세요.
+Capacity,용량
+capacity,용량
+Capacity & Rates,용량 및 단가
+Capture project structure for reuse,프로젝트 구조를 재사용을 위해 저장
+Cascade,연쇄
+Cascade Preview,연쇄 미리보기
+Category,카테고리
+Celebrate,축하
+Change,변경
+Change History,변경 이력
+Change Priority,우선순위 변경
+Change Status,상태 변경
+Changes,변경 사항
+Changes appear when fields are modified.,필드가 수정되면 변경 사항이 여기에 표시됩니다.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,체크리스트
+Checklist item name is required,체크리스트 항목 이름은 필수입니다
+Checklist item not found,체크리스트 항목을 찾을 수 없습니다
+Checklist item title is required,체크리스트 항목 제목은 필수입니다
+Checklist item {0} not found,체크리스트 항목 {0}을(를) 찾을 수 없습니다
+Checklist item {0} not found in task,작업에서 체크리스트 항목 {0}을(를) 찾을 수 없습니다
+Child,하위
+Choose file to upload,업로드할 파일 선택
+Circular dependency detected: {0},순환 종속성이 감지되었습니다: {0}
+Circular parent-child relationship detected,순환 상위-하위 관계가 감지되었습니다
+Clear,지우기
+Clear all read,읽은 항목 모두 지우기
+Clear date,날짜 지우기
+Click on an activity from the list to view and manage its details.,목록에서 활동을 클릭하여 세부 정보를 확인하고 관리하세요.
+Click the avatar to upload a new photo,아바타를 클릭하여 새 사진 업로드
+Click to add description...,클릭하여 설명 추가...
+Click to add notes...,클릭하여 메모 추가...
+Click to assign contact,클릭하여 연락처 배정
+Click to change status,클릭하여 상태 변경
+Click to change type,클릭하여 유형 변경
+Click to edit,클릭하여 편집
+Click to edit budget,클릭하여 예산 편집
+Click to edit description,클릭하여 설명 편집
+Click to edit end date,클릭하여 종료일 편집
+Click to edit milestone name,클릭하여 마일스톤 이름 편집
+Click to edit rate,클릭하여 단가 편집
+Click to edit start date,클릭하여 시작일 편집
+Click to edit title,클릭하여 제목 편집
+Click to load,클릭하여 불러오기
+Click to set group dependency...,클릭하여 그룹 종속성 설정...
+Click to set group...,클릭하여 그룹 설정...
+Click to view,클릭하여 보기
+Click to view at-risk projects,위험 프로젝트 보기
+Click to view critical projects,중요 프로젝트 보기
+Click to view healthy projects,양호한 프로젝트 보기
+Client,클라이언트
+Client already has a portal user: {0},이 클라이언트에는 이미 포털 사용자가 있습니다: {0}
+Client already has portal access,클라이언트가 이미 포털에 접근할 수 있습니다
+Client has no portal user to revoke,취소할 포털 사용자가 없습니다
+Client link removed from project {0},프로젝트 {0}에서 클라이언트 연결을 제거했습니다
+Client Portal,클라이언트 포털
+Client {0} deleted successfully,클라이언트 {0}을(를) 삭제했습니다
+Close,닫기
+Close (Esc),닫기 (Esc)
+Comment,댓글
+comment,댓글
+Comment added,댓글을 추가했습니다
+Comment content is required,댓글 내용은 필수입니다
+Comment name is required,댓글 이름은 필수입니다
+Comment not found,댓글을 찾을 수 없습니다
+Comment removed,댓글을 삭제했습니다
+Comment {0} not found in task,작업에서 댓글 {0}을(를) 찾을 수 없습니다
+Comments,댓글
+comments,댓글
+Community Edition,Community Edition
+Company,회사
+Company name...,회사 이름...
+Complete,완료하기
+Completed,완료됨
+completed,완료됨
+Completed Tasks,완료된 작업
+Compliance,규정 준수
+Configure default values for new projects and tasks,새 프로젝트 및 작업의 기본값 설정
+Configure email notification settings,이메일 알림 설정 구성
+Confirm,확인
+Contact deleted,연락처를 삭제했습니다
+Contact Details,연락처 세부 정보
+Contact Information,연락처 정보
+Contact name is required,연락처 이름은 필수입니다
+Contact Support,지원 문의
+Contact your project manager for more information.,자세한 내용은 프로젝트 관리자에게 문의하세요.
+Contact:,연락처:
+Contacts,연락처
+Context,컨텍스트
+Contractor,외주업체
+Cost estimate cannot be negative,비용 추정값은 음수일 수 없습니다
+Cost Impact,비용 영향
+Cost Summary,비용 요약
+Could not apply the template. Please try again.,템플릿을 적용할 수 없습니다. 다시 시도해 주세요.
+Could not attach file to project,프로젝트에 파일을 첨부할 수 없습니다
+Could not change task priority,작업 우선순위를 변경할 수 없습니다
+Could not change task status,작업 상태를 변경할 수 없습니다
+Could not delete the project. Please try again.,프로젝트를 삭제할 수 없습니다. 다시 시도해 주세요.
+Could not delete the task. Please try again.,작업을 삭제할 수 없습니다. 다시 시도해 주세요.
+Could not delete the template.,템플릿을 삭제할 수 없습니다.
+Could not duplicate the task. Please try again.,작업을 복제할 수 없습니다. 다시 시도해 주세요.
+Could not export the template.,템플릿을 내보낼 수 없습니다.
+Could not import the template. Please check the file format.,템플릿을 가져올 수 없습니다. 파일 형식을 확인해 주세요.
+Could not link task to milestone,작업을 마일스톤에 연결할 수 없습니다
+Could not load document details.,문서 세부 정보를 불러올 수 없습니다.
+Could not load task details,작업 세부 정보를 불러올 수 없습니다
+Could not promote checklist item to task.,체크리스트 항목을 작업으로 승격할 수 없습니다.
+Could not remove task from milestone,마일스톤에서 작업을 제거할 수 없습니다
+Could not save budget.,예산을 저장할 수 없습니다.
+Could not save changes to the milestone,마일스톤 변경 사항을 저장할 수 없습니다
+Could not save changes to the task,작업 변경 사항을 저장할 수 없습니다
+Could not save description.,설명을 저장할 수 없습니다.
+Could not save end date.,종료일을 저장할 수 없습니다.
+Could not save milestone name.,마일스톤 이름을 저장할 수 없습니다.
+Could not save start date.,시작일을 저장할 수 없습니다.
+Could not save the template. Please try again.,템플릿을 저장할 수 없습니다. 다시 시도해 주세요.
+Could not save title.,제목을 저장할 수 없습니다.
+Could not update dependency mode.,종속성 모드를 업데이트할 수 없습니다.
+Could not update milestone date,마일스톤 날짜를 업데이트할 수 없습니다
+Could not update project status.,프로젝트 상태를 업데이트할 수 없습니다.
+Could not update project type.,프로젝트 유형을 업데이트할 수 없습니다.
+Could not update setting.,설정을 업데이트할 수 없습니다.
+Could not update task dates,작업 날짜를 업데이트할 수 없습니다
+Could not update task status,작업 상태를 업데이트할 수 없습니다
+Could not update the template.,템플릿을 업데이트할 수 없습니다.
+Create a copy of this task,이 작업의 복사본 만들기
+Create Contact,연락처 만들기
+Create Event,일정 만들기
+Create Milestone,마일스톤 만들기
+Create New Milestone,새 마일스톤 만들기
+Create New Task,새 작업 만들기
+Create Project,프로젝트 만들기
+Create Task,작업 만들기
+Create tasks and milestones from a template,템플릿에서 작업 및 마일스톤 만들기
+Create your first project to get started.,첫 번째 프로젝트를 만들어 시작하세요.
+Create your first task to start tracking work on this project.,첫 번째 작업을 만들어 이 프로젝트의 진행을 관리하세요.
+Created,생성됨
+Creating...,생성 중...
+Critical,심각
+Critical Path,핵심 경로
+"Currency used for budgets, costs, and billing rates","예산, 비용, 청구 요율에 사용되는 통화"
+Current,현재
+Current Assignments,현재 배정
+Current scheduled time:,현재 예정 시간:
+Currently running version,Currently running version
+d lag,일 지연
+Daily Availability,일일 가용 시간
+Daily Hours,일일 시간
+Danger Zone,위험 영역
+Dark,다크
+Dashboard,대시보드
+Date,날짜
+Date changes on this task will show cascade impact here,이 작업의 날짜 변경에 따른 연쇄 영향이 여기에 표시됩니다
+Date cleared,날짜를 지웠습니다
+Date of Joining,입사일
+Date updated,날짜를 업데이트했습니다
+Dates,날짜
+Dates cascaded,날짜가 연쇄 적용되었습니다
+Dates will be relative to the project's start date.,날짜는 프로젝트 시작일 기준 상대 일수로 설정됩니다.
+Day,일
+day,일
+days,일
+Days before due date to send reminder,마감일 며칠 전에 알림 발송
+Days Overdue,초과 일수
+Days Remaining,남은 일수
+Deadline,마감일
+Deadlines,마감일
+Decision,결정
+Decline,거절
+Declined,거절됨
+Default Currency,기본 통화
+Default hours per week for contact capacity planning,연락처 용량 계획을 위한 주당 기본 시간
+Default Priority,기본 우선순위
+Default Project Status,기본 프로젝트 상태
+Default Task Status,기본 작업 상태
+Default task view,기본 작업 보기
+Default Values,기본값
+Default Weekly Capacity,기본 주간 용량
+Defaults,기본값
+Defect Cost Impact,결함 비용 영향
+Defect name is required,결함 이름은 필수입니다
+Defect Type,결함 유형
+Defect {0} not found,결함 {0}을(를) 찾을 수 없습니다
+Defects,결함
+Defects & Issues,결함 및 문제
+Defects Resolved,해결된 결함
+Delayed,지연됨
+Delete,삭제
+Delete Activity Data,활동 데이터 삭제
+Delete all read notifications?,읽은 알림을 모두 삭제하시겠습니까?
+Delete comment,댓글 삭제
+Delete Contact,연락처 삭제
+Delete Event,일정 삭제
+Delete Event?,일정을 삭제하시겠습니까?
+Delete failed,삭제에 실패했습니다
+Delete file,파일 삭제
+Delete item,항목 삭제
+Delete note,메모 삭제
+Delete Project,프로젝트 삭제
+Delete Task,작업 삭제
+Delete this project,이 프로젝트 삭제
+Deleted,삭제됨
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","프로젝트 ""{0}"" 삭제됨 (작업 {1}개, 마일스톤 {2}개)"
+Deletes notes and preferences. Source document is not affected.,메모와 설정을 삭제합니다. 원본 문서에는 영향이 없습니다.
+Deleting...,삭제 중...
+Department,부서
+Dependencies,종속성
+dependencies,종속성
+Dependencies are informational only,종속성은 참고 정보입니다
+dependency,종속성
+Dependency already exists,종속성이 이미 존재합니다
+Dependency Chain,종속성 체인
+Dependency created,종속성을 생성했습니다
+Dependency mode updated,종속성 모드를 업데이트했습니다
+Dependency name is required,종속성 이름은 필수입니다
+Dependency task {0} not found,종속 작업 {0}을(를) 찾을 수 없습니다
+Dependency {0} not found,종속성 {0}을(를) 찾을 수 없습니다
+depends,종속
+Depends on Group,그룹에 종속
+Depends on task is required,종속 작업은 필수입니다
+depends on...,종속 대상...
+Descending -- click to reverse,내림차순 -- 클릭하여 반대로
+Describe the defect in detail...,결함을 상세히 설명하세요...
+Description,설명
+Description updated,설명을 업데이트했습니다
+Designation,직함
+"Detailed description of the defect, location, and impact","결함의 세부 사항, 위치 및 영향"
+Details,세부 정보
+Discard timer,타이머 폐기
+Discussion,토론
+Dismiss,Dismiss
+Display,표시
+Document,문서
+Document attached to project,프로젝트에 문서를 첨부했습니다
+Document final decision and rationale,최종 결정과 근거를 기록
+Documentation Review,문서 검토
+Documents,문서
+Done,완료
+Download,다운로드
+Drag to create dependency,드래그하여 종속성 생성
+Dry Run,시험 실행
+Dry Run Complete,시험 실행 완료
+Due Date,마감일
+Due date,마감일
+Due Date (Earliest),마감일 (가장 빠른)
+Due date cannot be before start date,마감일이 시작일보다 앞설 수 없습니다
+Due date is in the past,마감일이 과거입니다
+Due Date Reminders,마감일 알림
+Due Diligence,실사
+Due Diligence Checklist,실사 체크리스트
+Due This Week,이번 주 마감
+Due:,마감:
+Duplicate events are not allowed,일정 중복은 허용되지 않습니다
+Duplicate failed,복제에 실패했습니다
+Duplicate Task,작업 복제
+Duration,기간
+Duration Summary,기간 요약
+Duration:,기간:
+e.g. Cracked wall finish in bathroom...,예: 욕실 벽 마감 균열...
+"e.g. Electrical, Plumbing...","예: 전기, 배관..."
+Edit,편집
+Edit (E),편집 (E)
+Edit dependency,종속성 편집
+Edit Event,일정 편집
+Efficiency,효율성
+Either dependency_name or depends_on is required,dependency_name 또는 depends_on이 필요합니다
+Email,이메일
+Email invitations to all attendees,모든 참석자에게 이메일 초대 발송
+Email is required to create portal user,포털 사용자를 만들려면 이메일이 필요합니다
+Email notifications,이메일 알림
+Employee,직원
+Employee DocType not available,직원 DocType을 사용할 수 없습니다
+Employee not found,직원을 찾을 수 없습니다
+Enable or disable optional features,선택 기능 활성화 또는 비활성화
+Enable Time Tracking,시간 기록 활성화
+End,종료
+End Date,종료일
+End date,종료일
+End Date cannot be before Start Date,종료일이 시작일보다 앞설 수 없습니다
+End date cannot be before start date,종료일이 시작일보다 앞설 수 없습니다
+End date updated,종료일을 업데이트했습니다
+End time was before start time. Adjusted to 1 hour after start.,종료 시간이 시작 시간보다 앞서 있어 시작 후 1시간으로 조정했습니다.
+End:,종료:
+Enter milestone name...,마일스톤 이름 입력...
+Enter project name,프로젝트 이름 입력
+Enter task title...,작업 제목 입력...
+Enter template name,템플릿 이름 입력
+Enter your note... Use @name to mention someone,메모 입력... @이름으로 멘션
+Error,오류
+Error loading activity,활동 불러오기 오류
+Error loading contacts,연락처 불러오기 오류
+Error loading dashboard,대시보드 불러오기 오류
+Error loading project,프로젝트 불러오기 오류
+Error loading projects,프로젝트 목록 불러오기 오류
+Error loading settings,설정 불러오기 오류
+Error loading tasks,작업 불러오기 오류
+Error loading templates,템플릿 불러오기 오류
+Est. Hours,예상 시간
+Estimated,예상
+Estimated Cost,예상 비용
+Estimated Cost (€),예상 비용 (€)
+Estimated Hours,예상 시간
+Estimated:,예상:
+Evaluate potential risks and concerns,잠재적 위험과 우려 사항 평가
+Event,일정
+Event is required for event context,일정 컨텍스트에는 일정이 필요합니다
+Event is required when tracking context is 'event',추적 컨텍스트가 '일정'인 경우 일정은 필수입니다
+Event Type,일정 유형
+Events,일정
+Events not available. Please run: bench --site orga.localhost migrate,일정을 사용할 수 없습니다. 다음을 실행해 주세요: bench --site orga.localhost migrate
+Events:,일정:
+Expert,고급
+Explain why you are proposing a different time...,다른 시간을 제안하는 이유를 설명하세요...
+Export,내보내기
+Export failed,내보내기에 실패했습니다
+Export JSON,JSON 내보내기
+Exported,내보내기 완료
+Exported to timesheet {0},타임시트 {0}에 내보냈습니다
+External,외부
+Failed to add item,항목 추가에 실패했습니다
+Failed to add note,메모 추가에 실패했습니다
+Failed to add skill,기술 추가에 실패했습니다
+Failed to apply cascade changes: {0},연쇄 변경 적용에 실패했습니다: {0}
+Failed to create defect,결함 생성에 실패했습니다
+Failed to create dependency,종속성 생성에 실패했습니다
+Failed to create event,일정 생성에 실패했습니다
+Failed to create milestone,마일스톤 생성에 실패했습니다
+Failed to create project,프로젝트 생성에 실패했습니다
+Failed to create task,작업 생성에 실패했습니다
+Failed to create time log,시간 기록 생성에 실패했습니다
+Failed to delete,삭제에 실패했습니다
+Failed to delete comment,댓글 삭제에 실패했습니다
+Failed to delete contact,연락처 삭제에 실패했습니다
+Failed to load,불러오기에 실패했습니다
+Failed to load activity,활동 불러오기에 실패했습니다
+Failed to load assignments,배정 불러오기에 실패했습니다
+Failed to load contact,연락처 불러오기에 실패했습니다
+Failed to load dashboard data,대시보드 데이터 불러오기에 실패했습니다
+Failed to load defects,결함 불러오기에 실패했습니다
+Failed to load events,일정 불러오기에 실패했습니다
+Failed to load project,프로젝트 불러오기에 실패했습니다
+Failed to load projects,프로젝트 목록 불러오기에 실패했습니다
+Failed to load report data,보고서 데이터 불러오기에 실패했습니다
+Failed to load settings,설정 불러오기에 실패했습니다
+Failed to load tasks,작업 불러오기에 실패했습니다
+Failed to move task,작업 이동에 실패했습니다
+Failed to post comment,댓글 게시에 실패했습니다
+Failed to propose new time,새 시간 제안에 실패했습니다
+Failed to remove item,항목 제거에 실패했습니다
+Failed to remove skill,기술 제거에 실패했습니다
+Failed to reorder milestones: {0},마일스톤 재정렬에 실패했습니다: {0}
+Failed to reorder tasks: {0},작업 재정렬에 실패했습니다: {0}
+Failed to reschedule dependent tasks: {0},종속 작업 일정 변경에 실패했습니다: {0}
+Failed to save,저장에 실패했습니다
+Failed to save preferences,환경 설정 저장에 실패했습니다
+Failed to save settings,설정 저장에 실패했습니다
+Failed to submit request. Please try again.,요청 전송에 실패했습니다. 다시 시도해 주세요.
+Failed to update item,항목 업데이트에 실패했습니다
+Failed to update priority,우선순위 업데이트에 실패했습니다
+Failed to update task,작업 업데이트에 실패했습니다
+Failed to update tasks: {0},작업 업데이트에 실패했습니다: {0}
+Failed to upload avatar,아바타 업로드에 실패했습니다
+Feature,기능
+Features,기능
+FF (Finish-Finish),FF (완료-완료)
+FF - Finish-to-Finish,FF - 완료-완료
+Field has been updated,필드가 업데이트되었습니다
+Field name is required for 'Set Field Value' action,'필드 값 설정' 작업에는 필드 이름이 필요합니다
+Field {0} is not a Link field,필드 {0}은(는) 링크 필드가 아닙니다
+Field {0} not found in {1},{1}에서 필드 {0}을(를) 찾을 수 없습니다
+File,파일
+file,파일
+File does not belong to this task,파일이 이 작업에 속하지 않습니다
+File name is required,파일 이름은 필수입니다
+File uploaded,파일을 업로드했습니다
+File {0} not found,파일 {0}을(를) 찾을 수 없습니다
+Files,파일
+files,파일
+Filter,필터
+Final Decision,최종 결정
+Finance,재무
+Financial,재무
+Finish-to-Finish,완료-완료
+Finish-to-Start,완료-시작
+Flag,플래그
+Flag for attention,주의 플래그 지정
+Flagged,플래그됨
+Focus Panel,집중 패널
+Follows your system preference. Currently:,시스템 설정을 따릅니다. 현재:
+Frappe Project {0} not found,Frappe 프로젝트 {0}을(를) 찾을 수 없습니다
+Frappe Projects Migration,Frappe Projects 마이그레이션
+Frappe Projects module not available,Frappe Projects 모듈을 사용할 수 없습니다
+Frappe Projects module not installed,Frappe Projects 모듈이 설치되지 않았습니다
+Frappe Projects sync is not enabled,Frappe Projects 동기화가 활성화되지 않았습니다
+Frappe Task DocType not found,Frappe 작업 DocType을 찾을 수 없습니다
+Frappe Task has no project,Frappe 작업에 프로젝트가 없습니다
+Frappe Task {0} not found,Frappe 작업 {0}을(를) 찾을 수 없습니다
+Fri,금
+From,시작
+From Template,템플릿에서
+FS (Finish-Start),FS (완료-시작)
+FS - Finish-to-Start (default),FS - 완료-시작 (기본)
+Full form view with audit trail,변경 추적 포함 전체 양식 보기
+Full name,전체 이름
+Gantt,Gantt
+Gantt Chart,Gantt 차트
+Gantt View,Gantt 보기
+General Note,일반 메모
+Get started,시작하기
+Go back,돌아가기
+Go Back,뒤로 가기
+Group by,그룹화
+Group dependency removed,그룹 종속성을 제거했습니다
+Group dependency set,그룹 종속성을 설정했습니다
+Group removed,그룹을 제거했습니다
+Group updated,그룹을 업데이트했습니다
+Hammock task dates are auto-calculated and cannot be changed manually,해먹 작업 날짜는 자동 계산되며 수동으로 변경할 수 없습니다
+Have a question or need assistance? Fill out the form below and our team will get back to you.,질문이 있거나 도움이 필요하신가요? 아래 양식을 작성해 주시면 담당자가 연락드리겠습니다.
+Health,상태
+Healthy,양호
+Hello {0},안녕하세요 {0}
+Here's what's happening with your projects today.,오늘 프로젝트 현황을 알려드립니다.
+Hide,숨기기
+High,높음
+History,이력
+Home,홈
+Hourly Cost,시간당 비용
+Hours,시간
+hours,시간
+Hours Logged,기록된 시간
+ID,ID
+Image must be smaller than 5 MB,이미지는 5MB 이하여야 합니다
+Import,가져오기
+Import existing projects and tasks from Frappe Projects module,Frappe Projects 모듈에서 기존 프로젝트 및 작업 가져오기
+Import failed,가져오기에 실패했습니다
+Import Template,템플릿 가져오기
+Imported,가져오기 완료
+in,안에
+In Progress,진행 중
+In Review,검토 중
+In-app notifications,앱 내 알림
+Inactive,비활성
+Initial Review,초기 검토
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,모든 작업을 볼 수 있는 권한이 부족합니다
+Intermediate,중급
+Internal,내부
+Invalid DocType,잘못된 DocType
+Invalid DocType for import,가져오기에 잘못된 DocType
+Invalid item type: {0},잘못된 항목 유형: {0}
+Invalid JSON data,잘못된 JSON 데이터
+Invalid note type. Must be one of: {0},잘못된 메모 유형입니다. 다음 중 하나여야 합니다: {0}
+Invalid project reference,잘못된 프로젝트 참조
+Invalid reaction type. Must be one of: {0},잘못된 반응 유형입니다. 다음 중 하나여야 합니다: {0}
+Invalid RSVP status,잘못된 RSVP 상태
+Invalid status. Must be one of: {0},잘못된 상태입니다. 다음 중 하나여야 합니다: {0}
+Invalid status: {0},잘못된 상태: {0}
+Invalid status: {0}. Must be one of: {1},잘못된 상태: {0}. 다음 중 하나여야 합니다: {1}
+Invalid tracking context: {0},잘못된 추적 컨텍스트: {0}
+Invalid visibility. Must be one of: {0},잘못된 공개 범위입니다. 다음 중 하나여야 합니다: {0}
+Invitation: {0} - {1} at {2},초대: {0} - {1} ({2})
+Invite People,사람 초대
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","당신의 잘못이 아닙니다, 링크의 문제입니다. 찾고 있는 페이지가 이동, 이름 변경되었거나 커피 브레이크를 즐기고 있을 수 있습니다. 프로젝트와 데이터는 완전히 안전합니다."
+Item added,항목을 추가했습니다
+Item ID is required,항목 ID는 필수입니다
+Item removed,항목을 제거했습니다
+Item type is required,항목 유형은 필수입니다
+Item {0} not found,항목 {0}을(를) 찾을 수 없습니다
+Job title or role,직함 또는 역할
+Join Meeting,회의 참가
+Just now,방금
+just now,방금
+Kanban,Kanban
+Kanban Board,Kanban 보드
+Kanban View,Kanban 보기
+Keyboard Shortcuts,키보드 단축키
+Keyboard shortcuts (?),키보드 단축키 (?)
+Last checked: {0},Last checked: {0}
+Last Updated,마지막 업데이트
+Last updated:,마지막 업데이트:
+Last Week,지난주
+Latest Version,Latest Version
+Light,라이트
+Link failed,연결에 실패했습니다
+Link Task,작업 연결
+Linked,연결됨
+Linked employee not found,연결된 직원을 찾을 수 없습니다
+Linked Tasks,연결된 작업
+List,목록
+List View,목록 보기
+Load failed,불러오기에 실패했습니다
+Load More,더 보기
+Load more comments,댓글 더 보기
+Loading activity...,활동 불러오는 중...
+Loading changes...,변경 사항 불러오는 중...
+Loading checklist...,체크리스트 불러오는 중...
+Loading comments...,댓글 불러오는 중...
+Loading contact...,연락처 불러오는 중...
+Loading contacts...,연락처 목록 불러오는 중...
+Loading dependencies...,종속성 불러오는 중...
+Loading details...,세부 정보 불러오는 중...
+Loading discussion...,토론 불러오는 중...
+Loading events...,일정 불러오는 중...
+Loading files...,파일 불러오는 중...
+Loading notes...,메모 불러오는 중...
+Loading preferences...,환경 설정 불러오는 중...
+Loading project...,프로젝트 불러오는 중...
+Loading projects...,프로젝트 목록 불러오는 중...
+Loading replies...,답글 불러오는 중...
+Loading report data...,보고서 데이터 불러오는 중...
+Loading settings...,설정 불러오는 중...
+Loading task...,작업 불러오는 중...
+Loading templates...,템플릿 불러오는 중...
+Loading time logs...,시간 기록 불러오는 중...
+Loading your portal...,포털 불러오는 중...
+Loading...,불러오는 중...
+Location,장소
+Log Time,시간 기록
+Logout,로그아웃
+Low,낮음
+Make Offer,제안하기
+Manager,관리자
+Manual Entry,수동 입력
+Margin,마진
+Mark all as read,모두 읽음으로 표시
+Mark all read,모두 읽음으로 표시
+Mark as read,읽음으로 표시
+Mark as unread,읽지 않음으로 표시
+Mark read,읽음으로 표시
+Marking...,처리 중...
+Material,자재
+Maybe,미정
+Medium,보통
+Meeting,회의
+Meeting Link,회의 링크
+Meeting title,회의 제목
+Meeting URL,회의 URL
+Meetings,회의
+Mention,멘션
+Message,메시지
+Message is required,메시지는 필수입니다
+Message is required for '{0}' action,'{0}' 작업에는 메시지가 필요합니다
+Migrate,마이그레이션
+Migration Complete,마이그레이션 완료
+Migration ID:,마이그레이션 ID:
+Migration log not found: {0},마이그레이션 로그를 찾을 수 없습니다: {0}
+Milestone,마일스톤
+milestone,마일스톤
+Milestone created,마일스톤을 생성했습니다
+Milestone description has been saved.,마일스톤 설명을 저장했습니다.
+Milestone ID is required,마일스톤 ID는 필수입니다
+Milestone marked as Missed (past due date),마일스톤이 미달성으로 표시되었습니다 (마감일 초과)
+Milestone moved,마일스톤을 이동했습니다
+Milestone Name,마일스톤 이름
+Milestone name has been saved.,마일스톤 이름을 저장했습니다.
+Milestone name is required,마일스톤 이름은 필수입니다
+Milestone updated,마일스톤을 업데이트했습니다
+Milestone {0} not found,마일스톤 {0}을(를) 찾을 수 없습니다
+Milestone {0} not in project {1},마일스톤 {0}이(가) 프로젝트 {1}에 포함되어 있지 않습니다
+Milestones,마일스톤
+milestones,마일스톤
+Milestones:,마일스톤:
+Minutes,분
+Missed,미달성
+Mixed,혼합
+Mobile,모바일
+Moderate,보통
+Modified,수정일
+"Modify details, time, or attendees","세부 사항, 시간 또는 참석자 수정"
+Mon,월
+Month,월
+Move failed,이동에 실패했습니다
+Must be a positive number,양수여야 합니다
+Must finish before this finishes,이것이 끝나기 전에 완료해야 합니다
+Must finish before this starts,이것이 시작되기 전에 완료해야 합니다
+Must start before this finishes,이것이 끝나기 전에 시작해야 합니다
+Must start before this starts,이것이 시작되기 전에 시작해야 합니다
+My Assignments,내 배정
+My Projects,내 프로젝트
+My Schedule,내 일정
+My Tasks,내 작업
+N/A,해당 없음
+Name,이름
+Name (A-Z),이름 (가-하)
+Name (Z-A),이름 (하-가)
+Name cannot exceed 255 characters,이름은 255자를 초과할 수 없습니다
+Need help?,도움이 필요하신가요?
+Needs Attention,조치 필요
+Never,Never
+new activities,새 활동
+New Activity,새 활동
+New activity,새 활동
+New Event,새 일정
+New index is required,새 인덱스는 필수입니다
+New Project,새 프로젝트
+New tasks will auto-trail by default.,새 작업은 기본적으로 자동 슬라이드가 적용됩니다.
+Newest First,최신순
+Next,다음
+Next 14 days,향후 14일
+Next 30 days,향후 30일
+Next 60 days,향후 60일
+Next 7 days,향후 7일
+Next 90 days,향후 90일
+Next Week,다음 주
+Next:,다음:
+No,아니요
+No active assignments,활성 배정이 없습니다
+No active projects,진행 중인 프로젝트가 없습니다
+No active timer found,실행 중인 타이머가 없습니다
+No activity selected,선택된 활동이 없습니다
+No assignments found,배정을 찾을 수 없습니다
+No attendees,참석자 없음
+no change,변경 없음
+No changes for this field.,이 필드에 변경 사항이 없습니다.
+No changes recorded for this activity.,이 활동에 기록된 변경 사항이 없습니다.
+No checklist items yet,체크리스트 항목이 아직 없습니다
+No checklist items yet.,체크리스트 항목이 아직 없습니다.
+No comments yet,댓글이 아직 없습니다
+No comments yet.,댓글이 아직 없습니다.
+No contacts available,사용 가능한 연락처가 없습니다
+No content for this tab,이 탭에 내용이 없습니다
+No data available,사용 가능한 데이터가 없습니다
+No data available for the selected filters,선택한 필터에 해당하는 데이터가 없습니다
+No data to export,내보낼 데이터가 없습니다
+No dates set,날짜가 설정되지 않았습니다
+No defects reported,보고된 결함이 없습니다
+No dependencies defined,정의된 종속성이 없습니다
+No description,설명 없음
+No discussion yet.,토론이 아직 없습니다.
+No documents attached,첨부된 문서가 없습니다
+No due date,마감일 없음
+No employee linked to this resource,이 리소스에 연결된 직원이 없습니다
+No ERPNext employee linked to resource,리소스에 연결된 ERPNext 직원이 없습니다
+No events found,일정을 찾을 수 없습니다
+No files attached yet.,첨부된 파일이 아직 없습니다.
+No Frappe Project linked,연결된 Frappe 프로젝트가 없습니다
+No Grouping,그룹화 없음
+No items,항목 없음
+No matching tasks,일치하는 작업이 없습니다
+No matching tasks found,일치하는 작업을 찾을 수 없습니다
+No migration history,마이그레이션 이력이 없습니다
+No Milestone,마일스톤 없음
+No milestones,마일스톤 없음
+No milestones defined for this project.,이 프로젝트에 정의된 마일스톤이 없습니다.
+No notes yet.,메모가 아직 없습니다.
+No notes yet. Add a due diligence note to track progress.,메모가 아직 없습니다. 실사 메모를 추가하여 진행 상황을 관리하세요.
+No notifications,알림이 없습니다
+No Orga Project linked to Frappe Project {0},Frappe 프로젝트 {0}에 연결된 Orga 프로젝트가 없습니다
+No overdue tasks,기한 초과 작업이 없습니다
+No pending cascade changes,보류 중인 연쇄 변경이 없습니다
+No predecessors - this task can start independently,선행 작업 없음 - 이 작업은 독립적으로 시작할 수 있습니다
+No project,프로젝트 없음
+No projects found,프로젝트를 찾을 수 없습니다
+No Projects Yet,프로젝트가 아직 없습니다
+No recent activity,최근 활동이 없습니다
+No related documents,관련 문서가 없습니다
+No resolved threads.,해결된 스레드가 없습니다.
+No resources found,리소스를 찾을 수 없습니다
+No results found,결과를 찾을 수 없습니다
+No skills listed,등록된 기술이 없습니다
+No skills recorded yet,기록된 기술이 아직 없습니다
+No successors - no tasks are waiting for this one,후속 작업 없음 - 이 작업을 기다리는 작업이 없습니다
+No task selected,선택된 작업이 없습니다
+No tasks assigned to you,배정된 작업이 없습니다
+No tasks available to add,추가할 수 있는 작업이 없습니다
+No tasks found,작업을 찾을 수 없습니다
+No tasks linked to this milestone,이 마일스톤에 연결된 작업이 없습니다
+No tasks with dates to display,표시할 날짜가 있는 작업이 없습니다
+No tasks yet,작업이 아직 없습니다
+No team members,팀원이 없습니다
+No template,템플릿 없음
+No templates yet,템플릿이 아직 없습니다
+No time data found,시간 데이터를 찾을 수 없습니다
+No time logged today,오늘 기록된 시간이 없습니다
+No time logged yet,기록된 시간이 아직 없습니다
+No time logs for this period,이 기간의 시간 기록이 없습니다
+No time logs found,시간 기록을 찾을 수 없습니다
+No unread notifications,읽지 않은 알림이 없습니다
+No update information available yet.,No update information available yet.
+None,없음
+Not found,찾을 수 없습니다
+Not permitted,권한이 없습니다
+Not permitted to access this project,이 프로젝트에 접근할 권한이 없습니다
+Not permitted to access this task,이 작업에 접근할 권한이 없습니다
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,이 문서에 댓글을 달 권한이 없습니다
+Not permitted to create clients,클라이언트를 생성할 권한이 없습니다
+Not permitted to delete this client,이 클라이언트를 삭제할 권한이 없습니다
+Not permitted to delete this defect,이 결함을 삭제할 권한이 없습니다
+Not permitted to delete this note,이 메모를 삭제할 권한이 없습니다
+Not permitted to delete this project,이 프로젝트를 삭제할 권한이 없습니다
+Not permitted to delete this task,이 작업을 삭제할 권한이 없습니다
+Not permitted to delete this time log,이 시간 기록을 삭제할 권한이 없습니다
+Not permitted to invite clients,클라이언트를 초대할 권한이 없습니다
+Not permitted to modify client access,클라이언트 접근 권한을 수정할 권한이 없습니다
+Not permitted to modify this project,이 프로젝트를 수정할 권한이 없습니다
+Not permitted to update settings,설정을 업데이트할 권한이 없습니다
+Not permitted to update this client,이 클라이언트를 업데이트할 권한이 없습니다
+Not permitted to view this client,이 클라이언트를 볼 권한이 없습니다
+not sent,미발송
+Not set,미설정
+Not specified,미지정
+Note,메모
+Note (optional),메모 (선택 사항)
+Note Content,메모 내용
+Note content is required,메모 내용은 필수입니다
+Note name is required,메모 이름은 필수입니다
+Note not found,메모를 찾을 수 없습니다
+Note Type,메모 유형
+Notes,메모
+Notification,알림
+Notification not found,알림을 찾을 수 없습니다
+Notifications,알림
+Off Track,지연
+Offer,제안
+Offer Prepared,제안서 준비 완료
+Oldest First,오래된 순
+On Hold,보류 중
+On Leave,휴가 중
+On Track,순조로움
+On-Time Rate,정시 완료율
+Only administrators can delete activities,관리자만 활동을 삭제할 수 있습니다
+Only the comment author or administrators can delete comments,댓글 작성자 또는 관리자만 댓글을 삭제할 수 있습니다
+Only you and admins,본인과 관리자만
+Open,미완료
+Open in Desk,Desk에서 열기
+Open Task Log,작업 로그 열기
+Open Tasks,미완료 작업
+Optional,선택 사항
+optional,선택 사항
+Or email us directly at,또는 이메일로 직접 문의:
+Orga Project {0} from Frappe Projects,Frappe Projects에서 가져온 Orga 프로젝트 {0}
+Orga Task {0} from Frappe,Frappe에서 가져온 Orga 작업 {0}
+Organizer,주최자
+Other,기타
+Over Budget,예산 초과
+Overall Progress,전체 진행률
+Overall Utilization,전체 활용률
+Overallocated,과다 배정
+Overdue,기한 초과
+overdue,기한 초과
+Overdue Tasks,기한 초과 작업
+Overview,개요
+Owner,소유자
+Page Not Found,페이지를 찾을 수 없습니다
+Parent,상위
+Parent comment must belong to the same document,상위 댓글은 같은 문서에 속해야 합니다
+Parent comment not found,상위 댓글을 찾을 수 없습니다
+Parent project not synced to Frappe yet,상위 프로젝트가 아직 Frappe에 동기화되지 않았습니다
+Parent project sync not enabled,상위 프로젝트 동기화가 활성화되지 않았습니다
+Partner,파트너
+Pending,대기 중
+per page,페이지당
+Perform initial assessment and background check,초기 평가 및 배경 조사 수행
+Permanently remove this event,이 일정을 영구 삭제
+Permanently remove this task,이 작업을 영구 삭제
+Phone,전화
+Pin,고정
+Pin Activity,활동 고정
+Pin to top,맨 위에 고정
+Pinned,고정됨
+Planned budget for this task,이 작업의 계획 예산
+Planning,계획 중
+Please describe your question or issue in detail...,질문이나 문제를 상세히 설명해 주세요...
+Please login to access Orga,Orga에 접근하려면 로그인해 주세요
+Please login to access the client portal,클라이언트 포털에 접근하려면 로그인해 주세요
+Please respond to this invitation in Orga,Orga에서 이 초대에 응답해 주세요
+Please select an image file,이미지 파일을 선택해 주세요
+Please try again,다시 시도해 주세요
+Please type,입력해 주세요
+Portal,포털
+Portal access revoked for {0},{0}의 포털 접근 권한을 취소했습니다
+Portal user created successfully. Welcome email {0},포털 사용자를 생성했습니다. 환영 이메일 {0}
+Post,게시
+Powered by,제공
+Powered by Tonic,제공: Tonic
+Predecessors (Blocked By),선행 작업 (차단 원인)
+Preferences,환경 설정
+Preferences saved successfully,환경 설정을 저장했습니다
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",자동 생성 프로젝트 코드 접두사 (예: ORG-2026-0001)
+Prepare and document offer terms,제안 조건 준비 및 기록
+Press,누르기
+Preview,미리보기
+Preview cascade before applying,적용 전 연쇄 미리보기
+Previous,이전
+Priority,우선순위
+Priority assigned to new tasks,새 작업에 배정할 우선순위
+Priority updated,우선순위를 업데이트했습니다
+Proficiency,숙련도
+Profile,프로필
+Progress,진행률
+Progress (High-Low),진행률 (높은 순)
+Progress (Low-High),진행률 (낮은 순)
+Progress Overview,진행률 개요
+Progress updated,진행률을 업데이트했습니다
+Project,프로젝트
+Project budget has been saved.,프로젝트 예산을 저장했습니다.
+Project code (e.g. ORG-2026-0001),프로젝트 코드 (예: ORG-2026-0001)
+Project Code Prefix,프로젝트 코드 접두사
+Project created,프로젝트를 생성했습니다
+Project deleted,프로젝트를 삭제했습니다
+Project description has been saved.,프로젝트 설명을 저장했습니다.
+Project Details,프로젝트 세부 정보
+Project end date has been saved.,프로젝트 종료일을 저장했습니다.
+Project Files,프로젝트 파일
+Project has no linked client,프로젝트에 연결된 클라이언트가 없습니다
+Project Health,프로젝트 상태
+Project Info,프로젝트 정보
+Project is required,프로젝트는 필수입니다
+Project is required for project context,프로젝트 컨텍스트에는 프로젝트가 필요합니다
+Project is required when tracking context is 'project',추적 컨텍스트가 '프로젝트'인 경우 프로젝트는 필수입니다
+Project Manager,프로젝트 관리자
+Project Name,프로젝트 이름
+Project name and template name are required,프로젝트 이름과 템플릿 이름은 필수입니다
+Project name is required,프로젝트 이름은 필수입니다
+Project not found,프로젝트를 찾을 수 없습니다
+Project not found or you do not have access,프로젝트를 찾을 수 없거나 접근 권한이 없습니다
+Project settings,프로젝트 설정
+Project start date has been saved.,프로젝트 시작일을 저장했습니다.
+Project title has been saved.,프로젝트 제목을 저장했습니다.
+Project Type,프로젝트 유형
+Project updated,프로젝트를 업데이트했습니다
+Project {0} linked to client {1},프로젝트 {0}을(를) 클라이언트 {1}에 연결했습니다
+Project {0} not found,프로젝트 {0}을(를) 찾을 수 없습니다
+Project {0} to Frappe Projects,프로젝트 {0}을(를) Frappe Projects로
+Project:,프로젝트:
+Projects,프로젝트
+projects,프로젝트
+Projects created:,생성된 프로젝트:
+Projects Overview,프로젝트 개요
+Projects skipped:,건너뛴 프로젝트:
+Projects updated:,업데이트된 프로젝트:
+Promote failed,승격에 실패했습니다
+Promote to task,작업으로 승격
+Promoted to task,작업으로 승격했습니다
+Propose,제안
+Propose New Time,새 시간 제안
+Propose Time,시간 제안
+Proposed End,제안 종료
+Proposed Start,제안 시작
+Public,공개
+Quick Action,빠른 작업
+Quick Actions,빠른 작업
+Quick Stats,간략 통계
+Rates,단가
+Receive notifications via email,이메일로 알림 받기
+Receive notifications within the application,앱 내에서 알림 받기
+Recent Activity,최근 활동
+Recipient {0} is not a valid user,수신자 {0}은(는) 유효한 사용자가 아닙니다
+Reference,참조
+Refresh,새로고침
+Related,관련
+Related Company (optional),관련 회사 (선택 사항)
+Related Documents,관련 문서
+Related Project,관련 프로젝트
+Remaining,남은
+Reminder,알림
+Reminder Lead Time,알림 사전 시간
+Reminder: {0} - {1} at {2},알림: {0} - {1} ({2})
+Remove,제거
+Remove dependency,종속성 제거
+Remove dependency on,다음에 대한 종속성 제거
+Remove from group,그룹에서 제거
+Remove group dependency,그룹 종속성 제거
+Remove skill,기술 제거
+Reopen,다시 열기
+Reopen thread,스레드 다시 열기
+reopened,다시 열림
+replies,답글
+Reply,답글
+reply,답글
+Replying to,답글 대상
+Replying to comment,댓글에 답글
+Report Defect,결함 보고
+Reported Date,보고 날짜
+Reports,보고서
+Reports To,상급자
+Request Submitted!,요청을 전송했습니다!
+Required,필수
+required,필수
+Research,조사
+Reset to Defaults,기본값으로 초기화
+Resolve,해결
+Resolve thread,스레드 해결
+Resolved,해결됨
+Resolved date cannot be before reported date,해결 날짜가 보고 날짜보다 앞설 수 없습니다
+Resource,리소스
+Resource and skill name are required,리소스와 기술 이름은 필수입니다
+Resource is already an attendee,이 리소스는 이미 참석자입니다
+Resource name is required,리소스 이름은 필수입니다
+Resource not found,리소스를 찾을 수 없습니다
+Resource synced from employee {0},직원 {0}에서 리소스를 동기화했습니다
+Resource {0} is already assigned to this task ({1}),리소스 {0}이(가) 이미 이 작업({1})에 배정되어 있습니다
+Resource {0} not found,리소스 {0}을(를) 찾을 수 없습니다
+Resources,리소스
+Retry,재시도
+Review,검토
+Review all relevant documents and contracts,모든 관련 문서 및 계약 검토
+Reviews,검토
+Risk Assessment,위험 평가
+Rollback,롤백
+Rolled back,롤백했습니다
+Room or address,장소 또는 주소
+RSVP,RSVP
+Safety,안전
+Sat,토
+Save,저장
+"Save a project as a template, or import one from a JSON file.",프로젝트를 템플릿으로 저장하거나 JSON 파일에서 가져옵니다.
+Save as Template,템플릿으로 저장
+Save Changes,변경 사항 저장
+Save failed,저장에 실패했습니다
+Save Preferences,환경 설정 저장
+Save Template,템플릿 저장
+Saving...,저장 중...
+Schedule,일정
+Schedule type is required for scheduled triggers,예약 트리거에는 일정 유형이 필요합니다
+Scheduled,예약됨
+Search,검색
+"Search by name, email, or skill...","이름, 이메일 또는 기술로 검색..."
+Search for a project...,프로젝트 검색...
+Search for a task...,작업 검색...
+Search for an event...,일정 검색...
+Search for people to invite...,초대할 사람 검색...
+Search tasks to link...,연결할 작업 검색...
+Search tasks...,작업 검색...
+Search...,검색...
+Searching...,검색 중...
+Seen,확인됨
+Select a project if your request is related to a specific project.,특정 프로젝트와 관련된 요청인 경우 프로젝트를 선택하세요.
+Select a project...,프로젝트 선택...
+Select a task from the Gantt chart to view and manage its details.,Gantt 차트에서 작업을 선택하여 세부 정보를 확인하고 관리하세요.
+Select a task from the list or Kanban board to view and manage its details.,목록 또는 Kanban 보드에서 작업을 선택하여 세부 정보를 확인하고 관리하세요.
+Select a template...,템플릿 선택...
+Select priority...,우선순위 선택...
+Select status...,상태 선택...
+Select task...,작업 선택...
+Select type...,유형 선택...
+Selection,선택
+Send,보내기
+Send comment,댓글 보내기
+Send email invitations to attendees,참석자에게 이메일 초대 보내기
+Send Invitations,초대 보내기
+Send notification when a task is assigned to a user,작업이 배정되면 알림 보내기
+Send notification when task status changes,작업 상태가 변경되면 알림 보내기
+Send reminder before task due date,작업 마감일 전에 알림 보내기
+sent,발송됨
+Set rate,단가 설정
+Settings,설정
+Settings saved successfully,설정을 저장했습니다
+Severity,심각도
+SF (Start-Finish),SF (시작-완료)
+SF - Start-to-Finish,SF - 시작-완료
+Show,표시
+Show all,모두 표시
+Show all changes,모든 변경 사항 표시
+Show Archived,보관된 항목 표시
+Show full diff,전체 차이 표시
+Show less,접기
+Show more,더 보기
+Skill added,기술을 추가했습니다
+Skill is required,기술은 필수입니다
+Skill Name,기술 이름
+Skill removed,기술을 제거했습니다
+Skill {0} already exists for this resource,이 리소스에 기술 {0}이(가) 이미 있습니다
+Skills,기술
+Skills & Competencies,기술 및 역량
+Skip already migrated projects,이미 마이그레이션된 프로젝트 건너뛰기
+Sort by,정렬 기준
+Sort: Due Date,정렬: 마감일
+Sort: Priority,정렬: 우선순위
+Sort: Project,정렬: 프로젝트
+Sort: Status,정렬: 상태
+Sort: Task,정렬: 작업
+Source Code,소스 코드
+Spent,사용됨
+Spent:,사용됨:
+SS (Start-Start),SS (시작-시작)
+SS - Start-to-Start,SS - 시작-시작
+Standalone,독립
+Start,시작
+Start a discussion below,아래에서 토론 시작
+Start Date,시작일
+Start date,시작일
+Start Date (Earliest),시작일 (가장 빠른)
+Start date updated,시작일을 업데이트했습니다
+Start date/time is required,시작 날짜/시간은 필수입니다
+Start Migration,마이그레이션 시작
+Start the conversation below.,아래에서 대화를 시작하세요.
+Start Timer,타이머 시작
+Start typing to search...,검색어를 입력하세요...
+Start-to-Finish,시작-완료
+Start-to-Start,시작-시작
+Start:,시작:
+Statistics reset,통계를 초기화했습니다
+Status,상태
+Status assigned to new projects,새 프로젝트에 배정할 상태
+Status assigned to new tasks,새 작업에 배정할 상태
+Status Changes,상태 변경
+Status updated,상태를 업데이트했습니다
+Status:,상태:
+Stop,중지
+Stop & Save,중지 후 저장
+Stop Timer,타이머 중지
+Stops current timer and starts for this event,현재 타이머를 중지하고 이 일정으로 시작
+Stops current timer and starts for this task,현재 타이머를 중지하고 이 작업으로 시작
+Subject,제목
+Subject cannot exceed 255 characters,제목은 255자를 초과할 수 없습니다
+Subject is required,제목은 필수입니다
+Submit,제출
+Submit Another Request,추가 요청 제출
+Submit Request,요청 제출
+Submitting...,제출 중...
+Successfully saved,저장했습니다
+Successors (Blocking),후속 작업 (차단 중)
+Sun,일
+Supplier,공급업체
+Support,지원
+Switch to this event,이 일정으로 전환
+Switch to this task,이 작업으로 전환
+Sync direction is set to Frappe to Orga only,동기화 방향이 Frappe에서 Orga로만 설정되어 있습니다
+Sync direction is set to Orga to Frappe only,동기화 방향이 Orga에서 Frappe로만 설정되어 있습니다
+Sync not enabled for this project,이 프로젝트의 동기화가 활성화되지 않았습니다
+System,시스템
+Table,표
+Take ownership of this task,이 작업의 담당자 되기
+Target Date,목표일
+Target End,목표 종료일
+Target Project,대상 프로젝트
+Target user is required for '{0}' action,'{0}' 작업에는 대상 사용자가 필요합니다
+Task,작업
+task,작업
+Task '{0}' is due on {1}.,작업 '{0}'의 마감일은 {1}입니다.
+Task and resource are required,작업과 리소스는 필수입니다
+Task Assignment,작업 배정
+Task cannot be its own parent,작업이 자기 자신의 상위가 될 수 없습니다
+Task cannot depend on itself,작업이 자기 자신에 종속될 수 없습니다
+Task cannot depend on the group it belongs to,작업이 소속 그룹에 종속될 수 없습니다
+Task created,작업을 생성했습니다
+Task deleted,작업을 삭제했습니다
+Task description has been saved.,작업 설명을 저장했습니다.
+Task Details,작업 세부 정보
+Task due in {0} days: {1},{0}일 후 마감 작업: {1}
+Task due today: {0},오늘 마감 작업: {0}
+Task due tomorrow: {0},내일 마감 작업: {0}
+Task duplicated,작업을 복제했습니다
+Task Group,작업 그룹
+Task ID is required,작업 ID는 필수입니다
+Task is blocked by incomplete dependencies,미완료 종속성으로 인해 작업이 차단되었습니다
+Task is cancelled,작업이 취소되었습니다
+Task is completed,작업이 완료되었습니다
+Task is no longer blocked by a group,작업이 더 이상 그룹에 의해 차단되지 않습니다
+Task is required for task context,작업 컨텍스트에는 작업이 필요합니다
+Task is required when tracking context is 'task',추적 컨텍스트가 '작업'인 경우 작업은 필수입니다
+Task linked,작업을 연결했습니다
+Task moved,작업을 이동했습니다
+Task name,작업 이름
+Task name is required,작업 이름은 필수입니다
+Task removed from group,작업을 그룹에서 제거했습니다
+Task Subject,작업 제목
+Task subject is required,작업 제목은 필수입니다
+Task Type,작업 유형
+Task unblocked: {0},작업 차단 해제: {0}
+Task unlinked,작업 연결을 해제했습니다
+Task updated,작업을 업데이트했습니다
+Task {0} not found,작업 {0}을(를) 찾을 수 없습니다
+Task {0} not in project {1},작업 {0}이(가) 프로젝트 {1}에 포함되어 있지 않습니다
+Task {0} to Frappe,작업 {0}을(를) Frappe로
+Tasks,작업
+tasks,작업
+Tasks and milestones will be created with dates relative to the project start date.,작업 및 마일스톤은 프로젝트 시작일 기준 상대 날짜로 생성됩니다.
+Tasks assigned to you across all projects.,모든 프로젝트에서 배정된 작업.
+Tasks created:,생성된 작업:
+Tasks from projects you manage.,관리 중인 프로젝트의 작업.
+Tasks updated:,업데이트된 작업:
+"Tasks, milestones, and dependencies have been created.","작업, 마일스톤, 종속성을 생성했습니다."
+Tasks:,작업:
+TBD,미정
+Team,팀
+Team Members,팀원
+Template,템플릿
+Template applied,템플릿을 적용했습니다
+Template data is required in import data,가져오기 데이터에 템플릿 데이터가 필요합니다
+Template has no data,템플릿에 데이터가 없습니다
+Template Name,템플릿 이름
+Template name,템플릿 이름
+Template name is required,템플릿 이름은 필수입니다
+Template name is required in import data,가져오기 데이터에 템플릿 이름이 필요합니다
+Template saved,템플릿을 저장했습니다
+Template updated successfully.,템플릿을 업데이트했습니다.
+Template {0} not found,템플릿 {0}을(를) 찾을 수 없습니다
+Templates,템플릿
+Tentative,잠정
+The comment has been deleted,댓글이 삭제되었습니다
+The project,프로젝트
+The source document may have been deleted.,원본 문서가 삭제되었을 수 있습니다.
+The source document will not be affected.,원본 문서에는 영향이 없습니다.
+The status of '{0}' was changed from {1} to {2}.,'{0}'의 상태가 {1}에서 {2}(으)로 변경되었습니다.
+Theme,테마
+Theme preference,테마 설정
+This action,이 작업
+This action cannot be undone.,이 작업은 되돌릴 수 없습니다.
+This activity has been flagged for attention,이 활동에 주의 플래그가 지정되었습니다
+This is a reminder for your upcoming appointment,다가오는 일정에 대한 알림입니다
+This method is only meant for developer mode,이 메서드는 개발자 모드에서만 사용할 수 있습니다
+This page wandered off,이 페이지가 길을 잃었습니다
+This Week,이번 주
+This will delete all notes and preferences associated with this activity.,이 활동과 관련된 모든 메모와 설정이 삭제됩니다.
+This will import all Frappe Projects into Orga. Continue?,모든 Frappe 프로젝트를 Orga로 가져옵니다. 계속하시겠습니까?
+This will permanently delete,영구적으로 삭제됩니다
+This will permanently delete:,영구적으로 삭제될 항목:
+Thu,목
+Time,시간
+Time & Billing,시간 및 청구
+Time & Revenue,시간 및 수익
+Time Entries,시간 항목
+Time log name is required,시간 기록 이름은 필수입니다
+Time Log not found,시간 기록을 찾을 수 없습니다
+Time log {0} not found,시간 기록 {0}을(를) 찾을 수 없습니다
+Time Logs,시간 기록
+Time Summary,시간 요약
+Time Tracking,시간 관리
+Timeline,타임라인
+Timer active on,타이머 활성 대상
+Timer is not running,타이머가 실행 중이 아닙니다
+Timer Running,타이머 실행 중
+Timer running,타이머 실행 중
+Timesheet DocType not available,타임시트 DocType을 사용할 수 없습니다
+Timesheets,타임시트
+Timezone,시간대
+Timezone is detected from your browser,시간대는 브라우저에서 자동 감지됩니다
+Title,제목
+Title cannot exceed 255 characters,제목은 255자를 초과할 수 없습니다
+Title is required,제목은 필수입니다
+Title updated,제목을 업데이트했습니다
+To,종료
+to,까지
+to cancel,취소하려면
+to close,닫으려면
+to confirm:,확인하려면:
+to edit,편집하려면
+"to save,","저장하려면,"
+To Time cannot be before From Time,종료 시간이 시작 시간보다 앞설 수 없습니다
+Today,오늘
+today,오늘
+Toggle billable,청구 가능 전환
+Toggle Details Panel,세부 정보 패널 전환
+Toggle Manager Panel,관리 패널 전환
+Toggle Sidebar,사이드바 전환
+Tomorrow,내일
+tomorrow,내일
+Total,합계
+Total Budget,총 예산
+Total Contacts,총 연락처
+Total Cost,총 비용
+Total Cost to Org,조직 총 비용
+Total Defect Cost,총 결함 비용
+Total Hours,총 시간
+Total Hours Logged,총 기록 시간
+Total Projects,총 프로젝트
+Total Spent,총 사용액
+Total Tasks,총 작업
+Total:,합계:
+Tracked,추적됨
+trails to today while Open at 0%,미완료(0%) 상태에서 오늘까지 슬라이드
+Tried:,시도:
+Try adjusting your filter criteria,필터 조건을 조정해 보세요
+Try adjusting your filters.,필터를 조정해 보세요.
+Try Again,다시 시도
+Tue,화
+Type,유형
+Type updated,유형을 업데이트했습니다
+Type:,유형:
+Typical response time: 1-2 business days,일반적인 응답 시간: 영업일 1~2일
+Unarchive,보관 해제
+Unarchive Activity,활동 보관 해제
+Unassign,배정 해제
+Unassigned,미배정
+Under Budget,예산 이내
+Ungrouped,미그룹화
+Unknown,알 수 없음
+Unknown error,알 수 없는 오류
+Unlink failed,연결 해제에 실패했습니다
+Unlink task from milestone,마일스톤에서 작업 연결 해제
+Unpin,고정 해제
+Unpin Activity,활동 고정 해제
+Unread,읽지 않음
+Unread only,읽지 않은 항목만
+Until,까지
+Up to Date,Up to Date
+Upcoming,예정
+upcoming,예정
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,업데이트에 실패했습니다
+Updated,업데이트됨
+Updated successfully,업데이트했습니다
+Updates,Updates
+Upload,업로드
+Upload failed,업로드에 실패했습니다
+Upload files below to attach them to this task.,아래에 파일을 업로드하여 이 작업에 첨부하세요.
+Upload to project,프로젝트에 업로드
+Uploading...,업로드 중...
+Urgent,긴급
+User {0} is already linked to client {1},사용자 {0}이(가) 이미 클라이언트 {1}에 연결되어 있습니다
+User {0} is already linked to resource {1},사용자 {0}이(가) 이미 리소스 {1}에 연결되어 있습니다
+Utilization,활용률
+Valid,유효
+Value:,값:
+Variance,차이
+Variance:,차이:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,보기
+View All,모두 보기
+View all active projects,모든 진행 중인 프로젝트 보기
+View all open tasks,모든 미완료 작업 보기
+View overdue tasks,기한 초과 작업 보기
+View Release,View Release
+Visibility,공개 범위
+Waiting for this task,이 작업 완료 대기 중
+Waits for:,대기 대상:
+Warning: Resource {0} status is {1},경고: 리소스 {0}의 상태가 {1}입니다
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,경고: HTTPS 대신 HTTP를 사용 중입니다. Webhook 데이터가 안전하지 않을 수 있습니다.
+Watch budget closely,예산을 면밀히 관리하세요
+We'll respond to:,답변 발송 대상:
+Webhook deleted,Webhook을 삭제했습니다
+Webhook name is required,Webhook 이름은 필수입니다
+Webhook not found,Webhook을 찾을 수 없습니다
+Webhook URL is required,Webhook URL은 필수입니다
+Webhook URL must start with http:// or https://,Webhook URL은 http:// 또는 https://로 시작해야 합니다
+Wed,수
+Week,주
+Weekend,주말
+Weekly Capacity,주간 용량
+weekly capacity,주간 용량
+Weekly Capacity (h),주간 용량 (시간)
+Welcome,환영합니다
+Welcome back!,다시 오셨군요!
+Welcome to Orga,Orga에 오신 것을 환영합니다
+What are you working on?,지금 무엇을 하고 있나요?
+What did you work on?,무엇을 했나요?
+When,일시
+When work begins,작업 시작일
+When work is due,작업 마감일
+Where,장소
+Will capture:,포함 내용:
+Will create:,생성 내용:
+with checklist items,체크리스트 항목 포함
+Working,진행 중
+Workload,작업량
+Workmanship,시공 품질
+Write a comment...,댓글 입력...
+Write a comment... Use @name to mention (Ctrl+Enter to send),댓글 입력... @이름으로 멘션 (Ctrl+Enter로 전송)
+Year,연도
+Yes,예
+Yesterday,어제
+yesterday,어제
+You are not an attendee of this appointment,이 일정의 참석자가 아닙니다
+You are not linked to any resource,리소스에 연결되어 있지 않습니다
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,본인의 댓글만 삭제할 수 있습니다
+You can only delete your own reactions,본인의 반응만 삭제할 수 있습니다
+You do not have access to the client portal. Please contact support.,클라이언트 포털에 접근할 수 없습니다. 지원팀에 문의해 주세요.
+You have already reacted with '{0}',이미 '{0}'(으)로 반응했습니다
+You have been assigned to task '{0}' in project '{1}'.,프로젝트 '{1}'의 작업 '{0}'에 배정되었습니다.
+You have been assigned to: {0},배정되었습니다: {0}
+You have been invited to the following appointment,다음 일정에 초대되었습니다
+You have no tasks assigned to you right now.,현재 배정된 작업이 없습니다.
+You were mentioned in {0},{0}에서 멘션되었습니다
+Your attendance,참석 여부
+Your comment has been posted,댓글을 게시했습니다
+Your Projects,내 프로젝트
+Your projects will appear here once they're assigned to you.,프로젝트가 배정되면 여기에 표시됩니다.
+Your Response,내 응답
+Your RSVP,내 RSVP
+Your support request has been submitted successfully.,지원 요청을 전송했습니다.
+Your support request has been submitted successfully. We'll get back to you shortly.,지원 요청을 전송했습니다. 곧 답변드리겠습니다.
+"Your task ""{0}"" is no longer blocked and can now be started.","작업 ""{0}""의 차단이 해제되어 이제 시작할 수 있습니다."
+{0} is required,{0}은(는) 필수입니다
+{0} new activities,새 활동 {0}건
+{0} of {1} completed,{1}건 중 {0}건 완료
+{0} projects already migrated (will be skipped or updated),{0}개 프로젝트가 이미 마이그레이션됨 (건너뛰거나 업데이트됩니다)
+{0} status changed to {1},{0}의 상태가 {1}(으)로 변경되었습니다
+{0} tasks remaining,남은 작업 {0}건
+{0} tasks without projects will be skipped,프로젝트 없는 작업 {0}건이 건너뛰어집니다
+{0} {1} not found,{0} {1}을(를) 찾을 수 없습니다

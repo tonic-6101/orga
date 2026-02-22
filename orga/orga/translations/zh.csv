@@ -1,0 +1,1492 @@
++ Add Milestone,+ 添加里程碑
++ Create Task,+ 创建任务
++ Log Time,+ 记录时间
+-- Select a project --,-- 选择项目 --
+0m,0分钟
+1 day,1天
+1 day ago,1天前
+1 dependency,1个依赖
+1 entry,1条记录
+1 file,1个文件
+1 hour ago,1小时前
+1 member,1位成员
+1 milestone,1个里程碑
+1 month,1个月
+1 task,1个任务
+< 1m,< 1分钟
+"A clear, actionable title for the task",清晰明确的任务标题
+A client with email {0} already exists: {1},邮箱为 {0} 的客户已存在：{1}
+A key deliverable or checkpoint for the project,项目的关键交付物或检查点
+Accept,接受
+Accepted,已接受
+Acknowledge,确认
+across,跨
+Action,操作
+Actions,操作
+Active,活跃
+Active Assignments,活跃分配
+Active Projects,进行中的项目
+Activity,动态
+Activity data deleted successfully,动态数据已删除
+Activity Info,动态信息
+Activity Stats,动态统计
+Activity will appear here as you work on tasks and projects.,当你处理任务和项目时，动态会显示在这里。
+Actual,实际
+Actual Cost,实际成本
+Actual cost cannot be negative,实际成本不能为负数
+Actual end date cannot be before actual start date,实际结束日期不能早于实际开始日期
+Actual Hours,实际工时
+Add,添加
+Add a checklist item...,添加检查项...
+Add a comment...,添加评论...
+Add a comment... (Ctrl+Enter to send),添加评论... (Ctrl+Enter 发送)
+Add a description...,添加描述...
+Add a milestone description...,添加里程碑描述...
+Add a note below to annotate this activity.,在下方添加备注来标注此动态。
+Add a note...,添加备注...
+Add a project description...,添加项目描述...
+Add a task description...,添加任务描述...
+Add checklist item...,添加检查项...
+Add Contact,添加联系人
+Add contacts via the Desk interface or clear filters,通过Desk界面添加联系人或清除筛选条件
+Add Dependency,添加依赖
+Add details about this event...,添加此事件的详细信息...
+Add details about this milestone...,添加此里程碑的详细信息...
+Add details about this task...,添加此任务的详细信息...
+Add details or acceptance criteria for this milestone,为此里程碑添加详细信息或完成标准
+"Add details, context, or acceptance criteria",添加详细信息、背景或完成标准
+Add first dependency,添加第一个依赖
+Add item,添加项目
+Add items below to track progress.,在下方添加项目来跟踪进度。
+Add items below to track subtasks,在下方添加项目来跟踪子任务
+Add Milestone,添加里程碑
+Add Milestone (Shift+M),添加里程碑 (Shift+M)
+Add milestones to track key deliverables.,添加里程碑来跟踪关键交付物。
+Add New Contact,添加新联系人
+Add Note,添加备注
+Add note,添加备注
+Add notes about this contact...,添加关于此联系人的备注...
+Add reaction,添加回应
+Add Skill,添加技能
+Add start and due dates to tasks to see them on the Gantt chart,为任务设置开始日期和截止日期即可在Gantt图表中查看
+Add Task,添加任务
+Add Task (Shift+T),添加任务 (Shift+T)
+Added Finish-to-Start dependency,已添加完成-开始依赖
+Adding this dependency would create a circular reference: {0},添加此依赖会产生循环引用：{0}
+Adding...,正在添加...
+Address,地址
+Advanced,高级设置
+All,全部
+All Active,全部活跃
+All Assignees,所有负责人
+All Categories,所有分类
+All caught up!,全部处理完毕！
+All Contexts,所有上下文
+All day,全天
+All day event,全天事件
+All fields,所有字段
+All Priorities,所有优先级
+All Projects,所有项目
+All Status,所有状态
+All Statuses,所有状态
+All task dependencies & relative dates,所有任务依赖和相对日期
+All Tasks,所有任务
+All tasks across all projects.,所有项目的全部任务。
+All tasks are already linked,所有任务已关联
+All team members,所有团队成员
+All Types,所有类型
+All Users,所有用户
+Allocated,已分配
+allocated,已分配
+Allow users to log time against tasks,允许用户对任务记录时间
+Already exported to timesheet {0},已导出到工时表 {0}
+Already Migrated,已迁移
+Anyone with access,所有有权限的人
+anytime to show this help,随时显示此帮助
+App Updates,App Updates
+Appearance,外观
+Apply,应用
+Apply cascade?,是否应用级联？
+Apply Changes,应用更改
+Apply failed,应用失败
+Apply Template,应用模板
+Applying...,正在应用...
+Appointment,日程
+Appointment and resource are required,日程和资源为必填项
+Appointment name is required,日程名称为必填项
+Appointment not found,未找到日程
+Appointment {0} not found,未找到日程 {0}
+Apps,应用
+Archive,归档
+Archive Activity,归档动态
+Archived,已归档
+Are you sure you want to delete this activity data? This cannot be undone.,确定要删除此动态数据吗？此操作无法撤销。
+Are you sure you want to delete this comment?,确定要删除此评论吗？
+Are you sure you want to delete this project?,确定要删除此项目吗？
+Are you sure?,确定吗？
+Ascending -- click to reverse,升序 -- 点击反转
+Assign To,分配给
+Assign to Me,分配给我
+Assigned Contact,已分配联系人
+Assigned To,负责人
+Assigned to,负责人
+Assigned to Me,已分配给我
+Assignee,负责人
+Assignment,分配
+Assignment History,分配历史
+Assignment name is required,分配名称为必填项
+Assignment {0} not found,未找到分配 {0}
+Assignments,分配
+At least one action is required,至少需要一个操作
+At least one event is required,至少需要一个事件
+At least one event must be selected,至少需要选择一个事件
+Attachment,附件
+Attachments,附件
+Attendees,参与者
+"Audit trail, assignments, version history",变更记录、分配、版本历史
+Auto,自动
+Auto Calculate Progress,自动计算进度
+Auto Set Missed Milestones,自动标记逾期里程碑
+Auto-shift dependents when dates change,日期变更时自动调整依赖任务
+Auto-Trail Start,自动顺延开始
+Auto-Trail updated,自动顺延已更新
+Automatically calculate project progress from task completion,根据任务完成情况自动计算项目进度
+Automatically mark milestones as missed when overdue,逾期时自动将里程碑标记为未达成
+Automation rule {0} not found,未找到自动化规则 {0}
+Automation: {0},自动化：{0}
+Availability,可用性
+Available,空闲
+Avatar updated successfully,头像已更新
+Avg Progress,平均进度
+Back,返回
+Back to Portal,返回门户
+Back to Projects,返回项目列表
+Beginner,初级
+Best regards,此致敬意
+Billable,可计费
+Billable Amount,计费金额
+Billable Hours,可计费工时
+Billable Rate,计费单价
+Billing Rate,计费费率
+Blocked,已阻塞
+Both dates are needed to display task as a bar in Gantt chart,需要两个日期才能在Gantt图表中将任务显示为条形
+Both doctype and docname are required,doctype和docname都是必填项
+Both proposed start and end times are required,建议的开始时间和结束时间都是必填项
+Both task_name and depends_on are required,task_name和depends_on都是必填项
+Breadcrumb,面包屑导航
+Brief description of the defect or damage,缺陷或损坏的简要描述
+Brief description of this template,此模板的简要描述
+Brief description of your request,您的请求的简要描述
+Brief project description,项目简要描述
+Budget,预算
+Budget at risk,预算有风险
+Budget Burn Rate,预算消耗率
+Budget Status,预算状态
+Budget updated,预算已更新
+Budget:,预算：
+Bug,缺陷
+Burn Rate,消耗率
+Busy,忙碌
+By,由
+By Assignee,按负责人
+By Group,按分组
+By Milestone,按里程碑
+By Priority,按优先级
+By Status,按状态
+Cancel,取消
+Cancelled,已取消
+cannot be undone,无法撤销
+Cannot delete client with {0} linked projects. Unlink projects first.,客户关联了 {0} 个项目，无法删除。请先取消关联。
+Cannot delete project with {0} linked tasks. Delete tasks first.,项目关联了 {0} 个任务，无法删除。请先删除任务。
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,资源有 {0} 个活跃分配，无法删除。请先完成或取消。
+Cannot delete task with {0} subtasks. Delete subtasks first.,任务有 {0} 个子任务，无法删除。请先删除子任务。
+Capacity,容量
+capacity,容量
+Capacity & Rates,容量与费率
+Capture project structure for reuse,保存项目结构以供复用
+Cascade,级联
+Cascade Preview,级联预览
+Category,分类
+Celebrate,庆祝
+Change,更改
+Change History,变更历史
+Change Priority,更改优先级
+Change Status,更改状态
+Changes,变更
+Changes appear when fields are modified.,字段修改后会在此显示变更。
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,检查清单
+Checklist item name is required,检查项名称为必填项
+Checklist item not found,未找到检查项
+Checklist item title is required,检查项标题为必填项
+Checklist item {0} not found,未找到检查项 {0}
+Checklist item {0} not found in task,任务中未找到检查项 {0}
+Child,子级
+Choose file to upload,选择要上传的文件
+Circular dependency detected: {0},检测到循环依赖：{0}
+Circular parent-child relationship detected,检测到循环父子关系
+Clear,清除
+Clear all read,清除所有已读
+Clear date,清除日期
+Click on an activity from the list to view and manage its details.,点击列表中的动态来查看和管理详情。
+Click the avatar to upload a new photo,点击头像上传新照片
+Click to add description...,点击添加描述...
+Click to add notes...,点击添加备注...
+Click to assign contact,点击分配联系人
+Click to change status,点击更改状态
+Click to change type,点击更改类型
+Click to edit,点击编辑
+Click to edit budget,点击编辑预算
+Click to edit description,点击编辑描述
+Click to edit end date,点击编辑结束日期
+Click to edit milestone name,点击编辑里程碑名称
+Click to edit rate,点击编辑费率
+Click to edit start date,点击编辑开始日期
+Click to edit title,点击编辑标题
+Click to load,点击加载
+Click to set group dependency...,点击设置分组依赖...
+Click to set group...,点击设置分组...
+Click to view,点击查看
+Click to view at-risk projects,查看有风险的项目
+Click to view critical projects,查看紧急项目
+Click to view healthy projects,查看状态良好的项目
+Client,客户
+Client already has a portal user: {0},此客户已有门户用户：{0}
+Client already has portal access,客户已拥有门户访问权限
+Client has no portal user to revoke,没有可撤销的门户用户
+Client link removed from project {0},已从项目 {0} 移除客户关联
+Client Portal,客户门户
+Client {0} deleted successfully,已删除客户 {0}
+Close,关闭
+Close (Esc),关闭 (Esc)
+Comment,评论
+comment,评论
+Comment added,评论已添加
+Comment content is required,评论内容为必填项
+Comment name is required,评论名称为必填项
+Comment not found,未找到评论
+Comment removed,评论已删除
+Comment {0} not found in task,任务中未找到评论 {0}
+Comments,评论
+comments,评论
+Community Edition,Community Edition
+Company,公司
+Company name...,公司名称...
+Complete,完成
+Completed,已完成
+completed,已完成
+Completed Tasks,已完成任务
+Compliance,合规
+Configure default values for new projects and tasks,配置新项目和任务的默认值
+Configure email notification settings,配置邮件通知设置
+Confirm,确认
+Contact deleted,联系人已删除
+Contact Details,联系人详情
+Contact Information,联系信息
+Contact name is required,联系人名称为必填项
+Contact Support,联系支持
+Contact your project manager for more information.,如需更多信息，请联系项目负责人。
+Contact:,联系人：
+Contacts,联系人
+Context,上下文
+Contractor,承包商
+Cost estimate cannot be negative,成本估算不能为负数
+Cost Impact,成本影响
+Cost Summary,成本概要
+Could not apply the template. Please try again.,无法应用模板，请重试。
+Could not attach file to project,无法将文件附加到项目
+Could not change task priority,无法更改任务优先级
+Could not change task status,无法更改任务状态
+Could not delete the project. Please try again.,无法删除项目，请重试。
+Could not delete the task. Please try again.,无法删除任务，请重试。
+Could not delete the template.,无法删除模板。
+Could not duplicate the task. Please try again.,无法复制任务，请重试。
+Could not export the template.,无法导出模板。
+Could not import the template. Please check the file format.,无法导入模板，请检查文件格式。
+Could not link task to milestone,无法将任务关联到里程碑
+Could not load document details.,无法加载文档详情。
+Could not load task details,无法加载任务详情
+Could not promote checklist item to task.,无法将检查项升级为任务。
+Could not remove task from milestone,无法从里程碑移除任务
+Could not save budget.,无法保存预算。
+Could not save changes to the milestone,无法保存里程碑的更改
+Could not save changes to the task,无法保存任务的更改
+Could not save description.,无法保存描述。
+Could not save end date.,无法保存结束日期。
+Could not save milestone name.,无法保存里程碑名称。
+Could not save start date.,无法保存开始日期。
+Could not save the template. Please try again.,无法保存模板，请重试。
+Could not save title.,无法保存标题。
+Could not update dependency mode.,无法更新依赖模式。
+Could not update milestone date,无法更新里程碑日期
+Could not update project status.,无法更新项目状态。
+Could not update project type.,无法更新项目类型。
+Could not update setting.,无法更新设置。
+Could not update task dates,无法更新任务日期
+Could not update task status,无法更新任务状态
+Could not update the template.,无法更新模板。
+Create a copy of this task,创建此任务的副本
+Create Contact,创建联系人
+Create Event,创建事件
+Create Milestone,创建里程碑
+Create New Milestone,创建新里程碑
+Create New Task,创建新任务
+Create Project,创建项目
+Create Task,创建任务
+Create tasks and milestones from a template,从模板创建任务和里程碑
+Create your first project to get started.,创建你的第一个项目来开始吧。
+Create your first task to start tracking work on this project.,创建第一个任务来开始管理此项目的工作。
+Created,已创建
+Creating...,正在创建...
+Critical,紧急
+Critical Path,关键路径
+"Currency used for budgets, costs, and billing rates",用于预算、成本和计费费率的货币
+Current,当前
+Current Assignments,当前分配
+Current scheduled time:,当前排定时间：
+Currently running version,Currently running version
+d lag,天延迟
+Daily Availability,每日可用时间
+Daily Hours,每日工时
+Danger Zone,危险操作
+Dark,深色
+Dashboard,仪表盘
+Date,日期
+Date changes on this task will show cascade impact here,此任务的日期变更的级联影响会在此显示
+Date cleared,日期已清除
+Date of Joining,入职日期
+Date updated,日期已更新
+Dates,日期
+Dates cascaded,日期已级联
+Dates will be relative to the project's start date.,日期将相对于项目开始日期计算。
+Day,天
+day,天
+days,天
+Days before due date to send reminder,到期前几天发送提醒
+Days Overdue,逾期天数
+Days Remaining,剩余天数
+Deadline,截止日期
+Deadlines,截止日期
+Decision,决定
+Decline,谢绝
+Declined,已谢绝
+Default Currency,默认货币
+Default hours per week for contact capacity planning,联系人容量规划的每周默认工时
+Default Priority,默认优先级
+Default Project Status,默认项目状态
+Default Task Status,默认任务状态
+Default task view,默认任务视图
+Default Values,默认值
+Default Weekly Capacity,默认每周容量
+Defaults,默认值
+Defect Cost Impact,缺陷成本影响
+Defect name is required,缺陷名称为必填项
+Defect Type,缺陷类型
+Defect {0} not found,未找到缺陷 {0}
+Defects,缺陷
+Defects & Issues,缺陷与问题
+Defects Resolved,已解决缺陷
+Delayed,延期
+Delete,删除
+Delete Activity Data,删除动态数据
+Delete all read notifications?,确定删除所有已读通知？
+Delete comment,删除评论
+Delete Contact,删除联系人
+Delete Event,删除事件
+Delete Event?,确定删除事件？
+Delete failed,删除失败
+Delete file,删除文件
+Delete item,删除项目
+Delete note,删除备注
+Delete Project,删除项目
+Delete Task,删除任务
+Delete this project,删除此项目
+Deleted,已删除
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","已删除项目{0}""（{1}个任务，{2}个里程碑）"""
+Deletes notes and preferences. Source document is not affected.,删除备注和偏好设置。源文档不受影响。
+Deleting...,正在删除...
+Department,部门
+Dependencies,依赖
+dependencies,依赖
+Dependencies are informational only,依赖关系仅供参考
+dependency,依赖
+Dependency already exists,依赖已存在
+Dependency Chain,依赖链
+Dependency created,依赖已创建
+Dependency mode updated,依赖模式已更新
+Dependency name is required,依赖名称为必填项
+Dependency task {0} not found,未找到依赖任务 {0}
+Dependency {0} not found,未找到依赖 {0}
+depends,依赖
+Depends on Group,依赖于分组
+Depends on task is required,依赖任务为必填项
+depends on...,依赖于...
+Descending -- click to reverse,降序 -- 点击反转
+Describe the defect in detail...,请详细描述缺陷...
+Description,描述
+Description updated,描述已更新
+Designation,职务
+"Detailed description of the defect, location, and impact",缺陷的详细描述、位置和影响
+Details,详情
+Discard timer,丢弃计时器
+Discussion,讨论
+Dismiss,Dismiss
+Display,显示
+Document,文档
+Document attached to project,已将文档附加到项目
+Document final decision and rationale,记录最终决定和理由
+Documentation Review,文档审查
+Documents,文档
+Done,完成
+Download,下载
+Drag to create dependency,拖拽以创建依赖
+Dry Run,模拟运行
+Dry Run Complete,模拟运行完成
+Due Date,截止日期
+Due date,截止日期
+Due Date (Earliest),截止日期（最早）
+Due date cannot be before start date,截止日期不能早于开始日期
+Due date is in the past,截止日期已过
+Due Date Reminders,截止日期提醒
+Due Diligence,尽职调查
+Due Diligence Checklist,尽职调查检查清单
+Due This Week,本周到期
+Due:,截止：
+Duplicate events are not allowed,不允许重复事件
+Duplicate failed,复制失败
+Duplicate Task,复制任务
+Duration,时长
+Duration Summary,时长概要
+Duration:,时长：
+e.g. Cracked wall finish in bathroom...,例如：浴室墙面开裂...
+"e.g. Electrical, Plumbing...",例如：电气、管道...
+Edit,编辑
+Edit (E),编辑 (E)
+Edit dependency,编辑依赖
+Edit Event,编辑事件
+Efficiency,效率
+Either dependency_name or depends_on is required,需要dependency_name或depends_on
+Email,邮件
+Email invitations to all attendees,向所有参与者发送邮件邀请
+Email is required to create portal user,创建门户用户需要邮箱地址
+Email notifications,邮件通知
+Employee,员工
+Employee DocType not available,员工DocType不可用
+Employee not found,未找到员工
+Enable or disable optional features,启用或禁用可选功能
+Enable Time Tracking,启用时间记录
+End,结束
+End Date,结束日期
+End date,结束日期
+End Date cannot be before Start Date,结束日期不能早于开始日期
+End date cannot be before start date,结束日期不能早于开始日期
+End date updated,结束日期已更新
+End time was before start time. Adjusted to 1 hour after start.,结束时间早于开始时间，已调整为开始后1小时。
+End:,结束：
+Enter milestone name...,输入里程碑名称...
+Enter project name,输入项目名称
+Enter task title...,输入任务标题...
+Enter template name,输入模板名称
+Enter your note... Use @name to mention someone,输入备注... 用 @名字 提及某人
+Error,错误
+Error loading activity,加载动态时出错
+Error loading contacts,加载联系人时出错
+Error loading dashboard,加载仪表盘时出错
+Error loading project,加载项目时出错
+Error loading projects,加载项目列表时出错
+Error loading settings,加载设置时出错
+Error loading tasks,加载任务时出错
+Error loading templates,加载模板时出错
+Est. Hours,预估工时
+Estimated,预估
+Estimated Cost,预估成本
+Estimated Cost (€),预估成本 (€)
+Estimated Hours,预估工时
+Estimated:,预估：
+Evaluate potential risks and concerns,评估潜在风险和问题
+Event,事件
+Event is required for event context,事件上下文需要事件
+Event is required when tracking context is 'event',"当跟踪上下文为事件""时，事件为必填项"""
+Event Type,事件类型
+Events,事件
+Events not available. Please run: bench --site orga.localhost migrate,事件不可用，请运行：bench --site orga.localhost migrate
+Events:,事件：
+Expert,高级
+Explain why you are proposing a different time...,请说明为什么建议不同的时间...
+Export,导出
+Export failed,导出失败
+Export JSON,导出JSON
+Exported,已导出
+Exported to timesheet {0},已导出到工时表 {0}
+External,外部
+Failed to add item,添加项目失败
+Failed to add note,添加备注失败
+Failed to add skill,添加技能失败
+Failed to apply cascade changes: {0},应用级联变更失败：{0}
+Failed to create defect,创建缺陷失败
+Failed to create dependency,创建依赖失败
+Failed to create event,创建事件失败
+Failed to create milestone,创建里程碑失败
+Failed to create project,创建项目失败
+Failed to create task,创建任务失败
+Failed to create time log,创建时间记录失败
+Failed to delete,删除失败
+Failed to delete comment,删除评论失败
+Failed to delete contact,删除联系人失败
+Failed to load,加载失败
+Failed to load activity,加载动态失败
+Failed to load assignments,加载分配失败
+Failed to load contact,加载联系人失败
+Failed to load dashboard data,加载仪表盘数据失败
+Failed to load defects,加载缺陷失败
+Failed to load events,加载事件失败
+Failed to load project,加载项目失败
+Failed to load projects,加载项目列表失败
+Failed to load report data,加载报表数据失败
+Failed to load settings,加载设置失败
+Failed to load tasks,加载任务失败
+Failed to move task,移动任务失败
+Failed to post comment,发布评论失败
+Failed to propose new time,建议新时间失败
+Failed to remove item,移除项目失败
+Failed to remove skill,移除技能失败
+Failed to reorder milestones: {0},重新排序里程碑失败：{0}
+Failed to reorder tasks: {0},重新排序任务失败：{0}
+Failed to reschedule dependent tasks: {0},重新安排依赖任务失败：{0}
+Failed to save,保存失败
+Failed to save preferences,保存偏好设置失败
+Failed to save settings,保存设置失败
+Failed to submit request. Please try again.,提交请求失败，请重试。
+Failed to update item,更新项目失败
+Failed to update priority,更新优先级失败
+Failed to update task,更新任务失败
+Failed to update tasks: {0},更新任务失败：{0}
+Failed to upload avatar,上传头像失败
+Feature,功能
+Features,功能
+FF (Finish-Finish),FF（完成-完成）
+FF - Finish-to-Finish,FF - 完成-完成
+Field has been updated,字段已更新
+Field name is required for 'Set Field Value' action,"设置字段值""操作需要字段名称"""
+Field {0} is not a Link field,字段 {0} 不是链接字段
+Field {0} not found in {1},在 {1} 中未找到字段 {0}
+File,文件
+file,文件
+File does not belong to this task,文件不属于此任务
+File name is required,文件名为必填项
+File uploaded,文件已上传
+File {0} not found,未找到文件 {0}
+Files,文件
+files,文件
+Filter,筛选
+Final Decision,最终决定
+Finance,财务
+Financial,财务
+Finish-to-Finish,完成-完成
+Finish-to-Start,完成-开始
+Flag,标记
+Flag for attention,标记需关注
+Flagged,已标记
+Focus Panel,焦点面板
+Follows your system preference. Currently:,跟随系统设置。当前：
+Frappe Project {0} not found,未找到Frappe项目 {0}
+Frappe Projects Migration,Frappe Projects迁移
+Frappe Projects module not available,Frappe Projects模块不可用
+Frappe Projects module not installed,Frappe Projects模块未安装
+Frappe Projects sync is not enabled,Frappe Projects同步未启用
+Frappe Task DocType not found,未找到Frappe任务DocType
+Frappe Task has no project,Frappe任务没有关联项目
+Frappe Task {0} not found,未找到Frappe任务 {0}
+Fri,五
+From,开始
+From Template,从模板
+FS (Finish-Start),FS（完成-开始）
+FS - Finish-to-Start (default),FS - 完成-开始（默认）
+Full form view with audit trail,包含变更记录的完整表单视图
+Full name,全名
+Gantt,Gantt
+Gantt Chart,Gantt图表
+Gantt View,Gantt视图
+General Note,通用备注
+Get started,开始使用
+Go back,返回
+Go Back,返回
+Group by,分组
+Group dependency removed,分组依赖已移除
+Group dependency set,分组依赖已设置
+Group removed,分组已移除
+Group updated,分组已更新
+Hammock task dates are auto-calculated and cannot be changed manually,吊床任务的日期为自动计算，无法手动更改
+Have a question or need assistance? Fill out the form below and our team will get back to you.,有问题或需要帮助？请填写下方表单，我们的团队会尽快回复您。
+Health,健康度
+Healthy,良好
+Hello {0},你好 {0}
+Here's what's happening with your projects today.,以下是你今天的项目动态。
+Hide,隐藏
+High,高
+History,历史
+Home,首页
+Hourly Cost,每小时成本
+Hours,小时
+hours,小时
+Hours Logged,已记录工时
+ID,ID
+Image must be smaller than 5 MB,图片必须小于5MB
+Import,导入
+Import existing projects and tasks from Frappe Projects module,从Frappe Projects模块导入现有项目和任务
+Import failed,导入失败
+Import Template,导入模板
+Imported,已导入
+in,中
+In Progress,进行中
+In Review,审核中
+In-app notifications,应用内通知
+Inactive,未启用
+Initial Review,初步审查
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,权限不足，无法查看所有任务
+Intermediate,中级
+Internal,内部
+Invalid DocType,无效的DocType
+Invalid DocType for import,导入的DocType无效
+Invalid item type: {0},无效的项目类型：{0}
+Invalid JSON data,无效的JSON数据
+Invalid note type. Must be one of: {0},无效的备注类型，必须是以下之一：{0}
+Invalid project reference,无效的项目引用
+Invalid reaction type. Must be one of: {0},无效的回应类型，必须是以下之一：{0}
+Invalid RSVP status,无效的RSVP状态
+Invalid status. Must be one of: {0},无效的状态，必须是以下之一：{0}
+Invalid status: {0},无效的状态：{0}
+Invalid status: {0}. Must be one of: {1},无效的状态：{0}，必须是以下之一：{1}
+Invalid tracking context: {0},无效的跟踪上下文：{0}
+Invalid visibility. Must be one of: {0},无效的可见范围，必须是以下之一：{0}
+Invitation: {0} - {1} at {2},邀请：{0} - {1}（{2}）
+Invite People,邀请人员
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.",不是你的问题，是链接的问题。您要找的页面可能已被移动、重命名，或正在享受应得的咖啡休息时间。您的项目和数据完全安全。
+Item added,项目已添加
+Item ID is required,项目ID为必填项
+Item removed,项目已移除
+Item type is required,项目类型为必填项
+Item {0} not found,未找到项目 {0}
+Job title or role,职位或角色
+Join Meeting,加入会议
+Just now,刚刚
+just now,刚刚
+Kanban,Kanban
+Kanban Board,Kanban看板
+Kanban View,Kanban视图
+Keyboard Shortcuts,键盘快捷键
+Keyboard shortcuts (?),键盘快捷键 (?)
+Last checked: {0},Last checked: {0}
+Last Updated,最后更新
+Last updated:,最后更新：
+Last Week,上周
+Latest Version,Latest Version
+Light,浅色
+Link failed,关联失败
+Link Task,关联任务
+Linked,已关联
+Linked employee not found,未找到关联员工
+Linked Tasks,已关联任务
+List,列表
+List View,列表视图
+Load failed,加载失败
+Load More,加载更多
+Load more comments,加载更多评论
+Loading activity...,正在加载动态...
+Loading changes...,正在加载变更...
+Loading checklist...,正在加载检查清单...
+Loading comments...,正在加载评论...
+Loading contact...,正在加载联系人...
+Loading contacts...,正在加载联系人列表...
+Loading dependencies...,正在加载依赖...
+Loading details...,正在加载详情...
+Loading discussion...,正在加载讨论...
+Loading events...,正在加载事件...
+Loading files...,正在加载文件...
+Loading notes...,正在加载备注...
+Loading preferences...,正在加载偏好设置...
+Loading project...,正在加载项目...
+Loading projects...,正在加载项目列表...
+Loading replies...,正在加载回复...
+Loading report data...,正在加载报表数据...
+Loading settings...,正在加载设置...
+Loading task...,正在加载任务...
+Loading templates...,正在加载模板...
+Loading time logs...,正在加载时间记录...
+Loading your portal...,正在加载门户...
+Loading...,正在加载...
+Location,地点
+Log Time,记录时间
+Logout,退出登录
+Low,低
+Make Offer,提交报价
+Manager,经理
+Manual Entry,手动录入
+Margin,利润率
+Mark all as read,全部标为已读
+Mark all read,全部标为已读
+Mark as read,标为已读
+Mark as unread,标为未读
+Mark read,标为已读
+Marking...,正在标记...
+Material,材料
+Maybe,待定
+Medium,中
+Meeting,会议
+Meeting Link,会议链接
+Meeting title,会议标题
+Meeting URL,会议URL
+Meetings,会议
+Mention,提及
+Message,消息
+Message is required,消息为必填项
+Message is required for '{0}' action,"{0}""操作需要消息"""
+Migrate,迁移
+Migration Complete,迁移完成
+Migration ID:,迁移ID：
+Migration log not found: {0},未找到迁移日志：{0}
+Milestone,里程碑
+milestone,里程碑
+Milestone created,里程碑已创建
+Milestone description has been saved.,里程碑描述已保存。
+Milestone ID is required,里程碑ID为必填项
+Milestone marked as Missed (past due date),里程碑已标记为未达成（已过截止日期）
+Milestone moved,里程碑已移动
+Milestone Name,里程碑名称
+Milestone name has been saved.,里程碑名称已保存。
+Milestone name is required,里程碑名称为必填项
+Milestone updated,里程碑已更新
+Milestone {0} not found,未找到里程碑 {0}
+Milestone {0} not in project {1},里程碑 {0} 不在项目 {1} 中
+Milestones,里程碑
+milestones,里程碑
+Milestones:,里程碑：
+Minutes,分钟
+Missed,未达成
+Mixed,混合
+Mobile,移动端
+Moderate,中等
+Modified,修改日期
+"Modify details, time, or attendees",修改详情、时间或参与者
+Mon,一
+Month,月
+Move failed,移动失败
+Must be a positive number,必须为正数
+Must finish before this finishes,必须在此项完成之前完成
+Must finish before this starts,必须在此项开始之前完成
+Must start before this finishes,必须在此项完成之前开始
+Must start before this starts,必须在此项开始之前开始
+My Assignments,我的分配
+My Projects,我的项目
+My Schedule,我的日程
+My Tasks,我的任务
+N/A,不适用
+Name,名称
+Name (A-Z),名称 (A-Z)
+Name (Z-A),名称 (Z-A)
+Name cannot exceed 255 characters,名称不能超过255个字符
+Need help?,需要帮助？
+Needs Attention,需关注
+Never,Never
+new activities,新动态
+New Activity,新动态
+New activity,新动态
+New Event,新事件
+New index is required,新索引为必填项
+New Project,新项目
+New tasks will auto-trail by default.,新任务默认启用自动顺延。
+Newest First,最新优先
+Next,下一步
+Next 14 days,未来14天
+Next 30 days,未来30天
+Next 60 days,未来60天
+Next 7 days,未来7天
+Next 90 days,未来90天
+Next Week,下周
+Next:,下一个：
+No,否
+No active assignments,无活跃分配
+No active projects,无进行中的项目
+No active timer found,未找到运行中的计时器
+No activity selected,未选择动态
+No assignments found,未找到分配
+No attendees,无参与者
+no change,无变更
+No changes for this field.,此字段无变更。
+No changes recorded for this activity.,此动态无已记录的变更。
+No checklist items yet,暂无检查项
+No checklist items yet.,暂无检查项。
+No comments yet,暂无评论
+No comments yet.,暂无评论。
+No contacts available,无可用联系人
+No content for this tab,此标签页无内容
+No data available,无可用数据
+No data available for the selected filters,所选筛选条件无可用数据
+No data to export,无数据可导出
+No dates set,未设置日期
+No defects reported,无缺陷报告
+No dependencies defined,未定义依赖
+No description,无描述
+No discussion yet.,暂无讨论。
+No documents attached,无附加文档
+No due date,无截止日期
+No employee linked to this resource,此资源未关联员工
+No ERPNext employee linked to resource,资源未关联ERPNext员工
+No events found,未找到事件
+No files attached yet.,暂无附件。
+No Frappe Project linked,未关联Frappe项目
+No Grouping,不分组
+No items,无项目
+No matching tasks,无匹配任务
+No matching tasks found,未找到匹配任务
+No migration history,无迁移历史
+No Milestone,无里程碑
+No milestones,无里程碑
+No milestones defined for this project.,此项目未定义里程碑。
+No notes yet.,暂无备注。
+No notes yet. Add a due diligence note to track progress.,暂无备注。添加尽职调查备注来跟踪进度。
+No notifications,无通知
+No Orga Project linked to Frappe Project {0},Frappe项目 {0} 未关联Orga项目
+No overdue tasks,无逾期任务
+No pending cascade changes,无待处理的级联变更
+No predecessors - this task can start independently,无前置任务——此任务可独立开始
+No project,无项目
+No projects found,未找到项目
+No Projects Yet,暂无项目
+No recent activity,无最近动态
+No related documents,无相关文档
+No resolved threads.,无已解决的讨论。
+No resources found,未找到资源
+No results found,未找到结果
+No skills listed,无已登记技能
+No skills recorded yet,暂无技能记录
+No successors - no tasks are waiting for this one,无后续任务——没有任务在等待此项
+No task selected,未选择任务
+No tasks assigned to you,没有分配给你的任务
+No tasks available to add,无可添加的任务
+No tasks found,未找到任务
+No tasks linked to this milestone,此里程碑无关联任务
+No tasks with dates to display,无带日期的任务可显示
+No tasks yet,暂无任务
+No team members,无团队成员
+No template,无模板
+No templates yet,暂无模板
+No time data found,未找到时间数据
+No time logged today,今天无时间记录
+No time logged yet,暂无时间记录
+No time logs for this period,此期间无时间记录
+No time logs found,未找到时间记录
+No unread notifications,无未读通知
+No update information available yet.,No update information available yet.
+None,无
+Not found,未找到
+Not permitted,无权限
+Not permitted to access this project,无权访问此项目
+Not permitted to access this task,无权访问此任务
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,无权评论此文档
+Not permitted to create clients,无权创建客户
+Not permitted to delete this client,无权删除此客户
+Not permitted to delete this defect,无权删除此缺陷
+Not permitted to delete this note,无权删除此备注
+Not permitted to delete this project,无权删除此项目
+Not permitted to delete this task,无权删除此任务
+Not permitted to delete this time log,无权删除此时间记录
+Not permitted to invite clients,无权邀请客户
+Not permitted to modify client access,无权修改客户访问权限
+Not permitted to modify this project,无权修改此项目
+Not permitted to update settings,无权更新设置
+Not permitted to update this client,无权更新此客户
+Not permitted to view this client,无权查看此客户
+not sent,未发送
+Not set,未设置
+Not specified,未指定
+Note,备注
+Note (optional),备注（可选）
+Note Content,备注内容
+Note content is required,备注内容为必填项
+Note name is required,备注名称为必填项
+Note not found,未找到备注
+Note Type,备注类型
+Notes,备注
+Notification,通知
+Notification not found,未找到通知
+Notifications,通知
+Off Track,偏离计划
+Offer,报价
+Offer Prepared,报价已准备
+Oldest First,最早优先
+On Hold,暂停
+On Leave,休假
+On Track,按计划进行
+On-Time Rate,按时完成率
+Only administrators can delete activities,只有管理员可以删除动态
+Only the comment author or administrators can delete comments,只有评论作者或管理员可以删除评论
+Only you and admins,仅你和管理员
+Open,未开始
+Open in Desk,在Desk中打开
+Open Task Log,打开任务日志
+Open Tasks,未完成任务
+Optional,可选
+optional,可选
+Or email us directly at,或直接发邮件至
+Orga Project {0} from Frappe Projects,来自Frappe Projects的Orga项目 {0}
+Orga Task {0} from Frappe,来自Frappe的Orga任务 {0}
+Organizer,组织者
+Other,其他
+Over Budget,超出预算
+Overall Progress,总体进度
+Overall Utilization,总体利用率
+Overallocated,过度分配
+Overdue,逾期
+overdue,逾期
+Overdue Tasks,逾期任务
+Overview,概览
+Owner,所有者
+Page Not Found,页面未找到
+Parent,父级
+Parent comment must belong to the same document,父评论必须属于同一文档
+Parent comment not found,未找到父评论
+Parent project not synced to Frappe yet,父项目尚未同步到Frappe
+Parent project sync not enabled,父项目同步未启用
+Partner,合作伙伴
+Pending,待处理
+per page,每页
+Perform initial assessment and background check,执行初步评估和背景调查
+Permanently remove this event,永久删除此事件
+Permanently remove this task,永久删除此任务
+Phone,电话
+Pin,置顶
+Pin Activity,置顶动态
+Pin to top,置顶
+Pinned,已置顶
+Planned budget for this task,此任务的计划预算
+Planning,规划中
+Please describe your question or issue in detail...,请详细描述您的问题...
+Please login to access Orga,请登录以访问Orga
+Please login to access the client portal,请登录以访问客户门户
+Please respond to this invitation in Orga,请在Orga中回复此邀请
+Please select an image file,请选择图片文件
+Please try again,请重试
+Please type,请输入
+Portal,门户
+Portal access revoked for {0},已撤销 {0} 的门户访问权限
+Portal user created successfully. Welcome email {0},门户用户已创建。欢迎邮件 {0}
+Post,发布
+Powered by,技术支持
+Powered by Tonic,技术支持：Tonic
+Predecessors (Blocked By),前置任务（阻塞来源）
+Preferences,偏好设置
+Preferences saved successfully,偏好设置已保存
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",自动生成项目编号的前缀（例如：ORG-2026-0001）
+Prepare and document offer terms,准备并记录报价条款
+Press,按
+Preview,预览
+Preview cascade before applying,应用前预览级联
+Previous,上一步
+Priority,优先级
+Priority assigned to new tasks,分配给新任务的优先级
+Priority updated,优先级已更新
+Proficiency,熟练度
+Profile,个人资料
+Progress,进度
+Progress (High-Low),进度（从高到低）
+Progress (Low-High),进度（从低到高）
+Progress Overview,进度概览
+Progress updated,进度已更新
+Project,项目
+Project budget has been saved.,项目预算已保存。
+Project code (e.g. ORG-2026-0001),项目编号（例如：ORG-2026-0001）
+Project Code Prefix,项目编号前缀
+Project created,项目已创建
+Project deleted,项目已删除
+Project description has been saved.,项目描述已保存。
+Project Details,项目详情
+Project end date has been saved.,项目结束日期已保存。
+Project Files,项目文件
+Project has no linked client,项目未关联客户
+Project Health,项目健康度
+Project Info,项目信息
+Project is required,项目为必填项
+Project is required for project context,项目上下文需要项目
+Project is required when tracking context is 'project',"当跟踪上下文为项目""时，项目为必填项"""
+Project Manager,项目经理
+Project Name,项目名称
+Project name and template name are required,项目名称和模板名称为必填项
+Project name is required,项目名称为必填项
+Project not found,未找到项目
+Project not found or you do not have access,未找到项目或无访问权限
+Project settings,项目设置
+Project start date has been saved.,项目开始日期已保存。
+Project title has been saved.,项目标题已保存。
+Project Type,项目类型
+Project updated,项目已更新
+Project {0} linked to client {1},已将项目 {0} 关联到客户 {1}
+Project {0} not found,未找到项目 {0}
+Project {0} to Frappe Projects,将项目 {0} 同步到Frappe Projects
+Project:,项目：
+Projects,项目
+projects,项目
+Projects created:,已创建项目：
+Projects Overview,项目概览
+Projects skipped:,已跳过项目：
+Projects updated:,已更新项目：
+Promote failed,升级失败
+Promote to task,升级为任务
+Promoted to task,已升级为任务
+Propose,建议
+Propose New Time,建议新时间
+Propose Time,建议时间
+Proposed End,建议结束
+Proposed Start,建议开始
+Public,公开
+Quick Action,快捷操作
+Quick Actions,快捷操作
+Quick Stats,快速统计
+Rates,费率
+Receive notifications via email,通过邮件接收通知
+Receive notifications within the application,在应用内接收通知
+Recent Activity,最近动态
+Recipient {0} is not a valid user,收件人 {0} 不是有效用户
+Reference,参考
+Refresh,刷新
+Related,相关
+Related Company (optional),相关公司（可选）
+Related Documents,相关文档
+Related Project,相关项目
+Remaining,剩余
+Reminder,提醒
+Reminder Lead Time,提醒提前时间
+Reminder: {0} - {1} at {2},提醒：{0} - {1}（{2}）
+Remove,移除
+Remove dependency,移除依赖
+Remove dependency on,移除对以下的依赖
+Remove from group,从分组中移除
+Remove group dependency,移除分组依赖
+Remove skill,移除技能
+Reopen,重新打开
+Reopen thread,重新打开讨论
+reopened,已重新打开
+replies,回复
+Reply,回复
+reply,回复
+Replying to,回复
+Replying to comment,回复评论
+Report Defect,报告缺陷
+Reported Date,报告日期
+Reports,报表
+Reports To,上级
+Request Submitted!,请求已提交！
+Required,必填
+required,必填
+Research,调研
+Reset to Defaults,重置为默认值
+Resolve,解决
+Resolve thread,解决讨论
+Resolved,已解决
+Resolved date cannot be before reported date,解决日期不能早于报告日期
+Resource,资源
+Resource and skill name are required,资源和技能名称为必填项
+Resource is already an attendee,此资源已是参与者
+Resource name is required,资源名称为必填项
+Resource not found,未找到资源
+Resource synced from employee {0},已从员工 {0} 同步资源
+Resource {0} is already assigned to this task ({1}),资源 {0} 已分配到此任务（{1}）
+Resource {0} not found,未找到资源 {0}
+Resources,资源
+Retry,重试
+Review,审查
+Review all relevant documents and contracts,审查所有相关文档和合同
+Reviews,审查
+Risk Assessment,风险评估
+Rollback,回滚
+Rolled back,已回滚
+Room or address,房间或地址
+RSVP,RSVP
+Safety,安全
+Sat,六
+Save,保存
+"Save a project as a template, or import one from a JSON file.",将项目保存为模板，或从JSON文件导入。
+Save as Template,另存为模板
+Save Changes,保存更改
+Save failed,保存失败
+Save Preferences,保存偏好设置
+Save Template,保存模板
+Saving...,正在保存...
+Schedule,日程
+Schedule type is required for scheduled triggers,定时触发器需要日程类型
+Scheduled,已安排
+Search,搜索
+"Search by name, email, or skill...",按名称、邮箱或技能搜索...
+Search for a project...,搜索项目...
+Search for a task...,搜索任务...
+Search for an event...,搜索事件...
+Search for people to invite...,搜索要邀请的人...
+Search tasks to link...,搜索要关联的任务...
+Search tasks...,搜索任务...
+Search...,搜索...
+Searching...,正在搜索...
+Seen,已查看
+Select a project if your request is related to a specific project.,如果您的请求与特定项目相关，请选择项目。
+Select a project...,选择项目...
+Select a task from the Gantt chart to view and manage its details.,从Gantt图表中选择任务来查看和管理详情。
+Select a task from the list or Kanban board to view and manage its details.,从列表或Kanban看板中选择任务来查看和管理详情。
+Select a template...,选择模板...
+Select priority...,选择优先级...
+Select status...,选择状态...
+Select task...,选择任务...
+Select type...,选择类型...
+Selection,选择
+Send,发送
+Send comment,发送评论
+Send email invitations to attendees,向参与者发送邮件邀请
+Send Invitations,发送邀请
+Send notification when a task is assigned to a user,任务分配时发送通知
+Send notification when task status changes,任务状态变更时发送通知
+Send reminder before task due date,任务截止日期前发送提醒
+sent,已发送
+Set rate,设置费率
+Settings,设置
+Settings saved successfully,设置已保存
+Severity,严重程度
+SF (Start-Finish),SF（开始-完成）
+SF - Start-to-Finish,SF - 开始-完成
+Show,显示
+Show all,显示全部
+Show all changes,显示所有变更
+Show Archived,显示已归档
+Show full diff,显示完整差异
+Show less,收起
+Show more,展开
+Skill added,技能已添加
+Skill is required,技能为必填项
+Skill Name,技能名称
+Skill removed,技能已移除
+Skill {0} already exists for this resource,此资源已有技能 {0}
+Skills,技能
+Skills & Competencies,技能与能力
+Skip already migrated projects,跳过已迁移的项目
+Sort by,排序
+Sort: Due Date,排序：截止日期
+Sort: Priority,排序：优先级
+Sort: Project,排序：项目
+Sort: Status,排序：状态
+Sort: Task,排序：任务
+Source Code,源代码
+Spent,已花费
+Spent:,已花费：
+SS (Start-Start),SS（开始-开始）
+SS - Start-to-Start,SS - 开始-开始
+Standalone,独立
+Start,开始
+Start a discussion below,在下方开始讨论
+Start Date,开始日期
+Start date,开始日期
+Start Date (Earliest),开始日期（最早）
+Start date updated,开始日期已更新
+Start date/time is required,开始日期/时间为必填项
+Start Migration,开始迁移
+Start the conversation below.,在下方开始对话。
+Start Timer,启动计时器
+Start typing to search...,输入内容开始搜索...
+Start-to-Finish,开始-完成
+Start-to-Start,开始-开始
+Start:,开始：
+Statistics reset,统计已重置
+Status,状态
+Status assigned to new projects,分配给新项目的状态
+Status assigned to new tasks,分配给新任务的状态
+Status Changes,状态变更
+Status updated,状态已更新
+Status:,状态：
+Stop,停止
+Stop & Save,停止并保存
+Stop Timer,停止计时器
+Stops current timer and starts for this event,停止当前计时器并为此事件启动
+Stops current timer and starts for this task,停止当前计时器并为此任务启动
+Subject,主题
+Subject cannot exceed 255 characters,主题不能超过255个字符
+Subject is required,主题为必填项
+Submit,提交
+Submit Another Request,提交另一个请求
+Submit Request,提交请求
+Submitting...,正在提交...
+Successfully saved,保存成功
+Successors (Blocking),后续任务（阻塞中）
+Sun,日
+Supplier,供应商
+Support,支持
+Switch to this event,切换到此事件
+Switch to this task,切换到此任务
+Sync direction is set to Frappe to Orga only,同步方向设为仅从Frappe到Orga
+Sync direction is set to Orga to Frappe only,同步方向设为仅从Orga到Frappe
+Sync not enabled for this project,此项目未启用同步
+System,系统
+Table,表格
+Take ownership of this task,接手此任务
+Target Date,目标日期
+Target End,目标结束日期
+Target Project,目标项目
+Target user is required for '{0}' action,"{0}""操作需要目标用户"""
+Task,任务
+task,任务
+Task '{0}' is due on {1}.,"任务{0}""的截止日期为 {1}。"""
+Task and resource are required,任务和资源为必填项
+Task Assignment,任务分配
+Task cannot be its own parent,任务不能是自己的父级
+Task cannot depend on itself,任务不能依赖自身
+Task cannot depend on the group it belongs to,任务不能依赖其所属分组
+Task created,任务已创建
+Task deleted,任务已删除
+Task description has been saved.,任务描述已保存。
+Task Details,任务详情
+Task due in {0} days: {1},{0}天后到期的任务：{1}
+Task due today: {0},今天到期的任务：{0}
+Task due tomorrow: {0},明天到期的任务：{0}
+Task duplicated,任务已复制
+Task Group,任务分组
+Task ID is required,任务ID为必填项
+Task is blocked by incomplete dependencies,任务被未完成的依赖阻塞
+Task is cancelled,任务已取消
+Task is completed,任务已完成
+Task is no longer blocked by a group,任务不再被分组阻塞
+Task is required for task context,任务上下文需要任务
+Task is required when tracking context is 'task',"当跟踪上下文为任务""时，任务为必填项"""
+Task linked,任务已关联
+Task moved,任务已移动
+Task name,任务名称
+Task name is required,任务名称为必填项
+Task removed from group,任务已从分组中移除
+Task Subject,任务主题
+Task subject is required,任务主题为必填项
+Task Type,任务类型
+Task unblocked: {0},任务已解除阻塞：{0}
+Task unlinked,任务已取消关联
+Task updated,任务已更新
+Task {0} not found,未找到任务 {0}
+Task {0} not in project {1},任务 {0} 不在项目 {1} 中
+Task {0} to Frappe,将任务 {0} 同步到Frappe
+Tasks,任务
+tasks,任务
+Tasks and milestones will be created with dates relative to the project start date.,任务和里程碑将以项目开始日期为基准创建相对日期。
+Tasks assigned to you across all projects.,所有项目中分配给你的任务。
+Tasks created:,已创建任务：
+Tasks from projects you manage.,你管理的项目中的任务。
+Tasks updated:,已更新任务：
+"Tasks, milestones, and dependencies have been created.",任务、里程碑和依赖已创建。
+Tasks:,任务：
+TBD,待定
+Team,团队
+Team Members,团队成员
+Template,模板
+Template applied,模板已应用
+Template data is required in import data,导入数据中需要模板数据
+Template has no data,模板无数据
+Template Name,模板名称
+Template name,模板名称
+Template name is required,模板名称为必填项
+Template name is required in import data,导入数据中需要模板名称
+Template saved,模板已保存
+Template updated successfully.,模板已更新。
+Template {0} not found,未找到模板 {0}
+Templates,模板
+Tentative,暂定
+The comment has been deleted,评论已删除
+The project,该项目
+The source document may have been deleted.,源文档可能已被删除。
+The source document will not be affected.,源文档不会受到影响。
+The status of '{0}' was changed from {1} to {2}.,"{0}""的状态已从 {1} 变更为 {2}。"""
+Theme,主题
+Theme preference,主题偏好
+This action,此操作
+This action cannot be undone.,此操作无法撤销。
+This activity has been flagged for attention,此动态已被标记为需关注
+This is a reminder for your upcoming appointment,这是您即将到来的日程提醒
+This method is only meant for developer mode,此方法仅适用于开发者模式
+This page wandered off,此页面走丢了
+This Week,本周
+This will delete all notes and preferences associated with this activity.,这将删除与此动态关联的所有备注和偏好设置。
+This will import all Frappe Projects into Orga. Continue?,这将把所有Frappe项目导入到Orga。是否继续？
+This will permanently delete,这将永久删除
+This will permanently delete:,以下内容将被永久删除：
+Thu,四
+Time,时间
+Time & Billing,时间与计费
+Time & Revenue,时间与收入
+Time Entries,时间条目
+Time log name is required,时间记录名称为必填项
+Time Log not found,未找到时间记录
+Time log {0} not found,未找到时间记录 {0}
+Time Logs,时间记录
+Time Summary,时间概要
+Time Tracking,时间管理
+Timeline,时间线
+Timer active on,计时器运行对象
+Timer is not running,计时器未运行
+Timer Running,计时器运行中
+Timer running,计时器运行中
+Timesheet DocType not available,工时表DocType不可用
+Timesheets,工时表
+Timezone,时区
+Timezone is detected from your browser,时区由浏览器自动检测
+Title,标题
+Title cannot exceed 255 characters,标题不能超过255个字符
+Title is required,标题为必填项
+Title updated,标题已更新
+To,结束
+to,至
+to cancel,取消
+to close,关闭
+to confirm:,确认：
+to edit,编辑
+"to save,",保存，
+To Time cannot be before From Time,结束时间不能早于开始时间
+Today,今天
+today,今天
+Toggle billable,切换可计费状态
+Toggle Details Panel,切换详情面板
+Toggle Manager Panel,切换管理面板
+Toggle Sidebar,切换侧边栏
+Tomorrow,明天
+tomorrow,明天
+Total,合计
+Total Budget,总预算
+Total Contacts,联系人总数
+Total Cost,总成本
+Total Cost to Org,组织总成本
+Total Defect Cost,缺陷总成本
+Total Hours,总工时
+Total Hours Logged,已记录总工时
+Total Projects,项目总数
+Total Spent,总花费
+Total Tasks,任务总数
+Total:,合计：
+Tracked,已跟踪
+trails to today while Open at 0%,未开始(0%)时自动顺延到今天
+Tried:,尝试：
+Try adjusting your filter criteria,尝试调整筛选条件
+Try adjusting your filters.,尝试调整筛选条件。
+Try Again,重试
+Tue,二
+Type,类型
+Type updated,类型已更新
+Type:,类型：
+Typical response time: 1-2 business days,通常回复时间：1-2个工作日
+Unarchive,取消归档
+Unarchive Activity,取消归档动态
+Unassign,取消分配
+Unassigned,未分配
+Under Budget,预算内
+Ungrouped,未分组
+Unknown,未知
+Unknown error,未知错误
+Unlink failed,取消关联失败
+Unlink task from milestone,取消任务与里程碑的关联
+Unpin,取消置顶
+Unpin Activity,取消置顶动态
+Unread,未读
+Unread only,仅未读
+Until,直到
+Up to Date,Up to Date
+Upcoming,即将到来
+upcoming,即将到来
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,更新失败
+Updated,已更新
+Updated successfully,更新成功
+Updates,Updates
+Upload,上传
+Upload failed,上传失败
+Upload files below to attach them to this task.,在下方上传文件以附加到此任务。
+Upload to project,上传到项目
+Uploading...,正在上传...
+Urgent,紧急
+User {0} is already linked to client {1},用户 {0} 已关联到客户 {1}
+User {0} is already linked to resource {1},用户 {0} 已关联到资源 {1}
+Utilization,利用率
+Valid,有效
+Value:,值：
+Variance,偏差
+Variance:,偏差：
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,查看
+View All,查看全部
+View all active projects,查看所有进行中的项目
+View all open tasks,查看所有未完成任务
+View overdue tasks,查看逾期任务
+View Release,View Release
+Visibility,可见范围
+Waiting for this task,等待此任务完成
+Waits for:,等待：
+Warning: Resource {0} status is {1},警告：资源 {0} 的状态为 {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,警告：使用HTTP而非HTTPS。Webhook数据可能不安全。
+Watch budget closely,密切关注预算
+We'll respond to:,我们将回复至：
+Webhook deleted,Webhook已删除
+Webhook name is required,Webhook名称为必填项
+Webhook not found,未找到Webhook
+Webhook URL is required,Webhook URL为必填项
+Webhook URL must start with http:// or https://,Webhook URL必须以 http:// 或 https:// 开头
+Wed,三
+Week,周
+Weekend,周末
+Weekly Capacity,每周容量
+weekly capacity,每周容量
+Weekly Capacity (h),每周容量（小时）
+Welcome,欢迎
+Welcome back!,欢迎回来！
+Welcome to Orga,欢迎使用Orga
+What are you working on?,你在做什么？
+What did you work on?,你做了什么？
+When,时间
+When work begins,工作开始日期
+When work is due,工作截止日期
+Where,地点
+Will capture:,将包含：
+Will create:,将创建：
+with checklist items,包含检查项
+Working,进行中
+Workload,工作量
+Workmanship,施工质量
+Write a comment...,写评论...
+Write a comment... Use @name to mention (Ctrl+Enter to send),写评论... 用 @名字 提及（Ctrl+Enter 发送）
+Year,年
+Yes,是
+Yesterday,昨天
+yesterday,昨天
+You are not an attendee of this appointment,你不是此日程的参与者
+You are not linked to any resource,你未关联到任何资源
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,只能删除自己的评论
+You can only delete your own reactions,只能删除自己的回应
+You do not have access to the client portal. Please contact support.,你没有客户门户的访问权限，请联系支持。
+You have already reacted with '{0}',"你已用{0}""回应过"""
+You have been assigned to task '{0}' in project '{1}'.,"你已被分配到项目{1}""中的任务""{0}""。"""
+You have been assigned to: {0},你已被分配到：{0}
+You have been invited to the following appointment,你已被邀请参加以下日程
+You have no tasks assigned to you right now.,你目前没有被分配的任务。
+You were mentioned in {0},你在 {0} 中被提及
+Your attendance,你的出席情况
+Your comment has been posted,评论已发布
+Your Projects,我的项目
+Your projects will appear here once they're assigned to you.,项目分配给你后会显示在这里。
+Your Response,你的回复
+Your RSVP,你的RSVP
+Your support request has been submitted successfully.,支持请求已提交。
+Your support request has been submitted successfully. We'll get back to you shortly.,支持请求已提交，我们会尽快回复您。
+"Your task ""{0}"" is no longer blocked and can now be started.","你的任务{0}""已不再被阻塞，现在可以开始了。"""
+{0} is required,{0}为必填项
+{0} new activities,{0}条新动态
+{0} of {1} completed,{1}项中已完成{0}项
+{0} projects already migrated (will be skipped or updated),{0}个项目已迁移（将被跳过或更新）
+{0} status changed to {1},{0}的状态已变更为{1}
+{0} tasks remaining,剩余{0}个任务
+{0} tasks without projects will be skipped,{0}个无项目的任务将被跳过
+{0} {1} not found,未找到{0} {1}

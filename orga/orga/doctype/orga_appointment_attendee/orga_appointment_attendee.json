@@ -1,0 +1,105 @@
+{
+  "actions": [],
+  "allow_rename": 0,
+  "creation": "2026-02-03 15:00:00.000000",
+  "doctype": "DocType",
+  "editable_grid": 1,
+  "engine": "InnoDB",
+  "field_order": [
+    "resource",
+    "resource_name",
+    "user",
+    "column_break_rsvp",
+    "rsvp_status",
+    "required",
+    "notes",
+    "section_proposed_time",
+    "proposed_start",
+    "proposed_end"
+  ],
+  "fields": [
+    {
+      "fieldname": "resource",
+      "fieldtype": "Link",
+      "label": "Resource",
+      "options": "Orga Resource",
+      "in_list_view": 1,
+      "columns": 2
+    },
+    {
+      "fieldname": "resource_name",
+      "fieldtype": "Data",
+      "label": "Name",
+      "fetch_from": "resource.resource_name",
+      "read_only": 1,
+      "in_list_view": 1,
+      "columns": 2
+    },
+    {
+      "fieldname": "user",
+      "fieldtype": "Link",
+      "label": "User",
+      "options": "User",
+      "in_list_view": 1,
+      "columns": 2,
+      "description": "System user for RSVP responses"
+    },
+    {
+      "fieldname": "column_break_rsvp",
+      "fieldtype": "Column Break"
+    },
+    {
+      "fieldname": "rsvp_status",
+      "fieldtype": "Select",
+      "label": "RSVP",
+      "options": "Pending\nAccepted\nDeclined\nTentative",
+      "default": "Pending",
+      "in_list_view": 1,
+      "columns": 2
+    },
+    {
+      "fieldname": "required",
+      "fieldtype": "Check",
+      "label": "Required",
+      "default": 1,
+      "in_list_view": 1,
+      "columns": 1
+    },
+    {
+      "fieldname": "notes",
+      "fieldtype": "Small Text",
+      "label": "Response Notes",
+      "description": "Notes or reason for decline"
+    },
+    {
+      "fieldname": "section_proposed_time",
+      "fieldtype": "Section Break",
+      "label": "Proposed Alternative Time",
+      "collapsible": 1,
+      "depends_on": "eval:doc.rsvp_status=='Tentative'"
+    },
+    {
+      "fieldname": "proposed_start",
+      "fieldtype": "Datetime",
+      "label": "Proposed Start"
+    },
+    {
+      "fieldname": "proposed_end",
+      "fieldtype": "Datetime",
+      "label": "Proposed End"
+    }
+  ],
+  "index_web_pages_for_search": 0,
+  "istable": 1,
+  "links": [],
+  "modified": "2026-02-04 16:00:00.000000",
+  "modified_by": "Administrator",
+  "module": "Orga",
+  "name": "Orga Appointment Attendee",
+  "owner": "Administrator",
+  "permissions": [],
+  "sort_field": "idx",
+  "sort_order": "ASC",
+  "states": [],
+  "track_changes": 0
+}

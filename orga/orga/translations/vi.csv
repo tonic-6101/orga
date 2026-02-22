@@ -1,0 +1,1492 @@
++ Add Milestone,+ Thêm mốc quan trọng
++ Create Task,+ Tạo công việc
++ Log Time,+ Ghi nhận thời gian
+-- Select a project --,-- Chọn dự án --
+0m,0p
+1 day,1 ngày
+1 day ago,1 ngày trước
+1 dependency,1 phụ thuộc
+1 entry,1 mục
+1 file,1 tệp
+1 hour ago,1 giờ trước
+1 member,1 thành viên
+1 milestone,1 mốc quan trọng
+1 month,1 tháng
+1 task,1 công việc
+< 1m,< 1p
+"A clear, actionable title for the task","Tiêu đề rõ ràng, dễ thực hiện cho công việc"
+A client with email {0} already exists: {1},Đã có khách hàng với email {0}: {1}
+A key deliverable or checkpoint for the project,Một sản phẩm bàn giao hoặc điểm kiểm tra quan trọng cho dự án
+Accept,Chấp nhận
+Accepted,Đã chấp nhận
+Acknowledge,Xác nhận
+across,trong
+Action,Hành động
+Actions,Hành động
+Active,Đang hoạt động
+Active Assignments,Phân công đang hoạt động
+Active Projects,Dự án đang hoạt động
+Activity,Hoạt động
+Activity data deleted successfully,Đã xóa dữ liệu hoạt động thành công
+Activity Info,Thông tin hoạt động
+Activity Stats,Thống kê hoạt động
+Activity will appear here as you work on tasks and projects.,Hoạt động sẽ hiển thị ở đây khi bạn làm việc trên các công việc và dự án.
+Actual,Thực tế
+Actual Cost,Chi phí thực tế
+Actual cost cannot be negative,Chi phí thực tế không được âm
+Actual end date cannot be before actual start date,Ngày kết thúc thực tế không được trước ngày bắt đầu thực tế
+Actual Hours,Giờ thực tế
+Add,Thêm
+Add a checklist item...,Thêm một mục kiểm tra...
+Add a comment...,Thêm bình luận...
+Add a comment... (Ctrl+Enter to send),Thêm bình luận... (Ctrl+Enter để gửi)
+Add a description...,Thêm mô tả...
+Add a milestone description...,Thêm mô tả mốc quan trọng...
+Add a note below to annotate this activity.,Thêm ghi chú bên dưới để chú thích hoạt động này.
+Add a note...,Thêm ghi chú...
+Add a project description...,Thêm mô tả dự án...
+Add a task description...,Thêm mô tả công việc...
+Add checklist item...,Thêm mục kiểm tra...
+Add Contact,Thêm liên hệ
+Add contacts via the Desk interface or clear filters,Thêm liên hệ qua giao diện Desk hoặc xóa bộ lọc
+Add Dependency,Thêm phụ thuộc
+Add details about this event...,Thêm chi tiết về sự kiện này...
+Add details about this milestone...,Thêm chi tiết về mốc quan trọng này...
+Add details about this task...,Thêm chi tiết về công việc này...
+Add details or acceptance criteria for this milestone,Thêm chi tiết hoặc tiêu chí chấp nhận cho mốc quan trọng này
+"Add details, context, or acceptance criteria","Thêm chi tiết, bối cảnh hoặc tiêu chí chấp nhận"
+Add first dependency,Thêm phụ thuộc đầu tiên
+Add item,Thêm mục
+Add items below to track progress.,Thêm các mục bên dưới để theo dõi tiến độ.
+Add items below to track subtasks,Thêm các mục bên dưới để theo dõi công việc con
+Add Milestone,Thêm mốc quan trọng
+Add Milestone (Shift+M),Thêm mốc quan trọng (Shift+M)
+Add milestones to track key deliverables.,Thêm mốc quan trọng để theo dõi các sản phẩm bàn giao.
+Add New Contact,Thêm liên hệ mới
+Add Note,Thêm ghi chú
+Add note,Thêm ghi chú
+Add notes about this contact...,Thêm ghi chú về liên hệ này...
+Add reaction,Thêm phản hồi
+Add Skill,Thêm kỹ năng
+Add start and due dates to tasks to see them on the Gantt chart,Thêm ngày bắt đầu và ngày đến hạn cho công việc để xem trên biểu đồ Gantt
+Add Task,Thêm công việc
+Add Task (Shift+T),Thêm công việc (Shift+T)
+Added Finish-to-Start dependency,Đã thêm phụ thuộc Kết thúc-Bắt đầu
+Adding this dependency would create a circular reference: {0},Thêm phụ thuộc này sẽ tạo tham chiếu vòng: {0}
+Adding...,Đang thêm...
+Address,Địa chỉ
+Advanced,Nâng cao
+All,Tất cả
+All Active,Tất cả đang hoạt động
+All Assignees,Tất cả người được phân công
+All Categories,Tất cả danh mục
+All caught up!,Đã cập nhật hết!
+All Contexts,Tất cả ngữ cảnh
+All day,Cả ngày
+All day event,Sự kiện cả ngày
+All fields,Tất cả trường
+All Priorities,Tất cả mức ưu tiên
+All Projects,Tất cả dự án
+All Status,Tất cả trạng thái
+All Statuses,Tất cả trạng thái
+All task dependencies & relative dates,Tất cả phụ thuộc công việc và ngày tương đối
+All Tasks,Tất cả công việc
+All tasks across all projects.,Tất cả công việc trong mọi dự án.
+All tasks are already linked,Tất cả công việc đã được liên kết
+All team members,Tất cả thành viên nhóm
+All Types,Tất cả loại
+All Users,Tất cả người dùng
+Allocated,Đã phân bổ
+allocated,đã phân bổ
+Allow users to log time against tasks,Cho phép người dùng ghi nhận thời gian cho công việc
+Already exported to timesheet {0},Đã xuất sang bảng chấm công {0}
+Already Migrated,Đã chuyển đổi
+Anyone with access,Bất kỳ ai có quyền truy cập
+anytime to show this help,bất cứ lúc nào để hiển thị trợ giúp này
+App Updates,App Updates
+Appearance,Giao diện
+Apply,Áp dụng
+Apply cascade?,Áp dụng lan truyền?
+Apply Changes,Áp dụng thay đổi
+Apply failed,Áp dụng thất bại
+Apply Template,Áp dụng mẫu
+Applying...,Đang áp dụng...
+Appointment,Cuộc hẹn
+Appointment and resource are required,Cuộc hẹn và nguồn lực là bắt buộc
+Appointment name is required,Tên cuộc hẹn là bắt buộc
+Appointment not found,Không tìm thấy cuộc hẹn
+Appointment {0} not found,Không tìm thấy cuộc hẹn {0}
+Apps,Ứng dụng
+Archive,Lưu trữ
+Archive Activity,Lưu trữ hoạt động
+Archived,Đã lưu trữ
+Are you sure you want to delete this activity data? This cannot be undone.,Bạn có chắc muốn xóa dữ liệu hoạt động này? Hành động này không thể hoàn tác.
+Are you sure you want to delete this comment?,Bạn có chắc muốn xóa bình luận này?
+Are you sure you want to delete this project?,Bạn có chắc muốn xóa dự án này?
+Are you sure?,Bạn có chắc không?
+Ascending -- click to reverse,Tăng dần -- nhấn để đảo ngược
+Assign To,Phân công cho
+Assign to Me,Phân công cho tôi
+Assigned Contact,Liên hệ được phân công
+Assigned To,Phân công cho
+Assigned to,Phân công cho
+Assigned to Me,Phân công cho tôi
+Assignee,Người được phân công
+Assignment,Phân công
+Assignment History,Lịch sử phân công
+Assignment name is required,Tên phân công là bắt buộc
+Assignment {0} not found,Không tìm thấy phân công {0}
+Assignments,Phân công
+At least one action is required,Cần ít nhất một hành động
+At least one event is required,Cần ít nhất một sự kiện
+At least one event must be selected,Cần chọn ít nhất một sự kiện
+Attachment,Tệp đính kèm
+Attachments,Tệp đính kèm
+Attendees,Người tham dự
+"Audit trail, assignments, version history","Lịch sử thay đổi, phân công, lịch sử phiên bản"
+Auto,Tự động
+Auto Calculate Progress,Tự động tính tiến độ
+Auto Set Missed Milestones,Tự động đánh dấu mốc quan trọng bị lỡ
+Auto-shift dependents when dates change,Tự động dời các công việc phụ thuộc khi ngày thay đổi
+Auto-Trail Start,Tự động dời ngày bắt đầu
+Auto-Trail updated,Đã cập nhật tự động dời ngày
+Automatically calculate project progress from task completion,Tự động tính tiến độ dự án từ mức hoàn thành công việc
+Automatically mark milestones as missed when overdue,Tự động đánh dấu mốc quan trọng là bị lỡ khi quá hạn
+Automation rule {0} not found,Không tìm thấy quy tắc tự động {0}
+Automation: {0},Tự động: {0}
+Availability,Khả dụng
+Available,Sẵn sàng
+Avatar updated successfully,Đã cập nhật ảnh đại diện thành công
+Avg Progress,Tiến độ trung bình
+Back,Quay lại
+Back to Portal,Quay lại cổng thông tin
+Back to Projects,Quay lại dự án
+Beginner,Mới bắt đầu
+Best regards,Trân trọng
+Billable,Có thể tính phí
+Billable Amount,Số tiền tính phí
+Billable Hours,Giờ tính phí
+Billable Rate,Đơn giá tính phí
+Billing Rate,Đơn giá thanh toán
+Blocked,Bị chặn
+Both dates are needed to display task as a bar in Gantt chart,Cần cả hai ngày để hiển thị công việc dưới dạng thanh trên biểu đồ Gantt
+Both doctype and docname are required,Cần cả doctype và docname
+Both proposed start and end times are required,Cần cả thời gian bắt đầu và kết thúc đề xuất
+Both task_name and depends_on are required,Cần cả task_name và depends_on
+Breadcrumb,Đường dẫn
+Brief description of the defect or damage,Mô tả ngắn về lỗi hoặc hư hỏng
+Brief description of this template,Mô tả ngắn về mẫu này
+Brief description of your request,Mô tả ngắn về yêu cầu của bạn
+Brief project description,Mô tả ngắn về dự án
+Budget,Ngân sách
+Budget at risk,Ngân sách có rủi ro
+Budget Burn Rate,Tốc độ tiêu ngân sách
+Budget Status,Trạng thái ngân sách
+Budget updated,Đã cập nhật ngân sách
+Budget:,Ngân sách:
+Bug,Lỗi
+Burn Rate,Tốc độ tiêu dùng
+Busy,Bận
+By,Bởi
+By Assignee,Theo người được phân công
+By Group,Theo nhóm
+By Milestone,Theo mốc quan trọng
+By Priority,Theo mức ưu tiên
+By Status,Theo trạng thái
+Cancel,Hủy
+Cancelled,Đã hủy
+cannot be undone,không thể hoàn tác
+Cannot delete client with {0} linked projects. Unlink projects first.,Không thể xóa khách hàng có {0} dự án liên kết. Hãy gỡ liên kết dự án trước.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Không thể xóa dự án có {0} công việc liên kết. Hãy xóa công việc trước.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Không thể xóa nguồn lực có {0} phân công đang hoạt động. Hãy hoàn thành hoặc hủy trước.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Không thể xóa công việc có {0} công việc con. Hãy xóa công việc con trước.
+Capacity,Công suất
+capacity,công suất
+Capacity & Rates,Công suất và đơn giá
+Capture project structure for reuse,Lưu cấu trúc dự án để tái sử dụng
+Cascade,Lan truyền
+Cascade Preview,Xem trước lan truyền
+Category,Danh mục
+Celebrate,Chúc mừng
+Change,Thay đổi
+Change History,Lịch sử thay đổi
+Change Priority,Thay đổi mức ưu tiên
+Change Status,Thay đổi trạng thái
+Changes,Thay đổi
+Changes appear when fields are modified.,Thay đổi hiển thị khi các trường được chỉnh sửa.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Danh sách kiểm tra
+Checklist item name is required,Tên mục kiểm tra là bắt buộc
+Checklist item not found,Không tìm thấy mục kiểm tra
+Checklist item title is required,Tiêu đề mục kiểm tra là bắt buộc
+Checklist item {0} not found,Không tìm thấy mục kiểm tra {0}
+Checklist item {0} not found in task,Không tìm thấy mục kiểm tra {0} trong công việc
+Child,Con
+Choose file to upload,Chọn tệp để tải lên
+Circular dependency detected: {0},Phát hiện phụ thuộc vòng: {0}
+Circular parent-child relationship detected,Phát hiện quan hệ cha-con vòng
+Clear,Xóa
+Clear all read,Xóa tất cả đã đọc
+Clear date,Xóa ngày
+Click on an activity from the list to view and manage its details.,Nhấn vào một hoạt động từ danh sách để xem và quản lý chi tiết.
+Click the avatar to upload a new photo,Nhấn vào ảnh đại diện để tải lên ảnh mới
+Click to add description...,Nhấn để thêm mô tả...
+Click to add notes...,Nhấn để thêm ghi chú...
+Click to assign contact,Nhấn để phân công liên hệ
+Click to change status,Nhấn để thay đổi trạng thái
+Click to change type,Nhấn để thay đổi loại
+Click to edit,Nhấn để chỉnh sửa
+Click to edit budget,Nhấn để chỉnh sửa ngân sách
+Click to edit description,Nhấn để chỉnh sửa mô tả
+Click to edit end date,Nhấn để chỉnh sửa ngày kết thúc
+Click to edit milestone name,Nhấn để chỉnh sửa tên mốc quan trọng
+Click to edit rate,Nhấn để chỉnh sửa đơn giá
+Click to edit start date,Nhấn để chỉnh sửa ngày bắt đầu
+Click to edit title,Nhấn để chỉnh sửa tiêu đề
+Click to load,Nhấn để tải
+Click to set group dependency...,Nhấn để đặt phụ thuộc nhóm...
+Click to set group...,Nhấn để đặt nhóm...
+Click to view,Nhấn để xem
+Click to view at-risk projects,Nhấn để xem dự án có rủi ro
+Click to view critical projects,Nhấn để xem dự án nghiêm trọng
+Click to view healthy projects,Nhấn để xem dự án tốt
+Client,Khách hàng
+Client already has a portal user: {0},Khách hàng đã có tài khoản cổng: {0}
+Client already has portal access,Khách hàng đã có quyền truy cập cổng
+Client has no portal user to revoke,Khách hàng không có tài khoản cổng để thu hồi
+Client link removed from project {0},Đã gỡ liên kết khách hàng khỏi dự án {0}
+Client Portal,Cổng khách hàng
+Client {0} deleted successfully,Đã xóa khách hàng {0} thành công
+Close,Đóng
+Close (Esc),Đóng (Esc)
+Comment,Bình luận
+comment,bình luận
+Comment added,Đã thêm bình luận
+Comment content is required,Nội dung bình luận là bắt buộc
+Comment name is required,Tên bình luận là bắt buộc
+Comment not found,Không tìm thấy bình luận
+Comment removed,Đã xóa bình luận
+Comment {0} not found in task,Không tìm thấy bình luận {0} trong công việc
+Comments,Bình luận
+comments,bình luận
+Community Edition,Community Edition
+Company,Công ty
+Company name...,Tên công ty...
+Complete,Hoàn thành
+Completed,Đã hoàn thành
+completed,đã hoàn thành
+Completed Tasks,Công việc đã hoàn thành
+Compliance,Tuân thủ
+Configure default values for new projects and tasks,Cấu hình giá trị mặc định cho dự án và công việc mới
+Configure email notification settings,Cấu hình cài đặt thông báo email
+Confirm,Xác nhận
+Contact deleted,Đã xóa liên hệ
+Contact Details,Chi tiết liên hệ
+Contact Information,Thông tin liên hệ
+Contact name is required,Tên liên hệ là bắt buộc
+Contact Support,Liên hệ hỗ trợ
+Contact your project manager for more information.,Liên hệ người quản lý dự án để biết thêm thông tin.
+Contact:,Liên hệ:
+Contacts,Liên hệ
+Context,Ngữ cảnh
+Contractor,Nhà thầu
+Cost estimate cannot be negative,Ước tính chi phí không được âm
+Cost Impact,Ảnh hưởng chi phí
+Cost Summary,Tóm tắt chi phí
+Could not apply the template. Please try again.,Không thể áp dụng mẫu. Vui lòng thử lại.
+Could not attach file to project,Không thể đính kèm tệp vào dự án
+Could not change task priority,Không thể thay đổi mức ưu tiên công việc
+Could not change task status,Không thể thay đổi trạng thái công việc
+Could not delete the project. Please try again.,Không thể xóa dự án. Vui lòng thử lại.
+Could not delete the task. Please try again.,Không thể xóa công việc. Vui lòng thử lại.
+Could not delete the template.,Không thể xóa mẫu.
+Could not duplicate the task. Please try again.,Không thể nhân bản công việc. Vui lòng thử lại.
+Could not export the template.,Không thể xuất mẫu.
+Could not import the template. Please check the file format.,Không thể nhập mẫu. Vui lòng kiểm tra định dạng tệp.
+Could not link task to milestone,Không thể liên kết công việc với mốc quan trọng
+Could not load document details.,Không thể tải chi tiết tài liệu.
+Could not load task details,Không thể tải chi tiết công việc
+Could not promote checklist item to task.,Không thể nâng cấp mục kiểm tra thành công việc.
+Could not remove task from milestone,Không thể gỡ công việc khỏi mốc quan trọng
+Could not save budget.,Không thể lưu ngân sách.
+Could not save changes to the milestone,Không thể lưu thay đổi mốc quan trọng
+Could not save changes to the task,Không thể lưu thay đổi công việc
+Could not save description.,Không thể lưu mô tả.
+Could not save end date.,Không thể lưu ngày kết thúc.
+Could not save milestone name.,Không thể lưu tên mốc quan trọng.
+Could not save start date.,Không thể lưu ngày bắt đầu.
+Could not save the template. Please try again.,Không thể lưu mẫu. Vui lòng thử lại.
+Could not save title.,Không thể lưu tiêu đề.
+Could not update dependency mode.,Không thể cập nhật chế độ phụ thuộc.
+Could not update milestone date,Không thể cập nhật ngày mốc quan trọng
+Could not update project status.,Không thể cập nhật trạng thái dự án.
+Could not update project type.,Không thể cập nhật loại dự án.
+Could not update setting.,Không thể cập nhật cài đặt.
+Could not update task dates,Không thể cập nhật ngày công việc
+Could not update task status,Không thể cập nhật trạng thái công việc
+Could not update the template.,Không thể cập nhật mẫu.
+Create a copy of this task,Tạo bản sao của công việc này
+Create Contact,Tạo liên hệ
+Create Event,Tạo sự kiện
+Create Milestone,Tạo mốc quan trọng
+Create New Milestone,Tạo mốc quan trọng mới
+Create New Task,Tạo công việc mới
+Create Project,Tạo dự án
+Create Task,Tạo công việc
+Create tasks and milestones from a template,Tạo công việc và mốc quan trọng từ mẫu
+Create your first project to get started.,Tạo dự án đầu tiên để bắt đầu.
+Create your first task to start tracking work on this project.,Tạo công việc đầu tiên để bắt đầu theo dõi công việc trên dự án này.
+Created,Đã tạo
+Creating...,Đang tạo...
+Critical,Nghiêm trọng
+Critical Path,Đường găng
+"Currency used for budgets, costs, and billing rates","Đơn vị tiền tệ dùng cho ngân sách, chi phí và đơn giá"
+Current,Hiện tại
+Current Assignments,Phân công hiện tại
+Current scheduled time:,Thời gian đã lên lịch:
+Currently running version,Currently running version
+d lag,ngày trễ
+Daily Availability,Khả dụng hàng ngày
+Daily Hours,Giờ hàng ngày
+Danger Zone,Vùng nguy hiểm
+Dark,Tối
+Dashboard,Bảng điều khiển
+Date,Ngày
+Date changes on this task will show cascade impact here,Thay đổi ngày trên công việc này sẽ hiển thị ảnh hưởng lan truyền ở đây
+Date cleared,Đã xóa ngày
+Date of Joining,Ngày gia nhập
+Date updated,Đã cập nhật ngày
+Dates,Ngày tháng
+Dates cascaded,Đã lan truyền ngày
+Dates will be relative to the project's start date.,Ngày sẽ tính tương đối so với ngày bắt đầu dự án.
+Day,Ngày
+day,ngày
+days,ngày
+Days before due date to send reminder,Số ngày trước hạn để gửi nhắc nhở
+Days Overdue,Số ngày quá hạn
+Days Remaining,Số ngày còn lại
+Deadline,Hạn chót
+Deadlines,Hạn chót
+Decision,Quyết định
+Decline,Từ chối
+Declined,Đã từ chối
+Default Currency,Đơn vị tiền tệ mặc định
+Default hours per week for contact capacity planning,Số giờ mặc định mỗi tuần cho lập kế hoạch công suất liên hệ
+Default Priority,Mức ưu tiên mặc định
+Default Project Status,Trạng thái dự án mặc định
+Default Task Status,Trạng thái công việc mặc định
+Default task view,Chế độ xem công việc mặc định
+Default Values,Giá trị mặc định
+Default Weekly Capacity,Công suất tuần mặc định
+Defaults,Mặc định
+Defect Cost Impact,Ảnh hưởng chi phí lỗi
+Defect name is required,Tên lỗi là bắt buộc
+Defect Type,Loại lỗi
+Defect {0} not found,Không tìm thấy lỗi {0}
+Defects,Lỗi
+Defects & Issues,Lỗi và vấn đề
+Defects Resolved,Lỗi đã giải quyết
+Delayed,Bị trễ
+Delete,Xóa
+Delete Activity Data,Xóa dữ liệu hoạt động
+Delete all read notifications?,Xóa tất cả thông báo đã đọc?
+Delete comment,Xóa bình luận
+Delete Contact,Xóa liên hệ
+Delete Event,Xóa sự kiện
+Delete Event?,Xóa sự kiện?
+Delete failed,Xóa thất bại
+Delete file,Xóa tệp
+Delete item,Xóa mục
+Delete note,Xóa ghi chú
+Delete Project,Xóa dự án
+Delete Task,Xóa công việc
+Delete this project,Xóa dự án này
+Deleted,Đã xóa
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Đã xóa dự án ""{0}"" ({1} công việc, {2} mốc quan trọng)"
+Deletes notes and preferences. Source document is not affected.,Xóa ghi chú và tùy chọn. Tài liệu gốc không bị ảnh hưởng.
+Deleting...,Đang xóa...
+Department,Phòng ban
+Dependencies,Phụ thuộc
+dependencies,phụ thuộc
+Dependencies are informational only,Phụ thuộc chỉ mang tính tham khảo
+dependency,phụ thuộc
+Dependency already exists,Phụ thuộc đã tồn tại
+Dependency Chain,Chuỗi phụ thuộc
+Dependency created,Đã tạo phụ thuộc
+Dependency mode updated,Đã cập nhật chế độ phụ thuộc
+Dependency name is required,Tên phụ thuộc là bắt buộc
+Dependency task {0} not found,Không tìm thấy công việc phụ thuộc {0}
+Dependency {0} not found,Không tìm thấy phụ thuộc {0}
+depends,phụ thuộc
+Depends on Group,Phụ thuộc vào nhóm
+Depends on task is required,Công việc phụ thuộc là bắt buộc
+depends on...,phụ thuộc vào...
+Descending -- click to reverse,Giảm dần -- nhấn để đảo ngược
+Describe the defect in detail...,Mô tả lỗi chi tiết...
+Description,Mô tả
+Description updated,Đã cập nhật mô tả
+Designation,Chức danh
+"Detailed description of the defect, location, and impact","Mô tả chi tiết lỗi, vị trí và ảnh hưởng"
+Details,Chi tiết
+Discard timer,Hủy bộ đếm thời gian
+Discussion,Thảo luận
+Dismiss,Dismiss
+Display,Hiển thị
+Document,Tài liệu
+Document attached to project,Đã đính kèm tài liệu vào dự án
+Document final decision and rationale,Ghi lại quyết định cuối cùng và lý do
+Documentation Review,Xem xét tài liệu
+Documents,Tài liệu
+Done,Xong
+Download,Tải xuống
+Drag to create dependency,Kéo để tạo phụ thuộc
+Dry Run,Chạy thử
+Dry Run Complete,Chạy thử hoàn tất
+Due Date,Ngày đến hạn
+Due date,Ngày đến hạn
+Due Date (Earliest),Ngày đến hạn (sớm nhất)
+Due date cannot be before start date,Ngày đến hạn không được trước ngày bắt đầu
+Due date is in the past,Ngày đến hạn đã qua
+Due Date Reminders,Nhắc nhở ngày đến hạn
+Due Diligence,Thẩm định
+Due Diligence Checklist,Danh sách kiểm tra thẩm định
+Due This Week,Đến hạn tuần này
+Due:,Hạn:
+Duplicate events are not allowed,Không cho phép sự kiện trùng lặp
+Duplicate failed,Nhân bản thất bại
+Duplicate Task,Nhân bản công việc
+Duration,Thời lượng
+Duration Summary,Tóm tắt thời lượng
+Duration:,Thời lượng:
+e.g. Cracked wall finish in bathroom...,ví dụ: Nứt lớp hoàn thiện tường trong phòng tắm...
+"e.g. Electrical, Plumbing...","ví dụ: Điện, Nước..."
+Edit,Chỉnh sửa
+Edit (E),Chỉnh sửa (E)
+Edit dependency,Chỉnh sửa phụ thuộc
+Edit Event,Chỉnh sửa sự kiện
+Efficiency,Hiệu suất
+Either dependency_name or depends_on is required,Cần dependency_name hoặc depends_on
+Email,Email
+Email invitations to all attendees,Gửi lời mời qua email cho tất cả người tham dự
+Email is required to create portal user,Cần email để tạo tài khoản cổng
+Email notifications,Thông báo qua email
+Employee,Nhân viên
+Employee DocType not available,DocType Nhân viên không khả dụng
+Employee not found,Không tìm thấy nhân viên
+Enable or disable optional features,Bật hoặc tắt các tính năng tùy chọn
+Enable Time Tracking,Bật theo dõi thời gian
+End,Kết thúc
+End Date,Ngày kết thúc
+End date,Ngày kết thúc
+End Date cannot be before Start Date,Ngày kết thúc không được trước ngày bắt đầu
+End date cannot be before start date,Ngày kết thúc không được trước ngày bắt đầu
+End date updated,Đã cập nhật ngày kết thúc
+End time was before start time. Adjusted to 1 hour after start.,Giờ kết thúc trước giờ bắt đầu. Đã điều chỉnh thành 1 giờ sau khi bắt đầu.
+End:,Kết thúc:
+Enter milestone name...,Nhập tên mốc quan trọng...
+Enter project name,Nhập tên dự án
+Enter task title...,Nhập tiêu đề công việc...
+Enter template name,Nhập tên mẫu
+Enter your note... Use @name to mention someone,Nhập ghi chú... Dùng @tên để nhắc đến ai đó
+Error,Lỗi
+Error loading activity,Lỗi khi tải hoạt động
+Error loading contacts,Lỗi khi tải liên hệ
+Error loading dashboard,Lỗi khi tải bảng điều khiển
+Error loading project,Lỗi khi tải dự án
+Error loading projects,Lỗi khi tải dự án
+Error loading settings,Lỗi khi tải cài đặt
+Error loading tasks,Lỗi khi tải công việc
+Error loading templates,Lỗi khi tải mẫu
+Est. Hours,Giờ ước tính
+Estimated,Ước tính
+Estimated Cost,Chi phí ước tính
+Estimated Cost (€),Chi phí ước tính (€)
+Estimated Hours,Giờ ước tính
+Estimated:,Ước tính:
+Evaluate potential risks and concerns,Đánh giá rủi ro và mối quan ngại tiềm ẩn
+Event,Sự kiện
+Event is required for event context,Sự kiện là bắt buộc cho ngữ cảnh sự kiện
+Event is required when tracking context is 'event',Sự kiện là bắt buộc khi ngữ cảnh theo dõi là 'sự kiện'
+Event Type,Loại sự kiện
+Events,Sự kiện
+Events not available. Please run: bench --site orga.localhost migrate,Sự kiện không khả dụng. Vui lòng chạy: bench --site orga.localhost migrate
+Events:,Sự kiện:
+Expert,Chuyên gia
+Explain why you are proposing a different time...,Giải thích lý do bạn đề xuất thời gian khác...
+Export,Xuất
+Export failed,Xuất thất bại
+Export JSON,Xuất JSON
+Exported,Đã xuất
+Exported to timesheet {0},Đã xuất sang bảng chấm công {0}
+External,Bên ngoài
+Failed to add item,Không thể thêm mục
+Failed to add note,Không thể thêm ghi chú
+Failed to add skill,Không thể thêm kỹ năng
+Failed to apply cascade changes: {0},Không thể áp dụng thay đổi lan truyền: {0}
+Failed to create defect,Không thể tạo lỗi
+Failed to create dependency,Không thể tạo phụ thuộc
+Failed to create event,Không thể tạo sự kiện
+Failed to create milestone,Không thể tạo mốc quan trọng
+Failed to create project,Không thể tạo dự án
+Failed to create task,Không thể tạo công việc
+Failed to create time log,Không thể tạo mục ghi thời gian
+Failed to delete,Không thể xóa
+Failed to delete comment,Không thể xóa bình luận
+Failed to delete contact,Không thể xóa liên hệ
+Failed to load,Không thể tải
+Failed to load activity,Không thể tải hoạt động
+Failed to load assignments,Không thể tải phân công
+Failed to load contact,Không thể tải liên hệ
+Failed to load dashboard data,Không thể tải dữ liệu bảng điều khiển
+Failed to load defects,Không thể tải danh sách lỗi
+Failed to load events,Không thể tải sự kiện
+Failed to load project,Không thể tải dự án
+Failed to load projects,Không thể tải dự án
+Failed to load report data,Không thể tải dữ liệu báo cáo
+Failed to load settings,Không thể tải cài đặt
+Failed to load tasks,Không thể tải công việc
+Failed to move task,Không thể di chuyển công việc
+Failed to post comment,Không thể đăng bình luận
+Failed to propose new time,Không thể đề xuất thời gian mới
+Failed to remove item,Không thể xóa mục
+Failed to remove skill,Không thể xóa kỹ năng
+Failed to reorder milestones: {0},Không thể sắp xếp lại mốc quan trọng: {0}
+Failed to reorder tasks: {0},Không thể sắp xếp lại công việc: {0}
+Failed to reschedule dependent tasks: {0},Không thể lên lịch lại công việc phụ thuộc: {0}
+Failed to save,Không thể lưu
+Failed to save preferences,Không thể lưu tùy chọn
+Failed to save settings,Không thể lưu cài đặt
+Failed to submit request. Please try again.,Không thể gửi yêu cầu. Vui lòng thử lại.
+Failed to update item,Không thể cập nhật mục
+Failed to update priority,Không thể cập nhật mức ưu tiên
+Failed to update task,Không thể cập nhật công việc
+Failed to update tasks: {0},Không thể cập nhật công việc: {0}
+Failed to upload avatar,Không thể tải lên ảnh đại diện
+Feature,Tính năng
+Features,Tính năng
+FF (Finish-Finish),FF (Kết thúc-Kết thúc)
+FF - Finish-to-Finish,FF - Kết thúc-Kết thúc
+Field has been updated,Trường đã được cập nhật
+Field name is required for 'Set Field Value' action,Tên trường là bắt buộc cho hành động 'Đặt giá trị trường'
+Field {0} is not a Link field,Trường {0} không phải là trường Liên kết
+Field {0} not found in {1},Không tìm thấy trường {0} trong {1}
+File,Tệp
+file,tệp
+File does not belong to this task,Tệp không thuộc công việc này
+File name is required,Tên tệp là bắt buộc
+File uploaded,Đã tải lên tệp
+File {0} not found,Không tìm thấy tệp {0}
+Files,Tệp
+files,tệp
+Filter,Lọc
+Final Decision,Quyết định cuối cùng
+Finance,Tài chính
+Financial,Tài chính
+Finish-to-Finish,Kết thúc-Kết thúc
+Finish-to-Start,Kết thúc-Bắt đầu
+Flag,Đánh dấu
+Flag for attention,Đánh dấu cần chú ý
+Flagged,Đã đánh dấu
+Focus Panel,Bảng tập trung
+Follows your system preference. Currently:,Theo tùy chọn hệ thống của bạn. Hiện tại:
+Frappe Project {0} not found,Không tìm thấy dự án Frappe {0}
+Frappe Projects Migration,Chuyển đổi Frappe Projects
+Frappe Projects module not available,Module Frappe Projects không khả dụng
+Frappe Projects module not installed,Module Frappe Projects chưa cài đặt
+Frappe Projects sync is not enabled,Đồng bộ Frappe Projects chưa được bật
+Frappe Task DocType not found,Không tìm thấy DocType Tâche Frappe
+Frappe Task has no project,Công việc Frappe không có dự án
+Frappe Task {0} not found,Không tìm thấy công việc Frappe {0}
+Fri,T6
+From,Từ
+From Template,Từ mẫu
+FS (Finish-Start),FS (Kết thúc-Bắt đầu)
+FS - Finish-to-Start (default),FS - Kết thúc-Bắt đầu (mặc định)
+Full form view with audit trail,Xem biểu mẫu đầy đủ với lịch sử thay đổi
+Full name,Họ tên
+Gantt,Gantt
+Gantt Chart,Biểu đồ Gantt
+Gantt View,Chế độ xem Gantt
+General Note,Ghi chú chung
+Get started,Bắt đầu
+Go back,Quay lại
+Go Back,Go Back
+Group by,Nhóm theo
+Group dependency removed,Đã xóa phụ thuộc nhóm
+Group dependency set,Đã đặt phụ thuộc nhóm
+Group removed,Đã xóa nhóm
+Group updated,Đã cập nhật nhóm
+Hammock task dates are auto-calculated and cannot be changed manually,Ngày của công việc dạng võng được tính tự động và không thể thay đổi thủ công
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Có câu hỏi hoặc cần hỗ trợ? Điền vào biểu mẫu bên dưới và nhóm chúng tôi sẽ liên hệ lại.
+Health,Sức khỏe
+Healthy,Tốt
+Hello {0},Xin chào {0}
+Here's what's happening with your projects today.,Đây là những gì đang diễn ra với dự án của bạn hôm nay.
+Hide,Ẩn
+High,Cao
+History,Lịch sử
+Home,Trang chủ
+Hourly Cost,Chi phí theo giờ
+Hours,Giờ
+hours,giờ
+Hours Logged,Giờ đã ghi nhận
+ID,Mã
+Image must be smaller than 5 MB,Ảnh phải nhỏ hơn 5 MB
+Import,Nhập
+Import existing projects and tasks from Frappe Projects module,Nhập dự án và công việc hiện có từ module Frappe Projects
+Import failed,Nhập thất bại
+Import Template,Nhập mẫu
+Imported,Đã nhập
+in,trong
+In Progress,Đang thực hiện
+In Review,Đang xem xét
+In-app notifications,Thông báo trong ứng dụng
+Inactive,Không hoạt động
+Initial Review,Xem xét ban đầu
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Không đủ quyền để xem tất cả công việc
+Intermediate,Trung cấp
+Internal,Nội bộ
+Invalid DocType,DocType không hợp lệ
+Invalid DocType for import,DocType không hợp lệ để nhập
+Invalid item type: {0},Loại mục không hợp lệ: {0}
+Invalid JSON data,Dữ liệu JSON không hợp lệ
+Invalid note type. Must be one of: {0},Loại ghi chú không hợp lệ. Phải là một trong: {0}
+Invalid project reference,Tham chiếu dự án không hợp lệ
+Invalid reaction type. Must be one of: {0},Loại phản hồi không hợp lệ. Phải là một trong: {0}
+Invalid RSVP status,Trạng thái RSVP không hợp lệ
+Invalid status. Must be one of: {0},Trạng thái không hợp lệ. Phải là một trong: {0}
+Invalid status: {0},Trạng thái không hợp lệ: {0}
+Invalid status: {0}. Must be one of: {1},Trạng thái không hợp lệ: {0}. Phải là một trong: {1}
+Invalid tracking context: {0},Ngữ cảnh theo dõi không hợp lệ: {0}
+Invalid visibility. Must be one of: {0},Mức hiển thị không hợp lệ. Phải là một trong: {0}
+Invitation: {0} - {1} at {2},Lời mời: {0} - {1} lúc {2}
+Invite People,Mời mọi người
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Đã thêm mục
+Item ID is required,Mã mục là bắt buộc
+Item removed,Đã xóa mục
+Item type is required,Loại mục là bắt buộc
+Item {0} not found,Không tìm thấy mục {0}
+Job title or role,Chức danh hoặc vai trò
+Join Meeting,Tham gia cuộc họp
+Just now,Vừa xong
+just now,vừa xong
+Kanban,Kanban
+Kanban Board,Bảng Kanban
+Kanban View,Chế độ xem Kanban
+Keyboard Shortcuts,Phím tắt
+Keyboard shortcuts (?),Phím tắt (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Cập nhật lần cuối
+Last updated:,Cập nhật lần cuối:
+Last Week,Tuần trước
+Latest Version,Latest Version
+Light,Sáng
+Link failed,Liên kết thất bại
+Link Task,Liên kết công việc
+Linked,Đã liên kết
+Linked employee not found,Không tìm thấy nhân viên liên kết
+Linked Tasks,Công việc liên kết
+List,Danh sách
+List View,Chế độ xem danh sách
+Load failed,Tải thất bại
+Load More,Tải thêm
+Load more comments,Tải thêm bình luận
+Loading activity...,Đang tải hoạt động...
+Loading changes...,Đang tải thay đổi...
+Loading checklist...,Đang tải danh sách kiểm tra...
+Loading comments...,Đang tải bình luận...
+Loading contact...,Đang tải liên hệ...
+Loading contacts...,Đang tải liên hệ...
+Loading dependencies...,Đang tải phụ thuộc...
+Loading details...,Đang tải chi tiết...
+Loading discussion...,Đang tải thảo luận...
+Loading events...,Đang tải sự kiện...
+Loading files...,Đang tải tệp...
+Loading notes...,Đang tải ghi chú...
+Loading preferences...,Đang tải tùy chọn...
+Loading project...,Đang tải dự án...
+Loading projects...,Đang tải dự án...
+Loading replies...,Đang tải phản hồi...
+Loading report data...,Đang tải dữ liệu báo cáo...
+Loading settings...,Đang tải cài đặt...
+Loading task...,Đang tải công việc...
+Loading templates...,Đang tải mẫu...
+Loading time logs...,Đang tải mục ghi thời gian...
+Loading your portal...,Đang tải cổng thông tin của bạn...
+Loading...,Đang tải...
+Location,Địa điểm
+Log Time,Ghi nhận thời gian
+Logout,Đăng xuất
+Low,Thấp
+Make Offer,Tạo đề nghị
+Manager,Quản lý
+Manual Entry,Nhập thủ công
+Margin,Biên lợi nhuận
+Mark all as read,Đánh dấu tất cả đã đọc
+Mark all read,Đánh dấu tất cả đã đọc
+Mark as read,Đánh dấu đã đọc
+Mark as unread,Đánh dấu chưa đọc
+Mark read,Đánh dấu đã đọc
+Marking...,Đang đánh dấu...
+Material,Vật liệu
+Maybe,Có thể
+Medium,Trung bình
+Meeting,Cuộc họp
+Meeting Link,Liên kết cuộc họp
+Meeting title,Tiêu đề cuộc họp
+Meeting URL,URL cuộc họp
+Meetings,Cuộc họp
+Mention,Nhắc đến
+Message,Tin nhắn
+Message is required,Tin nhắn là bắt buộc
+Message is required for '{0}' action,Tin nhắn là bắt buộc cho hành động '{0}'
+Migrate,Chuyển đổi
+Migration Complete,Chuyển đổi hoàn tất
+Migration ID:,Mã chuyển đổi:
+Migration log not found: {0},Không tìm thấy nhật ký chuyển đổi: {0}
+Milestone,Mốc quan trọng
+milestone,mốc quan trọng
+Milestone created,Đã tạo mốc quan trọng
+Milestone description has been saved.,Đã lưu mô tả mốc quan trọng.
+Milestone ID is required,Mã mốc quan trọng là bắt buộc
+Milestone marked as Missed (past due date),Mốc quan trọng được đánh dấu là Bị lỡ (đã quá hạn)
+Milestone moved,Đã di chuyển mốc quan trọng
+Milestone Name,Tên mốc quan trọng
+Milestone name has been saved.,Đã lưu tên mốc quan trọng.
+Milestone name is required,Tên mốc quan trọng là bắt buộc
+Milestone updated,Đã cập nhật mốc quan trọng
+Milestone {0} not found,Không tìm thấy mốc quan trọng {0}
+Milestone {0} not in project {1},Mốc quan trọng {0} không thuộc dự án {1}
+Milestones,Mốc quan trọng
+milestones,mốc quan trọng
+Milestones:,Mốc quan trọng:
+Minutes,Phút
+Missed,Bị lỡ
+Mixed,Hỗn hợp
+Mobile,Di động
+Moderate,Vừa phải
+Modified,Đã chỉnh sửa
+"Modify details, time, or attendees","Chỉnh sửa chi tiết, thời gian hoặc người tham dự"
+Mon,T2
+Month,Tháng
+Move failed,Di chuyển thất bại
+Must be a positive number,Phải là số dương
+Must finish before this finishes,Phải kết thúc trước khi công việc này kết thúc
+Must finish before this starts,Phải kết thúc trước khi công việc này bắt đầu
+Must start before this finishes,Phải bắt đầu trước khi công việc này kết thúc
+Must start before this starts,Phải bắt đầu trước khi công việc này bắt đầu
+My Assignments,Phân công của tôi
+My Projects,Dự án của tôi
+My Schedule,Lịch của tôi
+My Tasks,Công việc của tôi
+N/A,Không có
+Name,Tên
+Name (A-Z),Tên (A-Z)
+Name (Z-A),Tên (Z-A)
+Name cannot exceed 255 characters,Tên không được vượt quá 255 ký tự
+Need help?,Cần trợ giúp?
+Needs Attention,Cần chú ý
+Never,Never
+new activities,hoạt động mới
+New Activity,Hoạt động mới
+New activity,Hoạt động mới
+New Event,Sự kiện mới
+New index is required,Cần chỉ mục mới
+New Project,Dự án mới
+New tasks will auto-trail by default.,Công việc mới sẽ tự động dời ngày theo mặc định.
+Newest First,Mới nhất trước
+Next,Tiếp theo
+Next 14 days,14 ngày tới
+Next 30 days,30 ngày tới
+Next 60 days,60 ngày tới
+Next 7 days,7 ngày tới
+Next 90 days,90 ngày tới
+Next Week,Tuần tới
+Next:,Tiếp:
+No,Không
+No active assignments,Không có phân công đang hoạt động
+No active projects,Không có dự án đang hoạt động
+No active timer found,Không tìm thấy bộ đếm thời gian đang chạy
+No activity selected,Chưa chọn hoạt động
+No assignments found,Không tìm thấy phân công
+No attendees,Không có người tham dự
+no change,không thay đổi
+No changes for this field.,Không có thay đổi cho trường này.
+No changes recorded for this activity.,Không có thay đổi được ghi nhận cho hoạt động này.
+No checklist items yet,Chưa có mục kiểm tra
+No checklist items yet.,Chưa có mục kiểm tra.
+No comments yet,Chưa có bình luận
+No comments yet.,Chưa có bình luận.
+No contacts available,Không có liên hệ
+No content for this tab,Không có nội dung cho tab này
+No data available,Không có dữ liệu
+No data available for the selected filters,Không có dữ liệu cho bộ lọc đã chọn
+No data to export,Không có dữ liệu để xuất
+No dates set,Chưa đặt ngày
+No defects reported,Không có lỗi nào được báo cáo
+No dependencies defined,Chưa định nghĩa phụ thuộc
+No description,Không có mô tả
+No discussion yet.,Chưa có thảo luận.
+No documents attached,Không có tài liệu đính kèm
+No due date,Không có ngày đến hạn
+No employee linked to this resource,Không có nhân viên liên kết với nguồn lực này
+No ERPNext employee linked to resource,Không có nhân viên ERPNext nào liên kết với nguồn lực
+No events found,Không tìm thấy sự kiện
+No files attached yet.,Chưa có tệp đính kèm.
+No Frappe Project linked,Không có dự án Frappe nào liên kết
+No Grouping,Không nhóm
+No items,Không có mục
+No matching tasks,Không có công việc phù hợp
+No matching tasks found,Không tìm thấy công việc phù hợp
+No migration history,Không có lịch sử chuyển đổi
+No Milestone,Không có mốc quan trọng
+No milestones,Không có mốc quan trọng
+No milestones defined for this project.,Chưa định nghĩa mốc quan trọng cho dự án này.
+No notes yet.,Chưa có ghi chú.
+No notes yet. Add a due diligence note to track progress.,Chưa có ghi chú. Thêm ghi chú thẩm định để theo dõi tiến độ.
+No notifications,Không có thông báo
+No Orga Project linked to Frappe Project {0},Không có dự án Orga nào liên kết với dự án Frappe {0}
+No overdue tasks,Không có công việc quá hạn
+No pending cascade changes,Không có thay đổi lan truyền đang chờ
+No predecessors - this task can start independently,Không có công việc trước - công việc này có thể bắt đầu độc lập
+No project,Không có dự án
+No projects found,Không tìm thấy dự án
+No Projects Yet,Chưa có dự án nào
+No recent activity,Không có hoạt động gần đây
+No related documents,Không có tài liệu liên quan
+No resolved threads.,Không có chủ đề đã giải quyết.
+No resources found,Không tìm thấy nguồn lực
+No results found,Không tìm thấy kết quả
+No skills listed,Không có kỹ năng nào được liệt kê
+No skills recorded yet,Chưa ghi nhận kỹ năng
+No successors - no tasks are waiting for this one,Không có công việc sau - không có công việc nào đang chờ công việc này
+No task selected,Chưa chọn công việc
+No tasks assigned to you,Không có công việc nào được phân công cho bạn
+No tasks available to add,Không có công việc để thêm
+No tasks found,Không tìm thấy công việc
+No tasks linked to this milestone,Không có công việc liên kết với mốc quan trọng này
+No tasks with dates to display,Không có công việc có ngày để hiển thị
+No tasks yet,Chưa có công việc
+No team members,Không có thành viên nhóm
+No template,Không có mẫu
+No templates yet,Chưa có mẫu
+No time data found,Không tìm thấy dữ liệu thời gian
+No time logged today,Chưa ghi nhận thời gian hôm nay
+No time logged yet,Chưa ghi nhận thời gian
+No time logs for this period,Không có mục ghi thời gian cho giai đoạn này
+No time logs found,Không tìm thấy mục ghi thời gian
+No unread notifications,Không có thông báo chưa đọc
+No update information available yet.,No update information available yet.
+None,Không có
+Not found,Không tìm thấy
+Not permitted,Không được phép
+Not permitted to access this project,Không được phép truy cập dự án này
+Not permitted to access this task,Không được phép truy cập công việc này
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Không được phép bình luận trên tài liệu này
+Not permitted to create clients,Không được phép tạo khách hàng
+Not permitted to delete this client,Không được phép xóa khách hàng này
+Not permitted to delete this defect,Không được phép xóa lỗi này
+Not permitted to delete this note,Không được phép xóa ghi chú này
+Not permitted to delete this project,Không được phép xóa dự án này
+Not permitted to delete this task,Không được phép xóa công việc này
+Not permitted to delete this time log,Không được phép xóa mục ghi thời gian này
+Not permitted to invite clients,Không được phép mời khách hàng
+Not permitted to modify client access,Không được phép thay đổi quyền truy cập khách hàng
+Not permitted to modify this project,Không được phép chỉnh sửa dự án này
+Not permitted to update settings,Không được phép cập nhật cài đặt
+Not permitted to update this client,Không được phép cập nhật khách hàng này
+Not permitted to view this client,Không được phép xem khách hàng này
+not sent,chưa gửi
+Not set,Chưa đặt
+Not specified,Chưa xác định
+Note,Ghi chú
+Note (optional),Ghi chú (tùy chọn)
+Note Content,Nội dung ghi chú
+Note content is required,Nội dung ghi chú là bắt buộc
+Note name is required,Tên ghi chú là bắt buộc
+Note not found,Không tìm thấy ghi chú
+Note Type,Loại ghi chú
+Notes,Ghi chú
+Notification,Thông báo
+Notification not found,Không tìm thấy thông báo
+Notifications,Thông báo
+Off Track,Chệch hướng
+Offer,Đề nghị
+Offer Prepared,Đề nghị đã chuẩn bị
+Oldest First,Cũ nhất trước
+On Hold,Tạm dừng
+On Leave,Nghỉ phép
+On Track,Đúng hướng
+On-Time Rate,Tỷ lệ đúng hạn
+Only administrators can delete activities,Chỉ quản trị viên mới có thể xóa hoạt động
+Only the comment author or administrators can delete comments,Chỉ tác giả bình luận hoặc quản trị viên mới có thể xóa bình luận
+Only you and admins,Chỉ bạn và quản trị viên
+Open,Mở
+Open in Desk,Mở trong Desk
+Open Task Log,Mở nhật ký công việc
+Open Tasks,Công việc đang mở
+Optional,Tùy chọn
+optional,tùy chọn
+Or email us directly at,Hoặc gửi email trực tiếp đến
+Orga Project {0} from Frappe Projects,Dự án Orga {0} từ Frappe Projects
+Orga Task {0} from Frappe,Công việc Orga {0} từ Frappe
+Organizer,Người tổ chức
+Other,Khác
+Over Budget,Vượt ngân sách
+Overall Progress,Tiến độ tổng thể
+Overall Utilization,Mức sử dụng tổng thể
+Overallocated,Phân bổ quá mức
+Overdue,Quá hạn
+overdue,quá hạn
+Overdue Tasks,Công việc quá hạn
+Overview,Tổng quan
+Owner,Chủ sở hữu
+Page Not Found,Không tìm thấy trang
+Parent,Cha
+Parent comment must belong to the same document,Bình luận cha phải thuộc cùng tài liệu
+Parent comment not found,Không tìm thấy bình luận cha
+Parent project not synced to Frappe yet,Dự án cha chưa được đồng bộ với Frappe
+Parent project sync not enabled,Đồng bộ dự án cha chưa được bật
+Partner,Đối tác
+Pending,Đang chờ
+per page,mỗi trang
+Perform initial assessment and background check,Thực hiện đánh giá ban đầu và kiểm tra lý lịch
+Permanently remove this event,Xóa vĩnh viễn sự kiện này
+Permanently remove this task,Xóa vĩnh viễn công việc này
+Phone,Điện thoại
+Pin,Ghim
+Pin Activity,Ghim hoạt động
+Pin to top,Ghim lên đầu
+Pinned,Đã ghim
+Planned budget for this task,Ngân sách dự kiến cho công việc này
+Planning,Lập kế hoạch
+Please describe your question or issue in detail...,Vui lòng mô tả câu hỏi hoặc vấn đề của bạn chi tiết...
+Please login to access Orga,Vui lòng đăng nhập để truy cập Orga
+Please login to access the client portal,Vui lòng đăng nhập để truy cập cổng khách hàng
+Please respond to this invitation in Orga,Vui lòng phản hồi lời mời này trong Orga
+Please select an image file,Vui lòng chọn tệp hình ảnh
+Please try again,Vui lòng thử lại
+Please type,Vui lòng nhập
+Portal,Cổng thông tin
+Portal access revoked for {0},Đã thu hồi quyền truy cập cổng của {0}
+Portal user created successfully. Welcome email {0},Đã tạo tài khoản cổng thành công. Email chào mừng {0}
+Post,Đăng
+Powered by,Được hỗ trợ bởi
+Powered by Tonic,Được hỗ trợ bởi Tonic
+Predecessors (Blocked By),Công việc trước (bị chặn bởi)
+Preferences,Tùy chọn
+Preferences saved successfully,Đã lưu tùy chọn thành công
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Tiền tố cho mã dự án tự động (ví dụ: ORG-2026-0001)
+Prepare and document offer terms,Chuẩn bị và ghi lại điều khoản đề nghị
+Press,Nhấn
+Preview,Xem trước
+Preview cascade before applying,Xem trước lan truyền trước khi áp dụng
+Previous,Trước
+Priority,Mức ưu tiên
+Priority assigned to new tasks,Mức ưu tiên cho công việc mới
+Priority updated,Đã cập nhật mức ưu tiên
+Proficiency,Trình độ
+Profile,Hồ sơ
+Progress,Tiến độ
+Progress (High-Low),Tiến độ (cao-thấp)
+Progress (Low-High),Tiến độ (thấp-cao)
+Progress Overview,Tổng quan tiến độ
+Progress updated,Đã cập nhật tiến độ
+Project,Dự án
+Project budget has been saved.,Đã lưu ngân sách dự án.
+Project code (e.g. ORG-2026-0001),Mã dự án (ví dụ: ORG-2026-0001)
+Project Code Prefix,Tiền tố mã dự án
+Project created,Đã tạo dự án
+Project deleted,Đã xóa dự án
+Project description has been saved.,Đã lưu mô tả dự án.
+Project Details,Chi tiết dự án
+Project end date has been saved.,Đã lưu ngày kết thúc dự án.
+Project Files,Tệp dự án
+Project has no linked client,Dự án không có khách hàng liên kết
+Project Health,Tình trạng dự án
+Project Info,Thông tin dự án
+Project is required,Dự án là bắt buộc
+Project is required for project context,Dự án là bắt buộc cho ngữ cảnh dự án
+Project is required when tracking context is 'project',Dự án là bắt buộc khi ngữ cảnh theo dõi là 'dự án'
+Project Manager,Quản lý dự án
+Project Name,Tên dự án
+Project name and template name are required,Tên dự án và tên mẫu là bắt buộc
+Project name is required,Tên dự án là bắt buộc
+Project not found,Không tìm thấy dự án
+Project not found or you do not have access,Không tìm thấy dự án hoặc bạn không có quyền truy cập
+Project settings,Cài đặt dự án
+Project start date has been saved.,Đã lưu ngày bắt đầu dự án.
+Project title has been saved.,Đã lưu tiêu đề dự án.
+Project Type,Loại dự án
+Project updated,Đã cập nhật dự án
+Project {0} linked to client {1},Dự án {0} đã liên kết với khách hàng {1}
+Project {0} not found,Không tìm thấy dự án {0}
+Project {0} to Frappe Projects,Dự án {0} sang Frappe Projects
+Project:,Dự án:
+Projects,Dự án
+projects,dự án
+Projects created:,Dự án đã tạo:
+Projects Overview,Tổng quan dự án
+Projects skipped:,Dự án đã bỏ qua:
+Projects updated:,Dự án đã cập nhật:
+Promote failed,Nâng cấp thất bại
+Promote to task,Nâng cấp thành công việc
+Promoted to task,Đã nâng cấp thành công việc
+Propose,Đề xuất
+Propose New Time,Đề xuất thời gian mới
+Propose Time,Đề xuất thời gian
+Proposed End,Kết thúc đề xuất
+Proposed Start,Bắt đầu đề xuất
+Public,Công khai
+Quick Action,Hành động nhanh
+Quick Actions,Hành động nhanh
+Quick Stats,Thống kê nhanh
+Rates,Đơn giá
+Receive notifications via email,Nhận thông báo qua email
+Receive notifications within the application,Nhận thông báo trong ứng dụng
+Recent Activity,Hoạt động gần đây
+Recipient {0} is not a valid user,Người nhận {0} không phải là người dùng hợp lệ
+Reference,Tham chiếu
+Refresh,Làm mới
+Related,Liên quan
+Related Company (optional),Công ty liên quan (tùy chọn)
+Related Documents,Tài liệu liên quan
+Related Project,Dự án liên quan
+Remaining,Còn lại
+Reminder,Nhắc nhở
+Reminder Lead Time,Thời gian nhắc nhở trước
+Reminder: {0} - {1} at {2},Nhắc nhở: {0} - {1} lúc {2}
+Remove,Gỡ bỏ
+Remove dependency,Gỡ bỏ phụ thuộc
+Remove dependency on,Gỡ bỏ phụ thuộc vào
+Remove from group,Gỡ khỏi nhóm
+Remove group dependency,Gỡ bỏ phụ thuộc nhóm
+Remove skill,Gỡ bỏ kỹ năng
+Reopen,Mở lại
+Reopen thread,Mở lại chủ đề
+reopened,đã mở lại
+replies,phản hồi
+Reply,Trả lời
+reply,phản hồi
+Replying to,Đang trả lời
+Replying to comment,Đang trả lời bình luận
+Report Defect,Báo cáo lỗi
+Reported Date,Ngày báo cáo
+Reports,Báo cáo
+Reports To,Báo cáo cho
+Request Submitted!,Đã gửi yêu cầu!
+Required,Bắt buộc
+required,bắt buộc
+Research,Nghiên cứu
+Reset to Defaults,Khôi phục mặc định
+Resolve,Giải quyết
+Resolve thread,Giải quyết chủ đề
+Resolved,Đã giải quyết
+Resolved date cannot be before reported date,Ngày giải quyết không được trước ngày báo cáo
+Resource,Nguồn lực
+Resource and skill name are required,Nguồn lực và tên kỹ năng là bắt buộc
+Resource is already an attendee,Nguồn lực đã là người tham dự
+Resource name is required,Tên nguồn lực là bắt buộc
+Resource not found,Không tìm thấy nguồn lực
+Resource synced from employee {0},Nguồn lực đã đồng bộ từ nhân viên {0}
+Resource {0} is already assigned to this task ({1}),Nguồn lực {0} đã được phân công cho công việc này ({1})
+Resource {0} not found,Không tìm thấy nguồn lực {0}
+Resources,Nguồn lực
+Retry,Thử lại
+Review,Xem xét
+Review all relevant documents and contracts,Xem xét tất cả tài liệu và hợp đồng liên quan
+Reviews,Đánh giá
+Risk Assessment,Đánh giá rủi ro
+Rollback,Hoàn tác
+Rolled back,Đã hoàn tác
+Room or address,Phòng hoặc địa chỉ
+RSVP,RSVP
+Safety,An toàn
+Sat,T7
+Save,Lưu
+"Save a project as a template, or import one from a JSON file.","Lưu dự án thành mẫu, hoặc nhập mẫu từ tệp JSON."
+Save as Template,Lưu thành mẫu
+Save Changes,Lưu thay đổi
+Save failed,Lưu thất bại
+Save Preferences,Lưu tùy chọn
+Save Template,Lưu mẫu
+Saving...,Đang lưu...
+Schedule,Lịch trình
+Schedule type is required for scheduled triggers,Loại lịch trình là bắt buộc cho kích hoạt theo lịch
+Scheduled,Đã lên lịch
+Search,Tìm kiếm
+"Search by name, email, or skill...","Tìm theo tên, email hoặc kỹ năng..."
+Search for a project...,Tìm dự án...
+Search for a task...,Tìm công việc...
+Search for an event...,Tìm sự kiện...
+Search for people to invite...,Tìm người để mời...
+Search tasks to link...,Tìm công việc để liên kết...
+Search tasks...,Tìm công việc...
+Search...,Tìm kiếm...
+Searching...,Đang tìm kiếm...
+Seen,Đã xem
+Select a project if your request is related to a specific project.,Chọn một dự án nếu yêu cầu của bạn liên quan đến dự án cụ thể.
+Select a project...,Chọn dự án...
+Select a task from the Gantt chart to view and manage its details.,Chọn một công việc từ biểu đồ Gantt để xem và quản lý chi tiết.
+Select a task from the list or Kanban board to view and manage its details.,Chọn một công việc từ danh sách hoặc bảng Kanban để xem và quản lý chi tiết.
+Select a template...,Chọn mẫu...
+Select priority...,Chọn mức ưu tiên...
+Select status...,Chọn trạng thái...
+Select task...,Chọn công việc...
+Select type...,Chọn loại...
+Selection,Lựa chọn
+Send,Gửi
+Send comment,Gửi bình luận
+Send email invitations to attendees,Gửi lời mời qua email cho người tham dự
+Send Invitations,Gửi lời mời
+Send notification when a task is assigned to a user,Gửi thông báo khi công việc được phân công cho người dùng
+Send notification when task status changes,Gửi thông báo khi trạng thái công việc thay đổi
+Send reminder before task due date,Gửi nhắc nhở trước ngày đến hạn công việc
+sent,đã gửi
+Set rate,Đặt đơn giá
+Settings,Cài đặt
+Settings saved successfully,Đã lưu cài đặt thành công
+Severity,Mức độ nghiêm trọng
+SF (Start-Finish),SF (Bắt đầu-Kết thúc)
+SF - Start-to-Finish,SF - Bắt đầu-Kết thúc
+Show,Hiển thị
+Show all,Hiển thị tất cả
+Show all changes,Hiển thị tất cả thay đổi
+Show Archived,Hiển thị đã lưu trữ
+Show full diff,Hiển thị khác biệt đầy đủ
+Show less,Hiển thị ít hơn
+Show more,Hiển thị thêm
+Skill added,Đã thêm kỹ năng
+Skill is required,Kỹ năng là bắt buộc
+Skill Name,Tên kỹ năng
+Skill removed,Đã xóa kỹ năng
+Skill {0} already exists for this resource,Kỹ năng {0} đã tồn tại cho nguồn lực này
+Skills,Kỹ năng
+Skills & Competencies,Kỹ năng và năng lực
+Skip already migrated projects,Bỏ qua dự án đã chuyển đổi
+Sort by,Sắp xếp theo
+Sort: Due Date,Sắp xếp: Ngày đến hạn
+Sort: Priority,Sắp xếp: Mức ưu tiên
+Sort: Project,Sắp xếp: Dự án
+Sort: Status,Sắp xếp: Trạng thái
+Sort: Task,Sắp xếp: Công việc
+Source Code,Mã nguồn
+Spent,Đã chi
+Spent:,Đã chi:
+SS (Start-Start),SS (Bắt đầu-Bắt đầu)
+SS - Start-to-Start,SS - Bắt đầu-Bắt đầu
+Standalone,Độc lập
+Start,Bắt đầu
+Start a discussion below,Bắt đầu thảo luận bên dưới
+Start Date,Ngày bắt đầu
+Start date,Ngày bắt đầu
+Start Date (Earliest),Ngày bắt đầu (sớm nhất)
+Start date updated,Đã cập nhật ngày bắt đầu
+Start date/time is required,Ngày/giờ bắt đầu là bắt buộc
+Start Migration,Bắt đầu chuyển đổi
+Start the conversation below.,Bắt đầu cuộc trò chuyện bên dưới.
+Start Timer,Bắt đầu bộ đếm
+Start typing to search...,Bắt đầu nhập để tìm kiếm...
+Start-to-Finish,Bắt đầu-Kết thúc
+Start-to-Start,Bắt đầu-Bắt đầu
+Start:,Bắt đầu:
+Statistics reset,Đã đặt lại thống kê
+Status,Trạng thái
+Status assigned to new projects,Trạng thái cho dự án mới
+Status assigned to new tasks,Trạng thái cho công việc mới
+Status Changes,Thay đổi trạng thái
+Status updated,Đã cập nhật trạng thái
+Status:,Trạng thái:
+Stop,Dừng
+Stop & Save,Dừng và lưu
+Stop Timer,Dừng bộ đếm
+Stops current timer and starts for this event,Dừng bộ đếm hiện tại và bắt đầu cho sự kiện này
+Stops current timer and starts for this task,Dừng bộ đếm hiện tại và bắt đầu cho công việc này
+Subject,Chủ đề
+Subject cannot exceed 255 characters,Chủ đề không được vượt quá 255 ký tự
+Subject is required,Chủ đề là bắt buộc
+Submit,Gửi
+Submit Another Request,Gửi yêu cầu khác
+Submit Request,Gửi yêu cầu
+Submitting...,Đang gửi...
+Successfully saved,Đã lưu thành công
+Successors (Blocking),Công việc sau (đang chặn)
+Sun,CN
+Supplier,Nhà cung cấp
+Support,Hỗ trợ
+Switch to this event,Chuyển sang sự kiện này
+Switch to this task,Chuyển sang công việc này
+Sync direction is set to Frappe to Orga only,Hướng đồng bộ được đặt là chỉ từ Frappe sang Orga
+Sync direction is set to Orga to Frappe only,Hướng đồng bộ được đặt là chỉ từ Orga sang Frappe
+Sync not enabled for this project,Đồng bộ chưa được bật cho dự án này
+System,Hệ thống
+Table,Bảng
+Take ownership of this task,Nhận trách nhiệm công việc này
+Target Date,Ngày mục tiêu
+Target End,Kết thúc mục tiêu
+Target Project,Dự án mục tiêu
+Target user is required for '{0}' action,Người dùng mục tiêu là bắt buộc cho hành động '{0}'
+Task,Công việc
+task,công việc
+Task '{0}' is due on {1}.,Công việc '{0}' đến hạn vào {1}.
+Task and resource are required,Công việc và nguồn lực là bắt buộc
+Task Assignment,Phân công công việc
+Task cannot be its own parent,Công việc không thể là cha của chính nó
+Task cannot depend on itself,Công việc không thể phụ thuộc vào chính nó
+Task cannot depend on the group it belongs to,Công việc không thể phụ thuộc vào nhóm mà nó thuộc về
+Task created,Đã tạo công việc
+Task deleted,Đã xóa công việc
+Task description has been saved.,Đã lưu mô tả công việc.
+Task Details,Chi tiết công việc
+Task due in {0} days: {1},Công việc đến hạn trong {0} ngày: {1}
+Task due today: {0},Công việc đến hạn hôm nay: {0}
+Task due tomorrow: {0},Công việc đến hạn ngày mai: {0}
+Task duplicated,Đã nhân bản công việc
+Task Group,Nhóm công việc
+Task ID is required,Mã công việc là bắt buộc
+Task is blocked by incomplete dependencies,Công việc bị chặn bởi phụ thuộc chưa hoàn thành
+Task is cancelled,Công việc đã bị hủy
+Task is completed,Công việc đã hoàn thành
+Task is no longer blocked by a group,Công việc không còn bị chặn bởi nhóm
+Task is required for task context,Công việc là bắt buộc cho ngữ cảnh công việc
+Task is required when tracking context is 'task',Công việc là bắt buộc khi ngữ cảnh theo dõi là 'công việc'
+Task linked,Đã liên kết công việc
+Task moved,Đã di chuyển công việc
+Task name,Tên công việc
+Task name is required,Tên công việc là bắt buộc
+Task removed from group,Đã gỡ công việc khỏi nhóm
+Task Subject,Chủ đề công việc
+Task subject is required,Chủ đề công việc là bắt buộc
+Task Type,Loại công việc
+Task unblocked: {0},Công việc đã mở chặn: {0}
+Task unlinked,Đã gỡ liên kết công việc
+Task updated,Đã cập nhật công việc
+Task {0} not found,Không tìm thấy công việc {0}
+Task {0} not in project {1},Công việc {0} không thuộc dự án {1}
+Task {0} to Frappe,Công việc {0} sang Frappe
+Tasks,Công việc
+tasks,công việc
+Tasks and milestones will be created with dates relative to the project start date.,Công việc và mốc quan trọng sẽ được tạo với ngày tương đối so với ngày bắt đầu dự án.
+Tasks assigned to you across all projects.,Công việc được phân công cho bạn trong tất cả dự án.
+Tasks created:,Công việc đã tạo:
+Tasks from projects you manage.,Công việc từ dự án bạn quản lý.
+Tasks updated:,Công việc đã cập nhật:
+"Tasks, milestones, and dependencies have been created.","Đã tạo công việc, mốc quan trọng và phụ thuộc."
+Tasks:,Công việc:
+TBD,Sẽ xác định sau
+Team,Nhóm
+Team Members,Thành viên nhóm
+Template,Mẫu
+Template applied,Đã áp dụng mẫu
+Template data is required in import data,Cần dữ liệu mẫu trong dữ liệu nhập
+Template has no data,Mẫu không có dữ liệu
+Template Name,Tên mẫu
+Template name,Tên mẫu
+Template name is required,Tên mẫu là bắt buộc
+Template name is required in import data,Tên mẫu là bắt buộc trong dữ liệu nhập
+Template saved,Đã lưu mẫu
+Template updated successfully.,Đã cập nhật mẫu thành công.
+Template {0} not found,Không tìm thấy mẫu {0}
+Templates,Mẫu
+Tentative,Dự kiến
+The comment has been deleted,Bình luận đã bị xóa
+The project,Dự án
+The source document may have been deleted.,Tài liệu gốc có thể đã bị xóa.
+The source document will not be affected.,Tài liệu gốc sẽ không bị ảnh hưởng.
+The status of '{0}' was changed from {1} to {2}.,Trạng thái của '{0}' đã thay đổi từ {1} sang {2}.
+Theme,Giao diện
+Theme preference,Tùy chọn giao diện
+This action,Hành động này
+This action cannot be undone.,Hành động này không thể hoàn tác.
+This activity has been flagged for attention,Hoạt động này đã được đánh dấu cần chú ý
+This is a reminder for your upcoming appointment,Đây là nhắc nhở cho cuộc hẹn sắp tới của bạn
+This method is only meant for developer mode,Phương thức này chỉ dành cho chế độ phát triển
+This page wandered off,This page wandered off
+This Week,Tuần này
+This will delete all notes and preferences associated with this activity.,Thao tác này sẽ xóa tất cả ghi chú và tùy chọn liên quan đến hoạt động này.
+This will import all Frappe Projects into Orga. Continue?,Thao tác này sẽ nhập tất cả dự án Frappe vào Orga. Tiếp tục?
+This will permanently delete,Thao tác này sẽ xóa vĩnh viễn
+This will permanently delete:,Thao tác này sẽ xóa vĩnh viễn:
+Thu,T5
+Time,Thời gian
+Time & Billing,Thời gian và thanh toán
+Time & Revenue,Thời gian và doanh thu
+Time Entries,Mục ghi thời gian
+Time log name is required,Tên mục ghi thời gian là bắt buộc
+Time Log not found,Không tìm thấy mục ghi thời gian
+Time log {0} not found,Không tìm thấy mục ghi thời gian {0}
+Time Logs,Mục ghi thời gian
+Time Summary,Tóm tắt thời gian
+Time Tracking,Theo dõi thời gian
+Timeline,Dòng thời gian
+Timer active on,Bộ đếm đang chạy trên
+Timer is not running,Bộ đếm không đang chạy
+Timer Running,Bộ đếm đang chạy
+Timer running,Bộ đếm đang chạy
+Timesheet DocType not available,DocType Bảng chấm công không khả dụng
+Timesheets,Bảng chấm công
+Timezone,Múi giờ
+Timezone is detected from your browser,Múi giờ được phát hiện từ trình duyệt của bạn
+Title,Tiêu đề
+Title cannot exceed 255 characters,Tiêu đề không được vượt quá 255 ký tự
+Title is required,Tiêu đề là bắt buộc
+Title updated,Đã cập nhật tiêu đề
+To,Đến
+to,đến
+to cancel,để hủy
+to close,để đóng
+to confirm:,để xác nhận:
+to edit,để chỉnh sửa
+"to save,","để lưu,"
+To Time cannot be before From Time,Thời gian kết thúc không được trước thời gian bắt đầu
+Today,Hôm nay
+today,hôm nay
+Toggle billable,Chuyển đổi tính phí
+Toggle Details Panel,Ẩn/hiện bảng chi tiết
+Toggle Manager Panel,Ẩn/hiện bảng quản lý
+Toggle Sidebar,Ẩn/hiện thanh bên
+Tomorrow,Ngày mai
+tomorrow,ngày mai
+Total,Tổng
+Total Budget,Tổng ngân sách
+Total Contacts,Tổng liên hệ
+Total Cost,Tổng chi phí
+Total Cost to Org,Tổng chi phí cho tổ chức
+Total Defect Cost,Tổng chi phí lỗi
+Total Hours,Tổng giờ
+Total Hours Logged,Tổng giờ đã ghi nhận
+Total Projects,Tổng dự án
+Total Spent,Tổng đã chi
+Total Tasks,Tổng công việc
+Total:,Tổng:
+Tracked,Đã theo dõi
+trails to today while Open at 0%,dời đến hôm nay khi Mở ở 0%
+Tried:,Tried:
+Try adjusting your filter criteria,Hãy thử điều chỉnh tiêu chí lọc
+Try adjusting your filters.,Hãy thử điều chỉnh bộ lọc.
+Try Again,Thử lại
+Tue,T3
+Type,Loại
+Type updated,Đã cập nhật loại
+Type:,Loại:
+Typical response time: 1-2 business days,Thời gian phản hồi thường: 1-2 ngày làm việc
+Unarchive,Bỏ lưu trữ
+Unarchive Activity,Bỏ lưu trữ hoạt động
+Unassign,Bỏ phân công
+Unassigned,Chưa phân công
+Under Budget,Dưới ngân sách
+Ungrouped,Chưa nhóm
+Unknown,Không xác định
+Unknown error,Lỗi không xác định
+Unlink failed,Gỡ liên kết thất bại
+Unlink task from milestone,Gỡ liên kết công việc khỏi mốc quan trọng
+Unpin,Bỏ ghim
+Unpin Activity,Bỏ ghim hoạt động
+Unread,Chưa đọc
+Unread only,Chỉ chưa đọc
+Until,Đến khi
+Up to Date,Up to Date
+Upcoming,Sắp tới
+upcoming,sắp tới
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Cập nhật thất bại
+Updated,Đã cập nhật
+Updated successfully,Đã cập nhật thành công
+Updates,Updates
+Upload,Tải lên
+Upload failed,Tải lên thất bại
+Upload files below to attach them to this task.,Tải lên tệp bên dưới để đính kèm vào công việc này.
+Upload to project,Tải lên dự án
+Uploading...,Đang tải lên...
+Urgent,Khẩn cấp
+User {0} is already linked to client {1},Người dùng {0} đã liên kết với khách hàng {1}
+User {0} is already linked to resource {1},Người dùng {0} đã liên kết với nguồn lực {1}
+Utilization,Mức sử dụng
+Valid,Hợp lệ
+Value:,Giá trị:
+Variance,Chênh lệch
+Variance:,Chênh lệch:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Xem
+View All,Xem tất cả
+View all active projects,Xem tất cả dự án đang hoạt động
+View all open tasks,Xem tất cả công việc đang mở
+View overdue tasks,Xem công việc quá hạn
+View Release,View Release
+Visibility,Hiển thị
+Waiting for this task,Đang chờ công việc này
+Waits for:,Đang chờ:
+Warning: Resource {0} status is {1},Cảnh báo: Trạng thái nguồn lực {0} là {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Cảnh báo: Đang sử dụng HTTP thay vì HTTPS. Dữ liệu webhook có thể không an toàn.
+Watch budget closely,Theo dõi ngân sách chặt chẽ
+We'll respond to:,Chúng tôi sẽ phản hồi đến:
+Webhook deleted,Đã xóa webhook
+Webhook name is required,Tên webhook là bắt buộc
+Webhook not found,Không tìm thấy webhook
+Webhook URL is required,URL webhook là bắt buộc
+Webhook URL must start with http:// or https://,URL webhook phải bắt đầu bằng http:// hoặc https://
+Wed,T4
+Week,Tuần
+Weekend,Cuối tuần
+Weekly Capacity,Công suất tuần
+weekly capacity,công suất tuần
+Weekly Capacity (h),Công suất tuần (h)
+Welcome,Chào mừng
+Welcome back!,Chào mừng trở lại!
+Welcome to Orga,Chào mừng đến Orga
+What are you working on?,Bạn đang làm gì?
+What did you work on?,Bạn đã làm gì?
+When,Khi nào
+When work begins,Khi công việc bắt đầu
+When work is due,Khi công việc đến hạn
+Where,Ở đâu
+Will capture:,Sẽ ghi lại:
+Will create:,Sẽ tạo:
+with checklist items,với các mục kiểm tra
+Working,Đang làm
+Workload,Khối lượng công việc
+Workmanship,Tay nghề
+Write a comment...,Viết bình luận...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Viết bình luận... Dùng @tên để nhắc đến (Ctrl+Enter để gửi)
+Year,Năm
+Yes,Có
+Yesterday,Hôm qua
+yesterday,hôm qua
+You are not an attendee of this appointment,Bạn không phải là người tham dự cuộc hẹn này
+You are not linked to any resource,Bạn không liên kết với nguồn lực nào
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Bạn chỉ có thể xóa bình luận của mình
+You can only delete your own reactions,Bạn chỉ có thể xóa phản hồi của mình
+You do not have access to the client portal. Please contact support.,Bạn không có quyền truy cập cổng khách hàng. Vui lòng liên hệ hỗ trợ.
+You have already reacted with '{0}',Bạn đã phản hồi bằng '{0}'
+You have been assigned to task '{0}' in project '{1}'.,Bạn đã được phân công công việc '{0}' trong dự án '{1}'.
+You have been assigned to: {0},Bạn đã được phân công cho: {0}
+You have been invited to the following appointment,Bạn đã được mời đến cuộc hẹn sau
+You have no tasks assigned to you right now.,Bạn hiện không có công việc nào được phân công.
+You were mentioned in {0},Bạn đã được nhắc đến trong {0}
+Your attendance,Sự tham dự của bạn
+Your comment has been posted,Bình luận của bạn đã được đăng
+Your Projects,Dự án của bạn
+Your projects will appear here once they're assigned to you.,Dự án của bạn sẽ hiển thị ở đây khi được phân công cho bạn.
+Your Response,Phản hồi của bạn
+Your RSVP,RSVP của bạn
+Your support request has been submitted successfully.,Yêu cầu hỗ trợ của bạn đã được gửi thành công.
+Your support request has been submitted successfully. We'll get back to you shortly.,Yêu cầu hỗ trợ của bạn đã được gửi thành công. Chúng tôi sẽ liên hệ lại sớm.
+"Your task ""{0}"" is no longer blocked and can now be started.","Công việc ""{0}"" của bạn không còn bị chặn và có thể bắt đầu ngay."
+{0} is required,{0} là bắt buộc
+{0} new activities,{0} hoạt động mới
+{0} of {1} completed,{0} trên {1} đã hoàn thành
+{0} projects already migrated (will be skipped or updated),{0} dự án đã chuyển đổi (sẽ bị bỏ qua hoặc cập nhật)
+{0} status changed to {1},Trạng thái {0} đã thay đổi thành {1}
+{0} tasks remaining,{0} công việc còn lại
+{0} tasks without projects will be skipped,{0} công việc không có dự án sẽ bị bỏ qua
+{0} {1} not found,Không tìm thấy {0} {1}

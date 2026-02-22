@@ -1,0 +1,1492 @@
++ Add Milestone,+ Add Milestone
++ Create Task,+ Create Task
++ Log Time,+ Log Time
+-- Select a project --,-- Select a project --
+0m,0m
+1 day,1 day
+1 day ago,1 day ago
+1 dependency,1 dependency
+1 entry,1 entry
+1 file,1 file
+1 hour ago,1 hour ago
+1 member,1 member
+1 milestone,1 milestone
+1 month,1 month
+1 task,1 task
+< 1m,< 1m
+"A clear, actionable title for the task","A clear, actionable title for the task"
+A client with email {0} already exists: {1},A client with email {0} already exists: {1}
+A key deliverable or checkpoint for the project,A key deliverable or checkpoint for the project
+Accept,Accept
+Accepted,Accepted
+Acknowledge,Acknowledge
+across,across
+Action,Action
+Actions,Actions
+Active,Active
+Active Assignments,Active Assignments
+Active Projects,Active Projects
+Activity,Activity
+Activity data deleted successfully,Activity data deleted successfully
+Activity Info,Activity Info
+Activity Stats,Activity Stats
+Activity will appear here as you work on tasks and projects.,Activity will appear here as you work on tasks and projects.
+Actual,Actual
+Actual Cost,Actual Cost
+Actual cost cannot be negative,Actual cost cannot be negative
+Actual end date cannot be before actual start date,Actual end date cannot be before actual start date
+Actual Hours,Actual Hours
+Add,Add
+Add a checklist item...,Add a checklist item...
+Add a comment...,Add a comment...
+Add a comment... (Ctrl+Enter to send),Add a comment... (Ctrl+Enter to send)
+Add a description...,Add a description...
+Add a milestone description...,Add a milestone description...
+Add a note below to annotate this activity.,Add a note below to annotate this activity.
+Add a note...,Add a note...
+Add a project description...,Add a project description...
+Add a task description...,Add a task description...
+Add checklist item...,Add checklist item...
+Add Contact,Add Contact
+Add contacts via the Desk interface or clear filters,Add contacts via the Desk interface or clear filters
+Add Dependency,Add Dependency
+Add details about this event...,Add details about this event...
+Add details about this milestone...,Add details about this milestone...
+Add details about this task...,Add details about this task...
+Add details or acceptance criteria for this milestone,Add details or acceptance criteria for this milestone
+"Add details, context, or acceptance criteria","Add details, context, or acceptance criteria"
+Add first dependency,Add first dependency
+Add item,Add item
+Add items below to track progress.,Add items below to track progress.
+Add items below to track subtasks,Add items below to track subtasks
+Add Milestone,Add Milestone
+Add Milestone (Shift+M),Add Milestone (Shift+M)
+Add milestones to track key deliverables.,Add milestones to track key deliverables.
+Add New Contact,Add New Contact
+Add Note,Add Note
+Add note,Add note
+Add notes about this contact...,Add notes about this contact...
+Add reaction,Add reaction
+Add Skill,Add Skill
+Add start and due dates to tasks to see them on the Gantt chart,Add start and due dates to tasks to see them on the Gantt chart
+Add Task,Add Task
+Add Task (Shift+T),Add Task (Shift+T)
+Added Finish-to-Start dependency,Added Finish-to-Start dependency
+Adding this dependency would create a circular reference: {0},Adding this dependency would create a circular reference: {0}
+Adding...,Adding...
+Address,Address
+Advanced,Advanced
+All,All
+All Active,All Active
+All Assignees,All Assignees
+All Categories,All Categories
+All caught up!,All caught up!
+All Contexts,All Contexts
+All day,All day
+All day event,All day event
+All fields,All fields
+All Priorities,All Priorities
+All Projects,All Projects
+All Status,All Status
+All Statuses,All Statuses
+All task dependencies & relative dates,All task dependencies & relative dates
+All Tasks,All Tasks
+All tasks across all projects.,All tasks across all projects.
+All tasks are already linked,All tasks are already linked
+All team members,All team members
+All Types,All Types
+All Users,All Users
+Allocated,Allocated
+allocated,allocated
+Allow users to log time against tasks,Allow users to log time against tasks
+Already exported to timesheet {0},Already exported to timesheet {0}
+Already Migrated,Already Migrated
+Anyone with access,Anyone with access
+anytime to show this help,anytime to show this help
+App Updates,App Updates
+Appearance,Appearance
+Apply,Apply
+Apply cascade?,Apply cascade?
+Apply Changes,Apply Changes
+Apply failed,Apply failed
+Apply Template,Apply Template
+Applying...,Applying...
+Appointment,Appointment
+Appointment and resource are required,Appointment and resource are required
+Appointment name is required,Appointment name is required
+Appointment not found,Appointment not found
+Appointment {0} not found,Appointment {0} not found
+Apps,Apps
+Archive,Archive
+Archive Activity,Archive Activity
+Archived,Archived
+Are you sure you want to delete this activity data? This cannot be undone.,Are you sure you want to delete this activity data? This cannot be undone.
+Are you sure you want to delete this comment?,Are you sure you want to delete this comment?
+Are you sure you want to delete this project?,Are you sure you want to delete this project?
+Are you sure?,Are you sure?
+Ascending -- click to reverse,Ascending -- click to reverse
+Assign To,Assign To
+Assign to Me,Assign to Me
+Assigned Contact,Assigned Contact
+Assigned To,Assigned To
+Assigned to,Assigned to
+Assigned to Me,Assigned to Me
+Assignee,Assignee
+Assignment,Assignment
+Assignment History,Assignment History
+Assignment name is required,Assignment name is required
+Assignment {0} not found,Assignment {0} not found
+Assignments,Assignments
+At least one action is required,At least one action is required
+At least one event is required,At least one event is required
+At least one event must be selected,At least one event must be selected
+Attachment,Attachment
+Attachments,Attachments
+Attendees,Attendees
+"Audit trail, assignments, version history","Audit trail, assignments, version history"
+Auto,Auto
+Auto Calculate Progress,Auto Calculate Progress
+Auto Set Missed Milestones,Auto Set Missed Milestones
+Auto-shift dependents when dates change,Auto-shift dependents when dates change
+Auto-Trail Start,Auto-Trail Start
+Auto-Trail updated,Auto-Trail updated
+Automatically calculate project progress from task completion,Automatically calculate project progress from task completion
+Automatically mark milestones as missed when overdue,Automatically mark milestones as missed when overdue
+Automation rule {0} not found,Automation rule {0} not found
+Automation: {0},Automation: {0}
+Availability,Availability
+Available,Available
+Avatar updated successfully,Avatar updated successfully
+Avg Progress,Avg Progress
+Back,Back
+Back to Portal,Back to Portal
+Back to Projects,Back to Projects
+Beginner,Beginner
+Best regards,Best regards
+Billable,Billable
+Billable Amount,Billable Amount
+Billable Hours,Billable Hours
+Billable Rate,Billable Rate
+Billing Rate,Billing Rate
+Blocked,Blocked
+Both dates are needed to display task as a bar in Gantt chart,Both dates are needed to display task as a bar in Gantt chart
+Both doctype and docname are required,Both doctype and docname are required
+Both proposed start and end times are required,Both proposed start and end times are required
+Both task_name and depends_on are required,Both task_name and depends_on are required
+Breadcrumb,Breadcrumb
+Brief description of the defect or damage,Brief description of the defect or damage
+Brief description of this template,Brief description of this template
+Brief description of your request,Brief description of your request
+Brief project description,Brief project description
+Budget,Budget
+Budget at risk,Budget at risk
+Budget Burn Rate,Budget Burn Rate
+Budget Status,Budget Status
+Budget updated,Budget updated
+Budget:,Budget:
+Bug,Bug
+Burn Rate,Burn Rate
+Busy,Busy
+By,By
+By Assignee,By Assignee
+By Group,By Group
+By Milestone,By Milestone
+By Priority,By Priority
+By Status,By Status
+Cancel,Cancel
+Cancelled,Cancelled
+cannot be undone,cannot be undone
+Cannot delete client with {0} linked projects. Unlink projects first.,Cannot delete client with {0} linked projects. Unlink projects first.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Cannot delete project with {0} linked tasks. Delete tasks first.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Cannot delete resource with {0} active assignments. Complete or cancel them first.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Cannot delete task with {0} subtasks. Delete subtasks first.
+Capacity,Capacity
+capacity,capacity
+Capacity & Rates,Capacity & Rates
+Capture project structure for reuse,Capture project structure for reuse
+Cascade,Cascade
+Cascade Preview,Cascade Preview
+Category,Category
+Celebrate,Celebrate
+Change,Change
+Change History,Change History
+Change Priority,Change Priority
+Change Status,Change Status
+Changes,Changes
+Changes appear when fields are modified.,Changes appear when fields are modified.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Checklist
+Checklist item name is required,Checklist item name is required
+Checklist item not found,Checklist item not found
+Checklist item title is required,Checklist item title is required
+Checklist item {0} not found,Checklist item {0} not found
+Checklist item {0} not found in task,Checklist item {0} not found in task
+Child,Child
+Choose file to upload,Choose file to upload
+Circular dependency detected: {0},Circular dependency detected: {0}
+Circular parent-child relationship detected,Circular parent-child relationship detected
+Clear,Clear
+Clear all read,Clear all read
+Clear date,Clear date
+Click on an activity from the list to view and manage its details.,Click on an activity from the list to view and manage its details.
+Click the avatar to upload a new photo,Click the avatar to upload a new photo
+Click to add description...,Click to add description...
+Click to add notes...,Click to add notes...
+Click to assign contact,Click to assign contact
+Click to change status,Click to change status
+Click to change type,Click to change type
+Click to edit,Click to edit
+Click to edit budget,Click to edit budget
+Click to edit description,Click to edit description
+Click to edit end date,Click to edit end date
+Click to edit milestone name,Click to edit milestone name
+Click to edit rate,Click to edit rate
+Click to edit start date,Click to edit start date
+Click to edit title,Click to edit title
+Click to load,Click to load
+Click to set group dependency...,Click to set group dependency...
+Click to set group...,Click to set group...
+Click to view,Click to view
+Click to view at-risk projects,Click to view at-risk projects
+Click to view critical projects,Click to view critical projects
+Click to view healthy projects,Click to view healthy projects
+Client,Client
+Client already has a portal user: {0},Client already has a portal user: {0}
+Client already has portal access,Client already has portal access
+Client has no portal user to revoke,Client has no portal user to revoke
+Client link removed from project {0},Client link removed from project {0}
+Client Portal,Client Portal
+Client {0} deleted successfully,Client {0} deleted successfully
+Close,Close
+Close (Esc),Close (Esc)
+Comment,Comment
+comment,comment
+Comment added,Comment added
+Comment content is required,Comment content is required
+Comment name is required,Comment name is required
+Comment not found,Comment not found
+Comment removed,Comment removed
+Comment {0} not found in task,Comment {0} not found in task
+Comments,Comments
+comments,comments
+Community Edition,Community Edition
+Company,Company
+Company name...,Company name...
+Complete,Complete
+Completed,Completed
+completed,completed
+Completed Tasks,Completed Tasks
+Compliance,Compliance
+Configure default values for new projects and tasks,Configure default values for new projects and tasks
+Configure email notification settings,Configure email notification settings
+Confirm,Confirm
+Contact deleted,Contact deleted
+Contact Details,Contact Details
+Contact Information,Contact Information
+Contact name is required,Contact name is required
+Contact Support,Contact Support
+Contact your project manager for more information.,Contact your project manager for more information.
+Contact:,Contact:
+Contacts,Contacts
+Context,Context
+Contractor,Contractor
+Cost estimate cannot be negative,Cost estimate cannot be negative
+Cost Impact,Cost Impact
+Cost Summary,Cost Summary
+Could not apply the template. Please try again.,Could not apply the template. Please try again.
+Could not attach file to project,Could not attach file to project
+Could not change task priority,Could not change task priority
+Could not change task status,Could not change task status
+Could not delete the project. Please try again.,Could not delete the project. Please try again.
+Could not delete the task. Please try again.,Could not delete the task. Please try again.
+Could not delete the template.,Could not delete the template.
+Could not duplicate the task. Please try again.,Could not duplicate the task. Please try again.
+Could not export the template.,Could not export the template.
+Could not import the template. Please check the file format.,Could not import the template. Please check the file format.
+Could not link task to milestone,Could not link task to milestone
+Could not load document details.,Could not load document details.
+Could not load task details,Could not load task details
+Could not promote checklist item to task.,Could not promote checklist item to task.
+Could not remove task from milestone,Could not remove task from milestone
+Could not save budget.,Could not save budget.
+Could not save changes to the milestone,Could not save changes to the milestone
+Could not save changes to the task,Could not save changes to the task
+Could not save description.,Could not save description.
+Could not save end date.,Could not save end date.
+Could not save milestone name.,Could not save milestone name.
+Could not save start date.,Could not save start date.
+Could not save the template. Please try again.,Could not save the template. Please try again.
+Could not save title.,Could not save title.
+Could not update dependency mode.,Could not update dependency mode.
+Could not update milestone date,Could not update milestone date
+Could not update project status.,Could not update project status.
+Could not update project type.,Could not update project type.
+Could not update setting.,Could not update setting.
+Could not update task dates,Could not update task dates
+Could not update task status,Could not update task status
+Could not update the template.,Could not update the template.
+Create a copy of this task,Create a copy of this task
+Create Contact,Create Contact
+Create Event,Create Event
+Create Milestone,Create Milestone
+Create New Milestone,Create New Milestone
+Create New Task,Create New Task
+Create Project,Create Project
+Create Task,Create Task
+Create tasks and milestones from a template,Create tasks and milestones from a template
+Create your first project to get started.,Create your first project to get started.
+Create your first task to start tracking work on this project.,Create your first task to start tracking work on this project.
+Created,Created
+Creating...,Creating...
+Critical,Critical
+Critical Path,Critical Path
+"Currency used for budgets, costs, and billing rates","Currency used for budgets, costs, and billing rates"
+Current,Current
+Current Assignments,Current Assignments
+Current scheduled time:,Current scheduled time:
+Currently running version,Currently running version
+d lag,d lag
+Daily Availability,Daily Availability
+Daily Hours,Daily Hours
+Danger Zone,Danger Zone
+Dark,Dark
+Dashboard,Dashboard
+Date,Date
+Date changes on this task will show cascade impact here,Date changes on this task will show cascade impact here
+Date cleared,Date cleared
+Date of Joining,Date of Joining
+Date updated,Date updated
+Dates,Dates
+Dates cascaded,Dates cascaded
+Dates will be relative to the project's start date.,Dates will be relative to the project's start date.
+Day,Day
+day,day
+days,days
+Days before due date to send reminder,Days before due date to send reminder
+Days Overdue,Days Overdue
+Days Remaining,Days Remaining
+Deadline,Deadline
+Deadlines,Deadlines
+Decision,Decision
+Decline,Decline
+Declined,Declined
+Default Currency,Default Currency
+Default hours per week for contact capacity planning,Default hours per week for contact capacity planning
+Default Priority,Default Priority
+Default Project Status,Default Project Status
+Default Task Status,Default Task Status
+Default task view,Default task view
+Default Values,Default Values
+Default Weekly Capacity,Default Weekly Capacity
+Defaults,Defaults
+Defect Cost Impact,Defect Cost Impact
+Defect name is required,Defect name is required
+Defect Type,Defect Type
+Defect {0} not found,Defect {0} not found
+Defects,Defects
+Defects & Issues,Defects & Issues
+Defects Resolved,Defects Resolved
+Delayed,Delayed
+Delete,Delete
+Delete Activity Data,Delete Activity Data
+Delete all read notifications?,Delete all read notifications?
+Delete comment,Delete comment
+Delete Contact,Delete Contact
+Delete Event,Delete Event
+Delete Event?,Delete Event?
+Delete failed,Delete failed
+Delete file,Delete file
+Delete item,Delete item
+Delete note,Delete note
+Delete Project,Delete Project
+Delete Task,Delete Task
+Delete this project,Delete this project
+Deleted,Deleted
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Deleted project ""{0}"" ({1} tasks, {2} milestones)"
+Deletes notes and preferences. Source document is not affected.,Deletes notes and preferences. Source document is not affected.
+Deleting...,Deleting...
+Department,Department
+Dependencies,Dependencies
+dependencies,dependencies
+Dependencies are informational only,Dependencies are informational only
+dependency,dependency
+Dependency already exists,Dependency already exists
+Dependency Chain,Dependency Chain
+Dependency created,Dependency created
+Dependency mode updated,Dependency mode updated
+Dependency name is required,Dependency name is required
+Dependency task {0} not found,Dependency task {0} not found
+Dependency {0} not found,Dependency {0} not found
+depends,depends
+Depends on Group,Depends on Group
+Depends on task is required,Depends on task is required
+depends on...,depends on...
+Descending -- click to reverse,Descending -- click to reverse
+Describe the defect in detail...,Describe the defect in detail...
+Description,Description
+Description updated,Description updated
+Designation,Designation
+"Detailed description of the defect, location, and impact","Detailed description of the defect, location, and impact"
+Details,Details
+Discard timer,Discard timer
+Discussion,Discussion
+Dismiss,Dismiss
+Display,Display
+Document,Document
+Document attached to project,Document attached to project
+Document final decision and rationale,Document final decision and rationale
+Documentation Review,Documentation Review
+Documents,Documents
+Done,Done
+Download,Download
+Drag to create dependency,Drag to create dependency
+Dry Run,Dry Run
+Dry Run Complete,Dry Run Complete
+Due Date,Due Date
+Due date,Due date
+Due Date (Earliest),Due Date (Earliest)
+Due date cannot be before start date,Due date cannot be before start date
+Due date is in the past,Due date is in the past
+Due Date Reminders,Due Date Reminders
+Due Diligence,Due Diligence
+Due Diligence Checklist,Due Diligence Checklist
+Due This Week,Due This Week
+Due:,Due:
+Duplicate events are not allowed,Duplicate events are not allowed
+Duplicate failed,Duplicate failed
+Duplicate Task,Duplicate Task
+Duration,Duration
+Duration Summary,Duration Summary
+Duration:,Duration:
+e.g. Cracked wall finish in bathroom...,e.g. Cracked wall finish in bathroom...
+"e.g. Electrical, Plumbing...","e.g. Electrical, Plumbing..."
+Edit,Edit
+Edit (E),Edit (E)
+Edit dependency,Edit dependency
+Edit Event,Edit Event
+Efficiency,Efficiency
+Either dependency_name or depends_on is required,Either dependency_name or depends_on is required
+Email,Email
+Email invitations to all attendees,Email invitations to all attendees
+Email is required to create portal user,Email is required to create portal user
+Email notifications,Email notifications
+Employee,Employee
+Employee DocType not available,Employee DocType not available
+Employee not found,Employee not found
+Enable or disable optional features,Enable or disable optional features
+Enable Time Tracking,Enable Time Tracking
+End,End
+End Date,End Date
+End date,End date
+End Date cannot be before Start Date,End Date cannot be before Start Date
+End date cannot be before start date,End date cannot be before start date
+End date updated,End date updated
+End time was before start time. Adjusted to 1 hour after start.,End time was before start time. Adjusted to 1 hour after start.
+End:,End:
+Enter milestone name...,Enter milestone name...
+Enter project name,Enter project name
+Enter task title...,Enter task title...
+Enter template name,Enter template name
+Enter your note... Use @name to mention someone,Enter your note... Use @name to mention someone
+Error,Error
+Error loading activity,Error loading activity
+Error loading contacts,Error loading contacts
+Error loading dashboard,Error loading dashboard
+Error loading project,Error loading project
+Error loading projects,Error loading projects
+Error loading settings,Error loading settings
+Error loading tasks,Error loading tasks
+Error loading templates,Error loading templates
+Est. Hours,Est. Hours
+Estimated,Estimated
+Estimated Cost,Estimated Cost
+Estimated Cost (€),Estimated Cost (€)
+Estimated Hours,Estimated Hours
+Estimated:,Estimated:
+Evaluate potential risks and concerns,Evaluate potential risks and concerns
+Event,Event
+Event is required for event context,Event is required for event context
+Event is required when tracking context is 'event',Event is required when tracking context is 'event'
+Event Type,Event Type
+Events,Events
+Events not available. Please run: bench --site orga.localhost migrate,Events not available. Please run: bench --site orga.localhost migrate
+Events:,Events:
+Expert,Expert
+Explain why you are proposing a different time...,Explain why you are proposing a different time...
+Export,Export
+Export failed,Export failed
+Export JSON,Export JSON
+Exported,Exported
+Exported to timesheet {0},Exported to timesheet {0}
+External,External
+Failed to add item,Failed to add item
+Failed to add note,Failed to add note
+Failed to add skill,Failed to add skill
+Failed to apply cascade changes: {0},Failed to apply cascade changes: {0}
+Failed to create defect,Failed to create defect
+Failed to create dependency,Failed to create dependency
+Failed to create event,Failed to create event
+Failed to create milestone,Failed to create milestone
+Failed to create project,Failed to create project
+Failed to create task,Failed to create task
+Failed to create time log,Failed to create time log
+Failed to delete,Failed to delete
+Failed to delete comment,Failed to delete comment
+Failed to delete contact,Failed to delete contact
+Failed to load,Failed to load
+Failed to load activity,Failed to load activity
+Failed to load assignments,Failed to load assignments
+Failed to load contact,Failed to load contact
+Failed to load dashboard data,Failed to load dashboard data
+Failed to load defects,Failed to load defects
+Failed to load events,Failed to load events
+Failed to load project,Failed to load project
+Failed to load projects,Failed to load projects
+Failed to load report data,Failed to load report data
+Failed to load settings,Failed to load settings
+Failed to load tasks,Failed to load tasks
+Failed to move task,Failed to move task
+Failed to post comment,Failed to post comment
+Failed to propose new time,Failed to propose new time
+Failed to remove item,Failed to remove item
+Failed to remove skill,Failed to remove skill
+Failed to reorder milestones: {0},Failed to reorder milestones: {0}
+Failed to reorder tasks: {0},Failed to reorder tasks: {0}
+Failed to reschedule dependent tasks: {0},Failed to reschedule dependent tasks: {0}
+Failed to save,Failed to save
+Failed to save preferences,Failed to save preferences
+Failed to save settings,Failed to save settings
+Failed to submit request. Please try again.,Failed to submit request. Please try again.
+Failed to update item,Failed to update item
+Failed to update priority,Failed to update priority
+Failed to update task,Failed to update task
+Failed to update tasks: {0},Failed to update tasks: {0}
+Failed to upload avatar,Failed to upload avatar
+Feature,Feature
+Features,Features
+FF (Finish-Finish),FF (Finish-Finish)
+FF - Finish-to-Finish,FF - Finish-to-Finish
+Field has been updated,Field has been updated
+Field name is required for 'Set Field Value' action,Field name is required for 'Set Field Value' action
+Field {0} is not a Link field,Field {0} is not a Link field
+Field {0} not found in {1},Field {0} not found in {1}
+file,file
+File,File
+File does not belong to this task,File does not belong to this task
+File name is required,File name is required
+File uploaded,File uploaded
+File {0} not found,File {0} not found
+files,files
+Files,Files
+Filter,Filter
+Final Decision,Final Decision
+Finance,Finance
+Financial,Financial
+Finish-to-Finish,Finish-to-Finish
+Finish-to-Start,Finish-to-Start
+Flag,Flag
+Flag for attention,Flag for attention
+Flagged,Flagged
+Focus Panel,Focus Panel
+Follows your system preference. Currently:,Follows your system preference. Currently:
+Frappe Project {0} not found,Frappe Project {0} not found
+Frappe Projects Migration,Frappe Projects Migration
+Frappe Projects module not available,Frappe Projects module not available
+Frappe Projects module not installed,Frappe Projects module not installed
+Frappe Projects sync is not enabled,Frappe Projects sync is not enabled
+Frappe Task DocType not found,Frappe Task DocType not found
+Frappe Task has no project,Frappe Task has no project
+Frappe Task {0} not found,Frappe Task {0} not found
+Fri,Fri
+From,From
+From Template,From Template
+FS (Finish-Start),FS (Finish-Start)
+FS - Finish-to-Start (default),FS - Finish-to-Start (default)
+Full form view with audit trail,Full form view with audit trail
+Full name,Full name
+Gantt,Gantt
+Gantt Chart,Gantt Chart
+Gantt View,Gantt View
+General Note,General Note
+Get started,Get started
+Go back,Go back
+Go Back,Go Back
+Group by,Group by
+Group dependency removed,Group dependency removed
+Group dependency set,Group dependency set
+Group removed,Group removed
+Group updated,Group updated
+Hammock task dates are auto-calculated and cannot be changed manually,Hammock task dates are auto-calculated and cannot be changed manually
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Have a question or need assistance? Fill out the form below and our team will get back to you.
+Health,Health
+Healthy,Healthy
+Hello {0},Hello {0}
+Here's what's happening with your projects today.,Here's what's happening with your projects today.
+Hide,Hide
+High,High
+History,History
+Home,Home
+Hourly Cost,Hourly Cost
+Hours,Hours
+hours,hours
+Hours Logged,Hours Logged
+ID,ID
+Image must be smaller than 5 MB,Image must be smaller than 5 MB
+Import,Import
+Import existing projects and tasks from Frappe Projects module,Import existing projects and tasks from Frappe Projects module
+Import failed,Import failed
+Import Template,Import Template
+Imported,Imported
+in,in
+In Progress,In Progress
+In Review,In Review
+In-app notifications,In-app notifications
+Inactive,Inactive
+Initial Review,Initial Review
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Insufficient permissions to view all tasks
+Intermediate,Intermediate
+Internal,Internal
+Invalid DocType,Invalid DocType
+Invalid DocType for import,Invalid DocType for import
+Invalid item type: {0},Invalid item type: {0}
+Invalid JSON data,Invalid JSON data
+Invalid note type. Must be one of: {0},Invalid note type. Must be one of: {0}
+Invalid project reference,Invalid project reference
+Invalid reaction type. Must be one of: {0},Invalid reaction type. Must be one of: {0}
+Invalid RSVP status,Invalid RSVP status
+Invalid status. Must be one of: {0},Invalid status. Must be one of: {0}
+Invalid status: {0},Invalid status: {0}
+Invalid status: {0}. Must be one of: {1},Invalid status: {0}. Must be one of: {1}
+Invalid tracking context: {0},Invalid tracking context: {0}
+Invalid visibility. Must be one of: {0},Invalid visibility. Must be one of: {0}
+Invitation: {0} - {1} at {2},Invitation: {0} - {1} at {2}
+Invite People,Invite People
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Item added
+Item ID is required,Item ID is required
+Item removed,Item removed
+Item type is required,Item type is required
+Item {0} not found,Item {0} not found
+Job title or role,Job title or role
+Join Meeting,Join Meeting
+Just now,Just now
+just now,just now
+Kanban,Kanban
+Kanban Board,Kanban Board
+Kanban View,Kanban View
+Keyboard Shortcuts,Keyboard Shortcuts
+Keyboard shortcuts (?),Keyboard shortcuts (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Last Updated
+Last updated:,Last updated:
+Last Week,Last Week
+Latest Version,Latest Version
+Light,Light
+Link failed,Link failed
+Link Task,Link Task
+Linked,Linked
+Linked employee not found,Linked employee not found
+Linked Tasks,Linked Tasks
+List,List
+List View,List View
+Load failed,Load failed
+Load More,Load More
+Load more comments,Load more comments
+Loading activity...,Loading activity...
+Loading changes...,Loading changes...
+Loading checklist...,Loading checklist...
+Loading comments...,Loading comments...
+Loading contact...,Loading contact...
+Loading contacts...,Loading contacts...
+Loading dependencies...,Loading dependencies...
+Loading details...,Loading details...
+Loading discussion...,Loading discussion...
+Loading events...,Loading events...
+Loading files...,Loading files...
+Loading notes...,Loading notes...
+Loading preferences...,Loading preferences...
+Loading project...,Loading project...
+Loading projects...,Loading projects...
+Loading replies...,Loading replies...
+Loading report data...,Loading report data...
+Loading settings...,Loading settings...
+Loading task...,Loading task...
+Loading templates...,Loading templates...
+Loading time logs...,Loading time logs...
+Loading your portal...,Loading your portal...
+Loading...,Loading...
+Location,Location
+Log Time,Log Time
+Logout,Logout
+Low,Low
+Make Offer,Make Offer
+Manager,Manager
+Manual Entry,Manual Entry
+Margin,Margin
+Mark all as read,Mark all as read
+Mark all read,Mark all read
+Mark as read,Mark as read
+Mark as unread,Mark as unread
+Mark read,Mark read
+Marking...,Marking...
+Material,Material
+Maybe,Maybe
+Medium,Medium
+Meeting,Meeting
+Meeting Link,Meeting Link
+Meeting title,Meeting title
+Meeting URL,Meeting URL
+Meetings,Meetings
+Mention,Mention
+Message,Message
+Message is required,Message is required
+Message is required for '{0}' action,Message is required for '{0}' action
+Migrate,Migrate
+Migration Complete,Migration Complete
+Migration ID:,Migration ID:
+Migration log not found: {0},Migration log not found: {0}
+milestone,milestone
+Milestone,Milestone
+Milestone created,Milestone created
+Milestone description has been saved.,Milestone description has been saved.
+Milestone ID is required,Milestone ID is required
+Milestone marked as Missed (past due date),Milestone marked as Missed (past due date)
+Milestone moved,Milestone moved
+Milestone Name,Milestone Name
+Milestone name has been saved.,Milestone name has been saved.
+Milestone name is required,Milestone name is required
+Milestone updated,Milestone updated
+Milestone {0} not found,Milestone {0} not found
+Milestone {0} not in project {1},Milestone {0} not in project {1}
+milestones,milestones
+Milestones,Milestones
+Milestones:,Milestones:
+Minutes,Minutes
+Missed,Missed
+Mixed,Mixed
+Mobile,Mobile
+Moderate,Moderate
+Modified,Modified
+"Modify details, time, or attendees","Modify details, time, or attendees"
+Mon,Mon
+Month,Month
+Move failed,Move failed
+Must be a positive number,Must be a positive number
+Must finish before this finishes,Must finish before this finishes
+Must finish before this starts,Must finish before this starts
+Must start before this finishes,Must start before this finishes
+Must start before this starts,Must start before this starts
+My Assignments,My Assignments
+My Projects,My Projects
+My Schedule,My Schedule
+My Tasks,My Tasks
+N/A,N/A
+Name,Name
+Name (A-Z),Name (A-Z)
+Name (Z-A),Name (Z-A)
+Name cannot exceed 255 characters,Name cannot exceed 255 characters
+Need help?,Need help?
+Needs Attention,Needs Attention
+Never,Never
+new activities,new activities
+New Activity,New Activity
+New activity,New activity
+New Event,New Event
+New index is required,New index is required
+New Project,New Project
+New tasks will auto-trail by default.,New tasks will auto-trail by default.
+Newest First,Newest First
+Next,Next
+Next 14 days,Next 14 days
+Next 30 days,Next 30 days
+Next 60 days,Next 60 days
+Next 7 days,Next 7 days
+Next 90 days,Next 90 days
+Next Week,Next Week
+Next:,Next:
+No,No
+No active assignments,No active assignments
+No active projects,No active projects
+No active timer found,No active timer found
+No activity selected,No activity selected
+No assignments found,No assignments found
+No attendees,No attendees
+no change,no change
+No changes for this field.,No changes for this field.
+No changes recorded for this activity.,No changes recorded for this activity.
+No checklist items yet,No checklist items yet
+No checklist items yet.,No checklist items yet.
+No comments yet,No comments yet
+No comments yet.,No comments yet.
+No contacts available,No contacts available
+No content for this tab,No content for this tab
+No data available,No data available
+No data available for the selected filters,No data available for the selected filters
+No data to export,No data to export
+No dates set,No dates set
+No defects reported,No defects reported
+No dependencies defined,No dependencies defined
+No description,No description
+No discussion yet.,No discussion yet.
+No documents attached,No documents attached
+No due date,No due date
+No employee linked to this resource,No employee linked to this resource
+No ERPNext employee linked to resource,No ERPNext employee linked to resource
+No events found,No events found
+No files attached yet.,No files attached yet.
+No Frappe Project linked,No Frappe Project linked
+No Grouping,No Grouping
+No items,No items
+No matching tasks,No matching tasks
+No matching tasks found,No matching tasks found
+No migration history,No migration history
+No Milestone,No Milestone
+No milestones,No milestones
+No milestones defined for this project.,No milestones defined for this project.
+No notes yet.,No notes yet.
+No notes yet. Add a due diligence note to track progress.,No notes yet. Add a due diligence note to track progress.
+No notifications,No notifications
+No Orga Project linked to Frappe Project {0},No Orga Project linked to Frappe Project {0}
+No overdue tasks,No overdue tasks
+No pending cascade changes,No pending cascade changes
+No predecessors - this task can start independently,No predecessors - this task can start independently
+No project,No project
+No projects found,No projects found
+No Projects Yet,No Projects Yet
+No recent activity,No recent activity
+No related documents,No related documents
+No resolved threads.,No resolved threads.
+No resources found,No resources found
+No results found,No results found
+No skills listed,No skills listed
+No skills recorded yet,No skills recorded yet
+No successors - no tasks are waiting for this one,No successors - no tasks are waiting for this one
+No task selected,No task selected
+No tasks assigned to you,No tasks assigned to you
+No tasks available to add,No tasks available to add
+No tasks found,No tasks found
+No tasks linked to this milestone,No tasks linked to this milestone
+No tasks with dates to display,No tasks with dates to display
+No tasks yet,No tasks yet
+No team members,No team members
+No template,No template
+No templates yet,No templates yet
+No time data found,No time data found
+No time logged today,No time logged today
+No time logged yet,No time logged yet
+No time logs for this period,No time logs for this period
+No time logs found,No time logs found
+No unread notifications,No unread notifications
+No update information available yet.,No update information available yet.
+None,None
+Not found,Not found
+Not permitted,Not permitted
+Not permitted to access this project,Not permitted to access this project
+Not permitted to access this task,Not permitted to access this task
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Not permitted to comment on this document
+Not permitted to create clients,Not permitted to create clients
+Not permitted to delete this client,Not permitted to delete this client
+Not permitted to delete this defect,Not permitted to delete this defect
+Not permitted to delete this note,Not permitted to delete this note
+Not permitted to delete this project,Not permitted to delete this project
+Not permitted to delete this task,Not permitted to delete this task
+Not permitted to delete this time log,Not permitted to delete this time log
+Not permitted to invite clients,Not permitted to invite clients
+Not permitted to modify client access,Not permitted to modify client access
+Not permitted to modify this project,Not permitted to modify this project
+Not permitted to update settings,Not permitted to update settings
+Not permitted to update this client,Not permitted to update this client
+Not permitted to view this client,Not permitted to view this client
+not sent,not sent
+Not set,Not set
+Not specified,Not specified
+Note,Note
+Note (optional),Note (optional)
+Note Content,Note Content
+Note content is required,Note content is required
+Note name is required,Note name is required
+Note not found,Note not found
+Note Type,Note Type
+Notes,Notes
+Notification,Notification
+Notification not found,Notification not found
+Notifications,Notifications
+Off Track,Off Track
+Offer,Offer
+Offer Prepared,Offer Prepared
+Oldest First,Oldest First
+On Hold,On Hold
+On Leave,On Leave
+On Track,On Track
+On-Time Rate,On-Time Rate
+Only administrators can delete activities,Only administrators can delete activities
+Only the comment author or administrators can delete comments,Only the comment author or administrators can delete comments
+Only you and admins,Only you and admins
+Open,Open
+Open in Desk,Open in Desk
+Open Task Log,Open Task Log
+Open Tasks,Open Tasks
+Optional,Optional
+optional,optional
+Or email us directly at,Or email us directly at
+Orga Project {0} from Frappe Projects,Orga Project {0} from Frappe Projects
+Orga Task {0} from Frappe,Orga Task {0} from Frappe
+Organizer,Organiser
+Other,Other
+Over Budget,Over Budget
+Overall Progress,Overall Progress
+Overall Utilization,Overall Utilization
+Overallocated,Overallocated
+Overdue,Overdue
+overdue,overdue
+Overdue Tasks,Overdue Tasks
+Overview,Overview
+Owner,Owner
+Page Not Found,Page Not Found
+Parent,Parent
+Parent comment must belong to the same document,Parent comment must belong to the same document
+Parent comment not found,Parent comment not found
+Parent project not synced to Frappe yet,Parent project not synced to Frappe yet
+Parent project sync not enabled,Parent project sync not enabled
+Partner,Partner
+Pending,Pending
+per page,per page
+Perform initial assessment and background check,Perform initial assessment and background check
+Permanently remove this event,Permanently remove this event
+Permanently remove this task,Permanently remove this task
+Phone,Phone
+Pin,Pin
+Pin Activity,Pin Activity
+Pin to top,Pin to top
+Pinned,Pinned
+Planned budget for this task,Planned budget for this task
+Planning,Planning
+Please describe your question or issue in detail...,Please describe your question or issue in detail...
+Please login to access Orga,Please login to access Orga
+Please login to access the client portal,Please login to access the client portal
+Please respond to this invitation in Orga,Please respond to this invitation in Orga
+Please select an image file,Please select an image file
+Please try again,Please try again
+Please type,Please type
+Portal,Portal
+Portal access revoked for {0},Portal access revoked for {0}
+Portal user created successfully. Welcome email {0},Portal user created successfully. Welcome email {0}
+Post,Post
+Powered by,Powered by
+Powered by Tonic,Powered by Tonic
+Predecessors (Blocked By),Predecessors (Blocked By)
+Preferences,Preferences
+Preferences saved successfully,Preferences saved successfully
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)","Prefix for auto-generated project codes (e.g., ORG-2026-0001)"
+Prepare and document offer terms,Prepare and document offer terms
+Press,Press
+Preview,Preview
+Preview cascade before applying,Preview cascade before applying
+Previous,Previous
+Priority,Priority
+Priority assigned to new tasks,Priority assigned to new tasks
+Priority updated,Priority updated
+Proficiency,Proficiency
+Profile,Profile
+Progress,Progress
+Progress (High-Low),Progress (High-Low)
+Progress (Low-High),Progress (Low-High)
+Progress Overview,Progress Overview
+Progress updated,Progress updated
+Project,Project
+Project budget has been saved.,Project budget has been saved.
+Project code (e.g. ORG-2026-0001),Project code (e.g. ORG-2026-0001)
+Project Code Prefix,Project Code Prefix
+Project created,Project created
+Project deleted,Project deleted
+Project description has been saved.,Project description has been saved.
+Project Details,Project Details
+Project end date has been saved.,Project end date has been saved.
+Project Files,Project Files
+Project has no linked client,Project has no linked client
+Project Health,Project Health
+Project Info,Project Info
+Project is required,Project is required
+Project is required for project context,Project is required for project context
+Project is required when tracking context is 'project',Project is required when tracking context is 'project'
+Project Manager,Project Manager
+Project Name,Project Name
+Project name and template name are required,Project name and template name are required
+Project name is required,Project name is required
+Project not found,Project not found
+Project not found or you do not have access,Project not found or you do not have access
+Project settings,Project settings
+Project start date has been saved.,Project start date has been saved.
+Project title has been saved.,Project title has been saved.
+Project Type,Project Type
+Project updated,Project updated
+Project {0} linked to client {1},Project {0} linked to client {1}
+Project {0} not found,Project {0} not found
+Project {0} to Frappe Projects,Project {0} to Frappe Projects
+Project:,Project:
+projects,projects
+Projects,Projects
+Projects created:,Projects created:
+Projects Overview,Projects Overview
+Projects skipped:,Projects skipped:
+Projects updated:,Projects updated:
+Promote failed,Promote failed
+Promote to task,Promote to task
+Promoted to task,Promoted to task
+Propose,Propose
+Propose New Time,Propose New Time
+Propose Time,Propose Time
+Proposed End,Proposed End
+Proposed Start,Proposed Start
+Public,Public
+Quick Action,Quick Action
+Quick Actions,Quick Actions
+Quick Stats,Quick Stats
+Rates,Rates
+Receive notifications via email,Receive notifications via email
+Receive notifications within the application,Receive notifications within the application
+Recent Activity,Recent Activity
+Recipient {0} is not a valid user,Recipient {0} is not a valid user
+Reference,Reference
+Refresh,Refresh
+Related,Related
+Related Company (optional),Related Company (optional)
+Related Documents,Related Documents
+Related Project,Related Project
+Remaining,Remaining
+Reminder,Reminder
+Reminder Lead Time,Reminder Lead Time
+Reminder: {0} - {1} at {2},Reminder: {0} - {1} at {2}
+Remove,Remove
+Remove dependency,Remove dependency
+Remove dependency on,Remove dependency on
+Remove from group,Remove from group
+Remove group dependency,Remove group dependency
+Remove skill,Remove skill
+Reopen,Reopen
+Reopen thread,Reopen thread
+reopened,reopened
+replies,replies
+Reply,Reply
+reply,reply
+Replying to,Replying to
+Replying to comment,Replying to comment
+Report Defect,Report Defect
+Reported Date,Reported Date
+Reports,Reports
+Reports To,Reports To
+Request Submitted!,Request Submitted!
+Required,Required
+required,required
+Research,Research
+Reset to Defaults,Reset to Defaults
+Resolve,Resolve
+Resolve thread,Resolve thread
+Resolved,Resolved
+Resolved date cannot be before reported date,Resolved date cannot be before reported date
+Resource,Resource
+Resource and skill name are required,Resource and skill name are required
+Resource is already an attendee,Resource is already an attendee
+Resource name is required,Resource name is required
+Resource not found,Resource not found
+Resource synced from employee {0},Resource synced from employee {0}
+Resource {0} is already assigned to this task ({1}),Resource {0} is already assigned to this task ({1})
+Resource {0} not found,Resource {0} not found
+Resources,Resources
+Retry,Retry
+Review,Review
+Review all relevant documents and contracts,Review all relevant documents and contracts
+Reviews,Reviews
+Risk Assessment,Risk Assessment
+Rollback,Rollback
+Rolled back,Rolled back
+Room or address,Room or address
+RSVP,RSVP
+Safety,Safety
+Sat,Sat
+Save,Save
+"Save a project as a template, or import one from a JSON file.","Save a project as a template, or import one from a JSON file."
+Save as Template,Save as Template
+Save Changes,Save Changes
+Save failed,Save failed
+Save Preferences,Save Preferences
+Save Template,Save Template
+Saving...,Saving...
+Schedule,Schedule
+Schedule type is required for scheduled triggers,Schedule type is required for scheduled triggers
+Scheduled,Scheduled
+Search,Search
+"Search by name, email, or skill...","Search by name, email, or skill..."
+Search for a project...,Search for a project...
+Search for a task...,Search for a task...
+Search for an event...,Search for an event...
+Search for people to invite...,Search for people to invite...
+Search tasks to link...,Search tasks to link...
+Search tasks...,Search tasks...
+Search...,Search...
+Searching...,Searching...
+Seen,Seen
+Select a project if your request is related to a specific project.,Select a project if your request is related to a specific project.
+Select a project...,Select a project...
+Select a task from the Gantt chart to view and manage its details.,Select a task from the Gantt chart to view and manage its details.
+Select a task from the list or Kanban board to view and manage its details.,Select a task from the list or Kanban board to view and manage its details.
+Select a template...,Select a template...
+Select priority...,Select priority...
+Select status...,Select status...
+Select task...,Select task...
+Select type...,Select type...
+Selection,Selection
+Send,Send
+Send comment,Send comment
+Send email invitations to attendees,Send email invitations to attendees
+Send Invitations,Send Invitations
+Send notification when a task is assigned to a user,Send notification when a task is assigned to a user
+Send notification when task status changes,Send notification when task status changes
+Send reminder before task due date,Send reminder before task due date
+sent,sent
+Set rate,Set rate
+Settings,Settings
+Settings saved successfully,Settings saved successfully
+Severity,Severity
+SF (Start-Finish),SF (Start-Finish)
+SF - Start-to-Finish,SF - Start-to-Finish
+Show,Show
+Show all,Show all
+Show all changes,Show all changes
+Show Archived,Show Archived
+Show full diff,Show full diff
+Show less,Show less
+Show more,Show more
+Skill added,Skill added
+Skill is required,Skill is required
+Skill Name,Skill Name
+Skill removed,Skill removed
+Skill {0} already exists for this resource,Skill {0} already exists for this resource
+Skills,Skills
+Skills & Competencies,Skills & Competencies
+Skip already migrated projects,Skip already migrated projects
+Sort by,Sort by
+Sort: Due Date,Sort: Due Date
+Sort: Priority,Sort: Priority
+Sort: Project,Sort: Project
+Sort: Status,Sort: Status
+Sort: Task,Sort: Task
+Source Code,Source Code
+Spent,Spent
+Spent:,Spent:
+SS (Start-Start),SS (Start-Start)
+SS - Start-to-Start,SS - Start-to-Start
+Standalone,Standalone
+Start,Start
+Start a discussion below,Start a discussion below
+Start Date,Start Date
+Start date,Start date
+Start Date (Earliest),Start Date (Earliest)
+Start date updated,Start date updated
+Start date/time is required,Start date/time is required
+Start Migration,Start Migration
+Start the conversation below.,Start the conversation below.
+Start Timer,Start Timer
+Start typing to search...,Start typing to search...
+Start-to-Finish,Start-to-Finish
+Start-to-Start,Start-to-Start
+Start:,Start:
+Statistics reset,Statistics reset
+Status,Status
+Status assigned to new projects,Status assigned to new projects
+Status assigned to new tasks,Status assigned to new tasks
+Status Changes,Status Changes
+Status updated,Status updated
+Status:,Status:
+Stop,Stop
+Stop & Save,Stop & Save
+Stop Timer,Stop Timer
+Stops current timer and starts for this event,Stops current timer and starts for this event
+Stops current timer and starts for this task,Stops current timer and starts for this task
+Subject,Subject
+Subject cannot exceed 255 characters,Subject cannot exceed 255 characters
+Subject is required,Subject is required
+Submit,Submit
+Submit Another Request,Submit Another Request
+Submit Request,Submit Request
+Submitting...,Submitting...
+Successfully saved,Successfully saved
+Successors (Blocking),Successors (Blocking)
+Sun,Sun
+Supplier,Supplier
+Support,Support
+Switch to this event,Switch to this event
+Switch to this task,Switch to this task
+Sync direction is set to Frappe to Orga only,Sync direction is set to Frappe to Orga only
+Sync direction is set to Orga to Frappe only,Sync direction is set to Orga to Frappe only
+Sync not enabled for this project,Sync not enabled for this project
+System,System
+Table,Table
+Take ownership of this task,Take ownership of this task
+Target Date,Target Date
+Target End,Target End
+Target Project,Target Project
+Target user is required for '{0}' action,Target user is required for '{0}' action
+task,task
+Task,Task
+Task '{0}' is due on {1}.,Task '{0}' is due on {1}.
+Task and resource are required,Task and resource are required
+Task Assignment,Task Assignment
+Task cannot be its own parent,Task cannot be its own parent
+Task cannot depend on itself,Task cannot depend on itself
+Task cannot depend on the group it belongs to,Task cannot depend on the group it belongs to
+Task created,Task created
+Task deleted,Task deleted
+Task description has been saved.,Task description has been saved.
+Task Details,Task Details
+Task due in {0} days: {1},Task due in {0} days: {1}
+Task due today: {0},Task due today: {0}
+Task due tomorrow: {0},Task due tomorrow: {0}
+Task duplicated,Task duplicated
+Task Group,Task Group
+Task ID is required,Task ID is required
+Task is blocked by incomplete dependencies,Task is blocked by incomplete dependencies
+Task is cancelled,Task is cancelled
+Task is completed,Task is completed
+Task is no longer blocked by a group,Task is no longer blocked by a group
+Task is required for task context,Task is required for task context
+Task is required when tracking context is 'task',Task is required when tracking context is 'task'
+Task linked,Task linked
+Task moved,Task moved
+Task name,Task name
+Task name is required,Task name is required
+Task removed from group,Task removed from group
+Task Subject,Task Subject
+Task subject is required,Task subject is required
+Task Type,Task Type
+Task unblocked: {0},Task unblocked: {0}
+Task unlinked,Task unlinked
+Task updated,Task updated
+Task {0} not found,Task {0} not found
+Task {0} not in project {1},Task {0} not in project {1}
+Task {0} to Frappe,Task {0} to Frappe
+Tasks,Tasks
+tasks,tasks
+Tasks and milestones will be created with dates relative to the project start date.,Tasks and milestones will be created with dates relative to the project start date.
+Tasks assigned to you across all projects.,Tasks assigned to you across all projects.
+Tasks created:,Tasks created:
+Tasks from projects you manage.,Tasks from projects you manage.
+Tasks updated:,Tasks updated:
+"Tasks, milestones, and dependencies have been created.","Tasks, milestones, and dependencies have been created."
+Tasks:,Tasks:
+TBD,TBD
+Team,Team
+Team Members,Team Members
+Template,Template
+Template applied,Template applied
+Template data is required in import data,Template data is required in import data
+Template has no data,Template has no data
+Template Name,Template Name
+Template name,Template name
+Template name is required,Template name is required
+Template name is required in import data,Template name is required in import data
+Template saved,Template saved
+Template updated successfully.,Template updated successfully.
+Template {0} not found,Template {0} not found
+Templates,Templates
+Tentative,Tentative
+The comment has been deleted,The comment has been deleted
+The project,The project
+The source document may have been deleted.,The source document may have been deleted.
+The source document will not be affected.,The source document will not be affected.
+The status of '{0}' was changed from {1} to {2}.,The status of '{0}' was changed from {1} to {2}.
+Theme,Theme
+Theme preference,Theme preference
+This action,This action
+This action cannot be undone.,This action cannot be undone.
+This activity has been flagged for attention,This activity has been flagged for attention
+This is a reminder for your upcoming appointment,This is a reminder for your upcoming appointment
+This method is only meant for developer mode,This method is only meant for developer mode
+This page wandered off,This page wandered off
+This Week,This Week
+This will delete all notes and preferences associated with this activity.,This will delete all notes and preferences associated with this activity.
+This will import all Frappe Projects into Orga. Continue?,This will import all Frappe Projects into Orga. Continue?
+This will permanently delete,This will permanently delete
+This will permanently delete:,This will permanently delete:
+Thu,Thu
+Time,Time
+Time & Billing,Time & Billing
+Time & Revenue,Time & Revenue
+Time Entries,Time Entries
+Time log name is required,Time log name is required
+Time Log not found,Time Log not found
+Time log {0} not found,Time log {0} not found
+Time Logs,Time Logs
+Time Summary,Time Summary
+Time Tracking,Time Tracking
+Timeline,Timeline
+Timer active on,Timer active on
+Timer is not running,Timer is not running
+Timer Running,Timer Running
+Timer running,Timer running
+Timesheet DocType not available,Timesheet DocType not available
+Timesheets,Timesheets
+Timezone,Timezone
+Timezone is detected from your browser,Timezone is detected from your browser
+Title,Title
+Title cannot exceed 255 characters,Title cannot exceed 255 characters
+Title is required,Title is required
+Title updated,Title updated
+To,To
+to,to
+to cancel,to cancel
+to close,to close
+to confirm:,to confirm:
+to edit,to edit
+"to save,","to save,"
+To Time cannot be before From Time,To Time cannot be before From Time
+Today,Today
+today,today
+Toggle billable,Toggle billable
+Toggle Details Panel,Toggle Details Panel
+Toggle Manager Panel,Toggle Manager Panel
+Toggle Sidebar,Toggle Sidebar
+Tomorrow,Tomorrow
+tomorrow,tomorrow
+Total,Total
+Total Budget,Total Budget
+Total Contacts,Total Contacts
+Total Cost,Total Cost
+Total Cost to Org,Total Cost to Org
+Total Defect Cost,Total Defect Cost
+Total Hours,Total Hours
+Total Hours Logged,Total Hours Logged
+Total Projects,Total Projects
+Total Spent,Total Spent
+Total Tasks,Total Tasks
+Total:,Total:
+Tracked,Tracked
+trails to today while Open at 0%,trails to today while Open at 0%
+Tried:,Tried:
+Try adjusting your filter criteria,Try adjusting your filter criteria
+Try adjusting your filters.,Try adjusting your filters.
+Try Again,Try Again
+Tue,Tue
+Type,Type
+Type updated,Type updated
+Type:,Type:
+Typical response time: 1-2 business days,Typical response time: 1-2 business days
+Unarchive,Unarchive
+Unarchive Activity,Unarchive Activity
+Unassign,Unassign
+Unassigned,Unassigned
+Under Budget,Under Budget
+Ungrouped,Ungrouped
+Unknown,Unknown
+Unknown error,Unknown error
+Unlink failed,Unlink failed
+Unlink task from milestone,Unlink task from milestone
+Unpin,Unpin
+Unpin Activity,Unpin Activity
+Unread,Unread
+Unread only,Unread only
+Until,Until
+Up to Date,Up to Date
+Upcoming,Upcoming
+upcoming,upcoming
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Update failed
+Updated,Updated
+Updated successfully,Updated successfully
+Updates,Updates
+Upload,Upload
+Upload failed,Upload failed
+Upload files below to attach them to this task.,Upload files below to attach them to this task.
+Upload to project,Upload to project
+Uploading...,Uploading...
+Urgent,Urgent
+User {0} is already linked to client {1},User {0} is already linked to client {1}
+User {0} is already linked to resource {1},User {0} is already linked to resource {1}
+Utilization,Utilization
+Valid,Valid
+Value:,Value:
+Variance,Variance
+Variance:,Variance:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,View
+View All,View All
+View all active projects,View all active projects
+View all open tasks,View all open tasks
+View overdue tasks,View overdue tasks
+View Release,View Release
+Visibility,Visibility
+Waiting for this task,Waiting for this task
+Waits for:,Waits for:
+Warning: Resource {0} status is {1},Warning: Resource {0} status is {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.
+Watch budget closely,Watch budget closely
+We'll respond to:,We'll respond to:
+Webhook deleted,Webhook deleted
+Webhook name is required,Webhook name is required
+Webhook not found,Webhook not found
+Webhook URL is required,Webhook URL is required
+Webhook URL must start with http:// or https://,Webhook URL must start with http:// or https://
+Wed,Wed
+Week,Week
+Weekend,Weekend
+Weekly Capacity,Weekly Capacity
+weekly capacity,weekly capacity
+Weekly Capacity (h),Weekly Capacity (h)
+Welcome,Welcome
+Welcome back!,Welcome back!
+Welcome to Orga,Welcome to Orga
+What are you working on?,What are you working on?
+What did you work on?,What did you work on?
+When,When
+When work begins,When work begins
+When work is due,When work is due
+Where,Where
+Will capture:,Will capture:
+Will create:,Will create:
+with checklist items,with checklist items
+Working,Working
+Workload,Workload
+Workmanship,Workmanship
+Write a comment...,Write a comment...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Write a comment... Use @name to mention (Ctrl+Enter to send)
+Year,Year
+Yes,Yes
+Yesterday,Yesterday
+yesterday,yesterday
+You are not an attendee of this appointment,You are not an attendee of this appointment
+You are not linked to any resource,You are not linked to any resource
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,You can only delete your own comments
+You can only delete your own reactions,You can only delete your own reactions
+You do not have access to the client portal. Please contact support.,You do not have access to the client portal. Please contact support.
+You have already reacted with '{0}',You have already reacted with '{0}'
+You have been assigned to task '{0}' in project '{1}'.,You have been assigned to task '{0}' in project '{1}'.
+You have been assigned to: {0},You have been assigned to: {0}
+You have been invited to the following appointment,You have been invited to the following appointment
+You have no tasks assigned to you right now.,You have no tasks assigned to you right now.
+You were mentioned in {0},You were mentioned in {0}
+Your attendance,Your attendance
+Your comment has been posted,Your comment has been posted
+Your Projects,Your Projects
+Your projects will appear here once they're assigned to you.,Your projects will appear here once they're assigned to you.
+Your Response,Your Response
+Your RSVP,Your RSVP
+Your support request has been submitted successfully.,Your support request has been submitted successfully.
+Your support request has been submitted successfully. We'll get back to you shortly.,Your support request has been submitted successfully. We'll get back to you shortly.
+"Your task ""{0}"" is no longer blocked and can now be started.","Your task ""{0}"" is no longer blocked and can now be started."
+{0} is required,{0} is required
+{0} new activities,{0} new activities
+{0} of {1} completed,{0} of {1} completed
+{0} projects already migrated (will be skipped or updated),{0} projects already migrated (will be skipped or updated)
+{0} status changed to {1},{0} status changed to {1}
+{0} tasks remaining,{0} tasks remaining
+{0} tasks without projects will be skipped,{0} tasks without projects will be skipped
+{0} {1} not found,{0} {1} not found

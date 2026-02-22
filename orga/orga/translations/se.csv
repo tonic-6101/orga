@@ -1,0 +1,1492 @@
++ Add Milestone,+ Lasit Mearrádusa
++ Create Task,+ Ráhkat Barggu
++ Log Time,+ Čále Áiggi
+-- Select a project --,-- Vállje prošeavtta --
+0m,0m
+1 day,1 beaivi
+1 day ago,1 beaivi dassái
+1 dependency,1 sorjavuohta
+1 entry,1 čállin
+1 file,1 fiila
+1 hour ago,1 diibmu dassái
+1 member,1 lahttu
+1 milestone,1 mearrádus
+1 month,1 mánnu
+1 task,1 bargu
+< 1m,< 1m
+"A clear, actionable title for the task",Čielga ja doaibmabuvttii bajilčála bargui
+A client with email {0} already exists: {1},Áššehas e-poasta-čujuhusain {0} lea juo gávdnamis: {1}
+A key deliverable or checkpoint for the project,Guovddáš bohtosat dahje dárkkistanbáiki prošeavttas
+Accept,Dohkket
+Accepted,Dohkkehuvvon
+Acknowledge,Duođašt
+across,rasttá
+Action,Doaibma
+Actions,Doaimmat
+Active,Aktiivvalaš
+Active Assignments,Aktiivvalaš juolludeamit
+Active Projects,Aktiivvalaš prošeavttat
+Activity,Doaibma
+Activity data deleted successfully,Doaimma dieđut leat lihppejuvvon lihkostuvvan
+Activity Info,Doaimma dieđut
+Activity Stats,Doaimma statistihkkat
+Activity will appear here as you work on tasks and projects.,Doaimmat čájehuvvojit dás go barggat bargguid ja prošeavttaid.
+Actual,Duohta
+Actual Cost,Duohta golut
+Actual cost cannot be negative,Duohta golut eai sáhte leat negatiivvalaččat
+Actual end date cannot be before actual start date,Duohta loahppabeavvi ii sáhte leat ovdal duohta álgobeavvi
+Actual Hours,Duohta diimmut
+Add,Lasit
+Add a checklist item...,Lasit dárkkistanlisttu oasi...
+Add a comment...,Lasit kommeantara...
+Add a comment... (Ctrl+Enter to send),Lasit kommeantara... (Ctrl+Enter sáddet)
+Add a description...,Lasit govvádusa...
+Add a milestone description...,Lasit mearrádusa govvádusa...
+Add a note below to annotate this activity.,Lasit čállosa vuollái dán doaimma čilgehussii.
+Add a note...,Lasit čállosa...
+Add a project description...,Lasit prošeavtta govvádusa...
+Add a task description...,Lasit barggu govvádusa...
+Add checklist item...,Lasit dárkkistanlisttu oasi...
+Add Contact,Lasit Oktavuođa
+Add contacts via the Desk interface or clear filters,Lasit oktavuođaid Desk bokte dahje sihko filttereid
+Add Dependency,Lasit Sorjavuođa
+Add details about this event...,Lasit dieđuid dán dáhpáhusa birra...
+Add details about this milestone...,Lasit dieđuid dán mearrádusa birra...
+Add details about this task...,Lasit dieđuid dán barggu birra...
+Add details or acceptance criteria for this milestone,Lasit dieđuid dahje dohkkehaneavttuid dán mearrádussii
+"Add details, context, or acceptance criteria","Lasit dieđuid, konteavstta, dahje dohkkehaneavttuid"
+Add first dependency,Lasit vuosttas sorjavuođa
+Add item,Lasit oasi
+Add items below to track progress.,Lasit oasit vuollái ovdáneami čuovvumii.
+Add items below to track subtasks,Lasit oasit vuollái vuollešbarggu čuovvumii
+Add Milestone,Lasit Mearrádusa
+Add Milestone (Shift+M),Lasit Mearrádusa (Shift+M)
+Add milestones to track key deliverables.,Lasit mearrádusaid guovddáš bohtosiid čuovvumii.
+Add New Contact,Lasit Ođđa Oktavuođa
+Add Note,Lasit Čállosa
+Add note,Lasit čállosa
+Add notes about this contact...,Lasit čállosiid dán oktavuođa birra...
+Add reaction,Lasit reageren
+Add Skill,Lasit Máhtu
+Add start and due dates to tasks to see them on the Gantt chart,Lasit álgu- ja áigerássi bargguid oidnumii Gantt-tabeallas
+Add Task,Lasit Barggu
+Add Task (Shift+T),Lasit Barggu (Shift+T)
+Added Finish-to-Start dependency,Loahppa-Álgui sorjavuohta lasihuvvon
+Adding this dependency would create a circular reference: {0},Dán sorjavuođa lasihemiin šaddá johtolat čujuhus: {0}
+Adding...,Lasihuvvo...
+Address,Čujuhus
+Advanced,Viidáset
+All,Buot
+All Active,Buot aktiivvalaččat
+All Assignees,Buot juolluduvvomat
+All Categories,Buot kategoriiját
+All caught up!,Buot lohkkojuvvon!
+All Contexts,Buot konteavsttat
+All day,Olles beaivi
+All day event,Olles beaivve dáhpáhus
+All fields,Buot gieddut
+All Priorities,Buot vuoruheamit
+All Projects,Buot prošeavttat
+All Status,Buot dilálašvuođat
+All Statuses,Buot dilálašvuođat
+All task dependencies & relative dates,Buot barggu sorjavuođat ja relatiivvalaš beaivemearat
+All Tasks,Buot barggut
+All tasks across all projects.,Buot barggut buot prošeavttain.
+All tasks are already linked,Buot barggut leat juo liŋkkejuvvon
+All team members,Buot joavkku lahtut
+All Types,Buot šlájat
+All Users,Buot geavaheaddjit
+Allocated,Juolluduvvon
+allocated,juolluduvvon
+Allow users to log time against tasks,Lohpi geavaheaddjiid čállit áiggi bargguid ektui
+Already exported to timesheet {0},Juo eksporterejuvvon áigetábeallii {0}
+Already Migrated,Juo sirdon
+Anyone with access,Juohkehaš geain lea beassan
+anytime to show this help,goassege čájehit dán veahki
+App Updates,App Updates
+Appearance,Olggosoaidnu
+Apply,Geavat
+Apply cascade?,Geavat čuovganjohtin?
+Apply Changes,Geavat Rievdadusaid
+Apply failed,Geavaheapmi ii lihkostuvvan
+Apply Template,Geavat Málle
+Applying...,Geavahuvvo...
+Appointment,Soahpamušš
+Appointment and resource are required,Soahpamušš ja resursa dárbbašuvvojit
+Appointment name is required,Soahpamuša namma dárbbašuvvo
+Appointment not found,Soahpamušš ii gávdnon
+Appointment {0} not found,Soahpamušš {0} ii gávdnon
+Apps,Applikašuvnnat
+Archive,Arkiivva
+Archive Activity,Arkivere Doaimma
+Archived,Arkiverejuvvon
+Are you sure you want to delete this activity data? This cannot be undone.,Leatgo sihkar ahte háliidat sihkkut dán doaimma dieđuid? Dát ii sáhte máhcahuvvot.
+Are you sure you want to delete this comment?,Leatgo sihkar ahte háliidat sihkkut dán kommeantara?
+Are you sure you want to delete this project?,Leatgo sihkar ahte háliidat sihkkut dán prošeavtta?
+Are you sure?,Leatgo sihkar?
+Ascending -- click to reverse,Bajás -- coahkkal jorgalit
+Assign To,Juollet
+Assign to Me,Juollet Munnje
+Assigned Contact,Juolluduvvon Oktavuohta
+Assigned To,Juolluduvvon
+Assigned to,Juolluduvvon
+Assigned to Me,Juolluduvvon munnje
+Assignee,Juolluduvvon olmmoš
+Assignment,Juolludeapmi
+Assignment History,Juolludeami historjá
+Assignment name is required,Juolludeami namma dárbbašuvvo
+Assignment {0} not found,Juolludeapmi {0} ii gávdnon
+Assignments,Juolludeamit
+At least one action is required,Unnimustá okta doaibma dárbbašuvvo
+At least one event is required,Unnimustá okta dáhpáhus dárbbašuvvo
+At least one event must be selected,Unnimustá okta dáhpáhus ferte válljejuvvot
+Attachment,Mielddusat
+Attachments,Mielddusasat
+Attendees,Oasseváldit
+"Audit trail, assignments, version history","Dárkkistanluodda, juolludeamit, veršuvdnahistorjá"
+Auto,Automáhtalaš
+Auto Calculate Progress,Automáhtalaččat Rehkenastte Ovdáneami
+Auto Set Missed Milestones,Automáhtalaččat Mearkkiš Massojuvvon Mearrádusaid
+Auto-shift dependents when dates change,Automáhtalaččat sirde sorjavaččaid go beaivemearat rievdaduvvojit
+Auto-Trail Start,Automáhtalaš Njuikimálgu
+Auto-Trail updated,Automáhtalaš njuikin ođasmahttojuvvon
+Automatically calculate project progress from task completion,Automáhtalaččat rehkenastte prošeavtta ovdáneami bargguid gárvvistemiid vuođul
+Automatically mark milestones as missed when overdue,Automáhtalaččat mearkkiš mearrádusaid massojuvvon go áigerássi lea vássán
+Automation rule {0} not found,Automatiserenjuolga {0} ii gávdnon
+Automation: {0},Automatiseren: {0}
+Availability,Olamuttisvuohta
+Available,Olámuttus
+Avatar updated successfully,Govva ođasmahttojuvvon lihkostuvvan
+Avg Progress,Gaskaárvvu ovdáneapmi
+Back,Máhcca
+Back to Portal,Máhcca Portálii
+Back to Projects,Máhcca Prošeavttaide
+Beginner,Álggovuolggalaš
+Best regards,Buoremus dearvvuođat
+Billable,Rehkenastojuvvo
+Billable Amount,Rehkenastojuvvon mearri
+Billable Hours,Rehkenastojuvvon diimmut
+Billable Rate,Rehkenastojuvvon rádji
+Billing Rate,Máksima rádji
+Blocked,Eastojuvvon
+Both dates are needed to display task as a bar in Gantt chart,Goappat beaivemearat dárbbašuvvojit barggu čájehemii bálkán Gantt-tabeallas
+Both doctype and docname are required,Sihke doctype ja docname dárbbašuvvojit
+Both proposed start and end times are required,Sihke evttohuvvon álgu- ja loahppaáiggit dárbbašuvvojit
+Both task_name and depends_on are required,Sihke task_name ja depends_on dárbbašuvvojit
+Breadcrumb,Láibemuorri
+Brief description of the defect or damage,Oanehis govvádus feailla dahje vahága birra
+Brief description of this template,Oanehis govvádus dán málle birra
+Brief description of your request,Oanehis govvádus du ohcamu birra
+Brief project description,Oanehis prošeavtta govvádus
+Budget,Bušeahtta
+Budget at risk,Bušeahtta lea váráladdji
+Budget Burn Rate,Bušeahta geavahanrádji
+Budget Status,Bušeahta dilli
+Budget updated,Bušeahtta ođasmahttojuvvon
+Budget:,Bušeahtta:
+Bug,Feaila
+Burn Rate,Geavahanrádji
+Busy,Galbma
+By,Bokte
+By Assignee,Juolluduvvon olbmo mielde
+By Group,Joavkku mielde
+By Milestone,Mearrádusa mielde
+By Priority,Vuoruheami mielde
+By Status,Dilálašvuođa mielde
+Cancel,Šluhtte
+Cancelled,Šluhttejuvvon
+cannot be undone,ii sáhte máhcahuvvot
+Cannot delete client with {0} linked projects. Unlink projects first.,Ii sáhte sihkkut áššehasa main leat {0} liŋkkejuvvon prošeavtta. Sirre prošeavttaid ovdal.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Ii sáhte sihkkut prošeavtta main leat {0} liŋkkejuvvon barggu. Sihkku bargguid ovdal.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Ii sáhte sihkkut resursa main leat {0} aktiivvalaš juolludeami. Gárvviš dahje šluhtte ovdal.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Ii sáhte sihkkut barggu main leat {0} vuollebargu. Sihkku vuollebargguid ovdal.
+Capacity,Kapasitehta
+capacity,kapasitehta
+Capacity & Rates,Kapasitehta ja rádjit
+Capture project structure for reuse,Vurke prošeavtta ráhkadusa ođđasitgeavaheami várás
+Cascade,Čuovganjohtin
+Cascade Preview,Čuovganjohtin ovdagáttu
+Category,Kategoriija
+Celebrate,Ávvudit
+Change,Rievdat
+Change History,Rievdadushistorjá
+Change Priority,Rievdat Vuoruheami
+Change Status,Rievdat Dilálašvuođa
+Changes,Rievdadusat
+Changes appear when fields are modified.,Rievdadusat čájehuvvojit go gieddut rievdaduvvojit.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Dárkkistanlistu
+Checklist item name is required,Dárkkistanlisttu oasi namma dárbbašuvvo
+Checklist item not found,Dárkkistanlisttu oassi ii gávdnon
+Checklist item title is required,Dárkkistanlisttu oasi bajilčála dárbbašuvvo
+Checklist item {0} not found,Dárkkistanlisttu oassi {0} ii gávdnon
+Checklist item {0} not found in task,Dárkkistanlisttu oassi {0} ii gávdnon barggus
+Child,Mánná
+Choose file to upload,Vállje fiilla viežžamii
+Circular dependency detected: {0},Johtolat sorjavuohta gávdnon: {0}
+Circular parent-child relationship detected,Johtolat váhnen-mánná oktavuohta gávdnon
+Clear,Sihko
+Clear all read,Sihko buot lohkkojuvvon
+Clear date,Sihko beaivemeari
+Click on an activity from the list to view and manage its details.,Coahkkal doaimma listtas oaidnit ja hálddašit dan dieđuid.
+Click the avatar to upload a new photo,Coahkkal gova viežžat ođđa gova
+Click to add description...,Coahkkal lasihit govvádusa...
+Click to add notes...,Coahkkal lasihit čállosiid...
+Click to assign contact,Coahkkal juolludit oktavuođa
+Click to change status,Coahkkal rievdadit dilálašvuođa
+Click to change type,Coahkkal rievdadit šlája
+Click to edit,Coahkkal rievdadit
+Click to edit budget,Coahkkal rievdadit bušeahta
+Click to edit description,Coahkkal rievdadit govvádusa
+Click to edit end date,Coahkkal rievdadit loahppabeavvi
+Click to edit milestone name,Coahkkal rievdadit mearrádusa nama
+Click to edit rate,Coahkkal rievdadit ráji
+Click to edit start date,Coahkkal rievdadit álgobeavvi
+Click to edit title,Coahkkal rievdadit bajilčála
+Click to load,Coahkkal viežžat
+Click to set group dependency...,Coahkkal bidjat joavkkusorjavuođa...
+Click to set group...,Coahkkal bidjat joavkku...
+Click to view,Coahkkal oaidnit
+Click to view at-risk projects,Coahkkal oaidnit váráladdji prošeavttaid
+Click to view critical projects,Coahkkal oaidnit kritihkalaš prošeavttaid
+Click to view healthy projects,Coahkkal oaidnit dearvvašlaš prošeavttaid
+Client,Áššehas
+Client already has a portal user: {0},Áššehasas lea juo portálageavaheaddji: {0}
+Client already has portal access,Áššehasas lea juo portálabeassan
+Client has no portal user to revoke,Áššehasas ii leat portálageavaheaddji maid válddet eret
+Client link removed from project {0},Áššehasa liŋkka váldojuvvon eret prošeavttas {0}
+Client Portal,Áššehasa Portála
+Client {0} deleted successfully,Áššehas {0} sihkkojuvvon lihkostuvvan
+Close,Gidde
+Close (Esc),Gidde (Esc)
+Comment,Kommeantár
+comment,kommeantár
+Comment added,Kommeantár lasihuvvon
+Comment content is required,Kommeantára sisdoallu dárbbašuvvo
+Comment name is required,Kommeantára namma dárbbašuvvo
+Comment not found,Kommeantár ii gávdnon
+Comment removed,Kommeantár váldojuvvon eret
+Comment {0} not found in task,Kommeantár {0} ii gávdnon barggus
+Comments,Kommeantárat
+comments,kommeantárat
+Community Edition,Community Edition
+Company,Fitnodahka
+Company name...,Fitnodaga namma...
+Complete,Gárvviš
+Completed,Gárvvis
+completed,gárvvistuvvon
+Completed Tasks,Gárvvistuvvon barggut
+Compliance,Čuovvun
+Configure default values for new projects and tasks,Heivet vuođđoárvvuid ođđa prošeavttaide ja barggude
+Configure email notification settings,Heivet e-poasta dieđáhusheivehusat
+Confirm,Sihkkarastte
+Contact deleted,Oktavuohta sihkkojuvvon
+Contact Details,Oktavuođa dieđut
+Contact Information,Oktavuohtadieđut
+Contact name is required,Oktavuođa namma dárbbašuvvo
+Contact Support,Váldde Oktavuođa Doarjjiin
+Contact your project manager for more information.,Váldde oktavuođa prošeavttajođiheddjiinis eanet dieđuid várás.
+Contact:,Oktavuohta:
+Contacts,Oktavuođat
+Context,Konteavstta
+Contractor,Osiidoalli
+Cost estimate cannot be negative,Golloárvvoštallan ii sáhte leat negatiivvalaš
+Cost Impact,Gollovaikuhus
+Cost Summary,Golločoahkkáigeassu
+Could not apply the template. Please try again.,Ii lihkostuvvan geavahit málle. Geahččal ođđasit.
+Could not attach file to project,Ii lihkostuvvan mielddusdahkat fiilla prošeavttii
+Could not change task priority,Ii lihkostuvvan rievdadit barggu vuoruheami
+Could not change task status,Ii lihkostuvvan rievdadit barggu dilálašvuođa
+Could not delete the project. Please try again.,Ii lihkostuvvan sihkkut prošeavtta. Geahččal ođđasit.
+Could not delete the task. Please try again.,Ii lihkostuvvan sihkkut barggu. Geahččal ođđasit.
+Could not delete the template.,Ii lihkostuvvan sihkkut málle.
+Could not duplicate the task. Please try again.,Ii lihkostuvvan máŋggudit barggu. Geahččal ođđasit.
+Could not export the template.,Ii lihkostuvvan eksporterejit málle.
+Could not import the template. Please check the file format.,Ii lihkostuvvan importerejit málle. Dárkkis fiillaformáhta.
+Could not link task to milestone,Ii lihkostuvvan liŋkkejit barggu mearrádussii
+Could not load document details.,Ii lihkostuvvan viežžat dokumeantta dieđuid.
+Could not load task details,Ii lihkostuvvan viežžat barggu dieđuid
+Could not promote checklist item to task.,Ii lihkostuvvan loktet dárkkistanlisttu oasi bargun.
+Could not remove task from milestone,Ii lihkostuvvan válddit barggu mearrádusas eret
+Could not save budget.,Ii lihkostuvvan vurket bušeahta.
+Could not save changes to the milestone,Ii lihkostuvvan vurket rievdadusaid mearrádussii
+Could not save changes to the task,Ii lihkostuvvan vurket rievdadusaid bargui
+Could not save description.,Ii lihkostuvvan vurket govvádusa.
+Could not save end date.,Ii lihkostuvvan vurket loahppabeavvi.
+Could not save milestone name.,Ii lihkostuvvan vurket mearrádusa nama.
+Could not save start date.,Ii lihkostuvvan vurket álgobeavvi.
+Could not save the template. Please try again.,Ii lihkostuvvan vurket málle. Geahččal ođđasit.
+Could not save title.,Ii lihkostuvvan vurket bajilčála.
+Could not update dependency mode.,Ii lihkostuvvan ođasmahttit sorjavuohtavuogi.
+Could not update milestone date,Ii lihkostuvvan ođasmahttit mearrádusa beaivemeari
+Could not update project status.,Ii lihkostuvvan ođasmahttit prošeavtta dilálašvuođa.
+Could not update project type.,Ii lihkostuvvan ođasmahttit prošeavtta šlája.
+Could not update setting.,Ii lihkostuvvan ođasmahttit heivehusat.
+Could not update task dates,Ii lihkostuvvan ođasmahttit barggu beaivemearaid
+Could not update task status,Ii lihkostuvvan ođasmahttit barggu dilálašvuođa
+Could not update the template.,Ii lihkostuvvan ođasmahttit málle.
+Create a copy of this task,Ráhkat kopia dán barggus
+Create Contact,Ráhkat Oktavuođa
+Create Event,Ráhkat Dáhpáhusa
+Create Milestone,Ráhkat Mearrádusa
+Create New Milestone,Ráhkat Ođđa Mearrádusa
+Create New Task,Ráhkat Ođđa Barggu
+Create Project,Ráhkat Prošeavtta
+Create Task,Ráhkat Barggu
+Create tasks and milestones from a template,Ráhkat bargguid ja mearrádusaid málles
+Create your first project to get started.,Ráhkat vuosttas prošeavttadat álgimii.
+Create your first task to start tracking work on this project.,Ráhkat vuosttas barggudat čuovvut dán prošeavtta barggu.
+Created,Ráhkaduvvon
+Creating...,Ráhkaduvvo...
+Critical,Kritihkalaš
+Critical Path,Kritihkalaš Luodda
+"Currency used for budgets, costs, and billing rates","Valuhtta mii geavahuvvo bušeahtaide, goluide ja máksima rádjide"
+Current,Dálááigge
+Current Assignments,Dálááigge juolludeamit
+Current scheduled time:,Dálááigge plánejuvvon áigi:
+Currently running version,Currently running version
+d lag,b maŋŋoneapmi
+Daily Availability,Beaivválaš olamuttisvuohta
+Daily Hours,Beaivválaš diimmut
+Danger Zone,Váráladdji guovlu
+Dark,Seavdnjat
+Dashboard,Stivrengođđi
+Date,Beaivemearri
+Date changes on this task will show cascade impact here,Beaivemearrerievdadusat dán barggus čájehit čuovganjohtin váikkuhusa dás
+Date cleared,Beaivemearri sihkkojuvvon
+Date of Joining,Álgobeavvi
+Date updated,Beaivemearri ođasmahttojuvvon
+Dates,Beaivemearat
+Dates cascaded,Beaivemearat čuovganjohtejuvvon
+Dates will be relative to the project's start date.,Beaivemearat leat relatiivvalaččat prošeavtta álgobeavvái.
+Day,Beaivi
+day,beaivi
+days,beaivvit
+Days before due date to send reminder,Beaivvit ovdal áigerássi sáddet muittuhusa
+Days Overdue,Beaivvit maŋŋil áigerássi
+Days Remaining,Beaivvit guđđon
+Deadline,Áigerássi
+Deadlines,Áigerásit
+Decision,Mearrádus
+Decline,Biehttal
+Declined,Biehttaluvvon
+Default Currency,Vuođđovaluhtta
+Default hours per week for contact capacity planning,Vuođđodiimmut vahkkui oktavuođa kapasitehtaplánema várás
+Default Priority,Vuođđovuoruheapmi
+Default Project Status,Vuođđo prošeavttadilálašvuohta
+Default Task Status,Vuođđo barggudilálašvuohta
+Default task view,Vuođđo barggučájeheapmi
+Default Values,Vuođđoárvvut
+Default Weekly Capacity,Vuođđo vahkkosaš kapasitehta
+Defaults,Vuođđoárvvut
+Defect Cost Impact,Feailla gollováikkuhus
+Defect name is required,Feailla namma dárbbašuvvo
+Defect Type,Feaillašládja
+Defect {0} not found,Feaila {0} ii gávdnon
+Defects,Feaillat
+Defects & Issues,Feaillat ja čuolmmat
+Defects Resolved,Divvojuvvon feaillat
+Delayed,Maŋŋiduvvon
+Delete,Sihkku
+Delete Activity Data,Sihkku Doaimma Dieđuid
+Delete all read notifications?,Sihkkut buot lohkkojuvvon dieđáhusaid?
+Delete comment,Sihkku kommeantára
+Delete Contact,Sihkku Oktavuođa
+Delete Event,Sihkku Dáhpáhusa
+Delete Event?,Sihkku Dáhpáhusa?
+Delete failed,Sihkkun ii lihkostuvvan
+Delete file,Sihkku fiilla
+Delete item,Sihkku oasi
+Delete note,Sihkku čállosa
+Delete Project,Sihkku Prošeavtta
+Delete Task,Sihkku Barggu
+Delete this project,Sihkku dán prošeavtta
+Deleted,Sihkkojuvvon
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Sihkkojuvvon prošeavtta ""{0}"" ({1} barggu, {2} mearrádusa)"
+Deletes notes and preferences. Source document is not affected.,Sihkku čállosiid ja válljejumiid. Gáldudokumeantta ii váikkuhuvvo.
+Deleting...,Sihkkojuvvo...
+Department,Ossodahka
+Dependencies,Sorjavuođat
+dependencies,sorjavuođat
+Dependencies are informational only,Sorjavuođat leat dušše diehtudieđut
+dependency,sorjavuohta
+Dependency already exists,Sorjavuohta lea juo gávdnamis
+Dependency Chain,Sorjavuohtačuolbma
+Dependency created,Sorjavuohta ráhkaduvvon
+Dependency mode updated,Sorjavuohtavuohki ođasmahttojuvvon
+Dependency name is required,Sorjavuođa namma dárbbašuvvo
+Dependency task {0} not found,Sorjavuohtabargu {0} ii gávdnon
+Dependency {0} not found,Sorjavuohta {0} ii gávdnon
+depends,sorjá
+Depends on Group,Sorjavaš Joavkkus
+Depends on task is required,Sorjavaš bargu dárbbašuvvo
+depends on...,sorjá...
+Descending -- click to reverse,Vuolás -- coahkkal jorgalit
+Describe the defect in detail...,Govvit feailla dárkileappot...
+Description,Govvádus
+Description updated,Govvádus ođasmahttojuvvon
+Designation,Nammadeapmi
+"Detailed description of the defect, location, and impact","Dárkilgovvádus feaillas, sajis ja váikkuhusas"
+Details,Dieđut
+Discard timer,Luobat áigemihtidanmáhkku
+Discussion,Digaštallan
+Dismiss,Dismiss
+Display,Čájeheapmi
+Document,Dokumeantta
+Document attached to project,Dokumeantta mielddusdahkkon prošeavttii
+Document final decision and rationale,Dokumentere loahpalaš mearrádusa ja ákkaid
+Documentation Review,Dokumentašuvdnaiskkan
+Documents,Dokumeanttát
+Done,Gárvvis
+Download,Viečča
+Drag to create dependency,Gease ráhkadit sorjavuođa
+Dry Run,Geahččalanjohtolahka
+Dry Run Complete,Geahččalanjohtolahka gárvvis
+Due Date,Áigerássi
+Due date,Áigerássi
+Due Date (Earliest),Áigerássi (áramus)
+Due date cannot be before start date,Áigerássi ii sáhte leat ovdal álgobeavvi
+Due date is in the past,Áigerássi lea vássán
+Due Date Reminders,Áigerássimuittuhussat
+Due Diligence,Vuđolaš Dárkkisteapmi
+Due Diligence Checklist,Vuđolaš Dárkkisteami Dárkkistanlistu
+Due This Week,Áigerássi dán vahkus
+Due:,Áigerássi:
+Duplicate events are not allowed,Máŋggiduvvon dáhpáhusat eai leat lohpiduvvon
+Duplicate failed,Máŋggudeapmi ii lihkostuvvan
+Duplicate Task,Máŋggut Barggu
+Duration,Bisteahtti
+Duration Summary,Bisteahttičoahkkáigeassu
+Duration:,Bisteahtti:
+e.g. Cracked wall finish in bathroom...,omd. Ráigánan seaidnedikšun lávddis...
+"e.g. Electrical, Plumbing...","omd. Elektrovdna, Čáhci..."
+Edit,Rievdat
+Edit (E),Rievdat (E)
+Edit dependency,Rievdat sorjavuođa
+Edit Event,Rievdat Dáhpáhusa
+Efficiency,Beaktilvuohta
+Either dependency_name or depends_on is required,dependency_name dahje depends_on dárbbašuvvo
+Email,E-poasta
+Email invitations to all attendees,E-poasta bovdehussat buot oasseváldiide
+Email is required to create portal user,E-poasta dárbbašuvvo portálageavaheaddji ráhkadeapmái
+Email notifications,E-poasta dieđáhusat
+Employee,Bargi
+Employee DocType not available,Bargi DocType ii gávdno
+Employee not found,Bargi ii gávdnon
+Enable or disable optional features,Dohkket dahje alde válljenmuttiid
+Enable Time Tracking,Dohkket Áigečuovvuma
+End,Loahppa
+End Date,Loahppabeavvi
+End date,Loahppabeavvi
+End Date cannot be before Start Date,Loahppabeavvi ii sáhte leat ovdal Álgobeavvi
+End date cannot be before start date,Loahppabeavvi ii sáhte leat ovdal álgobeavvi
+End date updated,Loahppabeavvi ođasmahttojuvvon
+End time was before start time. Adjusted to 1 hour after start.,Loahppaáigi lei ovdal álgoáigge. Heivehuvvon 1 diibmu maŋŋil álggu.
+End:,Loahppa:
+Enter milestone name...,Čále mearrádusa nama...
+Enter project name,Čále prošeavtta nama
+Enter task title...,Čále barggu bajilčála...
+Enter template name,Čále málle nama
+Enter your note... Use @name to mention someone,Čále čállosat... Geavat @namma namuhit muhtin olbmo
+Error,Feaila
+Error loading activity,Feaila doaimma viežžamis
+Error loading contacts,Feaila oktavuođaid viežžamis
+Error loading dashboard,Feaila stivrengođđi viežžamis
+Error loading project,Feaila prošeavtta viežžamis
+Error loading projects,Feaila prošeavttaid viežžamis
+Error loading settings,Feaila heivehusaid viežžamis
+Error loading tasks,Feaila bargguid viežžamis
+Error loading templates,Feaila málliid viežžamis
+Est. Hours,Árvv. diimmut
+Estimated,Árvvoštallon
+Estimated Cost,Árvvoštallon golut
+Estimated Cost (€),Árvvoštallon golut (€)
+Estimated Hours,Árvvoštallon diimmut
+Estimated:,Árvvoštallon:
+Evaluate potential risks and concerns,Árvvoštalat vejolaš riskaid ja fuolahusaid
+Event,Dáhpáhus
+Event is required for event context,Dáhpáhus dárbbašuvvo dáhpáhuskonteavsttas
+Event is required when tracking context is 'event',Dáhpáhus dárbbašuvvo go čuovvunkonteavstta lea 'dáhpáhus'
+Event Type,Dáhpáhusšládja
+Events,Dáhpáhusat
+Events not available. Please run: bench --site orga.localhost migrate,Dáhpáhusat eai gávdno. Čađat: bench --site orga.localhost migrate
+Events:,Dáhpáhusat:
+Expert,Áššedovdi
+Explain why you are proposing a different time...,Čilge manin evttohat earálágan áiggi...
+Export,Eksportere
+Export failed,Eksporteren ii lihkostuvvan
+Export JSON,Eksportere JSON
+Exported,Eksporterejuvvon
+Exported to timesheet {0},Eksporterejuvvon áigetábeallii {0}
+External,Olgguldas
+Failed to add item,Ii lihkostuvvan lasihit oasi
+Failed to add note,Ii lihkostuvvan lasihit čállosa
+Failed to add skill,Ii lihkostuvvan lasihit máhtu
+Failed to apply cascade changes: {0},Ii lihkostuvvan geavahit čuovganjohtin rievdadusaid: {0}
+Failed to create defect,Ii lihkostuvvan ráhkadit feailla
+Failed to create dependency,Ii lihkostuvvan ráhkadit sorjavuođa
+Failed to create event,Ii lihkostuvvan ráhkadit dáhpáhusa
+Failed to create milestone,Ii lihkostuvvan ráhkadit mearrádusa
+Failed to create project,Ii lihkostuvvan ráhkadit prošeavtta
+Failed to create task,Ii lihkostuvvan ráhkadit barggu
+Failed to create time log,Ii lihkostuvvan ráhkadit áigečállima
+Failed to delete,Ii lihkostuvvan sihkkut
+Failed to delete comment,Ii lihkostuvvan sihkkut kommeantára
+Failed to delete contact,Ii lihkostuvvan sihkkut oktavuođa
+Failed to load,Ii lihkostuvvan viežžat
+Failed to load activity,Ii lihkostuvvan viežžat doaimma
+Failed to load assignments,Ii lihkostuvvan viežžat juolludeamiid
+Failed to load contact,Ii lihkostuvvan viežžat oktavuođa
+Failed to load dashboard data,Ii lihkostuvvan viežžat stivrengođđi dieđuid
+Failed to load defects,Ii lihkostuvvan viežžat feaillaid
+Failed to load events,Ii lihkostuvvan viežžat dáhpáhusaid
+Failed to load project,Ii lihkostuvvan viežžat prošeavtta
+Failed to load projects,Ii lihkostuvvan viežžat prošeavttaid
+Failed to load report data,Ii lihkostuvvan viežžat raportadieđuid
+Failed to load settings,Ii lihkostuvvan viežžat heivehusaid
+Failed to load tasks,Ii lihkostuvvan viežžat bargguid
+Failed to move task,Ii lihkostuvvan sirdit barggu
+Failed to post comment,Ii lihkostuvvan almmustahtit kommeantára
+Failed to propose new time,Ii lihkostuvvan evttohit ođđa áiggi
+Failed to remove item,Ii lihkostuvvan válddit oasi eret
+Failed to remove skill,Ii lihkostuvvan válddit máhtu eret
+Failed to reorder milestones: {0},Ii lihkostuvvan ortnegoahtit mearrádusaid ođđasit: {0}
+Failed to reorder tasks: {0},Ii lihkostuvvan ortnegoahtit bargguid ođđasit: {0}
+Failed to reschedule dependent tasks: {0},Ii lihkostuvvan plánet ođđasit sorjavaš bargguid: {0}
+Failed to save,Ii lihkostuvvan vurket
+Failed to save preferences,Ii lihkostuvvan vurket válljejumiid
+Failed to save settings,Ii lihkostuvvan vurket heivehusaid
+Failed to submit request. Please try again.,Ii lihkostuvvan sáddet ohcamu. Geahččal ođđasit.
+Failed to update item,Ii lihkostuvvan ođasmahttit oasi
+Failed to update priority,Ii lihkostuvvan ođasmahttit vuoruheami
+Failed to update task,Ii lihkostuvvan ođasmahttit barggu
+Failed to update tasks: {0},Ii lihkostuvvan ođasmahttit bargguid: {0}
+Failed to upload avatar,Ii lihkostuvvan viežžat gova
+Feature,Iešvuohta
+Features,Iešvuođat
+FF (Finish-Finish),FF (Loahppa-Loahppa)
+FF - Finish-to-Finish,FF - Loahppa-Loahpii
+Field has been updated,Giehtu lea ođasmahttojuvvon
+Field name is required for 'Set Field Value' action,Gieđa namma dárbbašuvvo 'Bidje Gieđaárvvu' doibmii
+Field {0} is not a Link field,Giehtu {0} ii leat Liŋkkagiehtu
+Field {0} not found in {1},Giehtu {0} ii gávdnon {1}:s
+File,Fiila
+file,fiila
+File does not belong to this task,Fiila ii gula dán bargui
+File name is required,Fiilla namma dárbbašuvvo
+File uploaded,Fiila viežžojuvvon
+File {0} not found,Fiila {0} ii gávdnon
+Files,Fiillat
+files,fiillat
+Filter,Sille
+Final Decision,Loahpalaš Mearrádus
+Finance,Ruhtadoaibma
+Financial,Ruhtadoaibmalaš
+Finish-to-Finish,Loahppa-Loahpii
+Finish-to-Start,Loahppa-Álgui
+Flag,Leavga
+Flag for attention,Mearkkiš fuomášumiid várás
+Flagged,Mearkkašuvvon
+Focus Panel,Fokuserengođđi
+Follows your system preference. Currently:,Čuovvu du vuogádatválljejumi. Dál:
+Frappe Project {0} not found,Frappe prošeavtta {0} ii gávdnon
+Frappe Projects Migration,Frappe Projects Sirdin
+Frappe Projects module not available,Frappe Projects modula ii gávdno
+Frappe Projects module not installed,Frappe Projects modula ii leat ásahuvvon
+Frappe Projects sync is not enabled,Frappe Projects syngkroniseren ii leat dohkkehuvvon
+Frappe Task DocType not found,Frappe Barggu DocType ii gávdnon
+Frappe Task has no project,Frappe Barggus ii leat prošeavtta
+Frappe Task {0} not found,Frappe Bargu {0} ii gávdnon
+Fri,Bear
+From,Rájes
+From Template,Málles
+FS (Finish-Start),FS (Loahppa-Álgu)
+FS - Finish-to-Start (default),FS - Loahppa-Álgui (vuođđo)
+Full form view with audit trail,Olles skoviičájeheapmi dárkkistanluoddain
+Full name,Olles namma
+Gantt,Gantt
+Gantt Chart,Gantt-tabealla
+Gantt View,Gantt-čájeheapmi
+General Note,Dábálaš Čálus
+Get started,Álgge
+Go back,Mana ruovttoluotta
+Go Back,Go Back
+Group by,Joavkkus
+Group dependency removed,Joavkkusorjavuohta váldojuvvon eret
+Group dependency set,Joavkkusorjavuohta biddjojuvvon
+Group removed,Joavku váldojuvvon eret
+Group updated,Joavku ođasmahttojuvvon
+Hammock task dates are auto-calculated and cannot be changed manually,Hámmogbarggu beaivemearat rehkenastojuvvojit automáhtalaččat ja eai sáhte rievdaduvvot gieđaidlahkái
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Leatgo dus gažaldat dahje dárbbašatgo veahkki? Devdde skoviira vuollái ja min joavku váldá du oktii.
+Health,Dearvvašvuohta
+Healthy,Dearvvašlaš
+Hello {0},Dearvva {0}
+Here's what's happening with your projects today.,Dá lea mii dáhpáhuvvá du prošeavttain odne.
+Hide,Čiega
+High,Alla
+History,Historjá
+Home,Ruoktu
+Hourly Cost,Diibmugollu
+Hours,Diimmut
+hours,diimmut
+Hours Logged,Čállojuvvon diimmut
+ID,ID
+Image must be smaller than 5 MB,Govva ferte leat unnit go 5 MB
+Import,Importere
+Import existing projects and tasks from Frappe Projects module,Importere gávdni prošeavttaid ja bargguid Frappe Projects modulas
+Import failed,Importeren ii lihkostuvvan
+Import Template,Importere Málle
+Imported,Importerejuvvon
+in,siste
+In Progress,Joatkamis
+In Review,Iskamis
+In-app notifications,Applikašuvnna siskkobealde dieđáhusat
+Inactive,Eaaktivalaš
+Initial Review,Álgo iskkan
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Váilevaš lohpit oaidnit buot bargguid
+Intermediate,Gaskaárvosaš
+Internal,Siskkobealde
+Invalid DocType,Guohtameahttun DocType
+Invalid DocType for import,Guohtameahttun DocType importeremii
+Invalid item type: {0},Guohtameahttun oasešládja: {0}
+Invalid JSON data,Guohtameahttun JSON dieđut
+Invalid note type. Must be one of: {0},Guohtameahttun čállosšládja. Ferte leat okta sis: {0}
+Invalid project reference,Guohtameahttun prošeavttačujuhus
+Invalid reaction type. Must be one of: {0},Guohtameahttun reagerenšládja. Ferte leat okta sis: {0}
+Invalid RSVP status,Guohtameahttun RSVP dilálašvuohta
+Invalid status. Must be one of: {0},Guohtameahttun dilálašvuohta. Ferte leat okta sis: {0}
+Invalid status: {0},Guohtameahttun dilálašvuohta: {0}
+Invalid status: {0}. Must be one of: {1},Guohtameahttun dilálašvuohta: {0}. Ferte leat okta sis: {1}
+Invalid tracking context: {0},Guohtameahttun čuovvunkonteavstta: {0}
+Invalid visibility. Must be one of: {0},Guohtameahttun oidnomvuohta. Ferte leat okta sis: {0}
+Invitation: {0} - {1} at {2},Bovdehus: {0} - {1} {2}:s
+Invite People,Bovdde Olbmuid
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Oassi lasihuvvon
+Item ID is required,Oasi ID dárbbašuvvo
+Item removed,Oassi váldojuvvon eret
+Item type is required,Oasešládja dárbbašuvvo
+Item {0} not found,Oassi {0} ii gávdnon
+Job title or role,Bargonamma dahje rolla
+Join Meeting,Searvva Čoahkkimii
+Just now,Dáid dáid
+just now,dáid dáid
+Kanban,Kanban
+Kanban Board,Kanban-gođđi
+Kanban View,Kanban-čájeheapmi
+Keyboard Shortcuts,Boallobeavdeoanehasat
+Keyboard shortcuts (?),Boallobeavdeoanehasat (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Maŋemus ođasmahttojuvvon
+Last updated:,Maŋemus ođasmahttojuvvon:
+Last Week,Mannan vahkku
+Latest Version,Latest Version
+Light,Čuvges
+Link failed,Liŋkken ii lihkostuvvan
+Link Task,Liŋkke Barggu
+Linked,Liŋkkejuvvon
+Linked employee not found,Liŋkkejuvvon bargi ii gávdnon
+Linked Tasks,Liŋkkejuvvon barggut
+List,Listu
+List View,Listuoaidnu
+Load failed,Viežžan ii lihkostuvvan
+Load More,Viečča Eanet
+Load more comments,Viečča eanet kommeantáraid
+Loading activity...,Viežžá doaimma...
+Loading changes...,Viežžá rievdadusaid...
+Loading checklist...,Viežžá dárkkistanlisttu...
+Loading comments...,Viežžá kommeantáraid...
+Loading contact...,Viežžá oktavuođa...
+Loading contacts...,Viežžá oktavuođaid...
+Loading dependencies...,Viežžá sorjavuođaid...
+Loading details...,Viežžá dieđuid...
+Loading discussion...,Viežžá digaštallan...
+Loading events...,Viežžá dáhpáhusaid...
+Loading files...,Viežžá fiillaid...
+Loading notes...,Viežžá čállosiid...
+Loading preferences...,Viežžá válljejumiid...
+Loading project...,Viežžá prošeavtta...
+Loading projects...,Viežžá prošeavttaid...
+Loading replies...,Viežžá vástádusaid...
+Loading report data...,Viežžá raportadieđuid...
+Loading settings...,Viežžá heivehusaid...
+Loading task...,Viežžá barggu...
+Loading templates...,Viežžá málliid...
+Loading time logs...,Viežžá áigečállimid...
+Loading your portal...,Viežžá du portála...
+Loading...,Viežžá...
+Location,Báiki
+Log Time,Čále Áiggi
+Logout,Olggos
+Low,Vuollegaš
+Make Offer,Dahkka Fálaldaga
+Manager,Jođiheaddji
+Manual Entry,Giehtačállin
+Margin,Marginála
+Mark all as read,Mearkkiš buot lohkkojuvvon
+Mark all read,Mearkkiš buot lohkkojuvvon
+Mark as read,Mearkkiš lohkkojuvvon
+Mark as unread,Mearkkiš lohkkohaga
+Mark read,Mearkkiš lohkkojuvvon
+Marking...,Mearkkašuvvo...
+Material,Ávdnas
+Maybe,Soaitá
+Medium,Gaskaárvosaš
+Meeting,Čoahkkin
+Meeting Link,Čoahkkinliŋka
+Meeting title,Čoahkkinbajilčála
+Meeting URL,Čoahkkin-URL
+Meetings,Čoahkkimat
+Mention,Namut
+Message,Sátni
+Message is required,Sátni dárbbašuvvo
+Message is required for '{0}' action,Sátni dárbbašuvvo '{0}' doibmii
+Migrate,Sirde
+Migration Complete,Sirdin gárvvis
+Migration ID:,Sirdin-ID:
+Migration log not found: {0},Sirdingirji {0} ii gávdnon
+Milestone,Mearrádus
+milestone,mearrádus
+Milestone created,Mearrádus ráhkaduvvon
+Milestone description has been saved.,Mearrádusa govvádus lea vurkejuvvon.
+Milestone ID is required,Mearrádusa ID dárbbašuvvo
+Milestone marked as Missed (past due date),Mearrádus mearkkašuvvon Massojuvvon (áigerássi vássán)
+Milestone moved,Mearrádus sirdojuvvon
+Milestone Name,Mearrádusa Namma
+Milestone name has been saved.,Mearrádusa namma lea vurkejuvvon.
+Milestone name is required,Mearrádusa namma dárbbašuvvo
+Milestone updated,Mearrádus ođasmahttojuvvon
+Milestone {0} not found,Mearrádus {0} ii gávdnon
+Milestone {0} not in project {1},Mearrádus {0} ii leat prošeavttas {1}
+Milestones,Mearrádusat
+milestones,mearrádusat
+Milestones:,Mearrádusat:
+Minutes,Minuhtat
+Missed,Massojuvvon
+Mixed,Seahkalaš
+Mobile,Mobiila
+Moderate,Gaskageardán
+Modified,Rievdaduvvon
+"Modify details, time, or attendees","Rievdat dieđuid, áiggi, dahje oasseváldiid"
+Mon,Vuos
+Month,Mánnu
+Move failed,Sirdin ii lihkostuvvan
+Must be a positive number,Ferte leat positiivvalaš lohku
+Must finish before this finishes,Ferte gárvvistuvvot ovdal go dát gárvvistuvvo
+Must finish before this starts,Ferte gárvvistuvvot ovdal go dát álgá
+Must start before this finishes,Ferte álgit ovdal go dát gárvvistuvvo
+Must start before this starts,Ferte álgit ovdal go dát álgá
+My Assignments,Mu Juolludeamit
+My Projects,Mu Prošeavttat
+My Schedule,Mu Plána
+My Tasks,Mu Barggut
+N/A,Ii guoskka
+Name,Namma
+Name (A-Z),Namma (A-Z)
+Name (Z-A),Namma (Z-A)
+Name cannot exceed 255 characters,Namma ii sáhte leat guhkit go 255 bustáva
+Need help?,Dárbbašatgo veahki?
+Needs Attention,Dárbbaša Fuomášumi
+Never,Never
+new activities,ođđa doaimmat
+New Activity,Ođđa Doaibma
+New activity,Ođđa doaibma
+New Event,Ođđa Dáhpáhus
+New index is required,Ođđa indeavssa dárbbašuvvo
+New Project,Ođđa Prošeavtta
+New tasks will auto-trail by default.,Ođđa barggut njuikejit automáhtalaččat vuođđoárvvuin.
+Newest First,Ođđaseamosit ovddimus
+Next,Boahtte
+Next 14 days,Boahtte 14 beaivvi
+Next 30 days,Boahtte 30 beaivvi
+Next 60 days,Boahtte 60 beaivvi
+Next 7 days,Boahtte 7 beaivvi
+Next 90 days,Boahtte 90 beaivvi
+Next Week,Boahtte vahkku
+Next:,Boahtte:
+No,Ii
+No active assignments,Eai aktiivvalaš juolludeamit
+No active projects,Eai aktiivvalaš prošeavttat
+No active timer found,Ii aktiivvalaš áigemihtidanmáhkku gávdnon
+No activity selected,Ii doaibma válljejuvvon
+No assignments found,Eai juolludeamit gávdnon
+No attendees,Eai oasseváldit
+no change,ii rievdadus
+No changes for this field.,Eai rievdadusat dán giehtui.
+No changes recorded for this activity.,Eai rievdadusat registrerejuvvon dán doibmii.
+No checklist items yet,Eai dárkkistanlisttu oasit vel
+No checklist items yet.,Eai dárkkistanlisttu oasit vel.
+No comments yet,Eai kommeantárat vel
+No comments yet.,Eai kommeantárat vel.
+No contacts available,Eai oktavuođat gávdno
+No content for this tab,Ii sisdoallu dán fánái
+No data available,Eai dieđut gávdno
+No data available for the selected filters,Eai dieđut gávdno válljejuvvon filtteriidda
+No data to export,Eai dieđut eksportema várás
+No dates set,Eai beaivemearat biddjojuvvon
+No defects reported,Eai feaillat raportejuvvon
+No dependencies defined,Eai sorjavuođat mearriduvvon
+No description,Ii govvádus
+No discussion yet.,Ii digaštallan vel.
+No documents attached,Eai dokumeanttát mielddusdahkkon
+No due date,Ii áigerássi
+No employee linked to this resource,Ii bargi liŋkkejuvvon dán resursii
+No ERPNext employee linked to resource,Ii ERPNext bargi liŋkkejuvvon resursii
+No events found,Eai dáhpáhusat gávdnon
+No files attached yet.,Eai fiillat mielddusdahkkon vel.
+No Frappe Project linked,Ii Frappe prošeavtta liŋkkejuvvon
+No Grouping,Ii Joavkkuid
+No items,Eai oasit
+No matching tasks,Eai heivvolaš barggut
+No matching tasks found,Eai heivvolaš barggut gávdnon
+No migration history,Ii sirdimhistorjá
+No Milestone,Ii Mearrádusa
+No milestones,Eai mearrádusat
+No milestones defined for this project.,Eai mearrádusat mearriduvvon dán prošeavttii.
+No notes yet.,Eai čállosat vel.
+No notes yet. Add a due diligence note to track progress.,Eai čállosat vel. Lasit vuđolaš dárkkisteami čállosa ovdáneami čuovvumii.
+No notifications,Eai dieđáhusat
+No Orga Project linked to Frappe Project {0},Ii Orga prošeavtta liŋkkejuvvon Frappe prošeavttii {0}
+No overdue tasks,Eai barggut main áigerássi lea vássán
+No pending cascade changes,Eai vuordámis čuovganjohtin rievdadusat
+No predecessors - this task can start independently,Eai ovdabarggut — dát bargu sáhttá álgit iešráđálaččat
+No project,Ii prošeavtta
+No projects found,Eai prošeavttat gávdnon
+No Projects Yet,Eai Prošeavttat Vel
+No recent activity,Ii ođđa doaibma
+No related documents,Eai oktavuođadokumeanttát
+No resolved threads.,Eai čovdojuvvon digaštallamat.
+No resources found,Eai resursat gávdnon
+No results found,Eai bohtosat gávdnon
+No skills listed,Eai máhtut listtejuvvon
+No skills recorded yet,Eai máhtut registrerejuvvon vel
+No successors - no tasks are waiting for this one,Eai boahttebarggut — ii oktage bargu vuordde dán
+No task selected,Ii bargu válljejuvvon
+No tasks assigned to you,Eai barggut juolluduvvon dutnje
+No tasks available to add,Eai barggut gávdno lasihemiid várás
+No tasks found,Eai barggut gávdnon
+No tasks linked to this milestone,Eai barggut liŋkkejuvvon dán mearrádussii
+No tasks with dates to display,Eai barggut beaivemearaiguin čájehit
+No tasks yet,Eai barggut vel
+No team members,Eai joavkkulahtut
+No template,Ii málle
+No templates yet,Eai mállet vel
+No time data found,Eai áigedieđut gávdnon
+No time logged today,Ii áigi čállojuvvon odne
+No time logged yet,Ii áigi čállojuvvon vel
+No time logs for this period,Eai áigečállimat dán áigodahkii
+No time logs found,Eai áigečállimat gávdnon
+No unread notifications,Eai lohkkohaga dieđáhusat
+No update information available yet.,No update information available yet.
+None,Ii mihkkige
+Not found,Ii gávdnon
+Not permitted,Ii lohpiduvvon
+Not permitted to access this project,Ii lohpiduvvon fidnet dán prošeavttii
+Not permitted to access this task,Ii lohpiduvvon fidnet dán bargui
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Ii lohpiduvvon kommenterejit dán dokumeantta
+Not permitted to create clients,Ii lohpiduvvon ráhkadit áššehasaid
+Not permitted to delete this client,Ii lohpiduvvon sihkkut dán áššehasa
+Not permitted to delete this defect,Ii lohpiduvvon sihkkut dán feailla
+Not permitted to delete this note,Ii lohpiduvvon sihkkut dán čállosa
+Not permitted to delete this project,Ii lohpiduvvon sihkkut dán prošeavtta
+Not permitted to delete this task,Ii lohpiduvvon sihkkut dán barggu
+Not permitted to delete this time log,Ii lohpiduvvon sihkkut dán áigečállima
+Not permitted to invite clients,Ii lohpiduvvon bovddit áššehasaid
+Not permitted to modify client access,Ii lohpiduvvon rievdadit áššehasa beassama
+Not permitted to modify this project,Ii lohpiduvvon rievdadit dán prošeavtta
+Not permitted to update settings,Ii lohpiduvvon ođasmahttit heivehusaid
+Not permitted to update this client,Ii lohpiduvvon ođasmahttit dán áššehasa
+Not permitted to view this client,Ii lohpiduvvon oaidnit dán áššehasa
+not sent,ii sáddejuvvon
+Not set,Ii biddjojuvvon
+Not specified,Ii čielggaduvvon
+Note,Čálus
+Note (optional),Čálus (eaktodáhtolaš)
+Note Content,Čállosa Sisdoallu
+Note content is required,Čállosa sisdoallu dárbbašuvvo
+Note name is required,Čállosa namma dárbbašuvvo
+Note not found,Čálus ii gávdnon
+Note Type,Čállosšládja
+Notes,Čállosat
+Notification,Dieđáhus
+Notification not found,Dieđáhus ii gávdnon
+Notifications,Dieđáhusat
+Off Track,Eret Luottás
+Offer,Fálaldat
+Offer Prepared,Fálaldat Ráhkaduvvon
+Oldest First,Boarráseamosit ovddimus
+On Hold,Vuordámis
+On Leave,Luomas
+On Track,Luotta Mielde
+On-Time Rate,Áigerádji
+Only administrators can delete activities,Dušše hálddahusat sáhttet sihkkut doaimmaid
+Only the comment author or administrators can delete comments,Dušše kommeantára čálli dahje hálddahusat sáhttet sihkkut kommeantáraid
+Only you and admins,Dušše don ja hálddahusat
+Open,Rabas
+Open in Desk,Raba Desk:s
+Open Task Log,Raba Barggugirji
+Open Tasks,Rabasbarggut
+Optional,Eaktodáhtolaš
+optional,eaktodáhtolaš
+Or email us directly at,Dahje sádde midjiide e-poastta njuolga čujuhussii
+Orga Project {0} from Frappe Projects,Orga Prošeavtta {0} Frappe Projects:s
+Orga Task {0} from Frappe,Orga Bargu {0} Frappe:s
+Organizer,Ordnejeaddji
+Other,Eará
+Over Budget,Badjel Bušeahta
+Overall Progress,Ollislaš Ovdáneapmi
+Overall Utilization,Ollislaš Geavaheapmi
+Overallocated,Badjeallokašuvdnajuolluduvvon
+Overdue,Áigerássi vássán
+overdue,áigerássi vássán
+Overdue Tasks,Barggut main áigerássi lea vássán
+Overview,Oppalašgeahčastat
+Owner,Eaiggát
+Page Not Found,Siidu Ii Gávdnon
+Parent,Váhnen
+Parent comment must belong to the same document,Váhnenkommeantár ferte gullet seamma dokumeanttii
+Parent comment not found,Váhnenkommeantár ii gávdnon
+Parent project not synced to Frappe yet,Váhnenprošeavtta ii vel syngkroniserejuvvon Frappe:in
+Parent project sync not enabled,Váhnenprošeavtta syngkroniseren ii leat dohkkehuvvon
+Partner,Guoibmi
+Pending,Vuordámis
+per page,siiddu guokte
+Perform initial assessment and background check,Daga álgoárvvoštallan ja duogášdárkkisteami
+Permanently remove this event,Bissolaččat váldde dán dáhpáhusa eret
+Permanently remove this task,Bissolaččat váldde dán barggu eret
+Phone,Telefovdna
+Pin,Njielloste
+Pin Activity,Njielloste Doaimma
+Pin to top,Njielloste bajimussii
+Pinned,Njiellostagavvon
+Planned budget for this task,Plánejuvvon bušeahtta dán bargui
+Planning,Plánen
+Please describe your question or issue in detail...,Govvit gažaldagat dahje áššiid dárkileappot...
+Please login to access Orga,Logge sisa beassat Orga
+Please login to access the client portal,Logge sisa beassat áššehasportálii
+Please respond to this invitation in Orga,Vástit dán bovdehussii Orga:s
+Please select an image file,Vállje govvafiilla
+Please try again,Geahččal ođđasit
+Please type,Čále
+Portal,Portála
+Portal access revoked for {0},Portálabeassan váldojuvvon eret {0}:s
+Portal user created successfully. Welcome email {0},Portálageavaheaddji ráhkaduvvon lihkostuvvan. Buresboahtinpoasta {0}
+Post,Almmustahtit
+Powered by,Fápmolahttu
+Powered by Tonic,Fápmolahttu Tonic
+Predecessors (Blocked By),Ovdabarggut (Eastojuvvon sis)
+Preferences,Válljejumit
+Preferences saved successfully,Válljejumit vurkejuvvon lihkostuvvan
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Ovdaliidni automáhtalaččat ráhkaduvvon prošeavttakodaide (omd. ORG-2026-0001)
+Prepare and document offer terms,Ráhkat ja dokumentere fálaldateavttuid
+Press,Deaddil
+Preview,Ovdagáttu
+Preview cascade before applying,Ovdagáttu čuovganjohtin ovdal geavaheami
+Previous,Ovddit
+Priority,Vuoruheapmi
+Priority assigned to new tasks,Vuoruheapmi biddjojuvvon ođđa bargguide
+Priority updated,Vuoruheapmi ođasmahttojuvvon
+Proficiency,Čeahppi
+Profile,Profila
+Progress,Ovdáneapmi
+Progress (High-Low),Ovdáneapmi (Alla-Vuollegaš)
+Progress (Low-High),Ovdáneapmi (Vuollegaš-Alla)
+Progress Overview,Ovdáneami Oppalašgeahčastat
+Progress updated,Ovdáneapmi ođasmahttojuvvon
+Project,Prošeavtta
+Project budget has been saved.,Prošeavtta bušeahtta lea vurkejuvvon.
+Project code (e.g. ORG-2026-0001),Prošeavttakoda (omd. ORG-2026-0001)
+Project Code Prefix,Prošeavttakoda Ovdaliidni
+Project created,Prošeavtta ráhkaduvvon
+Project deleted,Prošeavtta sihkkojuvvon
+Project description has been saved.,Prošeavtta govvádus lea vurkejuvvon.
+Project Details,Prošeavtta Dieđut
+Project end date has been saved.,Prošeavtta loahppabeavvi lea vurkejuvvon.
+Project Files,Prošeavtta Fiillat
+Project has no linked client,Prošeavttas ii leat liŋkkejuvvon áššehas
+Project Health,Prošeavtta Dearvvašvuohta
+Project Info,Prošeavtta Dieđut
+Project is required,Prošeavtta dárbbašuvvo
+Project is required for project context,Prošeavtta dárbbašuvvo prošeavttakonteavsttas
+Project is required when tracking context is 'project',Prošeavtta dárbbašuvvo go čuovvunkonteavstta lea 'prošeavtta'
+Project Manager,Prošeavttajođiheaddji
+Project Name,Prošeavtta Namma
+Project name and template name are required,Prošeavttanamma ja mállenamma dárbbašuvvojit
+Project name is required,Prošeavttanamma dárbbašuvvo
+Project not found,Prošeavtta ii gávdnon
+Project not found or you do not have access,Prošeavtta ii gávdnon dahje dus ii leat beassan
+Project settings,Prošeavttaheivehusat
+Project start date has been saved.,Prošeavtta álgobeavvi lea vurkejuvvon.
+Project title has been saved.,Prošeavtta bajilčála lea vurkejuvvon.
+Project Type,Prošeavttašládja
+Project updated,Prošeavtta ođasmahttojuvvon
+Project {0} linked to client {1},Prošeavtta {0} liŋkkejuvvon áššehasii {1}
+Project {0} not found,Prošeavtta {0} ii gávdnon
+Project {0} to Frappe Projects,Prošeavtta {0} Frappe Projects:ii
+Project:,Prošeavtta:
+Projects,Prošeavttat
+projects,prošeavttat
+Projects created:,Prošeavttat ráhkaduvvon:
+Projects Overview,Prošeavttaid Oppalašgeahčastat
+Projects skipped:,Prošeavttat báddjojuvvon:
+Projects updated:,Prošeavttat ođasmahttojuvvon:
+Promote failed,Lokten ii lihkostuvvan
+Promote to task,Lokte bargun
+Promoted to task,Loktejuvvon bargun
+Propose,Evttohas
+Propose New Time,Evttohas Ođđa Áiggi
+Propose Time,Evttohas Áiggi
+Proposed End,Evttohuvvon Loahppa
+Proposed Start,Evttohuvvon Álgu
+Public,Almmolaš
+Quick Action,Johtilas Doaibma
+Quick Actions,Johtilat Doaimmat
+Quick Stats,Johtilas Statistihkkat
+Rates,Rádjit
+Receive notifications via email,Oaččo dieđáhusaid e-poastta bokte
+Receive notifications within the application,Oaččo dieđáhusaid applikašuvnna siskkobealde
+Recent Activity,Ođđaseamos Doaimmat
+Recipient {0} is not a valid user,Vuostáiválddi {0} ii leat guohtameahttun geavaheaddji
+Reference,Čujuhus
+Refresh,Ođasmahtte
+Related,Oktavuođas
+Related Company (optional),Oktavuohtafitnodahka (eaktodáhtolaš)
+Related Documents,Oktavuohtadokumeanttát
+Related Project,Oktavuohtaprošeavtta
+Remaining,Bázahus
+Reminder,Muittuhus
+Reminder Lead Time,Muittuhusa Ovdaáigi
+Reminder: {0} - {1} at {2},Muittuhus: {0} - {1} {2}:s
+Remove,Váldde eret
+Remove dependency,Váldde eret sorjavuođa
+Remove dependency on,Váldde eret sorjavuođa
+Remove from group,Váldde eret joavkkus
+Remove group dependency,Váldde eret joavkkusorjavuođa
+Remove skill,Váldde eret máhtu
+Reopen,Raba ođđasit
+Reopen thread,Raba digaštallan ođđasit
+reopened,ođđasit rahppasuvvan
+replies,vástádusat
+Reply,Vástit
+reply,vástádus
+Replying to,Vástida
+Replying to comment,Vástida kommeantárii
+Report Defect,Raportere Feailla
+Reported Date,Raporterebeaivi
+Reports,Raportat
+Reports To,Raportere
+Request Submitted!,Ohcamus Sáddejuvvon!
+Required,Dárbbašuvvo
+required,dárbbašuvvo
+Research,Dutkan
+Reset to Defaults,Máhcat Vuođđoárvvuide
+Resolve,Čoavdde
+Resolve thread,Čoavdde digaštallama
+Resolved,Čovdojuvvon
+Resolved date cannot be before reported date,Čovdojuvvonbeaivi ii sáhte leat ovdal raporterebeaivvi
+Resource,Resursa
+Resource and skill name are required,Resursa ja máhtunamma dárbbašuvvojit
+Resource is already an attendee,Resursa lea juo oasseváldi
+Resource name is required,Resursanamma dárbbašuvvo
+Resource not found,Resursa ii gávdnon
+Resource synced from employee {0},Resursa syngkroniserejuvvon bargis {0}
+Resource {0} is already assigned to this task ({1}),Resursa {0} lea juo juolluduvvon dán bargui ({1})
+Resource {0} not found,Resursa {0} ii gávdnon
+Resources,Resursat
+Retry,Geahččal ođđasit
+Review,Iskkan
+Review all relevant documents and contracts,Iskka buot guoskevaš dokumeanttáid ja šiehtadusaid
+Reviews,Iskamat
+Risk Assessment,Riskaárvvoštallan
+Rollback,Jorgal ruovttoluotta
+Rolled back,Jorgaluvvon ruovttoluotta
+Room or address,Latnja dahje čujuhus
+RSVP,RSVP
+Safety,Sihkarvuohta
+Sat,Láv
+Save,Vurke
+"Save a project as a template, or import one from a JSON file.","Vurke prošeavtta mállen, dahje importere málle JSON-fiillas."
+Save as Template,Vurke Mállen
+Save Changes,Vurke Rievdadusaid
+Save failed,Vurken ii lihkostuvvan
+Save Preferences,Vurke Válljejumiid
+Save Template,Vurke Málle
+Saving...,Vurkejuvvo...
+Schedule,Plána
+Schedule type is required for scheduled triggers,Plánašládja dárbbašuvvo plánejuvvon čodjiide
+Scheduled,Plánejuvvon
+Search,Oza
+"Search by name, email, or skill...","Oza nama, e-poastta, dahje máhtu mielde..."
+Search for a project...,Oza prošeavtta...
+Search for a task...,Oza barggu...
+Search for an event...,Oza dáhpáhusa...
+Search for people to invite...,Oza olbmuid bovdimii...
+Search tasks to link...,Oza bargguid liŋkkemii...
+Search tasks...,Oza bargguid...
+Search...,Oza...
+Searching...,Ohcá...
+Seen,Oaidnán
+Select a project if your request is related to a specific project.,Vállje prošeavtta jus du ohcamus guoská dihto prošeavttii.
+Select a project...,Vállje prošeavtta...
+Select a task from the Gantt chart to view and manage its details.,Vállje barggu Gantt-tabeallas oaidnit ja hálddašit dan dieđuid.
+Select a task from the list or Kanban board to view and manage its details.,Vállje barggu listtas dahje Kanban-gođđis oaidnit ja hálddašit dan dieđuid.
+Select a template...,Vállje málle...
+Select priority...,Vállje vuoruheami...
+Select status...,Vállje dilálašvuođa...
+Select task...,Vállje barggu...
+Select type...,Vállje šlája...
+Selection,Válljejupmi
+Send,Sádde
+Send comment,Sádde kommeantára
+Send email invitations to attendees,Sádde e-poasta bovdehusaid oasseváldiide
+Send Invitations,Sádde Bovdehusaid
+Send notification when a task is assigned to a user,Sádde dieđáhusa go bargu juolluduvvo geavaheaddjái
+Send notification when task status changes,Sádde dieđáhusa go barggu dilálašvuohta rievddada
+Send reminder before task due date,Sádde muittuhusa ovdal barggu áigerássi
+sent,sáddejuvvon
+Set rate,Bidje ráji
+Settings,Heivehusat
+Settings saved successfully,Heivehusat vurkejuvvon lihkostuvvan
+Severity,Duođalašvuohta
+SF (Start-Finish),SF (Álgu-Loahppa)
+SF - Start-to-Finish,SF - Álgu-Loahpii
+Show,Čájet
+Show all,Čájet buot
+Show all changes,Čájet buot rievdadusaid
+Show Archived,Čájet Arkiverejuvvon
+Show full diff,Čájet olles erohusa
+Show less,Čájet unnit
+Show more,Čájet eanet
+Skill added,Máhttu lasihuvvon
+Skill is required,Máhttu dárbbašuvvo
+Skill Name,Máhtu Namma
+Skill removed,Máhttu váldojuvvon eret
+Skill {0} already exists for this resource,Máhttu {0} lea juo gávdnamis dán resursas
+Skills,Máhtut
+Skills & Competencies,Máhtut ja Gelbbolašvuohta
+Skip already migrated projects,Bádjo juo sirdojuvvon prošeavttaid
+Sort by,Ortnegos
+Sort: Due Date,Ortnegos: Áigerássi
+Sort: Priority,Ortnegos: Vuoruheapmi
+Sort: Project,Ortnegos: Prošeavtta
+Sort: Status,Ortnegos: Dilálašvuohta
+Sort: Task,Ortnegos: Bargu
+Source Code,Gáldokoda
+Spent,Geavahuvvon
+Spent:,Geavahuvvon:
+SS (Start-Start),SS (Álgu-Álgu)
+SS - Start-to-Start,SS - Álgu-Álgui
+Standalone,Iešbirgevaš
+Start,Álgu
+Start a discussion below,Álgge digaštallan vuollái
+Start Date,Álgobeavvi
+Start date,Álgobeavvi
+Start Date (Earliest),Álgobeavvi (áramus)
+Start date updated,Álgobeavvi ođasmahttojuvvon
+Start date/time is required,Álgobeavvi/áigi dárbbašuvvo
+Start Migration,Álgge Sirdima
+Start the conversation below.,Álgge digaštallan vuollái.
+Start Timer,Álgge Áigemihtidanmáhku
+Start typing to search...,Álgge čállit ohcat...
+Start-to-Finish,Álgu-Loahpii
+Start-to-Start,Álgu-Álgui
+Start:,Álgu:
+Statistics reset,Statistihkkat máhcahuvvon
+Status,Dilálašvuohta
+Status assigned to new projects,Dilálašvuohta biddjojuvvon ođđa prošeavttaide
+Status assigned to new tasks,Dilálašvuohta biddjojuvvon ođđa bargguide
+Status Changes,Dilálašvuohtarievdadusat
+Status updated,Dilálašvuohta ođasmahttojuvvon
+Status:,Dilálašvuohta:
+Stop,Bisán
+Stop & Save,Bisán ja Vurke
+Stop Timer,Bisán Áigemihtidanmáhku
+Stops current timer and starts for this event,Bisáná dálááigge mihtidanmáhku ja álgá dán dáhpáhussii
+Stops current timer and starts for this task,Bisáná dálááigge mihtidanmáhku ja álgá dán bargui
+Subject,Fáddá
+Subject cannot exceed 255 characters,Fáddá ii sáhte leat guhkit go 255 bustáva
+Subject is required,Fáddá dárbbašuvvo
+Submit,Sádde
+Submit Another Request,Sádde Eará Ohcamu
+Submit Request,Sádde Ohcamu
+Submitting...,Sáddejuvvo...
+Successfully saved,Lihkostuvvan vurkejuvvon
+Successors (Blocking),Boahttebarggut (Eastán)
+Sun,Sotn
+Supplier,Doaibmagoddi
+Support,Doarjja
+Switch to this event,Molsso dán dáhpáhussii
+Switch to this task,Molsso dán bargui
+Sync direction is set to Frappe to Orga only,Syngkroniserenguvlui biddjojuvvon Frappe:s Orga:i dušše
+Sync direction is set to Orga to Frappe only,Syngkroniserenguvlui biddjojuvvon Orga:s Frappe:i dušše
+Sync not enabled for this project,Syngkroniseren ii leat dohkkehuvvon dán prošeavttii
+System,Vuogádat
+Table,Tabealla
+Take ownership of this task,Válde ovddasvástádusa dán barggus
+Target Date,Ulbmilbeavvi
+Target End,Ulbmilloahppa
+Target Project,Ulbmilprošeavtta
+Target user is required for '{0}' action,Ulbmilgeavaheaddji dárbbašuvvo '{0}' doibmii
+Task,Bargu
+task,bargu
+Task '{0}' is due on {1}.,Barggu '{0}' áigerássi lea {1}.
+Task and resource are required,Bargu ja resursa dárbbašuvvojit
+Task Assignment,Barggujuolludeapmi
+Task cannot be its own parent,Bargu ii sáhte leat iežas váhnen
+Task cannot depend on itself,Bargu ii sáhte sorját alcces
+Task cannot depend on the group it belongs to,Bargu ii sáhte sorját joavkkus masa dat gullá
+Task created,Bargu ráhkaduvvon
+Task deleted,Bargu sihkkojuvvon
+Task description has been saved.,Barggu govvádus lea vurkejuvvon.
+Task Details,Barggu Dieđut
+Task due in {0} days: {1},Barggu áigerássi {0} beaivve siste: {1}
+Task due today: {0},Barggu áigerássi odne: {0}
+Task due tomorrow: {0},Barggu áigerássi ihttin: {0}
+Task duplicated,Bargu máŋgguduvvon
+Task Group,Barggujoavku
+Task ID is required,Barggu ID dárbbašuvvo
+Task is blocked by incomplete dependencies,Bargu eastojuvvon ollášuhttekeahtes sorjavuođain
+Task is cancelled,Bargu šluhttejuvvon
+Task is completed,Bargu gárvvistuvvon
+Task is no longer blocked by a group,Bargu ii leat šat eastojuvvon joavkkus
+Task is required for task context,Bargu dárbbašuvvo barggukonteavsttas
+Task is required when tracking context is 'task',Bargu dárbbašuvvo go čuovvunkonteavstta lea 'bargu'
+Task linked,Bargu liŋkkejuvvon
+Task moved,Bargu sirdojuvvon
+Task name,Barggunamma
+Task name is required,Barggunamma dárbbašuvvo
+Task removed from group,Bargu váldojuvvon eret joavkkus
+Task Subject,Barggu Fáddá
+Task subject is required,Barggu fáddá dárbbašuvvo
+Task Type,Barggušládja
+Task unblocked: {0},Bargu rahppasuvvan: {0}
+Task unlinked,Bargguliŋka váldojuvvon eret
+Task updated,Bargu ođasmahttojuvvon
+Task {0} not found,Bargu {0} ii gávdnon
+Task {0} not in project {1},Bargu {0} ii leat prošeavttas {1}
+Task {0} to Frappe,Bargu {0} Frappe:i
+Tasks,Barggut
+tasks,barggut
+Tasks and milestones will be created with dates relative to the project start date.,Barggut ja mearrádusat ráhkaduvvojit beaivemearaiguin relatiivvalaččat prošeavtta álgobeavvái.
+Tasks assigned to you across all projects.,Barggut juolluduvvon dutnje buot prošeavttain.
+Tasks created:,Barggut ráhkaduvvon:
+Tasks from projects you manage.,Barggut prošeavttain maid don jođihát.
+Tasks updated:,Barggut ođasmahttojuvvon:
+"Tasks, milestones, and dependencies have been created.","Barggut, mearrádusat ja sorjavuođat leat ráhkaduvvon."
+Tasks:,Barggut:
+TBD,Mearriduvvo
+Team,Joavku
+Team Members,Joavkkulahtut
+Template,Málle
+Template applied,Málle geavahuvvon
+Template data is required in import data,Málledieđut dárbbašuvvojit importeredieđuin
+Template has no data,Málles eai leat dieđut
+Template Name,Málle Namma
+Template name,Mállenamma
+Template name is required,Mállenamma dárbbašuvvo
+Template name is required in import data,Mállenamma dárbbašuvvo importeredieđuin
+Template saved,Málle vurkejuvvon
+Template updated successfully.,Málle ođasmahttojuvvon lihkostuvvan.
+Template {0} not found,Málle {0} ii gávdnon
+Templates,Mállet
+Tentative,Gáskkusteapmi
+The comment has been deleted,Kommeantár lea sihkkojuvvon
+The project,Prošeavtta
+The source document may have been deleted.,Gáldudokumeantta sáhttá leat sihkkojuvvon.
+The source document will not be affected.,Gáldudokumeantta ii váikkuhuvvo.
+The status of '{0}' was changed from {1} to {2}.,'{0}' dilálašvuohta rievdaduvvui {1}:s {2}:i.
+Theme,Fáddá
+Theme preference,Fáddáválljejupmi
+This action,Dát doaibma
+This action cannot be undone.,Dát doaibma ii sáhte máhcahuvvot.
+This activity has been flagged for attention,Dát doaibma lea mearkkašuvvon fuomášupmái
+This is a reminder for your upcoming appointment,Dát lea muittuhus du boahtte soahpamuša birra
+This method is only meant for developer mode,Dát vuohki lea dušše ovddidanvuogáda várás
+This page wandered off,This page wandered off
+This Week,Dán Vahkku
+This will delete all notes and preferences associated with this activity.,Dát sihkku buot čállosiid ja válljejumiid mat gullet dán doibmii.
+This will import all Frappe Projects into Orga. Continue?,Dát importere buot Frappe prošeavttaid Orga:i. Joatke?
+This will permanently delete,Dát sihkku bissolaččat
+This will permanently delete:,Dát sihkku bissolaččat:
+Thu,Duor
+Time,Áigi
+Time & Billing,Áigi ja Máksit
+Time & Revenue,Áigi ja Dienas
+Time Entries,Áigečállimat
+Time log name is required,Áigečállima namma dárbbašuvvo
+Time Log not found,Áigečállin ii gávdnon
+Time log {0} not found,Áigečállin {0} ii gávdnon
+Time Logs,Áigečállimat
+Time Summary,Áigečoahkkáigeassu
+Time Tracking,Áigečuovvun
+Timeline,Áigeráidu
+Timer active on,Áigemihtidanmáhkku aktiivvalaš
+Timer is not running,Áigemihtidanmáhkku ii jođe
+Timer Running,Áigemihtidanmáhkku Joatkamis
+Timer running,Áigemihtidanmáhkku jođamis
+Timesheet DocType not available,Áigetábealla DocType ii gávdno
+Timesheets,Áigetábeallat
+Timezone,Áigevuogádat
+Timezone is detected from your browser,Áigevuogádat vuođđuduvvo du neahttaskuvlii
+Title,Bajilčála
+Title cannot exceed 255 characters,Bajilčála ii sáhte leat guhkit go 255 bustáva
+Title is required,Bajilčála dárbbašuvvo
+Title updated,Bajilčála ođasmahttojuvvon
+To,Gitta
+to,gitta
+to cancel,šluhttit
+to close,giddet
+to confirm:,sihkkarastit:
+to edit,rievdadit
+"to save,","vurket,"
+To Time cannot be before From Time,Loahppaáigi ii sáhte leat ovdal Álgoáigge
+Today,Odne
+today,odne
+Toggle billable,Molsso rehkenastojuvvo
+Toggle Details Panel,Molsso Diehtopanela
+Toggle Manager Panel,Molsso Jođiheddjiipanela
+Toggle Sidebar,Molsso Bálddaláda
+Tomorrow,Ihttin
+tomorrow,ihttin
+Total,Ollislaš
+Total Budget,Ollislaš Bušeahtta
+Total Contacts,Oktavuođat Oktiibuot
+Total Cost,Ollislaš Golut
+Total Cost to Org,Ollislaš Golut Organisašuvdnii
+Total Defect Cost,Ollislaš Feaillakgolut
+Total Hours,Diimmut Oktiibuot
+Total Hours Logged,Diimmut Čállojuvvon Oktiibuot
+Total Projects,Prošeavttat Oktiibuot
+Total Spent,Ollislaš Geavahuvvon
+Total Tasks,Barggut Oktiibuot
+Total:,Oktiibuot:
+Tracked,Čuovvojuvvon
+trails to today while Open at 0%,njuiká odne rádjái go Rabas 0%:s
+Tried:,Tried:
+Try adjusting your filter criteria,Geahččal heivehit filttereavttuidat
+Try adjusting your filters.,Geahččal heivehit filttereidat.
+Try Again,Geahččal Ođđasit
+Tue,Maŋ
+Type,Šládja
+Type updated,Šládja ođasmahttojuvvon
+Type:,Šládja:
+Typical response time: 1-2 business days,Dábálaš vástidanáigi: 1-2 bargobeaivvi
+Unarchive,Máhcat arkiivvas
+Unarchive Activity,Máhcat Doaimma Arkiivvas
+Unassign,Váldde juolludeami eret
+Unassigned,Juolluduvvohaga
+Under Budget,Vuollái Bušeahta
+Ungrouped,Joavkkuhuvvohaga
+Unknown,Dovdameahttun
+Unknown error,Dovdameahttun feaila
+Unlink failed,Liŋkkaválddin ii lihkostuvvan
+Unlink task from milestone,Váldde bargguliŋkka mearrádusas
+Unpin,Ráhppa njiellu
+Unpin Activity,Ráhppa Doaimma Njiellu
+Unread,Lohkkohaga
+Unread only,Dušše lohkkohagat
+Until,Gitta
+Up to Date,Up to Date
+Upcoming,Boahtte
+upcoming,boahtte
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Ođasmahtten ii lihkostuvvan
+Updated,Ođasmahttojuvvon
+Updated successfully,Ođasmahttojuvvon lihkostuvvan
+Updates,Updates
+Upload,Viečča
+Upload failed,Viežžan ii lihkostuvvan
+Upload files below to attach them to this task.,Viečča fiillaid vuollái mielddusdeami várás dán bargui.
+Upload to project,Viečča prošeavttii
+Uploading...,Viežžojuvvo...
+Urgent,Hoahppu
+User {0} is already linked to client {1},Geavaheaddji {0} lea juo liŋkkejuvvon áššehasii {1}
+User {0} is already linked to resource {1},Geavaheaddji {0} lea juo liŋkkejuvvon resursii {1}
+Utilization,Geavaheapmi
+Valid,Guohtameahttun
+Value:,Árvvu:
+Variance,Spiehkastat
+Variance:,Spiehkastat:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Geahča
+View All,Geahča Buot
+View all active projects,Geahča buot aktiivvalaš prošeavttaid
+View all open tasks,Geahča buot rabasbargguid
+View overdue tasks,Geahča bargguid main áigerássi lea vássán
+View Release,View Release
+Visibility,Oidnomvuohta
+Waiting for this task,Vuordá dán barggu
+Waits for:,Vuordá:
+Warning: Resource {0} status is {1},Váruhus: Resursa {0} dilálašvuohta lea {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Váruhus: Geavaha HTTP HTTPS sajis. Webhook-dieđut eai sáhte leat dorvvalaččat.
+Watch budget closely,Fuolkkelaččat čuovvo bušeahta
+We'll respond to:,Mii vástit čujuhussii:
+Webhook deleted,Webhook sihkkojuvvon
+Webhook name is required,Webhook-namma dárbbašuvvo
+Webhook not found,Webhook ii gávdnon
+Webhook URL is required,Webhook-URL dárbbašuvvo
+Webhook URL must start with http:// or https://,Webhook-URL ferte álgit http:// dahje https://
+Wed,Gask
+Week,Vahkku
+Weekend,Vahkkoloahppa
+Weekly Capacity,Vahkkosaš Kapasitehta
+weekly capacity,vahkkosaš kapasitehta
+Weekly Capacity (h),Vahkkosaš Kapasitehta (d)
+Welcome,Bures boahtin
+Welcome back!,Bures boahtin fas!
+Welcome to Orga,Bures boahtin Orga:i
+What are you working on?,Maid don barggat?
+What did you work on?,Maid don barget?
+When,Goas
+When work begins,Go bargu álgá
+When work is due,Go barggu áigerássi lea
+Where,Gos
+Will capture:,Fáhte:
+Will create:,Ráhkada:
+with checklist items,dárkkistanlisttu osiiguin
+Working,Bargamis
+Workload,Bargonákca
+Workmanship,Giehtadáidu
+Write a comment...,Čále kommeantára...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Čále kommeantára... Geavat @namma namuhit (Ctrl+Enter sáddet)
+Year,Jahki
+Yes,Jo
+Yesterday,Ikte
+yesterday,ikte
+You are not an attendee of this appointment,Don it leat dán soahpamuša oasseváldi
+You are not linked to any resource,Don it leat liŋkkejuvvon oktage resursii
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Don sáhtát dušše sihkkut iežat kommeantáraid
+You can only delete your own reactions,Don sáhtát dušše sihkkut iežat reageremid
+You do not have access to the client portal. Please contact support.,Dus ii leat beassan áššehasportálii. Váldde oktavuođa doarjjiin.
+You have already reacted with '{0}',Don leat juo reageran '{0}'
+You have been assigned to task '{0}' in project '{1}'.,Dutnje lea juolluduvvon bargu '{0}' prošeavttas '{1}'.
+You have been assigned to: {0},Dutnje lea juolluduvvon: {0}
+You have been invited to the following appointment,Du leat bovdejuvvon dán boahtte soahpamušii
+You have no tasks assigned to you right now.,Dus eai leat barggut juolluduvvon dál.
+You were mentioned in {0},Don namuhuvvot {0}:s
+Your attendance,Du oasálastin
+Your comment has been posted,Du kommeantár lea almmustahtton
+Your Projects,Du Prošeavttat
+Your projects will appear here once they're assigned to you.,Du prošeavttat čájehuvvojit dás go dat leat juolluduvvon dutnje.
+Your Response,Du Vástádus
+Your RSVP,Du RSVP
+Your support request has been submitted successfully.,Du doarjjaohcamus lea sáddejuvvon lihkostuvvan.
+Your support request has been submitted successfully. We'll get back to you shortly.,Du doarjjaohcamus lea sáddejuvvon lihkostuvvan. Mii váldit du oktii fargga.
+"Your task ""{0}"" is no longer blocked and can now be started.","Du bargu ""{0}"" ii leat šat eastojuvvon ja sáhttá dál álgit."
+{0} is required,{0} dárbbašuvvo
+{0} new activities,{0} ođđa doaimma
+{0} of {1} completed,{0} {1}:s gárvvistuvvon
+{0} projects already migrated (will be skipped or updated),{0} prošeavtta juo sirdojuvvon (báddjojuvvojit dahje ođasmahttojuvvojit)
+{0} status changed to {1},{0} dilálašvuohta rievdaduvvui {1}
+{0} tasks remaining,{0} bargu báhcán
+{0} tasks without projects will be skipped,{0} barggu prošeavttahaga báddjojuvvojit
+{0} {1} not found,{0} {1} ii gávdnon

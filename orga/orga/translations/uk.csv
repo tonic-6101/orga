@@ -1,0 +1,1492 @@
++ Add Milestone,+ Додати віху
++ Create Task,+ Створити завдання
++ Log Time,+ Записати час
+-- Select a project --,-- Оберіть проєкт --
+0m,0хв
+1 day,1 день
+1 day ago,1 день тому
+1 dependency,1 залежність
+1 entry,1 запис
+1 file,1 файл
+1 hour ago,1 годину тому
+1 member,1 учасник
+1 milestone,1 віха
+1 month,1 місяць
+1 task,1 завдання
+< 1m,< 1хв
+"A clear, actionable title for the task","Зрозумілий, чіткий заголовок завдання"
+A client with email {0} already exists: {1},Клієнт з електронною адресою {0} вже існує: {1}
+A key deliverable or checkpoint for the project,Ключовий результат або контрольна точка проєкту
+Accept,Прийняти
+Accepted,Прийнято
+Acknowledge,Підтвердити
+across,в усіх
+Action,Дія
+Actions,Дії
+Active,Активний
+Active Assignments,Активні призначення
+Active Projects,Активні проєкти
+Activity,Активність
+Activity data deleted successfully,Дані активності успішно видалено
+Activity Info,Відомості про активність
+Activity Stats,Статистика активності
+Activity will appear here as you work on tasks and projects.,Активність з'являтиметься тут у міру роботи над завданнями та проєктами.
+Actual,Фактичний
+Actual Cost,Фактична вартість
+Actual cost cannot be negative,Фактична вартість не може бути від'ємною
+Actual end date cannot be before actual start date,Фактична дата завершення не може бути раніше фактичної дати початку
+Actual Hours,Фактичні години
+Add,Додати
+Add a checklist item...,Додати пункт списку...
+Add a comment...,Додати коментар...
+Add a comment... (Ctrl+Enter to send),Додати коментар... (Ctrl+Enter для надсилання)
+Add a description...,Додати опис...
+Add a milestone description...,Додати опис віхи...
+Add a note below to annotate this activity.,Додайте нотатку нижче для пояснення цієї активності.
+Add a note...,Додати нотатку...
+Add a project description...,Додати опис проєкту...
+Add a task description...,Додати опис завдання...
+Add checklist item...,Додати пункт списку...
+Add Contact,Додати контакт
+Add contacts via the Desk interface or clear filters,Додайте контакти через інтерфейс Desk або скиньте фільтри
+Add Dependency,Додати залежність
+Add details about this event...,Додати подробиці про цю подію...
+Add details about this milestone...,Додати подробиці про цю віху...
+Add details about this task...,Додати подробиці про це завдання...
+Add details or acceptance criteria for this milestone,Додати подробиці або критерії приймання для цієї віхи
+"Add details, context, or acceptance criteria","Додати подробиці, контекст або критерії приймання"
+Add first dependency,Додати першу залежність
+Add item,Додати елемент
+Add items below to track progress.,Додайте елементи нижче для відстеження прогресу.
+Add items below to track subtasks,Додайте елементи нижче для відстеження підзавдань
+Add Milestone,Додати віху
+Add Milestone (Shift+M),Додати віху (Shift+M)
+Add milestones to track key deliverables.,Додайте віхи для відстеження ключових результатів.
+Add New Contact,Додати новий контакт
+Add Note,Додати нотатку
+Add note,Додати нотатку
+Add notes about this contact...,Додати нотатки про цей контакт...
+Add reaction,Додати реакцію
+Add Skill,Додати навичку
+Add start and due dates to tasks to see them on the Gantt chart,Додайте дати початку та завершення до завдань для відображення на діаграмі Gantt
+Add Task,Додати завдання
+Add Task (Shift+T),Додати завдання (Shift+T)
+Added Finish-to-Start dependency,Додано залежність «Фініш-Старт»
+Adding this dependency would create a circular reference: {0},Додавання цієї залежності створить циклічне посилання: {0}
+Adding...,Додавання...
+Address,Адреса
+Advanced,Розширені
+All,Усі
+All Active,Усі активні
+All Assignees,Усі виконавці
+All Categories,Усі категорії
+All caught up!,Все актуально!
+All Contexts,Усі контексти
+All day,Увесь день
+All day event,Подія на увесь день
+All fields,Усі поля
+All Priorities,Усі пріоритети
+All Projects,Усі проєкти
+All Status,Усі статуси
+All Statuses,Усі статуси
+All task dependencies & relative dates,Усі залежності завдань і відносні дати
+All Tasks,Усі завдання
+All tasks across all projects.,Усі завдання з усіх проєктів.
+All tasks are already linked,Усі завдання вже пов'язані
+All team members,Усі учасники команди
+All Types,Усі типи
+All Users,Усі користувачі
+Allocated,Розподілено
+allocated,розподілено
+Allow users to log time against tasks,Дозволити користувачам записувати час за завданнями
+Already exported to timesheet {0},Вже експортовано до табелю {0}
+Already Migrated,Вже перенесено
+Anyone with access,Будь-хто з доступом
+anytime to show this help,будь-коли для показу цієї довідки
+App Updates,App Updates
+Appearance,Зовнішній вигляд
+Apply,Застосувати
+Apply cascade?,Застосувати каскад?
+Apply Changes,Застосувати зміни
+Apply failed,Не вдалося застосувати
+Apply Template,Застосувати шаблон
+Applying...,Застосування...
+Appointment,Зустріч
+Appointment and resource are required,Зустріч і ресурс обов'язкові
+Appointment name is required,Назва зустрічі обов'язкова
+Appointment not found,Зустріч не знайдено
+Appointment {0} not found,Зустріч {0} не знайдено
+Apps,Додатки
+Archive,Архівувати
+Archive Activity,Архівувати активність
+Archived,В архіві
+Are you sure you want to delete this activity data? This cannot be undone.,"Ви впевнені, що хочете видалити ці дані активності? Цю дію не можна скасувати."
+Are you sure you want to delete this comment?,Ви впевнені
+Are you sure you want to delete this project?,Ви впевнені
+Are you sure?,Ви впевнені?
+Ascending -- click to reverse,За зростанням — натисніть для зворотного порядку
+Assign To,Призначити
+Assign to Me,Призначити мені
+Assigned Contact,Призначений контакт
+Assigned To,Призначено
+Assigned to,Призначено
+Assigned to Me,Призначено мені
+Assignee,Виконавець
+Assignment,Призначення
+Assignment History,Історія призначень
+Assignment name is required,Назва призначення обов'язкова
+Assignment {0} not found,Призначення {0} не знайдено
+Assignments,Призначення
+At least one action is required,Потрібна щонайменше одна дія
+At least one event is required,Потрібна щонайменше одна подія
+At least one event must be selected,Потрібно обрати щонайменше одну подію
+Attachment,Вкладення
+Attachments,Вкладення
+Attendees,Учасники
+"Audit trail, assignments, version history","Журнал дій, призначення, історія версій"
+Auto,Авто
+Auto Calculate Progress,Автоматичний розрахунок прогресу
+Auto Set Missed Milestones,Автоматично позначати пропущені віхи
+Auto-shift dependents when dates change,Автоматично зсувати залежні при зміні дат
+Auto-Trail Start,Автоматичне ковзання
+Auto-Trail updated,Автоматичне ковзання оновлено
+Automatically calculate project progress from task completion,Автоматично розраховувати прогрес проєкту за виконанням завдань
+Automatically mark milestones as missed when overdue,Автоматично позначати віхи як пропущені при простроченні
+Automation rule {0} not found,Правило автоматизації {0} не знайдено
+Automation: {0},Автоматизація: {0}
+Availability,Доступність
+Available,Доступний
+Avatar updated successfully,Аватар успішно оновлено
+Avg Progress,Середній прогрес
+Back,Назад
+Back to Portal,Назад до порталу
+Back to Projects,Назад до проєктів
+Beginner,Початківець
+Best regards,З повагою
+Billable,Оплатний
+Billable Amount,Оплатна сума
+Billable Hours,Оплатні години
+Billable Rate,Оплатна ставка
+Billing Rate,Ставка оплати
+Blocked,Заблоковано
+Both dates are needed to display task as a bar in Gantt chart,Обидві дати потрібні для відображення завдання у вигляді смуги на діаграмі Gantt
+Both doctype and docname are required,Потрібні і тип документа і назва документа
+Both proposed start and end times are required,Потрібні і пропонований час початку і завершення
+Both task_name and depends_on are required,Потрібні і task_name і depends_on
+Breadcrumb,Навігаційний ланцюжок
+Brief description of the defect or damage,Короткий опис дефекту або пошкодження
+Brief description of this template,Короткий опис цього шаблону
+Brief description of your request,Короткий опис вашого запиту
+Brief project description,Короткий опис проєкту
+Budget,Бюджет
+Budget at risk,Бюджет під загрозою
+Budget Burn Rate,Швидкість витрачання бюджету
+Budget Status,Стан бюджету
+Budget updated,Бюджет оновлено
+Budget:,Бюджет:
+Bug,Помилка
+Burn Rate,Швидкість витрачання
+Busy,Зайнятий
+By,За
+By Assignee,За виконавцем
+By Group,За групою
+By Milestone,За віхою
+By Priority,За пріоритетом
+By Status,За статусом
+Cancel,Скасувати
+Cancelled,Скасовано
+cannot be undone,не можна скасувати
+Cannot delete client with {0} linked projects. Unlink projects first.,Неможливо видалити клієнта з {0} пов'язаними проєктами. Спочатку від'єднайте проєкти.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Неможливо видалити проєкт із {0} пов'язаними завданнями. Спочатку видаліть завдання.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Неможливо видалити ресурс із {0} активними призначеннями. Спочатку завершіть або скасуйте їх.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Неможливо видалити завдання з {0} підзавданнями. Спочатку видаліть підзавдання.
+Capacity,Навантаження
+capacity,навантаження
+Capacity & Rates,Навантаження та ставки
+Capture project structure for reuse,Зберегти структуру проєкту для повторного використання
+Cascade,Каскад
+Cascade Preview,Попередній перегляд каскаду
+Category,Категорія
+Celebrate,Привітати
+Change,Змінити
+Change History,Історія змін
+Change Priority,Змінити пріоритет
+Change Status,Змінити статус
+Changes,Зміни
+Changes appear when fields are modified.,Зміни з'являються при редагуванні полів.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Список
+Checklist item name is required,Назва пункту списку обов'язкова
+Checklist item not found,Пункт списку не знайдено
+Checklist item title is required,Заголовок пункту списку обов'язковий
+Checklist item {0} not found,Пункт списку {0} не знайдено
+Checklist item {0} not found in task,Пункт списку {0} не знайдено в завданні
+Child,Дочірній
+Choose file to upload,Оберіть файл для завантаження
+Circular dependency detected: {0},Виявлено циклічну залежність: {0}
+Circular parent-child relationship detected,Виявлено циклічний зв'язок «батько-нащадок»
+Clear,Очистити
+Clear all read,Очистити всі прочитані
+Clear date,Очистити дату
+Click on an activity from the list to view and manage its details.,Натисніть на активність зі списку для перегляду та керування її деталями.
+Click the avatar to upload a new photo,Натисніть на аватар для завантаження нового фото
+Click to add description...,Натисніть для додавання опису...
+Click to add notes...,Натисніть для додавання нотаток...
+Click to assign contact,Натисніть для призначення контакту
+Click to change status,Натисніть для зміни статусу
+Click to change type,Натисніть для зміни типу
+Click to edit,Натисніть для редагування
+Click to edit budget,Натисніть для редагування бюджету
+Click to edit description,Натисніть для редагування опису
+Click to edit end date,Натисніть для редагування дати завершення
+Click to edit milestone name,Натисніть для редагування назви віхи
+Click to edit rate,Натисніть для редагування ставки
+Click to edit start date,Натисніть для редагування дати початку
+Click to edit title,Натисніть для редагування заголовка
+Click to load,Натисніть для завантаження
+Click to set group dependency...,Натисніть для вказання групової залежності...
+Click to set group...,Натисніть для вказання групи...
+Click to view,Натисніть для перегляду
+Click to view at-risk projects,Натисніть для перегляду проєктів під загрозою
+Click to view critical projects,Натисніть для перегляду критичних проєктів
+Click to view healthy projects,Натисніть для перегляду проєктів у нормі
+Client,Клієнт
+Client already has a portal user: {0},У клієнта вже є користувач порталу: {0}
+Client already has portal access,Клієнт вже має доступ до порталу
+Client has no portal user to revoke,У клієнта немає користувача порталу для відкликання
+Client link removed from project {0},Зв'язок з клієнтом видалено з проєкту {0}
+Client Portal,Клієнтський портал
+Client {0} deleted successfully,Клієнта {0} успішно видалено
+Close,Закрити
+Close (Esc),Закрити (Esc)
+Comment,Коментар
+comment,коментар
+Comment added,Коментар додано
+Comment content is required,Зміст коментаря обов'язковий
+Comment name is required,Назва коментаря обов'язкова
+Comment not found,Коментар не знайдено
+Comment removed,Коментар видалено
+Comment {0} not found in task,Коментар {0} не знайдено в завданні
+Comments,Коментарі
+comments,коментарі
+Community Edition,Community Edition
+Company,Компанія
+Company name...,Назва компанії...
+Complete,Завершити
+Completed,Завершено
+completed,завершено
+Completed Tasks,Завершені завдання
+Compliance,Відповідність
+Configure default values for new projects and tasks,Налаштувати значення за замовчуванням для нових проєктів і завдань
+Configure email notification settings,Налаштувати параметри сповіщень електронною поштою
+Confirm,Підтвердити
+Contact deleted,Контакт видалено
+Contact Details,Контактні дані
+Contact Information,Контактна інформація
+Contact name is required,Ім'я контакту обов'язкове
+Contact Support,Зв'язатися з підтримкою
+Contact your project manager for more information.,Зв'яжіться з вашим керівником проєкту для отримання додаткової інформації.
+Contact:,Контакт:
+Contacts,Контакти
+Context,Контекст
+Contractor,Підрядник
+Cost estimate cannot be negative,Оцінка вартості не може бути від'ємною
+Cost Impact,Вплив на вартість
+Cost Summary,Зведення витрат
+Could not apply the template. Please try again.,Не вдалося застосувати шаблон. Будь ласка
+Could not attach file to project,Не вдалося прикріпити файл до проєкту
+Could not change task priority,Не вдалося змінити пріоритет завдання
+Could not change task status,Не вдалося змінити статус завдання
+Could not delete the project. Please try again.,Не вдалося видалити проєкт. Будь ласка
+Could not delete the task. Please try again.,Не вдалося видалити завдання. Будь ласка
+Could not delete the template.,Не вдалося видалити шаблон.
+Could not duplicate the task. Please try again.,Не вдалося дублювати завдання. Будь ласка
+Could not export the template.,Не вдалося експортувати шаблон.
+Could not import the template. Please check the file format.,Не вдалося імпортувати шаблон. Перевірте формат файлу.
+Could not link task to milestone,Не вдалося пов'язати завдання з віхою
+Could not load document details.,Не вдалося завантажити деталі документа.
+Could not load task details,Не вдалося завантажити деталі завдання
+Could not promote checklist item to task.,Не вдалося перетворити пункт списку на завдання.
+Could not remove task from milestone,Не вдалося від'єднати завдання від віхи
+Could not save budget.,Не вдалося зберегти бюджет.
+Could not save changes to the milestone,Не вдалося зберегти зміни віхи
+Could not save changes to the task,Не вдалося зберегти зміни завдання
+Could not save description.,Не вдалося зберегти опис.
+Could not save end date.,Не вдалося зберегти дату завершення.
+Could not save milestone name.,Не вдалося зберегти назву віхи.
+Could not save start date.,Не вдалося зберегти дату початку.
+Could not save the template. Please try again.,Не вдалося зберегти шаблон. Будь ласка
+Could not save title.,Не вдалося зберегти заголовок.
+Could not update dependency mode.,Не вдалося оновити режим залежності.
+Could not update milestone date,Не вдалося оновити дату віхи
+Could not update project status.,Не вдалося оновити статус проєкту.
+Could not update project type.,Не вдалося оновити тип проєкту.
+Could not update setting.,Не вдалося оновити налаштування.
+Could not update task dates,Не вдалося оновити дати завдання
+Could not update task status,Не вдалося оновити статус завдання
+Could not update the template.,Не вдалося оновити шаблон.
+Create a copy of this task,Створити копію цього завдання
+Create Contact,Створити контакт
+Create Event,Створити подію
+Create Milestone,Створити віху
+Create New Milestone,Створити нову віху
+Create New Task,Створити нове завдання
+Create Project,Створити проєкт
+Create Task,Створити завдання
+Create tasks and milestones from a template,Створити завдання та віхи із шаблону
+Create your first project to get started.,Створіть ваш перший проєкт для початку роботи.
+Create your first task to start tracking work on this project.,Створіть перше завдання для початку відстеження роботи над цим проєктом.
+Created,Створено
+Creating...,Створення...
+Critical,Критичний
+Critical Path,Критичний шлях
+"Currency used for budgets, costs, and billing rates","Валюта для бюджетів, витрат і ставок оплати"
+Current,Поточний
+Current Assignments,Поточні призначення
+Current scheduled time:,Поточний запланований час:
+Currently running version,Currently running version
+d lag,д затримки
+Daily Availability,Щоденна доступність
+Daily Hours,Годин на день
+Danger Zone,Небезпечна зона
+Dark,Темна
+Dashboard,Панель керування
+Date,Дата
+Date changes on this task will show cascade impact here,Зміни дат цього завдання покажуть каскадний вплив тут
+Date cleared,Дату очищено
+Date of Joining,Дата приєднання
+Date updated,Дату оновлено
+Dates,Дати
+Dates cascaded,Дати каскадовано
+Dates will be relative to the project's start date.,Дати будуть відносними до дати початку проєкту.
+Day,День
+day,день
+days,днів
+Days before due date to send reminder,За скільки днів до терміну надсилати нагадування
+Days Overdue,Днів прострочення
+Days Remaining,Днів залишилося
+Deadline,Кінцевий термін
+Deadlines,Терміни
+Decision,Рішення
+Decline,Відхилити
+Declined,Відхилено
+Default Currency,Валюта за замовчуванням
+Default hours per week for contact capacity planning,Годин на тиждень за замовчуванням для планування навантаження контактів
+Default Priority,Пріоритет за замовчуванням
+Default Project Status,Статус проєкту за замовчуванням
+Default Task Status,Статус завдання за замовчуванням
+Default task view,Вигляд завдань за замовчуванням
+Default Values,Значення за замовчуванням
+Default Weekly Capacity,Навантаження на тиждень за замовчуванням
+Defaults,За замовчуванням
+Defect Cost Impact,Фінансові наслідки дефекту
+Defect name is required,Назва дефекту обов'язкова
+Defect Type,Тип дефекту
+Defect {0} not found,Дефект {0} не знайдено
+Defects,Дефекти
+Defects & Issues,Дефекти та проблеми
+Defects Resolved,Дефекти усунено
+Delayed,Із затримкою
+Delete,Видалити
+Delete Activity Data,Видалити дані активності
+Delete all read notifications?,Видалити всі прочитані сповіщення?
+Delete comment,Видалити коментар
+Delete Contact,Видалити контакт
+Delete Event,Видалити подію
+Delete Event?,Видалити подію?
+Delete failed,Не вдалося видалити
+Delete file,Видалити файл
+Delete item,Видалити елемент
+Delete note,Видалити нотатку
+Delete Project,Видалити проєкт
+Delete Task,Видалити завдання
+Delete this project,Видалити цей проєкт
+Deleted,Видалено
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Проєкт ""{0}"" видалено ({1} завдань, {2} віх)"
+Deletes notes and preferences. Source document is not affected.,Видаляє нотатки та налаштування. Вихідний документ не зачіпається.
+Deleting...,Видалення...
+Department,Відділ
+Dependencies,Залежності
+dependencies,залежності
+Dependencies are informational only,Залежності мають лише інформаційний характер
+dependency,залежність
+Dependency already exists,Залежність вже існує
+Dependency Chain,Ланцюжок залежностей
+Dependency created,Залежність створено
+Dependency mode updated,Режим залежності оновлено
+Dependency name is required,Назва залежності обов'язкова
+Dependency task {0} not found,Залежне завдання {0} не знайдено
+Dependency {0} not found,Залежність {0} не знайдено
+depends,залежить
+Depends on Group,Залежить від групи
+Depends on task is required,Залежне завдання обов'язкове
+depends on...,залежить від...
+Descending -- click to reverse,За спаданням — натисніть для зворотного порядку
+Describe the defect in detail...,Детально опишіть дефект...
+Description,Опис
+Description updated,Опис оновлено
+Designation,Посада
+"Detailed description of the defect, location, and impact","Детальний опис дефекту, його розташування та наслідків"
+Details,Подробиці
+Discard timer,Скинути таймер
+Discussion,Обговорення
+Dismiss,Dismiss
+Display,Відображення
+Document,Документ
+Document attached to project,Документ прикріплено до проєкту
+Document final decision and rationale,Зафіксувати остаточне рішення та обґрунтування
+Documentation Review,Перевірка документації
+Documents,Документи
+Done,Готово
+Download,Завантажити
+Drag to create dependency,Перетягніть для створення залежності
+Dry Run,Пробний запуск
+Dry Run Complete,Пробний запуск завершено
+Due Date,Термін виконання
+Due date,Термін виконання
+Due Date (Earliest),Термін виконання (найближчий)
+Due date cannot be before start date,Термін виконання не може бути раніше дати початку
+Due date is in the past,Термін виконання в минулому
+Due Date Reminders,Нагадування про терміни
+Due Diligence,Перевірка
+Due Diligence Checklist,Список перевірки
+Due This Week,Термін цього тижня
+Due:,Термін:
+Duplicate events are not allowed,Дублювання подій не дозволяється
+Duplicate failed,Не вдалося дублювати
+Duplicate Task,Дублювати завдання
+Duration,Тривалість
+Duration Summary,Зведення тривалості
+Duration:,Тривалість:
+e.g. Cracked wall finish in bathroom...,напр. Тріщина в оздобленні стіни у ванній кімнаті...
+"e.g. Electrical, Plumbing...","напр. Електрика, Сантехніка..."
+Edit,Редагувати
+Edit (E),Редагувати (E)
+Edit dependency,Редагувати залежність
+Edit Event,Редагувати подію
+Efficiency,Ефективність
+Either dependency_name or depends_on is required,Потрібно dependency_name або depends_on
+Email,Електронна пошта
+Email invitations to all attendees,Надіслати запрошення електронною поштою всім учасникам
+Email is required to create portal user,Для створення користувача порталу потрібна електронна пошта
+Email notifications,Сповіщення електронною поштою
+Employee,Працівник
+Employee DocType not available,DocType «Працівник» недоступний
+Employee not found,Працівника не знайдено
+Enable or disable optional features,Увімкнути або вимкнути необов'язкові функції
+Enable Time Tracking,Увімкнути облік часу
+End,Кінець
+End Date,Дата завершення
+End date,Дата завершення
+End Date cannot be before Start Date,Дата завершення не може бути раніше дати початку
+End date cannot be before start date,Дата завершення не може бути раніше дати початку
+End date updated,Дату завершення оновлено
+End time was before start time. Adjusted to 1 hour after start.,Час завершення був раніше часу початку. Скориговано на 1 годину після початку.
+End:,Кінець:
+Enter milestone name...,Введіть назву віхи...
+Enter project name,Введіть назву проєкту
+Enter task title...,Введіть заголовок завдання...
+Enter template name,Введіть назву шаблону
+Enter your note... Use @name to mention someone,Введіть нотатку... Використовуйте @ім'я для згадування
+Error,Помилка
+Error loading activity,Помилка при завантаженні активності
+Error loading contacts,Помилка при завантаженні контактів
+Error loading dashboard,Помилка при завантаженні панелі керування
+Error loading project,Помилка при завантаженні проєкту
+Error loading projects,Помилка при завантаженні проєктів
+Error loading settings,Помилка при завантаженні налаштувань
+Error loading tasks,Помилка при завантаженні завдань
+Error loading templates,Помилка при завантаженні шаблонів
+Est. Hours,Розр. годин
+Estimated,Розрахунковий
+Estimated Cost,Розрахункова вартість
+Estimated Cost (€),Розрахункова вартість (€)
+Estimated Hours,Розрахункові години
+Estimated:,Розрахунково:
+Evaluate potential risks and concerns,Оцінити можливі ризики та проблеми
+Event,Подія
+Event is required for event context,Подія обов'язкова для контексту події
+Event is required when tracking context is 'event',"Подія обов'язкова, коли контекст відстеження — «подія»"
+Event Type,Тип події
+Events,Події
+Events not available. Please run: bench --site orga.localhost migrate,Події недоступні. Виконайте: bench --site orga.localhost migrate
+Events:,Події:
+Expert,Експерт
+Explain why you are proposing a different time...,Поясніть
+Export,Експорт
+Export failed,Не вдалося експортувати
+Export JSON,Експорт JSON
+Exported,Експортовано
+Exported to timesheet {0},Експортовано до табелю {0}
+External,Зовнішній
+Failed to add item,Не вдалося додати елемент
+Failed to add note,Не вдалося додати нотатку
+Failed to add skill,Не вдалося додати навичку
+Failed to apply cascade changes: {0},Не вдалося застосувати каскадні зміни: {0}
+Failed to create defect,Не вдалося створити дефект
+Failed to create dependency,Не вдалося створити залежність
+Failed to create event,Не вдалося створити подію
+Failed to create milestone,Не вдалося створити віху
+Failed to create project,Не вдалося створити проєкт
+Failed to create task,Не вдалося створити завдання
+Failed to create time log,Не вдалося створити запис часу
+Failed to delete,Не вдалося видалити
+Failed to delete comment,Не вдалося видалити коментар
+Failed to delete contact,Не вдалося видалити контакт
+Failed to load,Не вдалося завантажити
+Failed to load activity,Не вдалося завантажити активність
+Failed to load assignments,Не вдалося завантажити призначення
+Failed to load contact,Не вдалося завантажити контакт
+Failed to load dashboard data,Не вдалося завантажити дані панелі керування
+Failed to load defects,Не вдалося завантажити дефекти
+Failed to load events,Не вдалося завантажити події
+Failed to load project,Не вдалося завантажити проєкт
+Failed to load projects,Не вдалося завантажити проєкти
+Failed to load report data,Не вдалося завантажити дані звіту
+Failed to load settings,Не вдалося завантажити налаштування
+Failed to load tasks,Не вдалося завантажити завдання
+Failed to move task,Не вдалося перемістити завдання
+Failed to post comment,Не вдалося опублікувати коментар
+Failed to propose new time,Не вдалося запропонувати новий час
+Failed to remove item,Не вдалося видалити елемент
+Failed to remove skill,Не вдалося видалити навичку
+Failed to reorder milestones: {0},Не вдалося переупорядкувати віхи: {0}
+Failed to reorder tasks: {0},Не вдалося переупорядкувати завдання: {0}
+Failed to reschedule dependent tasks: {0},Не вдалося переплановувати залежні завдання: {0}
+Failed to save,Не вдалося зберегти
+Failed to save preferences,Не вдалося зберегти налаштування
+Failed to save settings,Не вдалося зберегти налаштування
+Failed to submit request. Please try again.,Не вдалося надіслати запит. Будь ласка
+Failed to update item,Не вдалося оновити елемент
+Failed to update priority,Не вдалося оновити пріоритет
+Failed to update task,Не вдалося оновити завдання
+Failed to update tasks: {0},Не вдалося оновити завдання: {0}
+Failed to upload avatar,Не вдалося завантажити аватар
+Feature,Функція
+Features,Функції
+FF (Finish-Finish),FF (Фініш-Фініш)
+FF - Finish-to-Finish,FF — Фініш-Фініш
+Field has been updated,Поле оновлено
+Field name is required for 'Set Field Value' action,Назва поля обов'язкова для дії «Задати значення поля»
+Field {0} is not a Link field,Поле {0} не є полем-посиланням
+Field {0} not found in {1},Поле {0} не знайдено в {1}
+File,Файл
+file,файл
+File does not belong to this task,Файл не належить до цього завдання
+File name is required,Назва файлу обов'язкова
+File uploaded,Файл завантажено
+File {0} not found,Файл {0} не знайдено
+Files,Файли
+files,файли
+Filter,Фільтр
+Final Decision,Остаточне рішення
+Finance,Фінанси
+Financial,Фінансовий
+Finish-to-Finish,Фініш-Фініш
+Finish-to-Start,Фініш-Старт
+Flag,Позначити
+Flag for attention,Позначити як важливе
+Flagged,Позначено
+Focus Panel,Панель фокусу
+Follows your system preference. Currently:,Відповідає налаштуванню вашої системи. Зараз:
+Frappe Project {0} not found,Проєкт Frappe {0} не знайдено
+Frappe Projects Migration,Перенесення Frappe Projects
+Frappe Projects module not available,Модуль Frappe Projects недоступний
+Frappe Projects module not installed,Модуль Frappe Projects не встановлено
+Frappe Projects sync is not enabled,Синхронізацію з Frappe Projects не ввімкнено
+Frappe Task DocType not found,DocType завдання Frappe не знайдено
+Frappe Task has no project,Завдання Frappe не пов'язане з проєктом
+Frappe Task {0} not found,Завдання Frappe {0} не знайдено
+Fri,Пт
+From,Від
+From Template,Із шаблону
+FS (Finish-Start),FS (Фініш-Старт)
+FS - Finish-to-Start (default),FS — Фініш-Старт (за замовчуванням)
+Full form view with audit trail,Повний вигляд форми з журналом дій
+Full name,Повне ім'я
+Gantt,Gantt
+Gantt Chart,Діаграма Gantt
+Gantt View,Вигляд Gantt
+General Note,Загальна нотатка
+Get started,Почати
+Go back,Повернутися
+Go Back,Go Back
+Group by,Групувати за
+Group dependency removed,Групову залежність видалено
+Group dependency set,Групову залежність встановлено
+Group removed,Групу видалено
+Group updated,Групу оновлено
+Hammock task dates are auto-calculated and cannot be changed manually,Дати завдань-гамаків розраховуються автоматично і не можуть бути змінені вручну
+Have a question or need assistance? Fill out the form below and our team will get back to you.,"Маєте питання або потрібна допомога? Заповніть форму нижче, і наша команда зв'яжеться з вами."
+Health,Стан
+Healthy,У нормі
+Hello {0},Вітаємо {0}
+Here's what's happening with your projects today.,Ось що відбувається з вашими проєктами сьогодні.
+Hide,Сховати
+High,Високий
+History,Історія
+Home,Головна
+Hourly Cost,Погодинна вартість
+Hours,Годин
+hours,годин
+Hours Logged,Записано годин
+ID,ID
+Image must be smaller than 5 MB,Зображення має бути менше 5 МБ
+Import,Імпорт
+Import existing projects and tasks from Frappe Projects module,Імпортувати наявні проєкти та завдання з модуля Frappe Projects
+Import failed,Не вдалося імпортувати
+Import Template,Імпортувати шаблон
+Imported,Імпортовано
+in,в
+In Progress,У роботі
+In Review,На перевірці
+In-app notifications,Сповіщення в додатку
+Inactive,Неактивний
+Initial Review,Первинна перевірка
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Недостатньо прав для перегляду всіх завдань
+Intermediate,Середній рівень
+Internal,Внутрішній
+Invalid DocType,Невірний DocType
+Invalid DocType for import,Невірний DocType для імпорту
+Invalid item type: {0},Невірний тип елемента: {0}
+Invalid JSON data,Невірні дані JSON
+Invalid note type. Must be one of: {0},Невірний тип нотатки. Має бути одним з: {0}
+Invalid project reference,Невірне посилання на проєкт
+Invalid reaction type. Must be one of: {0},Невірний тип реакції. Має бути одним з: {0}
+Invalid RSVP status,Невірний статус RSVP
+Invalid status. Must be one of: {0},Невірний статус. Має бути одним з: {0}
+Invalid status: {0},Невірний статус: {0}
+Invalid status: {0}. Must be one of: {1},Невірний статус: {0}. Має бути одним з: {1}
+Invalid tracking context: {0},Невірний контекст відстеження: {0}
+Invalid visibility. Must be one of: {0},Невірна видимість. Має бути одною з: {0}
+Invitation: {0} - {1} at {2},Запрошення: {0} — {1} о {2}
+Invite People,Запросити людей
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Елемент додано
+Item ID is required,Ідентифікатор елемента обов'язковий
+Item removed,Елемент видалено
+Item type is required,Тип елемента обов'язковий
+Item {0} not found,Елемент {0} не знайдено
+Job title or role,Посада або роль
+Join Meeting,Приєднатися до зустрічі
+Just now,Щойно
+just now,щойно
+Kanban,Kanban
+Kanban Board,Дошка Kanban
+Kanban View,Вигляд Kanban
+Keyboard Shortcuts,Клавіатурні скорочення
+Keyboard shortcuts (?),Клавіатурні скорочення (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Останнє оновлення
+Last updated:,Останнє оновлення:
+Last Week,Минулий тиждень
+Latest Version,Latest Version
+Light,Світла
+Link failed,Не вдалося пов'язати
+Link Task,Пов'язати завдання
+Linked,Пов'язано
+Linked employee not found,Пов'язаного працівника не знайдено
+Linked Tasks,Пов'язані завдання
+List,Список
+List View,Вигляд списку
+Load failed,Не вдалося завантажити
+Load More,Завантажити ще
+Load more comments,Завантажити ще коментарі
+Loading activity...,Завантаження активності...
+Loading changes...,Завантаження змін...
+Loading checklist...,Завантаження списку...
+Loading comments...,Завантаження коментарів...
+Loading contact...,Завантаження контакту...
+Loading contacts...,Завантаження контактів...
+Loading dependencies...,Завантаження залежностей...
+Loading details...,Завантаження подробиць...
+Loading discussion...,Завантаження обговорення...
+Loading events...,Завантаження подій...
+Loading files...,Завантаження файлів...
+Loading notes...,Завантаження нотаток...
+Loading preferences...,Завантаження налаштувань...
+Loading project...,Завантаження проєкту...
+Loading projects...,Завантаження проєктів...
+Loading replies...,Завантаження відповідей...
+Loading report data...,Завантаження даних звіту...
+Loading settings...,Завантаження налаштувань...
+Loading task...,Завантаження завдання...
+Loading templates...,Завантаження шаблонів...
+Loading time logs...,Завантаження записів часу...
+Loading your portal...,Завантаження вашого порталу...
+Loading...,Завантаження...
+Location,Місцезнаходження
+Log Time,Записати час
+Logout,Вийти
+Low,Низький
+Make Offer,Зробити пропозицію
+Manager,Керівник
+Manual Entry,Ручне введення
+Margin,Маржа
+Mark all as read,Позначити все як прочитане
+Mark all read,Позначити все як прочитане
+Mark as read,Позначити як прочитане
+Mark as unread,Позначити як непрочитане
+Mark read,Позначити як прочитане
+Marking...,Позначення...
+Material,Матеріал
+Maybe,Можливо
+Medium,Середній
+Meeting,Нарада
+Meeting Link,Посилання на нараду
+Meeting title,Назва наради
+Meeting URL,Посилання на нараду
+Meetings,Наради
+Mention,Згадка
+Message,Повідомлення
+Message is required,Повідомлення обов'язкове
+Message is required for '{0}' action,Повідомлення обов'язкове для дії «{0}»
+Migrate,Перенести
+Migration Complete,Перенесення завершено
+Migration ID:,ID перенесення:
+Migration log not found: {0},Журнал перенесення не знайдено: {0}
+Milestone,Віха
+milestone,віха
+Milestone created,Віху створено
+Milestone description has been saved.,Опис віхи збережено.
+Milestone ID is required,Ідентифікатор віхи обов'язковий
+Milestone marked as Missed (past due date),Віху позначено як пропущену (термін минув)
+Milestone moved,Віху переміщено
+Milestone Name,Назва віхи
+Milestone name has been saved.,Назву віхи збережено.
+Milestone name is required,Назва віхи обов'язкова
+Milestone updated,Віху оновлено
+Milestone {0} not found,Віху {0} не знайдено
+Milestone {0} not in project {1},Віха {0} відсутня в проєкті {1}
+Milestones,Віхи
+milestones,віхи
+Milestones:,Віхи:
+Minutes,Хвилин
+Missed,Пропущено
+Mixed,Змішаний
+Mobile,Мобільний
+Moderate,Помірний
+Modified,Змінено
+"Modify details, time, or attendees","Змінити деталі, час або учасників"
+Mon,Пн
+Month,Місяць
+Move failed,Не вдалося перемістити
+Must be a positive number,Має бути додатним числом
+Must finish before this finishes,Має завершитися до закінчення цього
+Must finish before this starts,Має завершитися до початку цього
+Must start before this finishes,Має розпочатися до закінчення цього
+Must start before this starts,Має розпочатися до початку цього
+My Assignments,Мої призначення
+My Projects,Мої проєкти
+My Schedule,Мій розклад
+My Tasks,Мої завдання
+N/A,Н/Д
+Name,Назва
+Name (A-Z),Назва (А-Я)
+Name (Z-A),Назва (Я-А)
+Name cannot exceed 255 characters,Назва не може перевищувати 255 символів
+Need help?,Потрібна допомога?
+Needs Attention,Потребує уваги
+Never,Never
+new activities,нові активності
+New Activity,Нова активність
+New activity,Нова активність
+New Event,Нова подія
+New index is required,Потрібен новий індекс
+New Project,Новий проєкт
+New tasks will auto-trail by default.,Нові завдання за замовчуванням матимуть автоматичне ковзання.
+Newest First,Спочатку нові
+Next,Далі
+Next 14 days,Найближчі 14 днів
+Next 30 days,Найближчі 30 днів
+Next 60 days,Найближчі 60 днів
+Next 7 days,Найближчі 7 днів
+Next 90 days,Найближчі 90 днів
+Next Week,Наступний тиждень
+Next:,Далі:
+No,Ні
+No active assignments,Немає активних призначень
+No active projects,Немає активних проєктів
+No active timer found,Активний таймер не знайдено
+No activity selected,Активність не обрано
+No assignments found,Призначень не знайдено
+No attendees,Немає учасників
+no change,без змін
+No changes for this field.,Немає змін для цього поля.
+No changes recorded for this activity.,Для цієї активності змін не зафіксовано.
+No checklist items yet,Пунктів списку поки немає
+No checklist items yet.,Пунктів списку поки немає.
+No comments yet,Коментарів поки немає
+No comments yet.,Коментарів поки немає.
+No contacts available,Немає доступних контактів
+No content for this tab,Немає вмісту для цієї вкладки
+No data available,Немає доступних даних
+No data available for the selected filters,Немає даних для обраних фільтрів
+No data to export,Немає даних для експорту
+No dates set,Дати не вказано
+No defects reported,Дефектів не виявлено
+No dependencies defined,Залежностей не визначено
+No description,Немає опису
+No discussion yet.,Обговорень поки немає.
+No documents attached,Документів не прикріплено
+No due date,Немає терміну виконання
+No employee linked to this resource,До цього ресурсу не прив'язано працівника
+No ERPNext employee linked to resource,До ресурсу не прив'язано працівника ERPNext
+No events found,Подій не знайдено
+No files attached yet.,Файлів поки не прикріплено.
+No Frappe Project linked,Проєкт Frappe не прив'язано
+No Grouping,Без групування
+No items,Немає елементів
+No matching tasks,Немає відповідних завдань
+No matching tasks found,Відповідних завдань не знайдено
+No migration history,Немає історії перенесення
+No Milestone,Без віхи
+No milestones,Немає віх
+No milestones defined for this project.,Для цього проєкту віх не визначено.
+No notes yet.,Нотаток поки немає.
+No notes yet. Add a due diligence note to track progress.,Нотаток поки немає. Додайте нотатку перевірки для відстеження прогресу.
+No notifications,Немає сповіщень
+No Orga Project linked to Frappe Project {0},Проєкт Orga не прив'язано до проєкту Frappe {0}
+No overdue tasks,Немає прострочених завдань
+No pending cascade changes,Немає очікуваних каскадних змін
+No predecessors - this task can start independently,Немає попередників — це завдання може починатися самостійно
+No project,Немає проєкту
+No projects found,Проєктів не знайдено
+No Projects Yet,Проєктів поки немає
+No recent activity,Немає нещодавньої активності
+No related documents,Немає пов'язаних документів
+No resolved threads.,Немає завершених обговорень.
+No resources found,Ресурсів не знайдено
+No results found,Результатів не знайдено
+No skills listed,Навичок не вказано
+No skills recorded yet,Навичок поки не записано
+No successors - no tasks are waiting for this one,Немає наступників — жодне завдання не чекає на це
+No task selected,Завдання не обрано
+No tasks assigned to you,Вам не призначено завдань
+No tasks available to add,Немає завдань для додавання
+No tasks found,Завдань не знайдено
+No tasks linked to this milestone,До цієї віхи не прив'язано завдань
+No tasks with dates to display,Немає завдань із датами для відображення
+No tasks yet,Завдань поки немає
+No team members,Немає учасників команди
+No template,Немає шаблону
+No templates yet,Шаблонів поки немає
+No time data found,Даних про час не знайдено
+No time logged today,Сьогодні час не записано
+No time logged yet,Час поки не записано
+No time logs for this period,Немає записів часу за цей період
+No time logs found,Записів часу не знайдено
+No unread notifications,Немає непрочитаних сповіщень
+No update information available yet.,No update information available yet.
+None,Немає
+Not found,Не знайдено
+Not permitted,Доступ заборонено
+Not permitted to access this project,Немає доступу до цього проєкту
+Not permitted to access this task,Немає доступу до цього завдання
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Вам не дозволено коментувати цей документ
+Not permitted to create clients,Вам не дозволено створювати клієнтів
+Not permitted to delete this client,Вам не дозволено видаляти цього клієнта
+Not permitted to delete this defect,Вам не дозволено видаляти цей дефект
+Not permitted to delete this note,Вам не дозволено видаляти цю нотатку
+Not permitted to delete this project,Вам не дозволено видаляти цей проєкт
+Not permitted to delete this task,Вам не дозволено видаляти це завдання
+Not permitted to delete this time log,Вам не дозволено видаляти цей запис часу
+Not permitted to invite clients,Вам не дозволено запрошувати клієнтів
+Not permitted to modify client access,Вам не дозволено змінювати доступ клієнта
+Not permitted to modify this project,Вам не дозволено змінювати цей проєкт
+Not permitted to update settings,Вам не дозволено змінювати налаштування
+Not permitted to update this client,Вам не дозволено змінювати цього клієнта
+Not permitted to view this client,Вам не дозволено переглядати цього клієнта
+not sent,не надіслано
+Not set,Не задано
+Not specified,Не вказано
+Note,Нотатка
+Note (optional),Нотатка (необов'язково)
+Note Content,Зміст нотатки
+Note content is required,Зміст нотатки обов'язковий
+Note name is required,Назва нотатки обов'язкова
+Note not found,Нотатку не знайдено
+Note Type,Тип нотатки
+Notes,Нотатки
+Notification,Сповіщення
+Notification not found,Сповіщення не знайдено
+Notifications,Сповіщення
+Off Track,Не за планом
+Offer,Пропозиція
+Offer Prepared,Пропозицію підготовлено
+Oldest First,Спочатку старі
+On Hold,На утриманні
+On Leave,У відпустці
+On Track,За планом
+On-Time Rate,Частка вчасного
+Only administrators can delete activities,Лише адміністратори можуть видаляти активності
+Only the comment author or administrators can delete comments,Лише автор коментаря або адміністратори можуть видаляти коментарі
+Only you and admins,Лише ви та адміністратори
+Open,Відкрито
+Open in Desk,Відкрити в Desk
+Open Task Log,Відкрити журнал завдання
+Open Tasks,Відкриті завдання
+Optional,Необов'язково
+optional,необов'язково
+Or email us directly at,Або напишіть нам безпосередньо на
+Orga Project {0} from Frappe Projects,Проєкт Orga {0} з Frappe Projects
+Orga Task {0} from Frappe,Завдання Orga {0} з Frappe
+Organizer,Організатор
+Other,Інше
+Over Budget,Перевищення бюджету
+Overall Progress,Загальний прогрес
+Overall Utilization,Загальне завантаження
+Overallocated,Перевантажений
+Overdue,Прострочено
+overdue,прострочено
+Overdue Tasks,Прострочені завдання
+Overview,Огляд
+Owner,Власник
+Page Not Found,Сторінку не знайдено
+Parent,Батьківський
+Parent comment must belong to the same document,Батьківський коментар повинен належати до того ж документа
+Parent comment not found,Батьківський коментар не знайдено
+Parent project not synced to Frappe yet,Батьківський проєкт ще не синхронізовано з Frappe
+Parent project sync not enabled,Синхронізацію батьківського проєкту не ввімкнено
+Partner,Партнер
+Pending,Очікування
+per page,на сторінку
+Perform initial assessment and background check,Провести первинну оцінку та перевірку
+Permanently remove this event,Безповоротно видалити цю подію
+Permanently remove this task,Безповоротно видалити це завдання
+Phone,Телефон
+Pin,Закріпити
+Pin Activity,Закріпити активність
+Pin to top,Закріпити вгорі
+Pinned,Закріплено
+Planned budget for this task,Запланований бюджет для цього завдання
+Planning,Планування
+Please describe your question or issue in detail...,Детально опишіть ваше питання або проблему...
+Please login to access Orga,Будь ласка
+Please login to access the client portal,Будь ласка
+Please respond to this invitation in Orga,Будь ласка
+Please select an image file,Будь ласка
+Please try again,Будь ласка
+Please type,Будь ласка
+Portal,Портал
+Portal access revoked for {0},Доступ до порталу відкликано для {0}
+Portal user created successfully. Welcome email {0},Користувача порталу успішно створено. Вітальний лист {0}
+Post,Опублікувати
+Powered by,Працює на
+Powered by Tonic,Працює на Tonic
+Predecessors (Blocked By),Попередники (заблоковано)
+Preferences,Налаштування
+Preferences saved successfully,Налаштування успішно збережено
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Префікс для автоматичних кодів проєктів (напр. ORG-2026-0001)
+Prepare and document offer terms,Підготувати та зафіксувати умови пропозиції
+Press,Натисніть
+Preview,Попередній перегляд
+Preview cascade before applying,Попередній перегляд каскаду перед застосуванням
+Previous,Назад
+Priority,Пріоритет
+Priority assigned to new tasks,Пріоритет для нових завдань
+Priority updated,Пріоритет оновлено
+Proficiency,Рівень володіння
+Profile,Профіль
+Progress,Прогрес
+Progress (High-Low),Прогрес (за спаданням)
+Progress (Low-High),Прогрес (за зростанням)
+Progress Overview,Огляд прогресу
+Progress updated,Прогрес оновлено
+Project,Проєкт
+Project budget has been saved.,Бюджет проєкту збережено.
+Project code (e.g. ORG-2026-0001),Код проєкту (напр. ORG-2026-0001)
+Project Code Prefix,Префікс коду проєкту
+Project created,Проєкт створено
+Project deleted,Проєкт видалено
+Project description has been saved.,Опис проєкту збережено.
+Project Details,Деталі проєкту
+Project end date has been saved.,Дату завершення проєкту збережено.
+Project Files,Файли проєкту
+Project has no linked client,Проєкт не має пов'язаного клієнта
+Project Health,Стан проєкту
+Project Info,Інформація про проєкт
+Project is required,Проєкт обов'язковий
+Project is required for project context,Проєкт обов'язковий для контексту проєкту
+Project is required when tracking context is 'project',"Проєкт обов'язковий, коли контекст відстеження — «проєкт»"
+Project Manager,Керівник проєкту
+Project Name,Назва проєкту
+Project name and template name are required,Назва проєкту та назва шаблону обов'язкові
+Project name is required,Назва проєкту обов'язкова
+Project not found,Проєкт не знайдено
+Project not found or you do not have access,Проєкт не знайдено або у вас немає доступу
+Project settings,Налаштування проєкту
+Project start date has been saved.,Дату початку проєкту збережено.
+Project title has been saved.,Заголовок проєкту збережено.
+Project Type,Тип проєкту
+Project updated,Проєкт оновлено
+Project {0} linked to client {1},Проєкт {0} пов'язано з клієнтом {1}
+Project {0} not found,Проєкт {0} не знайдено
+Project {0} to Frappe Projects,Проєкт {0} до Frappe Projects
+Project:,Проєкт:
+Projects,Проєкти
+projects,проєкти
+Projects created:,Проєктів створено:
+Projects Overview,Огляд проєктів
+Projects skipped:,Проєктів пропущено:
+Projects updated:,Проєктів оновлено:
+Promote failed,Не вдалося перетворити
+Promote to task,Перетворити на завдання
+Promoted to task,Перетворено на завдання
+Propose,Запропонувати
+Propose New Time,Запропонувати новий час
+Propose Time,Запропонувати час
+Proposed End,Пропоноване завершення
+Proposed Start,Пропонований початок
+Public,Публічний
+Quick Action,Швидка дія
+Quick Actions,Швидкі дії
+Quick Stats,Коротка статистика
+Rates,Ставки
+Receive notifications via email,Отримувати сповіщення електронною поштою
+Receive notifications within the application,Отримувати сповіщення в додатку
+Recent Activity,Нещодавня активність
+Recipient {0} is not a valid user,Одержувач {0} не є дійсним користувачем
+Reference,Посилання
+Refresh,Оновити
+Related,Пов'язане
+Related Company (optional),Пов'язана компанія (необов'язково)
+Related Documents,Пов'язані документи
+Related Project,Пов'язаний проєкт
+Remaining,Залишилось
+Reminder,Нагадування
+Reminder Lead Time,Час до нагадування
+Reminder: {0} - {1} at {2},Нагадування: {0} — {1} о {2}
+Remove,Прибрати
+Remove dependency,Видалити залежність
+Remove dependency on,Видалити залежність від
+Remove from group,Прибрати з групи
+Remove group dependency,Видалити групову залежність
+Remove skill,Видалити навичку
+Reopen,Відновити
+Reopen thread,Відновити обговорення
+reopened,відновлено
+replies,відповіді
+Reply,Відповісти
+reply,відповідь
+Replying to,У відповідь на
+Replying to comment,У відповідь на коментар
+Report Defect,Повідомити про дефект
+Reported Date,Дата повідомлення
+Reports,Звіти
+Reports To,Підпорядковується
+Request Submitted!,Запит надіслано!
+Required,Обов'язково
+required,обов'язково
+Research,Дослідження
+Reset to Defaults,Скинути на значення за замовчуванням
+Resolve,Вирішити
+Resolve thread,Завершити обговорення
+Resolved,Вирішено
+Resolved date cannot be before reported date,Дата вирішення не може бути раніше дати виявлення
+Resource,Ресурс
+Resource and skill name are required,Ресурс та назва навички обов'язкові
+Resource is already an attendee,Ресурс вже є учасником
+Resource name is required,Назва ресурсу обов'язкова
+Resource not found,Ресурс не знайдено
+Resource synced from employee {0},Ресурс синхронізовано з працівника {0}
+Resource {0} is already assigned to this task ({1}),Ресурс {0} вже призначено на це завдання ({1})
+Resource {0} not found,Ресурс {0} не знайдено
+Resources,Контакти
+Retry,Повторити
+Review,Перевірка
+Review all relevant documents and contracts,Перевірити всі відповідні документи та договори
+Reviews,Перевірки
+Risk Assessment,Оцінка ризиків
+Rollback,Відкотити
+Rolled back,Відкочено
+Room or address,Приміщення або адреса
+RSVP,RSVP
+Safety,Безпека
+Sat,Сб
+Save,Зберегти
+"Save a project as a template, or import one from a JSON file.",Збережіть проєкт як шаблон або імпортуйте з файлу JSON.
+Save as Template,Зберегти як шаблон
+Save Changes,Зберегти зміни
+Save failed,Не вдалося зберегти
+Save Preferences,Зберегти налаштування
+Save Template,Зберегти шаблон
+Saving...,Збереження...
+Schedule,Розклад
+Schedule type is required for scheduled triggers,Тип розкладу обов'язковий для запланованих тригерів
+Scheduled,Заплановано
+Search,Пошук
+"Search by name, email, or skill...","Пошук за ім'ям, електронною поштою або навичкою..."
+Search for a project...,Знайти проєкт...
+Search for a task...,Знайти завдання...
+Search for an event...,Знайти подію...
+Search for people to invite...,Знайти людей для запрошення...
+Search tasks to link...,Знайти завдання для пов'язання...
+Search tasks...,Пошук завдань...
+Search...,Пошук...
+Searching...,Пошук...
+Seen,Переглянуто
+Select a project if your request is related to a specific project.,"Оберіть проєкт, якщо ваш запит пов'язаний з конкретним проєктом."
+Select a project...,Оберіть проєкт...
+Select a task from the Gantt chart to view and manage its details.,Оберіть завдання на діаграмі Gantt для перегляду та керування його деталями.
+Select a task from the list or Kanban board to view and manage its details.,Оберіть завдання зі списку або дошки Kanban для перегляду та керування його деталями.
+Select a template...,Оберіть шаблон...
+Select priority...,Оберіть пріоритет...
+Select status...,Оберіть статус...
+Select task...,Оберіть завдання...
+Select type...,Оберіть тип...
+Selection,Вибір
+Send,Надіслати
+Send comment,Надіслати коментар
+Send email invitations to attendees,Надіслати запрошення електронною поштою учасникам
+Send Invitations,Надіслати запрошення
+Send notification when a task is assigned to a user,Надіслати сповіщення при призначенні завдання користувачу
+Send notification when task status changes,Надіслати сповіщення при зміні статусу завдання
+Send reminder before task due date,Надіслати нагадування перед терміном завдання
+sent,надіслано
+Set rate,Задати ставку
+Settings,Налаштування
+Settings saved successfully,Налаштування успішно збережено
+Severity,Серйозність
+SF (Start-Finish),SF (Старт-Фініш)
+SF - Start-to-Finish,SF — Старт-Фініш
+Show,Показати
+Show all,Показати все
+Show all changes,Показати всі зміни
+Show Archived,Показати архівні
+Show full diff,Показати повні відмінності
+Show less,Згорнути
+Show more,Розгорнути
+Skill added,Навичку додано
+Skill is required,Навичка обов'язкова
+Skill Name,Назва навички
+Skill removed,Навичку видалено
+Skill {0} already exists for this resource,Навичка {0} вже існує для цього ресурсу
+Skills,Навички
+Skills & Competencies,Навички та компетенції
+Skip already migrated projects,Пропустити вже перенесені проєкти
+Sort by,Сортувати за
+Sort: Due Date,Сортування: термін виконання
+Sort: Priority,Сортування: пріоритет
+Sort: Project,Сортування: проєкт
+Sort: Status,Сортування: статус
+Sort: Task,Сортування: завдання
+Source Code,Вихідний код
+Spent,Витрачено
+Spent:,Витрачено:
+SS (Start-Start),SS (Старт-Старт)
+SS - Start-to-Start,SS — Старт-Старт
+Standalone,Самостійний
+Start,Початок
+Start a discussion below,Почніть обговорення нижче
+Start Date,Дата початку
+Start date,Дата початку
+Start Date (Earliest),Дата початку (найближча)
+Start date updated,Дату початку оновлено
+Start date/time is required,Дата/час початку обов'язкові
+Start Migration,Почати перенесення
+Start the conversation below.,Почніть розмову нижче.
+Start Timer,Запустити таймер
+Start typing to search...,Почніть вводити для пошуку...
+Start-to-Finish,Старт-Фініш
+Start-to-Start,Старт-Старт
+Start:,Початок:
+Statistics reset,Статистику скинуто
+Status,Статус
+Status assigned to new projects,Статус для нових проєктів
+Status assigned to new tasks,Статус для нових завдань
+Status Changes,Зміни статусу
+Status updated,Статус оновлено
+Status:,Статус:
+Stop,Зупинити
+Stop & Save,Зупинити і зберегти
+Stop Timer,Зупинити таймер
+Stops current timer and starts for this event,Зупиняє поточний таймер і запускає для цієї події
+Stops current timer and starts for this task,Зупиняє поточний таймер і запускає для цього завдання
+Subject,Тема
+Subject cannot exceed 255 characters,Тема не може перевищувати 255 символів
+Subject is required,Тема обов'язкова
+Submit,Надіслати
+Submit Another Request,Надіслати ще один запит
+Submit Request,Надіслати запит
+Submitting...,Надсилання...
+Successfully saved,Успішно збережено
+Successors (Blocking),Наступники (блокує)
+Sun,Нд
+Supplier,Постачальник
+Support,Підтримка
+Switch to this event,Перемкнутися на цю подію
+Switch to this task,Перемкнутися на це завдання
+Sync direction is set to Frappe to Orga only,Напрямок синхронізації: лише з Frappe до Orga
+Sync direction is set to Orga to Frappe only,Напрямок синхронізації: лише з Orga до Frappe
+Sync not enabled for this project,Синхронізацію для цього проєкту не ввімкнено
+System,Система
+Table,Таблиця
+Take ownership of this task,Взяти це завдання собі
+Target Date,Цільова дата
+Target End,Цільове завершення
+Target Project,Цільовий проєкт
+Target user is required for '{0}' action,Цільовий користувач обов'язковий для дії «{0}»
+Task,Завдання
+task,завдання
+Task '{0}' is due on {1}.,Термін завдання «{0}» — {1}.
+Task and resource are required,Завдання та ресурс обов'язкові
+Task Assignment,Призначення завдання
+Task cannot be its own parent,Завдання не може бути своїм власним батьком
+Task cannot depend on itself,Завдання не може залежати від самого себе
+Task cannot depend on the group it belongs to,Завдання не може залежати від групи
+Task created,Завдання створено
+Task deleted,Завдання видалено
+Task description has been saved.,Опис завдання збережено.
+Task Details,Деталі завдання
+Task due in {0} days: {1},Термін завдання через {0} днів: {1}
+Task due today: {0},Термін завдання сьогодні: {0}
+Task due tomorrow: {0},Термін завдання завтра: {0}
+Task duplicated,Завдання дубльовано
+Task Group,Група завдань
+Task ID is required,Ідентифікатор завдання обов'язковий
+Task is blocked by incomplete dependencies,Завдання заблоковано незавершеними залежностями
+Task is cancelled,Завдання скасовано
+Task is completed,Завдання завершено
+Task is no longer blocked by a group,Завдання більше не заблоковано групою
+Task is required for task context,Завдання обов'язкове для контексту завдання
+Task is required when tracking context is 'task',"Завдання обов'язкове, коли контекст відстеження — «завдання»"
+Task linked,Завдання пов'язано
+Task moved,Завдання переміщено
+Task name,Назва завдання
+Task name is required,Назва завдання обов'язкова
+Task removed from group,Завдання видалено з групи
+Task Subject,Тема завдання
+Task subject is required,Тема завдання обов'язкова
+Task Type,Тип завдання
+Task unblocked: {0},Завдання розблоковано: {0}
+Task unlinked,Завдання від'єднано
+Task updated,Завдання оновлено
+Task {0} not found,Завдання {0} не знайдено
+Task {0} not in project {1},Завдання {0} відсутнє в проєкті {1}
+Task {0} to Frappe,Завдання {0} до Frappe
+Tasks,Завдання
+tasks,завдання
+Tasks and milestones will be created with dates relative to the project start date.,Завдання та віхи будуть створені з датами відносно дати початку проєкту.
+Tasks assigned to you across all projects.,Завдання
+Tasks created:,Завдань створено:
+Tasks from projects you manage.,Завдання з проєктів
+Tasks updated:,Завдань оновлено:
+"Tasks, milestones, and dependencies have been created.","Завдання, віхи та залежності створено."
+Tasks:,Завдання:
+TBD,Уточнюється
+Team,Команда
+Team Members,Учасники команди
+Template,Шаблон
+Template applied,Шаблон застосовано
+Template data is required in import data,Дані шаблону обов'язкові в імпортованих даних
+Template has no data,Шаблон не містить даних
+Template Name,Назва шаблону
+Template name,Назва шаблону
+Template name is required,Назва шаблону обов'язкова
+Template name is required in import data,Назва шаблону обов'язкова в імпортованих даних
+Template saved,Шаблон збережено
+Template updated successfully.,Шаблон успішно оновлено.
+Template {0} not found,Шаблон {0} не знайдено
+Templates,Шаблони
+Tentative,Попередньо
+The comment has been deleted,Коментар видалено
+The project,Проєкт
+The source document may have been deleted.,Вихідний документ міг бути видалений.
+The source document will not be affected.,Вихідний документ не буде зачеплено.
+The status of '{0}' was changed from {1} to {2}.,Статус «{0}» змінено з {1} на {2}.
+Theme,Тема оформлення
+Theme preference,Налаштування теми
+This action,Ця дія
+This action cannot be undone.,Цю дію не можна скасувати.
+This activity has been flagged for attention,Цю активність позначено як важливу
+This is a reminder for your upcoming appointment,Це нагадування про вашу найближчу зустріч
+This method is only meant for developer mode,Цей метод доступний лише в режимі розробника
+This page wandered off,This page wandered off
+This Week,Цей тиждень
+This will delete all notes and preferences associated with this activity.,Це видалить усі нотатки та налаштування
+This will import all Frappe Projects into Orga. Continue?,Це імпортує всі проєкти Frappe до Orga. Продовжити?
+This will permanently delete,Це безповоротно видалить
+This will permanently delete:,Буде безповоротно видалено:
+Thu,Чт
+Time,Час
+Time & Billing,Час та оплата
+Time & Revenue,Час та дохід
+Time Entries,Записи часу
+Time log name is required,Назва запису часу обов'язкова
+Time Log not found,Запис часу не знайдено
+Time log {0} not found,Запис часу {0} не знайдено
+Time Logs,Записи часу
+Time Summary,Зведення часу
+Time Tracking,Облік часу
+Timeline,Хронологія
+Timer active on,Таймер активний на
+Timer is not running,Таймер не запущено
+Timer Running,Таймер працює
+Timer running,Таймер працює
+Timesheet DocType not available,DocType «Табель» недоступний
+Timesheets,Табелі
+Timezone,Часовий пояс
+Timezone is detected from your browser,Часовий пояс визначається з вашого браузера
+Title,Заголовок
+Title cannot exceed 255 characters,Заголовок не може перевищувати 255 символів
+Title is required,Заголовок обов'язковий
+Title updated,Заголовок оновлено
+To,До
+to,до
+to cancel,для скасування
+to close,для закриття
+to confirm:,для підтвердження:
+to edit,для редагування
+"to save,","для збереження,"
+To Time cannot be before From Time,Час завершення не може бути раніше часу початку
+Today,Сьогодні
+today,сьогодні
+Toggle billable,Перемкнути оплатність
+Toggle Details Panel,Показати/сховати панель деталей
+Toggle Manager Panel,Показати/сховати панель керівника
+Toggle Sidebar,Показати/сховати бічну панель
+Tomorrow,Завтра
+tomorrow,завтра
+Total,Разом
+Total Budget,Загальний бюджет
+Total Contacts,Усього контактів
+Total Cost,Загальна вартість
+Total Cost to Org,Загальні витрати організації
+Total Defect Cost,Загальна вартість дефектів
+Total Hours,Усього годин
+Total Hours Logged,Усього годин записано
+Total Projects,Усього проєктів
+Total Spent,Усього витрачено
+Total Tasks,Усього завдань
+Total:,Разом:
+Tracked,Відстежено
+trails to today while Open at 0%,"ковзає до сьогодні, поки статус «Відкрито» при 0%"
+Tried:,Tried:
+Try adjusting your filter criteria,Спробуйте змінити умови фільтрації
+Try adjusting your filters.,Спробуйте змінити фільтри.
+Try Again,Спробувати ще раз
+Tue,Вт
+Type,Тип
+Type updated,Тип оновлено
+Type:,Тип:
+Typical response time: 1-2 business days,Звичайний час відповіді: 1–2 робочі дні
+Unarchive,Розархівувати
+Unarchive Activity,Розархівувати активність
+Unassign,Зняти призначення
+Unassigned,Не призначено
+Under Budget,У межах бюджету
+Ungrouped,Без групи
+Unknown,Невідомо
+Unknown error,Невідома помилка
+Unlink failed,Не вдалося від'єднати
+Unlink task from milestone,Від'єднати завдання від віхи
+Unpin,Відкріпити
+Unpin Activity,Відкріпити активність
+Unread,Непрочитане
+Unread only,Лише непрочитані
+Until,До
+Up to Date,Up to Date
+Upcoming,Найближчі
+upcoming,найближчі
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Не вдалося оновити
+Updated,Оновлено
+Updated successfully,Успішно оновлено
+Updates,Updates
+Upload,Завантажити
+Upload failed,Не вдалося завантажити
+Upload files below to attach them to this task.,Завантажте файли нижче для прикріплення до цього завдання.
+Upload to project,Завантажити до проєкту
+Uploading...,Завантаження...
+Urgent,Терміновий
+User {0} is already linked to client {1},Користувача {0} вже пов'язано з клієнтом {1}
+User {0} is already linked to resource {1},Користувача {0} вже пов'язано з ресурсом {1}
+Utilization,Завантаження
+Valid,Дійсний
+Value:,Значення:
+Variance,Відхилення
+Variance:,Відхилення:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Перегляд
+View All,Показати все
+View all active projects,Показати всі активні проєкти
+View all open tasks,Показати всі відкриті завдання
+View overdue tasks,Показати прострочені завдання
+View Release,View Release
+Visibility,Видимість
+Waiting for this task,Очікування цього завдання
+Waits for:,Очікує:
+Warning: Resource {0} status is {1},Увага: статус ресурсу {0} — {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Увага: використовується HTTP замість HTTPS. Дані вебхуків можуть бути незахищеними.
+Watch budget closely,Пильно стежте за бюджетом
+We'll respond to:,Ми відповімо на:
+Webhook deleted,Вебхук видалено
+Webhook name is required,Назва вебхука обов'язкова
+Webhook not found,Вебхук не знайдено
+Webhook URL is required,URL вебхука обов'язковий
+Webhook URL must start with http:// or https://,URL вебхука має починатися з http:// або https://
+Wed,Ср
+Week,Тиждень
+Weekend,Вихідні
+Weekly Capacity,Навантаження на тиждень
+weekly capacity,навантаження на тиждень
+Weekly Capacity (h),Навантаження на тиждень (год)
+Welcome,Ласкаво просимо
+Welcome back!,З поверненням!
+Welcome to Orga,Ласкаво просимо до Orga
+What are you working on?,Над чим ви працюєте?
+What did you work on?,Над чим ви працювали?
+When,Коли
+When work begins,Коли починається робота
+When work is due,Коли робота має бути виконана
+Where,Де
+Will capture:,Буде збережено:
+Will create:,Буде створено:
+with checklist items,з пунктами списку
+Working,У роботі
+Workload,Навантаження
+Workmanship,Якість роботи
+Write a comment...,Напишіть коментар...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Напишіть коментар... Використовуйте @ім'я для згадування (Ctrl+Enter для надсилання)
+Year,Рік
+Yes,Так
+Yesterday,Вчора
+yesterday,вчора
+You are not an attendee of this appointment,Ви не є учасником цієї зустрічі
+You are not linked to any resource,Ви не прив'язані до жодного ресурсу
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Ви можете видаляти лише власні коментарі
+You can only delete your own reactions,Ви можете видаляти лише власні реакції
+You do not have access to the client portal. Please contact support.,У вас немає доступу до клієнтського порталу. Зверніться до підтримки.
+You have already reacted with '{0}',Ви вже відреагували «{0}»
+You have been assigned to task '{0}' in project '{1}'.,Вам призначено завдання «{0}» у проєкті «{1}».
+You have been assigned to: {0},Вам призначено: {0}
+You have been invited to the following appointment,Вас запрошено на наступну зустріч
+You have no tasks assigned to you right now.,Наразі вам не призначено жодного завдання.
+You were mentioned in {0},Вас згадали в {0}
+Your attendance,Ваша участь
+Your comment has been posted,Ваш коментар опубліковано
+Your Projects,Ваші проєкти
+Your projects will appear here once they're assigned to you.,Ваші проєкти з'являться тут
+Your Response,Ваша відповідь
+Your RSVP,Ваш RSVP
+Your support request has been submitted successfully.,Ваш запит до підтримки успішно надіслано.
+Your support request has been submitted successfully. We'll get back to you shortly.,Ваш запит до підтримки успішно надіслано. Ми зв'яжемося з вами найближчим часом.
+"Your task ""{0}"" is no longer blocked and can now be started.",Ваше завдання «{0}» більше не заблоковано і може бути розпочато.
+{0} is required,{0} обов'язково
+{0} new activities,{0} нових активностей
+{0} of {1} completed,{0} з {1} завершено
+{0} projects already migrated (will be skipped or updated),{0} проєктів вже перенесено (буде пропущено або оновлено)
+{0} status changed to {1},Статус {0} змінено на {1}
+{0} tasks remaining,Залишилося {0} завдань
+{0} tasks without projects will be skipped,{0} завдань без проєктів буде пропущено
+{0} {1} not found,{0} {1} не знайдено

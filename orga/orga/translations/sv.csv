@@ -1,0 +1,1492 @@
++ Add Milestone,+ Lagg till milstolpe
++ Create Task,+ Skapa uppgift
++ Log Time,+ Registrera tid
+-- Select a project --,-- Valj ett projekt --
+0m,0m
+1 day,1 dag
+1 day ago,for 1 dag sedan
+1 dependency,1 beroende
+1 entry,1 post
+1 file,1 fil
+1 hour ago,for 1 timme sedan
+1 member,1 medlem
+1 milestone,1 milstolpe
+1 month,1 manad
+1 task,1 uppgift
+< 1m,< 1m
+"A clear, actionable title for the task","En tydlig, handlingsbar titel for uppgiften"
+A client with email {0} already exists: {1},En klient med e-post {0} finns redan: {1}
+A key deliverable or checkpoint for the project,En viktig leverans eller kontrollpunkt for projektet
+Accept,Acceptera
+Accepted,Accepterad
+Acknowledge,Bekrafta mottagande
+across,i
+Action,Atgard
+Actions,Atgarder
+Active,Aktiv
+Active Assignments,Aktiva tilldelningar
+Active Projects,Aktiva projekt
+Activity,Aktivitet
+Activity data deleted successfully,Aktivitetsdata raderades
+Activity Info,Aktivitetsinformation
+Activity Stats,Aktivitetsstatistik
+Activity will appear here as you work on tasks and projects.,Aktivitet visas har nar du arbetar med uppgifter och projekt.
+Actual,Faktisk
+Actual Cost,Faktisk kostnad
+Actual cost cannot be negative,Faktisk kostnad kan inte vara negativ
+Actual end date cannot be before actual start date,Faktiskt slutdatum kan inte vara fore faktiskt startdatum
+Actual Hours,Faktiska timmar
+Add,Lagg till
+Add a checklist item...,Lagg till ett kontrollpunkt...
+Add a comment...,Lagg till en kommentar...
+Add a comment... (Ctrl+Enter to send),Lagg till en kommentar... (Ctrl+Enter for att skicka)
+Add a description...,Lagg till en beskrivning...
+Add a milestone description...,Lagg till en milstolpebeskrivning...
+Add a note below to annotate this activity.,Lagg till en anteckning nedan for att kommentera denna aktivitet.
+Add a note...,Lagg till en anteckning...
+Add a project description...,Lagg till en projektbeskrivning...
+Add a task description...,Lagg till en uppgiftsbeskrivning...
+Add checklist item...,Lagg till kontrollpunkt...
+Add Contact,Lagg till kontakt
+Add contacts via the Desk interface or clear filters,Lagg till kontakter via Desk-granssnittet eller rensa filtren
+Add Dependency,Lagg till beroende
+Add details about this event...,Lagg till detaljer om detta evenemang...
+Add details about this milestone...,Lagg till detaljer om denna milstolpe...
+Add details about this task...,Lagg till detaljer om denna uppgift...
+Add details or acceptance criteria for this milestone,Lagg till detaljer eller godkannandekriterier for denna milstolpe
+"Add details, context, or acceptance criteria","Lagg till detaljer, sammanhang eller godkannandekriterier"
+Add first dependency,Lagg till forsta beroende
+Add item,Lagg till element
+Add items below to track progress.,Lagg till element nedan for att folja framstegen.
+Add items below to track subtasks,Lagg till element nedan for att folja deluppgifter
+Add Milestone,Lagg till milstolpe
+Add Milestone (Shift+M),Lagg till milstolpe (Shift+M)
+Add milestones to track key deliverables.,Lagg till milstolpar for att folja viktiga leveranser.
+Add New Contact,Lagg till ny kontakt
+Add Note,Lagg till anteckning
+Add note,Lagg till anteckning
+Add notes about this contact...,Lagg till anteckningar om denna kontakt...
+Add reaction,Lagg till reaktion
+Add Skill,Lagg till kompetens
+Add start and due dates to tasks to see them on the Gantt chart,Lagg till start- och forfallodatum pa uppgifter for att se dem i Gantt-schemat
+Add Task,Lagg till uppgift
+Add Task (Shift+T),Lagg till uppgift (Shift+T)
+Added Finish-to-Start dependency,Slut-till-start-beroende tillagt
+Adding this dependency would create a circular reference: {0},Att lagga till detta beroende skulle skapa en cirkelreferens: {0}
+Adding...,Lagger till...
+Address,Adress
+Advanced,Avancerat
+All,Alla
+All Active,Alla aktiva
+All Assignees,Alla tilldelade
+All Categories,Alla kategorier
+All caught up!,Allt ar uppdaterat!
+All Contexts,Alla sammanhang
+All day,Hela dagen
+All day event,Heldagsevenemang
+All fields,Alla falt
+All Priorities,Alla prioriteter
+All Projects,Alla projekt
+All Status,Alla statusar
+All Statuses,Alla statusar
+All task dependencies & relative dates,Alla uppgiftsberoenden och relativa datum
+All Tasks,Alla uppgifter
+All tasks across all projects.,Alla uppgifter i alla projekt.
+All tasks are already linked,Alla uppgifter ar redan lankade
+All team members,Alla teammedlemmar
+All Types,Alla typer
+All Users,Alla anvandare
+Allocated,Tilldelad
+allocated,tilldelad
+Allow users to log time against tasks,Tillat anvandare att registrera tid pa uppgifter
+Already exported to timesheet {0},Redan exporterad till tidrapport {0}
+Already Migrated,Redan migrerad
+Anyone with access,Alla med atkomst
+anytime to show this help,nar som helst for att visa denna hjalp
+App Updates,App Updates
+Appearance,Utseende
+Apply,Tillampa
+Apply cascade?,Tillampa kaskad?
+Apply Changes,Tillampa andringar
+Apply failed,Tillampa misslyckades
+Apply Template,Tillampa mall
+Applying...,Tillampar...
+Appointment,Mote
+Appointment and resource are required,Mote och resurs kravs
+Appointment name is required,Motesnamn kravs
+Appointment not found,Mote hittades inte
+Appointment {0} not found,Mote {0} hittades inte
+Apps,Appar
+Archive,Arkivera
+Archive Activity,Arkivera aktivitet
+Archived,Arkiverad
+Are you sure you want to delete this activity data? This cannot be undone.,Ar du saker pa att du vill radera dessa aktivitetsdata? Detta kan inte angras.
+Are you sure you want to delete this comment?,Ar du saker pa att du vill radera denna kommentar?
+Are you sure you want to delete this project?,Ar du saker pa att du vill radera detta projekt?
+Are you sure?,Ar du saker?
+Ascending -- click to reverse,Stigande -- klicka for att kasta om
+Assign To,Tilldela till
+Assign to Me,Tilldela till mig
+Assigned Contact,Tilldelad kontakt
+Assigned To,Tilldelad till
+Assigned to,Tilldelad till
+Assigned to Me,Tilldelad till mig
+Assignee,Tilldelad
+Assignment,Tilldelning
+Assignment History,Tilldelningshistorik
+Assignment name is required,Tilldelningsnamn kravs
+Assignment {0} not found,Tilldelning {0} hittades inte
+Assignments,Tilldelningar
+At least one action is required,Minst en atgard kravs
+At least one event is required,Minst ett evenemang kravs
+At least one event must be selected,Minst ett evenemang maste valjas
+Attachment,Bilaga
+Attachments,Bilagor
+Attendees,Deltagare
+"Audit trail, assignments, version history","Andringslogg, tilldelningar, versionshistorik"
+Auto,Automatisk
+Auto Calculate Progress,Berakna framsteg automatiskt
+Auto Set Missed Milestones,Markera missade milstolpar automatiskt
+Auto-shift dependents when dates change,Flytta beroende automatiskt vid datumandring
+Auto-Trail Start,Automatisk glidande start
+Auto-Trail updated,Automatisk glidande start uppdaterad
+Automatically calculate project progress from task completion,Berakna projektframsteg automatiskt fran uppgifters slutforande
+Automatically mark milestones as missed when overdue,Markera milstolpar automatiskt som missade vid forsening
+Automation rule {0} not found,Automatiseringsregel {0} hittades inte
+Automation: {0},Automatisering: {0}
+Availability,Tillganglighet
+Available,Tillganglig
+Avatar updated successfully,Profilbild uppdaterad
+Avg Progress,Genomsnittligt framsteg
+Back,Tillbaka
+Back to Portal,Tillbaka till portalen
+Back to Projects,Tillbaka till projekt
+Beginner,Nybborjare
+Best regards,Med vanliga halsningar
+Billable,Fakturerbar
+Billable Amount,Fakturerbart belopp
+Billable Hours,Fakturerbara timmar
+Billable Rate,Fakturerbar taxa
+Billing Rate,Faktureringstakt
+Blocked,Blockerad
+Both dates are needed to display task as a bar in Gantt chart,Bada datum behovs for att visa uppgiften som en stapel i Gantt-schemat
+Both doctype and docname are required,Bade doctype och docname kravs
+Both proposed start and end times are required,Bade foreslagen start- och sluttid kravs
+Both task_name and depends_on are required,Bade task_name och depends_on kravs
+Breadcrumb,Sokvag
+Brief description of the defect or damage,Kort beskrivning av defekten eller skadan
+Brief description of this template,Kort beskrivning av denna mall
+Brief description of your request,Kort beskrivning av din forfragan
+Brief project description,Kort projektbeskrivning
+Budget,Budget
+Budget at risk,Budget i riskzonen
+Budget Burn Rate,Budgetforbrukningstakt
+Budget Status,Budgetstatus
+Budget updated,Budget uppdaterad
+Budget:,Budget:
+Bug,Bugg
+Burn Rate,Forbrukningstakt
+Busy,Upptagen
+By,Av
+By Assignee,Per tilldelad
+By Group,Per grupp
+By Milestone,Per milstolpe
+By Priority,Per prioritet
+By Status,Per status
+Cancel,Avbryt
+Cancelled,Avbruten
+cannot be undone,kan inte angras
+Cannot delete client with {0} linked projects. Unlink projects first.,Kan inte radera klient med {0} lankade projekt. Ta bort lankar forst.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Kan inte radera projekt med {0} lankade uppgifter. Radera uppgifter forst.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Kan inte radera resurs med {0} aktiva tilldelningar. Slutfor eller avbryt dem forst.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Kan inte radera uppgift med {0} deluppgifter. Radera deluppgifter forst.
+Capacity,Kapacitet
+capacity,kapacitet
+Capacity & Rates,Kapacitet och taxor
+Capture project structure for reuse,Spara projektstruktur for ateranvandning
+Cascade,Kaskad
+Cascade Preview,Kaskadforhandsgranskning
+Category,Kategori
+Celebrate,Fira
+Change,Andra
+Change History,Andringshistorik
+Change Priority,Andra prioritet
+Change Status,Andra status
+Changes,Andringar
+Changes appear when fields are modified.,Andringar visas nar falt andras.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Checklista
+Checklist item name is required,Namn pa checklistepunkten kravs
+Checklist item not found,Checklistepunkten hittades inte
+Checklist item title is required,Titel pa checklistepunkten kravs
+Checklist item {0} not found,Checklistepunkt {0} hittades inte
+Checklist item {0} not found in task,Checklistepunkt {0} hittades inte i uppgiften
+Child,Underordnad
+Choose file to upload,Valj fil att ladda upp
+Circular dependency detected: {0},Cirkulart beroende upptackt: {0}
+Circular parent-child relationship detected,Cirkulart foralder-barn-forhallande upptackt
+Clear,Rensa
+Clear all read,Rensa alla lasta
+Clear date,Rensa datum
+Click on an activity from the list to view and manage its details.,Klicka pa en aktivitet i listan for att visa och hantera dess detaljer.
+Click the avatar to upload a new photo,Klicka pa profilbilden for att ladda upp ett nytt foto
+Click to add description...,Klicka for att lagga till beskrivning...
+Click to add notes...,Klicka for att lagga till anteckningar...
+Click to assign contact,Klicka for att tilldela kontakt
+Click to change status,Klicka for att andra status
+Click to change type,Klicka for att andra typ
+Click to edit,Klicka for att redigera
+Click to edit budget,Klicka for att redigera budget
+Click to edit description,Klicka for att redigera beskrivning
+Click to edit end date,Klicka for att redigera slutdatum
+Click to edit milestone name,Klicka for att redigera milstolpenamn
+Click to edit rate,Klicka for att redigera taxa
+Click to edit start date,Klicka for att redigera startdatum
+Click to edit title,Klicka for att redigera titel
+Click to load,Klicka for att ladda
+Click to set group dependency...,Klicka for att ange gruppberoende...
+Click to set group...,Klicka for att ange grupp...
+Click to view,Klicka for att visa
+Click to view at-risk projects,Klicka for att visa projekt i riskzonen
+Click to view critical projects,Klicka for att visa kritiska projekt
+Click to view healthy projects,Klicka for att visa friska projekt
+Client,Klient
+Client already has a portal user: {0},Klienten har redan en portalanvandare: {0}
+Client already has portal access,Klienten har redan portalatkomst
+Client has no portal user to revoke,Klienten har ingen portalanvandare att aterka
+Client link removed from project {0},Klientlank borttagen fran projekt {0}
+Client Portal,Klientportal
+Client {0} deleted successfully,Klient {0} raderades
+Close,Stang
+Close (Esc),Stang (Esc)
+Comment,Kommentar
+comment,kommentar
+Comment added,Kommentar tillagd
+Comment content is required,Kommentarinnehall kravs
+Comment name is required,Kommentarnamn kravs
+Comment not found,Kommentar hittades inte
+Comment removed,Kommentar borttagen
+Comment {0} not found in task,Kommentar {0} hittades inte i uppgiften
+Comments,Kommentarer
+comments,kommentarer
+Community Edition,Community Edition
+Company,Foretag
+Company name...,Foretagsnamn...
+Complete,Slutfor
+Completed,Slutford
+completed,slutford
+Completed Tasks,Slutforda uppgifter
+Compliance,Efterlevnad
+Configure default values for new projects and tasks,Konfigurera standardvarden for nya projekt och uppgifter
+Configure email notification settings,Konfigurera installningar for e-postnotifieringar
+Confirm,Bekrafta
+Contact deleted,Kontakt raderad
+Contact Details,Kontaktuppgifter
+Contact Information,Kontaktinformation
+Contact name is required,Kontaktnamn kravs
+Contact Support,Kontakta support
+Contact your project manager for more information.,Kontakta din projektledare for mer information.
+Contact:,Kontakt:
+Contacts,Kontakter
+Context,Sammanhang
+Contractor,Entreprenor
+Cost estimate cannot be negative,Kostnadsuppskattning kan inte vara negativ
+Cost Impact,Kostnadspåverkan
+Cost Summary,Kostnadssammanstallning
+Could not apply the template. Please try again.,Kunde inte tillampa mallen. Forsok igen.
+Could not attach file to project,Kunde inte bifoga fil till projekt
+Could not change task priority,Kunde inte andra uppgiftsprioritet
+Could not change task status,Kunde inte andra uppgiftsstatus
+Could not delete the project. Please try again.,Kunde inte radera projektet. Forsok igen.
+Could not delete the task. Please try again.,Kunde inte radera uppgiften. Forsok igen.
+Could not delete the template.,Kunde inte radera mallen.
+Could not duplicate the task. Please try again.,Kunde inte kopiera uppgiften. Forsok igen.
+Could not export the template.,Kunde inte exportera mallen.
+Could not import the template. Please check the file format.,Kunde inte importera mallen. Kontrollera filformatet.
+Could not link task to milestone,Kunde inte lanka uppgiften till milstolpe
+Could not load document details.,Kunde inte ladda dokumentdetaljer.
+Could not load task details,Kunde inte ladda uppgiftsdetaljer
+Could not promote checklist item to task.,Kunde inte befordra checklistepunkt till uppgift.
+Could not remove task from milestone,Kunde inte ta bort uppgiften fran milstolpe
+Could not save budget.,Kunde inte spara budget.
+Could not save changes to the milestone,Kunde inte spara andringar i milstolpen
+Could not save changes to the task,Kunde inte spara andringar i uppgiften
+Could not save description.,Kunde inte spara beskrivning.
+Could not save end date.,Kunde inte spara slutdatum.
+Could not save milestone name.,Kunde inte spara milstolpenamn.
+Could not save start date.,Kunde inte spara startdatum.
+Could not save the template. Please try again.,Kunde inte spara mallen. Forsok igen.
+Could not save title.,Kunde inte spara titel.
+Could not update dependency mode.,Kunde inte uppdatera beroendelagt.
+Could not update milestone date,Kunde inte uppdatera milstolpedatum
+Could not update project status.,Kunde inte uppdatera projektstatus.
+Could not update project type.,Kunde inte uppdatera projekttyp.
+Could not update setting.,Kunde inte uppdatera installning.
+Could not update task dates,Kunde inte uppdatera uppgiftsdatum
+Could not update task status,Kunde inte uppdatera uppgiftsstatus
+Could not update the template.,Kunde inte uppdatera mallen.
+Create a copy of this task,Skapa en kopia av denna uppgift
+Create Contact,Skapa kontakt
+Create Event,Skapa evenemang
+Create Milestone,Skapa milstolpe
+Create New Milestone,Skapa ny milstolpe
+Create New Task,Skapa ny uppgift
+Create Project,Skapa projekt
+Create Task,Skapa uppgift
+Create tasks and milestones from a template,Skapa uppgifter och milstolpar fran en mall
+Create your first project to get started.,Skapa ditt forsta projekt for att komma igang.
+Create your first task to start tracking work on this project.,Skapa din forsta uppgift for att borja folja arbetet i detta projekt.
+Created,Skapad
+Creating...,Skapar...
+Critical,Kritisk
+Critical Path,Kritisk vag
+"Currency used for budgets, costs, and billing rates","Valuta for budgetar, kostnader och faktureringstaxor"
+Current,Aktuell
+Current Assignments,Aktuella tilldelningar
+Current scheduled time:,Aktuell schemalagd tid:
+Currently running version,Currently running version
+d lag,d fordrojning
+Daily Availability,Daglig tillganglighet
+Daily Hours,Dagliga timmar
+Danger Zone,Farozon
+Dark,Mork
+Dashboard,Instrumentpanel
+Date,Datum
+Date changes on this task will show cascade impact here,Datumandring pa denna uppgift visar kaskadeffekt har
+Date cleared,Datum rensat
+Date of Joining,Anslutningsdatum
+Date updated,Datum uppdaterat
+Dates,Datum
+Dates cascaded,Datum kaskaderade
+Dates will be relative to the project's start date.,Datum blir relativa till projektets startdatum.
+Day,Dag
+day,dag
+days,dagar
+Days before due date to send reminder,Dagar fore forfallodag att skicka paminnelse
+Days Overdue,Dagar forsenad
+Days Remaining,Dagar kvar
+Deadline,Tidsfrist
+Deadlines,Tidsfrister
+Decision,Beslut
+Decline,Avboj
+Declined,Avbojd
+Default Currency,Standardvaluta
+Default hours per week for contact capacity planning,Standardtimmar per vecka for kontaktkapacitetsplanering
+Default Priority,Standardprioritet
+Default Project Status,Standardprojektstatus
+Default Task Status,Standarduppgiftsstatus
+Default task view,Standardvy for uppgifter
+Default Values,Standardvarden
+Default Weekly Capacity,Standard veckokapacitet
+Defaults,Standardvarden
+Defect Cost Impact,Defektens kostnadspåverkan
+Defect name is required,Defektnamn kravs
+Defect Type,Defekttyp
+Defect {0} not found,Defekt {0} hittades inte
+Defects,Defekter
+Defects & Issues,Defekter och problem
+Defects Resolved,Defekter atairdade
+Delayed,Forsenad
+Delete,Radera
+Delete Activity Data,Radera aktivitetsdata
+Delete all read notifications?,Radera alla lasta notifieringar?
+Delete comment,Radera kommentar
+Delete Contact,Radera kontakt
+Delete Event,Radera evenemang
+Delete Event?,Radera evenemang?
+Delete failed,Radering misslyckades
+Delete file,Radera fil
+Delete item,Radera element
+Delete note,Radera anteckning
+Delete Project,Radera projekt
+Delete Task,Radera uppgift
+Delete this project,Radera detta projekt
+Deleted,Raderad
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Projekt ""{0}"" raderat ({1} uppgifter, {2} milstolpar)"
+Deletes notes and preferences. Source document is not affected.,Raderar anteckningar och installningar. Kalldokumentet paverkas inte.
+Deleting...,Raderar...
+Department,Avdelning
+Dependencies,Beroenden
+dependencies,beroenden
+Dependencies are informational only,Beroenden ar enbart informativa
+dependency,beroende
+Dependency already exists,Beroende finns redan
+Dependency Chain,Beroendekedja
+Dependency created,Beroende skapat
+Dependency mode updated,Beroendelage uppdaterat
+Dependency name is required,Beroendenamn kravs
+Dependency task {0} not found,Beroendeuppgift {0} hittades inte
+Dependency {0} not found,Beroende {0} hittades inte
+depends,beror pa
+Depends on Group,Beror pa grupp
+Depends on task is required,Beroendeuppgift kravs
+depends on...,beror pa...
+Descending -- click to reverse,Fallande -- klicka for att kasta om
+Describe the defect in detail...,Beskriv defekten i detalj...
+Description,Beskrivning
+Description updated,Beskrivning uppdaterad
+Designation,Befattning
+"Detailed description of the defect, location, and impact","Detaljerad beskrivning av defekten, plats och påverkan"
+Details,Detaljer
+Discard timer,Kasta kronometer
+Discussion,Diskussion
+Dismiss,Dismiss
+Display,Visning
+Document,Dokument
+Document attached to project,Dokument bifogat till projekt
+Document final decision and rationale,Dokumentera slutgiltigt beslut och motivering
+Documentation Review,Dokumentationsgranskning
+Documents,Dokument
+Done,Klar
+Download,Ladda ner
+Drag to create dependency,Dra for att skapa beroende
+Dry Run,Testkoring
+Dry Run Complete,Testkoring slutford
+Due Date,Forfallodag
+Due date,Forfallodag
+Due Date (Earliest),Forfallodag (tidigast)
+Due date cannot be before start date,Forfallodag kan inte vara fore startdatum
+Due date is in the past,Forfallodagen har passerat
+Due Date Reminders,Paminnelser om forfallodag
+Due Diligence,Forhandsgranskning
+Due Diligence Checklist,Checklista for forhandsgranskning
+Due This Week,Forfaller denna vecka
+Due:,Forfaller:
+Duplicate events are not allowed,Dubbletter av evenemang ar inte tillatna
+Duplicate failed,Kopiering misslyckades
+Duplicate Task,Kopiera uppgift
+Duration,Varaktighet
+Duration Summary,Varaktighetssammanstallning
+Duration:,Varaktighet:
+e.g. Cracked wall finish in bathroom...,t.ex. Spricka i vaggyta i badrum...
+"e.g. Electrical, Plumbing...","t.ex. El, VVS..."
+Edit,Redigera
+Edit (E),Redigera (E)
+Edit dependency,Redigera beroende
+Edit Event,Redigera evenemang
+Efficiency,Effektivitet
+Either dependency_name or depends_on is required,Antingen dependency_name eller depends_on kravs
+Email,E-post
+Email invitations to all attendees,E-postinbjudningar till alla deltagare
+Email is required to create portal user,E-post kravs for att skapa portalanvandare
+Email notifications,E-postnotifieringar
+Employee,Anstalld
+Employee DocType not available,Anstalld DocType inte tillganglig
+Employee not found,Anstalld hittades inte
+Enable or disable optional features,Aktivera eller inaktivera valfria funktioner
+Enable Time Tracking,Aktivera tidsregistrering
+End,Slut
+End Date,Slutdatum
+End date,Slutdatum
+End Date cannot be before Start Date,Slutdatum kan inte vara fore startdatum
+End date cannot be before start date,Slutdatum kan inte vara fore startdatum
+End date updated,Slutdatum uppdaterat
+End time was before start time. Adjusted to 1 hour after start.,Sluttiden var fore starttiden. Justerad till 1 timme efter start.
+End:,Slut:
+Enter milestone name...,Ange milstolpenamn...
+Enter project name,Ange projektnamn
+Enter task title...,Ange uppgiftstitel...
+Enter template name,Ange mallnamn
+Enter your note... Use @name to mention someone,Skriv din anteckning... Anvand @namn for att namna nagon
+Error,Fel
+Error loading activity,Fel vid laddning av aktivitet
+Error loading contacts,Fel vid laddning av kontakter
+Error loading dashboard,Fel vid laddning av instrumentpanelen
+Error loading project,Fel vid laddning av projekt
+Error loading projects,Fel vid laddning av projekt
+Error loading settings,Fel vid laddning av installningar
+Error loading tasks,Fel vid laddning av uppgifter
+Error loading templates,Fel vid laddning av mallar
+Est. Hours,Ber. timmar
+Estimated,Beraknad
+Estimated Cost,Beraknad kostnad
+Estimated Cost (€),Beraknad kostnad (€)
+Estimated Hours,Beraknade timmar
+Estimated:,Beraknat:
+Evaluate potential risks and concerns,Utvardera potentiella risker och problem
+Event,Evenemang
+Event is required for event context,Evenemang kravs for evenemangssammanhang
+Event is required when tracking context is 'event',"Evenemang kravs nar uppfoljningssammanhanget ar ""evenemang"""
+Event Type,Evenemangstyp
+Events,Evenemang
+Events not available. Please run: bench --site orga.localhost migrate,Evenemang inte tillgangliga. Kor: bench --site orga.localhost migrate
+Events:,Evenemang:
+Expert,Expert
+Explain why you are proposing a different time...,Forklara varfor du foreslar en annan tid...
+Export,Exportera
+Export failed,Export misslyckades
+Export JSON,Exportera JSON
+Exported,Exporterad
+Exported to timesheet {0},Exporterad till tidrapport {0}
+External,Extern
+Failed to add item,Misslyckades med att lagga till element
+Failed to add note,Misslyckades med att lagga till anteckning
+Failed to add skill,Misslyckades med att lagga till kompetens
+Failed to apply cascade changes: {0},Misslyckades med att tillampa kaskadandringar: {0}
+Failed to create defect,Misslyckades med att skapa defekt
+Failed to create dependency,Misslyckades med att skapa beroende
+Failed to create event,Misslyckades med att skapa evenemang
+Failed to create milestone,Misslyckades med att skapa milstolpe
+Failed to create project,Misslyckades med att skapa projekt
+Failed to create task,Misslyckades med att skapa uppgift
+Failed to create time log,Misslyckades med att skapa tidspost
+Failed to delete,Misslyckades med att radera
+Failed to delete comment,Misslyckades med att radera kommentar
+Failed to delete contact,Misslyckades med att radera kontakt
+Failed to load,Misslyckades med att ladda
+Failed to load activity,Misslyckades med att ladda aktivitet
+Failed to load assignments,Misslyckades med att ladda tilldelningar
+Failed to load contact,Misslyckades med att ladda kontakt
+Failed to load dashboard data,Misslyckades med att ladda instrumentpaneldata
+Failed to load defects,Misslyckades med att ladda defekter
+Failed to load events,Misslyckades med att ladda evenemang
+Failed to load project,Misslyckades med att ladda projekt
+Failed to load projects,Misslyckades med att ladda projekt
+Failed to load report data,Misslyckades med att ladda rapportdata
+Failed to load settings,Misslyckades med att ladda installningar
+Failed to load tasks,Misslyckades med att ladda uppgifter
+Failed to move task,Misslyckades med att flytta uppgift
+Failed to post comment,Misslyckades med att publicera kommentar
+Failed to propose new time,Misslyckades med att foreslå ny tid
+Failed to remove item,Misslyckades med att ta bort element
+Failed to remove skill,Misslyckades med att ta bort kompetens
+Failed to reorder milestones: {0},Misslyckades med att ordna om milstolpar: {0}
+Failed to reorder tasks: {0},Misslyckades med att ordna om uppgifter: {0}
+Failed to reschedule dependent tasks: {0},Misslyckades med att omplanera beroende uppgifter: {0}
+Failed to save,Misslyckades med att spara
+Failed to save preferences,Misslyckades med att spara installningar
+Failed to save settings,Misslyckades med att spara installningar
+Failed to submit request. Please try again.,Misslyckades med att skicka forfragan. Forsok igen.
+Failed to update item,Misslyckades med att uppdatera element
+Failed to update priority,Misslyckades med att uppdatera prioritet
+Failed to update task,Misslyckades med att uppdatera uppgift
+Failed to update tasks: {0},Misslyckades med att uppdatera uppgifter: {0}
+Failed to upload avatar,Misslyckades med att ladda upp profilbild
+Feature,Funktion
+Features,Funktioner
+FF (Finish-Finish),FF (Slut-Slut)
+FF - Finish-to-Finish,FF - Slut-till-Slut
+Field has been updated,Faltet har uppdaterats
+Field name is required for 'Set Field Value' action,"Faltnamn kravs for atgarден ""Ange faltvarde"""
+Field {0} is not a Link field,Falt {0} ar inte ett lankfalt
+Field {0} not found in {1},Falt {0} hittades inte i {1}
+File,Fil
+file,fil
+File does not belong to this task,Filen tillhor inte denna uppgift
+File name is required,Filnamn kravs
+File uploaded,Fil uppladdad
+File {0} not found,Fil {0} hittades inte
+Files,Filer
+files,filer
+Filter,Filter
+Final Decision,Slutgiltigt beslut
+Finance,Ekonomi
+Financial,Ekonomisk
+Finish-to-Finish,Slut-till-Slut
+Finish-to-Start,Slut-till-Start
+Flag,Flagga
+Flag for attention,Flagga for uppmarksamhet
+Flagged,Flaggad
+Focus Panel,Fokuspanel
+Follows your system preference. Currently:,Foljer din systeminställning. Just nu:
+Frappe Project {0} not found,Frappe-projekt {0} hittades inte
+Frappe Projects Migration,Frappe Projects-migrering
+Frappe Projects module not available,Frappe Projects-modulen ar inte tillganglig
+Frappe Projects module not installed,Frappe Projects-modulen ar inte installerad
+Frappe Projects sync is not enabled,Frappe Projects-synkronisering ar inte aktiverad
+Frappe Task DocType not found,Frappe Task DocType hittades inte
+Frappe Task has no project,Frappe-uppgiften har inget projekt
+Frappe Task {0} not found,Frappe-uppgift {0} hittades inte
+Fri,Fre
+From,Fran
+From Template,Fran mall
+FS (Finish-Start),FS (Slut-Start)
+FS - Finish-to-Start (default),FS - Slut-till-Start (standard)
+Full form view with audit trail,Fullstandig formularvy med andringslogg
+Full name,Fullstandigt namn
+Gantt,Gantt
+Gantt Chart,Gantt-schema
+Gantt View,Gantt-vy
+General Note,Allman anteckning
+Get started,Kom igang
+Go back,Ga tillbaka
+Go Back,Go Back
+Group by,Gruppera efter
+Group dependency removed,Gruppberoende borttaget
+Group dependency set,Gruppberoende angivet
+Group removed,Grupp borttagen
+Group updated,Grupp uppdaterad
+Hammock task dates are auto-calculated and cannot be changed manually,Hangmatteuppgiftsdatum beraknas automatiskt och kan inte andras manuellt
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Har du en fraga eller behover hjalp? Fyll i formularet nedan sa aterкommer vi.
+Health,Halsa
+Healthy,Frisk
+Hello {0},Hej {0}
+Here's what's happening with your projects today.,Har ar vad som hander med dina projekt idag.
+Hide,Dolj
+High,Hog
+History,Historik
+Home,Hem
+Hourly Cost,Timkostnad
+Hours,Timmar
+hours,timmar
+Hours Logged,Registrerade timmar
+ID,ID
+Image must be smaller than 5 MB,Bilden maste vara mindre an 5 MB
+Import,Importera
+Import existing projects and tasks from Frappe Projects module,Importera befintliga projekt och uppgifter fran Frappe Projects-modulen
+Import failed,Import misslyckades
+Import Template,Importera mall
+Imported,Importerad
+in,i
+In Progress,Pagar
+In Review,Under granskning
+In-app notifications,Notifieringar i appen
+Inactive,Inaktiv
+Initial Review,Inledande granskning
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Otillrackliga behorigheter for att visa alla uppgifter
+Intermediate,Mellanniva
+Internal,Intern
+Invalid DocType,Ogiltigt DocType
+Invalid DocType for import,Ogiltigt DocType for import
+Invalid item type: {0},Ogiltig elementtyp: {0}
+Invalid JSON data,Ogiltiga JSON-data
+Invalid note type. Must be one of: {0},Ogiltig anteckningstyp. Maste vara en av: {0}
+Invalid project reference,Ogiltig projektreferens
+Invalid reaction type. Must be one of: {0},Ogiltig reaktionstyp. Maste vara en av: {0}
+Invalid RSVP status,Ogiltig RSVP-status
+Invalid status. Must be one of: {0},Ogiltig status. Maste vara en av: {0}
+Invalid status: {0},Ogiltig status: {0}
+Invalid status: {0}. Must be one of: {1},Ogiltig status: {0}. Maste vara en av: {1}
+Invalid tracking context: {0},Ogiltigt uppfoljningssammanhang: {0}
+Invalid visibility. Must be one of: {0},Ogiltig synlighet. Maste vara en av: {0}
+Invitation: {0} - {1} at {2},Inbjudan: {0} - {1} kl. {2}
+Invite People,Bjud in personer
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Element tillagt
+Item ID is required,Element-ID kravs
+Item removed,Element borttaget
+Item type is required,Elementtyp kravs
+Item {0} not found,Element {0} hittades inte
+Job title or role,Jobbtitel eller roll
+Join Meeting,Ga med i mote
+Just now,Just nu
+just now,just nu
+Kanban,Kanban
+Kanban Board,Kanban-tavla
+Kanban View,Kanban-vy
+Keyboard Shortcuts,Tangentbordsgenvagar
+Keyboard shortcuts (?),Tangentbordsgenvagar (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Senast uppdaterad
+Last updated:,Senast uppdaterad:
+Last Week,Forra veckan
+Latest Version,Latest Version
+Light,Ljus
+Link failed,Lankning misslyckades
+Link Task,Lanka uppgift
+Linked,Lankad
+Linked employee not found,Lankad anstalld hittades inte
+Linked Tasks,Lankade uppgifter
+List,Lista
+List View,Listvy
+Load failed,Laddning misslyckades
+Load More,Ladda fler
+Load more comments,Ladda fler kommentarer
+Loading activity...,Laddar aktivitet...
+Loading changes...,Laddar andringar...
+Loading checklist...,Laddar checklista...
+Loading comments...,Laddar kommentarer...
+Loading contact...,Laddar kontakt...
+Loading contacts...,Laddar kontakter...
+Loading dependencies...,Laddar beroenden...
+Loading details...,Laddar detaljer...
+Loading discussion...,Laddar diskussion...
+Loading events...,Laddar evenemang...
+Loading files...,Laddar filer...
+Loading notes...,Laddar anteckningar...
+Loading preferences...,Laddar installningar...
+Loading project...,Laddar projekt...
+Loading projects...,Laddar projekt...
+Loading replies...,Laddar svar...
+Loading report data...,Laddar rapportdata...
+Loading settings...,Laddar installningar...
+Loading task...,Laddar uppgift...
+Loading templates...,Laddar mallar...
+Loading time logs...,Laddar tidsposter...
+Loading your portal...,Laddar din portal...
+Loading...,Laddar...
+Location,Plats
+Log Time,Registrera tid
+Logout,Logga ut
+Low,Lag
+Make Offer,Gor erbjudande
+Manager,Chef
+Manual Entry,Manuell inmatning
+Margin,Marginal
+Mark all as read,Markera alla som lasta
+Mark all read,Markera alla som lasta
+Mark as read,Markera som last
+Mark as unread,Markera som olast
+Mark read,Markera som last
+Marking...,Markerar...
+Material,Material
+Maybe,Kanske
+Medium,Medel
+Meeting,Mote
+Meeting Link,Moteslank
+Meeting title,Motestitel
+Meeting URL,Motes-URL
+Meetings,Moten
+Mention,Namna
+Message,Meddelande
+Message is required,Meddelande kravs
+Message is required for '{0}' action,"Meddelande kravs for atgarден ""{0}"""
+Migrate,Migrera
+Migration Complete,Migrering slutford
+Migration ID:,Migrerings-ID:
+Migration log not found: {0},Migreringslogg hittades inte: {0}
+Milestone,Milstolpe
+milestone,milstolpe
+Milestone created,Milstolpe skapad
+Milestone description has been saved.,Milstolpebeskrivning har sparats.
+Milestone ID is required,Milstolpe-ID kravs
+Milestone marked as Missed (past due date),Milstolpe markerad som missad (passerat forfallodag)
+Milestone moved,Milstolpe flyttad
+Milestone Name,Milstolpenamn
+Milestone name has been saved.,Milstolpenamn har sparats.
+Milestone name is required,Milstolpenamn kravs
+Milestone updated,Milstolpe uppdaterad
+Milestone {0} not found,Milstolpe {0} hittades inte
+Milestone {0} not in project {1},Milstolpe {0} finns inte i projekt {1}
+Milestones,Milstolpar
+milestones,milstolpar
+Milestones:,Milstolpar:
+Minutes,Minuter
+Missed,Missad
+Mixed,Blandad
+Mobile,Mobil
+Moderate,Mattlig
+Modified,Andrad
+"Modify details, time, or attendees","Ändra detaljer, tid eller deltagare"
+Mon,Man
+Month,Manad
+Move failed,Flytt misslyckades
+Must be a positive number,Maste vara ett positivt tal
+Must finish before this finishes,Maste sluta innan detta slutar
+Must finish before this starts,Maste sluta innan detta borjar
+Must start before this finishes,Maste borja innan detta slutar
+Must start before this starts,Maste borja innan detta borjar
+My Assignments,Mina tilldelningar
+My Projects,Mina projekt
+My Schedule,Mitt schema
+My Tasks,Mina uppgifter
+N/A,Ej tillampl.
+Name,Namn
+Name (A-Z),Namn (A-O)
+Name (Z-A),Namn (O-A)
+Name cannot exceed 255 characters,Namn far inte overstiga 255 tecken
+Need help?,Behover du hjalp?
+Needs Attention,Behover uppmarksamhet
+Never,Never
+new activities,nya aktiviteter
+New Activity,Ny aktivitet
+New activity,Ny aktivitet
+New Event,Nytt evenemang
+New index is required,Nytt index kravs
+New Project,Nytt projekt
+New tasks will auto-trail by default.,Nya uppgifter far automatisk glidande start som standard.
+Newest First,Nyast forst
+Next,Nasta
+Next 14 days,Nasta 14 dagar
+Next 30 days,Nasta 30 dagar
+Next 60 days,Nasta 60 dagar
+Next 7 days,Nasta 7 dagar
+Next 90 days,Nasta 90 dagar
+Next Week,Nasta vecka
+Next:,Nasta:
+No,Nej
+No active assignments,Inga aktiva tilldelningar
+No active projects,Inga aktiva projekt
+No active timer found,Ingen aktiv kronometer hittades
+No activity selected,Ingen aktivitet vald
+No assignments found,Inga tilldelningar hittades
+No attendees,Inga deltagare
+no change,ingen andring
+No changes for this field.,Inga andringar for detta falt.
+No changes recorded for this activity.,Inga andringar registrerade for denna aktivitet.
+No checklist items yet,Inga checklistepunkter annu
+No checklist items yet.,Inga checklistepunkter annu.
+No comments yet,Inga kommentarer annu
+No comments yet.,Inga kommentarer annu.
+No contacts available,Inga kontakter tillgangliga
+No content for this tab,Inget innehall for denna flik
+No data available,Inga data tillgangliga
+No data available for the selected filters,Inga data tillgangliga for valda filter
+No data to export,Inga data att exportera
+No dates set,Inga datum angivna
+No defects reported,Inga defekter rapporterade
+No dependencies defined,Inga beroenden definierade
+No description,Ingen beskrivning
+No discussion yet.,Ingen diskussion annu.
+No documents attached,Inga dokument bifogade
+No due date,Inget forfallodag
+No employee linked to this resource,Ingen anstalld lankad till denna resurs
+No ERPNext employee linked to resource,Ingen ERPNext-anstalld lankad till resurs
+No events found,Inga evenemang hittades
+No files attached yet.,Inga filer bifogade annu.
+No Frappe Project linked,Inget Frappe-projekt lankat
+No Grouping,Ingen gruppering
+No items,Inga element
+No matching tasks,Inga matchande uppgifter
+No matching tasks found,Inga matchande uppgifter hittades
+No migration history,Ingen migreringshistorik
+No Milestone,Ingen milstolpe
+No milestones,Inga milstolpar
+No milestones defined for this project.,Inga milstolpar definierade for detta projekt.
+No notes yet.,Inga anteckningar annu.
+No notes yet. Add a due diligence note to track progress.,Inga anteckningar annu. Lagg till en forhandsgranskningsanteckning for att folja framstegen.
+No notifications,Inga notifieringar
+No Orga Project linked to Frappe Project {0},Inget Orga-projekt lankat till Frappe-projekt {0}
+No overdue tasks,Inga forsenade uppgifter
+No pending cascade changes,Inga vantande kaskadandringar
+No predecessors - this task can start independently,Inga foregaende -- denna uppgift kan starta oberoende
+No project,Inget projekt
+No projects found,Inga projekt hittades
+No Projects Yet,Inga projekt annu
+No recent activity,Ingen nylig aktivitet
+No related documents,Inga relaterade dokument
+No resolved threads.,Inga losta tradar.
+No resources found,Inga resurser hittades
+No results found,Inga resultat hittades
+No skills listed,Inga kompetenser listade
+No skills recorded yet,Inga kompetenser registrerade annu
+No successors - no tasks are waiting for this one,Inga efterfoljande -- inga uppgifter vantar pa denna
+No task selected,Ingen uppgift vald
+No tasks assigned to you,Inga uppgifter tilldelade till dig
+No tasks available to add,Inga uppgifter tillgangliga att lagga till
+No tasks found,Inga uppgifter hittades
+No tasks linked to this milestone,Inga uppgifter lankade till denna milstolpe
+No tasks with dates to display,Inga uppgifter med datum att visa
+No tasks yet,Inga uppgifter annu
+No team members,Inga teammedlemmar
+No template,Ingen mall
+No templates yet,Inga mallar annu
+No time data found,Inga tidsdata hittades
+No time logged today,Ingen tid registrerad idag
+No time logged yet,Ingen tid registrerad annu
+No time logs for this period,Inga tidsposter for denna period
+No time logs found,Inga tidsposter hittades
+No unread notifications,Inga olasta notifieringar
+No update information available yet.,No update information available yet.
+None,Ingen
+Not found,Hittades inte
+Not permitted,Inte tillattet
+Not permitted to access this project,Inte tillattet att komma at detta projekt
+Not permitted to access this task,Inte tillattet att komma at denna uppgift
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Inte tillattet att kommentera detta dokument
+Not permitted to create clients,Inte tillattet att skapa klienter
+Not permitted to delete this client,Inte tillattet att radera denna klient
+Not permitted to delete this defect,Inte tillattet att radera denna defekt
+Not permitted to delete this note,Inte tillattet att radera denna anteckning
+Not permitted to delete this project,Inte tillattet att radera detta projekt
+Not permitted to delete this task,Inte tillattet att radera denna uppgift
+Not permitted to delete this time log,Inte tillattet att radera denna tidspost
+Not permitted to invite clients,Inte tillattet att bjuda in klienter
+Not permitted to modify client access,Inte tillattet att andra klientatkomst
+Not permitted to modify this project,Inte tillattet att andra detta projekt
+Not permitted to update settings,Inte tillattet att uppdatera installningar
+Not permitted to update this client,Inte tillattet att uppdatera denna klient
+Not permitted to view this client,Inte tillattet att visa denna klient
+not sent,inte skickad
+Not set,Inte angiven
+Not specified,Inte specificerad
+Note,Anteckning
+Note (optional),Anteckning (valfritt)
+Note Content,Anteckningsinnehall
+Note content is required,Anteckningsinnehall kravs
+Note name is required,Anteckningsnamn kravs
+Note not found,Anteckning hittades inte
+Note Type,Anteckningstyp
+Notes,Anteckningar
+Notification,Notifiering
+Notification not found,Notifiering hittades inte
+Notifications,Notifieringar
+Off Track,Ur kurs
+Offer,Erbjudande
+Offer Prepared,Erbjudande forberett
+Oldest First,Aldst forst
+On Hold,Pausad
+On Leave,Pa ledighet
+On Track,I fas
+On-Time Rate,Punktlighet
+Only administrators can delete activities,Bara administratorer kan radera aktiviteter
+Only the comment author or administrators can delete comments,Bara kommentarens forfattare eller administratorer kan radera kommentarer
+Only you and admins,Bara du och administratorer
+Open,Oppen
+Open in Desk,Oppna i Desk
+Open Task Log,Oppna uppgiftslogg
+Open Tasks,Oppna uppgifter
+Optional,Valfritt
+optional,valfritt
+Or email us directly at,Eller mejla oss direkt pa
+Orga Project {0} from Frappe Projects,Orga-projekt {0} fran Frappe Projects
+Orga Task {0} from Frappe,Orga-uppgift {0} fran Frappe
+Organizer,Organisator
+Other,Ovrig
+Over Budget,Over budget
+Overall Progress,Overgripande framsteg
+Overall Utilization,Overgripande nyttjande
+Overallocated,Overtilldelad
+Overdue,Forsenad
+overdue,forsenad
+Overdue Tasks,Forsenade uppgifter
+Overview,Oversikt
+Owner,Agare
+Page Not Found,Sidan hittades inte
+Parent,Overordnad
+Parent comment must belong to the same document,Overordnad kommentar maste tillhora samma dokument
+Parent comment not found,Overordnad kommentar hittades inte
+Parent project not synced to Frappe yet,Overordnat projekt ar inte synkroniserat med Frappe annu
+Parent project sync not enabled,Overordnad projektsynkronisering ar inte aktiverad
+Partner,Partner
+Pending,Vantande
+per page,per sida
+Perform initial assessment and background check,Utfor inledande bedomning och bakgrundskontroll
+Permanently remove this event,Ta bort detta evenemang permanent
+Permanently remove this task,Ta bort denna uppgift permanent
+Phone,Telefon
+Pin,Nala fast
+Pin Activity,Nala fast aktivitet
+Pin to top,Nala fast langst upp
+Pinned,Fastnalad
+Planned budget for this task,Planerad budget for denna uppgift
+Planning,Planering
+Please describe your question or issue in detail...,Beskriv din fraga eller ditt problem i detalj...
+Please login to access Orga,Logga in for att komma at Orga
+Please login to access the client portal,Logga in for att komma at klientportalen
+Please respond to this invitation in Orga,Svara pa denna inbjudan i Orga
+Please select an image file,Valj en bildfil
+Please try again,Forsok igen
+Please type,Skriv
+Portal,Portal
+Portal access revoked for {0},Portalatkomst aterkallad for {0}
+Portal user created successfully. Welcome email {0},Portalanvandare skapad. Valkostmail {0}
+Post,Publicera
+Powered by,Drivs av
+Powered by Tonic,Drivs av Tonic
+Predecessors (Blocked By),Foregaende (blockerad av)
+Preferences,Installningar
+Preferences saved successfully,Installningar sparade
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Prefix for automatiskt genererade projektkoder (t.ex. ORG-2026-0001)
+Prepare and document offer terms,Forbered och dokumentera villkoren for erbjudandet
+Press,Tryck
+Preview,Forhandsgranskning
+Preview cascade before applying,Forhandsgranska kaskad innan tillampa
+Previous,Foregaende
+Priority,Prioritet
+Priority assigned to new tasks,Prioritet tilldelad nya uppgifter
+Priority updated,Prioritet uppdaterad
+Proficiency,Kompetensgrad
+Profile,Profil
+Progress,Framsteg
+Progress (High-Low),Framsteg (fallande)
+Progress (Low-High),Framsteg (stigande)
+Progress Overview,Framstegsöversikt
+Progress updated,Framsteg uppdaterat
+Project,Projekt
+Project budget has been saved.,Projektbudget har sparats.
+Project code (e.g. ORG-2026-0001),Projektkod (t.ex. ORG-2026-0001)
+Project Code Prefix,Projektkodprefix
+Project created,Projekt skapat
+Project deleted,Projekt raderat
+Project description has been saved.,Projektbeskrivning har sparats.
+Project Details,Projektdetaljer
+Project end date has been saved.,Projektets slutdatum har sparats.
+Project Files,Projektfiler
+Project has no linked client,Projektet har ingen kopplad klient
+Project Health,Projekthalsa
+Project Info,Projektinformation
+Project is required,Projekt kravs
+Project is required for project context,Projekt kravs for projektsammanhang
+Project is required when tracking context is 'project',"Projekt kravs nar uppfoljningssammanhanget ar ""projekt"""
+Project Manager,Projektledare
+Project Name,Projektnamn
+Project name and template name are required,Projektnamn och mallnamn kravs
+Project name is required,Projektnamn kravs
+Project not found,Projekt hittades inte
+Project not found or you do not have access,Projekt hittades inte eller du saknar atkomst
+Project settings,Projektinstallningar
+Project start date has been saved.,Projektets startdatum har sparats.
+Project title has been saved.,Projektets titel har sparats.
+Project Type,Projekttyp
+Project updated,Projekt uppdaterat
+Project {0} linked to client {1},Projekt {0} kopplat till klient {1}
+Project {0} not found,Projekt {0} hittades inte
+Project {0} to Frappe Projects,Projekt {0} till Frappe Projects
+Project:,Projekt:
+Projects,Projekt
+projects,projekt
+Projects created:,Projekt skapade:
+Projects Overview,Projektöversikt
+Projects skipped:,Projekt hoppade over:
+Projects updated:,Projekt uppdaterade:
+Promote failed,Befordran misslyckades
+Promote to task,Befordra till uppgift
+Promoted to task,Befordrad till uppgift
+Propose,Foreslå
+Propose New Time,Foreslå ny tid
+Propose Time,Foreslå tid
+Proposed End,Foreslagen slut
+Proposed Start,Foreslagen start
+Public,Offentlig
+Quick Action,Snabbatgard
+Quick Actions,Snabbatgarder
+Quick Stats,Snabbstatistik
+Rates,Taxor
+Receive notifications via email,Ta emot notifieringar via e-post
+Receive notifications within the application,Ta emot notifieringar i programmet
+Recent Activity,Senaste aktivitet
+Recipient {0} is not a valid user,Mottagare {0} ar inte en giltig anvandare
+Reference,Referens
+Refresh,Uppdatera
+Related,Relaterad
+Related Company (optional),Relaterat foretag (valfritt)
+Related Documents,Relaterade dokument
+Related Project,Relaterat projekt
+Remaining,Aterstående
+Reminder,Paminnelse
+Reminder Lead Time,Paminnelsetid i forvag
+Reminder: {0} - {1} at {2},Paminnelse: {0} - {1} kl. {2}
+Remove,Ta bort
+Remove dependency,Ta bort beroende
+Remove dependency on,Ta bort beroende pa
+Remove from group,Ta bort fran grupp
+Remove group dependency,Ta bort gruppberoende
+Remove skill,Ta bort kompetens
+Reopen,Ateröppna
+Reopen thread,Ateröppna trad
+reopened,ateropnad
+replies,svar
+Reply,Svara
+reply,svar
+Replying to,Svarar pa
+Replying to comment,Svarar pa kommentar
+Report Defect,Rapportera defekt
+Reported Date,Rapporterat datum
+Reports,Rapporter
+Reports To,Rapporterar till
+Request Submitted!,Forfragan skickad!
+Required,Obligatorisk
+required,obligatorisk
+Research,Forskning
+Reset to Defaults,Aterstall till standard
+Resolve,Los
+Resolve thread,Los trad
+Resolved,Lost
+Resolved date cannot be before reported date,Losningsdatum kan inte vara fore rapporteringsdatum
+Resource,Resurs
+Resource and skill name are required,Resurs och kompetensnamn kravs
+Resource is already an attendee,Resursen ar redan en deltagare
+Resource name is required,Resursnamn kravs
+Resource not found,Resurs hittades inte
+Resource synced from employee {0},Resurs synkroniserad fran anstalld {0}
+Resource {0} is already assigned to this task ({1}),Resurs {0} ar redan tilldelad denna uppgift ({1})
+Resource {0} not found,Resurs {0} hittades inte
+Resources,Kontakter
+Retry,Forsok igen
+Review,Granskning
+Review all relevant documents and contracts,Granska alla relevanta dokument och avtal
+Reviews,Granskningar
+Risk Assessment,Riskbedomning
+Rollback,Aterstall
+Rolled back,Aterstalls
+Room or address,Rum eller adress
+RSVP,RSVP
+Safety,Sakerhet
+Sat,Lor
+Save,Spara
+"Save a project as a template, or import one from a JSON file.","Spara ett projekt som mall, eller importera en fran en JSON-fil."
+Save as Template,Spara som mall
+Save Changes,Spara andringar
+Save failed,Sparande misslyckades
+Save Preferences,Spara installningar
+Save Template,Spara mall
+Saving...,Sparar...
+Schedule,Schema
+Schedule type is required for scheduled triggers,Schematyp kravs for schemalagda utlosare
+Scheduled,Schemalagd
+Search,Sok
+"Search by name, email, or skill...","Sok efter namn, e-post eller kompetens..."
+Search for a project...,Sok efter ett projekt...
+Search for a task...,Sok efter en uppgift...
+Search for an event...,Sok efter ett evenemang...
+Search for people to invite...,Sok efter personer att bjuda in...
+Search tasks to link...,Sok uppgifter att lanka...
+Search tasks...,Sok uppgifter...
+Search...,Sok...
+Searching...,Soker...
+Seen,Sedd
+Select a project if your request is related to a specific project.,Valj ett projekt om din forfragan ror ett specifikt projekt.
+Select a project...,Valj ett projekt...
+Select a task from the Gantt chart to view and manage its details.,Valj en uppgift i Gantt-schemat for att visa och hantera dess detaljer.
+Select a task from the list or Kanban board to view and manage its details.,Valj en uppgift fran listan eller Kanban-tavlan for att visa och hantera dess detaljer.
+Select a template...,Valj en mall...
+Select priority...,Valj prioritet...
+Select status...,Valj status...
+Select task...,Valj uppgift...
+Select type...,Valj typ...
+Selection,Urval
+Send,Skicka
+Send comment,Skicka kommentar
+Send email invitations to attendees,Skicka e-postinbjudningar till deltagare
+Send Invitations,Skicka inbjudningar
+Send notification when a task is assigned to a user,Skicka notifiering nar en uppgift tilldelas en anvandare
+Send notification when task status changes,Skicka notifiering nar uppgiftsstatus andras
+Send reminder before task due date,Skicka paminnelse fore uppgiftens forfallodag
+sent,skickad
+Set rate,Ange taxa
+Settings,Installningar
+Settings saved successfully,Installningar sparade
+Severity,Allvarlighetsgrad
+SF (Start-Finish),SF (Start-Slut)
+SF - Start-to-Finish,SF - Start-till-Slut
+Show,Visa
+Show all,Visa alla
+Show all changes,Visa alla andringar
+Show Archived,Visa arkiverade
+Show full diff,Visa fullstandig skillnad
+Show less,Visa mindre
+Show more,Visa mer
+Skill added,Kompetens tillagd
+Skill is required,Kompetens kravs
+Skill Name,Kompetensnamn
+Skill removed,Kompetens borttagen
+Skill {0} already exists for this resource,Kompetens {0} finns redan for denna resurs
+Skills,Kompetenser
+Skills & Competencies,Fardigheter och kompetenser
+Skip already migrated projects,Hoppa over redan migrerade projekt
+Sort by,Sortera efter
+Sort: Due Date,Sortering: Forfallodag
+Sort: Priority,Sortering: Prioritet
+Sort: Project,Sortering: Projekt
+Sort: Status,Sortering: Status
+Sort: Task,Sortering: Uppgift
+Source Code,Kallkod
+Spent,Forbrukat
+Spent:,Forbrukat:
+SS (Start-Start),SS (Start-Start)
+SS - Start-to-Start,SS - Start-till-Start
+Standalone,Fristaende
+Start,Start
+Start a discussion below,Starta en diskussion nedan
+Start Date,Startdatum
+Start date,Startdatum
+Start Date (Earliest),Startdatum (tidigast)
+Start date updated,Startdatum uppdaterat
+Start date/time is required,Startdatum/-tid kravs
+Start Migration,Starta migrering
+Start the conversation below.,Borja samtalet nedan.
+Start Timer,Starta kronometer
+Start typing to search...,Borja skriva for att soka...
+Start-to-Finish,Start-till-Slut
+Start-to-Start,Start-till-Start
+Start:,Start:
+Statistics reset,Statistik aterstallda
+Status,Status
+Status assigned to new projects,Status tilldelad nya projekt
+Status assigned to new tasks,Status tilldelad nya uppgifter
+Status Changes,Statusandringar
+Status updated,Status uppdaterad
+Status:,Status:
+Stop,Stoppa
+Stop & Save,Stoppa och spara
+Stop Timer,Stoppa kronometer
+Stops current timer and starts for this event,Stoppar aktuell kronometer och startar for detta evenemang
+Stops current timer and starts for this task,Stoppar aktuell kronometer och startar for denna uppgift
+Subject,Amne
+Subject cannot exceed 255 characters,Amne far inte overstiga 255 tecken
+Subject is required,Amne kravs
+Submit,Skicka in
+Submit Another Request,Skicka in ytterligare en forfragan
+Submit Request,Skicka in forfragan
+Submitting...,Skickar...
+Successfully saved,Sparades
+Successors (Blocking),Efterfoljande (blockerande)
+Sun,Son
+Supplier,Leverantor
+Support,Support
+Switch to this event,Vaxla till detta evenemang
+Switch to this task,Vaxla till denna uppgift
+Sync direction is set to Frappe to Orga only,Synkroniseringsriktning ar satt till enbart Frappe till Orga
+Sync direction is set to Orga to Frappe only,Synkroniseringsriktning ar satt till enbart Orga till Frappe
+Sync not enabled for this project,Synkronisering ar inte aktiverad for detta projekt
+System,System
+Table,Tabell
+Take ownership of this task,Ta ansvar for denna uppgift
+Target Date,Maldatum
+Target End,Malslut
+Target Project,Malprojekt
+Target user is required for '{0}' action,"Malanvandare kravs for atgarден ""{0}"""
+Task,Uppgift
+task,uppgift
+Task '{0}' is due on {1}.,"Uppgift ""{0}"" forfaller {1}."
+Task and resource are required,Uppgift och resurs kravs
+Task Assignment,Uppgiftstilldelning
+Task cannot be its own parent,En uppgift kan inte vara sin egen overordnad
+Task cannot depend on itself,En uppgift kan inte bero pa sig sjalv
+Task cannot depend on the group it belongs to,En uppgift kan inte bero pa gruppen den tillhor
+Task created,Uppgift skapad
+Task deleted,Uppgift raderad
+Task description has been saved.,Uppgiftsbeskrivning har sparats.
+Task Details,Uppgiftsdetaljer
+Task due in {0} days: {1},Uppgift forfaller om {0} dagar: {1}
+Task due today: {0},Uppgift forfaller idag: {0}
+Task due tomorrow: {0},Uppgift forfaller imorgon: {0}
+Task duplicated,Uppgift kopierad
+Task Group,Uppgiftsgrupp
+Task ID is required,Uppgifts-ID kravs
+Task is blocked by incomplete dependencies,Uppgiften ar blockerad av ofullstandiga beroenden
+Task is cancelled,Uppgiften ar avbruten
+Task is completed,Uppgiften ar slutford
+Task is no longer blocked by a group,Uppgiften ar inte langre blockerad av en grupp
+Task is required for task context,Uppgift kravs for uppgiftssammanhang
+Task is required when tracking context is 'task',"Uppgift kravs nar uppfoljningssammanhanget ar ""uppgift"""
+Task linked,Uppgift lankad
+Task moved,Uppgift flyttad
+Task name,Uppgiftsnamn
+Task name is required,Uppgiftsnamn kravs
+Task removed from group,Uppgift borttagen fran grupp
+Task Subject,Uppgiftsamne
+Task subject is required,Uppgiftsamne kravs
+Task Type,Uppgiftstyp
+Task unblocked: {0},Uppgift avblockerad: {0}
+Task unlinked,Uppgift avlankad
+Task updated,Uppgift uppdaterad
+Task {0} not found,Uppgift {0} hittades inte
+Task {0} not in project {1},Uppgift {0} finns inte i projekt {1}
+Task {0} to Frappe,Uppgift {0} till Frappe
+Tasks,Uppgifter
+tasks,uppgifter
+Tasks and milestones will be created with dates relative to the project start date.,Uppgifter och milstolpar skapas med datum relativt projektets startdatum.
+Tasks assigned to you across all projects.,Uppgifter tilldelade till dig i alla projekt.
+Tasks created:,Uppgifter skapade:
+Tasks from projects you manage.,Uppgifter fran projekt du hanterar.
+Tasks updated:,Uppgifter uppdaterade:
+"Tasks, milestones, and dependencies have been created.","Uppgifter, milstolpar och beroenden har skapats."
+Tasks:,Uppgifter:
+TBD,Ej beslutat
+Team,Team
+Team Members,Teammedlemmar
+Template,Mall
+Template applied,Mall tillampad
+Template data is required in import data,Malldata kravs i importdata
+Template has no data,Mallen har inga data
+Template Name,Mallnamn
+Template name,Mallnamn
+Template name is required,Mallnamn kravs
+Template name is required in import data,Mallnamn kravs i importdata
+Template saved,Mall sparad
+Template updated successfully.,Mall uppdaterad.
+Template {0} not found,Mall {0} hittades inte
+Templates,Mallar
+Tentative,Preliminar
+The comment has been deleted,Kommentaren har raderats
+The project,Projektet
+The source document may have been deleted.,Kalldokumentet kan ha raderats.
+The source document will not be affected.,Kalldokumentet paverkas inte.
+The status of '{0}' was changed from {1} to {2}.,"Statusen for ""{0}"" andrades fran {1} till {2}."
+Theme,Tema
+Theme preference,Temainställning
+This action,Denna atgard
+This action cannot be undone.,Denna atgard kan inte angras.
+This activity has been flagged for attention,Denna aktivitet har flaggats for uppmarksamhet
+This is a reminder for your upcoming appointment,Detta ar en paminnelse om ditt kommande mote
+This method is only meant for developer mode,Denna metod ar enbart avsedd for utvecklarlage
+This page wandered off,This page wandered off
+This Week,Denna vecka
+This will delete all notes and preferences associated with this activity.,Detta raderar alla anteckningar och installningar kopplde till denna aktivitet.
+This will import all Frappe Projects into Orga. Continue?,Detta importerar alla Frappe-projekt till Orga. Fortsatt?
+This will permanently delete,Detta raderar permanent
+This will permanently delete:,Detta raderar permanent:
+Thu,Tor
+Time,Tid
+Time & Billing,Tid och fakturering
+Time & Revenue,Tid och intakter
+Time Entries,Tidsposter
+Time log name is required,Namn pa tidspost kravs
+Time Log not found,Tidspost hittades inte
+Time log {0} not found,Tidspost {0} hittades inte
+Time Logs,Tidsposter
+Time Summary,Tidssammanstallning
+Time Tracking,Tidsregistrering
+Timeline,Tidslinje
+Timer active on,Kronometer aktiv pa
+Timer is not running,Kronometern ar inte igang
+Timer Running,Kronometer igang
+Timer running,Kronometer igang
+Timesheet DocType not available,DocType for tidrapport inte tillganglig
+Timesheets,Tidrapporter
+Timezone,Tidszon
+Timezone is detected from your browser,Tidszon detekteras fran din webblasare
+Title,Titel
+Title cannot exceed 255 characters,Titel far inte overstiga 255 tecken
+Title is required,Titel kravs
+Title updated,Titel uppdaterad
+To,Till
+to,till
+to cancel,for att avbryta
+to close,for att stanga
+to confirm:,for att bekrafta:
+to edit,for att redigera
+"to save,","for att spara,"
+To Time cannot be before From Time,Sluttiden kan inte vara fore starttiden
+Today,Idag
+today,idag
+Toggle billable,Vaxla fakturerbar
+Toggle Details Panel,Visa/dolj detaljpanelen
+Toggle Manager Panel,Visa/dolj chefspanelen
+Toggle Sidebar,Visa/dolj sidofalt
+Tomorrow,Imorgon
+tomorrow,imorgon
+Total,Totalt
+Total Budget,Total budget
+Total Contacts,Totalt antal kontakter
+Total Cost,Total kostnad
+Total Cost to Org,Total kostnad for organisationen
+Total Defect Cost,Total defektkostnad
+Total Hours,Totalt antal timmar
+Total Hours Logged,Totalt antal registrerade timmar
+Total Projects,Totalt antal projekt
+Total Spent,Totalt forbrukat
+Total Tasks,Totalt antal uppgifter
+Total:,Totalt:
+Tracked,Folj
+trails to today while Open at 0%,glider till idag medan Oppen vid 0%
+Tried:,Tried:
+Try adjusting your filter criteria,Forsok justera dina filterkriterier
+Try adjusting your filters.,Forsok justera dina filter.
+Try Again,Forsok igen
+Tue,Tis
+Type,Typ
+Type updated,Typ uppdaterad
+Type:,Typ:
+Typical response time: 1-2 business days,Typisk svarstid: 1-2 arbetsdagar
+Unarchive,Avarkivera
+Unarchive Activity,Avarkivera aktivitet
+Unassign,Avdela
+Unassigned,Ej tilldelad
+Under Budget,Under budget
+Ungrouped,Ogrupperad
+Unknown,Okand
+Unknown error,Okant fel
+Unlink failed,Avlankning misslyckades
+Unlink task from milestone,Avlanka uppgift fran milstolpe
+Unpin,Ta bort nal
+Unpin Activity,Ta bort nal fran aktivitet
+Unread,Olast
+Unread only,Enbart olasta
+Until,Till och med
+Up to Date,Up to Date
+Upcoming,Kommande
+upcoming,kommande
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Uppdatering misslyckades
+Updated,Uppdaterad
+Updated successfully,Uppdaterad
+Updates,Updates
+Upload,Ladda upp
+Upload failed,Uppladdning misslyckades
+Upload files below to attach them to this task.,Ladda upp filer nedan for att bifoga dem till denna uppgift.
+Upload to project,Ladda upp till projekt
+Uploading...,Laddar upp...
+Urgent,Akut
+User {0} is already linked to client {1},Anvandare {0} ar redan lankad till klient {1}
+User {0} is already linked to resource {1},Anvandare {0} ar redan lankad till resurs {1}
+Utilization,Nyttjande
+Valid,Giltig
+Value:,Varde:
+Variance,Avvikelse
+Variance:,Avvikelse:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Visa
+View All,Visa alla
+View all active projects,Visa alla aktiva projekt
+View all open tasks,Visa alla oppna uppgifter
+View overdue tasks,Visa forsenade uppgifter
+View Release,View Release
+Visibility,Synlighet
+Waiting for this task,Vantar pa denna uppgift
+Waits for:,Vantar pa:
+Warning: Resource {0} status is {1},Varning: Resurs {0} har status {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Varning: HTTP anvands istallet for HTTPS. Webhook-data kanske inte ar sakra.
+Watch budget closely,Bevaka budgeten noggrant
+We'll respond to:,Vi svarar till:
+Webhook deleted,Webhook raderad
+Webhook name is required,Webhook-namn kravs
+Webhook not found,Webhook hittades inte
+Webhook URL is required,Webhook-URL kravs
+Webhook URL must start with http:// or https://,Webhook-URL maste borja med http:// eller https://
+Wed,Ons
+Week,Vecka
+Weekend,Helg
+Weekly Capacity,Veckokapacitet
+weekly capacity,veckokapacitet
+Weekly Capacity (h),Veckokapacitet (t)
+Welcome,Valkommen
+Welcome back!,Valkomnen tillbaka!
+Welcome to Orga,Valkommen till Orga
+What are you working on?,Vad arbetar du med?
+What did you work on?,Vad arbetade du med?
+When,Nar
+When work begins,Nar arbetet borjar
+When work is due,Nar arbetet forfaller
+Where,Var
+Will capture:,Kommer att fanga:
+Will create:,Kommer att skapa:
+with checklist items,med checklistepunkter
+Working,Arbetar
+Workload,Arbetsbelastning
+Workmanship,Utforande
+Write a comment...,Skriv en kommentar...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Skriv en kommentar... Anvand @namn for att namna (Ctrl+Enter for att skicka)
+Year,Ar
+Yes,Ja
+Yesterday,Igar
+yesterday,igar
+You are not an attendee of this appointment,Du ar inte en deltagare i detta mote
+You are not linked to any resource,Du ar inte lankad till nagon resurs
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Du kan bara radera dina egna kommentarer
+You can only delete your own reactions,Du kan bara radera dina egna reaktioner
+You do not have access to the client portal. Please contact support.,Du har inte atkomst till klientportalen. Kontakta supporten.
+You have already reacted with '{0}',"Du har redan reagerat med ""{0}"""
+You have been assigned to task '{0}' in project '{1}'.,"Du har tilldelats uppgiften ""{0}"" i projektet ""{1}""."
+You have been assigned to: {0},Du har tilldelats: {0}
+You have been invited to the following appointment,Du har blivit inbjuden till foljande mote
+You have no tasks assigned to you right now.,Du har inga uppgifter tilldelade just nu.
+You were mentioned in {0},Du namndes i {0}
+Your attendance,Din narvaro
+Your comment has been posted,Din kommentar har publicerats
+Your Projects,Dina projekt
+Your projects will appear here once they're assigned to you.,Dina projekt visas har nar de tilldelas dig.
+Your Response,Ditt svar
+Your RSVP,Ditt RSVP
+Your support request has been submitted successfully.,Din supportforfragan har skickats.
+Your support request has been submitted successfully. We'll get back to you shortly.,Din supportforfragan har skickats. Vi aterкommer inom kort.
+"Your task ""{0}"" is no longer blocked and can now be started.","Din uppgift ""{0}"" ar inte langre blockerad och kan nu startas."
+{0} is required,{0} kravs
+{0} new activities,{0} nya aktiviteter
+{0} of {1} completed,{0} av {1} slutforda
+{0} projects already migrated (will be skipped or updated),{0} projekt redan migrerade (hoppas over eller uppdateras)
+{0} status changed to {1},{0} status andrad till {1}
+{0} tasks remaining,{0} uppgifter kvar
+{0} tasks without projects will be skipped,{0} uppgifter utan projekt hoppas over
+{0} {1} not found,{0} {1} hittades inte

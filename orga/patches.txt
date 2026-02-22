@@ -1,0 +1,5 @@
+[pre_model_sync]
+orga.patches.v0_0.fix_milestone_sort_field
+
+[post_model_sync]
+orga.patches.v0_0.set_workspace_icon

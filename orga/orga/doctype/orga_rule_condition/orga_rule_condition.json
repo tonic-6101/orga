@@ -1,0 +1,48 @@
+{
+  "actions": [],
+  "creation": "2026-02-03 12:00:00.000000",
+  "doctype": "DocType",
+  "engine": "InnoDB",
+  "field_order": [
+    "field_name",
+    "operator",
+    "value"
+  ],
+  "fields": [
+    {
+      "fieldname": "field_name",
+      "fieldtype": "Data",
+      "label": "Field",
+      "reqd": 1,
+      "in_list_view": 1,
+      "description": "Document field to evaluate (e.g., 'status', 'priority')"
+    },
+    {
+      "fieldname": "operator",
+      "fieldtype": "Select",
+      "label": "Operator",
+      "options": "equals\nnot equals\ngreater than\nless than\ncontains\nnot contains\nis set\nis not set",
+      "reqd": 1,
+      "in_list_view": 1
+    },
+    {
+      "fieldname": "value",
+      "fieldtype": "Data",
+      "label": "Value",
+      "in_list_view": 1,
+      "description": "Value to compare against (leave empty for 'is set'/'is not set')"
+    }
+  ],
+  "index_web_pages_for_search": 0,
+  "istable": 1,
+  "links": [],
+  "modified": "2026-02-03 12:00:00.000000",
+  "modified_by": "Administrator",
+  "module": "Orga",
+  "name": "Orga Rule Condition",
+  "owner": "Administrator",
+  "permissions": [],
+  "sort_field": "modified",
+  "sort_order": "DESC",
+  "states": []
+}

@@ -1,0 +1,1492 @@
++ Add Milestone,+ Legg til milepael
++ Create Task,+ Opprett oppgave
++ Log Time,+ Registrer tid
+-- Select a project --,-- Velg et prosjekt --
+0m,0m
+1 day,1 dag
+1 day ago,1 dag siden
+1 dependency,1 avhengighet
+1 entry,1 oppforing
+1 file,1 fil
+1 hour ago,1 time siden
+1 member,1 medlem
+1 milestone,1 milepael
+1 month,1 maned
+1 task,1 oppgave
+< 1m,< 1m
+"A clear, actionable title for the task","En tydelig, handlingsrettet tittel for oppgaven"
+A client with email {0} already exists: {1},En klient med e-post {0} finnes allerede: {1}
+A key deliverable or checkpoint for the project,En viktig leveranse eller kontrollpunkt for prosjektet
+Accept,Godta
+Accepted,Godtatt
+Acknowledge,Bekreft mottak
+across,pa tvers av
+Action,Handling
+Actions,Handlinger
+Active,Aktiv
+Active Assignments,Aktive tildelinger
+Active Projects,Aktive prosjekter
+Activity,Aktivitet
+Activity data deleted successfully,Aktivitetsdata slettet
+Activity Info,Aktivitetsinformasjon
+Activity Stats,Aktivitetsstatistikk
+Activity will appear here as you work on tasks and projects.,Aktivitet vises her nar du arbeider med oppgaver og prosjekter.
+Actual,Faktisk
+Actual Cost,Faktisk kostnad
+Actual cost cannot be negative,Faktisk kostnad kan ikke vaere negativ
+Actual end date cannot be before actual start date,Faktisk sluttdato kan ikke vaere for faktisk startdato
+Actual Hours,Faktiske timer
+Add,Legg til
+Add a checklist item...,Legg til et sjekklistepunkt...
+Add a comment...,Legg til en kommentar...
+Add a comment... (Ctrl+Enter to send),Legg til en kommentar... (Ctrl+Enter for a sende)
+Add a description...,Legg til en beskrivelse...
+Add a milestone description...,Legg til en milepael-beskrivelse...
+Add a note below to annotate this activity.,Legg til et notat nedenfor for a kommentere denne aktiviteten.
+Add a note...,Legg til et notat...
+Add a project description...,Legg til en prosjektbeskrivelse...
+Add a task description...,Legg til en oppgavebeskrivelse...
+Add checklist item...,Legg til sjekklistepunkt...
+Add Contact,Legg til kontakt
+Add contacts via the Desk interface or clear filters,Legg til kontakter via Desk-grensesnittet eller fjern filtrene
+Add Dependency,Legg til avhengighet
+Add details about this event...,Legg til detaljer om dette arrangementet...
+Add details about this milestone...,Legg til detaljer om denne milepelen...
+Add details about this task...,Legg til detaljer om denne oppgaven...
+Add details or acceptance criteria for this milestone,Legg til detaljer eller godkjenningskriterier for denne milepelen
+"Add details, context, or acceptance criteria","Legg til detaljer, kontekst eller godkjenningskriterier"
+Add first dependency,Legg til forste avhengighet
+Add item,Legg til element
+Add items below to track progress.,Legg til elementer nedenfor for a folge fremdriften.
+Add items below to track subtasks,Legg til elementer nedenfor for a folge deloppgaver
+Add Milestone,Legg til milepael
+Add Milestone (Shift+M),Legg til milepael (Shift+M)
+Add milestones to track key deliverables.,Legg til milepaeler for a folge viktige leveranser.
+Add New Contact,Legg til ny kontakt
+Add Note,Legg til notat
+Add note,Legg til notat
+Add notes about this contact...,Legg til notater om denne kontakten...
+Add reaction,Legg til reaksjon
+Add Skill,Legg til kompetanse
+Add start and due dates to tasks to see them on the Gantt chart,Legg til start- og forfallsdatoer pa oppgaver for a se dem i Gantt-diagrammet
+Add Task,Legg til oppgave
+Add Task (Shift+T),Legg til oppgave (Shift+T)
+Added Finish-to-Start dependency,Slutt-til-start-avhengighet lagt til
+Adding this dependency would create a circular reference: {0},A legge til denne avhengigheten ville skape en sirkelreferanse: {0}
+Adding...,Legger til...
+Address,Adresse
+Advanced,Avansert
+All,Alle
+All Active,Alle aktive
+All Assignees,Alle tildelte
+All Categories,Alle kategorier
+All caught up!,Alt er oppdatert!
+All Contexts,Alle kontekster
+All day,Hele dagen
+All day event,Heldagsarrangement
+All fields,Alle felt
+All Priorities,Alle prioriteter
+All Projects,Alle prosjekter
+All Status,Alle statuser
+All Statuses,Alle statuser
+All task dependencies & relative dates,Alle oppgaveavhengigheter og relative datoer
+All Tasks,Alle oppgaver
+All tasks across all projects.,Alle oppgaver i alle prosjekter.
+All tasks are already linked,Alle oppgaver er allerede lenket
+All team members,Alle teammedlemmer
+All Types,Alle typer
+All Users,Alle brukere
+Allocated,Tildelt
+allocated,tildelt
+Allow users to log time against tasks,Tillat brukere a registrere tid pa oppgaver
+Already exported to timesheet {0},Allerede eksportert til timeliste {0}
+Already Migrated,Allerede migrert
+Anyone with access,Alle med tilgang
+anytime to show this help,nar som helst for a vise denne hjelpen
+App Updates,App Updates
+Appearance,Utseende
+Apply,Bruk
+Apply cascade?,Bruke kaskade?
+Apply Changes,Bruk endringer
+Apply failed,Bruk mislyktes
+Apply Template,Bruk mal
+Applying...,Bruker...
+Appointment,Mote
+Appointment and resource are required,Mote og ressurs er pakrevd
+Appointment name is required,Motenavn er pakrevd
+Appointment not found,Mote ikke funnet
+Appointment {0} not found,Mote {0} ikke funnet
+Apps,Apper
+Archive,Arkiver
+Archive Activity,Arkiver aktivitet
+Archived,Arkivert
+Are you sure you want to delete this activity data? This cannot be undone.,Er du sikker pa at du vil slette disse aktivitetsdataene? Dette kan ikke angres.
+Are you sure you want to delete this comment?,Er du sikker pa at du vil slette denne kommentaren?
+Are you sure you want to delete this project?,Er du sikker pa at du vil slette dette prosjektet?
+Are you sure?,Er du sikker?
+Ascending -- click to reverse,Stigende -- klikk for a snu
+Assign To,Tildel til
+Assign to Me,Tildel til meg
+Assigned Contact,Tildelt kontakt
+Assigned To,Tildelt til
+Assigned to,Tildelt til
+Assigned to Me,Tildelt til meg
+Assignee,Tildelt
+Assignment,Tildeling
+Assignment History,Tildelingshistorikk
+Assignment name is required,Tildelingsnavn er pakrevd
+Assignment {0} not found,Tildeling {0} ikke funnet
+Assignments,Tildelinger
+At least one action is required,Minst en handling er pakrevd
+At least one event is required,Minst ett arrangement er pakrevd
+At least one event must be selected,Minst ett arrangement ma velges
+Attachment,Vedlegg
+Attachments,Vedlegg
+Attendees,Deltakere
+"Audit trail, assignments, version history","Endringslogg, tildelinger, versjonshistorikk"
+Auto,Automatisk
+Auto Calculate Progress,Beregn fremdrift automatisk
+Auto Set Missed Milestones,Merk ubesvarte milepaeler automatisk
+Auto-shift dependents when dates change,Flytt avhengige automatisk ved datoendring
+Auto-Trail Start,Automatisk glidende start
+Auto-Trail updated,Automatisk glidende start oppdatert
+Automatically calculate project progress from task completion,Beregn prosjektfremdrift automatisk fra oppgavefullforelse
+Automatically mark milestones as missed when overdue,Merk milepaeler automatisk som ubesvarte ved forsinkelse
+Automation rule {0} not found,Automatiseringsregel {0} ikke funnet
+Automation: {0},Automatisering: {0}
+Availability,Tilgjengelighet
+Available,Tilgjengelig
+Avatar updated successfully,Profilbilde oppdatert
+Avg Progress,Gjennomsnittlig fremdrift
+Back,Tilbake
+Back to Portal,Tilbake til portalen
+Back to Projects,Tilbake til prosjekter
+Beginner,Nybegynner
+Best regards,Med vennlig hilsen
+Billable,Fakturerbar
+Billable Amount,Fakturerbart belop
+Billable Hours,Fakturerbare timer
+Billable Rate,Fakturerbar sats
+Billing Rate,Faktureringssats
+Blocked,Blokkert
+Both dates are needed to display task as a bar in Gantt chart,Begge datoer trengs for a vise oppgaven som en stolpe i Gantt-diagrammet
+Both doctype and docname are required,Bade doctype og docname er pakrevd
+Both proposed start and end times are required,Bade foreslatt start- og sluttid er pakrevd
+Both task_name and depends_on are required,Bade task_name og depends_on er pakrevd
+Breadcrumb,Sti
+Brief description of the defect or damage,Kort beskrivelse av feilen eller skaden
+Brief description of this template,Kort beskrivelse av denne malen
+Brief description of your request,Kort beskrivelse av foresporselen din
+Brief project description,Kort prosjektbeskrivelse
+Budget,Budsjett
+Budget at risk,Budsjett i faresonen
+Budget Burn Rate,Budsjettforbruksrate
+Budget Status,Budsjettstatus
+Budget updated,Budsjett oppdatert
+Budget:,Budsjett:
+Bug,Feil
+Burn Rate,Forbruksrate
+Busy,Opptatt
+By,Av
+By Assignee,Per tildelt
+By Group,Per gruppe
+By Milestone,Per milepael
+By Priority,Per prioritet
+By Status,Per status
+Cancel,Avbryt
+Cancelled,Avbrutt
+cannot be undone,kan ikke angres
+Cannot delete client with {0} linked projects. Unlink projects first.,Kan ikke slette klient med {0} lenkede prosjekter. Fjern lenker forst.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Kan ikke slette prosjekt med {0} lenkede oppgaver. Slett oppgavene forst.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Kan ikke slette ressurs med {0} aktive tildelinger. Fullfore eller avbryte dem forst.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Kan ikke slette oppgave med {0} deloppgaver. Slett deloppgavene forst.
+Capacity,Kapasitet
+capacity,kapasitet
+Capacity & Rates,Kapasitet og satser
+Capture project structure for reuse,Lagre prosjektstruktur for gjenbruk
+Cascade,Kaskade
+Cascade Preview,Kaskadeforhandsvisning
+Category,Kategori
+Celebrate,Feire
+Change,Endre
+Change History,Endringshistorikk
+Change Priority,Endre prioritet
+Change Status,Endre status
+Changes,Endringer
+Changes appear when fields are modified.,Endringer vises nar felt endres.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Sjekkliste
+Checklist item name is required,Navn pa sjekklistepunkt er pakrevd
+Checklist item not found,Sjekklistepunkt ikke funnet
+Checklist item title is required,Tittel pa sjekklistepunkt er pakrevd
+Checklist item {0} not found,Sjekklistepunkt {0} ikke funnet
+Checklist item {0} not found in task,Sjekklistepunkt {0} ikke funnet i oppgaven
+Child,Underordnet
+Choose file to upload,Velg fil a laste opp
+Circular dependency detected: {0},Sirkulaer avhengighet oppdaget: {0}
+Circular parent-child relationship detected,Sirkulaert forelder-barn-forhold oppdaget
+Clear,Fjern
+Clear all read,Fjern alle leste
+Clear date,Fjern dato
+Click on an activity from the list to view and manage its details.,Klikk pa en aktivitet i listen for a se og handtere detaljene.
+Click the avatar to upload a new photo,Klikk pa profilbildet for a laste opp et nytt bilde
+Click to add description...,Klikk for a legge til beskrivelse...
+Click to add notes...,Klikk for a legge til notater...
+Click to assign contact,Klikk for a tildele kontakt
+Click to change status,Klikk for a endre status
+Click to change type,Klikk for a endre type
+Click to edit,Klikk for a redigere
+Click to edit budget,Klikk for a redigere budsjett
+Click to edit description,Klikk for a redigere beskrivelse
+Click to edit end date,Klikk for a redigere sluttdato
+Click to edit milestone name,Klikk for a redigere milepael-navn
+Click to edit rate,Klikk for a redigere sats
+Click to edit start date,Klikk for a redigere startdato
+Click to edit title,Klikk for a redigere tittel
+Click to load,Klikk for a laste
+Click to set group dependency...,Klikk for a angi gruppeavhengighet...
+Click to set group...,Klikk for a angi gruppe...
+Click to view,Klikk for a vise
+Click to view at-risk projects,Klikk for a vise prosjekter i faresonen
+Click to view critical projects,Klikk for a vise kritiske prosjekter
+Click to view healthy projects,Klikk for a vise sunne prosjekter
+Client,Klient
+Client already has a portal user: {0},Klienten har allerede en portalbruker: {0}
+Client already has portal access,Klienten har allerede portaltilgang
+Client has no portal user to revoke,Klienten har ingen portalbruker a tilbakekalle
+Client link removed from project {0},Klientlenke fjernet fra prosjekt {0}
+Client Portal,Klientportal
+Client {0} deleted successfully,Klient {0} slettet
+Close,Lukk
+Close (Esc),Lukk (Esc)
+Comment,Kommentar
+comment,kommentar
+Comment added,Kommentar lagt til
+Comment content is required,Kommentarinnhold er pakrevd
+Comment name is required,Kommentarnavn er pakrevd
+Comment not found,Kommentar ikke funnet
+Comment removed,Kommentar fjernet
+Comment {0} not found in task,Kommentar {0} ikke funnet i oppgaven
+Comments,Kommentarer
+comments,kommentarer
+Community Edition,Community Edition
+Company,Selskap
+Company name...,Selskapsnavn...
+Complete,Fullfore
+Completed,Fullfort
+completed,fullfort
+Completed Tasks,Fulforte oppgaver
+Compliance,Etterlevelse
+Configure default values for new projects and tasks,Konfigurer standardverdier for nye prosjekter og oppgaver
+Configure email notification settings,Konfigurer innstillinger for e-postvarsler
+Confirm,Bekreft
+Contact deleted,Kontakt slettet
+Contact Details,Kontaktdetaljer
+Contact Information,Kontaktinformasjon
+Contact name is required,Kontaktnavn er pakrevd
+Contact Support,Kontakt support
+Contact your project manager for more information.,Kontakt prosjektlederen for mer informasjon.
+Contact:,Kontakt:
+Contacts,Kontakter
+Context,Kontekst
+Contractor,Entreprenor
+Cost estimate cannot be negative,Kostnadsestimat kan ikke vaere negativt
+Cost Impact,Kostnadspåvirkning
+Cost Summary,Kostnadsoversikt
+Could not apply the template. Please try again.,Kunne ikke bruke malen. Forsok igjen.
+Could not attach file to project,Kunne ikke legge ved fil til prosjektet
+Could not change task priority,Kunne ikke endre oppgaveprioritet
+Could not change task status,Kunne ikke endre oppgavestatus
+Could not delete the project. Please try again.,Kunne ikke slette prosjektet. Forsok igjen.
+Could not delete the task. Please try again.,Kunne ikke slette oppgaven. Forsok igjen.
+Could not delete the template.,Kunne ikke slette malen.
+Could not duplicate the task. Please try again.,Kunne ikke kopiere oppgaven. Forsok igjen.
+Could not export the template.,Kunne ikke eksportere malen.
+Could not import the template. Please check the file format.,Kunne ikke importere malen. Sjekk filformatet.
+Could not link task to milestone,Kunne ikke lenke oppgaven til milepael
+Could not load document details.,Kunne ikke laste dokumentdetaljer.
+Could not load task details,Kunne ikke laste oppgavedetaljer
+Could not promote checklist item to task.,Kunne ikke forfremme sjekklistepunkt til oppgave.
+Could not remove task from milestone,Kunne ikke fjerne oppgaven fra milepael
+Could not save budget.,Kunne ikke lagre budsjett.
+Could not save changes to the milestone,Kunne ikke lagre endringer i milepelen
+Could not save changes to the task,Kunne ikke lagre endringer i oppgaven
+Could not save description.,Kunne ikke lagre beskrivelse.
+Could not save end date.,Kunne ikke lagre sluttdato.
+Could not save milestone name.,Kunne ikke lagre milepaelnavn.
+Could not save start date.,Kunne ikke lagre startdato.
+Could not save the template. Please try again.,Kunne ikke lagre malen. Forsok igjen.
+Could not save title.,Kunne ikke lagre tittel.
+Could not update dependency mode.,Kunne ikke oppdatere avhengighetsmodus.
+Could not update milestone date,Kunne ikke oppdatere milepael-dato
+Could not update project status.,Kunne ikke oppdatere prosjektstatus.
+Could not update project type.,Kunne ikke oppdatere prosjekttype.
+Could not update setting.,Kunne ikke oppdatere innstilling.
+Could not update task dates,Kunne ikke oppdatere oppgavedatoer
+Could not update task status,Kunne ikke oppdatere oppgavestatus
+Could not update the template.,Kunne ikke oppdatere malen.
+Create a copy of this task,Opprett en kopi av denne oppgaven
+Create Contact,Opprett kontakt
+Create Event,Opprett arrangement
+Create Milestone,Opprett milepael
+Create New Milestone,Opprett ny milepael
+Create New Task,Opprett ny oppgave
+Create Project,Opprett prosjekt
+Create Task,Opprett oppgave
+Create tasks and milestones from a template,Opprett oppgaver og milepaeler fra en mal
+Create your first project to get started.,Opprett ditt forste prosjekt for a komme i gang.
+Create your first task to start tracking work on this project.,Opprett din forste oppgave for a begynne a folge arbeidet i dette prosjektet.
+Created,Opprettet
+Creating...,Oppretter...
+Critical,Kritisk
+Critical Path,Kritisk vei
+"Currency used for budgets, costs, and billing rates","Valuta brukt for budsjeтter, kostnader og faktureringssatser"
+Current,Gjeldende
+Current Assignments,Gjeldende tildelinger
+Current scheduled time:,Gjeldende planlagt tid:
+Currently running version,Currently running version
+d lag,d forsinkelse
+Daily Availability,Daglig tilgjengelighet
+Daily Hours,Daglige timer
+Danger Zone,Faresone
+Dark,Mork
+Dashboard,Oversiktspanel
+Date,Dato
+Date changes on this task will show cascade impact here,Datoendringer pa denne oppgaven viser kaskadeeffekt her
+Date cleared,Dato fjernet
+Date of Joining,Ansettelsesdato
+Date updated,Dato oppdatert
+Dates,Datoer
+Dates cascaded,Datoer kaskadert
+Dates will be relative to the project's start date.,Datoer vil vaere relative til prosjektets startdato.
+Day,Dag
+day,dag
+days,dager
+Days before due date to send reminder,Dager for forfallsdato for a sende paminnelse
+Days Overdue,Dager forsinket
+Days Remaining,Dager igjen
+Deadline,Frist
+Deadlines,Frister
+Decision,Beslutning
+Decline,Avslа
+Declined,Avslatt
+Default Currency,Standardvaluta
+Default hours per week for contact capacity planning,Standardtimer per uke for kontaktkapasitetsplanlegging
+Default Priority,Standardprioritet
+Default Project Status,Standard prosjektstatus
+Default Task Status,Standard oppgavestatus
+Default task view,Standardvisning for oppgaver
+Default Values,Standardverdier
+Default Weekly Capacity,Standard ukekapasitet
+Defaults,Standardverdier
+Defect Cost Impact,Feilens kostnadspåvirkning
+Defect name is required,Feilnavn er pakrevd
+Defect Type,Feiltype
+Defect {0} not found,Feil {0} ikke funnet
+Defects,Feil
+Defects & Issues,Feil og problemer
+Defects Resolved,Feil utbedret
+Delayed,Forsinket
+Delete,Slett
+Delete Activity Data,Slett aktivitetsdata
+Delete all read notifications?,Slette alle leste varsler?
+Delete comment,Slett kommentar
+Delete Contact,Slett kontakt
+Delete Event,Slett arrangement
+Delete Event?,Slette arrangement?
+Delete failed,Sletting mislyktes
+Delete file,Slett fil
+Delete item,Slett element
+Delete note,Slett notat
+Delete Project,Slett prosjekt
+Delete Task,Slett oppgave
+Delete this project,Slett dette prosjektet
+Deleted,Slettet
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Prosjekt ""{0}"" slettet ({1} oppgaver, {2} milepaeler)"
+Deletes notes and preferences. Source document is not affected.,Sletter notater og innstillinger. Kildedokumentet pavirkes ikke.
+Deleting...,Sletter...
+Department,Avdeling
+Dependencies,Avhengigheter
+dependencies,avhengigheter
+Dependencies are informational only,Avhengigheter er kun informative
+dependency,avhengighet
+Dependency already exists,Avhengighet finnes allerede
+Dependency Chain,Avhengighetskjede
+Dependency created,Avhengighet opprettet
+Dependency mode updated,Avhengighetsmodus oppdatert
+Dependency name is required,Avhengighetsnavn er pakrevd
+Dependency task {0} not found,Avhengighetsoppgave {0} ikke funnet
+Dependency {0} not found,Avhengighet {0} ikke funnet
+depends,avhenger
+Depends on Group,Avhenger av gruppe
+Depends on task is required,Avhengighetsoppgave er pakrevd
+depends on...,avhenger av...
+Descending -- click to reverse,Synkende -- klikk for a snu
+Describe the defect in detail...,Beskriv feilen i detalj...
+Description,Beskrivelse
+Description updated,Beskrivelse oppdatert
+Designation,Stilling
+"Detailed description of the defect, location, and impact","Detaljert beskrivelse av feilen, plassering og påvirkning"
+Details,Detaljer
+Discard timer,Forkast tidtaker
+Discussion,Diskusjon
+Dismiss,Dismiss
+Display,Visning
+Document,Dokument
+Document attached to project,Dokument lagt ved prosjektet
+Document final decision and rationale,Dokumenter endelig beslutning og begrunnelse
+Documentation Review,Dokumentasjonsgjennomgang
+Documents,Dokumenter
+Done,Ferdig
+Download,Last ned
+Drag to create dependency,Dra for a opprette avhengighet
+Dry Run,Testkjoring
+Dry Run Complete,Testkjoring fullfort
+Due Date,Forfallsdato
+Due date,Forfallsdato
+Due Date (Earliest),Forfallsdato (tidligst)
+Due date cannot be before start date,Forfallsdato kan ikke vaere for startdato
+Due date is in the past,Forfallsdatoen er passert
+Due Date Reminders,Paminnelser om forfallsdato
+Due Diligence,Forhandsvurdering
+Due Diligence Checklist,Sjekkliste for forhandsvurdering
+Due This Week,Forfaller denne uken
+Due:,Forfaller:
+Duplicate events are not allowed,Dupliserte arrangementer er ikke tillatt
+Duplicate failed,Kopiering mislyktes
+Duplicate Task,Kopier oppgave
+Duration,Varighet
+Duration Summary,Varighetsoversikt
+Duration:,Varighet:
+e.g. Cracked wall finish in bathroom...,f.eks. Sprukket veggoverflate pa bad...
+"e.g. Electrical, Plumbing...","f.eks. Elektrisk, Ror..."
+Edit,Rediger
+Edit (E),Rediger (E)
+Edit dependency,Rediger avhengighet
+Edit Event,Rediger arrangement
+Efficiency,Effektivitet
+Either dependency_name or depends_on is required,Enten dependency_name eller depends_on er pakrevd
+Email,E-post
+Email invitations to all attendees,E-postinvitasjoner til alle deltakere
+Email is required to create portal user,E-post er pakrevd for a opprette portalbruker
+Email notifications,E-postvarsler
+Employee,Ansatt
+Employee DocType not available,Ansatt DocType ikke tilgjengelig
+Employee not found,Ansatt ikke funnet
+Enable or disable optional features,Aktiver eller deaktiver valgfrie funksjoner
+Enable Time Tracking,Aktiver tidsregistrering
+End,Slutt
+End Date,Sluttdato
+End date,Sluttdato
+End Date cannot be before Start Date,Sluttdato kan ikke vaere for startdato
+End date cannot be before start date,Sluttdato kan ikke vaere for startdato
+End date updated,Sluttdato oppdatert
+End time was before start time. Adjusted to 1 hour after start.,Sluttidspunktet var for starttidspunktet. Justert til 1 time etter start.
+End:,Slutt:
+Enter milestone name...,Skriv inn milepaelnavn...
+Enter project name,Skriv inn prosjektnavn
+Enter task title...,Skriv inn oppgavetittel...
+Enter template name,Skriv inn malnavn
+Enter your note... Use @name to mention someone,Skriv notatet ditt... Bruk @navn for a nevne noen
+Error,Feil
+Error loading activity,Feil ved lasting av aktivitet
+Error loading contacts,Feil ved lasting av kontakter
+Error loading dashboard,Feil ved lasting av oversiktspanelet
+Error loading project,Feil ved lasting av prosjekt
+Error loading projects,Feil ved lasting av prosjekter
+Error loading settings,Feil ved lasting av innstillinger
+Error loading tasks,Feil ved lasting av oppgaver
+Error loading templates,Feil ved lasting av maler
+Est. Hours,Est. timer
+Estimated,Estimert
+Estimated Cost,Estimert kostnad
+Estimated Cost (€),Estimert kostnad (€)
+Estimated Hours,Estimerte timer
+Estimated:,Estimert:
+Evaluate potential risks and concerns,Vurder potensielle risikoer og bekymringer
+Event,Arrangement
+Event is required for event context,Arrangement er pakrevd for arrangementskontekst
+Event is required when tracking context is 'event',"Arrangement er pakrevd nar oppfolgingskonteksten er ""arrangement"""
+Event Type,Arrangementstype
+Events,Arrangementer
+Events not available. Please run: bench --site orga.localhost migrate,Arrangementer ikke tilgjengelige. Kjor: bench --site orga.localhost migrate
+Events:,Arrangementer:
+Expert,Ekspert
+Explain why you are proposing a different time...,Forklar hvorfor du foreslar et annet tidspunkt...
+Export,Eksporter
+Export failed,Eksport mislyktes
+Export JSON,Eksporter JSON
+Exported,Eksportert
+Exported to timesheet {0},Eksportert til timeliste {0}
+External,Ekstern
+Failed to add item,Kunne ikke legge til element
+Failed to add note,Kunne ikke legge til notat
+Failed to add skill,Kunne ikke legge til kompetanse
+Failed to apply cascade changes: {0},Kunne ikke bruke kaskadeendringer: {0}
+Failed to create defect,Kunne ikke opprette feil
+Failed to create dependency,Kunne ikke opprette avhengighet
+Failed to create event,Kunne ikke opprette arrangement
+Failed to create milestone,Kunne ikke opprette milepael
+Failed to create project,Kunne ikke opprette prosjekt
+Failed to create task,Kunne ikke opprette oppgave
+Failed to create time log,Kunne ikke opprette tidsoppforing
+Failed to delete,Kunne ikke slette
+Failed to delete comment,Kunne ikke slette kommentar
+Failed to delete contact,Kunne ikke slette kontakt
+Failed to load,Kunne ikke laste
+Failed to load activity,Kunne ikke laste aktivitet
+Failed to load assignments,Kunne ikke laste tildelinger
+Failed to load contact,Kunne ikke laste kontakt
+Failed to load dashboard data,Kunne ikke laste oversiktspaneldata
+Failed to load defects,Kunne ikke laste feil
+Failed to load events,Kunne ikke laste arrangementer
+Failed to load project,Kunne ikke laste prosjekt
+Failed to load projects,Kunne ikke laste prosjekter
+Failed to load report data,Kunne ikke laste rapportdata
+Failed to load settings,Kunne ikke laste innstillinger
+Failed to load tasks,Kunne ikke laste oppgaver
+Failed to move task,Kunne ikke flytte oppgave
+Failed to post comment,Kunne ikke publisere kommentar
+Failed to propose new time,Kunne ikke foreslа nytt tidspunkt
+Failed to remove item,Kunne ikke fjerne element
+Failed to remove skill,Kunne ikke fjerne kompetanse
+Failed to reorder milestones: {0},Kunne ikke omorganisere milepaeler: {0}
+Failed to reorder tasks: {0},Kunne ikke omorganisere oppgaver: {0}
+Failed to reschedule dependent tasks: {0},Kunne ikke omplanlegge avhengige oppgaver: {0}
+Failed to save,Kunne ikke lagre
+Failed to save preferences,Kunne ikke lagre innstillinger
+Failed to save settings,Kunne ikke lagre innstillinger
+Failed to submit request. Please try again.,Kunne ikke sende foresporselen. Forsok igjen.
+Failed to update item,Kunne ikke oppdatere element
+Failed to update priority,Kunne ikke oppdatere prioritet
+Failed to update task,Kunne ikke oppdatere oppgave
+Failed to update tasks: {0},Kunne ikke oppdatere oppgaver: {0}
+Failed to upload avatar,Kunne ikke laste opp profilbilde
+Feature,Funksjon
+Features,Funksjoner
+FF (Finish-Finish),FF (Slutt-Slutt)
+FF - Finish-to-Finish,FF - Slutt-til-Slutt
+Field has been updated,Feltet er oppdatert
+Field name is required for 'Set Field Value' action,"Feltnavn er pakrevd for handlingen ""Angi feltverdi"""
+Field {0} is not a Link field,Felt {0} er ikke et lenkefelt
+Field {0} not found in {1},Felt {0} ikke funnet i {1}
+File,Fil
+file,fil
+File does not belong to this task,Filen tilhorer ikke denne oppgaven
+File name is required,Filnavn er pakrevd
+File uploaded,Fil lastet opp
+File {0} not found,Fil {0} ikke funnet
+Files,Filer
+files,filer
+Filter,Filter
+Final Decision,Endelig beslutning
+Finance,Okonomi
+Financial,Okonomisk
+Finish-to-Finish,Slutt-til-Slutt
+Finish-to-Start,Slutt-til-Start
+Flag,Flagg
+Flag for attention,Flagg for oppmerksomhet
+Flagged,Flagget
+Focus Panel,Fokuspanel
+Follows your system preference. Currently:,Folger systeminnstillingen din. For tiden:
+Frappe Project {0} not found,Frappe-prosjekt {0} ikke funnet
+Frappe Projects Migration,Frappe Projects-migrering
+Frappe Projects module not available,Frappe Projects-modulen er ikke tilgjengelig
+Frappe Projects module not installed,Frappe Projects-modulen er ikke installert
+Frappe Projects sync is not enabled,Frappe Projects-synkronisering er ikke aktivert
+Frappe Task DocType not found,Frappe Task DocType ikke funnet
+Frappe Task has no project,Frappe-oppgaven har ikke noe prosjekt
+Frappe Task {0} not found,Frappe-oppgave {0} ikke funnet
+Fri,Fre
+From,Fra
+From Template,Fra mal
+FS (Finish-Start),FS (Slutt-Start)
+FS - Finish-to-Start (default),FS - Slutt-til-Start (standard)
+Full form view with audit trail,Fullstendig skjemavisning med endringslogg
+Full name,Fullt navn
+Gantt,Gantt
+Gantt Chart,Gantt-diagram
+Gantt View,Gantt-visning
+General Note,Generelt notat
+Get started,Kom i gang
+Go back,Ga tilbake
+Go Back,Go Back
+Group by,Grupper etter
+Group dependency removed,Gruppeavhengighet fjernet
+Group dependency set,Gruppeavhengighet angitt
+Group removed,Gruppe fjernet
+Group updated,Gruppe oppdatert
+Hammock task dates are auto-calculated and cannot be changed manually,Hengematte-oppgavedatoer beregnes automatisk og kan ikke endres manuelt
+Have a question or need assistance? Fill out the form below and our team will get back to you.,"Har du et sporsmаl eller trenger hjelp? Fyll ut skjemaet nedenfor, sa tar vi kontakt."
+Health,Helse
+Healthy,Sunn
+Hello {0},Hei {0}
+Here's what's happening with your projects today.,Her er hva som skjer med prosjektene dine i dag.
+Hide,Skjul
+High,Hoy
+History,Historikk
+Home,Hjem
+Hourly Cost,Timekostnad
+Hours,Timer
+hours,timer
+Hours Logged,Registrerte timer
+ID,ID
+Image must be smaller than 5 MB,Bildet ma vaere mindre enn 5 MB
+Import,Importer
+Import existing projects and tasks from Frappe Projects module,Importer eksisterende prosjekter og oppgaver fra Frappe Projects-modulen
+Import failed,Import mislyktes
+Import Template,Importer mal
+Imported,Importert
+in,i
+In Progress,Under arbeid
+In Review,Under gjennomgang
+In-app notifications,Varsler i appen
+Inactive,Inaktiv
+Initial Review,Innledende gjennomgang
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Utilstrekkelige tillatelser for a vise alle oppgaver
+Intermediate,Mellomniva
+Internal,Intern
+Invalid DocType,Ugyldig DocType
+Invalid DocType for import,Ugyldig DocType for import
+Invalid item type: {0},Ugyldig elementtype: {0}
+Invalid JSON data,Ugyldige JSON-data
+Invalid note type. Must be one of: {0},Ugyldig notattype. Ma vaere en av: {0}
+Invalid project reference,Ugyldig prosjektreferanse
+Invalid reaction type. Must be one of: {0},Ugyldig reaksjonstype. Ma vaere en av: {0}
+Invalid RSVP status,Ugyldig RSVP-status
+Invalid status. Must be one of: {0},Ugyldig status. Ma vaere en av: {0}
+Invalid status: {0},Ugyldig status: {0}
+Invalid status: {0}. Must be one of: {1},Ugyldig status: {0}. Ma vaere en av: {1}
+Invalid tracking context: {0},Ugyldig oppfolgingskontekst: {0}
+Invalid visibility. Must be one of: {0},Ugyldig synlighet. Ma vaere en av: {0}
+Invitation: {0} - {1} at {2},Invitasjon: {0} - {1} kl. {2}
+Invite People,Inviter personer
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Element lagt til
+Item ID is required,Element-ID er pakrevd
+Item removed,Element fjernet
+Item type is required,Elementtype er pakrevd
+Item {0} not found,Element {0} ikke funnet
+Job title or role,Stillingstittel eller rolle
+Join Meeting,Bli med i mote
+Just now,Akkurat na
+just now,akkurat na
+Kanban,Kanban
+Kanban Board,Kanban-tavle
+Kanban View,Kanban-visning
+Keyboard Shortcuts,Tastatursnarveier
+Keyboard shortcuts (?),Tastatursnarveier (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Sist oppdatert
+Last updated:,Sist oppdatert:
+Last Week,Forrige uke
+Latest Version,Latest Version
+Light,Lys
+Link failed,Lenking mislyktes
+Link Task,Lenk oppgave
+Linked,Lenket
+Linked employee not found,Lenket ansatt ikke funnet
+Linked Tasks,Lenkede oppgaver
+List,Liste
+List View,Listevisning
+Load failed,Lasting mislyktes
+Load More,Last mer
+Load more comments,Last flere kommentarer
+Loading activity...,Laster aktivitet...
+Loading changes...,Laster endringer...
+Loading checklist...,Laster sjekkliste...
+Loading comments...,Laster kommentarer...
+Loading contact...,Laster kontakt...
+Loading contacts...,Laster kontakter...
+Loading dependencies...,Laster avhengigheter...
+Loading details...,Laster detaljer...
+Loading discussion...,Laster diskusjon...
+Loading events...,Laster arrangementer...
+Loading files...,Laster filer...
+Loading notes...,Laster notater...
+Loading preferences...,Laster innstillinger...
+Loading project...,Laster prosjekt...
+Loading projects...,Laster prosjekter...
+Loading replies...,Laster svar...
+Loading report data...,Laster rapportdata...
+Loading settings...,Laster innstillinger...
+Loading task...,Laster oppgave...
+Loading templates...,Laster maler...
+Loading time logs...,Laster tidsoppforinger...
+Loading your portal...,Laster portalen din...
+Loading...,Laster...
+Location,Sted
+Log Time,Registrer tid
+Logout,Logg ut
+Low,Lav
+Make Offer,Lag tilbud
+Manager,Leder
+Manual Entry,Manuell oppforing
+Margin,Margin
+Mark all as read,Merk alle som lest
+Mark all read,Merk alle som lest
+Mark as read,Merk som lest
+Mark as unread,Merk som ulest
+Mark read,Merk som lest
+Marking...,Merker...
+Material,Materiale
+Maybe,Kanskje
+Medium,Middels
+Meeting,Mote
+Meeting Link,Motelenke
+Meeting title,Motetittel
+Meeting URL,Mote-URL
+Meetings,Moter
+Mention,Nevn
+Message,Melding
+Message is required,Melding er pakrevd
+Message is required for '{0}' action,"Melding er pakrevd for handlingen ""{0}"""
+Migrate,Migrer
+Migration Complete,Migrering fullfort
+Migration ID:,Migrerings-ID:
+Migration log not found: {0},Migreringslogg ikke funnet: {0}
+Milestone,Milepael
+milestone,milepael
+Milestone created,Milepael opprettet
+Milestone description has been saved.,Milepael-beskrivelse er lagret.
+Milestone ID is required,Milepael-ID er pakrevd
+Milestone marked as Missed (past due date),Milepael merket som ubesvart (forfallsdato passert)
+Milestone moved,Milepael flyttet
+Milestone Name,Milepael-navn
+Milestone name has been saved.,Milepael-navn er lagret.
+Milestone name is required,Milepael-navn er pakrevd
+Milestone updated,Milepael oppdatert
+Milestone {0} not found,Milepael {0} ikke funnet
+Milestone {0} not in project {1},Milepael {0} finnes ikke i prosjekt {1}
+Milestones,Milepaeler
+milestones,milepaeler
+Milestones:,Milepaeler:
+Minutes,Minutter
+Missed,Ubesvart
+Mixed,Blandet
+Mobile,Mobil
+Moderate,Moderat
+Modified,Endret
+"Modify details, time, or attendees","Endre detaljer, tid eller deltakere"
+Mon,Man
+Month,Maned
+Move failed,Flytting mislyktes
+Must be a positive number,Ma vaere et positivt tall
+Must finish before this finishes,Ma slutte for dette slutter
+Must finish before this starts,Ma slutte for dette starter
+Must start before this finishes,Ma starte for dette slutter
+Must start before this starts,Ma starte for dette starter
+My Assignments,Mine tildelinger
+My Projects,Mine prosjekter
+My Schedule,Min timeplan
+My Tasks,Mine oppgaver
+N/A,I/T
+Name,Navn
+Name (A-Z),Navn (A-A)
+Name (Z-A),Navn (A-A)
+Name cannot exceed 255 characters,Navn kan ikke overskride 255 tegn
+Need help?,Trenger du hjelp?
+Needs Attention,Trenger oppmerksomhet
+Never,Never
+new activities,nye aktiviteter
+New Activity,Ny aktivitet
+New activity,Ny aktivitet
+New Event,Nytt arrangement
+New index is required,Ny indeks er pakrevd
+New Project,Nytt prosjekt
+New tasks will auto-trail by default.,Nye oppgaver far automatisk glidende start som standard.
+Newest First,Nyeste forst
+Next,Neste
+Next 14 days,Neste 14 dager
+Next 30 days,Neste 30 dager
+Next 60 days,Neste 60 dager
+Next 7 days,Neste 7 dager
+Next 90 days,Neste 90 dager
+Next Week,Neste uke
+Next:,Neste:
+No,Nei
+No active assignments,Ingen aktive tildelinger
+No active projects,Ingen aktive prosjekter
+No active timer found,Ingen aktiv tidtaker funnet
+No activity selected,Ingen aktivitet valgt
+No assignments found,Ingen tildelinger funnet
+No attendees,Ingen deltakere
+no change,ingen endring
+No changes for this field.,Ingen endringer for dette feltet.
+No changes recorded for this activity.,Ingen endringer registrert for denne aktiviteten.
+No checklist items yet,Ingen sjekklistepunkter ennas
+No checklist items yet.,Ingen sjekklistepunkter ennas.
+No comments yet,Ingen kommentarer ennas
+No comments yet.,Ingen kommentarer ennas.
+No contacts available,Ingen kontakter tilgjengelige
+No content for this tab,Ikke noe innhold for denne fanen
+No data available,Ingen data tilgjengelige
+No data available for the selected filters,Ingen data tilgjengelige for valgte filtre
+No data to export,Ingen data a eksportere
+No dates set,Ingen datoer angitt
+No defects reported,Ingen feil rapportert
+No dependencies defined,Ingen avhengigheter definert
+No description,Ingen beskrivelse
+No discussion yet.,Ingen diskusjon ennas.
+No documents attached,Ingen dokumenter vedlagt
+No due date,Ingen forfallsdato
+No employee linked to this resource,Ingen ansatt lenket til denne ressursen
+No ERPNext employee linked to resource,Ingen ERPNext-ansatt lenket til ressurs
+No events found,Ingen arrangementer funnet
+No files attached yet.,Ingen filer vedlagt ennas.
+No Frappe Project linked,Ingen Frappe-prosjekt lenket
+No Grouping,Ingen gruppering
+No items,Ingen elementer
+No matching tasks,Ingen samsvarende oppgaver
+No matching tasks found,Ingen samsvarende oppgaver funnet
+No migration history,Ingen migreringshistorikk
+No Milestone,Ingen milepael
+No milestones,Ingen milepaeler
+No milestones defined for this project.,Ingen milepaeler definert for dette prosjektet.
+No notes yet.,Ingen notater ennas.
+No notes yet. Add a due diligence note to track progress.,Ingen notater ennas. Legg til et forhandsvurderingsnotat for a folge fremdriften.
+No notifications,Ingen varsler
+No Orga Project linked to Frappe Project {0},Ingen Orga-prosjekt lenket til Frappe-prosjekt {0}
+No overdue tasks,Ingen forsinkede oppgaver
+No pending cascade changes,Ingen ventende kaskadeendringer
+No predecessors - this task can start independently,Ingen forgjengere -- denne oppgaven kan starte uavhengig
+No project,Ingen prosjekt
+No projects found,Ingen prosjekter funnet
+No Projects Yet,Ingen prosjekter ennas
+No recent activity,Ingen nylig aktivitet
+No related documents,Ingen relaterte dokumenter
+No resolved threads.,Ingen loste trader.
+No resources found,Ingen ressurser funnet
+No results found,Ingen resultater funnet
+No skills listed,Ingen kompetanser oppfort
+No skills recorded yet,Ingen kompetanser registrert ennas
+No successors - no tasks are waiting for this one,Ingen etterfolgere -- ingen oppgaver venter pa denne
+No task selected,Ingen oppgave valgt
+No tasks assigned to you,Ingen oppgaver tildelt deg
+No tasks available to add,Ingen oppgaver tilgjengelige a legge til
+No tasks found,Ingen oppgaver funnet
+No tasks linked to this milestone,Ingen oppgaver lenket til denne milepelen
+No tasks with dates to display,Ingen oppgaver med datoer a vise
+No tasks yet,Ingen oppgaver ennas
+No team members,Ingen teammedlemmer
+No template,Ingen mal
+No templates yet,Ingen maler ennas
+No time data found,Ingen tidsdata funnet
+No time logged today,Ingen tid registrert i dag
+No time logged yet,Ingen tid registrert ennas
+No time logs for this period,Ingen tidsoppforinger for denne perioden
+No time logs found,Ingen tidsoppforinger funnet
+No unread notifications,Ingen uleste varsler
+No update information available yet.,No update information available yet.
+None,Ingen
+Not found,Ikke funnet
+Not permitted,Ikke tillatt
+Not permitted to access this project,Ikke tillatt a fa tilgang til dette prosjektet
+Not permitted to access this task,Ikke tillatt a fa tilgang til denne oppgaven
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Ikke tillatt a kommentere dette dokumentet
+Not permitted to create clients,Ikke tillatt a opprette klienter
+Not permitted to delete this client,Ikke tillatt a slette denne klienten
+Not permitted to delete this defect,Ikke tillatt a slette denne feilen
+Not permitted to delete this note,Ikke tillatt a slette dette notatet
+Not permitted to delete this project,Ikke tillatt a slette dette prosjektet
+Not permitted to delete this task,Ikke tillatt a slette denne oppgaven
+Not permitted to delete this time log,Ikke tillatt a slette denne tidsoppforingen
+Not permitted to invite clients,Ikke tillatt a invitere klienter
+Not permitted to modify client access,Ikke tillatt a endre klienttilgang
+Not permitted to modify this project,Ikke tillatt a endre dette prosjektet
+Not permitted to update settings,Ikke tillatt a oppdatere innstillinger
+Not permitted to update this client,Ikke tillatt a oppdatere denne klienten
+Not permitted to view this client,Ikke tillatt a vise denne klienten
+not sent,ikke sendt
+Not set,Ikke angitt
+Not specified,Ikke spesifisert
+Note,Notat
+Note (optional),Notat (valgfritt)
+Note Content,Notatinnhold
+Note content is required,Notatinnhold er pakrevd
+Note name is required,Notatnavn er pakrevd
+Note not found,Notat ikke funnet
+Note Type,Notattype
+Notes,Notater
+Notification,Varsel
+Notification not found,Varsel ikke funnet
+Notifications,Varsler
+Off Track,Ute av kurs
+Offer,Tilbud
+Offer Prepared,Tilbud utarbeidet
+Oldest First,Eldst forst
+On Hold,Pa vent
+On Leave,Pa permisjon
+On Track,I rute
+On-Time Rate,Punktlighetsrate
+Only administrators can delete activities,Bare administratorer kan slette aktiviteter
+Only the comment author or administrators can delete comments,Bare kommentarforfatteren eller administratorer kan slette kommentarer
+Only you and admins,Bare deg og administratorer
+Open,Apen
+Open in Desk,Apne i Desk
+Open Task Log,Apne oppgavelogg
+Open Tasks,Apne oppgaver
+Optional,Valgfritt
+optional,valgfritt
+Or email us directly at,Eller send oss e-post direkte pa
+Orga Project {0} from Frappe Projects,Orga-prosjekt {0} fra Frappe Projects
+Orga Task {0} from Frappe,Orga-oppgave {0} fra Frappe
+Organizer,Arrangor
+Other,Annet
+Over Budget,Over budsjett
+Overall Progress,Samlet fremdrift
+Overall Utilization,Samlet utnyttelse
+Overallocated,Overtildelt
+Overdue,Forsinket
+overdue,forsinket
+Overdue Tasks,Forsinkede oppgaver
+Overview,Oversikt
+Owner,Eier
+Page Not Found,Siden ble ikke funnet
+Parent,Overordnet
+Parent comment must belong to the same document,Overordnet kommentar ma tilhore samme dokument
+Parent comment not found,Overordnet kommentar ikke funnet
+Parent project not synced to Frappe yet,Overordnet prosjekt er ikke synkronisert med Frappe ennas
+Parent project sync not enabled,Overordnet prosjektsynkronisering er ikke aktivert
+Partner,Partner
+Pending,Ventende
+per page,per side
+Perform initial assessment and background check,Utfor innledende vurdering og bakgrunnssjekk
+Permanently remove this event,Fjern dette arrangementet permanent
+Permanently remove this task,Fjern denne oppgaven permanent
+Phone,Telefon
+Pin,Fest
+Pin Activity,Fest aktivitet
+Pin to top,Fest overst
+Pinned,Festet
+Planned budget for this task,Planlagt budsjett for denne oppgaven
+Planning,Planlegging
+Please describe your question or issue in detail...,Beskriv sporsmalet eller problemet ditt i detalj...
+Please login to access Orga,Logg inn for a fa tilgang til Orga
+Please login to access the client portal,Logg inn for a fa tilgang til klientportalen
+Please respond to this invitation in Orga,Svar pa denne invitasjonen i Orga
+Please select an image file,Velg en bildefil
+Please try again,Forsok igjen
+Please type,Skriv
+Portal,Portal
+Portal access revoked for {0},Portaltilgang tilbakekalt for {0}
+Portal user created successfully. Welcome email {0},Portalbruker opprettet. Velkomst-e-post {0}
+Post,Publiser
+Powered by,Drevet av
+Powered by Tonic,Drevet av Tonic
+Predecessors (Blocked By),Forgjengere (blokkert av)
+Preferences,Innstillinger
+Preferences saved successfully,Innstillinger lagret
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Prefiks for automatisk genererte prosjektkoder (f.eks. ORG-2026-0001)
+Prepare and document offer terms,Forbered og dokumenter tilbudsvilkar
+Press,Trykk
+Preview,Forhandsvisning
+Preview cascade before applying,Forhandsvis kaskade for bruk
+Previous,Forrige
+Priority,Prioritet
+Priority assigned to new tasks,Prioritet tildelt nye oppgaver
+Priority updated,Prioritet oppdatert
+Proficiency,Kompetanseniva
+Profile,Profil
+Progress,Fremdrift
+Progress (High-Low),Fremdrift (synkende)
+Progress (Low-High),Fremdrift (stigende)
+Progress Overview,Fremdriftsoversikt
+Progress updated,Fremdrift oppdatert
+Project,Prosjekt
+Project budget has been saved.,Prosjektbudsjettet er lagret.
+Project code (e.g. ORG-2026-0001),Prosjektkode (f.eks. ORG-2026-0001)
+Project Code Prefix,Prosjektkodeprefiks
+Project created,Prosjekt opprettet
+Project deleted,Prosjekt slettet
+Project description has been saved.,Prosjektbeskrivelsen er lagret.
+Project Details,Prosjektdetaljer
+Project end date has been saved.,Prosjektets sluttdato er lagret.
+Project Files,Prosjektfiler
+Project has no linked client,Prosjektet har ingen tilknyttet klient
+Project Health,Prosjekthelse
+Project Info,Prosjektinformasjon
+Project is required,Prosjekt er pakrevd
+Project is required for project context,Prosjekt er pakrevd for prosjektkontekst
+Project is required when tracking context is 'project',"Prosjekt er pakrevd nar oppfolgingskonteksten er ""prosjekt"""
+Project Manager,Prosjektleder
+Project Name,Prosjektnavn
+Project name and template name are required,Prosjektnavn og malnavn er pakrevd
+Project name is required,Prosjektnavn er pakrevd
+Project not found,Prosjekt ikke funnet
+Project not found or you do not have access,Prosjekt ikke funnet eller du mangler tilgang
+Project settings,Prosjektinnstillinger
+Project start date has been saved.,Prosjektets startdato er lagret.
+Project title has been saved.,Prosjektets tittel er lagret.
+Project Type,Prosjekttype
+Project updated,Prosjekt oppdatert
+Project {0} linked to client {1},Prosjekt {0} tilknyttet klient {1}
+Project {0} not found,Prosjekt {0} ikke funnet
+Project {0} to Frappe Projects,Prosjekt {0} til Frappe Projects
+Project:,Prosjekt:
+Projects,Prosjekter
+projects,prosjekter
+Projects created:,Prosjekter opprettet:
+Projects Overview,Prosjektoversikt
+Projects skipped:,Prosjekter hoppet over:
+Projects updated:,Prosjekter oppdatert:
+Promote failed,Forfremming mislyktes
+Promote to task,Forfrem til oppgave
+Promoted to task,Forfremmet til oppgave
+Propose,Foresla
+Propose New Time,Foresla nytt tidspunkt
+Propose Time,Foresla tidspunkt
+Proposed End,Foreslatt slutt
+Proposed Start,Foreslatt start
+Public,Offentlig
+Quick Action,Hurtighandling
+Quick Actions,Hurtighandlinger
+Quick Stats,Hurtigstatistikk
+Rates,Satser
+Receive notifications via email,Motta varsler via e-post
+Receive notifications within the application,Motta varsler i applikasjonen
+Recent Activity,Nylig aktivitet
+Recipient {0} is not a valid user,Mottaker {0} er ikke en gyldig bruker
+Reference,Referanse
+Refresh,Oppdater
+Related,Relatert
+Related Company (optional),Relatert selskap (valgfritt)
+Related Documents,Relaterte dokumenter
+Related Project,Relatert prosjekt
+Remaining,Gjenstaende
+Reminder,Paminnelse
+Reminder Lead Time,Paminnelsestid pa forhand
+Reminder: {0} - {1} at {2},Paminnelse: {0} - {1} kl. {2}
+Remove,Fjern
+Remove dependency,Fjern avhengighet
+Remove dependency on,Fjern avhengighet pa
+Remove from group,Fjern fra gruppe
+Remove group dependency,Fjern gruppeavhengighet
+Remove skill,Fjern kompetanse
+Reopen,Gjenapne
+Reopen thread,Gjenapne trad
+reopened,gjenapnet
+replies,svar
+Reply,Svar
+reply,svar
+Replying to,Svarer pa
+Replying to comment,Svarer pa kommentar
+Report Defect,Rapporter feil
+Reported Date,Rapportert dato
+Reports,Rapporter
+Reports To,Rapporterer til
+Request Submitted!,Foresporselen er sendt!
+Required,Pakrevd
+required,pakrevd
+Research,Forskning
+Reset to Defaults,Tilbakestill til standard
+Resolve,Los
+Resolve thread,Los trad
+Resolved,Lost
+Resolved date cannot be before reported date,Losningsdato kan ikke vaere for rapporteringsdato
+Resource,Ressurs
+Resource and skill name are required,Ressurs og kompetansenavn er pakrevd
+Resource is already an attendee,Ressursen er allerede en deltaker
+Resource name is required,Ressursnavn er pakrevd
+Resource not found,Ressurs ikke funnet
+Resource synced from employee {0},Ressurs synkronisert fra ansatt {0}
+Resource {0} is already assigned to this task ({1}),Ressurs {0} er allerede tildelt denne oppgaven ({1})
+Resource {0} not found,Ressurs {0} ikke funnet
+Resources,Kontakter
+Retry,Forsok igjen
+Review,Gjennomgang
+Review all relevant documents and contracts,Gjennom ga alle relevante dokumenter og kontrakter
+Reviews,Gjennomganger
+Risk Assessment,Risikovurdering
+Rollback,Tilbakestill
+Rolled back,Tilbakestilt
+Room or address,Rom eller adresse
+RSVP,RSVP
+Safety,Sikkerhet
+Sat,Lor
+Save,Lagre
+"Save a project as a template, or import one from a JSON file.","Lagre et prosjekt som mal, eller importer en fra en JSON-fil."
+Save as Template,Lagre som mal
+Save Changes,Lagre endringer
+Save failed,Lagring mislyktes
+Save Preferences,Lagre innstillinger
+Save Template,Lagre mal
+Saving...,Lagrer...
+Schedule,Timeplan
+Schedule type is required for scheduled triggers,Tidsplantype er pakrevd for planlagte utlosere
+Scheduled,Planlagt
+Search,Sok
+"Search by name, email, or skill...","Sok etter navn, e-post eller kompetanse..."
+Search for a project...,Sok etter et prosjekt...
+Search for a task...,Sok etter en oppgave...
+Search for an event...,Sok etter et arrangement...
+Search for people to invite...,Sok etter personer a invitere...
+Search tasks to link...,Sok oppgaver a lenke...
+Search tasks...,Sok oppgaver...
+Search...,Sok...
+Searching...,Soker...
+Seen,Sett
+Select a project if your request is related to a specific project.,Velg et prosjekt hvis foresporselen din gjelder et bestemt prosjekt.
+Select a project...,Velg et prosjekt...
+Select a task from the Gantt chart to view and manage its details.,Velg en oppgave fra Gantt-diagrammet for a se og handtere detaljene.
+Select a task from the list or Kanban board to view and manage its details.,Velg en oppgave fra listen eller Kanban-tavlen for a se og handtere detaljene.
+Select a template...,Velg en mal...
+Select priority...,Velg prioritet...
+Select status...,Velg status...
+Select task...,Velg oppgave...
+Select type...,Velg type...
+Selection,Utvalg
+Send,Send
+Send comment,Send kommentar
+Send email invitations to attendees,Send e-postinvitasjoner til deltakere
+Send Invitations,Send invitasjoner
+Send notification when a task is assigned to a user,Send varsel nar en oppgave tildeles en bruker
+Send notification when task status changes,Send varsel nar oppgavestatus endres
+Send reminder before task due date,Send paminnelse for oppgavens forfallsdato
+sent,sendt
+Set rate,Angi sats
+Settings,Innstillinger
+Settings saved successfully,Innstillinger lagret
+Severity,Alvorlighetsgrad
+SF (Start-Finish),SF (Start-Slutt)
+SF - Start-to-Finish,SF - Start-til-Slutt
+Show,Vis
+Show all,Vis alle
+Show all changes,Vis alle endringer
+Show Archived,Vis arkiverte
+Show full diff,Vis fullstendig forskjell
+Show less,Vis mindre
+Show more,Vis mer
+Skill added,Kompetanse lagt til
+Skill is required,Kompetanse er pakrevd
+Skill Name,Kompetansenavn
+Skill removed,Kompetanse fjernet
+Skill {0} already exists for this resource,Kompetanse {0} finnes allerede for denne ressursen
+Skills,Kompetanser
+Skills & Competencies,Ferdigheter og kompetanser
+Skip already migrated projects,Hopp over allerede migrerte prosjekter
+Sort by,Sorter etter
+Sort: Due Date,Sortering: Forfallsdato
+Sort: Priority,Sortering: Prioritet
+Sort: Project,Sortering: Prosjekt
+Sort: Status,Sortering: Status
+Sort: Task,Sortering: Oppgave
+Source Code,Kildekode
+Spent,Forbrukt
+Spent:,Forbrukt:
+SS (Start-Start),SS (Start-Start)
+SS - Start-to-Start,SS - Start-til-Start
+Standalone,Fritstaende
+Start,Start
+Start a discussion below,Start en diskusjon nedenfor
+Start Date,Startdato
+Start date,Startdato
+Start Date (Earliest),Startdato (tidligst)
+Start date updated,Startdato oppdatert
+Start date/time is required,Startdato/-tid er pakrevd
+Start Migration,Start migrering
+Start the conversation below.,Begynn samtalen nedenfor.
+Start Timer,Start tidtaker
+Start typing to search...,Begynn a skrive for a soke...
+Start-to-Finish,Start-til-Slutt
+Start-to-Start,Start-til-Start
+Start:,Start:
+Statistics reset,Statistikk tilbakestilt
+Status,Status
+Status assigned to new projects,Status tildelt nye prosjekter
+Status assigned to new tasks,Status tildelt nye oppgaver
+Status Changes,Statusendringer
+Status updated,Status oppdatert
+Status:,Status:
+Stop,Stopp
+Stop & Save,Stopp og lagre
+Stop Timer,Stopp tidtaker
+Stops current timer and starts for this event,Stopper gjeldende tidtaker og starter for dette arrangementet
+Stops current timer and starts for this task,Stopper gjeldende tidtaker og starter for denne oppgaven
+Subject,Emne
+Subject cannot exceed 255 characters,Emne kan ikke overskride 255 tegn
+Subject is required,Emne er pakrevd
+Submit,Send inn
+Submit Another Request,Send inn en ny foresporseln
+Submit Request,Send inn foresporselen
+Submitting...,Sender...
+Successfully saved,Lagret
+Successors (Blocking),Etterfolgere (blokkerer)
+Sun,Son
+Supplier,Leverandor
+Support,Stotte
+Switch to this event,Bytt til dette arrangementet
+Switch to this task,Bytt til denne oppgaven
+Sync direction is set to Frappe to Orga only,Synkroniseringsretning er satt til kun Frappe til Orga
+Sync direction is set to Orga to Frappe only,Synkroniseringsretning er satt til kun Orga til Frappe
+Sync not enabled for this project,Synkronisering er ikke aktivert for dette prosjektet
+System,System
+Table,Tabell
+Take ownership of this task,Ta ansvar for denne oppgaven
+Target Date,Maldato
+Target End,Malslutt
+Target Project,Malprosjekt
+Target user is required for '{0}' action,"Malbruker er pakrevd for handlingen ""{0}"""
+Task,Oppgave
+task,oppgave
+Task '{0}' is due on {1}.,"Oppgave ""{0}"" forfaller {1}."
+Task and resource are required,Oppgave og ressurs er pakrevd
+Task Assignment,Oppgavetildeling
+Task cannot be its own parent,En oppgave kan ikke vaere sin egen overordnet
+Task cannot depend on itself,En oppgave kan ikke avhenge av seg selv
+Task cannot depend on the group it belongs to,En oppgave kan ikke avhenge av gruppen den tilhorer
+Task created,Oppgave opprettet
+Task deleted,Oppgave slettet
+Task description has been saved.,Oppgavebeskrivelsen er lagret.
+Task Details,Oppgavedetaljer
+Task due in {0} days: {1},Oppgave forfaller om {0} dager: {1}
+Task due today: {0},Oppgave forfaller i dag: {0}
+Task due tomorrow: {0},Oppgave forfaller i morgen: {0}
+Task duplicated,Oppgave kopiert
+Task Group,Oppgavegruppe
+Task ID is required,Oppgave-ID er pakrevd
+Task is blocked by incomplete dependencies,Oppgaven er blokkert av ufullstendige avhengigheter
+Task is cancelled,Oppgaven er avbrutt
+Task is completed,Oppgaven er fullfort
+Task is no longer blocked by a group,Oppgaven er ikke lenger blokkert av en gruppe
+Task is required for task context,Oppgave er pakrevd for oppgavekontekst
+Task is required when tracking context is 'task',"Oppgave er pakrevd nar oppfolgingskonteksten er ""oppgave"""
+Task linked,Oppgave lenket
+Task moved,Oppgave flyttet
+Task name,Oppgavenavn
+Task name is required,Oppgavenavn er pakrevd
+Task removed from group,Oppgave fjernet fra gruppe
+Task Subject,Oppgaveemne
+Task subject is required,Oppgaveemne er pakrevd
+Task Type,Oppgavetype
+Task unblocked: {0},Oppgave avblokkert: {0}
+Task unlinked,Oppgave avlenket
+Task updated,Oppgave oppdatert
+Task {0} not found,Oppgave {0} ikke funnet
+Task {0} not in project {1},Oppgave {0} finnes ikke i prosjekt {1}
+Task {0} to Frappe,Oppgave {0} til Frappe
+Tasks,Oppgaver
+tasks,oppgaver
+Tasks and milestones will be created with dates relative to the project start date.,Oppgaver og milepaeler opprettes med datoer relative til prosjektets startdato.
+Tasks assigned to you across all projects.,Oppgaver tildelt deg i alle prosjekter.
+Tasks created:,Oppgaver opprettet:
+Tasks from projects you manage.,Oppgaver fra prosjekter du leder.
+Tasks updated:,Oppgaver oppdatert:
+"Tasks, milestones, and dependencies have been created.","Oppgaver, milepaeler og avhengigheter er opprettet."
+Tasks:,Oppgaver:
+TBD,Ikke avgjort
+Team,Team
+Team Members,Teammedlemmer
+Template,Mal
+Template applied,Mal brukt
+Template data is required in import data,Maldata er pakrevd i importdata
+Template has no data,Malen har ingen data
+Template Name,Malnavn
+Template name,Malnavn
+Template name is required,Malnavn er pakrevd
+Template name is required in import data,Malnavn er pakrevd i importdata
+Template saved,Mal lagret
+Template updated successfully.,Mal oppdatert.
+Template {0} not found,Mal {0} ikke funnet
+Templates,Maler
+Tentative,Forelopig
+The comment has been deleted,Kommentaren er slettet
+The project,Prosjektet
+The source document may have been deleted.,Kildedokumentet kan ha blitt slettet.
+The source document will not be affected.,Kildedokumentet pavirkes ikke.
+The status of '{0}' was changed from {1} to {2}.,"Statusen til ""{0}"" ble endret fra {1} til {2}."
+Theme,Tema
+Theme preference,Temainnstilling
+This action,Denne handlingen
+This action cannot be undone.,Denne handlingen kan ikke angres.
+This activity has been flagged for attention,Denne aktiviteten er flagget for oppmerksomhet
+This is a reminder for your upcoming appointment,Dette er en paminnelse om ditt kommende mote
+This method is only meant for developer mode,Denne metoden er kun ment for utviklermodus
+This page wandered off,This page wandered off
+This Week,Denne uken
+This will delete all notes and preferences associated with this activity.,Dette sletter alle notater og innstillinger tilknyttet denne aktiviteten.
+This will import all Frappe Projects into Orga. Continue?,Dette importerer alle Frappe-prosjekter til Orga. Fortsette?
+This will permanently delete,Dette sletter permanent
+This will permanently delete:,Dette sletter permanent:
+Thu,Tor
+Time,Tid
+Time & Billing,Tid og fakturering
+Time & Revenue,Tid og inntekter
+Time Entries,Tidsoppforinger
+Time log name is required,Navn pa tidsoppforing er pakrevd
+Time Log not found,Tidsoppforing ikke funnet
+Time log {0} not found,Tidsoppforing {0} ikke funnet
+Time Logs,Tidsoppforinger
+Time Summary,Tidsoversikt
+Time Tracking,Tidsregistrering
+Timeline,Tidslinje
+Timer active on,Tidtaker aktiv pa
+Timer is not running,Tidtakeren er ikke i gang
+Timer Running,Tidtaker i gang
+Timer running,Tidtaker i gang
+Timesheet DocType not available,DocType for timeliste ikke tilgjengelig
+Timesheets,Timelister
+Timezone,Tidssone
+Timezone is detected from your browser,Tidssone oppdages fra nettleseren din
+Title,Tittel
+Title cannot exceed 255 characters,Tittel kan ikke overskride 255 tegn
+Title is required,Tittel er pakrevd
+Title updated,Tittel oppdatert
+To,Til
+to,til
+to cancel,for a avbryte
+to close,for a lukke
+to confirm:,for a bekrefte:
+to edit,for a redigere
+"to save,","for a lagre,"
+To Time cannot be before From Time,Sluttid kan ikke vaere for starttid
+Today,I dag
+today,i dag
+Toggle billable,Veksle fakturerbar
+Toggle Details Panel,Vis/skjul detaljpanelet
+Toggle Manager Panel,Vis/skjul lederpanelet
+Toggle Sidebar,Vis/skjul sidefelt
+Tomorrow,I morgen
+tomorrow,i morgen
+Total,Totalt
+Total Budget,Totalt budsjett
+Total Contacts,Totalt antall kontakter
+Total Cost,Total kostnad
+Total Cost to Org,Total kostnad for organisasjonen
+Total Defect Cost,Total feilkostnad
+Total Hours,Totalt antall timer
+Total Hours Logged,Totalt antall registrerte timer
+Total Projects,Totalt antall prosjekter
+Total Spent,Totalt forbrukt
+Total Tasks,Totalt antall oppgaver
+Total:,Totalt:
+Tracked,Fulgt
+trails to today while Open at 0%,glir til i dag mens Apen ved 0%
+Tried:,Tried:
+Try adjusting your filter criteria,Forsok a justere filterkriteriene
+Try adjusting your filters.,Forsok a justere filtrene.
+Try Again,Forsok igjen
+Tue,Tir
+Type,Type
+Type updated,Type oppdatert
+Type:,Type:
+Typical response time: 1-2 business days,Typisk svartid: 1-2 virkedager
+Unarchive,Avarkiver
+Unarchive Activity,Avarkiver aktivitet
+Unassign,Fjern tildeling
+Unassigned,Ikke tildelt
+Under Budget,Under budsjett
+Ungrouped,Ugruppert
+Unknown,Ukjent
+Unknown error,Ukjent feil
+Unlink failed,Avlenking mislyktes
+Unlink task from milestone,Avlenk oppgave fra milepael
+Unpin,Fest av
+Unpin Activity,Fest av aktivitet
+Unread,Ulest
+Unread only,Kun uleste
+Until,Til og med
+Up to Date,Up to Date
+Upcoming,Kommende
+upcoming,kommende
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Oppdatering mislyktes
+Updated,Oppdatert
+Updated successfully,Oppdatert
+Updates,Updates
+Upload,Last opp
+Upload failed,Opplasting mislyktes
+Upload files below to attach them to this task.,Last opp filer nedenfor for a legge dem ved denne oppgaven.
+Upload to project,Last opp til prosjekt
+Uploading...,Laster opp...
+Urgent,Haster
+User {0} is already linked to client {1},Bruker {0} er allerede lenket til klient {1}
+User {0} is already linked to resource {1},Bruker {0} er allerede lenket til ressurs {1}
+Utilization,Utnyttelse
+Valid,Gyldig
+Value:,Verdi:
+Variance,Avvik
+Variance:,Avvik:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Vis
+View All,Vis alle
+View all active projects,Vis alle aktive prosjekter
+View all open tasks,Vis alle apne oppgaver
+View overdue tasks,Vis forsinkede oppgaver
+View Release,View Release
+Visibility,Synlighet
+Waiting for this task,Venter pa denne oppgaven
+Waits for:,Venter pa:
+Warning: Resource {0} status is {1},Advarsel: Ressurs {0} har status {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Advarsel: HTTP brukes i stedet for HTTPS. Webhook-data er kanskje ikke sikre.
+Watch budget closely,Folg budsjettet noye
+We'll respond to:,Vi svarer til:
+Webhook deleted,Webhook slettet
+Webhook name is required,Webhook-navn er pakrevd
+Webhook not found,Webhook ikke funnet
+Webhook URL is required,Webhook-URL er pakrevd
+Webhook URL must start with http:// or https://,Webhook-URL ma starte med http:// eller https://
+Wed,Ons
+Week,Uke
+Weekend,Helg
+Weekly Capacity,Ukekapasitet
+weekly capacity,ukekapasitet
+Weekly Capacity (h),Ukekapasitet (t)
+Welcome,Velkommen
+Welcome back!,Velkommen tilbake!
+Welcome to Orga,Velkommen til Orga
+What are you working on?,Hva jobber du med?
+What did you work on?,Hva jobbet du med?
+When,Nar
+When work begins,Nar arbeidet begynner
+When work is due,Nar arbeidet forfaller
+Where,Hvor
+Will capture:,Vil fange:
+Will create:,Vil opprette:
+with checklist items,med sjekklistepunkter
+Working,Arbeider
+Workload,Arbeidsbelastning
+Workmanship,Utforelse
+Write a comment...,Skriv en kommentar...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Skriv en kommentar... Bruk @navn for a nevne (Ctrl+Enter for a sende)
+Year,Ar
+Yes,Ja
+Yesterday,I gar
+yesterday,i gar
+You are not an attendee of this appointment,Du er ikke en deltaker i dette motet
+You are not linked to any resource,Du er ikke lenket til noen ressurs
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Du kan bare slette dine egne kommentarer
+You can only delete your own reactions,Du kan bare slette dine egne reaksjoner
+You do not have access to the client portal. Please contact support.,Du har ikke tilgang til klientportalen. Kontakt support.
+You have already reacted with '{0}',"Du har allerede reagert med ""{0}"""
+You have been assigned to task '{0}' in project '{1}'.,"Du er tildelt oppgaven ""{0}"" i prosjektet ""{1}""."
+You have been assigned to: {0},Du er tildelt: {0}
+You have been invited to the following appointment,Du er invitert til folgende mote
+You have no tasks assigned to you right now.,Du har ingen oppgaver tildelt akkurat na.
+You were mentioned in {0},Du ble nevnt i {0}
+Your attendance,Din deltakelse
+Your comment has been posted,Kommentaren din er publisert
+Your Projects,Dine prosjekter
+Your projects will appear here once they're assigned to you.,Prosjektene dine vises her nar de tildeles deg.
+Your Response,Ditt svar
+Your RSVP,Ditt RSVP
+Your support request has been submitted successfully.,Supportforesporselen din er sendt.
+Your support request has been submitted successfully. We'll get back to you shortly.,Supportforesporselen din er sendt. Vi tar kontakt snart.
+"Your task ""{0}"" is no longer blocked and can now be started.","Oppgaven din ""{0}"" er ikke lenger blokkert og kan na startes."
+{0} is required,{0} er pakrevd
+{0} new activities,{0} nye aktiviteter
+{0} of {1} completed,{0} av {1} fullfort
+{0} projects already migrated (will be skipped or updated),{0} prosjekter allerede migrert (hoppes over eller oppdateres)
+{0} status changed to {1},{0} status endret til {1}
+{0} tasks remaining,{0} oppgaver gjenstar
+{0} tasks without projects will be skipped,{0} oppgaver uten prosjekter hoppes over
+{0} {1} not found,{0} {1} ikke funnet

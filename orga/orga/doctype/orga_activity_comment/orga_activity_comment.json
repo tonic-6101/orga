@@ -1,0 +1,201 @@
+{
+  "actions": [],
+  "allow_rename": 0,
+  "autoname": "hash",
+  "creation": "2026-02-04 12:00:00.000000",
+  "doctype": "DocType",
+  "engine": "InnoDB",
+  "field_order": [
+    "reference_doctype",
+    "reference_name",
+    "column_break_1",
+    "parent_comment",
+    "note_type",
+    "section_content",
+    "user",
+    "content",
+    "column_break_2",
+    "visibility",
+    "related_company",
+    "section_resolve",
+    "is_resolved",
+    "resolved_by",
+    "resolved_at",
+    "column_break_resolve",
+    "is_pinned",
+    "pinned_by",
+    "pinned_at",
+    "section_mentions",
+    "mentions"
+  ],
+  "fields": [
+    {
+      "fieldname": "reference_doctype",
+      "fieldtype": "Data",
+      "label": "Reference DocType",
+      "reqd": 1,
+      "in_list_view": 1,
+      "in_standard_filter": 1
+    },
+    {
+      "fieldname": "reference_name",
+      "fieldtype": "Data",
+      "label": "Reference Name",
+      "reqd": 1,
+      "in_list_view": 1,
+      "in_standard_filter": 1
+    },
+    {
+      "fieldname": "column_break_1",
+      "fieldtype": "Column Break"
+    },
+    {
+      "fieldname": "parent_comment",
+      "fieldtype": "Link",
+      "label": "Parent Comment",
+      "options": "Orga Activity Comment",
+      "description": "For threaded replies"
+    },
+    {
+      "fieldname": "note_type",
+      "fieldtype": "Select",
+      "label": "Note Type",
+      "options": "General\nDue Diligence\nOffer\nDecision\nSystem",
+      "default": "General",
+      "in_standard_filter": 1,
+      "description": "Type of note for categorization"
+    },
+    {
+      "fieldname": "section_content",
+      "fieldtype": "Section Break",
+      "label": "Content"
+    },
+    {
+      "fieldname": "user",
+      "fieldtype": "Link",
+      "label": "User",
+      "options": "User",
+      "reqd": 1,
+      "in_list_view": 1,
+      "read_only": 1
+    },
+    {
+      "fieldname": "content",
+      "fieldtype": "Text",
+      "label": "Content",
+      "reqd": 1,
+      "in_list_view": 1
+    },
+    {
+      "fieldname": "column_break_2",
+      "fieldtype": "Column Break"
+    },
+    {
+      "fieldname": "visibility",
+      "fieldtype": "Select",
+      "label": "Visibility",
+      "options": "Internal\nTeam\nPublic",
+      "default": "Internal",
+      "in_standard_filter": 1,
+      "description": "Controls who can see this note"
+    },
+    {
+      "fieldname": "related_company",
+      "fieldtype": "Data",
+      "label": "Related Company",
+      "description": "Company name for client/vendor linking"
+    },
+    {
+      "fieldname": "section_resolve",
+      "fieldtype": "Section Break",
+      "label": "Resolve & Pin",
+      "collapsible": 1
+    },
+    {
+      "fieldname": "is_resolved",
+      "fieldtype": "Check",
+      "label": "Is Resolved",
+      "default": 0,
+      "read_only": 1
+    },
+    {
+      "fieldname": "resolved_by",
+      "fieldtype": "Link",
+      "label": "Resolved By",
+      "options": "User",
+      "read_only": 1
+    },
+    {
+      "fieldname": "resolved_at",
+      "fieldtype": "Datetime",
+      "label": "Resolved At",
+      "read_only": 1
+    },
+    {
+      "fieldname": "column_break_resolve",
+      "fieldtype": "Column Break"
+    },
+    {
+      "fieldname": "is_pinned",
+      "fieldtype": "Check",
+      "label": "Is Pinned",
+      "default": 0,
+      "read_only": 1
+    },
+    {
+      "fieldname": "pinned_by",
+      "fieldtype": "Link",
+      "label": "Pinned By",
+      "options": "User",
+      "read_only": 1
+    },
+    {
+      "fieldname": "pinned_at",
+      "fieldtype": "Datetime",
+      "label": "Pinned At",
+      "read_only": 1
+    },
+    {
+      "fieldname": "section_mentions",
+      "fieldtype": "Section Break",
+      "label": "Mentions",
+      "collapsible": 1
+    },
+    {
+      "fieldname": "mentions",
+      "fieldtype": "Table",
+      "label": "Mentions",
+      "options": "Orga Activity Comment Mention"
+    }
+  ],
+  "index_web_pages_for_search": 0,
+  "links": [],
+  "modified": "2026-02-17 20:00:00.000000",
+  "modified_by": "Administrator",
+  "module": "Orga",
+  "name": "Orga Activity Comment",
+  "naming_rule": "Random",
+  "owner": "Administrator",
+  "permissions": [
+    {
+      "create": 1,
+      "delete": 0,
+      "read": 1,
+      "role": "System Manager",
+      "share": 1,
+      "write": 0
+    },
+    {
+      "create": 1,
+      "delete": 0,
+      "read": 1,
+      "role": "All",
+      "write": 0
+    }
+  ],
+  "search_fields": "reference_doctype, reference_name, user",
+  "sort_field": "creation",
+  "sort_order": "DESC",
+  "states": [],
+  "track_changes": 0
+}

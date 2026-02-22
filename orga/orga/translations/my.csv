@@ -1,0 +1,1492 @@
++ Add Milestone,+ မှတ်တိုင်ထည့်ရန်
++ Create Task,+ လုပ်ငန်းဖန်တီးရန်
++ Log Time,+ အချိန်မှတ်တမ်းတင်ရန်
+-- Select a project --,-- ပရောဂျက်ရွေးချယ်ပါ --
+0m,၀မိ
+1 day,၁ ရက်
+1 day ago,၁ ရက်အကြာက
+1 dependency,မှီခိုမှု ၁ ခု
+1 entry,ထည့်သွင်းမှု ၁ ခု
+1 file,ဖိုင် ၁ ခု
+1 hour ago,၁ နာရီအကြာက
+1 member,အဖွဲ့ဝင် ၁ ဦး
+1 milestone,မှတ်တိုင် ၁ ခု
+1 month,၁ လ
+1 task,လုပ်ငန်း ၁ ခု
+< 1m,< ၁မိ
+"A clear, actionable title for the task",လုပ်ငန်းအတွက် ရှင်းလင်းပြီး လုပ်ဆောင်နိုင်သော ခေါင်းစဉ်
+A client with email {0} already exists: {1},အီးမေးလ် {0} ဖြင့် ဖောက်သည်တစ်ဦး ရှိပြီးသားဖြစ်သည်: {1}
+A key deliverable or checkpoint for the project,ပရောဂျက်အတွက် အဓိက ပေးအပ်ရမည့်အရာ သို့မဟုတ် စစ်ဆေးရမှတ်
+Accept,လက်ခံရန်
+Accepted,လက်ခံပြီး
+Acknowledge,အသိအမှတ်ပြုရန်
+across,တစ်လျှောက်
+Action,လုပ်ဆောင်ချက်
+Actions,လုပ်ဆောင်ချက်များ
+Active,လက်ရှိအသုံးပြုနေသော
+Active Assignments,လက်ရှိ တာဝန်ပေးအပ်မှုများ
+Active Projects,လက်ရှိ ပရောဂျက်များ
+Activity,လုပ်ဆောင်ချက်
+Activity data deleted successfully,လုပ်ဆောင်ချက်ဒေတာ အောင်မြင်စွာ ဖျက်ပြီးပါပြီ
+Activity Info,လုပ်ဆောင်ချက် အချက်အလက်
+Activity Stats,လုပ်ဆောင်ချက် စာရင်းအင်း
+Activity will appear here as you work on tasks and projects.,သင် လုပ်ငန်းများနှင့် ပရောဂျက်များ လုပ်ဆောင်သည်နှင့်အမျှ လုပ်ဆောင်ချက်များ ဤနေရာတွင် ပေါ်လာပါမည်။
+Actual,အမှန်တကယ်
+Actual Cost,အမှန်တကယ် ကုန်ကျစရိတ်
+Actual cost cannot be negative,အမှန်တကယ် ကုန်ကျစရိတ်သည် အနှုတ်ကိန်းမဖြစ်ရပါ
+Actual end date cannot be before actual start date,အမှန်တကယ် ပြီးဆုံးရက်သည် အမှန်တကယ် စတင်ရက်ထက် မစောရပါ
+Actual Hours,အမှန်တကယ် နာရီများ
+Add,ထည့်ရန်
+Add a checklist item...,စစ်ဆေးရန်စာရင်း အကြောင်းအရာ ထည့်ပါ...
+Add a comment...,မှတ်ချက်ထည့်ပါ...
+Add a comment... (Ctrl+Enter to send),မှတ်ချက်ထည့်ပါ... (ပို့ရန် Ctrl+Enter)
+Add a description...,ဖော်ပြချက်ထည့်ပါ...
+Add a milestone description...,မှတ်တိုင် ဖော်ပြချက်ထည့်ပါ...
+Add a note below to annotate this activity.,ဤလုပ်ဆောင်ချက်ကို မှတ်စုတင်ရန် အောက်တွင် မှတ်စုထည့်ပါ။
+Add a note...,မှတ်စုထည့်ပါ...
+Add a project description...,ပရောဂျက် ဖော်ပြချက်ထည့်ပါ...
+Add a task description...,လုပ်ငန်း ဖော်ပြချက်ထည့်ပါ...
+Add checklist item...,စစ်ဆေးရန်စာရင်း အကြောင်းအရာ ထည့်ပါ...
+Add Contact,ဆက်သွယ်ရန်သူ ထည့်ရန်
+Add contacts via the Desk interface or clear filters,Desk မျက်နှာပြင်မှ ဆက်သွယ်ရန်သူများ ထည့်ပါ သို့မဟုတ် စစ်ထုတ်မှုများ ရှင်းပါ
+Add Dependency,မှီခိုမှု ထည့်ရန်
+Add details about this event...,ဤပွဲအကြောင်း အသေးစိတ်ထည့်ပါ...
+Add details about this milestone...,ဤမှတ်တိုင်အကြောင်း အသေးစိတ်ထည့်ပါ...
+Add details about this task...,ဤလုပ်ငန်းအကြောင်း အသေးစိတ်ထည့်ပါ...
+Add details or acceptance criteria for this milestone,ဤမှတ်တိုင်အတွက် အသေးစိတ်များ သို့မဟုတ် လက်ခံစံနှုန်းများ ထည့်ပါ
+"Add details, context, or acceptance criteria",အသေးစိတ်များ၊ အကြောင်းအရာများ သို့မဟုတ် လက်ခံစံနှုန်းများ ထည့်ပါ
+Add first dependency,ပထမဆုံး မှီခိုမှု ထည့်ရန်
+Add item,အကြောင်းအရာ ထည့်ရန်
+Add items below to track progress.,တိုးတက်မှု ခြေရာခံရန် အောက်တွင် အကြောင်းအရာများ ထည့်ပါ။
+Add items below to track subtasks,လုပ်ငန်းခွဲများ ခြေရာခံရန် အောက်တွင် အကြောင်းအရာများ ထည့်ပါ
+Add Milestone,မှတ်တိုင် ထည့်ရန်
+Add Milestone (Shift+M),မှတ်တိုင် ထည့်ရန် (Shift+M)
+Add milestones to track key deliverables.,အဓိက ပေးအပ်ရမည့်အရာများ ခြေရာခံရန် မှတ်တိုင်များ ထည့်ပါ။
+Add New Contact,ဆက်သွယ်ရန်သူအသစ် ထည့်ရန်
+Add Note,မှတ်စု ထည့်ရန်
+Add note,မှတ်စု ထည့်ရန်
+Add notes about this contact...,ဤဆက်သွယ်ရန်သူအကြောင်း မှတ်စုများထည့်ပါ...
+Add reaction,တုံ့ပြန်မှု ထည့်ရန်
+Add Skill,ကျွမ်းကျင်မှု ထည့်ရန်
+Add start and due dates to tasks to see them on the Gantt chart,Gantt ဇယားတွင် ကြည့်ရှုရန် လုပ်ငန်းများတွင် စတင်ရက်နှင့် သတ်မှတ်ရက်များ ထည့်ပါ
+Add Task,လုပ်ငန်း ထည့်ရန်
+Add Task (Shift+T),လုပ်ငန်း ထည့်ရန် (Shift+T)
+Added Finish-to-Start dependency,ပြီးဆုံး-မှ-စတင် မှီခိုမှု ထည့်ပြီးပါပြီ
+Adding this dependency would create a circular reference: {0},ဤမှီခိုမှုကို ထည့်ခြင်းသည် ပတ်လည်ရည်ညွှန်းမှုကို ဖန်တီးပါလိမ့်မည်: {0}
+Adding...,ထည့်နေသည်...
+Address,လိပ်စာ
+Advanced,အဆင့်မြင့်
+All,အားလုံး
+All Active,လက်ရှိအသုံးပြုနေသော အားလုံး
+All Assignees,တာဝန်ခံအားလုံး
+All Categories,အမျိုးအစားအားလုံး
+All caught up!,အားလုံး ဖတ်ပြီးပါပြီ!
+All Contexts,အကြောင်းအရာအားလုံး
+All day,တစ်နေ့တာလုံး
+All day event,တစ်နေ့တာလုံး ပွဲ
+All fields,အကွက်အားလုံး
+All Priorities,ဦးစားပေးအားလုံး
+All Projects,ပရောဂျက်အားလုံး
+All Status,အခြေအနေအားလုံး
+All Statuses,အခြေအနေအားလုံး
+All task dependencies & relative dates,လုပ်ငန်း မှီခိုမှုအားလုံး နှင့် ဆက်စပ်ရက်များ
+All Tasks,လုပ်ငန်းအားလုံး
+All tasks across all projects.,ပရောဂျက်အားလုံးမှ လုပ်ငန်းအားလုံး။
+All tasks are already linked,လုပ်ငန်းအားလုံး ချိတ်ဆက်ပြီးသားဖြစ်သည်
+All team members,အဖွဲ့ဝင်အားလုံး
+All Types,အမျိုးအစားအားလုံး
+All Users,အသုံးပြုသူအားလုံး
+Allocated,ခွဲဝေပြီး
+allocated,ခွဲဝေပြီး
+Allow users to log time against tasks,အသုံးပြုသူများကို လုပ်ငန်းများအတွက် အချိန်မှတ်တမ်းတင်ခွင့်ပြုရန်
+Already exported to timesheet {0},အချိန်စာရင်း {0} သို့ တင်ပို့ပြီးသားဖြစ်သည်
+Already Migrated,ပြောင်းရွှေ့ပြီးသား
+Anyone with access,ဝင်ရောက်ခွင့်ရှိသူတိုင်း
+anytime to show this help,ဤအကူအညီကို ပြသရန် အချိန်မရွေး
+App Updates,App Updates
+Appearance,ပုံပန်းသဏ္ဌာန်
+Apply,အသုံးပြုရန်
+Apply cascade?,ဆင့်ကဲပြောင်းလဲမှု အသုံးပြုမလား?
+Apply Changes,ပြောင်းလဲမှုများ အသုံးပြုရန်
+Apply failed,အသုံးပြုမှု မအောင်မြင်ပါ
+Apply Template,ပုံစံခွက် အသုံးပြုရန်
+Applying...,အသုံးပြုနေသည်...
+Appointment,ချိန်းဆိုမှု
+Appointment and resource are required,ချိန်းဆိုမှုနှင့် အရင်းအမြစ် လိုအပ်ပါသည်
+Appointment name is required,ချိန်းဆိုမှုအမည် လိုအပ်ပါသည်
+Appointment not found,ချိန်းဆိုမှု မတွေ့ပါ
+Appointment {0} not found,ချိန်းဆိုမှု {0} မတွေ့ပါ
+Apps,အက်ပ်များ
+Archive,မှတ်တမ်းတင်ရန်
+Archive Activity,လုပ်ဆောင်ချက် မှတ်တမ်းတင်ရန်
+Archived,မှတ်တမ်းတင်ပြီး
+Are you sure you want to delete this activity data? This cannot be undone.,ဤလုပ်ဆောင်ချက်ဒေတာကို ဖျက်လိုသည်မှာ သေချာပါသလား? ဤအရာကို ပြန်လည်ပြုလုပ်၍မရပါ။
+Are you sure you want to delete this comment?,ဤမှတ်ချက်ကို ဖျက်လိုသည်မှာ သေချာပါသလား?
+Are you sure you want to delete this project?,ဤပရောဂျက်ကို ဖျက်လိုသည်မှာ သေချာပါသလား?
+Are you sure?,သေချာပါသလား?
+Ascending -- click to reverse,ငယ်စဉ်ကြီးလိုက် -- ပြောင်းပြန်လှန်ရန် နှိပ်ပါ
+Assign To,တာဝန်ပေးရန်
+Assign to Me,ကျွန်ုပ်ကို တာဝန်ပေးရန်
+Assigned Contact,တာဝန်ပေးထားသော ဆက်သွယ်ရန်သူ
+Assigned To,တာဝန်ပေးထားသူ
+Assigned to,တာဝန်ပေးထားသူ
+Assigned to Me,ကျွန်ုပ်ထံ တာဝန်ပေးထားသော
+Assignee,တာဝန်ခံ
+Assignment,တာဝန်ပေးအပ်မှု
+Assignment History,တာဝန်ပေးအပ်မှု မှတ်တမ်း
+Assignment name is required,တာဝန်ပေးအပ်မှုအမည် လိုအပ်ပါသည်
+Assignment {0} not found,တာဝန်ပေးအပ်မှု {0} မတွေ့ပါ
+Assignments,တာဝန်ပေးအပ်မှုများ
+At least one action is required,လုပ်ဆောင်ချက် အနည်းဆုံးတစ်ခု လိုအပ်ပါသည်
+At least one event is required,ပွဲ အနည်းဆုံးတစ်ခု လိုအပ်ပါသည်
+At least one event must be selected,ပွဲ အနည်းဆုံးတစ်ခု ရွေးချယ်ရပါမည်
+Attachment,ပူးတွဲဖိုင်
+Attachments,ပူးတွဲဖိုင်များ
+Attendees,တက်ရောက်သူများ
+"Audit trail, assignments, version history",စစ်ဆေးမှတ်တမ်း၊ တာဝန်ပေးအပ်မှုများ၊ ဗားရှင်းမှတ်တမ်း
+Auto,အလိုအလျောက်
+Auto Calculate Progress,တိုးတက်မှု အလိုအလျောက် တွက်ချက်ရန်
+Auto Set Missed Milestones,လွတ်သွားသော မှတ်တိုင်များ အလိုအလျောက် သတ်မှတ်ရန်
+Auto-shift dependents when dates change,ရက်များ ပြောင်းလဲသည့်အခါ မှီခိုသူများကို အလိုအလျောက် ရွှေ့ရန်
+Auto-Trail Start,အလိုအလျောက် လမ်းကြောင်း စတင်ခြင်း
+Auto-Trail updated,အလိုအလျောက် လမ်းကြောင်း အပ်ဒိတ်ပြီး
+Automatically calculate project progress from task completion,လုပ်ငန်းပြီးစီးမှုမှ ပရောဂျက်တိုးတက်မှုကို အလိုအလျောက် တွက်ချက်ရန်
+Automatically mark milestones as missed when overdue,သတ်မှတ်ရက်ကျော်သည့်အခါ မှတ်တိုင်များကို လွတ်သွားသည်ဟု အလိုအလျောက် မှတ်သားရန်
+Automation rule {0} not found,အလိုအလျောက်လုပ်ဆောင်မှုစည်းမျဉ်း {0} မတွေ့ပါ
+Automation: {0},အလိုအလျောက်လုပ်ဆောင်မှု: {0}
+Availability,ရရှိနိုင်မှု
+Available,ရရှိနိုင်
+Avatar updated successfully,ကိုယ်စားပြုပုံ အောင်မြင်စွာ အပ်ဒိတ်ပြီးပါပြီ
+Avg Progress,ပျမ်းမျှ တိုးတက်မှု
+Back,နောက်သို့
+Back to Portal,ပေါ်တယ်သို့ ပြန်ရန်
+Back to Projects,ပရောဂျက်များသို့ ပြန်ရန်
+Beginner,အစပြုသူ
+Best regards,လေးစားစွာဖြင့်
+Billable,ငွေတောင်းခံနိုင်သော
+Billable Amount,ငွေတောင်းခံနိုင်သော ပမာဏ
+Billable Hours,ငွေတောင်းခံနိုင်သော နာရီများ
+Billable Rate,ငွေတောင်းခံနိုင်သော နှုန်း
+Billing Rate,ငွေတောင်းခံနှုန်း
+Blocked,ပိတ်ဆို့ထားသော
+Both dates are needed to display task as a bar in Gantt chart,Gantt ဇယားတွင် လုပ်ငန်းကို ဘားအဖြစ် ပြသရန် ရက်နှစ်ခုလုံး လိုအပ်ပါသည်
+Both doctype and docname are required,DocType နှင့် docname နှစ်ခုလုံး လိုအပ်ပါသည်
+Both proposed start and end times are required,အဆိုပြုထားသော စတင်ချိန်နှင့် ပြီးဆုံးချိန် နှစ်ခုလုံး လိုအပ်ပါသည်
+Both task_name and depends_on are required,task_name နှင့် depends_on နှစ်ခုလုံး လိုအပ်ပါသည်
+Breadcrumb,လမ်းကြောင်းပြ
+Brief description of the defect or damage,ချို့ယွင်းမှု သို့မဟုတ် ပျက်စီးမှု၏ အကျဉ်းချုပ် ဖော်ပြချက်
+Brief description of this template,ဤပုံစံခွက်၏ အကျဉ်းချုပ် ဖော်ပြချက်
+Brief description of your request,သင့်တောင်းဆိုချက်၏ အကျဉ်းချုပ် ဖော်ပြချက်
+Brief project description,ပရောဂျက် အကျဉ်းချုပ် ဖော်ပြချက်
+Budget,ဘတ်ဂျက်
+Budget at risk,အန္တရာယ်ရှိသော ဘတ်ဂျက်
+Budget Burn Rate,ဘတ်ဂျက် သုံးစွဲနှုန်း
+Budget Status,ဘတ်ဂျက် အခြေအနေ
+Budget updated,ဘတ်ဂျက် အပ်ဒိတ်ပြီး
+Budget:,ဘတ်ဂျက်:
+Bug,ချို့ယွင်းချက်
+Burn Rate,သုံးစွဲနှုန်း
+Busy,အလုပ်များနေသော
+By,ဖြင့်
+By Assignee,တာဝန်ခံအလိုက်
+By Group,အုပ်စုအလိုက်
+By Milestone,မှတ်တိုင်အလိုက်
+By Priority,ဦးစားပေးအလိုက်
+By Status,အခြေအနေအလိုက်
+Cancel,ပယ်ဖျက်ရန်
+Cancelled,ပယ်ဖျက်ပြီး
+cannot be undone,ပြန်လည်ပြုလုပ်၍မရပါ
+Cannot delete client with {0} linked projects. Unlink projects first.,ချိတ်ဆက်ထားသော ပရောဂျက် {0} ခုရှိသော ဖောက်သည်ကို ဖျက်၍မရပါ။ ပရောဂျက်များကို အရင်ချိတ်ဆက်ဖြုတ်ပါ။
+Cannot delete project with {0} linked tasks. Delete tasks first.,ချိတ်ဆက်ထားသော လုပ်ငန်း {0} ခုရှိသော ပရောဂျက်ကို ဖျက်၍မရပါ။ လုပ်ငန်းများကို အရင်ဖျက်ပါ။
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,တာဝန်ပေးအပ်မှု {0} ခုရှိသော အရင်းအမြစ်ကို ဖျက်၍မရပါ။ အရင် ပြီးဆုံးပါ သို့မဟုတ် ပယ်ဖျက်ပါ။
+Cannot delete task with {0} subtasks. Delete subtasks first.,လုပ်ငန်းခွဲ {0} ခုရှိသော လုပ်ငန်းကို ဖျက်၍မရပါ။ လုပ်ငန်းခွဲများကို အရင်ဖျက်ပါ။
+Capacity,စွမ်းရည်
+capacity,စွမ်းရည်
+Capacity & Rates,စွမ်းရည် နှင့် နှုန်းထားများ
+Capture project structure for reuse,ပြန်လည်အသုံးပြုရန် ပရောဂျက်ဖွဲ့စည်းပုံကို သိမ်းဆည်းရန်
+Cascade,ဆင့်ကဲပြောင်းလဲမှု
+Cascade Preview,ဆင့်ကဲပြောင်းလဲမှု အကြိုကြည့်ရှုမှု
+Category,အမျိုးအစား
+Celebrate,ဂုဏ်ပြုရန်
+Change,ပြောင်းလဲရန်
+Change History,ပြောင်းလဲမှု မှတ်တမ်း
+Change Priority,ဦးစားပေး ပြောင်းလဲရန်
+Change Status,အခြေအနေ ပြောင်းလဲရန်
+Changes,ပြောင်းလဲမှုများ
+Changes appear when fields are modified.,အကွက်များ ပြင်ဆင်သည့်အခါ ပြောင်းလဲမှုများ ပေါ်လာပါမည်။
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,စစ်ဆေးရန်စာရင်း
+Checklist item name is required,စစ်ဆေးရန်စာရင်း အကြောင်းအရာအမည် လိုအပ်ပါသည်
+Checklist item not found,စစ်ဆေးရန်စာရင်း အကြောင်းအရာ မတွေ့ပါ
+Checklist item title is required,စစ်ဆေးရန်စာရင်း အကြောင်းအရာခေါင်းစဉ် လိုအပ်ပါသည်
+Checklist item {0} not found,စစ်ဆေးရန်စာရင်း အကြောင်းအရာ {0} မတွေ့ပါ
+Checklist item {0} not found in task,လုပ်ငန်းတွင် စစ်ဆေးရန်စာရင်း အကြောင်းအရာ {0} မတွေ့ပါ
+Child,ကလေး
+Choose file to upload,တင်ပို့ရန် ဖိုင်ရွေးချယ်ပါ
+Circular dependency detected: {0},ပတ်လည်မှီခိုမှု တွေ့ရှိသည်: {0}
+Circular parent-child relationship detected,ပတ်လည် မိဘ-သားသမီး ဆက်ဆံရေး တွေ့ရှိသည်
+Clear,ရှင်းလင်းရန်
+Clear all read,ဖတ်ပြီးသားအားလုံး ရှင်းလင်းရန်
+Clear date,ရက်စွဲ ရှင်းလင်းရန်
+Click on an activity from the list to view and manage its details.,အသေးစိတ်ကို ကြည့်ရှုပြီး စီမံခန့်ခွဲရန် စာရင်းမှ လုပ်ဆောင်ချက်တစ်ခုကို နှိပ်ပါ။
+Click the avatar to upload a new photo,ဓာတ်ပုံအသစ်တင်ရန် ကိုယ်စားပြုပုံကို နှိပ်ပါ
+Click to add description...,ဖော်ပြချက်ထည့်ရန် နှိပ်ပါ...
+Click to add notes...,မှတ်စုများထည့်ရန် နှိပ်ပါ...
+Click to assign contact,ဆက်သွယ်ရန်သူ တာဝန်ပေးရန် နှိပ်ပါ
+Click to change status,အခြေအနေပြောင်းရန် နှိပ်ပါ
+Click to change type,အမျိုးအစားပြောင်းရန် နှိပ်ပါ
+Click to edit,တည်းဖြတ်ရန် နှိပ်ပါ
+Click to edit budget,ဘတ်ဂျက်တည်းဖြတ်ရန် နှိပ်ပါ
+Click to edit description,ဖော်ပြချက်တည်းဖြတ်ရန် နှိပ်ပါ
+Click to edit end date,ပြီးဆုံးရက်တည်းဖြတ်ရန် နှိပ်ပါ
+Click to edit milestone name,မှတ်တိုင်အမည်တည်းဖြတ်ရန် နှိပ်ပါ
+Click to edit rate,နှုန်းတည်းဖြတ်ရန် နှိပ်ပါ
+Click to edit start date,စတင်ရက်တည်းဖြတ်ရန် နှိပ်ပါ
+Click to edit title,ခေါင်းစဉ်တည်းဖြတ်ရန် နှိပ်ပါ
+Click to load,ဖွင့်ရန် နှိပ်ပါ
+Click to set group dependency...,အုပ်စုမှီခိုမှု သတ်မှတ်ရန် နှိပ်ပါ...
+Click to set group...,အုပ်စု သတ်မှတ်ရန် နှိပ်ပါ...
+Click to view,ကြည့်ရှုရန် နှိပ်ပါ
+Click to view at-risk projects,အန္တရာယ်ရှိသော ပရောဂျက်များ ကြည့်ရှုရန် နှိပ်ပါ
+Click to view critical projects,အရေးကြီးသော ပရောဂျက်များ ကြည့်ရှုရန် နှိပ်ပါ
+Click to view healthy projects,ကျန်းမာသော ပရောဂျက်များ ကြည့်ရှုရန် နှိပ်ပါ
+Client,ဖောက်သည်
+Client already has a portal user: {0},ဖောက်သည်တွင် ပေါ်တယ်အသုံးပြုသူ ရှိပြီးသားဖြစ်သည်: {0}
+Client already has portal access,ဖောက်သည်တွင် ပေါ်တယ်ဝင်ရောက်ခွင့် ရှိပြီးသားဖြစ်သည်
+Client has no portal user to revoke,ဖောက်သည်တွင် ရုပ်သိမ်းရမည့် ပေါ်တယ်အသုံးပြုသူ မရှိပါ
+Client link removed from project {0},ပရောဂျက် {0} မှ ဖောက်သည်ချိတ်ဆက်မှု ဖယ်ရှားပြီး
+Client Portal,ဖောက်သည် ပေါ်တယ်
+Client {0} deleted successfully,ဖောက်သည် {0} အောင်မြင်စွာ ဖျက်ပြီးပါပြီ
+Close,ပိတ်ရန်
+Close (Esc),ပိတ်ရန် (Esc)
+Comment,မှတ်ချက်
+comment,မှတ်ချက်
+Comment added,မှတ်ချက် ထည့်ပြီး
+Comment content is required,မှတ်ချက်အကြောင်းအရာ လိုအပ်ပါသည်
+Comment name is required,မှတ်ချက်အမည် လိုအပ်ပါသည်
+Comment not found,မှတ်ချက် မတွေ့ပါ
+Comment removed,မှတ်ချက် ဖယ်ရှားပြီး
+Comment {0} not found in task,လုပ်ငန်းတွင် မှတ်ချက် {0} မတွေ့ပါ
+Comments,မှတ်ချက်များ
+comments,မှတ်ချက်များ
+Community Edition,Community Edition
+Company,ကုမ္ပဏီ
+Company name...,ကုမ္ပဏီအမည်...
+Complete,ပြီးဆုံးရန်
+Completed,ပြီးဆုံးပြီး
+completed,ပြီးဆုံးပြီး
+Completed Tasks,ပြီးဆုံးပြီးသော လုပ်ငန်းများ
+Compliance,လိုက်နာမှု
+Configure default values for new projects and tasks,ပရောဂျက်အသစ်များနှင့် လုပ်ငန်းအသစ်များအတွက် မူရင်းတန်ဖိုးများ ပြင်ဆင်ရန်
+Configure email notification settings,အီးမေးလ် အကြောင်းကြားချက် ဆက်တင်များ ပြင်ဆင်ရန်
+Confirm,အတည်ပြုရန်
+Contact deleted,ဆက်သွယ်ရန်သူ ဖျက်ပြီး
+Contact Details,ဆက်သွယ်ရန် အသေးစိတ်
+Contact Information,ဆက်သွယ်ရန် အချက်အလက်
+Contact name is required,ဆက်သွယ်ရန်သူအမည် လိုအပ်ပါသည်
+Contact Support,ပံ့ပိုးကူညီရေးကို ဆက်သွယ်ရန်
+Contact your project manager for more information.,အချက်အလက်ပိုမိုရယူရန် သင့်ပရောဂျက်မန်နေဂျာကို ဆက်သွယ်ပါ။
+Contact:,ဆက်သွယ်ရန်:
+Contacts,ဆက်သွယ်ရန်သူများ
+Context,အကြောင်းအရာ
+Contractor,ကန်ထရိုက်တာ
+Cost estimate cannot be negative,ကုန်ကျစရိတ်ခန့်မှန်းချက်သည် အနှုတ်ကိန်းမဖြစ်ရပါ
+Cost Impact,ကုန်ကျစရိတ် သက်ရောက်မှု
+Cost Summary,ကုန်ကျစရိတ် အကျဉ်းချုပ်
+Could not apply the template. Please try again.,ပုံစံခွက် အသုံးပြု၍မရပါ။ ထပ်မံကြိုးစားပါ။
+Could not attach file to project,ပရောဂျက်သို့ ဖိုင်ပူးတွဲ၍မရပါ
+Could not change task priority,လုပ်ငန်း ဦးစားပေး ပြောင်းလဲ၍မရပါ
+Could not change task status,လုပ်ငန်း အခြေအနေ ပြောင်းလဲ၍မရပါ
+Could not delete the project. Please try again.,ပရောဂျက် ဖျက်၍မရပါ။ ထပ်မံကြိုးစားပါ။
+Could not delete the task. Please try again.,လုပ်ငန်း ဖျက်၍မရပါ။ ထပ်မံကြိုးစားပါ။
+Could not delete the template.,ပုံစံခွက် ဖျက်၍မရပါ။
+Could not duplicate the task. Please try again.,လုပ်ငန်း ပွားယူ၍မရပါ။ ထပ်မံကြိုးစားပါ။
+Could not export the template.,ပုံစံခွက် တင်ပို့၍မရပါ။
+Could not import the template. Please check the file format.,ပုံစံခွက် တင်သွင်း၍မရပါ။ ဖိုင်ပုံစံကို စစ်ဆေးပါ။
+Could not link task to milestone,လုပ်ငန်းကို မှတ်တိုင်နှင့် ချိတ်ဆက်၍မရပါ
+Could not load document details.,စာရွက်စာတမ်း အသေးစိတ် ဖွင့်၍မရပါ။
+Could not load task details,လုပ်ငန်း အသေးစိတ် ဖွင့်၍မရပါ
+Could not promote checklist item to task.,စစ်ဆေးရန်စာရင်း အကြောင်းအရာကို လုပ်ငန်းအဖြစ် တိုးမြှင့်၍မရပါ။
+Could not remove task from milestone,မှတ်တိုင်မှ လုပ်ငန်း ဖယ်ရှား၍မရပါ
+Could not save budget.,ဘတ်ဂျက် သိမ်းဆည်း၍မရပါ။
+Could not save changes to the milestone,မှတ်တိုင်သို့ ပြောင်းလဲမှုများ သိမ်းဆည်း၍မရပါ
+Could not save changes to the task,လုပ်ငန်းသို့ ပြောင်းလဲမှုများ သိမ်းဆည်း၍မရပါ
+Could not save description.,ဖော်ပြချက် သိမ်းဆည်း၍မရပါ။
+Could not save end date.,ပြီးဆုံးရက် သိမ်းဆည်း၍မရပါ။
+Could not save milestone name.,မှတ်တိုင်အမည် သိမ်းဆည်း၍မရပါ။
+Could not save start date.,စတင်ရက် သိမ်းဆည်း၍မရပါ။
+Could not save the template. Please try again.,ပုံစံခွက် သိမ်းဆည်း၍မရပါ။ ထပ်မံကြိုးစားပါ။
+Could not save title.,ခေါင်းစဉ် သိမ်းဆည်း၍မရပါ။
+Could not update dependency mode.,မှီခိုမှုမုဒ် အပ်ဒိတ်လုပ်၍မရပါ။
+Could not update milestone date,မှတ်တိုင်ရက် အပ်ဒိတ်လုပ်၍မရပါ
+Could not update project status.,ပရောဂျက် အခြေအနေ အပ်ဒိတ်လုပ်၍မရပါ။
+Could not update project type.,ပရောဂျက် အမျိုးအစား အပ်ဒိတ်လုပ်၍မရပါ။
+Could not update setting.,ဆက်တင် အပ်ဒိတ်လုပ်၍မရပါ။
+Could not update task dates,လုပ်ငန်းရက်များ အပ်ဒိတ်လုပ်၍မရပါ
+Could not update task status,လုပ်ငန်း အခြေအနေ အပ်ဒိတ်လုပ်၍မရပါ
+Could not update the template.,ပုံစံခွက် အပ်ဒိတ်လုပ်၍မရပါ။
+Create a copy of this task,ဤလုပ်ငန်း၏ မိတ္တူတစ်ခု ဖန်တီးရန်
+Create Contact,ဆက်သွယ်ရန်သူ ဖန်တီးရန်
+Create Event,ပွဲ ဖန်တီးရန်
+Create Milestone,မှတ်တိုင် ဖန်တီးရန်
+Create New Milestone,မှတ်တိုင်အသစ် ဖန်တီးရန်
+Create New Task,လုပ်ငန်းအသစ် ဖန်တီးရန်
+Create Project,ပရောဂျက် ဖန်တီးရန်
+Create Task,လုပ်ငန်း ဖန်တီးရန်
+Create tasks and milestones from a template,ပုံစံခွက်မှ လုပ်ငန်းများနှင့် မှတ်တိုင်များ ဖန်တီးရန်
+Create your first project to get started.,စတင်ရန် သင့်ပထမဆုံးပရောဂျက်ကို ဖန်တီးပါ။
+Create your first task to start tracking work on this project.,ဤပရောဂျက်တွင် အလုပ်ခြေရာခံစတင်ရန် သင့်ပထမဆုံးလုပ်ငန်းကို ဖန်တီးပါ။
+Created,ဖန်တီးပြီး
+Creating...,ဖန်တီးနေသည်...
+Critical,အရေးကြီးသော
+Critical Path,အရေးပါလမ်းကြောင်း
+"Currency used for budgets, costs, and billing rates",ဘတ်ဂျက်များ၊ ကုန်ကျစရိတ်များနှင့် ငွေတောင်းခံနှုန်းများအတွက် သုံးသော ငွေကြေးအမျိုးအစား
+Current,လက်ရှိ
+Current Assignments,လက်ရှိ တာဝန်ပေးအပ်မှုများ
+Current scheduled time:,လက်ရှိ အချိန်ဇယား:
+Currently running version,Currently running version
+d lag,ရက် နှောင့်နှေးမှု
+Daily Availability,နေ့စဉ် ရရှိနိုင်မှု
+Daily Hours,နေ့စဉ် နာရီများ
+Danger Zone,အန္တရာယ်ဇုန်
+Dark,အမှောင်
+Dashboard,ဒက်ရှ်ဘုတ်
+Date,ရက်စွဲ
+Date changes on this task will show cascade impact here,ဤလုပ်ငန်းပေါ်ရှိ ရက်ပြောင်းလဲမှုများသည် ဆင့်ကဲသက်ရောက်မှုကို ဤနေရာတွင် ပြသပါမည်
+Date cleared,ရက်စွဲ ရှင်းလင်းပြီး
+Date of Joining,ဝင်ရောက်သည့်ရက်
+Date updated,ရက်စွဲ အပ်ဒိတ်ပြီး
+Dates,ရက်စွဲများ
+Dates cascaded,ရက်စွဲများ ဆင့်ကဲပြောင်းလဲပြီး
+Dates will be relative to the project's start date.,ရက်စွဲများသည် ပရောဂျက်၏ စတင်ရက်နှင့် ဆက်စပ်ပါမည်။
+Day,နေ့
+day,ရက်
+days,ရက်
+Days before due date to send reminder,သတိပေးချက်ပို့ရန် သတ်မှတ်ရက်မတိုင်မီ ရက်အရေအတွက်
+Days Overdue,သတ်မှတ်ရက်ကျော် ရက်အရေအတွက်
+Days Remaining,ကျန်ရက်များ
+Deadline,နောက်ဆုံးရက်
+Deadlines,နောက်ဆုံးရက်များ
+Decision,ဆုံးဖြတ်ချက်
+Decline,ငြင်းပယ်ရန်
+Declined,ငြင်းပယ်ပြီး
+Default Currency,မူရင်း ငွေကြေးအမျိုးအစား
+Default hours per week for contact capacity planning,ဆက်သွယ်ရန်သူ စွမ်းရည်စီမံကိန်းအတွက် တစ်ပတ်လျှင် မူရင်းနာရီ
+Default Priority,မူရင်း ဦးစားပေး
+Default Project Status,မူရင်း ပရောဂျက် အခြေအနေ
+Default Task Status,မူရင်း လုပ်ငန်း အခြေအနေ
+Default task view,မူရင်း လုပ်ငန်း မြင်ကွင်း
+Default Values,မူရင်းတန်ဖိုးများ
+Default Weekly Capacity,မူရင်း အပတ်စဉ် စွမ်းရည်
+Defaults,မူရင်းများ
+Defect Cost Impact,ချို့ယွင်းမှု ကုန်ကျစရိတ် သက်ရောက်မှု
+Defect name is required,ချို့ယွင်းမှုအမည် လိုအပ်ပါသည်
+Defect Type,ချို့ယွင်းမှု အမျိုးအစား
+Defect {0} not found,ချို့ယွင်းမှု {0} မတွေ့ပါ
+Defects,ချို့ယွင်းမှုများ
+Defects & Issues,ချို့ယွင်းမှုများ နှင့် ပြဿနာများ
+Defects Resolved,ဖြေရှင်းပြီးသော ချို့ယွင်းမှုများ
+Delayed,နှောင့်နှေးနေသော
+Delete,ဖျက်ရန်
+Delete Activity Data,လုပ်ဆောင်ချက်ဒေတာ ဖျက်ရန်
+Delete all read notifications?,ဖတ်ပြီးသော အကြောင်းကြားချက်အားလုံး ဖျက်မလား?
+Delete comment,မှတ်ချက် ဖျက်ရန်
+Delete Contact,ဆက်သွယ်ရန်သူ ဖျက်ရန်
+Delete Event,ပွဲ ဖျက်ရန်
+Delete Event?,ပွဲ ဖျက်မလား?
+Delete failed,ဖျက်မှု မအောင်မြင်ပါ
+Delete file,ဖိုင် ဖျက်ရန်
+Delete item,အကြောင်းအရာ ဖျက်ရန်
+Delete note,မှတ်စု ဖျက်ရန်
+Delete Project,ပရောဂျက် ဖျက်ရန်
+Delete Task,လုပ်ငန်း ဖျက်ရန်
+Delete this project,ဤပရောဂျက် ဖျက်ရန်
+Deleted,ဖျက်ပြီး
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","ပရောဂျက် ""{0}"" ဖျက်ပြီး (လုပ်ငန်း {1} ခု၊ မှတ်တိုင် {2} ခု)"
+Deletes notes and preferences. Source document is not affected.,မှတ်စုများနှင့် ရွေးချယ်မှုများကို ဖျက်သည်။ ရင်းမြစ်စာရွက်စာတမ်းကို မထိခိုက်ပါ။
+Deleting...,ဖျက်နေသည်...
+Department,ဌာန
+Dependencies,မှီခိုမှုများ
+dependencies,မှီခိုမှုများ
+Dependencies are informational only,မှီခိုမှုများသည် အချက်အလက်အဖြစ်သာ ဖြစ်သည်
+dependency,မှီခိုမှု
+Dependency already exists,မှီခိုမှု ရှိပြီးသားဖြစ်သည်
+Dependency Chain,မှီခိုမှု ကွင်းဆက်
+Dependency created,မှီခိုမှု ဖန်တီးပြီး
+Dependency mode updated,မှီခိုမှုမုဒ် အပ်ဒိတ်ပြီး
+Dependency name is required,မှီခိုမှုအမည် လိုအပ်ပါသည်
+Dependency task {0} not found,မှီခိုမှုလုပ်ငန်း {0} မတွေ့ပါ
+Dependency {0} not found,မှီခိုမှု {0} မတွေ့ပါ
+depends,မှီခို
+Depends on Group,အုပ်စုပေါ် မှီခို
+Depends on task is required,မှီခိုလုပ်ငန်း လိုအပ်ပါသည်
+depends on...,မှီခိုသည်...
+Descending -- click to reverse,ကြီးစဉ်ငယ်လိုက် -- ပြောင်းပြန်လှန်ရန် နှိပ်ပါ
+Describe the defect in detail...,ချို့ယွင်းမှုကို အသေးစိတ် ဖော်ပြပါ...
+Description,ဖော်ပြချက်
+Description updated,ဖော်ပြချက် အပ်ဒိတ်ပြီး
+Designation,ရာထူး
+"Detailed description of the defect, location, and impact",ချို့ယွင်းမှု၊ တည်နေရာနှင့် သက်ရောက်မှု၏ အသေးစိတ် ဖော်ပြချက်
+Details,အသေးစိတ်
+Discard timer,အချိန်တိုင်း ပယ်ဖျက်ရန်
+Discussion,ဆွေးနွေးမှု
+Dismiss,Dismiss
+Display,ပြသမှု
+Document,စာရွက်စာတမ်း
+Document attached to project,ပရောဂျက်သို့ ပူးတွဲထားသော စာရွက်စာတမ်း
+Document final decision and rationale,နောက်ဆုံး ဆုံးဖြတ်ချက်နှင့် အကြောင်းပြချက်ကို မှတ်တမ်းတင်ရန်
+Documentation Review,စာရွက်စာတမ်း သုံးသပ်ခြင်း
+Documents,စာရွက်စာတမ်းများ
+Done,ပြီးပြီ
+Download,ဒေါင်းလုဒ်
+Drag to create dependency,မှီခိုမှုဖန်တီးရန် ဆွဲယူပါ
+Dry Run,စမ်းသပ်လည်ပတ်မှု
+Dry Run Complete,စမ်းသပ်လည်ပတ်မှု ပြီးဆုံးပြီ
+Due Date,သတ်မှတ်ရက်
+Due date,သတ်မှတ်ရက်
+Due Date (Earliest),သတ်မှတ်ရက် (အစောဆုံး)
+Due date cannot be before start date,သတ်မှတ်ရက်သည် စတင်ရက်ထက် မစောရပါ
+Due date is in the past,သတ်မှတ်ရက်သည် ကျော်လွန်ပြီးဖြစ်သည်
+Due Date Reminders,သတ်မှတ်ရက် သတိပေးချက်များ
+Due Diligence,စေ့စပ်သေချာမှု စစ်ဆေးခြင်း
+Due Diligence Checklist,စေ့စပ်သေချာမှု စစ်ဆေးရန်စာရင်း
+Due This Week,ဤအပတ် သတ်မှတ်ရက်ရောက်မည့်
+Due:,သတ်မှတ်ရက်:
+Duplicate events are not allowed,ထပ်တူပွဲများ ခွင့်မပြုပါ
+Duplicate failed,ပွားယူမှု မအောင်မြင်ပါ
+Duplicate Task,လုပ်ငန်း ပွားယူရန်
+Duration,ကြာချိန်
+Duration Summary,ကြာချိန် အကျဉ်းချုပ်
+Duration:,ကြာချိန်:
+e.g. Cracked wall finish in bathroom...,ဥပမာ - ရေချိုးခန်းတွင် နံရံအပြီးအသတ် အက်ကွဲခြင်း...
+"e.g. Electrical, Plumbing...",ဥပမာ - လျှပ်စစ်၊ ပိုက်ဆက်...
+Edit,တည်းဖြတ်ရန်
+Edit (E),တည်းဖြတ်ရန် (E)
+Edit dependency,မှီခိုမှု တည်းဖြတ်ရန်
+Edit Event,ပွဲ တည်းဖြတ်ရန်
+Efficiency,ထိရောက်မှု
+Either dependency_name or depends_on is required,dependency_name သို့မဟုတ် depends_on တစ်ခုခု လိုအပ်ပါသည်
+Email,အီးမေးလ်
+Email invitations to all attendees,တက်ရောက်သူအားလုံးထံ အီးမေးလ် ဖိတ်ကြားစာ ပို့ရန်
+Email is required to create portal user,ပေါ်တယ်အသုံးပြုသူ ဖန်တီးရန် အီးမေးလ် လိုအပ်ပါသည်
+Email notifications,အီးမေးလ် အကြောင်းကြားချက်များ
+Employee,ဝန်ထမ်း
+Employee DocType not available,ဝန်ထမ်း DocType မရရှိနိုင်ပါ
+Employee not found,ဝန်ထမ်း မတွေ့ပါ
+Enable or disable optional features,ရွေးချယ်ခွင့်ရှိသော အင်္ဂါရပ်များ ဖွင့်ရန် သို့မဟုတ် ပိတ်ရန်
+Enable Time Tracking,အချိန်ခြေရာခံမှု ဖွင့်ရန်
+End,ပြီးဆုံး
+End Date,ပြီးဆုံးရက်
+End date,ပြီးဆုံးရက်
+End Date cannot be before Start Date,ပြီးဆုံးရက်သည် စတင်ရက်ထက် မစောရပါ
+End date cannot be before start date,ပြီးဆုံးရက်သည် စတင်ရက်ထက် မစောရပါ
+End date updated,ပြီးဆုံးရက် အပ်ဒိတ်ပြီး
+End time was before start time. Adjusted to 1 hour after start.,ပြီးဆုံးချိန်သည် စတင်ချိန်ထက် စောနေပါသည်။ စတင်ချိန်ပြီးနောက် ၁ နာရီသို့ ညှိပြီးပါပြီ။
+End:,ပြီးဆုံး:
+Enter milestone name...,မှတ်တိုင်အမည် ရိုက်ထည့်ပါ...
+Enter project name,ပရောဂျက်အမည် ရိုက်ထည့်ပါ
+Enter task title...,လုပ်ငန်းခေါင်းစဉ် ရိုက်ထည့်ပါ...
+Enter template name,ပုံစံခွက်အမည် ရိုက်ထည့်ပါ
+Enter your note... Use @name to mention someone,သင့်မှတ်စုကို ရိုက်ထည့်ပါ... တစ်စုံတစ်ဦးကို ရည်ညွှန်းရန် @name သုံးပါ
+Error,အမှား
+Error loading activity,လုပ်ဆောင်ချက် ဖွင့်ရာတွင် အမှားဖြစ်ပြီ
+Error loading contacts,ဆက်သွယ်ရန်သူများ ဖွင့်ရာတွင် အမှားဖြစ်ပြီ
+Error loading dashboard,ဒက်ရှ်ဘုတ် ဖွင့်ရာတွင် အမှားဖြစ်ပြီ
+Error loading project,ပရောဂျက် ဖွင့်ရာတွင် အမှားဖြစ်ပြီ
+Error loading projects,ပရောဂျက်များ ဖွင့်ရာတွင် အမှားဖြစ်ပြီ
+Error loading settings,ဆက်တင်များ ဖွင့်ရာတွင် အမှားဖြစ်ပြီ
+Error loading tasks,လုပ်ငန်းများ ဖွင့်ရာတွင် အမှားဖြစ်ပြီ
+Error loading templates,ပုံစံခွက်များ ဖွင့်ရာတွင် အမှားဖြစ်ပြီ
+Est. Hours,ခန့်မှန်း နာရီ
+Estimated,ခန့်မှန်း
+Estimated Cost,ခန့်မှန်း ကုန်ကျစရိတ်
+Estimated Cost (€),ခန့်မှန်း ကုန်ကျစရိတ် (€)
+Estimated Hours,ခန့်မှန်း နာရီများ
+Estimated:,ခန့်မှန်း:
+Evaluate potential risks and concerns,ဖြစ်နိုင်ခြေရှိသော အန္တရာယ်များနှင့် စိုးရိမ်မှုများကို အကဲဖြတ်ရန်
+Event,ပွဲ
+Event is required for event context,ပွဲအကြောင်းအရာအတွက် ပွဲ လိုအပ်ပါသည်
+Event is required when tracking context is 'event',ခြေရာခံအကြောင်းအရာသည် 'ပွဲ' ဖြစ်သည့်အခါ ပွဲ လိုအပ်ပါသည်
+Event Type,ပွဲ အမျိုးအစား
+Events,ပွဲများ
+Events not available. Please run: bench --site orga.localhost migrate,ပွဲများ မရရှိနိုင်ပါ။ ကျေးဇူးပြု၍ bench --site orga.localhost migrate ကို လည်ပတ်ပါ
+Events:,ပွဲများ:
+Expert,ကျွမ်းကျင်သူ
+Explain why you are proposing a different time...,အချိန်အခြားတစ်ခု အဆိုပြုသည့် အကြောင်းရင်းကို ရှင်းပြပါ...
+Export,တင်ပို့ရန်
+Export failed,တင်ပို့မှု မအောင်မြင်ပါ
+Export JSON,JSON တင်ပို့ရန်
+Exported,တင်ပို့ပြီး
+Exported to timesheet {0},အချိန်စာရင်း {0} သို့ တင်ပို့ပြီး
+External,ပြင်ပ
+Failed to add item,အကြောင်းအရာ ထည့်မှု မအောင်မြင်ပါ
+Failed to add note,မှတ်စု ထည့်မှု မအောင်မြင်ပါ
+Failed to add skill,ကျွမ်းကျင်မှု ထည့်မှု မအောင်မြင်ပါ
+Failed to apply cascade changes: {0},ဆင့်ကဲပြောင်းလဲမှုများ အသုံးပြုမှု မအောင်မြင်ပါ: {0}
+Failed to create defect,ချို့ယွင်းမှု ဖန်တီးမှု မအောင်မြင်ပါ
+Failed to create dependency,မှီခိုမှု ဖန်တီးမှု မအောင်မြင်ပါ
+Failed to create event,ပွဲ ဖန်တီးမှု မအောင်မြင်ပါ
+Failed to create milestone,မှတ်တိုင် ဖန်တီးမှု မအောင်မြင်ပါ
+Failed to create project,ပရောဂျက် ဖန်တီးမှု မအောင်မြင်ပါ
+Failed to create task,လုပ်ငန်း ဖန်တီးမှု မအောင်မြင်ပါ
+Failed to create time log,အချိန်မှတ်တမ်း ဖန်တီးမှု မအောင်မြင်ပါ
+Failed to delete,ဖျက်မှု မအောင်မြင်ပါ
+Failed to delete comment,မှတ်ချက် ဖျက်မှု မအောင်မြင်ပါ
+Failed to delete contact,ဆက်သွယ်ရန်သူ ဖျက်မှု မအောင်မြင်ပါ
+Failed to load,ဖွင့်မှု မအောင်မြင်ပါ
+Failed to load activity,လုပ်ဆောင်ချက် ဖွင့်မှု မအောင်မြင်ပါ
+Failed to load assignments,တာဝန်ပေးအပ်မှုများ ဖွင့်မှု မအောင်မြင်ပါ
+Failed to load contact,ဆက်သွယ်ရန်သူ ဖွင့်မှု မအောင်မြင်ပါ
+Failed to load dashboard data,ဒက်ရှ်ဘုတ်ဒေတာ ဖွင့်မှု မအောင်မြင်ပါ
+Failed to load defects,ချို့ယွင်းမှုများ ဖွင့်မှု မအောင်မြင်ပါ
+Failed to load events,ပွဲများ ဖွင့်မှု မအောင်မြင်ပါ
+Failed to load project,ပရောဂျက် ဖွင့်မှု မအောင်မြင်ပါ
+Failed to load projects,ပရောဂျက်များ ဖွင့်မှု မအောင်မြင်ပါ
+Failed to load report data,အစီရင်ခံစာဒေတာ ဖွင့်မှု မအောင်မြင်ပါ
+Failed to load settings,ဆက်တင်များ ဖွင့်မှု မအောင်မြင်ပါ
+Failed to load tasks,လုပ်ငန်းများ ဖွင့်မှု မအောင်မြင်ပါ
+Failed to move task,လုပ်ငန်း ရွှေ့မှု မအောင်မြင်ပါ
+Failed to post comment,မှတ်ချက် တင်မှု မအောင်မြင်ပါ
+Failed to propose new time,အချိန်အသစ် အဆိုပြုမှု မအောင်မြင်ပါ
+Failed to remove item,အကြောင်းအရာ ဖယ်ရှားမှု မအောင်မြင်ပါ
+Failed to remove skill,ကျွမ်းကျင်မှု ဖယ်ရှားမှု မအောင်မြင်ပါ
+Failed to reorder milestones: {0},မှတ်တိုင်များ ပြန်စီမှု မအောင်မြင်ပါ: {0}
+Failed to reorder tasks: {0},လုပ်ငန်းများ ပြန်စီမှု မအောင်မြင်ပါ: {0}
+Failed to reschedule dependent tasks: {0},မှီခိုလုပ်ငန်းများ ပြန်စီစဉ်မှု မအောင်မြင်ပါ: {0}
+Failed to save,သိမ်းဆည်းမှု မအောင်မြင်ပါ
+Failed to save preferences,ရွေးချယ်မှုများ သိမ်းဆည်းမှု မအောင်မြင်ပါ
+Failed to save settings,ဆက်တင်များ သိမ်းဆည်းမှု မအောင်မြင်ပါ
+Failed to submit request. Please try again.,တောင်းဆိုချက် တင်သွင်းမှု မအောင်မြင်ပါ။ ထပ်မံကြိုးစားပါ။
+Failed to update item,အကြောင်းအရာ အပ်ဒိတ်မှု မအောင်မြင်ပါ
+Failed to update priority,ဦးစားပေး အပ်ဒိတ်မှု မအောင်မြင်ပါ
+Failed to update task,လုပ်ငန်း အပ်ဒိတ်မှု မအောင်မြင်ပါ
+Failed to update tasks: {0},လုပ်ငန်းများ အပ်ဒိတ်မှု မအောင်မြင်ပါ: {0}
+Failed to upload avatar,ကိုယ်စားပြုပုံ တင်ပို့မှု မအောင်မြင်ပါ
+Feature,အင်္ဂါရပ်
+Features,အင်္ဂါရပ်များ
+FF (Finish-Finish),FF (ပြီးဆုံး-ပြီးဆုံး)
+FF - Finish-to-Finish,FF - ပြီးဆုံး-မှ-ပြီးဆုံး
+Field has been updated,အကွက် အပ်ဒိတ်ပြီး
+Field name is required for 'Set Field Value' action,'အကွက်တန်ဖိုးသတ်မှတ်' လုပ်ဆောင်ချက်အတွက် အကွက်အမည် လိုအပ်ပါသည်
+Field {0} is not a Link field,အကွက် {0} သည် Link အကွက်မဟုတ်ပါ
+Field {0} not found in {1},အကွက် {0} ကို {1} တွင် မတွေ့ပါ
+file,ဖိုင်
+File,ဖိုင်
+File does not belong to this task,ဖိုင်သည် ဤလုပ်ငန်းနှင့် မသက်ဆိုင်ပါ
+File name is required,ဖိုင်အမည် လိုအပ်ပါသည်
+File uploaded,ဖိုင် တင်ပို့ပြီး
+File {0} not found,ဖိုင် {0} မတွေ့ပါ
+files,ဖိုင်များ
+Files,ဖိုင်များ
+Filter,စစ်ထုတ်ရန်
+Final Decision,နောက်ဆုံး ဆုံးဖြတ်ချက်
+Finance,ဘဏ္ဍာရေး
+Financial,ဘဏ္ဍာရေးဆိုင်ရာ
+Finish-to-Finish,ပြီးဆုံး-မှ-ပြီးဆုံး
+Finish-to-Start,ပြီးဆုံး-မှ-စတင်
+Flag,အလံ
+Flag for attention,အာရုံစိုက်ရန် အလံထူ
+Flagged,အလံထူပြီး
+Focus Panel,အာရုံစိုက် ပန်နယ်
+Follows your system preference. Currently:,သင့်စနစ် ရွေးချယ်မှုကို လိုက်နာသည်။ လက်ရှိ:
+Frappe Project {0} not found,Frappe ပရောဂျက် {0} မတွေ့ပါ
+Frappe Projects Migration,Frappe ပရောဂျက်များ ပြောင်းရွှေ့ခြင်း
+Frappe Projects module not available,Frappe ပရောဂျက်များ မော်ဂျူး မရရှိနိုင်ပါ
+Frappe Projects module not installed,Frappe ပရောဂျက်များ မော်ဂျူး ထည့်သွင်းမထားပါ
+Frappe Projects sync is not enabled,Frappe ပရောဂျက်များ တစ်ပြိုင်နက်ချိန်ညှိမှု ဖွင့်မထားပါ
+Frappe Task DocType not found,Frappe လုပ်ငန်း DocType မတွေ့ပါ
+Frappe Task has no project,Frappe လုပ်ငန်းတွင် ပရောဂျက်မရှိပါ
+Frappe Task {0} not found,Frappe လုပ်ငန်း {0} မတွေ့ပါ
+Fri,သောကြာ
+From,မှ
+From Template,ပုံစံခွက်မှ
+FS (Finish-Start),FS (ပြီးဆုံး-စတင်)
+FS - Finish-to-Start (default),FS - ပြီးဆုံး-မှ-စတင် (မူရင်း)
+Full form view with audit trail,စစ်ဆေးမှတ်တမ်းပါ ပုံစံအပြည့် မြင်ကွင်း
+Full name,အမည်အပြည့်အစုံ
+Gantt,Gantt
+Gantt Chart,Gantt ဇယား
+Gantt View,Gantt မြင်ကွင်း
+General Note,အထွေထွေ မှတ်စု
+Get started,စတင်ရန်
+Go back,နောက်ပြန်သွားရန်
+Go Back,Go Back
+Group by,အုပ်စုခွဲရန်
+Group dependency removed,အုပ်စုမှီခိုမှု ဖယ်ရှားပြီး
+Group dependency set,အုပ်စုမှီခိုမှု သတ်မှတ်ပြီး
+Group removed,အုပ်စု ဖယ်ရှားပြီး
+Group updated,အုပ်စု အပ်ဒိတ်ပြီး
+Hammock task dates are auto-calculated and cannot be changed manually,Hammock လုပ်ငန်းရက်များကို အလိုအလျောက် တွက်ချက်ပြီး ကိုယ်တိုင် ပြောင်းလဲ၍မရပါ
+Have a question or need assistance? Fill out the form below and our team will get back to you.,မေးခွန်းရှိပါသလား သို့မဟုတ် အကူအညီလိုအပ်ပါသလား? အောက်ပါဖောင်ကို ဖြည့်ပါ၊ ကျွန်ုပ်တို့အဖွဲ့မှ ပြန်လည်ဆက်သွယ်ပါမည်။
+Health,ကျန်းမာရေး
+Healthy,ကျန်းမာသော
+Hello {0},မင်္ဂလာပါ {0}
+Here's what's happening with your projects today.,ယနေ့ သင့်ပရောဂျက်များတွင် ဖြစ်ပျက်နေသည့်အရာများ ဤတွင်ဖြစ်ပါသည်။
+Hide,ဝှက်ရန်
+High,မြင့်
+History,မှတ်တမ်း
+Home,ပင်မ
+Hourly Cost,နာရီစဉ် ကုန်ကျစရိတ်
+Hours,နာရီ
+hours,နာရီ
+Hours Logged,မှတ်တမ်းတင်ထားသော နာရီ
+ID,ID
+Image must be smaller than 5 MB,ပုံသည် 5 MB ထက် ငယ်ရပါမည်
+Import,တင်သွင်းရန်
+Import existing projects and tasks from Frappe Projects module,Frappe ပရောဂျက်များ မော်ဂျူးမှ ရှိပြီးသား ပရောဂျက်များနှင့် လုပ်ငန်းများ တင်သွင်းရန်
+Import failed,တင်သွင်းမှု မအောင်မြင်ပါ
+Import Template,ပုံစံခွက် တင်သွင်းရန်
+Imported,တင်သွင်းပြီး
+in,တွင်
+In Progress,ဆောင်ရွက်ဆဲ
+In Review,သုံးသပ်ဆဲ
+In-app notifications,အက်ပ်အတွင်း အကြောင်းကြားချက်များ
+Inactive,မလှုပ်ရှားသော
+Initial Review,ကနဦး သုံးသပ်ခြင်း
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,လုပ်ငန်းအားလုံး ကြည့်ရှုရန် ခွင့်ပြုချက် မလုံလောက်ပါ
+Intermediate,အလယ်အလတ်
+Internal,အတွင်းပိုင်း
+Invalid DocType,မမှန်ကန်သော DocType
+Invalid DocType for import,တင်သွင်းရန် မမှန်ကန်သော DocType
+Invalid item type: {0},မမှန်ကန်သော အကြောင်းအရာ အမျိုးအစား: {0}
+Invalid JSON data,မမှန်ကန်သော JSON ဒေတာ
+Invalid note type. Must be one of: {0},မမှန်ကန်သော မှတ်စု အမျိုးအစား။ {0} ထဲမှ တစ်ခု ဖြစ်ရပါမည်
+Invalid project reference,မမှန်ကန်သော ပရောဂျက် ရည်ညွှန်းချက်
+Invalid reaction type. Must be one of: {0},မမှန်ကန်သော တုံ့ပြန်မှု အမျိုးအစား။ {0} ထဲမှ တစ်ခု ဖြစ်ရပါမည်
+Invalid RSVP status,မမှန်ကန်သော RSVP အခြေအနေ
+Invalid status. Must be one of: {0},မမှန်ကန်သော အခြေအနေ။ {0} ထဲမှ တစ်ခု ဖြစ်ရပါမည်
+Invalid status: {0},မမှန်ကန်သော အခြေအနေ: {0}
+Invalid status: {0}. Must be one of: {1},မမှန်ကန်သော အခြေအနေ: {0}။ {1} ထဲမှ တစ်ခု ဖြစ်ရပါမည်
+Invalid tracking context: {0},မမှန်ကန်သော ခြေရာခံ အကြောင်းအရာ: {0}
+Invalid visibility. Must be one of: {0},မမှန်ကန်သော မြင်နိုင်မှု။ {0} ထဲမှ တစ်ခု ဖြစ်ရပါမည်
+Invitation: {0} - {1} at {2},ဖိတ်ကြားစာ: {0} - {1} တွင် {2}
+Invite People,လူများ ဖိတ်ကြားရန်
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,အကြောင်းအရာ ထည့်ပြီး
+Item ID is required,အကြောင်းအရာ ID လိုအပ်ပါသည်
+Item removed,အကြောင်းအရာ ဖယ်ရှားပြီး
+Item type is required,အကြောင်းအရာ အမျိုးအစား လိုအပ်ပါသည်
+Item {0} not found,အကြောင်းအရာ {0} မတွေ့ပါ
+Job title or role,ရာထူး သို့မဟုတ် အခန်းကဏ္ဍ
+Join Meeting,အစည်းအဝေး ဝင်ရောက်ရန်
+Just now,ယခုလေးတင်
+just now,ယခုလေးတင်
+Kanban,ကန်ဘန်
+Kanban Board,ကန်ဘန် ဘုတ်
+Kanban View,ကန်ဘန် မြင်ကွင်း
+Keyboard Shortcuts,ကီးဘုတ် အတိုကောက်များ
+Keyboard shortcuts (?),ကီးဘုတ် အတိုကောက်များ (?)
+Last checked: {0},Last checked: {0}
+Last Updated,နောက်ဆုံး အပ်ဒိတ်
+Last updated:,နောက်ဆုံး အပ်ဒိတ်:
+Last Week,ပြီးခဲ့သောအပတ်
+Latest Version,Latest Version
+Light,အလင်း
+Link failed,ချိတ်ဆက်မှု မအောင်မြင်ပါ
+Link Task,လုပ်ငန်း ချိတ်ဆက်ရန်
+Linked,ချိတ်ဆက်ပြီး
+Linked employee not found,ချိတ်ဆက်ထားသော ဝန်ထမ်း မတွေ့ပါ
+Linked Tasks,ချိတ်ဆက်ထားသော လုပ်ငန်းများ
+List,စာရင်း
+List View,စာရင်း မြင်ကွင်း
+Load failed,ဖွင့်မှု မအောင်မြင်ပါ
+Load More,ပိုမိုဖွင့်ရန်
+Load more comments,မှတ်ချက်များ ပိုမိုဖွင့်ရန်
+Loading activity...,လုပ်ဆောင်ချက် ဖွင့်နေသည်...
+Loading changes...,ပြောင်းလဲမှုများ ဖွင့်နေသည်...
+Loading checklist...,စစ်ဆေးရန်စာရင်း ဖွင့်နေသည်...
+Loading comments...,မှတ်ချက်များ ဖွင့်နေသည်...
+Loading contact...,ဆက်သွယ်ရန်သူ ဖွင့်နေသည်...
+Loading contacts...,ဆက်သွယ်ရန်သူများ ဖွင့်နေသည်...
+Loading dependencies...,မှီခိုမှုများ ဖွင့်နေသည်...
+Loading details...,အသေးစိတ် ဖွင့်နေသည်...
+Loading discussion...,ဆွေးနွေးမှု ဖွင့်နေသည်...
+Loading events...,ပွဲများ ဖွင့်နေသည်...
+Loading files...,ဖိုင်များ ဖွင့်နေသည်...
+Loading notes...,မှတ်စုများ ဖွင့်နေသည်...
+Loading preferences...,ရွေးချယ်မှုများ ဖွင့်နေသည်...
+Loading project...,ပရောဂျက် ဖွင့်နေသည်...
+Loading projects...,ပရောဂျက်များ ဖွင့်နေသည်...
+Loading replies...,ပြန်ကြားချက်များ ဖွင့်နေသည်...
+Loading report data...,အစီရင်ခံစာဒေတာ ဖွင့်နေသည်...
+Loading settings...,ဆက်တင်များ ဖွင့်နေသည်...
+Loading task...,လုပ်ငန်း ဖွင့်နေသည်...
+Loading templates...,ပုံစံခွက်များ ဖွင့်နေသည်...
+Loading time logs...,အချိန်မှတ်တမ်းများ ဖွင့်နေသည်...
+Loading your portal...,သင့်ပေါ်တယ် ဖွင့်နေသည်...
+Loading...,ဖွင့်နေသည်...
+Location,တည်နေရာ
+Log Time,အချိန် မှတ်တမ်းတင်ရန်
+Logout,ထွက်ရန်
+Low,နိမ့်
+Make Offer,ကမ်းလှမ်းမှုပြုရန်
+Manager,မန်နေဂျာ
+Manual Entry,ကိုယ်တိုင် ထည့်သွင်းမှု
+Margin,အမြတ်အငွေ
+Mark all as read,အားလုံး ဖတ်ပြီးအဖြစ် မှတ်ရန်
+Mark all read,အားလုံး ဖတ်ပြီးအဖြစ် မှတ်ရန်
+Mark as read,ဖတ်ပြီးအဖြစ် မှတ်ရန်
+Mark as unread,မဖတ်ရသေးအဖြစ် မှတ်ရန်
+Mark read,ဖတ်ပြီးအဖြစ် မှတ်ရန်
+Marking...,မှတ်နေသည်...
+Material,ပစ္စည်း
+Maybe,ဖြစ်နိုင်သည်
+Medium,အလယ်အလတ်
+Meeting,အစည်းအဝေး
+Meeting Link,အစည်းအဝေး လင့်ခ်
+Meeting title,အစည်းအဝေး ခေါင်းစဉ်
+Meeting URL,အစည်းအဝေး URL
+Meetings,အစည်းအဝေးများ
+Mention,ရည်ညွှန်းခြင်း
+Message,မက်ဆေ့ခ်ျ
+Message is required,မက်ဆေ့ခ်ျ လိုအပ်ပါသည်
+Message is required for '{0}' action,'{0}' လုပ်ဆောင်ချက်အတွက် မက်ဆေ့ခ်ျ လိုအပ်ပါသည်
+Migrate,ပြောင်းရွှေ့ရန်
+Migration Complete,ပြောင်းရွှေ့မှု ပြီးဆုံးပြီ
+Migration ID:,ပြောင်းရွှေ့မှု ID:
+Migration log not found: {0},ပြောင်းရွှေ့မှု မှတ်တမ်း မတွေ့ပါ: {0}
+milestone,မှတ်တိုင်
+Milestone,မှတ်တိုင်
+Milestone created,မှတ်တိုင် ဖန်တီးပြီး
+Milestone description has been saved.,မှတ်တိုင် ဖော်ပြချက် သိမ်းဆည်းပြီးပါပြီ။
+Milestone ID is required,မှတ်တိုင် ID လိုအပ်ပါသည်
+Milestone marked as Missed (past due date),မှတ်တိုင်ကို လွတ်သွားသည်ဟု မှတ်သားပြီး (သတ်မှတ်ရက်ကျော်)
+Milestone moved,မှတ်တိုင် ရွှေ့ပြီး
+Milestone Name,မှတ်တိုင် အမည်
+Milestone name has been saved.,မှတ်တိုင်အမည် သိမ်းဆည်းပြီးပါပြီ။
+Milestone name is required,မှတ်တိုင်အမည် လိုအပ်ပါသည်
+Milestone updated,မှတ်တိုင် အပ်ဒိတ်ပြီး
+Milestone {0} not found,မှတ်တိုင် {0} မတွေ့ပါ
+Milestone {0} not in project {1},မှတ်တိုင် {0} သည် ပရောဂျက် {1} တွင် မရှိပါ
+milestones,မှတ်တိုင်များ
+Milestones,မှတ်တိုင်များ
+Milestones:,မှတ်တိုင်များ:
+Minutes,မိနစ်
+Missed,လွတ်သွားသော
+Mixed,ရောနှောသော
+Mobile,မိုဘိုင်း
+Moderate,အတန်အသင့်
+Modified,ပြင်ဆင်ပြီး
+"Modify details, time, or attendees",အသေးစိတ်များ၊ အချိန် သို့မဟုတ် တက်ရောက်သူများ ပြင်ဆင်ရန်
+Mon,တနင်္လာ
+Month,လ
+Move failed,ရွှေ့မှု မအောင်မြင်ပါ
+Must be a positive number,အပေါင်းကိန်း ဖြစ်ရပါမည်
+Must finish before this finishes,ဤအရာ မပြီးဆုံးမီ ပြီးဆုံးရပါမည်
+Must finish before this starts,ဤအရာ မစတင်မီ ပြီးဆုံးရပါမည်
+Must start before this finishes,ဤအရာ မပြီးဆုံးမီ စတင်ရပါမည်
+Must start before this starts,ဤအရာ မစတင်မီ စတင်ရပါမည်
+My Assignments,ကျွန်ုပ်၏ တာဝန်ပေးအပ်မှုများ
+My Projects,ကျွန်ုပ်၏ ပရောဂျက်များ
+My Schedule,ကျွန်ုပ်၏ အချိန်ဇယား
+My Tasks,ကျွန်ုပ်၏ လုပ်ငန်းများ
+N/A,သက်ဆိုင်ခြင်းမရှိ
+Name,အမည်
+Name (A-Z),အမည် (A-Z)
+Name (Z-A),အမည် (Z-A)
+Name cannot exceed 255 characters,အမည်သည် စာလုံး ၂၅၅ လုံးထက် မကျော်ရပါ
+Need help?,အကူအညီ လိုအပ်ပါသလား?
+Needs Attention,အာရုံစိုက်ရန် လိုအပ်သော
+Never,Never
+new activities,လုပ်ဆောင်ချက်အသစ်များ
+New Activity,လုပ်ဆောင်ချက်အသစ်
+New activity,လုပ်ဆောင်ချက်အသစ်
+New Event,ပွဲအသစ်
+New index is required,အညွှန်းအသစ် လိုအပ်ပါသည်
+New Project,ပရောဂျက်အသစ်
+New tasks will auto-trail by default.,လုပ်ငန်းအသစ်များသည် မူရင်းအားဖြင့် အလိုအလျောက် လမ်းကြောင်းခံပါမည်။
+Newest First,အသစ်ဆုံးအရင်
+Next,နောက်
+Next 14 days,နောက် ၁၄ ရက်
+Next 30 days,နောက် ၃၀ ရက်
+Next 60 days,နောက် ၆၀ ရက်
+Next 7 days,နောက် ၇ ရက်
+Next 90 days,နောက် ၉၀ ရက်
+Next Week,လာမည့်အပတ်
+Next:,နောက်:
+No,မဟုတ်ပါ
+No active assignments,လက်ရှိ တာဝန်ပေးအပ်မှု မရှိပါ
+No active projects,လက်ရှိ ပရောဂျက် မရှိပါ
+No active timer found,လက်ရှိ အချိန်တိုင်း မတွေ့ပါ
+No activity selected,လုပ်ဆောင်ချက် ရွေးချယ်မထားပါ
+No assignments found,တာဝန်ပေးအပ်မှု မတွေ့ပါ
+No attendees,တက်ရောက်သူ မရှိပါ
+no change,ပြောင်းလဲမှု မရှိ
+No changes for this field.,ဤအကွက်အတွက် ပြောင်းလဲမှု မရှိပါ။
+No changes recorded for this activity.,ဤလုပ်ဆောင်ချက်အတွက် ပြောင်းလဲမှု မှတ်တမ်းမရှိပါ။
+No checklist items yet,စစ်ဆေးရန်စာရင်း အကြောင်းအရာ မရှိသေးပါ
+No checklist items yet.,စစ်ဆေးရန်စာရင်း အကြောင်းအရာ မရှိသေးပါ။
+No comments yet,မှတ်ချက် မရှိသေးပါ
+No comments yet.,မှတ်ချက် မရှိသေးပါ။
+No contacts available,ဆက်သွယ်ရန်သူ မရှိပါ
+No content for this tab,ဤတက်ဘ်အတွက် အကြောင်းအရာ မရှိပါ
+No data available,ဒေတာ မရရှိနိုင်ပါ
+No data available for the selected filters,ရွေးချယ်ထားသော စစ်ထုတ်မှုများအတွက် ဒေတာ မရရှိနိုင်ပါ
+No data to export,တင်ပို့ရန် ဒေတာ မရှိပါ
+No dates set,ရက်စွဲ သတ်မှတ်မထားပါ
+No defects reported,ချို့ယွင်းမှု သတင်းပို့ထားခြင်း မရှိပါ
+No dependencies defined,မှီခိုမှု သတ်မှတ်ထားခြင်း မရှိပါ
+No description,ဖော်ပြချက် မရှိပါ
+No discussion yet.,ဆွေးနွေးမှု မရှိသေးပါ။
+No documents attached,ပူးတွဲစာရွက်စာတမ်း မရှိပါ
+No due date,သတ်မှတ်ရက် မရှိပါ
+No employee linked to this resource,ဤအရင်းအမြစ်နှင့် ချိတ်ဆက်ထားသော ဝန်ထမ်း မရှိပါ
+No ERPNext employee linked to resource,အရင်းအမြစ်နှင့် ချိတ်ဆက်ထားသော ERPNext ဝန်ထမ်း မရှိပါ
+No events found,ပွဲ မတွေ့ပါ
+No files attached yet.,ပူးတွဲဖိုင် မရှိသေးပါ။
+No Frappe Project linked,ချိတ်ဆက်ထားသော Frappe ပရောဂျက် မရှိပါ
+No Grouping,အုပ်စုခွဲခြင်း မရှိ
+No items,အကြောင်းအရာ မရှိပါ
+No matching tasks,ကိုက်ညီသော လုပ်ငန်း မရှိပါ
+No matching tasks found,ကိုက်ညီသော လုပ်ငန်း မတွေ့ပါ
+No migration history,ပြောင်းရွှေ့မှု မှတ်တမ်း မရှိပါ
+No Milestone,မှတ်တိုင် မရှိပါ
+No milestones,မှတ်တိုင် မရှိပါ
+No milestones defined for this project.,ဤပရောဂျက်အတွက် မှတ်တိုင် သတ်မှတ်ထားခြင်း မရှိပါ။
+No notes yet.,မှတ်စု မရှိသေးပါ။
+No notes yet. Add a due diligence note to track progress.,မှတ်စု မရှိသေးပါ။ တိုးတက်မှုခြေရာခံရန် စေ့စပ်သေချာမှု မှတ်စုတစ်ခု ထည့်ပါ။
+No notifications,အကြောင်းကြားချက် မရှိပါ
+No Orga Project linked to Frappe Project {0},Frappe ပရောဂျက် {0} နှင့် ချိတ်ဆက်ထားသော Orga ပရောဂျက် မရှိပါ
+No overdue tasks,သတ်မှတ်ရက်ကျော် လုပ်ငန်း မရှိပါ
+No pending cascade changes,ဆင့်ကဲပြောင်းလဲမှု ဆိုင်းငံ့ထားခြင်း မရှိပါ
+No predecessors - this task can start independently,ရှေ့လုပ်ငန်း မရှိ - ဤလုပ်ငန်းသည် သီးခြားစတင်နိုင်ပါသည်
+No project,ပရောဂျက် မရှိပါ
+No projects found,ပရောဂျက် မတွေ့ပါ
+No Projects Yet,ပရောဂျက် မရှိသေးပါ
+No recent activity,မကြာသေးမီ လုပ်ဆောင်ချက် မရှိပါ
+No related documents,ဆက်စပ်စာရွက်စာတမ်း မရှိပါ
+No resolved threads.,ဖြေရှင်းပြီးသော ဆွေးနွေးမှုချည် မရှိပါ။
+No resources found,အရင်းအမြစ် မတွေ့ပါ
+No results found,ရလဒ် မတွေ့ပါ
+No skills listed,ကျွမ်းကျင်မှု စာရင်းမရှိပါ
+No skills recorded yet,ကျွမ်းကျင်မှု မှတ်တမ်းတင်ထားခြင်း မရှိသေးပါ
+No successors - no tasks are waiting for this one,နောက်ဆက်လုပ်ငန်း မရှိ - မည်သည့်လုပ်ငန်းမှ ဤလုပ်ငန်းကို မစောင့်ပါ
+No task selected,လုပ်ငန်း ရွေးချယ်မထားပါ
+No tasks assigned to you,သင့်ထံ တာဝန်ပေးထားသော လုပ်ငန်း မရှိပါ
+No tasks available to add,ထည့်ရန် လုပ်ငန်း မရှိပါ
+No tasks found,လုပ်ငန်း မတွေ့ပါ
+No tasks linked to this milestone,ဤမှတ်တိုင်နှင့် ချိတ်ဆက်ထားသော လုပ်ငန်း မရှိပါ
+No tasks with dates to display,ပြသရန် ရက်စွဲပါသော လုပ်ငန်း မရှိပါ
+No tasks yet,လုပ်ငန်း မရှိသေးပါ
+No team members,အဖွဲ့ဝင် မရှိပါ
+No template,ပုံစံခွက် မရှိပါ
+No templates yet,ပုံစံခွက် မရှိသေးပါ
+No time data found,အချိန်ဒေတာ မတွေ့ပါ
+No time logged today,ယနေ့ အချိန်မှတ်တမ်း မရှိပါ
+No time logged yet,အချိန်မှတ်တမ်း မရှိသေးပါ
+No time logs for this period,ဤကာလအတွက် အချိန်မှတ်တမ်း မရှိပါ
+No time logs found,အချိန်မှတ်တမ်း မတွေ့ပါ
+No unread notifications,မဖတ်ရသေးသော အကြောင်းကြားချက် မရှိပါ
+No update information available yet.,No update information available yet.
+None,မရှိ
+Not found,မတွေ့ပါ
+Not permitted,ခွင့်မပြုပါ
+Not permitted to access this project,ဤပရောဂျက် ဝင်ရောက်ခွင့် မရှိပါ
+Not permitted to access this task,ဤလုပ်ငန်း ဝင်ရောက်ခွင့် မရှိပါ
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,ဤစာရွက်စာတမ်းတွင် မှတ်ချက်ပေးခွင့် မရှိပါ
+Not permitted to create clients,ဖောက်သည်များ ဖန်တီးခွင့် မရှိပါ
+Not permitted to delete this client,ဤဖောက်သည်ကို ဖျက်ခွင့် မရှိပါ
+Not permitted to delete this defect,ဤချို့ယွင်းမှုကို ဖျက်ခွင့် မရှိပါ
+Not permitted to delete this note,ဤမှတ်စုကို ဖျက်ခွင့် မရှိပါ
+Not permitted to delete this project,ဤပရောဂျက်ကို ဖျက်ခွင့် မရှိပါ
+Not permitted to delete this task,ဤလုပ်ငန်းကို ဖျက်ခွင့် မရှိပါ
+Not permitted to delete this time log,ဤအချိန်မှတ်တမ်းကို ဖျက်ခွင့် မရှိပါ
+Not permitted to invite clients,ဖောက်သည်များ ဖိတ်ကြားခွင့် မရှိပါ
+Not permitted to modify client access,ဖောက်သည် ဝင်ရောက်ခွင့် ပြင်ဆင်ခွင့် မရှိပါ
+Not permitted to modify this project,ဤပရောဂျက် ပြင်ဆင်ခွင့် မရှိပါ
+Not permitted to update settings,ဆက်တင်များ အပ်ဒိတ်ခွင့် မရှိပါ
+Not permitted to update this client,ဤဖောက်သည်ကို အပ်ဒိတ်ခွင့် မရှိပါ
+Not permitted to view this client,ဤဖောက်သည်ကို ကြည့်ရှုခွင့် မရှိပါ
+not sent,မပို့ရသေး
+Not set,သတ်မှတ်မထားပါ
+Not specified,သတ်မှတ်မထားပါ
+Note,မှတ်စု
+Note (optional),မှတ်စု (ရွေးချယ်ခွင့်)
+Note Content,မှတ်စု အကြောင်းအရာ
+Note content is required,မှတ်စု အကြောင်းအရာ လိုအပ်ပါသည်
+Note name is required,မှတ်စုအမည် လိုအပ်ပါသည်
+Note not found,မှတ်စု မတွေ့ပါ
+Note Type,မှတ်စု အမျိုးအစား
+Notes,မှတ်စုများ
+Notification,အကြောင်းကြားချက်
+Notification not found,အကြောင်းကြားချက် မတွေ့ပါ
+Notifications,အကြောင်းကြားချက်များ
+Off Track,လမ်းကြောင်းလွဲနေသော
+Offer,ကမ်းလှမ်းမှု
+Offer Prepared,ကမ်းလှမ်းမှု ပြင်ဆင်ပြီး
+Oldest First,အဟောင်းဆုံးအရင်
+On Hold,ဆိုင်းငံ့
+On Leave,ခွင့်ယူထား
+On Track,လမ်းကြောင်းမှန်
+On-Time Rate,အချိန်မှန်နှုန်း
+Only administrators can delete activities,စီမံခန့်ခွဲသူများသာ လုပ်ဆောင်ချက်များ ဖျက်နိုင်ပါသည်
+Only the comment author or administrators can delete comments,မှတ်ချက်ရေးသားသူ သို့မဟုတ် စီမံခန့်ခွဲသူများသာ မှတ်ချက်များ ဖျက်နိုင်ပါသည်
+Only you and admins,သင်နှင့် စီမံခန့်ခွဲသူများသာ
+Open,ဖွင့်ထား
+Open in Desk,Desk တွင် ဖွင့်ရန်
+Open Task Log,လုပ်ငန်း မှတ်တမ်း ဖွင့်ရန်
+Open Tasks,ဖွင့်ထားသော လုပ်ငန်းများ
+Optional,ရွေးချယ်ခွင့်
+optional,ရွေးချယ်ခွင့်
+Or email us directly at,သို့မဟုတ် ကျွန်ုပ်တို့ထံ တိုက်ရိုက် အီးမေးလ်ပို့ပါ
+Orga Project {0} from Frappe Projects,Frappe ပရောဂျက်များမှ Orga ပရောဂျက် {0}
+Orga Task {0} from Frappe,Frappe မှ Orga လုပ်ငန်း {0}
+Organizer,စီစဉ်သူ
+Other,အခြား
+Over Budget,ဘတ်ဂျက်ကျော်
+Overall Progress,အလုံးစုံ တိုးတက်မှု
+Overall Utilization,အလုံးစုံ အသုံးချမှု
+Overallocated,အလွန်အကျွံ ခွဲဝေထား
+Overdue,သတ်မှတ်ရက်ကျော်
+overdue,သတ်မှတ်ရက်ကျော်
+Overdue Tasks,သတ်မှတ်ရက်ကျော် လုပ်ငန်းများ
+Overview,ခြုံငုံသုံးသပ်ချက်
+Owner,ပိုင်ရှင်
+Page Not Found,စာမျက်နှာ မတွေ့ပါ
+Parent,မိဘ
+Parent comment must belong to the same document,မိဘမှတ်ချက်သည် တူညီသော စာရွက်စာတမ်းတွင် ပါဝင်ရပါမည်
+Parent comment not found,မိဘမှတ်ချက် မတွေ့ပါ
+Parent project not synced to Frappe yet,မိဘပရောဂျက်ကို Frappe သို့ ချိန်ညှိမထားသေးပါ
+Parent project sync not enabled,မိဘပရောဂျက် ချိန်ညှိမှု ဖွင့်မထားပါ
+Partner,လုပ်ဖော်ကိုင်ဖက်
+Pending,ဆိုင်းငံ့ဆဲ
+per page,စာမျက်နှာတစ်ခုလျှင်
+Perform initial assessment and background check,ကနဦး အကဲဖြတ်မှုနှင့် နောက်ခံစစ်ဆေးမှု ပြုလုပ်ရန်
+Permanently remove this event,ဤပွဲကို အပြီးအပိုင် ဖယ်ရှားရန်
+Permanently remove this task,ဤလုပ်ငန်းကို အပြီးအပိုင် ဖယ်ရှားရန်
+Phone,ဖုန်း
+Pin,ပင်ထိုးရန်
+Pin Activity,လုပ်ဆောင်ချက် ပင်ထိုးရန်
+Pin to top,ထိပ်တွင် ပင်ထိုးရန်
+Pinned,ပင်ထိုးပြီး
+Planned budget for this task,ဤလုပ်ငန်းအတွက် စီစဉ်ထားသော ဘတ်ဂျက်
+Planning,စီမံကိန်းရေးဆွဲခြင်း
+Please describe your question or issue in detail...,သင့်မေးခွန်း သို့မဟုတ် ပြဿနာကို အသေးစိတ် ဖော်ပြပါ...
+Please login to access Orga,Orga ဝင်ရောက်ရန် ကျေးဇူးပြု၍ ဝင်ရောက်ပါ
+Please login to access the client portal,ဖောက်သည် ပေါ်တယ် ဝင်ရောက်ရန် ကျေးဇူးပြု၍ ဝင်ရောက်ပါ
+Please respond to this invitation in Orga,ဤဖိတ်ကြားစာကို Orga တွင် ကျေးဇူးပြု၍ တုံ့ပြန်ပါ
+Please select an image file,ကျေးဇူးပြု၍ ပုံဖိုင်တစ်ခု ရွေးချယ်ပါ
+Please try again,ကျေးဇူးပြု၍ ထပ်မံကြိုးစားပါ
+Please type,ကျေးဇူးပြု၍ ရိုက်ထည့်ပါ
+Portal,ပေါ်တယ်
+Portal access revoked for {0},{0} အတွက် ပေါ်တယ်ဝင်ရောက်ခွင့် ရုပ်သိမ်းပြီး
+Portal user created successfully. Welcome email {0},ပေါ်တယ်အသုံးပြုသူ အောင်မြင်စွာ ဖန်တီးပြီးပါပြီ။ ကြိုဆိုရေး အီးမေးလ် {0}
+Post,တင်ရန်
+Powered by,ပံ့ပိုးသည်
+Powered by Tonic,Tonic မှ ပံ့ပိုးသည်
+Predecessors (Blocked By),ရှေ့လုပ်ငန်းများ (ပိတ်ဆို့ထားသည်)
+Preferences,ရွေးချယ်မှုများ
+Preferences saved successfully,ရွေးချယ်မှုများ အောင်မြင်စွာ သိမ်းဆည်းပြီးပါပြီ
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",အလိုအလျောက် ထုတ်ပေးသော ပရောဂျက်ကုဒ်များအတွက် ရှေ့ဆက် (ဥပမာ ORG-2026-0001)
+Prepare and document offer terms,ကမ်းလှမ်းမှုစည်းကမ်းများ ပြင်ဆင်ပြီး မှတ်တမ်းတင်ရန်
+Press,နှိပ်ပါ
+Preview,အကြိုကြည့်ရှုမှု
+Preview cascade before applying,အသုံးမပြုမီ ဆင့်ကဲပြောင်းလဲမှု အကြိုကြည့်ရှုရန်
+Previous,ယခင်
+Priority,ဦးစားပေး
+Priority assigned to new tasks,လုပ်ငန်းအသစ်များသို့ ပေးအပ်ထားသော ဦးစားပေး
+Priority updated,ဦးစားပေး အပ်ဒိတ်ပြီး
+Proficiency,ကျွမ်းကျင်မှုအဆင့်
+Profile,ပရိုဖိုင်
+Progress,တိုးတက်မှု
+Progress (High-Low),တိုးတက်မှု (မြင့်-နိမ့်)
+Progress (Low-High),တိုးတက်မှု (နိမ့်-မြင့်)
+Progress Overview,တိုးတက်မှု ခြုံငုံသုံးသပ်ချက်
+Progress updated,တိုးတက်မှု အပ်ဒိတ်ပြီး
+Project,ပရောဂျက်
+Project budget has been saved.,ပရောဂျက်ဘတ်ဂျက် သိမ်းဆည်းပြီးပါပြီ။
+Project code (e.g. ORG-2026-0001),ပရောဂျက်ကုဒ် (ဥပမာ ORG-2026-0001)
+Project Code Prefix,ပရောဂျက်ကုဒ် ရှေ့ဆက်
+Project created,ပရောဂျက် ဖန်တီးပြီး
+Project deleted,ပရောဂျက် ဖျက်ပြီး
+Project description has been saved.,ပရောဂျက် ဖော်ပြချက် သိမ်းဆည်းပြီးပါပြီ။
+Project Details,ပရောဂျက် အသေးစိတ်
+Project end date has been saved.,ပရောဂျက် ပြီးဆုံးရက် သိမ်းဆည်းပြီးပါပြီ။
+Project Files,ပရောဂျက် ဖိုင်များ
+Project has no linked client,ပရောဂျက်တွင် ချိတ်ဆက်ထားသော ဖောက်သည် မရှိပါ
+Project Health,ပရောဂျက် ကျန်းမာရေး
+Project Info,ပရောဂျက် အချက်အလက်
+Project is required,ပရောဂျက် လိုအပ်ပါသည်
+Project is required for project context,ပရောဂျက်အကြောင်းအရာအတွက် ပရောဂျက် လိုအပ်ပါသည်
+Project is required when tracking context is 'project',ခြေရာခံအကြောင်းအရာသည် 'ပရောဂျက်' ဖြစ်သည့်အခါ ပရောဂျက် လိုအပ်ပါသည်
+Project Manager,ပရောဂျက် မန်နေဂျာ
+Project Name,ပရောဂျက် အမည်
+Project name and template name are required,ပရောဂျက်အမည်နှင့် ပုံစံခွက်အမည် လိုအပ်ပါသည်
+Project name is required,ပရောဂျက်အမည် လိုအပ်ပါသည်
+Project not found,ပရောဂျက် မတွေ့ပါ
+Project not found or you do not have access,ပရောဂျက် မတွေ့ပါ သို့မဟုတ် ဝင်ရောက်ခွင့် မရှိပါ
+Project settings,ပရောဂျက် ဆက်တင်များ
+Project start date has been saved.,ပရောဂျက် စတင်ရက် သိမ်းဆည်းပြီးပါပြီ။
+Project title has been saved.,ပရောဂျက် ခေါင်းစဉ် သိမ်းဆည်းပြီးပါပြီ။
+Project Type,ပရောဂျက် အမျိုးအစား
+Project updated,ပရောဂျက် အပ်ဒိတ်ပြီး
+Project {0} linked to client {1},ပရောဂျက် {0} ကို ဖောက်သည် {1} နှင့် ချိတ်ဆက်ပြီး
+Project {0} not found,ပရောဂျက် {0} မတွေ့ပါ
+Project {0} to Frappe Projects,ပရောဂျက် {0} ကို Frappe ပရောဂျက်များသို့
+Project:,ပရောဂျက်:
+projects,ပရောဂျက်များ
+Projects,ပရောဂျက်များ
+Projects created:,ဖန်တီးထားသော ပရောဂျက်များ:
+Projects Overview,ပရောဂျက်များ ခြုံငုံသုံးသပ်ချက်
+Projects skipped:,ကျော်လွှားထားသော ပရောဂျက်များ:
+Projects updated:,အပ်ဒိတ်ထားသော ပရောဂျက်များ:
+Promote failed,တိုးမြှင့်မှု မအောင်မြင်ပါ
+Promote to task,လုပ်ငန်းအဖြစ် တိုးမြှင့်ရန်
+Promoted to task,လုပ်ငန်းအဖြစ် တိုးမြှင့်ပြီး
+Propose,အဆိုပြုရန်
+Propose New Time,အချိန်အသစ် အဆိုပြုရန်
+Propose Time,အချိန် အဆိုပြုရန်
+Proposed End,အဆိုပြုထားသော ပြီးဆုံးချိန်
+Proposed Start,အဆိုပြုထားသော စတင်ချိန်
+Public,အများပြည်သူ
+Quick Action,အမြန် လုပ်ဆောင်ချက်
+Quick Actions,အမြန် လုပ်ဆောင်ချက်များ
+Quick Stats,အမြန် စာရင်းအင်း
+Rates,နှုန်းထားများ
+Receive notifications via email,အီးမေးလ်မှတစ်ဆင့် အကြောင်းကြားချက်များ လက်ခံရန်
+Receive notifications within the application,အက်ပ်အတွင်း အကြောင်းကြားချက်များ လက်ခံရန်
+Recent Activity,မကြာသေးမီ လုပ်ဆောင်ချက်
+Recipient {0} is not a valid user,လက်ခံသူ {0} သည် မှန်ကန်သော အသုံးပြုသူ မဟုတ်ပါ
+Reference,ရည်ညွှန်းချက်
+Refresh,ပြန်လည်ဖွင့်ရန်
+Related,ဆက်စပ်
+Related Company (optional),ဆက်စပ် ကုမ္ပဏီ (ရွေးချယ်ခွင့်)
+Related Documents,ဆက်စပ် စာရွက်စာတမ်းများ
+Related Project,ဆက်စပ် ပရောဂျက်
+Remaining,ကျန်ရှိ
+Reminder,သတိပေးချက်
+Reminder Lead Time,သတိပေးချက် ကြိုတင်အချိန်
+Reminder: {0} - {1} at {2},သတိပေးချက်: {0} - {1} တွင် {2}
+Remove,ဖယ်ရှားရန်
+Remove dependency,မှီခိုမှု ဖယ်ရှားရန်
+Remove dependency on,မှီခိုမှု ဖယ်ရှားရန်
+Remove from group,အုပ်စုမှ ဖယ်ရှားရန်
+Remove group dependency,အုပ်စုမှီခိုမှု ဖယ်ရှားရန်
+Remove skill,ကျွမ်းကျင်မှု ဖယ်ရှားရန်
+Reopen,ပြန်ဖွင့်ရန်
+Reopen thread,ဆွေးနွေးမှုချည် ပြန်ဖွင့်ရန်
+reopened,ပြန်ဖွင့်ပြီး
+replies,ပြန်ကြားချက်များ
+Reply,ပြန်ကြားရန်
+reply,ပြန်ကြားချက်
+Replying to,ပြန်ကြားနေသည်
+Replying to comment,မှတ်ချက်ကို ပြန်ကြားနေသည်
+Report Defect,ချို့ယွင်းမှု သတင်းပို့ရန်
+Reported Date,သတင်းပို့ရက်
+Reports,အစီရင်ခံစာများ
+Reports To,အစီရင်ခံရမည့်သူ
+Request Submitted!,တောင်းဆိုချက် တင်သွင်းပြီး!
+Required,လိုအပ်သော
+required,လိုအပ်သော
+Research,သုတေသန
+Reset to Defaults,မူရင်းသို့ ပြန်လည်သတ်မှတ်ရန်
+Resolve,ဖြေရှင်းရန်
+Resolve thread,ဆွေးနွေးမှုချည် ဖြေရှင်းရန်
+Resolved,ဖြေရှင်းပြီး
+Resolved date cannot be before reported date,ဖြေရှင်းရက်သည် သတင်းပို့ရက်ထက် မစောရပါ
+Resource,အရင်းအမြစ်
+Resource and skill name are required,အရင်းအမြစ်နှင့် ကျွမ်းကျင်မှုအမည် လိုအပ်ပါသည်
+Resource is already an attendee,အရင်းအမြစ်သည် တက်ရောက်သူ ဖြစ်ပြီးသားဖြစ်သည်
+Resource name is required,အရင်းအမြစ်အမည် လိုအပ်ပါသည်
+Resource not found,အရင်းအမြစ် မတွေ့ပါ
+Resource synced from employee {0},ဝန်ထမ်း {0} မှ အရင်းအမြစ် ချိန်ညှိပြီး
+Resource {0} is already assigned to this task ({1}),အရင်းအမြစ် {0} သည် ဤလုပ်ငန်းသို့ ({1}) တာဝန်ပေးပြီးသားဖြစ်သည်
+Resource {0} not found,အရင်းအမြစ် {0} မတွေ့ပါ
+Resources,အရင်းအမြစ်များ
+Retry,ထပ်မံကြိုးစားရန်
+Review,သုံးသပ်ခြင်း
+Review all relevant documents and contracts,သက်ဆိုင်ရာ စာရွက်စာတမ်းများနှင့် စာချုပ်များအားလုံး သုံးသပ်ရန်
+Reviews,သုံးသပ်ချက်များ
+Risk Assessment,အန္တရာယ် အကဲဖြတ်ခြင်း
+Rollback,ပြန်လှည့်ရန်
+Rolled back,ပြန်လှည့်ပြီး
+Room or address,အခန်း သို့မဟုတ် လိပ်စာ
+RSVP,RSVP
+Safety,ဘေးကင်းရေး
+Sat,စနေ
+Save,သိမ်းဆည်းရန်
+"Save a project as a template, or import one from a JSON file.",ပရောဂျက်ကို ပုံစံခွက်အဖြစ် သိမ်းဆည်းပါ သို့မဟုတ် JSON ဖိုင်မှ တစ်ခု တင်သွင်းပါ။
+Save as Template,ပုံစံခွက်အဖြစ် သိမ်းဆည်းရန်
+Save Changes,ပြောင်းလဲမှုများ သိမ်းဆည်းရန်
+Save failed,သိမ်းဆည်းမှု မအောင်မြင်ပါ
+Save Preferences,ရွေးချယ်မှုများ သိမ်းဆည်းရန်
+Save Template,ပုံစံခွက် သိမ်းဆည်းရန်
+Saving...,သိမ်းဆည်းနေသည်...
+Schedule,အချိန်ဇယား
+Schedule type is required for scheduled triggers,အချိန်ဇယားအရ အစပျိုးမှုများအတွက် အချိန်ဇယားအမျိုးအစား လိုအပ်ပါသည်
+Scheduled,အချိန်ဇယားသတ်မှတ်ပြီး
+Search,ရှာဖွေရန်
+"Search by name, email, or skill...",အမည်၊ အီးမေးလ် သို့မဟုတ် ကျွမ်းကျင်မှုဖြင့် ရှာဖွေပါ...
+Search for a project...,ပရောဂျက် ရှာဖွေပါ...
+Search for a task...,လုပ်ငန်း ရှာဖွေပါ...
+Search for an event...,ပွဲ ရှာဖွေပါ...
+Search for people to invite...,ဖိတ်ကြားရန် လူများ ရှာဖွေပါ...
+Search tasks to link...,ချိတ်ဆက်ရန် လုပ်ငန်းများ ရှာဖွေပါ...
+Search tasks...,လုပ်ငန်းများ ရှာဖွေပါ...
+Search...,ရှာဖွေပါ...
+Searching...,ရှာဖွေနေသည်...
+Seen,မြင်ပြီး
+Select a project if your request is related to a specific project.,သင့်တောင်းဆိုချက်သည် ပရောဂျက်တစ်ခုနှင့် သက်ဆိုင်ပါက ပရောဂျက်တစ်ခု ရွေးချယ်ပါ။
+Select a project...,ပရောဂျက် ရွေးချယ်ပါ...
+Select a task from the Gantt chart to view and manage its details.,အသေးစိတ်ကို ကြည့်ရှုပြီး စီမံခန့်ခွဲရန် Gantt ဇယားမှ လုပ်ငန်းတစ်ခု ရွေးချယ်ပါ။
+Select a task from the list or Kanban board to view and manage its details.,အသေးစိတ်ကို ကြည့်ရှုပြီး စီမံခန့်ခွဲရန် စာရင်း သို့မဟုတ် ကန်ဘန်ဘုတ်မှ လုပ်ငန်းတစ်ခု ရွေးချယ်ပါ။
+Select a template...,ပုံစံခွက် ရွေးချယ်ပါ...
+Select priority...,ဦးစားပေး ရွေးချယ်ပါ...
+Select status...,အခြေအနေ ရွေးချယ်ပါ...
+Select task...,လုပ်ငန်း ရွေးချယ်ပါ...
+Select type...,အမျိုးအစား ရွေးချယ်ပါ...
+Selection,ရွေးချယ်မှု
+Send,ပို့ရန်
+Send comment,မှတ်ချက် ပို့ရန်
+Send email invitations to attendees,တက်ရောက်သူများထံ အီးမေးလ် ဖိတ်ကြားစာ ပို့ရန်
+Send Invitations,ဖိတ်ကြားစာများ ပို့ရန်
+Send notification when a task is assigned to a user,အသုံးပြုသူတစ်ဦးထံ လုပ်ငန်း တာဝန်ပေးသည့်အခါ အကြောင်းကြားချက် ပို့ရန်
+Send notification when task status changes,လုပ်ငန်း အခြေအနေ ပြောင်းလဲသည့်အခါ အကြောင်းကြားချက် ပို့ရန်
+Send reminder before task due date,လုပ်ငန်း သတ်မှတ်ရက် မတိုင်မီ သတိပေးချက် ပို့ရန်
+sent,ပို့ပြီး
+Set rate,နှုန်း သတ်မှတ်ရန်
+Settings,ဆက်တင်များ
+Settings saved successfully,ဆက်တင်များ အောင်မြင်စွာ သိမ်းဆည်းပြီးပါပြီ
+Severity,ပြင်းထန်မှု
+SF (Start-Finish),SF (စတင်-ပြီးဆုံး)
+SF - Start-to-Finish,SF - စတင်-မှ-ပြီးဆုံး
+Show,ပြသရန်
+Show all,အားလုံး ပြသရန်
+Show all changes,ပြောင်းလဲမှုအားလုံး ပြသရန်
+Show Archived,မှတ်တမ်းတင်ထားသည်များ ပြသရန်
+Show full diff,ခြားနားချက်အပြည့် ပြသရန်
+Show less,လျှော့ပြသရန်
+Show more,ပိုပြသရန်
+Skill added,ကျွမ်းကျင်မှု ထည့်ပြီး
+Skill is required,ကျွမ်းကျင်မှု လိုအပ်ပါသည်
+Skill Name,ကျွမ်းကျင်မှု အမည်
+Skill removed,ကျွမ်းကျင်မှု ဖယ်ရှားပြီး
+Skill {0} already exists for this resource,ကျွမ်းကျင်မှု {0} သည် ဤအရင်းအမြစ်အတွက် ရှိပြီးသားဖြစ်သည်
+Skills,ကျွမ်းကျင်မှုများ
+Skills & Competencies,ကျွမ်းကျင်မှုများ နှင့် အရည်အချင်းများ
+Skip already migrated projects,ပြောင်းရွှေ့ပြီးသား ပရောဂျက်များ ကျော်လွှားရန်
+Sort by,စီရန်
+Sort: Due Date,စီရန်: သတ်မှတ်ရက်
+Sort: Priority,စီရန်: ဦးစားပေး
+Sort: Project,စီရန်: ပရောဂျက်
+Sort: Status,စီရန်: အခြေအနေ
+Sort: Task,စီရန်: လုပ်ငန်း
+Source Code,ရင်းမြစ်ကုဒ်
+Spent,သုံးစွဲပြီး
+Spent:,သုံးစွဲပြီး:
+SS (Start-Start),SS (စတင်-စတင်)
+SS - Start-to-Start,SS - စတင်-မှ-စတင်
+Standalone,သီးသန့်
+Start,စတင်
+Start a discussion below,အောက်တွင် ဆွေးနွေးမှု စတင်ပါ
+Start Date,စတင်ရက်
+Start date,စတင်ရက်
+Start Date (Earliest),စတင်ရက် (အစောဆုံး)
+Start date updated,စတင်ရက် အပ်ဒိတ်ပြီး
+Start date/time is required,စတင်ရက်/အချိန် လိုအပ်ပါသည်
+Start Migration,ပြောင်းရွှေ့မှု စတင်ရန်
+Start the conversation below.,အောက်တွင် စကားဝိုင်း စတင်ပါ။
+Start Timer,အချိန်တိုင်း စတင်ရန်
+Start typing to search...,ရှာဖွေရန် စတင်ရိုက်ထည့်ပါ...
+Start-to-Finish,စတင်-မှ-ပြီးဆုံး
+Start-to-Start,စတင်-မှ-စတင်
+Start:,စတင်:
+Statistics reset,စာရင်းအင်း ပြန်လည်သတ်မှတ်ပြီး
+Status,အခြေအနေ
+Status assigned to new projects,ပရောဂျက်အသစ်များသို့ ပေးအပ်ထားသော အခြေအနေ
+Status assigned to new tasks,လုပ်ငန်းအသစ်များသို့ ပေးအပ်ထားသော အခြေအနေ
+Status Changes,အခြေအနေ ပြောင်းလဲမှုများ
+Status updated,အခြေအနေ အပ်ဒိတ်ပြီး
+Status:,အခြေအနေ:
+Stop,ရပ်ရန်
+Stop & Save,ရပ်ပြီး သိမ်းဆည်းရန်
+Stop Timer,အချိန်တိုင်း ရပ်ရန်
+Stops current timer and starts for this event,လက်ရှိ အချိန်တိုင်းကို ရပ်ပြီး ဤပွဲအတွက် စတင်သည်
+Stops current timer and starts for this task,လက်ရှိ အချိန်တိုင်းကို ရပ်ပြီး ဤလုပ်ငန်းအတွက် စတင်သည်
+Subject,အကြောင်းအရာ
+Subject cannot exceed 255 characters,အကြောင်းအရာသည် စာလုံး ၂၅၅ လုံးထက် မကျော်ရပါ
+Subject is required,အကြောင်းအရာ လိုအပ်ပါသည်
+Submit,တင်သွင်းရန်
+Submit Another Request,နောက်ထပ် တောင်းဆိုချက် တင်သွင်းရန်
+Submit Request,တောင်းဆိုချက် တင်သွင်းရန်
+Submitting...,တင်သွင်းနေသည်...
+Successfully saved,အောင်မြင်စွာ သိမ်းဆည်းပြီး
+Successors (Blocking),နောက်ဆက်လုပ်ငန်းများ (ပိတ်ဆို့နေသော)
+Sun,တနင်္ဂနွေ
+Supplier,ပေးသွင်းသူ
+Support,ပံ့ပိုးမှု
+Switch to this event,ဤပွဲသို့ ပြောင်းရန်
+Switch to this task,ဤလုပ်ငန်းသို့ ပြောင်းရန်
+Sync direction is set to Frappe to Orga only,ချိန်ညှိမှုလမ်းကြောင်းကို Frappe မှ Orga သို့သာ သတ်မှတ်ထားသည်
+Sync direction is set to Orga to Frappe only,ချိန်ညှိမှုလမ်းကြောင်းကို Orga မှ Frappe သို့သာ သတ်မှတ်ထားသည်
+Sync not enabled for this project,ဤပရောဂျက်အတွက် ချိန်ညှိမှု ဖွင့်မထားပါ
+System,စနစ်
+Table,ဇယား
+Take ownership of this task,ဤလုပ်ငန်း၏ ပိုင်ဆိုင်မှုကို ယူရန်
+Target Date,ရည်မှန်းရက်
+Target End,ရည်မှန်း ပြီးဆုံးရက်
+Target Project,ရည်မှန်း ပရောဂျက်
+Target user is required for '{0}' action,'{0}' လုပ်ဆောင်ချက်အတွက် ရည်မှန်းအသုံးပြုသူ လိုအပ်ပါသည်
+task,လုပ်ငန်း
+Task,လုပ်ငန်း
+Task '{0}' is due on {1}.,လုပ်ငန်း '{0}' ၏ သတ်မှတ်ရက်သည် {1} ဖြစ်ပါသည်။
+Task and resource are required,လုပ်ငန်းနှင့် အရင်းအမြစ် လိုအပ်ပါသည်
+Task Assignment,လုပ်ငန်း တာဝန်ပေးအပ်မှု
+Task cannot be its own parent,လုပ်ငန်းသည် ၎င်း၏ကိုယ်ပိုင် မိဘ ဖြစ်၍မရပါ
+Task cannot depend on itself,လုပ်ငန်းသည် ၎င်းကိုယ်တိုင်ကို မှီခို၍မရပါ
+Task cannot depend on the group it belongs to,လုပ်ငန်းသည် ၎င်းပါဝင်သော အုပ်စုကို မှီခို၍မရပါ
+Task created,လုပ်ငန်း ဖန်တီးပြီး
+Task deleted,လုပ်ငန်း ဖျက်ပြီး
+Task description has been saved.,လုပ်ငန်း ဖော်ပြချက် သိမ်းဆည်းပြီးပါပြီ။
+Task Details,လုပ်ငန်း အသေးစိတ်
+Task due in {0} days: {1},လုပ်ငန်း {0} ရက်အတွင်း သတ်မှတ်ရက်ရောက်မည်: {1}
+Task due today: {0},ယနေ့ သတ်မှတ်ရက်ရောက်သော လုပ်ငန်း: {0}
+Task due tomorrow: {0},မနက်ဖြန် သတ်မှတ်ရက်ရောက်သော လုပ်ငန်း: {0}
+Task duplicated,လုပ်ငန်း ပွားယူပြီး
+Task Group,လုပ်ငန်း အုပ်စု
+Task ID is required,လုပ်ငန်း ID လိုအပ်ပါသည်
+Task is blocked by incomplete dependencies,လုပ်ငန်းသည် မပြီးဆုံးသေးသော မှီခိုမှုများဖြင့် ပိတ်ဆို့ထားသည်
+Task is cancelled,လုပ်ငန်း ပယ်ဖျက်ပြီး
+Task is completed,လုပ်ငန်း ပြီးဆုံးပြီး
+Task is no longer blocked by a group,လုပ်ငန်းသည် အုပ်စုဖြင့် ပိတ်ဆို့ထားခြင်း မရှိတော့ပါ
+Task is required for task context,လုပ်ငန်းအကြောင်းအရာအတွက် လုပ်ငန်း လိုအပ်ပါသည်
+Task is required when tracking context is 'task',ခြေရာခံအကြောင်းအရာသည် 'လုပ်ငန်း' ဖြစ်သည့်အခါ လုပ်ငန်း လိုအပ်ပါသည်
+Task linked,လုပ်ငန်း ချိတ်ဆက်ပြီး
+Task moved,လုပ်ငန်း ရွှေ့ပြီး
+Task name,လုပ်ငန်းအမည်
+Task name is required,လုပ်ငန်းအမည် လိုအပ်ပါသည်
+Task removed from group,လုပ်ငန်းကို အုပ်စုမှ ဖယ်ရှားပြီး
+Task Subject,လုပ်ငန်း အကြောင်းအရာ
+Task subject is required,လုပ်ငန်း အကြောင်းအရာ လိုအပ်ပါသည်
+Task Type,လုပ်ငန်း အမျိုးအစား
+Task unblocked: {0},လုပ်ငန်း ပိတ်ဆို့မှုဖြေပြီး: {0}
+Task unlinked,လုပ်ငန်း ချိတ်ဆက်ဖြုတ်ပြီး
+Task updated,လုပ်ငန်း အပ်ဒိတ်ပြီး
+Task {0} not found,လုပ်ငန်း {0} မတွေ့ပါ
+Task {0} not in project {1},လုပ်ငန်း {0} သည် ပရောဂျက် {1} တွင် မရှိပါ
+Task {0} to Frappe,လုပ်ငန်း {0} ကို Frappe သို့
+Tasks,လုပ်ငန်းများ
+tasks,လုပ်ငန်းများ
+Tasks and milestones will be created with dates relative to the project start date.,လုပ်ငန်းများနှင့် မှတ်တိုင်များကို ပရောဂျက် စတင်ရက်နှင့် ဆက်စပ်သော ရက်စွဲများဖြင့် ဖန်တီးပါမည်။
+Tasks assigned to you across all projects.,ပရောဂျက်အားလုံးတွင် သင့်ထံ တာဝန်ပေးထားသော လုပ်ငန်းများ။
+Tasks created:,ဖန်တီးထားသော လုပ်ငန်းများ:
+Tasks from projects you manage.,သင် စီမံခန့်ခွဲသော ပရောဂျက်များမှ လုပ်ငန်းများ။
+Tasks updated:,အပ်ဒိတ်ထားသော လုပ်ငန်းများ:
+"Tasks, milestones, and dependencies have been created.",လုပ်ငန်းများ၊ မှတ်တိုင်များနှင့် မှီခိုမှုများ ဖန်တီးပြီးပါပြီ။
+Tasks:,လုပ်ငန်းများ:
+TBD,နောင်တွင် ဆုံးဖြတ်ရန်
+Team,အဖွဲ့
+Team Members,အဖွဲ့ဝင်များ
+Template,ပုံစံခွက်
+Template applied,ပုံစံခွက် အသုံးပြုပြီး
+Template data is required in import data,တင်သွင်းဒေတာတွင် ပုံစံခွက်ဒေတာ လိုအပ်ပါသည်
+Template has no data,ပုံစံခွက်တွင် ဒေတာ မရှိပါ
+Template Name,ပုံစံခွက် အမည်
+Template name,ပုံစံခွက် အမည်
+Template name is required,ပုံစံခွက်အမည် လိုအပ်ပါသည်
+Template name is required in import data,တင်သွင်းဒေတာတွင် ပုံစံခွက်အမည် လိုအပ်ပါသည်
+Template saved,ပုံစံခွက် သိမ်းဆည်းပြီး
+Template updated successfully.,ပုံစံခွက် အောင်မြင်စွာ အပ်ဒိတ်ပြီးပါပြီ။
+Template {0} not found,ပုံစံခွက် {0} မတွေ့ပါ
+Templates,ပုံစံခွက်များ
+Tentative,ယာယီ
+The comment has been deleted,မှတ်ချက်ကို ဖျက်ပြီးပါပြီ
+The project,ပရောဂျက်
+The source document may have been deleted.,ရင်းမြစ်စာရွက်စာတမ်းကို ဖျက်ပြီးသားဖြစ်နိုင်ပါသည်။
+The source document will not be affected.,ရင်းမြစ်စာရွက်စာတမ်းကို ထိခိုက်မှု မရှိပါ။
+The status of '{0}' was changed from {1} to {2}.,'{0}' ၏ အခြေအနေကို {1} မှ {2} သို့ ပြောင်းလဲပြီး။
+Theme,အပြင်အဆင်
+Theme preference,အပြင်အဆင် ရွေးချယ်မှု
+This action,ဤလုပ်ဆောင်ချက်
+This action cannot be undone.,ဤလုပ်ဆောင်ချက်ကို ပြန်လည်ပြုလုပ်၍မရပါ။
+This activity has been flagged for attention,ဤလုပ်ဆောင်ချက်ကို အာရုံစိုက်ရန် အလံထူထားပါသည်
+This is a reminder for your upcoming appointment,ဤသည်မှာ သင့်လာမည့် ချိန်းဆိုမှုအတွက် သတိပေးချက်ဖြစ်ပါသည်
+This method is only meant for developer mode,ဤနည်းလမ်းသည် ဆော့ဖ်ဝဲရေးသားသူ မုဒ်အတွက်သာ ဖြစ်ပါသည်
+This page wandered off,This page wandered off
+This Week,ဤအပတ်
+This will delete all notes and preferences associated with this activity.,ဤလုပ်ဆောင်ချက်နှင့် ဆက်စပ်သော မှတ်စုများနှင့် ရွေးချယ်မှုများအားလုံးကို ဖျက်ပါမည်။
+This will import all Frappe Projects into Orga. Continue?,Frappe ပရောဂျက်အားလုံးကို Orga သို့ တင်သွင်းပါမည်။ ဆက်လက်မလား?
+This will permanently delete,ဤအရာကို အပြီးအပိုင် ဖျက်ပါမည်
+This will permanently delete:,ဤအရာများကို အပြီးအပိုင် ဖျက်ပါမည်:
+Thu,ကြာသပတေး
+Time,အချိန်
+Time & Billing,အချိန် နှင့် ငွေတောင်းခံမှု
+Time & Revenue,အချိန် နှင့် ဝင်ငွေ
+Time Entries,အချိန် ထည့်သွင်းမှုများ
+Time log name is required,အချိန်မှတ်တမ်းအမည် လိုအပ်ပါသည်
+Time Log not found,အချိန်မှတ်တမ်း မတွေ့ပါ
+Time log {0} not found,အချိန်မှတ်တမ်း {0} မတွေ့ပါ
+Time Logs,အချိန်မှတ်တမ်းများ
+Time Summary,အချိန် အကျဉ်းချုပ်
+Time Tracking,အချိန် ခြေရာခံမှု
+Timeline,အချိန်မျဉ်း
+Timer active on,အချိန်တိုင်း လည်ပတ်နေသည်
+Timer is not running,အချိန်တိုင်း လည်ပတ်နေခြင်း မရှိပါ
+Timer Running,အချိန်တိုင်း လည်ပတ်နေသည်
+Timer running,အချိန်တိုင်း လည်ပတ်နေသည်
+Timesheet DocType not available,အချိန်စာရင်း DocType မရရှိနိုင်ပါ
+Timesheets,အချိန်စာရင်းများ
+Timezone,အချိန်ဇုန်
+Timezone is detected from your browser,အချိန်ဇုန်ကို သင့်ဘရောက်ဆာမှ သိရှိပါသည်
+Title,ခေါင်းစဉ်
+Title cannot exceed 255 characters,ခေါင်းစဉ်သည် စာလုံး ၂၅၅ လုံးထက် မကျော်ရပါ
+Title is required,ခေါင်းစဉ် လိုအပ်ပါသည်
+Title updated,ခေါင်းစဉ် အပ်ဒိတ်ပြီး
+To,သို့
+to,သို့
+to cancel,ပယ်ဖျက်ရန်
+to close,ပိတ်ရန်
+to confirm:,အတည်ပြုရန်:
+to edit,တည်းဖြတ်ရန်
+"to save,",သိမ်းဆည်းရန်၊
+To Time cannot be before From Time,ပြီးဆုံးချိန်သည် စတင်ချိန်ထက် မစောရပါ
+Today,ယနေ့
+today,ယနေ့
+Toggle billable,ငွေတောင်းခံနိုင်မှု ပြောင်းရန်
+Toggle Details Panel,အသေးစိတ် ပန်နယ် ပြောင်းရန်
+Toggle Manager Panel,မန်နေဂျာ ပန်နယ် ပြောင်းရန်
+Toggle Sidebar,ဘေးဘား ပြောင်းရန်
+Tomorrow,မနက်ဖြန်
+tomorrow,မနက်ဖြန်
+Total,စုစုပေါင်း
+Total Budget,စုစုပေါင်း ဘတ်ဂျက်
+Total Contacts,စုစုပေါင်း ဆက်သွယ်ရန်သူများ
+Total Cost,စုစုပေါင်း ကုန်ကျစရိတ်
+Total Cost to Org,အဖွဲ့အစည်းအတွက် စုစုပေါင်း ကုန်ကျစရိတ်
+Total Defect Cost,စုစုပေါင်း ချို့ယွင်းမှု ကုန်ကျစရိတ်
+Total Hours,စုစုပေါင်း နာရီ
+Total Hours Logged,စုစုပေါင်း မှတ်တမ်းတင်ထားသော နာရီ
+Total Projects,စုစုပေါင်း ပရောဂျက်များ
+Total Spent,စုစုပေါင်း သုံးစွဲပြီး
+Total Tasks,စုစုပေါင်း လုပ်ငန်းများ
+Total:,စုစုပေါင်း:
+Tracked,ခြေရာခံပြီး
+trails to today while Open at 0%,ဖွင့်ထားချိန် ၀% ဖြင့် ယနေ့အထိ လမ်းကြောင်းခံသည်
+Tried:,Tried:
+Try adjusting your filter criteria,သင့် စစ်ထုတ်မှုစံနှုန်းများကို ပြင်ဆင်ကြည့်ပါ
+Try adjusting your filters.,သင့် စစ်ထုတ်မှုများကို ပြင်ဆင်ကြည့်ပါ။
+Try Again,ထပ်မံကြိုးစားရန်
+Tue,အင်္ဂါ
+Type,အမျိုးအစား
+Type updated,အမျိုးအစား အပ်ဒိတ်ပြီး
+Type:,အမျိုးအစား:
+Typical response time: 1-2 business days,ပုံမှန် တုံ့ပြန်ချိန်: ရုံးဖွင့်ရက် ၁-၂ ရက်
+Unarchive,မှတ်တမ်းမှ ပြန်ထုတ်ရန်
+Unarchive Activity,လုပ်ဆောင်ချက်ကို မှတ်တမ်းမှ ပြန်ထုတ်ရန်
+Unassign,တာဝန်ဖြုတ်ရန်
+Unassigned,တာဝန်မပေးရသေး
+Under Budget,ဘတ်ဂျက်အောက်
+Ungrouped,အုပ်စုမခွဲရသေး
+Unknown,မသိ
+Unknown error,မသိသော အမှား
+Unlink failed,ချိတ်ဆက်ဖြုတ်မှု မအောင်မြင်ပါ
+Unlink task from milestone,လုပ်ငန်းကို မှတ်တိုင်မှ ချိတ်ဆက်ဖြုတ်ရန်
+Unpin,ပင်ဖြုတ်ရန်
+Unpin Activity,လုပ်ဆောင်ချက် ပင်ဖြုတ်ရန်
+Unread,မဖတ်ရသေး
+Unread only,မဖတ်ရသေးသည်များသာ
+Until,အထိ
+Up to Date,Up to Date
+Upcoming,လာမည့်
+upcoming,လာမည့်
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,အပ်ဒိတ်မှု မအောင်မြင်ပါ
+Updated,အပ်ဒိတ်ပြီး
+Updated successfully,အောင်မြင်စွာ အပ်ဒိတ်ပြီး
+Updates,Updates
+Upload,တင်ပို့ရန်
+Upload failed,တင်ပို့မှု မအောင်မြင်ပါ
+Upload files below to attach them to this task.,ဤလုပ်ငန်းသို့ ပူးတွဲရန် အောက်တွင် ဖိုင်များ တင်ပို့ပါ။
+Upload to project,ပရောဂျက်သို့ တင်ပို့ရန်
+Uploading...,တင်ပို့နေသည်...
+Urgent,အရေးတကြီး
+User {0} is already linked to client {1},အသုံးပြုသူ {0} သည် ဖောက်သည် {1} နှင့် ချိတ်ဆက်ပြီးသားဖြစ်သည်
+User {0} is already linked to resource {1},အသုံးပြုသူ {0} သည် အရင်းအမြစ် {1} နှင့် ချိတ်ဆက်ပြီးသားဖြစ်သည်
+Utilization,အသုံးချမှု
+Valid,မှန်ကန်သော
+Value:,တန်ဖိုး:
+Variance,ကွဲလွဲမှု
+Variance:,ကွဲလွဲမှု:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,ကြည့်ရှုရန်
+View All,အားလုံး ကြည့်ရှုရန်
+View all active projects,လက်ရှိ ပရောဂျက်အားလုံး ကြည့်ရှုရန်
+View all open tasks,ဖွင့်ထားသော လုပ်ငန်းအားလုံး ကြည့်ရှုရန်
+View overdue tasks,သတ်မှတ်ရက်ကျော် လုပ်ငန်းများ ကြည့်ရှုရန်
+View Release,View Release
+Visibility,မြင်နိုင်မှု
+Waiting for this task,ဤလုပ်ငန်းကို စောင့်နေသည်
+Waits for:,စောင့်နေသည်:
+Warning: Resource {0} status is {1},သတိပေးချက်: အရင်းအမြစ် {0} ၏ အခြေအနေမှာ {1} ဖြစ်သည်
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,သတိပေးချက်: HTTPS အစား HTTP အသုံးပြုနေသည်။ Webhook ဒေတာများ လုံခြုံမှုမရှိနိုင်ပါ။
+Watch budget closely,ဘတ်ဂျက်ကို အနီးကပ် စောင့်ကြည့်ရန်
+We'll respond to:,ကျွန်ုပ်တို့ ပြန်ကြားပါမည်:
+Webhook deleted,Webhook ဖျက်ပြီး
+Webhook name is required,Webhook အမည် လိုအပ်ပါသည်
+Webhook not found,Webhook မတွေ့ပါ
+Webhook URL is required,Webhook URL လိုအပ်ပါသည်
+Webhook URL must start with http:// or https://,Webhook URL သည် http:// သို့မဟုတ် https:// ဖြင့် စတင်ရပါမည်
+Wed,ဗုဒ္ဓဟူး
+Week,အပတ်
+Weekend,အပတ်ကုန်
+Weekly Capacity,အပတ်စဉ် စွမ်းရည်
+weekly capacity,အပတ်စဉ် စွမ်းရည်
+Weekly Capacity (h),အပတ်စဉ် စွမ်းရည် (နာ)
+Welcome,ကြိုဆိုပါသည်
+Welcome back!,ပြန်လည်ကြိုဆိုပါသည်!
+Welcome to Orga,Orga မှ ကြိုဆိုပါသည်
+What are you working on?,ဘာလုပ်နေပါသလဲ?
+What did you work on?,ဘာလုပ်ခဲ့ပါသလဲ?
+When,အချိန်
+When work begins,အလုပ်စတင်သည့်အခါ
+When work is due,အလုပ်သတ်မှတ်ရက်ရောက်သည့်အခါ
+Where,နေရာ
+Will capture:,သိမ်းဆည်းမည်:
+Will create:,ဖန်တီးမည်:
+with checklist items,စစ်ဆေးရန်စာရင်း အကြောင်းအရာများနှင့်
+Working,အလုပ်လုပ်နေ
+Workload,အလုပ်ဝန်
+Workmanship,လက်ရာ
+Write a comment...,မှတ်ချက် ရေးပါ...
+Write a comment... Use @name to mention (Ctrl+Enter to send),မှတ်ချက် ရေးပါ... ရည်ညွှန်းရန် @name သုံးပါ (ပို့ရန် Ctrl+Enter)
+Year,နှစ်
+Yes,ဟုတ်ကဲ့
+Yesterday,မနေ့က
+yesterday,မနေ့က
+You are not an attendee of this appointment,သင်သည် ဤချိန်းဆိုမှု၏ တက်ရောက်သူ မဟုတ်ပါ
+You are not linked to any resource,သင်သည် မည်သည့်အရင်းအမြစ်နှင့်မှ ချိတ်ဆက်မထားပါ
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,သင့်ကိုယ်ပိုင်မှတ်ချက်များကိုသာ ဖျက်နိုင်ပါသည်
+You can only delete your own reactions,သင့်ကိုယ်ပိုင်တုံ့ပြန်မှုများကိုသာ ဖျက်နိုင်ပါသည်
+You do not have access to the client portal. Please contact support.,သင့်တွင် ဖောက်သည် ပေါ်တယ် ဝင်ရောက်ခွင့် မရှိပါ။ ပံ့ပိုးကူညီရေးကို ဆက်သွယ်ပါ။
+You have already reacted with '{0}',သင် '{0}' ဖြင့် တုံ့ပြန်ပြီးသားဖြစ်သည်
+You have been assigned to task '{0}' in project '{1}'.,ပရောဂျက် '{1}' ရှိ လုပ်ငန်း '{0}' ကို သင့်ထံ တာဝန်ပေးပြီးပါပြီ။
+You have been assigned to: {0},သင့်ထံ တာဝန်ပေးပြီးပါပြီ: {0}
+You have been invited to the following appointment,အောက်ပါ ချိန်းဆိုမှုသို့ သင့်ကို ဖိတ်ကြားထားပါသည်
+You have no tasks assigned to you right now.,သင့်ထံ ယခုအချိန်တွင် တာဝန်ပေးထားသော လုပ်ငန်း မရှိပါ။
+You were mentioned in {0},သင့်ကို {0} တွင် ရည်ညွှန်းခဲ့ပါသည်
+Your attendance,သင့် တက်ရောက်မှု
+Your comment has been posted,သင့်မှတ်ချက် တင်ပြီးပါပြီ
+Your Projects,သင့် ပရောဂျက်များ
+Your projects will appear here once they're assigned to you.,သင့်ထံ တာဝန်ပေးပြီးသည်နှင့် သင့်ပရောဂျက်များ ဤနေရာတွင် ပေါ်လာပါမည်။
+Your Response,သင့် တုံ့ပြန်ချက်
+Your RSVP,သင့် RSVP
+Your support request has been submitted successfully.,သင့် ပံ့ပိုးကူညီရေး တောင်းဆိုချက် အောင်မြင်စွာ တင်သွင်းပြီးပါပြီ။
+Your support request has been submitted successfully. We'll get back to you shortly.,သင့် ပံ့ပိုးကူညီရေး တောင်းဆိုချက် အောင်မြင်စွာ တင်သွင်းပြီးပါပြီ။ မကြာမီ ပြန်လည်ဆက်သွယ်ပါမည်။
+"Your task ""{0}"" is no longer blocked and can now be started.","သင့်လုပ်ငန်း ""{0}"" သည် ပိတ်ဆို့ထားခြင်း မရှိတော့ပါ၊ ယခု စတင်နိုင်ပါပြီ။"
+{0} is required,{0} လိုအပ်ပါသည်
+{0} new activities,လုပ်ဆောင်ချက်အသစ် {0} ခု
+{0} of {1} completed,{1} အနက် {0} ပြီးဆုံးပြီ
+{0} projects already migrated (will be skipped or updated),ပရောဂျက် {0} ခု ပြောင်းရွှေ့ပြီးသား (ကျော်လွှားမည် သို့မဟုတ် အပ်ဒိတ်မည်)
+{0} status changed to {1},{0} အခြေအနေကို {1} သို့ ပြောင်းလဲပြီး
+{0} tasks remaining,လုပ်ငန်း {0} ခု ကျန်ရှိ
+{0} tasks without projects will be skipped,ပရောဂျက်မရှိသော လုပ်ငန်း {0} ခု ကျော်လွှားပါမည်
+{0} {1} not found,{0} {1} မတွေ့ပါ

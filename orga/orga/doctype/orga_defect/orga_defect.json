@@ -1,0 +1,229 @@
+{
+  "actions": [],
+  "allow_rename": 1,
+  "autoname": "DEF-.#####",
+  "creation": "2026-02-11 12:00:00.000000",
+  "doctype": "DocType",
+  "engine": "InnoDB",
+  "field_order": [
+    "title",
+    "contact",
+    "column_break_1",
+    "project",
+    "task",
+    "section_classification",
+    "defect_type",
+    "severity",
+    "column_break_class",
+    "status",
+    "section_dates",
+    "reported_date",
+    "resolved_date",
+    "column_break_dates",
+    "reported_by",
+    "section_cost",
+    "cost_estimate",
+    "actual_cost",
+    "section_details",
+    "description",
+    "resolution_notes",
+    "section_attachments",
+    "photos"
+  ],
+  "fields": [
+    {
+      "fieldname": "title",
+      "fieldtype": "Data",
+      "in_list_view": 1,
+      "in_standard_filter": 1,
+      "label": "Title",
+      "reqd": 1
+    },
+    {
+      "fieldname": "contact",
+      "fieldtype": "Link",
+      "in_list_view": 1,
+      "in_standard_filter": 1,
+      "label": "Contact",
+      "options": "Orga Resource",
+      "reqd": 1
+    },
+    {
+      "fieldname": "column_break_1",
+      "fieldtype": "Column Break"
+    },
+    {
+      "fieldname": "project",
+      "fieldtype": "Link",
+      "in_list_view": 1,
+      "in_standard_filter": 1,
+      "label": "Project",
+      "options": "Orga Project"
+    },
+    {
+      "fieldname": "task",
+      "fieldtype": "Link",
+      "label": "Task",
+      "options": "Orga Task"
+    },
+    {
+      "fieldname": "section_classification",
+      "fieldtype": "Section Break",
+      "label": "Classification"
+    },
+    {
+      "default": "Workmanship",
+      "fieldname": "defect_type",
+      "fieldtype": "Select",
+      "in_standard_filter": 1,
+      "label": "Defect Type",
+      "options": "Workmanship\nMaterial\nSafety\nCompliance\nOther",
+      "reqd": 1
+    },
+    {
+      "default": "Medium",
+      "fieldname": "severity",
+      "fieldtype": "Select",
+      "in_list_view": 1,
+      "in_standard_filter": 1,
+      "label": "Severity",
+      "options": "Low\nMedium\nHigh\nCritical",
+      "reqd": 1
+    },
+    {
+      "fieldname": "column_break_class",
+      "fieldtype": "Column Break"
+    },
+    {
+      "default": "Open",
+      "fieldname": "status",
+      "fieldtype": "Select",
+      "in_list_view": 1,
+      "in_standard_filter": 1,
+      "label": "Status",
+      "options": "Open\nIn Progress\nResolved\nClosed",
+      "reqd": 1
+    },
+    {
+      "fieldname": "section_dates",
+      "fieldtype": "Section Break",
+      "label": "Dates"
+    },
+    {
+      "default": "Today",
+      "fieldname": "reported_date",
+      "fieldtype": "Date",
+      "label": "Reported Date",
+      "reqd": 1
+    },
+    {
+      "fieldname": "resolved_date",
+      "fieldtype": "Date",
+      "label": "Resolved Date"
+    },
+    {
+      "fieldname": "column_break_dates",
+      "fieldtype": "Column Break"
+    },
+    {
+      "default": "__user",
+      "fieldname": "reported_by",
+      "fieldtype": "Link",
+      "label": "Reported By",
+      "options": "User"
+    },
+    {
+      "fieldname": "section_cost",
+      "fieldtype": "Section Break",
+      "label": "Cost Impact"
+    },
+    {
+      "fieldname": "cost_estimate",
+      "fieldtype": "Currency",
+      "label": "Estimated Cost"
+    },
+    {
+      "fieldname": "actual_cost",
+      "fieldtype": "Currency",
+      "label": "Actual Cost"
+    },
+    {
+      "fieldname": "section_details",
+      "fieldtype": "Section Break",
+      "label": "Details"
+    },
+    {
+      "fieldname": "description",
+      "fieldtype": "Text Editor",
+      "label": "Description"
+    },
+    {
+      "fieldname": "resolution_notes",
+      "fieldtype": "Text Editor",
+      "label": "Resolution Notes"
+    },
+    {
+      "collapsible": 1,
+      "fieldname": "section_attachments",
+      "fieldtype": "Section Break",
+      "label": "Photos / Evidence"
+    },
+    {
+      "fieldname": "photos",
+      "fieldtype": "Attach Image",
+      "label": "Photo"
+    }
+  ],
+  "index_web_pages_for_search": 1,
+  "links": [],
+  "modified": "2026-02-11 12:00:00.000000",
+  "modified_by": "Administrator",
+  "module": "Orga",
+  "name": "Orga Defect",
+  "naming_rule": "Expression",
+  "owner": "Administrator",
+  "permissions": [
+    {
+      "create": 1,
+      "delete": 1,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "System Manager",
+      "share": 1,
+      "write": 1
+    },
+    {
+      "create": 1,
+      "delete": 1,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "Orga Manager",
+      "share": 1,
+      "write": 1
+    },
+    {
+      "create": 1,
+      "delete": 0,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "Orga User",
+      "share": 0,
+      "write": 1
+    }
+  ],
+  "search_fields": "title,contact,project",
+  "sort_field": "reported_date",
+  "sort_order": "DESC",
+  "states": [],
+  "title_field": "title",
+  "track_changes": 1
+}

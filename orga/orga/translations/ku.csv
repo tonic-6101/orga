@@ -1,0 +1,1492 @@
++ Add Milestone,+ Qonaxa Girîng Zêde Bike
++ Create Task,+ Peywir Biafirîne
++ Log Time,+ Dem Tomar Bike
+-- Select a project --,-- Projeyekê hilbijêre --
+0m,0d
+1 day,1 roj
+1 day ago,1 roj berê
+1 dependency,1 pêwendî
+1 entry,1 tomar
+1 file,1 dosye
+1 hour ago,1 saet berê
+1 member,1 endam
+1 milestone,1 qonaxa girîng
+1 month,1 meh
+1 task,1 peywir
+< 1m,< 1d
+"A clear, actionable title for the task",Sernivîsek zelal û pêkanîn ji bo peywirê
+A client with email {0} already exists: {1},Xerîdarek bi e-nameyê {0} jixwe heye: {1}
+A key deliverable or checkpoint for the project,Encamek sereke an xala kontrolê ya projeyê
+Accept,Qebûl Bike
+Accepted,Hatiye qebûlkirin
+Acknowledge,Pejirandin
+across,li seranserê
+Action,Çalakî
+Actions,Çalakî
+Active,Çalak
+Active Assignments,Peywirkirinên Çalak
+Active Projects,Projeyên Çalak
+Activity,Çalakî
+Activity data deleted successfully,Daneyên çalakiyê bi serkeftî hatin jêbirin
+Activity Info,Agahiyên Çalakiyê
+Activity Stats,Amarên Çalakiyê
+Activity will appear here as you work on tasks and projects.,Çalakî dê li vir xuya bibe gava hûn li ser peywir û projeyan dixebitin.
+Actual,Rastî
+Actual Cost,Lêçûna Rastî
+Actual cost cannot be negative,Lêçûna rastî nikare neyînî be
+Actual end date cannot be before actual start date,Dîroka dawiya rastî nikare berî dîroka destpêka rastî be
+Actual Hours,Saetên Rastî
+Add,Zêde Bike
+Add a checklist item...,Babeteke lîsteyê zêde bike...
+Add a comment...,Şîroveyekê zêde bike...
+Add a comment... (Ctrl+Enter to send),Şîroveyekê zêde bike... (Ctrl+Enter ji bo şandinê)
+Add a description...,Danasînekê zêde bike...
+Add a milestone description...,Danasîna qonaxa girîng zêde bike...
+Add a note below to annotate this activity.,Li jêr notekê zêde bike ji bo şîrovekirina vê çalakiyê.
+Add a note...,Notekê zêde bike...
+Add a project description...,Danasîna projeyê zêde bike...
+Add a task description...,Danasîna peywirê zêde bike...
+Add checklist item...,Babeteke lîsteyê zêde bike...
+Add Contact,Têkiliyê Zêde Bike
+Add contacts via the Desk interface or clear filters,Têkiliyan bi riya navbera Desk-ê zêde bike an fîltreyan paqij bike
+Add Dependency,Pêwendiyê Zêde Bike
+Add details about this event...,Hûrguliyên vê bûyerê zêde bike...
+Add details about this milestone...,Hûrguliyên vê qonaxa girîng zêde bike...
+Add details about this task...,Hûrguliyên vê peywirê zêde bike...
+Add details or acceptance criteria for this milestone,Hûrgulî an pîvanên qebûlkirinê ji bo vê qonaxa girîng zêde bike
+"Add details, context, or acceptance criteria","Hûrgulî, çarçove, an pîvanên qebûlkirinê zêde bike"
+Add first dependency,Pêwendiya yekem zêde bike
+Add item,Babetê zêde bike
+Add items below to track progress.,Li jêr babetan zêde bike ji bo şopandina pêşveçûnê.
+Add items below to track subtasks,Li jêr babetan zêde bike ji bo şopandina bin-peywiran
+Add Milestone,Qonaxa Girîng Zêde Bike
+Add Milestone (Shift+M),Qonaxa Girîng Zêde Bike (Shift+M)
+Add milestones to track key deliverables.,Qonaxên girîng zêde bike ji bo şopandina encamên sereke.
+Add New Contact,Têkiliya Nû Zêde Bike
+Add Note,Notê Zêde Bike
+Add note,Notê zêde bike
+Add notes about this contact...,Notên derbarê vê têkiliyê zêde bike...
+Add reaction,Bertêkê zêde bike
+Add Skill,Jêhatiyê Zêde Bike
+Add start and due dates to tasks to see them on the Gantt chart,Dîrokên destpêk û dawî li peywiran zêde bike da ku wan li ser nexşeya Gantt bibînin
+Add Task,Peywir Zêde Bike
+Add Task (Shift+T),Peywir Zêde Bike (Shift+T)
+Added Finish-to-Start dependency,Pêwendiya Dawî-bo-Destpêk hat zêdekirin
+Adding this dependency would create a circular reference: {0},Zêdekirina vê pêwendiyê dê referanseke dorveger biafirîne: {0}
+Adding...,Tê zêdekirin...
+Address,Navnîşan
+Advanced,Pêşketî
+All,Hemû
+All Active,Hemû yên Çalak
+All Assignees,Hemû Peywirdar
+All Categories,Hemû Kategorî
+All caught up!,Tu tişt nayê!
+All Contexts,Hemû Çarçove
+All day,Tevahiya rojê
+All day event,Bûyera tevahiya rojê
+All fields,Hemû qad
+All Priorities,Hemû Pêşînî
+All Projects,Hemû Proje
+All Status,Hemû Rewş
+All Statuses,Hemû Rewş
+All task dependencies & relative dates,Hemû pêwendiyên peywirê û dîrokên têkildar
+All Tasks,Hemû Peywir
+All tasks across all projects.,Hemû peywirên li seranserê hemû projeyan.
+All tasks are already linked,Hemû peywir jixwe girêdayî ne
+All team members,Hemû endamên tîmê
+All Types,Hemû Cure
+All Users,Hemû Bikarhêner
+Allocated,Veqetandî
+allocated,veqetandî
+Allow users to log time against tasks,Destûrê bide bikarhêneran ku demê li hember peywiran tomar bikin
+Already exported to timesheet {0},Berê hatiye hinardekirin bo tabloya demê {0}
+Already Migrated,Berê hatiye koçkirin
+Anyone with access,Her kesê ku gihîştina wî heye
+anytime to show this help,her dem ji bo nîşandana vê alîkariyê
+App Updates,App Updates
+Appearance,Xuyabûn
+Apply,Bicîh Bîne
+Apply cascade?,Cascade bicîh bîne?
+Apply Changes,Guhertinan Bicîh Bîne
+Apply failed,Bicîhkirin têk çû
+Apply Template,Şablonê Bicîh Bîne
+Applying...,Tê bicîhkirin...
+Appointment,Randevû
+Appointment and resource are required,Randevû û çavkanî pêwîst in
+Appointment name is required,Navê randevûyê pêwîst e
+Appointment not found,Randevû nehat dîtin
+Appointment {0} not found,Randevûya {0} nehat dîtin
+Apps,Serlêdan
+Archive,Arşîv
+Archive Activity,Çalakiyê Arşîv Bike
+Archived,Hatiye arşîvkirin
+Are you sure you want to delete this activity data? This cannot be undone.,Ma hûn bawer in ku hûn dixwazin van daneyên çalakiyê jêbibin? Ev nayê vegerandin.
+Are you sure you want to delete this comment?,Ma hûn bawer in ku hûn dixwazin vê şîroveyê jêbibin?
+Are you sure you want to delete this project?,Ma hûn bawer in ku hûn dixwazin vê projeyê jêbibin?
+Are you sure?,Ma hûn bawer in?
+Ascending -- click to reverse,Hilkişîn -- bikirtînin ji bo berevajîkirinê
+Assign To,Peywir Bike Ji
+Assign to Me,Ji Min Re Peywir Bike
+Assigned Contact,Têkiliya Peywirkirî
+Assigned To,Peywirkirî Ji
+Assigned to,Peywirkirî ji
+Assigned to Me,Ji Min Re Peywirkirî
+Assignee,Peywirdar
+Assignment,Peywirkirin
+Assignment History,Dîroka Peywirkirinê
+Assignment name is required,Navê peywirkirinê pêwîst e
+Assignment {0} not found,Peywirkirina {0} nehat dîtin
+Assignments,Peywirkirin
+At least one action is required,Bi kêmanî yek çalakî pêwîst e
+At least one event is required,Bi kêmanî yek bûyer pêwîst e
+At least one event must be selected,Bi kêmanî divê yek bûyer were hilbijartin
+Attachment,Pêvek
+Attachments,Pêvek
+Attendees,Beşdaran
+"Audit trail, assignments, version history","Şopandina kontrolê, peywirkirin, dîroka guhertoyan"
+Auto,Otomatîk
+Auto Calculate Progress,Pêşveçûnê Otomatîk Hesab Bike
+Auto Set Missed Milestones,Qonaxên Girîng ên Derbasbûyî Otomatîk Destnîşan Bike
+Auto-shift dependents when dates change,Pêwendîdaran otomatîk biguhêze dema dîrok diguherin
+Auto-Trail Start,Destpêka Şop-Otomatîk
+Auto-Trail updated,Şop-Otomatîk hat nûkirin
+Automatically calculate project progress from task completion,Pêşveçûna projeyê otomatîk ji temamkirina peywiran hesab bike
+Automatically mark milestones as missed when overdue,Qonaxên girîng otomatîk wekî derbasbûyî nîşan bike dema ku dereng in
+Automation rule {0} not found,Rêgeza otomasyonê {0} nehat dîtin
+Automation: {0},Otomasyon: {0}
+Availability,Berdestbûn
+Available,Berdest
+Avatar updated successfully,Wêne bi serkeftî hat nûkirin
+Avg Progress,Pêşveçûna Navîn
+Back,Paş
+Back to Portal,Vegere Portalê
+Back to Projects,Vegere Projeyan
+Beginner,Destpêker
+Best regards,Silav û rêz
+Billable,Fatûrekirî
+Billable Amount,Mîqdara Fatûrekirî
+Billable Hours,Saetên Fatûrekirî
+Billable Rate,Rêjeya Fatûrekirinê
+Billing Rate,Rêjeya Fatûrekirinê
+Blocked,Astengkirî
+Both dates are needed to display task as a bar in Gantt chart,Her du dîrok pêwîst in ji bo nîşandana peywirê wekî barikê di nexşeya Gantt de
+Both doctype and docname are required,Her du doctype û docname pêwîst in
+Both proposed start and end times are required,Her du demên destpêk û dawiyê yên pêşniyarkirî pêwîst in
+Both task_name and depends_on are required,Her du task_name û depends_on pêwîst in
+Breadcrumb,Rêça Navîgasyonê
+Brief description of the defect or damage,Danasîna kurt ya kêmasî an zirarê
+Brief description of this template,Danasîna kurt ya vê şablonê
+Brief description of your request,Danasîna kurt ya daxwaza we
+Brief project description,Danasîna kurt ya projeyê
+Budget,Budce
+Budget at risk,Budce di xetereyê de
+Budget Burn Rate,Rêjeya Xercekirina Budceyê
+Budget Status,Rewşa Budceyê
+Budget updated,Budce hat nûkirin
+Budget:,Budce:
+Bug,Çewtî
+Burn Rate,Rêjeya Xercekirinê
+Busy,Mijûl
+By,Ji aliyê
+By Assignee,Li Gor Peywirdar
+By Group,Li Gor Komê
+By Milestone,Li Gor Qonaxa Girîng
+By Priority,Li Gor Pêşîniyê
+By Status,Li Gor Rewşê
+Cancel,Betal Bike
+Cancelled,Hatiye betalkirin
+cannot be undone,nayê vegerandin
+Cannot delete client with {0} linked projects. Unlink projects first.,Xerîdarê bi {0} projeyên girêdayî nayê jêbirin. Pêşî projeyan veqetînin.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Projeya bi {0} peywirên girêdayî nayê jêbirin. Pêşî peywiran jêbibin.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Çavkaniya bi {0} peywirkirinên çalak nayê jêbirin. Pêşî wan temam an betal bikin.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Peywira bi {0} bin-peywiran nayê jêbirin. Pêşî bin-peywiran jêbibin.
+Capacity,Kapasîte
+capacity,kapasîte
+Capacity & Rates,Kapasîte û Rêje
+Capture project structure for reuse,Avahiya projeyê ji bo karanîna dîsa tomar bike
+Cascade,Cascade
+Cascade Preview,Pêşdîtina Cascade
+Category,Kategorî
+Celebrate,Pîrozkirin
+Change,Biguherîne
+Change History,Dîroka Guhertinan
+Change Priority,Pêşîniyê Biguherîne
+Change Status,Rewşê Biguherîne
+Changes,Guhertin
+Changes appear when fields are modified.,Guhertin dema ku qad têne guherandin xuya dibin.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Lîsteya Kontrolê
+Checklist item name is required,Navê babetê lîsteyê pêwîst e
+Checklist item not found,Babetê lîsteyê nehat dîtin
+Checklist item title is required,Sernivîsa babetê lîsteyê pêwîst e
+Checklist item {0} not found,Babetê lîsteyê {0} nehat dîtin
+Checklist item {0} not found in task,Babetê lîsteyê {0} di peywirê de nehat dîtin
+Child,Zarok
+Choose file to upload,Dosyeyê ji bo barkirinê hilbijêre
+Circular dependency detected: {0},Pêwendiya dorveger hat dîtin: {0}
+Circular parent-child relationship detected,Têkiliya dorveger a dê-zarok hat dîtin
+Clear,Paqij Bike
+Clear all read,Hemû xwendiyan paqij bike
+Clear date,Dîrokê paqij bike
+Click on an activity from the list to view and manage its details.,Li çalakiyekê ji lîsteyê bikirtînin da ku hûrguliyên wê bibînin û birêve bibin.
+Click the avatar to upload a new photo,Li wêneyê bikirtînin ji bo barkirina wêneyeke nû
+Click to add description...,Bikirtînin ji bo zêdekirina danasînê...
+Click to add notes...,Bikirtînin ji bo zêdekirina notan...
+Click to assign contact,Bikirtînin ji bo peywirkirina têkiliyê
+Click to change status,Bikirtînin ji bo guherandina rewşê
+Click to change type,Bikirtînin ji bo guherandina cureyê
+Click to edit,Bikirtînin ji bo sererastkirinê
+Click to edit budget,Bikirtînin ji bo sererastkirina budceyê
+Click to edit description,Bikirtînin ji bo sererastkirina danasînê
+Click to edit end date,Bikirtînin ji bo sererastkirina dîroka dawiyê
+Click to edit milestone name,Bikirtînin ji bo sererastkirina navê qonaxa girîng
+Click to edit rate,Bikirtînin ji bo sererastkirina rêjeyê
+Click to edit start date,Bikirtînin ji bo sererastkirina dîroka destpêkê
+Click to edit title,Bikirtînin ji bo sererastkirina sernivîsê
+Click to load,Bikirtînin ji bo barkirinê
+Click to set group dependency...,Bikirtînin ji bo destnîşankirina pêwendiya komê...
+Click to set group...,Bikirtînin ji bo destnîşankirina komê...
+Click to view,Bikirtînin ji bo dîtinê
+Click to view at-risk projects,Bikirtînin ji bo dîtina projeyên di xetereyê de
+Click to view critical projects,Bikirtînin ji bo dîtina projeyên krîtîk
+Click to view healthy projects,Bikirtînin ji bo dîtina projeyên saxlem
+Client,Xerîdar
+Client already has a portal user: {0},Xerîdar jixwe bikarhênerê portalê heye: {0}
+Client already has portal access,Xerîdar jixwe gihîştina portalê heye
+Client has no portal user to revoke,Xerîdar bikarhênerê portalê tune ku were betalkirin
+Client link removed from project {0},Girêdana xerîdar ji projeya {0} hat rakirin
+Client Portal,Portala Xerîdaran
+Client {0} deleted successfully,Xerîdarê {0} bi serkeftî hat jêbirin
+Close,Bigire
+Close (Esc),Bigire (Esc)
+Comment,Şîrove
+comment,şîrove
+Comment added,Şîrove hat zêdekirin
+Comment content is required,Naveroka şîroveyê pêwîst e
+Comment name is required,Navê şîroveyê pêwîst e
+Comment not found,Şîrove nehat dîtin
+Comment removed,Şîrove hat rakirin
+Comment {0} not found in task,Şîroveya {0} di peywirê de nehat dîtin
+Comments,Şîrove
+comments,şîrove
+Community Edition,Community Edition
+Company,Pargîdanî
+Company name...,Navê pargîdaniyê...
+Complete,Temam Bike
+Completed,Temamkirî
+completed,temamkirî
+Completed Tasks,Peywirên Temamkirî
+Compliance,Lihevhatinî
+Configure default values for new projects and tasks,Nirxên pêşwext ji bo proje û peywirên nû mîheng bike
+Configure email notification settings,Mîhengên agahdariya e-nameyê mîheng bike
+Confirm,Piştrast Bike
+Contact deleted,Têkilî hat jêbirin
+Contact Details,Hûrguliyên Têkiliyê
+Contact Information,Agahiyên Têkiliyê
+Contact name is required,Navê têkiliyê pêwîst e
+Contact Support,Bi Piştgiriyê Re Têkilî Daynin
+Contact your project manager for more information.,Ji bo bêtir agahî bi rêvebirê projeya xwe re têkilî daynin.
+Contact:,Têkilî:
+Contacts,Têkilî
+Context,Çarçove
+Contractor,Peymankar
+Cost estimate cannot be negative,Texmîna lêçûnê nikare neyînî be
+Cost Impact,Bandora Lêçûnê
+Cost Summary,Kurteya Lêçûnê
+Could not apply the template. Please try again.,Şablon nehat bicîhkirin. Ji kerema xwe dîsa biceribînin.
+Could not attach file to project,Dosye nehat girêdan bi projeyê re
+Could not change task priority,Pêşîniya peywirê nehat guherandin
+Could not change task status,Rewşa peywirê nehat guherandin
+Could not delete the project. Please try again.,Proje nehat jêbirin. Ji kerema xwe dîsa biceribînin.
+Could not delete the task. Please try again.,Peywir nehat jêbirin. Ji kerema xwe dîsa biceribînin.
+Could not delete the template.,Şablon nehat jêbirin.
+Could not duplicate the task. Please try again.,Peywir nehat dubarekirin. Ji kerema xwe dîsa biceribînin.
+Could not export the template.,Şablon nehat hinardekirin.
+Could not import the template. Please check the file format.,Şablon nehat hawirdekirin. Ji kerema xwe formata dosyeyê kontrol bikin.
+Could not link task to milestone,Peywir nehat girêdan bi qonaxa girîng re
+Could not load document details.,Hûrguliyên belgeyê nehatin barkirin.
+Could not load task details,Hûrguliyên peywirê nehatin barkirin
+Could not promote checklist item to task.,Babetê lîsteyê nehat pêşxistin bo peywirê.
+Could not remove task from milestone,Peywir ji qonaxa girîng nehat rakirin
+Could not save budget.,Budce nehat tomarkirin.
+Could not save changes to the milestone,Guherandinên qonaxa girîng nehatin tomarkirin
+Could not save changes to the task,Guherandinên peywirê nehatin tomarkirin
+Could not save description.,Danasîn nehat tomarkirin.
+Could not save end date.,Dîroka dawiyê nehat tomarkirin.
+Could not save milestone name.,Navê qonaxa girîng nehat tomarkirin.
+Could not save start date.,Dîroka destpêkê nehat tomarkirin.
+Could not save the template. Please try again.,Şablon nehat tomarkirin. Ji kerema xwe dîsa biceribînin.
+Could not save title.,Sernivîs nehat tomarkirin.
+Could not update dependency mode.,Moda pêwendiyê nehat nûkirin.
+Could not update milestone date,Dîroka qonaxa girîng nehat nûkirin
+Could not update project status.,Rewşa projeyê nehat nûkirin.
+Could not update project type.,Cureyê projeyê nehat nûkirin.
+Could not update setting.,Mîheng nehat nûkirin.
+Could not update task dates,Dîrokên peywirê nehatin nûkirin
+Could not update task status,Rewşa peywirê nehat nûkirin
+Could not update the template.,Şablon nehat nûkirin.
+Create a copy of this task,Kopiyeke vê peywirê biafirîne
+Create Contact,Têkiliyê Biafirîne
+Create Event,Bûyerê Biafirîne
+Create Milestone,Qonaxa Girîng Biafirîne
+Create New Milestone,Qonaxa Girîng a Nû Biafirîne
+Create New Task,Peywira Nû Biafirîne
+Create Project,Projeyê Biafirîne
+Create Task,Peywirê Biafirîne
+Create tasks and milestones from a template,Peywir û qonaxên girîng ji şablonê biafirîne
+Create your first project to get started.,Projeya xwe ya yekem biafirînin da ku dest pê bikin.
+Create your first task to start tracking work on this project.,Peywira xwe ya yekem biafirînin da ku şopandina karê li ser vê projeyê dest pê bikin.
+Created,Hatiye afirandin
+Creating...,Tê afirandin...
+Critical,Krîtîk
+Critical Path,Rêya Krîtîk
+"Currency used for budgets, costs, and billing rates","Diravê ku ji bo budce, lêçûn, û rêjeyên fatûrekirinê tê bikaranîn"
+Current,Niha
+Current Assignments,Peywirkirinên Niha
+Current scheduled time:,Dema plansazkirî ya niha:
+Currently running version,Currently running version
+d lag,roj dereng
+Daily Availability,Berdestbûna Rojane
+Daily Hours,Saetên Rojane
+Danger Zone,Qada Xeternak
+Dark,Tarî
+Dashboard,Dashboard
+Date,Dîrok
+Date changes on this task will show cascade impact here,Guherandinên dîrokê yên li ser vê peywirê dê bandora cascade li vir nîşan bidin
+Date cleared,Dîrok hat paqijkirin
+Date of Joining,Dîroka Tev Lêbûnê
+Date updated,Dîrok hat nûkirin
+Dates,Dîrok
+Dates cascaded,Dîrok hatin cascade kirin
+Dates will be relative to the project's start date.,Dîrok dê li gorî dîroka destpêka projeyê bin.
+Day,Roj
+day,roj
+days,roj
+Days before due date to send reminder,Rojên berî dîroka dawî ji bo şandina bîranînê
+Days Overdue,Rojên Derengmayî
+Days Remaining,Rojên Mane
+Deadline,Dîroka Dawî
+Deadlines,Dîrokên Dawî
+Decision,Biryar
+Decline,Red Bike
+Declined,Hatiye redkirin
+Default Currency,Diravê Pêşwext
+Default hours per week for contact capacity planning,Saetên pêşwext ên heftanê ji bo plansaziya kapasîteya têkiliyê
+Default Priority,Pêşîniya Pêşwext
+Default Project Status,Rewşa Pêşwext a Projeyê
+Default Task Status,Rewşa Pêşwext a Peywirê
+Default task view,Dîtina pêşwext a peywirê
+Default Values,Nirxên Pêşwext
+Default Weekly Capacity,Kapasîteya Heftanê ya Pêşwext
+Defaults,Pêşwext
+Defect Cost Impact,Bandora Lêçûna Kêmasiyê
+Defect name is required,Navê kêmasiyê pêwîst e
+Defect Type,Cureyê Kêmasiyê
+Defect {0} not found,Kêmasiya {0} nehat dîtin
+Defects,Kêmasî
+Defects & Issues,Kêmasî û Pirsgirêk
+Defects Resolved,Kêmasiyên Çareserkirî
+Delayed,Derengmayî
+Delete,Jêbibe
+Delete Activity Data,Daneyên Çalakiyê Jêbibe
+Delete all read notifications?,Hemû agahdariyên xwendî jêbibin?
+Delete comment,Şîroveyê jêbibe
+Delete Contact,Têkiliyê Jêbibe
+Delete Event,Bûyerê Jêbibe
+Delete Event?,Bûyerê jêbibin?
+Delete failed,Jêbirin têk çû
+Delete file,Dosyeyê jêbibe
+Delete item,Babetê jêbibe
+Delete note,Notê jêbibe
+Delete Project,Projeyê Jêbibe
+Delete Task,Peywirê Jêbibe
+Delete this project,Vê projeyê jêbibe
+Deleted,Hatiye jêbirin
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Projeya ""{0}"" hat jêbirin ({1} peywir, {2} qonaxên girîng)"
+Deletes notes and preferences. Source document is not affected.,Not û tercîhan jê dibe. Belgeya çavkaniyê bandor nabe.
+Deleting...,Tê jêbirin...
+Department,Beş
+Dependencies,Pêwendî
+dependencies,pêwendî
+Dependencies are informational only,Pêwendî tenê ji bo agahdariyê ne
+dependency,pêwendî
+Dependency already exists,Pêwendî jixwe heye
+Dependency Chain,Zincîra Pêwendiyê
+Dependency created,Pêwendî hat afirandin
+Dependency mode updated,Moda pêwendiyê hat nûkirin
+Dependency name is required,Navê pêwendiyê pêwîst e
+Dependency task {0} not found,Peywira pêwendiyê {0} nehat dîtin
+Dependency {0} not found,Pêwendiya {0} nehat dîtin
+depends,pêwendî ye
+Depends on Group,Pêwendî bi Komê
+Depends on task is required,Peywira pêwendiyê pêwîst e
+depends on...,pêwendî bi...
+Descending -- click to reverse,Daketinî -- bikirtînin ji bo berevajîkirinê
+Describe the defect in detail...,Kêmasiyê bi hûrgulî diyar bikin...
+Description,Danasîn
+Description updated,Danasîn hat nûkirin
+Designation,Pileya Karî
+"Detailed description of the defect, location, and impact","Danasîna hûrgulî ya kêmasiyê, cih, û bandorê"
+Details,Hûrgulî
+Discard timer,Demjimêrê bavêje
+Discussion,Nîqaş
+Dismiss,Dismiss
+Display,Nîşandan
+Document,Belge
+Document attached to project,Belge bi projeyê re hat girêdan
+Document final decision and rationale,Biryara dawî û sedemê tomar bike
+Documentation Review,Lêkolîna Belgeyan
+Documents,Belge
+Done,Qediya
+Download,Daxistin
+Drag to create dependency,Bikişînin ji bo afirandina pêwendiyê
+Dry Run,Ceribandin
+Dry Run Complete,Ceribandin Temam Bû
+Due Date,Dîroka Dawî
+Due date,Dîroka dawî
+Due Date (Earliest),Dîroka Dawî (Zûtirîn)
+Due date cannot be before start date,Dîroka dawî nikare berî dîroka destpêkê be
+Due date is in the past,Dîroka dawî di boriyê de ye
+Due Date Reminders,Bîranînên Dîroka Dawî
+Due Diligence,Lêkolîna Hûrgulî
+Due Diligence Checklist,Lîsteya Kontrolê ya Lêkolîna Hûrgulî
+Due This Week,Vê Hefteyê Diqede
+Due:,Dîroka Dawî:
+Duplicate events are not allowed,Bûyerên dubare nayên destûrkirin
+Duplicate failed,Dubarekirin têk çû
+Duplicate Task,Peywirê Dubare Bike
+Duration,Dirêjahî
+Duration Summary,Kurteya Dirêjahiyê
+Duration:,Dirêjahî:
+e.g. Cracked wall finish in bathroom...,mînak: Çiriyandina dîwarê di serşokê de...
+"e.g. Electrical, Plumbing...","mînak: Elektrîk, Tesîsat..."
+Edit,Sererast Bike
+Edit (E),Sererast Bike (E)
+Edit dependency,Pêwendiyê sererast bike
+Edit Event,Bûyerê Sererast Bike
+Efficiency,Karîgerî
+Either dependency_name or depends_on is required,Yan dependency_name yan depends_on pêwîst e
+Email,E-name
+Email invitations to all attendees,Vexwendnameyên e-nameyê ji hemû beşdaran re
+Email is required to create portal user,E-name ji bo afirandina bikarhênerê portalê pêwîst e
+Email notifications,Agahdariyên e-nameyê
+Employee,Karker
+Employee DocType not available,DocType ya Karker berdest nîne
+Employee not found,Karker nehat dîtin
+Enable or disable optional features,Taybetmendiyên vebijarkî çalak an neçalak bike
+Enable Time Tracking,Şopandina Demê Çalak Bike
+End,Dawî
+End Date,Dîroka Dawiyê
+End date,Dîroka dawiyê
+End Date cannot be before Start Date,Dîroka Dawiyê nikare berî Dîroka Destpêkê be
+End date cannot be before start date,Dîroka dawiyê nikare berî dîroka destpêkê be
+End date updated,Dîroka dawiyê hat nûkirin
+End time was before start time. Adjusted to 1 hour after start.,Dema dawiyê berî dema destpêkê bû. Hat rastkirin bo 1 saet piştî destpêkê.
+End:,Dawî:
+Enter milestone name...,Navê qonaxa girîng binivîsin...
+Enter project name,Navê projeyê binivîsin
+Enter task title...,Sernivîsa peywirê binivîsin...
+Enter template name,Navê şablonê binivîsin
+Enter your note... Use @name to mention someone,Nota xwe binivîsin... @nav bikar bînin ji bo behskirina kesekî
+Error,Çewtî
+Error loading activity,Çewtiya barkirina çalakiyê
+Error loading contacts,Çewtiya barkirina têkiliyan
+Error loading dashboard,Çewtiya barkirina dashboard
+Error loading project,Çewtiya barkirina projeyê
+Error loading projects,Çewtiya barkirina projeyan
+Error loading settings,Çewtiya barkirina mîhengan
+Error loading tasks,Çewtiya barkirina peywiran
+Error loading templates,Çewtiya barkirina şablonan
+Est. Hours,Saet. Texmîn.
+Estimated,Texmînkirî
+Estimated Cost,Lêçûna Texmînkirî
+Estimated Cost (€),Lêçûna Texmînkirî (€)
+Estimated Hours,Saetên Texmînkirî
+Estimated:,Texmînkirî:
+Evaluate potential risks and concerns,Xetereyên potansiyel û fikaran binirxînin
+Event,Bûyer
+Event is required for event context,Bûyer ji bo çarçoveya bûyerê pêwîst e
+Event is required when tracking context is 'event',Bûyer pêwîst e dema çarçoveya şopandinê 'bûyer' e
+Event Type,Cureyê Bûyerê
+Events,Bûyer
+Events not available. Please run: bench --site orga.localhost migrate,Bûyer berdest nînin. Ji kerema xwe bixebitînin: bench --site orga.localhost migrate
+Events:,Bûyer:
+Expert,Pispor
+Explain why you are proposing a different time...,Rave bikin çima hûn demek cuda pêşniyar dikin...
+Export,Hinardekirinê
+Export failed,Hinardekirin têk çû
+Export JSON,JSON Hinardekin
+Exported,Hatiye hinardekirin
+Exported to timesheet {0},Ji tabloya demê {0} re hat hinardekirin
+External,Derve
+Failed to add item,Zêdekirina babetê têk çû
+Failed to add note,Zêdekirina notê têk çû
+Failed to add skill,Zêdekirina jêhatiyê têk çû
+Failed to apply cascade changes: {0},Bicîhkirina guherandinên cascade têk çû: {0}
+Failed to create defect,Afirandina kêmasiyê têk çû
+Failed to create dependency,Afirandina pêwendiyê têk çû
+Failed to create event,Afirandina bûyerê têk çû
+Failed to create milestone,Afirandina qonaxa girîng têk çû
+Failed to create project,Afirandina projeyê têk çû
+Failed to create task,Afirandina peywirê têk çû
+Failed to create time log,Afirandina tomara demê têk çû
+Failed to delete,Jêbirin têk çû
+Failed to delete comment,Jêbirina şîroveyê têk çû
+Failed to delete contact,Jêbirina têkiliyê têk çû
+Failed to load,Barkirin têk çû
+Failed to load activity,Barkirina çalakiyê têk çû
+Failed to load assignments,Barkirina peywirkirinên têk çû
+Failed to load contact,Barkirina têkiliyê têk çû
+Failed to load dashboard data,Barkirina daneyên dashboard têk çû
+Failed to load defects,Barkirina kêmasiyan têk çû
+Failed to load events,Barkirina bûyeran têk çû
+Failed to load project,Barkirina projeyê têk çû
+Failed to load projects,Barkirina projeyan têk çû
+Failed to load report data,Barkirina daneyên raporê têk çû
+Failed to load settings,Barkirina mîhengan têk çû
+Failed to load tasks,Barkirina peywiran têk çû
+Failed to move task,Veguhestina peywirê têk çû
+Failed to post comment,Şandina şîroveyê têk çû
+Failed to propose new time,Pêşniyarkirina dema nû têk çû
+Failed to remove item,Rakirina babetê têk çû
+Failed to remove skill,Rakirina jêhatiyê têk çû
+Failed to reorder milestones: {0},Ji nû ve rêzkirina qonaxên girîng têk çû: {0}
+Failed to reorder tasks: {0},Ji nû ve rêzkirina peywiran têk çû: {0}
+Failed to reschedule dependent tasks: {0},Ji nû ve plansazkirina peywirên pêwendîdar têk çû: {0}
+Failed to save,Tomarkirin têk çû
+Failed to save preferences,Tomarkirina tercîhan têk çû
+Failed to save settings,Tomarkirina mîhengan têk çû
+Failed to submit request. Please try again.,Şandina daxwazê têk çû. Ji kerema xwe dîsa biceribînin.
+Failed to update item,Nûkirina babetê têk çû
+Failed to update priority,Nûkirina pêşîniyê têk çû
+Failed to update task,Nûkirina peywirê têk çû
+Failed to update tasks: {0},Nûkirina peywiran têk çû: {0}
+Failed to upload avatar,Barkirina wêneyê têk çû
+Feature,Taybetmendî
+Features,Taybetmendî
+FF (Finish-Finish),DD (Dawî-Dawî)
+FF - Finish-to-Finish,DD - Dawî-bo-Dawî
+Field has been updated,Qad hat nûkirin
+Field name is required for 'Set Field Value' action,Navê qadê ji bo çalakiya 'Nirxa Qadê Destnîşan Bike' pêwîst e
+Field {0} is not a Link field,Qada {0} qada Link nîne
+Field {0} not found in {1},Qada {0} di {1} de nehat dîtin
+file,dosye
+File,Dosye
+File does not belong to this task,Dosye ne ya vê peywirê ye
+File name is required,Navê dosyeyê pêwîst e
+File uploaded,Dosye hat barkirin
+File {0} not found,Dosyeya {0} nehat dîtin
+files,dosye
+Files,Dosye
+Filter,Fîltre
+Final Decision,Biryara Dawî
+Finance,Darayî
+Financial,Darayî
+Finish-to-Finish,Dawî-bo-Dawî
+Finish-to-Start,Dawî-bo-Destpêk
+Flag,Nîşankirin
+Flag for attention,Ji bo baldariyê nîşan bike
+Flagged,Nîşankirî
+Focus Panel,Panela Balkêşandinê
+Follows your system preference. Currently:,Li gorî tercîha pergala we dimeşe. Niha:
+Frappe Project {0} not found,Projeya Frappe {0} nehat dîtin
+Frappe Projects Migration,Koçkirina Projeyên Frappe
+Frappe Projects module not available,Modula Projeyên Frappe berdest nîne
+Frappe Projects module not installed,Modula Projeyên Frappe nehatiye sazkirin
+Frappe Projects sync is not enabled,Hevdengkirina Projeyên Frappe ne çalak e
+Frappe Task DocType not found,DocType ya Peywira Frappe nehat dîtin
+Frappe Task has no project,Peywira Frappe projeyê tune
+Frappe Task {0} not found,Peywira Frappe {0} nehat dîtin
+Fri,Înî
+From,Ji
+From Template,Ji Şablonê
+FS (Finish-Start),DD (Dawî-Destpêk)
+FS - Finish-to-Start (default),DD - Dawî-bo-Destpêk (pêşwext)
+Full form view with audit trail,Dîtina forma tevahî bi şopandina kontrolê
+Full name,Navê tevahî
+Gantt,Gantt
+Gantt Chart,Nexşeya Gantt
+Gantt View,Dîtina Gantt
+General Note,Nota Giştî
+Get started,Dest pê bike
+Go back,Vegere
+Go Back,Go Back
+Group by,Kom bike li gorî
+Group dependency removed,Pêwendiya komê hat rakirin
+Group dependency set,Pêwendiya komê hat destnîşankirin
+Group removed,Kom hat rakirin
+Group updated,Kom hat nûkirin
+Hammock task dates are auto-calculated and cannot be changed manually,Dîrokên peywira hammock otomatîk têne hesabkirin û bi destan nayên guherandin
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Pirsek heye an alîkariyê hewce ne? Forma jêr dagirin û tîmê me dê bi we re têkilî daynin.
+Health,Tenduristî
+Healthy,Saxlem
+Hello {0},Silav {0}
+Here's what's happening with your projects today.,Li vir e ku îro bi projeyên we re çi diqewime.
+Hide,Veşêre
+High,Bilind
+History,Dîrok
+Home,Serûpel
+Hourly Cost,Lêçûna Demjimêrî
+Hours,Saet
+hours,saet
+Hours Logged,Saetên Tomarkirî
+ID,Nasname
+Image must be smaller than 5 MB,Wêne divê ji 5 MB biçûktir be
+Import,Hawirdekirin
+Import existing projects and tasks from Frappe Projects module,Proje û peywirên heyî ji modula Projeyên Frappe hawirde bike
+Import failed,Hawirdekirin têk çû
+Import Template,Şablonê Hawirde Bike
+Imported,Hatiye hawirdekirin
+in,di
+In Progress,Di Pêşveçûnê De
+In Review,Di Lêkolînê De
+In-app notifications,Agahdariyên di serlêdanê de
+Inactive,Neçalak
+Initial Review,Lêkolîna Destpêkê
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Destûrên têr ji bo dîtina hemû peywiran tune
+Intermediate,Navîn
+Internal,Hundirîn
+Invalid DocType,DocType ya nederbasdar
+Invalid DocType for import,DocType ya nederbasdar ji bo hawirdekirinê
+Invalid item type: {0},Cureyê babetê nederbasdar: {0}
+Invalid JSON data,Daneyên JSON yên nederbasdar
+Invalid note type. Must be one of: {0},Cureyê notê nederbasdar. Divê yek ji van be: {0}
+Invalid project reference,Referansa projeyê nederbasdar
+Invalid reaction type. Must be one of: {0},Cureyê bertêkê nederbasdar. Divê yek ji van be: {0}
+Invalid RSVP status,Rewşa RSVP ya nederbasdar
+Invalid status. Must be one of: {0},Rewşa nederbasdar. Divê yek ji van be: {0}
+Invalid status: {0},Rewşa nederbasdar: {0}
+Invalid status: {0}. Must be one of: {1},Rewşa nederbasdar: {0}. Divê yek ji van be: {1}
+Invalid tracking context: {0},Çarçoveya şopandinê ya nederbasdar: {0}
+Invalid visibility. Must be one of: {0},Xuyaniya nederbasdar. Divê yek ji van be: {0}
+Invitation: {0} - {1} at {2},Vexwendname: {0} - {1} di {2}
+Invite People,Kesan Vexwîne
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Babet hat zêdekirin
+Item ID is required,Nasnameya babetê pêwîst e
+Item removed,Babet hat rakirin
+Item type is required,Cureyê babetê pêwîst e
+Item {0} not found,Babetê {0} nehat dîtin
+Job title or role,Pileya karî an rol
+Join Meeting,Beşdarî Civînê Bibe
+Just now,Niha
+just now,niha
+Kanban,Kanban
+Kanban Board,Tabloya Kanban
+Kanban View,Dîtina Kanban
+Keyboard Shortcuts,Kurterêyên Klavyeyê
+Keyboard shortcuts (?),Kurterêyên klavyeyê (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Nûkirina Dawî
+Last updated:,Nûkirina dawî:
+Last Week,Hefteya Borî
+Latest Version,Latest Version
+Light,Ronahî
+Link failed,Girêdan têk çû
+Link Task,Peywirê Girêde
+Linked,Girêdayî
+Linked employee not found,Karkerê girêdayî nehat dîtin
+Linked Tasks,Peywirên Girêdayî
+List,Lîste
+List View,Dîtina Lîsteyê
+Load failed,Barkirin têk çû
+Load More,Bêtir Bar Bike
+Load more comments,Bêtir şîroveyan bar bike
+Loading activity...,Çalakî tê barkirin...
+Loading changes...,Guhertin têne barkirin...
+Loading checklist...,Lîsteya kontrolê tê barkirin...
+Loading comments...,Şîrove têne barkirin...
+Loading contact...,Têkilî tê barkirin...
+Loading contacts...,Têkilî têne barkirin...
+Loading dependencies...,Pêwendî têne barkirin...
+Loading details...,Hûrgulî têne barkirin...
+Loading discussion...,Nîqaş tê barkirin...
+Loading events...,Bûyer têne barkirin...
+Loading files...,Dosye têne barkirin...
+Loading notes...,Not têne barkirin...
+Loading preferences...,Tercîh têne barkirin...
+Loading project...,Proje tê barkirin...
+Loading projects...,Proje têne barkirin...
+Loading replies...,Bersiv têne barkirin...
+Loading report data...,Daneyên raporê têne barkirin...
+Loading settings...,Mîheng têne barkirin...
+Loading task...,Peywir tê barkirin...
+Loading templates...,Şablon têne barkirin...
+Loading time logs...,Tomarên demê têne barkirin...
+Loading your portal...,Portala we tê barkirin...
+Loading...,Tê barkirin...
+Location,Cih
+Log Time,Demê Tomar Bike
+Logout,Derkeve
+Low,Nizm
+Make Offer,Pêşniyar Bike
+Manager,Rêvebir
+Manual Entry,Têketina Bi Destan
+Margin,Marjîn
+Mark all as read,Hemûyan wekî xwendî nîşan bike
+Mark all read,Hemûyan xwendî nîşan bike
+Mark as read,Wekî xwendî nîşan bike
+Mark as unread,Wekî nexwendî nîşan bike
+Mark read,Xwendî nîşan bike
+Marking...,Tê nîşankirin...
+Material,Materyal
+Maybe,Belkî
+Medium,Navîn
+Meeting,Civîn
+Meeting Link,Girêdana Civînê
+Meeting title,Sernivîsa civînê
+Meeting URL,URL ya Civînê
+Meetings,Civîn
+Mention,Behskirin
+Message,Peyam
+Message is required,Peyam pêwîst e
+Message is required for '{0}' action,Peyam ji bo çalakiya '{0}' pêwîst e
+Migrate,Koç Bike
+Migration Complete,Koçkirin Temam Bû
+Migration ID:,Nasnameya Koçkirinê:
+Migration log not found: {0},Tomara koçkirinê nehat dîtin: {0}
+milestone,qonaxa girîng
+Milestone,Qonaxa Girîng
+Milestone created,Qonaxa girîng hat afirandin
+Milestone description has been saved.,Danasîna qonaxa girîng hat tomarkirin.
+Milestone ID is required,Nasnameya qonaxa girîng pêwîst e
+Milestone marked as Missed (past due date),Qonaxa girîng wekî Derbasbûyî hat nîşankirin (dîroka dawî derbas bû)
+Milestone moved,Qonaxa girîng hat veguhestin
+Milestone Name,Navê Qonaxa Girîng
+Milestone name has been saved.,Navê qonaxa girîng hat tomarkirin.
+Milestone name is required,Navê qonaxa girîng pêwîst e
+Milestone updated,Qonaxa girîng hat nûkirin
+Milestone {0} not found,Qonaxa girîng {0} nehat dîtin
+Milestone {0} not in project {1},Qonaxa girîng {0} di projeya {1} de nîne
+milestones,qonaxên girîng
+Milestones,Qonaxên Girîng
+Milestones:,Qonaxên Girîng:
+Minutes,Deqîqe
+Missed,Derbasbûyî
+Mixed,Tevlihev
+Mobile,Mobîl
+Moderate,Navîn
+Modified,Guhertî
+"Modify details, time, or attendees","Hûrgulî, dem, an beşdaran biguherîne"
+Mon,Duş
+Month,Meh
+Move failed,Veguhestin têk çû
+Must be a positive number,Divê jimarek erênî be
+Must finish before this finishes,Divê berî dawîbûna vê biqede
+Must finish before this starts,Divê berî destpêkirina vê biqede
+Must start before this finishes,Divê berî dawîbûna vê dest pê bike
+Must start before this starts,Divê berî destpêkirina vê dest pê bike
+My Assignments,Peywirkirinên Min
+My Projects,Projeyên Min
+My Schedule,Bernameya Min
+My Tasks,Peywirên Min
+N/A,N/A
+Name,Nav
+Name (A-Z),Nav (A-Z)
+Name (Z-A),Nav (Z-A)
+Name cannot exceed 255 characters,Nav nikare ji 255 tîpan derbas bibe
+Need help?,Alîkarî hewce ye?
+Needs Attention,Baldariyê Hewce Dike
+Never,Never
+new activities,çalakiyên nû
+New Activity,Çalakiya Nû
+New activity,Çalakiya nû
+New Event,Bûyera Nû
+New index is required,Indeksa nû pêwîst e
+New Project,Projeya Nû
+New tasks will auto-trail by default.,Peywirên nû dê bi pêşwext şop-otomatîk bikin.
+Newest First,Nûtirîn Pêşî
+Next,Pêş
+Next 14 days,14 rojên pêş
+Next 30 days,30 rojên pêş
+Next 60 days,60 rojên pêş
+Next 7 days,7 rojên pêş
+Next 90 days,90 rojên pêş
+Next Week,Hefteya Pêş
+Next:,Pêş:
+No,Na
+No active assignments,Peywirkirinên çalak tune
+No active projects,Projeyên çalak tune
+No active timer found,Demjimêrê çalak nehat dîtin
+No activity selected,Çalakî nehat hilbijartin
+No assignments found,Peywirkirin nehat dîtin
+No attendees,Beşdar tune
+no change,guhertin tune
+No changes for this field.,Ji bo vê qadê guhertin tune.
+No changes recorded for this activity.,Ji bo vê çalakiyê guhertin nehatin tomarkirin.
+No checklist items yet,Hêj babetên lîsteyê tune
+No checklist items yet.,Hêj babetên lîsteyê tune.
+No comments yet,Hêj şîrove tune
+No comments yet.,Hêj şîrove tune.
+No contacts available,Têkilî berdest nînin
+No content for this tab,Ji bo vê tabê naverok tune
+No data available,Dane berdest nînin
+No data available for the selected filters,Ji bo fîlterên hilbijartî dane berdest nînin
+No data to export,Dane ji bo hinardekirin tune
+No dates set,Dîrok nehatine destnîşankirin
+No defects reported,Kêmasî nehatine ragihandin
+No dependencies defined,Pêwendî nehatine diyarkirin
+No description,Danasîn tune
+No discussion yet.,Hêj nîqaş tune.
+No documents attached,Belge nehatine girêdan
+No due date,Dîroka dawî tune
+No employee linked to this resource,Karker bi vê çavkaniyê re nehatiye girêdan
+No ERPNext employee linked to resource,Karkerê ERPNext bi çavkaniyê re nehatiye girêdan
+No events found,Bûyer nehat dîtin
+No files attached yet.,Hêj dosye nehatine girêdan.
+No Frappe Project linked,Projeya Frappe nehatiye girêdan
+No Grouping,Komkirin Tune
+No items,Babet tune
+No matching tasks,Peywirên li hev tên tune
+No matching tasks found,Peywirên li hev tên nehat dîtin
+No migration history,Dîroka koçkirinê tune
+No Milestone,Qonaxa Girîng Tune
+No milestones,Qonaxên girîng tune
+No milestones defined for this project.,Ji bo vê projeyê qonaxên girîng nehatine diyarkirin.
+No notes yet.,Hêj not tune.
+No notes yet. Add a due diligence note to track progress.,Hêj not tune. Noteke lêkolîna hûrgulî zêde bike ji bo şopandina pêşveçûnê.
+No notifications,Agahdarî tune
+No Orga Project linked to Frappe Project {0},Projeya Orga bi Projeya Frappe {0} re nehatiye girêdan
+No overdue tasks,Peywirên derengmayî tune
+No pending cascade changes,Guherandinên cascade yên li bendê tune
+No predecessors - this task can start independently,Pêşdar tune - ev peywir dikare serbixwe dest pê bike
+No project,Proje tune
+No projects found,Proje nehat dîtin
+No Projects Yet,Hêj Proje Tune
+No recent activity,Çalakiya dawî tune
+No related documents,Belgeyên têkildar tune
+No resolved threads.,Mijarên çareserkirî tune.
+No resources found,Çavkanî nehat dîtin
+No results found,Encam nehat dîtin
+No skills listed,Jêhatî nehatine navnîşkirin
+No skills recorded yet,Hêj jêhatî nehatine tomarkirin
+No successors - no tasks are waiting for this one,Paşdar tune - tu peywir li benda vê peywirê nîne
+No task selected,Peywir nehat hilbijartin
+No tasks assigned to you,Tu peywir ji we re nehatiye peywirkirin
+No tasks available to add,Peywir ji bo zêdekirinê berdest nînin
+No tasks found,Peywir nehat dîtin
+No tasks linked to this milestone,Tu peywir bi vê qonaxa girîng re nehatiye girêdan
+No tasks with dates to display,Peywirên bi dîrokan ji bo nîşandanê tune
+No tasks yet,Hêj peywir tune
+No team members,Endamên tîmê tune
+No template,Şablon tune
+No templates yet,Hêj şablon tune
+No time data found,Daneyên demê nehat dîtin
+No time logged today,Îro dem nehat tomarkirin
+No time logged yet,Hêj dem nehat tomarkirin
+No time logs for this period,Ji bo vê serdemê tomarên demê tune
+No time logs found,Tomarên demê nehat dîtin
+No unread notifications,Agahdariyên nexwendî tune
+No update information available yet.,No update information available yet.
+None,Tu tişt
+Not found,Nehat dîtin
+Not permitted,Destûr tune
+Not permitted to access this project,Destûr tune ji bo gihîştina vê projeyê
+Not permitted to access this task,Destûr tune ji bo gihîştina vê peywirê
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Destûr tune ji bo şîrovekirina vê belgeyê
+Not permitted to create clients,Destûr tune ji bo afirandina xerîdaran
+Not permitted to delete this client,Destûr tune ji bo jêbirina vê xerîdarê
+Not permitted to delete this defect,Destûr tune ji bo jêbirina vê kêmasiyê
+Not permitted to delete this note,Destûr tune ji bo jêbirina vê notê
+Not permitted to delete this project,Destûr tune ji bo jêbirina vê projeyê
+Not permitted to delete this task,Destûr tune ji bo jêbirina vê peywirê
+Not permitted to delete this time log,Destûr tune ji bo jêbirina vê tomara demê
+Not permitted to invite clients,Destûr tune ji bo vexwendina xerîdaran
+Not permitted to modify client access,Destûr tune ji bo guherandina gihîştina xerîdar
+Not permitted to modify this project,Destûr tune ji bo guherandina vê projeyê
+Not permitted to update settings,Destûr tune ji bo nûkirina mîhengan
+Not permitted to update this client,Destûr tune ji bo nûkirina vê xerîdarê
+Not permitted to view this client,Destûr tune ji bo dîtina vê xerîdarê
+not sent,nehat şandin
+Not set,Nehat destnîşankirin
+Not specified,Nehat diyarkirin
+Note,Not
+Note (optional),Not (vebijarkî)
+Note Content,Naveroka Notê
+Note content is required,Naveroka notê pêwîst e
+Note name is required,Navê notê pêwîst e
+Note not found,Not nehat dîtin
+Note Type,Cureyê Notê
+Notes,Not
+Notification,Agahdarî
+Notification not found,Agahdarî nehat dîtin
+Notifications,Agahdarî
+Off Track,Ji Rêyê Derketî
+Offer,Pêşniyar
+Offer Prepared,Pêşniyar Hat Amadekirin
+Oldest First,Kevintirîn Pêşî
+On Hold,Li Bendê
+On Leave,Di Betlaneyê De
+On Track,Li Ser Rê
+On-Time Rate,Rêjeya Di-Demê-De
+Only administrators can delete activities,Tenê rêvebir dikarin çalakiyan jêbibin
+Only the comment author or administrators can delete comments,Tenê nivîskarê şîroveyê an rêvebir dikarin şîroveyan jêbibin
+Only you and admins,Tenê hûn û rêvebir
+Open,Vekirî
+Open in Desk,Di Desk-ê de Veke
+Open Task Log,Tomara Peywirê Veke
+Open Tasks,Peywirên Vekirî
+Optional,Vebijarkî
+optional,vebijarkî
+Or email us directly at,An rasterast e-nameyê ji me re bişînin li
+Orga Project {0} from Frappe Projects,Projeya Orga {0} ji Projeyên Frappe
+Orga Task {0} from Frappe,Peywira Orga {0} ji Frappe
+Organizer,Organîzator
+Other,Yên Din
+Over Budget,Ji Budceyê Derbas
+Overall Progress,Pêşveçûna Giştî
+Overall Utilization,Bikaranîna Giştî
+Overallocated,Zêde Veqetandî
+Overdue,Derengmayî
+overdue,derengmayî
+Overdue Tasks,Peywirên Derengmayî
+Overview,Dîtina Giştî
+Owner,Xwedî
+Page Not Found,Rûpel Nehat Dîtin
+Parent,Dêûbav
+Parent comment must belong to the same document,Şîroveya dêûbav divê ji heman belgeyê be
+Parent comment not found,Şîroveya dêûbav nehat dîtin
+Parent project not synced to Frappe yet,Projeya dêûbav hêj bi Frappe re nehatiye hevdengkirin
+Parent project sync not enabled,Hevdengkirina projeya dêûbav ne çalak e
+Partner,Hevkar
+Pending,Li Bendê
+per page,li ser rûpelê
+Perform initial assessment and background check,Nirxandina destpêkê û kontrola paşxanê pêk bîne
+Permanently remove this event,Vê bûyerê bi temamî rake
+Permanently remove this task,Vê peywirê bi temamî rake
+Phone,Têlefon
+Pin,Derzî Bike
+Pin Activity,Çalakiyê Derzî Bike
+Pin to top,Li jor derzî bike
+Pinned,Derzîkirî
+Planned budget for this task,Budceya plansazkirî ji bo vê peywirê
+Planning,Plansazî
+Please describe your question or issue in detail...,Ji kerema xwe pirs an pirsgirêka xwe bi hûrgulî diyar bikin...
+Please login to access Orga,Ji kerema xwe têkevin ji bo gihîştina Orga
+Please login to access the client portal,Ji kerema xwe têkevin ji bo gihîştina portala xerîdaran
+Please respond to this invitation in Orga,Ji kerema xwe di Orga de bersiva vê vexwendnameyê bidin
+Please select an image file,Ji kerema xwe dosyeya wêneyê hilbijêrin
+Please try again,Ji kerema xwe dîsa biceribînin
+Please type,Ji kerema xwe binivîsin
+Portal,Portal
+Portal access revoked for {0},Gihîştina portalê ji bo {0} hat betalkirin
+Portal user created successfully. Welcome email {0},Bikarhênerê portalê bi serkeftî hat afirandin. E-nameya xêrhatinê {0}
+Post,Bişîne
+Powered by,Bi hêza
+Powered by Tonic,Bi hêza Tonic
+Predecessors (Blocked By),Pêşdar (Astengkirî Ji Aliyê)
+Preferences,Tercîh
+Preferences saved successfully,Tercîh bi serkeftî hatin tomarkirin
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)","Pêşgir ji bo kodên projeyên otomatîk afirandî (mînak, ORG-2026-0001)"
+Prepare and document offer terms,Şertên pêşniyarê amade bike û tomar bike
+Press,Pêl bike
+Preview,Pêşdîtin
+Preview cascade before applying,Berî bicîhkirinê cascade pêşdîtin bike
+Previous,Berê
+Priority,Pêşînî
+Priority assigned to new tasks,Pêşîniya ku ji peywirên nû re tê dayîn
+Priority updated,Pêşînî hat nûkirin
+Proficiency,Jêhatîbûn
+Profile,Profîl
+Progress,Pêşveçûn
+Progress (High-Low),Pêşveçûn (Bilind-Nizm)
+Progress (Low-High),Pêşveçûn (Nizm-Bilind)
+Progress Overview,Dîtina Giştî ya Pêşveçûnê
+Progress updated,Pêşveçûn hat nûkirin
+Project,Proje
+Project budget has been saved.,Budceya projeyê hat tomarkirin.
+Project code (e.g. ORG-2026-0001),Koda projeyê (mînak ORG-2026-0001)
+Project Code Prefix,Pêşgira Koda Projeyê
+Project created,Proje hat afirandin
+Project deleted,Proje hat jêbirin
+Project description has been saved.,Danasîna projeyê hat tomarkirin.
+Project Details,Hûrguliyên Projeyê
+Project end date has been saved.,Dîroka dawiya projeyê hat tomarkirin.
+Project Files,Dosyeyên Projeyê
+Project has no linked client,Projeyê xerîdarê girêdayî tune
+Project Health,Tenduristiya Projeyê
+Project Info,Agahiyên Projeyê
+Project is required,Proje pêwîst e
+Project is required for project context,Proje ji bo çarçoveya projeyê pêwîst e
+Project is required when tracking context is 'project',Proje pêwîst e dema çarçoveya şopandinê 'proje' ye
+Project Manager,Rêvebirê Projeyê
+Project Name,Navê Projeyê
+Project name and template name are required,Navê projeyê û navê şablonê pêwîst in
+Project name is required,Navê projeyê pêwîst e
+Project not found,Proje nehat dîtin
+Project not found or you do not have access,Proje nehat dîtin an gihîştina we tune
+Project settings,Mîhengên projeyê
+Project start date has been saved.,Dîroka destpêka projeyê hat tomarkirin.
+Project title has been saved.,Sernivîsa projeyê hat tomarkirin.
+Project Type,Cureyê Projeyê
+Project updated,Proje hat nûkirin
+Project {0} linked to client {1},Projeya {0} bi xerîdarê {1} re hat girêdan
+Project {0} not found,Projeya {0} nehat dîtin
+Project {0} to Frappe Projects,Projeya {0} bo Projeyên Frappe
+Project:,Proje:
+projects,proje
+Projects,Proje
+Projects created:,Projeyên afirandî:
+Projects Overview,Dîtina Giştî ya Projeyan
+Projects skipped:,Projeyên derbasbûyî:
+Projects updated:,Projeyên nûkirî:
+Promote failed,Pêşxistin têk çû
+Promote to task,Bo peywirê pêşxe bike
+Promoted to task,Bo peywirê hat pêşxistin
+Propose,Pêşniyar Bike
+Propose New Time,Dema Nû Pêşniyar Bike
+Propose Time,Dem Pêşniyar Bike
+Proposed End,Dawiya Pêşniyarkirî
+Proposed Start,Destpêka Pêşniyarkirî
+Public,Giştî
+Quick Action,Çalakiya Bilez
+Quick Actions,Çalakiyên Bilez
+Quick Stats,Amarên Bilez
+Rates,Rêje
+Receive notifications via email,Agahdariyên bi riya e-nameyê werbigirin
+Receive notifications within the application,Agahdariyên di hundurê serlêdanê de werbigirin
+Recent Activity,Çalakiya Dawî
+Recipient {0} is not a valid user,Wergir {0} bikarhênerekî derbasdar nîne
+Reference,Referans
+Refresh,Nû Bike
+Related,Têkildar
+Related Company (optional),Pargîdaniya Têkildar (vebijarkî)
+Related Documents,Belgeyên Têkildar
+Related Project,Projeya Têkildar
+Remaining,Maye
+Reminder,Bîranîn
+Reminder Lead Time,Dema Pêşî ya Bîranînê
+Reminder: {0} - {1} at {2},Bîranîn: {0} - {1} di {2}
+Remove,Rake
+Remove dependency,Pêwendiyê rake
+Remove dependency on,Pêwendiya bi ... re rake
+Remove from group,Ji komê rake
+Remove group dependency,Pêwendiya komê rake
+Remove skill,Jêhatiyê rake
+Reopen,Ji Nû Ve Veke
+Reopen thread,Mijarê ji nû ve veke
+reopened,ji nû ve hat vekirin
+replies,bersiv
+Reply,Bersiv
+reply,bersiv
+Replying to,Bersiva
+Replying to comment,Bersiva şîroveyê
+Report Defect,Kêmasiyê Ragihîne
+Reported Date,Dîroka Ragihandî
+Reports,Rapor
+Reports To,Ragihandî Ji
+Request Submitted!,Daxwaz Hat Şandin!
+Required,Pêwîst
+required,pêwîst
+Research,Lêkolîn
+Reset to Defaults,Vegerîne Pêşwextan
+Resolve,Çareser Bike
+Resolve thread,Mijarê çareser bike
+Resolved,Çareserkirî
+Resolved date cannot be before reported date,Dîroka çareserkirinê nikare berî dîroka ragihandî be
+Resource,Çavkanî
+Resource and skill name are required,Navê çavkaniyê û jêhatiyê pêwîst in
+Resource is already an attendee,Çavkanî jixwe beşdar e
+Resource name is required,Navê çavkaniyê pêwîst e
+Resource not found,Çavkanî nehat dîtin
+Resource synced from employee {0},Çavkanî ji karkerê {0} hat hevdengkirin
+Resource {0} is already assigned to this task ({1}),Çavkaniya {0} jixwe ji bo vê peywirê hat peywirkirin ({1})
+Resource {0} not found,Çavkaniya {0} nehat dîtin
+Resources,Çavkanî
+Retry,Dîsa Biceribîne
+Review,Lêkolîn
+Review all relevant documents and contracts,Hemû belgeyên têkildar û peymanan binirxînin
+Reviews,Lêkolîn
+Risk Assessment,Nirxandina Xetereyê
+Rollback,Vegerandin
+Rolled back,Hat vegerandin
+Room or address,Ode an navnîşan
+RSVP,RSVP
+Safety,Ewlekarî
+Sat,Şem
+Save,Tomar Bike
+"Save a project as a template, or import one from a JSON file.","Projeyekê wekî şablonê tomar bike, an ji dosyeya JSON yek hawirde bike."
+Save as Template,Wekî Şablonê Tomar Bike
+Save Changes,Guhertinan Tomar Bike
+Save failed,Tomarkirin têk çû
+Save Preferences,Tercîhan Tomar Bike
+Save Template,Şablonê Tomar Bike
+Saving...,Tê tomarkirin...
+Schedule,Bernameyê
+Schedule type is required for scheduled triggers,Cureyê bernameyê ji bo tetikên plansazkirî pêwîst e
+Scheduled,Plansazkirî
+Search,Lêgerîn
+"Search by name, email, or skill...","Li gorî nav, e-name, an jêhatiyê bigerin..."
+Search for a project...,Li projeyekê bigerin...
+Search for a task...,Li peywirê bigerin...
+Search for an event...,Li bûyerekê bigerin...
+Search for people to invite...,Li kesan bigerin ji bo vexwendinê...
+Search tasks to link...,Li peywiran bigerin ji bo girêdanê...
+Search tasks...,Li peywiran bigerin...
+Search...,Lêgerîn...
+Searching...,Tê gerîn...
+Seen,Hatiye dîtin
+Select a project if your request is related to a specific project.,Heger daxwaza we bi projeyeke taybetî re têkildar e projeyekê hilbijêrin.
+Select a project...,Projeyekê hilbijêrin...
+Select a task from the Gantt chart to view and manage its details.,Ji nexşeya Gantt peywirê hilbijêrin da ku hûrguliyên wê bibînin û birêve bibin.
+Select a task from the list or Kanban board to view and manage its details.,Ji lîsteyê an tabloya Kanban peywirê hilbijêrin da ku hûrguliyên wê bibînin û birêve bibin.
+Select a template...,Şablonekê hilbijêrin...
+Select priority...,Pêşîniyê hilbijêrin...
+Select status...,Rewşê hilbijêrin...
+Select task...,Peywirê hilbijêrin...
+Select type...,Cureyê hilbijêrin...
+Selection,Hilbijartin
+Send,Bişîne
+Send comment,Şîroveyê bişîne
+Send email invitations to attendees,Vexwendnameyên e-nameyê ji beşdaran re bişîne
+Send Invitations,Vexwendnameyan Bişîne
+Send notification when a task is assigned to a user,Gava peywir ji bikarhênerekî re tê dayîn agahdariyê bişîne
+Send notification when task status changes,Gava rewşa peywirê diguhere agahdariyê bişîne
+Send reminder before task due date,Berî dîroka dawiya peywirê bîranînê bişîne
+sent,şandî
+Set rate,Rêjeyê destnîşan bike
+Settings,Mîheng
+Settings saved successfully,Mîheng bi serkeftî hatin tomarkirin
+Severity,Giranî
+SF (Start-Finish),DD (Destpêk-Dawî)
+SF - Start-to-Finish,DD - Destpêk-bo-Dawî
+Show,Nîşan Bide
+Show all,Hemûyan nîşan bide
+Show all changes,Hemû guhertinan nîşan bide
+Show Archived,Arşîvkirî Nîşan Bide
+Show full diff,Cuda cuda tevahî nîşan bide
+Show less,Kêmtir nîşan bide
+Show more,Bêtir nîşan bide
+Skill added,Jêhatî hat zêdekirin
+Skill is required,Jêhatî pêwîst e
+Skill Name,Navê Jêhatiyê
+Skill removed,Jêhatî hat rakirin
+Skill {0} already exists for this resource,Jêhatiya {0} ji bo vê çavkaniyê jixwe heye
+Skills,Jêhatî
+Skills & Competencies,Jêhatî û Şiyanî
+Skip already migrated projects,Projeyên ku berê koçkirî ne derbas bike
+Sort by,Rêz bike li gorî
+Sort: Due Date,Rêz: Dîroka Dawî
+Sort: Priority,Rêz: Pêşînî
+Sort: Project,Rêz: Proje
+Sort: Status,Rêz: Rewş
+Sort: Task,Rêz: Peywir
+Source Code,Koda Çavkaniyê
+Spent,Xerckirin
+Spent:,Xerckirî:
+SS (Start-Start),DD (Destpêk-Destpêk)
+SS - Start-to-Start,DD - Destpêk-bo-Destpêk
+Standalone,Serbixwe
+Start,Destpêk
+Start a discussion below,Li jêr nîqaşê dest pê bikin
+Start Date,Dîroka Destpêkê
+Start date,Dîroka destpêkê
+Start Date (Earliest),Dîroka Destpêkê (Zûtirîn)
+Start date updated,Dîroka destpêkê hat nûkirin
+Start date/time is required,Dîrok/dema destpêkê pêwîst e
+Start Migration,Koçkirinê Dest Pê Bike
+Start the conversation below.,Li jêr axaftinê dest pê bikin.
+Start Timer,Demjimêrê Dest Pê Bike
+Start typing to search...,Dest bi nivîsandinê bikin ji bo lêgerînê...
+Start-to-Finish,Destpêk-bo-Dawî
+Start-to-Start,Destpêk-bo-Destpêk
+Start:,Destpêk:
+Statistics reset,Amar hatin resetkirin
+Status,Rewş
+Status assigned to new projects,Rewşa ku ji projeyên nû re tê dayîn
+Status assigned to new tasks,Rewşa ku ji peywirên nû re tê dayîn
+Status Changes,Guherandinên Rewşê
+Status updated,Rewş hat nûkirin
+Status:,Rewş:
+Stop,Rawestîne
+Stop & Save,Rawestîne û Tomar Bike
+Stop Timer,Demjimêrê Rawestîne
+Stops current timer and starts for this event,Demjimêrê niha rawestîne û ji bo vê bûyerê dest pê dike
+Stops current timer and starts for this task,Demjimêrê niha rawestîne û ji bo vê peywirê dest pê dike
+Subject,Mijar
+Subject cannot exceed 255 characters,Mijar nikare ji 255 tîpan derbas bibe
+Subject is required,Mijar pêwîst e
+Submit,Pêşkêş Bike
+Submit Another Request,Daxwazeke Din Pêşkêş Bike
+Submit Request,Daxwazê Pêşkêş Bike
+Submitting...,Tê pêşkêşkirin...
+Successfully saved,Bi serkeftî hat tomarkirin
+Successors (Blocking),Paşdar (Astengker)
+Sun,Yekş
+Supplier,Peyda Bike
+Support,Piştgirî
+Switch to this event,Veguhêze vê bûyerê
+Switch to this task,Veguhêze vê peywirê
+Sync direction is set to Frappe to Orga only,Arasteya hevdengkirinê tenê ji Frappe bo Orga ye
+Sync direction is set to Orga to Frappe only,Arasteya hevdengkirinê tenê ji Orga bo Frappe ye
+Sync not enabled for this project,Hevdengkirin ji bo vê projeyê ne çalak e
+System,Pergal
+Table,Tablo
+Take ownership of this task,Xwedîtiya vê peywirê bistînin
+Target Date,Dîroka Armanc
+Target End,Dawiya Armanc
+Target Project,Projeya Armanc
+Target user is required for '{0}' action,Bikarhênerê armanc ji bo çalakiya '{0}' pêwîst e
+task,peywir
+Task,Peywir
+Task '{0}' is due on {1}.,Peywira '{0}' di {1} de diqede.
+Task and resource are required,Peywir û çavkanî pêwîst in
+Task Assignment,Peywirkirina Peywirê
+Task cannot be its own parent,Peywir nikare dêûbavê xwe be
+Task cannot depend on itself,Peywir nikare bi xwe ve girêdayî be
+Task cannot depend on the group it belongs to,Peywir nikare bi koma ku tê de ye ve girêdayî be
+Task created,Peywir hat afirandin
+Task deleted,Peywir hat jêbirin
+Task description has been saved.,Danasîna peywirê hat tomarkirin.
+Task Details,Hûrguliyên Peywirê
+Task due in {0} days: {1},Peywir di {0} rojan de diqede: {1}
+Task due today: {0},Peywir îro diqede: {0}
+Task due tomorrow: {0},Peywir sibê diqede: {0}
+Task duplicated,Peywir hat dubarekirin
+Task Group,Koma Peywiran
+Task ID is required,Nasnameya peywirê pêwîst e
+Task is blocked by incomplete dependencies,Peywir ji ber pêwendiyên netemamkirî astengkirî ye
+Task is cancelled,Peywir hat betalkirin
+Task is completed,Peywir temam bû
+Task is no longer blocked by a group,Peywir êdî ji aliyê komekê ve astengkirî nîne
+Task is required for task context,Peywir ji bo çarçoveya peywirê pêwîst e
+Task is required when tracking context is 'task',Peywir pêwîst e dema çarçoveya şopandinê 'peywir' e
+Task linked,Peywir hat girêdan
+Task moved,Peywir hat veguhestin
+Task name,Navê peywirê
+Task name is required,Navê peywirê pêwîst e
+Task removed from group,Peywir ji komê hat rakirin
+Task Subject,Mijara Peywirê
+Task subject is required,Mijara peywirê pêwîst e
+Task Type,Cureyê Peywirê
+Task unblocked: {0},Peywir hat vekirin: {0}
+Task unlinked,Peywir hat veqetandin
+Task updated,Peywir hat nûkirin
+Task {0} not found,Peywira {0} nehat dîtin
+Task {0} not in project {1},Peywira {0} di projeya {1} de nîne
+Task {0} to Frappe,Peywira {0} bo Frappe
+Tasks,Peywir
+tasks,peywir
+Tasks and milestones will be created with dates relative to the project start date.,Peywir û qonaxên girîng dê bi dîrokên li gorî dîroka destpêka projeyê werin afirandin.
+Tasks assigned to you across all projects.,Peywirên ku li seranserê hemû projeyan ji we re hatine peywirkirin.
+Tasks created:,Peywirên afirandî:
+Tasks from projects you manage.,Peywirên ji projeyên ku hûn birêve dibin.
+Tasks updated:,Peywirên nûkirî:
+"Tasks, milestones, and dependencies have been created.","Peywir, qonaxên girîng, û pêwendî hatin afirandin."
+Tasks:,Peywir:
+TBD,Hêj Diyar Nebûye
+Team,Tîm
+Team Members,Endamên Tîmê
+Template,Şablon
+Template applied,Şablon hat bicîhkirin
+Template data is required in import data,Daneyên şablonê di daneyên hawirdekirinê de pêwîst in
+Template has no data,Şablonê dane tune
+Template Name,Navê Şablonê
+Template name,Navê şablonê
+Template name is required,Navê şablonê pêwîst e
+Template name is required in import data,Navê şablonê di daneyên hawirdekirinê de pêwîst e
+Template saved,Şablon hat tomarkirin
+Template updated successfully.,Şablon bi serkeftî hat nûkirin.
+Template {0} not found,Şablona {0} nehat dîtin
+Templates,Şablon
+Tentative,Pêşbînîkirî
+The comment has been deleted,Şîrove hat jêbirin
+The project,Proje
+The source document may have been deleted.,Dibe ku belgeya çavkaniyê hatibe jêbirin.
+The source document will not be affected.,Belgeya çavkaniyê bandor nabe.
+The status of '{0}' was changed from {1} to {2}.,Rewşa '{0}' ji {1} bo {2} hat guherandin.
+Theme,Dîmen
+Theme preference,Tercîha dîmenê
+This action,Ev çalakî
+This action cannot be undone.,Ev çalakî nayê vegerandin.
+This activity has been flagged for attention,Ev çalakî ji bo baldariyê hat nîşankirin
+This is a reminder for your upcoming appointment,Ev bîranînek e ji bo randevûya we ya nêzîk
+This method is only meant for developer mode,Ev rêbaz tenê ji bo moda pêşdebiran e
+This page wandered off,This page wandered off
+This Week,Vê Hefteyê
+This will delete all notes and preferences associated with this activity.,Ev ê hemû not û tercîhên bi vê çalakiyê re girêdayî jêbibe.
+This will import all Frappe Projects into Orga. Continue?,Ev ê hemû Projeyên Frappe di Orga de hawirde bike. Bidomînin?
+This will permanently delete,Ev ê bi temamî jêbibe
+This will permanently delete:,Ev ê bi temamî jêbibe:
+Thu,Pêncş
+Time,Dem
+Time & Billing,Dem û Fatûrekirin
+Time & Revenue,Dem û Dahatin
+Time Entries,Tomarên Demê
+Time log name is required,Navê tomara demê pêwîst e
+Time Log not found,Tomara Demê nehat dîtin
+Time log {0} not found,Tomara demê {0} nehat dîtin
+Time Logs,Tomarên Demê
+Time Summary,Kurteya Demê
+Time Tracking,Şopandina Demê
+Timeline,Rêza Demê
+Timer active on,Demjimêr çalak e li ser
+Timer is not running,Demjimêr naxebite
+Timer Running,Demjimêr Dixebite
+Timer running,Demjimêr dixebite
+Timesheet DocType not available,DocType ya Tabloya Demê berdest nîne
+Timesheets,Tabloyên Demê
+Timezone,Qada Demê
+Timezone is detected from your browser,Qada demê ji geroka we tê tesbîtkirin
+Title,Sernivîs
+Title cannot exceed 255 characters,Sernivîs nikare ji 255 tîpan derbas bibe
+Title is required,Sernivîs pêwîst e
+Title updated,Sernivîs hat nûkirin
+To,Bo
+to,bo
+to cancel,ji bo betalkirinê
+to close,ji bo girtinê
+to confirm:,ji bo piştrastkirinê:
+to edit,ji bo sererastkirinê
+"to save,","ji bo tomarkirinê,"
+To Time cannot be before From Time,Dema Dawî nikare berî Dema Destpêkê be
+Today,Îro
+today,îro
+Toggle billable,Fatûrekirinê biguherîne
+Toggle Details Panel,Panela Hûrguliyan Biguherîne
+Toggle Manager Panel,Panela Rêvebirê Biguherîne
+Toggle Sidebar,Barê Kêlekê Biguherîne
+Tomorrow,Sibê
+tomorrow,sibê
+Total,Tevahî
+Total Budget,Budceya Tevahî
+Total Contacts,Têkiliyên Tevahî
+Total Cost,Lêçûna Tevahî
+Total Cost to Org,Lêçûna Tevahî bo Rêxistinê
+Total Defect Cost,Lêçûna Tevahî ya Kêmasiyê
+Total Hours,Saetên Tevahî
+Total Hours Logged,Saetên Tevahî yên Tomarkirî
+Total Projects,Projeyên Tevahî
+Total Spent,Xerckirina Tevahî
+Total Tasks,Peywirên Tevahî
+Total:,Tevahî:
+Tracked,Şopandî
+trails to today while Open at 0%,heta îro şop dike dema ku Vekirî ye di 0% de
+Tried:,Tried:
+Try adjusting your filter criteria,Pîvanên fîlterê xwe biguherînin
+Try adjusting your filters.,Fîlterên xwe biguherînin.
+Try Again,Dîsa Biceribîne
+Tue,Sêş
+Type,Cure
+Type updated,Cure hat nûkirin
+Type:,Cure:
+Typical response time: 1-2 business days,Dema bersivdayînê ya asayî: 1-2 rojên karî
+Unarchive,Ji Arşîvê Derxe
+Unarchive Activity,Çalakiyê ji Arşîvê Derxe
+Unassign,Peywirkirinê Rake
+Unassigned,Nepeywirkirî
+Under Budget,Di Bin Budceyê De
+Ungrouped,Nekomkirî
+Unknown,Nenas
+Unknown error,Çewtiya nenas
+Unlink failed,Veqetandin têk çû
+Unlink task from milestone,Peywirê ji qonaxa girîng veqetîne
+Unpin,Derzî Rake
+Unpin Activity,Derziya Çalakiyê Rake
+Unread,Nexwendî
+Unread only,Tenê nexwendî
+Until,Heta
+Up to Date,Up to Date
+Upcoming,Nêzîk
+upcoming,nêzîk
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Nûkirin têk çû
+Updated,Nûkirî
+Updated successfully,Bi serkeftî hat nûkirin
+Updates,Updates
+Upload,Bar Bike
+Upload failed,Barkirin têk çû
+Upload files below to attach them to this task.,Li jêr dosyeyan bar bikin da ku bi vê peywirê re girê bidin.
+Upload to project,Berê projeyê bar bike
+Uploading...,Tê barkirin...
+Urgent,Lezgîn
+User {0} is already linked to client {1},Bikarhênerê {0} jixwe bi xerîdarê {1} re girêdayî ye
+User {0} is already linked to resource {1},Bikarhênerê {0} jixwe bi çavkaniya {1} re girêdayî ye
+Utilization,Bikaranîn
+Valid,Derbasdar
+Value:,Nirx:
+Variance,Cûdabûn
+Variance:,Cûdabûn:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Dîtin
+View All,Hemûyan Bibîne
+View all active projects,Hemû projeyên çalak bibîne
+View all open tasks,Hemû peywirên vekirî bibîne
+View overdue tasks,Peywirên derengmayî bibîne
+View Release,View Release
+Visibility,Xuyanî
+Waiting for this task,Li benda vê peywirê
+Waits for:,Li benda:
+Warning: Resource {0} status is {1},Hişyarî: Rewşa çavkaniya {0} {1} e
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Hişyarî: HTTP li şûna HTTPS tê bikaranîn. Daneyên webhook dibe ku ewle nebin.
+Watch budget closely,Budceyê ji nêzîk ve bişopînin
+We'll respond to:,Em ê bersivê bidin:
+Webhook deleted,Webhook hat jêbirin
+Webhook name is required,Navê webhook pêwîst e
+Webhook not found,Webhook nehat dîtin
+Webhook URL is required,URL ya webhook pêwîst e
+Webhook URL must start with http:// or https://,URL ya webhook divê bi http:// an https:// dest pê bike
+Wed,Çarş
+Week,Hefte
+Weekend,Dawiya Hefteyê
+Weekly Capacity,Kapasîteya Heftanê
+weekly capacity,kapasîteya heftanê
+Weekly Capacity (h),Kapasîteya Heftanê (s)
+Welcome,Bi xêr hatî
+Welcome back!,Bi xêr hatî dîsa!
+Welcome to Orga,Bi xêr hatî Orga
+What are you working on?,Hûn li ser çi dixebitin?
+What did you work on?,Hûn li ser çi xebitîn?
+When,Kengê
+When work begins,Dema ku kar dest pê dike
+When work is due,Dema ku kar diqede
+Where,Li ku
+Will capture:,Dê bigire:
+Will create:,Dê biafirîne:
+with checklist items,bi babetên lîsteyê
+Working,Dixebite
+Workload,Barê Karî
+Workmanship,Hunerkarî
+Write a comment...,Şîroveyekê binivîsin...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Şîroveyekê binivîsin... @nav bikar bînin ji bo behskirinê (Ctrl+Enter ji bo şandinê)
+Year,Sal
+Yes,Erê
+Yesterday,Duh
+yesterday,duh
+You are not an attendee of this appointment,Hûn beşdarê vê randevûyê ne ne
+You are not linked to any resource,Hûn bi tu çavkaniyê re ne girêdayî ne
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Hûn tenê dikarin şîroveyên xwe jêbibin
+You can only delete your own reactions,Hûn tenê dikarin bertêkên xwe jêbibin
+You do not have access to the client portal. Please contact support.,Gihîştina we ya portala xerîdaran tune. Ji kerema xwe bi piştgiriyê re têkilî daynin.
+You have already reacted with '{0}',We berê bi '{0}' bertêk da
+You have been assigned to task '{0}' in project '{1}'.,Ji we re peywira '{0}' di projeya '{1}' de hat peywirkirin.
+You have been assigned to: {0},Ji we re hat peywirkirin: {0}
+You have been invited to the following appointment,Hûn ji randevûya jêr re hatin vexwendin
+You have no tasks assigned to you right now.,Niha tu peywir ji we re nehatiye peywirkirin.
+You were mentioned in {0},Di {0} de behsa we hat kirin
+Your attendance,Beşdariya we
+Your comment has been posted,Şîroveya we hat şandin
+Your Projects,Projeyên We
+Your projects will appear here once they're assigned to you.,Projeyên we dê li vir xuya bibin gava ku ji we re werin peywirkirin.
+Your Response,Bersiva We
+Your RSVP,RSVP ya We
+Your support request has been submitted successfully.,Daxwaza piştgiriya we bi serkeftî hat pêşkêşkirin.
+Your support request has been submitted successfully. We'll get back to you shortly.,Daxwaza piştgiriya we bi serkeftî hat pêşkêşkirin. Em ê di demek kurt de bi we re têkilî daynin.
+"Your task ""{0}"" is no longer blocked and can now be started.","Peywira we ""{0}"" êdî astengkirî nîne û niha dikare dest pê bibe."
+{0} is required,{0} pêwîst e
+{0} new activities,{0} çalakiyên nû
+{0} of {1} completed,{0} ji {1} temam bû
+{0} projects already migrated (will be skipped or updated),{0} proje berê koçkirî ne (dê derbas bibin an nû bibin)
+{0} status changed to {1},Rewşa {0} bo {1} hat guherandin
+{0} tasks remaining,{0} peywir mane
+{0} tasks without projects will be skipped,{0} peywirên bê proje dê derbas bibin
+{0} {1} not found,{0} {1} nehat dîtin

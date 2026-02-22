@@ -1,0 +1,407 @@
+{
+  "actions": [],
+  "autoname": "naming_series:",
+  "creation": "2026-02-03 12:00:00.000000",
+  "doctype": "DocType",
+  "engine": "InnoDB",
+  "field_order": [
+    "naming_series",
+    "subject",
+    "project",
+    "column_break_1",
+    "status",
+    "priority",
+    "section_description",
+    "description",
+    "section_dates",
+    "start_date",
+    "due_date",
+    "column_break_dates",
+    "completed_date",
+    "task_scheduling_type",
+    "buffer_size",
+    "buffer_consumed",
+    "section_effort",
+    "estimated_hours",
+    "actual_hours",
+    "column_break_effort",
+    "progress",
+    "section_assignment",
+    "assigned_to",
+    "task_type",
+    "column_break_assignment",
+    "milestone",
+    "parent_task",
+    "task_group",
+    "sort_order",
+    "section_checklist",
+    "checklist",
+    "section_comments",
+    "comments",
+    "section_dependencies",
+    "depends_on",
+    "depends_on_group",
+    "is_blocked",
+    "section_finance",
+    "estimated_cost",
+    "actual_cost",
+    "column_break_finance",
+    "is_billable",
+    "billing_rate",
+    "section_frappe_integration",
+    "frappe_task_link",
+    "last_frappe_sync"
+  ],
+  "fields": [
+    {
+      "fieldname": "naming_series",
+      "fieldtype": "Select",
+      "hidden": 1,
+      "label": "Naming Series",
+      "options": "TASK-.#####",
+      "reqd": 1
+    },
+    {
+      "fieldname": "subject",
+      "fieldtype": "Data",
+      "in_list_view": 1,
+      "in_standard_filter": 1,
+      "label": "Subject",
+      "reqd": 1
+    },
+    {
+      "fieldname": "project",
+      "fieldtype": "Link",
+      "in_list_view": 1,
+      "in_standard_filter": 1,
+      "label": "Project",
+      "options": "Orga Project",
+      "reqd": 1
+    },
+    {
+      "fieldname": "column_break_1",
+      "fieldtype": "Column Break"
+    },
+    {
+      "default": "Open",
+      "fieldname": "status",
+      "fieldtype": "Select",
+      "in_list_view": 1,
+      "in_standard_filter": 1,
+      "label": "Status",
+      "options": "Open\nIn Progress\nReview\nCompleted\nCancelled",
+      "reqd": 1
+    },
+    {
+      "default": "Medium",
+      "fieldname": "priority",
+      "fieldtype": "Select",
+      "in_list_view": 1,
+      "in_standard_filter": 1,
+      "label": "Priority",
+      "options": "Low\nMedium\nHigh\nUrgent",
+      "reqd": 1
+    },
+    {
+      "fieldname": "section_description",
+      "fieldtype": "Section Break",
+      "label": "Details"
+    },
+    {
+      "fieldname": "description",
+      "fieldtype": "Text Editor",
+      "label": "Description"
+    },
+    {
+      "fieldname": "section_dates",
+      "fieldtype": "Section Break",
+      "label": "Schedule"
+    },
+    {
+      "fieldname": "start_date",
+      "fieldtype": "Date",
+      "label": "Start Date"
+    },
+    {
+      "default": "0",
+      "description": "Automatically trail start date to today while task is Open with 0% progress",
+      "fieldname": "auto_trail_start",
+      "fieldtype": "Check",
+      "label": "Auto-Trail Start"
+    },
+    {
+      "fieldname": "due_date",
+      "fieldtype": "Date",
+      "in_list_view": 1,
+      "label": "Due Date"
+    },
+    {
+      "fieldname": "column_break_dates",
+      "fieldtype": "Column Break"
+    },
+    {
+      "fieldname": "completed_date",
+      "fieldtype": "Date",
+      "label": "Completed Date",
+      "read_only": 1
+    },
+    {
+      "default": "Fixed Duration",
+      "description": "Fixed Duration: manual dates. Hammock: auto-spans between predecessors and successors. Buffer: schedule padding for Critical Chain.",
+      "fieldname": "task_scheduling_type",
+      "fieldtype": "Select",
+      "label": "Scheduling Type",
+      "options": "Fixed Duration\nHammock\nBuffer"
+    },
+    {
+      "depends_on": "eval:doc.task_scheduling_type == 'Buffer'",
+      "description": "Planned buffer size in days",
+      "fieldname": "buffer_size",
+      "fieldtype": "Int",
+      "label": "Buffer Size (days)"
+    },
+    {
+      "depends_on": "eval:doc.task_scheduling_type == 'Buffer'",
+      "description": "Percentage of buffer consumed by upstream delays",
+      "fieldname": "buffer_consumed",
+      "fieldtype": "Float",
+      "label": "Buffer Consumed (%)",
+      "read_only": 1
+    },
+    {
+      "collapsible": 1,
+      "fieldname": "section_effort",
+      "fieldtype": "Section Break",
+      "label": "Effort"
+    },
+    {
+      "fieldname": "estimated_hours",
+      "fieldtype": "Float",
+      "label": "Estimated Hours"
+    },
+    {
+      "fieldname": "actual_hours",
+      "fieldtype": "Float",
+      "label": "Actual Hours",
+      "read_only": 1
+    },
+    {
+      "fieldname": "column_break_effort",
+      "fieldtype": "Column Break"
+    },
+    {
+      "default": "0",
+      "fieldname": "progress",
+      "fieldtype": "Percent",
+      "label": "Progress"
+    },
+    {
+      "fieldname": "section_assignment",
+      "fieldtype": "Section Break",
+      "label": "Assignment"
+    },
+    {
+      "fieldname": "assigned_to",
+      "fieldtype": "Link",
+      "in_list_view": 1,
+      "in_standard_filter": 1,
+      "label": "Assigned To",
+      "options": "User"
+    },
+    {
+      "fieldname": "task_type",
+      "fieldtype": "Select",
+      "label": "Task Type",
+      "options": "\nTask\nBug\nFeature\nResearch\nMeeting"
+    },
+    {
+      "fieldname": "column_break_assignment",
+      "fieldtype": "Column Break"
+    },
+    {
+      "fieldname": "milestone",
+      "fieldtype": "Link",
+      "label": "Milestone",
+      "options": "Orga Milestone"
+    },
+    {
+      "fieldname": "parent_task",
+      "fieldtype": "Link",
+      "label": "Parent Task",
+      "options": "Orga Task"
+    },
+    {
+      "fieldname": "task_group",
+      "fieldtype": "Data",
+      "label": "Task Group",
+      "description": "Custom group name for Gantt chart grouping (e.g. Pre-work, Finishing)",
+      "in_standard_filter": 1
+    },
+    {
+      "default": "0",
+      "description": "Floating-point sort order for Gantt chart drag-and-drop positioning",
+      "fieldname": "sort_order",
+      "fieldtype": "Float",
+      "hidden": 1,
+      "label": "Sort Order",
+      "precision": "6"
+    },
+    {
+      "collapsible": 1,
+      "fieldname": "section_checklist",
+      "fieldtype": "Section Break",
+      "label": "Checklist"
+    },
+    {
+      "fieldname": "checklist",
+      "fieldtype": "Table",
+      "label": "Checklist Items",
+      "options": "Orga Task Checklist"
+    },
+    {
+      "collapsible": 1,
+      "fieldname": "section_comments",
+      "fieldtype": "Section Break",
+      "label": "Comments"
+    },
+    {
+      "fieldname": "comments",
+      "fieldtype": "Table",
+      "label": "Task Comments",
+      "options": "Orga Task Comment"
+    },
+    {
+      "collapsible": 1,
+      "fieldname": "section_dependencies",
+      "fieldtype": "Section Break",
+      "label": "Dependencies"
+    },
+    {
+      "fieldname": "depends_on",
+      "fieldtype": "Table",
+      "label": "Depends On",
+      "options": "Orga Task Dependency"
+    },
+    {
+      "fieldname": "depends_on_group",
+      "fieldtype": "Data",
+      "label": "Depends on Group",
+      "description": "Task is blocked until all tasks in this group are completed"
+    },
+    {
+      "default": "0",
+      "description": "Automatically set when dependencies are incomplete",
+      "fieldname": "is_blocked",
+      "fieldtype": "Check",
+      "label": "Is Blocked",
+      "read_only": 1
+    },
+    {
+      "collapsible": 1,
+      "fieldname": "section_finance",
+      "fieldtype": "Section Break",
+      "label": "Finance"
+    },
+    {
+      "fieldname": "estimated_cost",
+      "fieldtype": "Currency",
+      "label": "Estimated Cost"
+    },
+    {
+      "fieldname": "actual_cost",
+      "fieldtype": "Currency",
+      "label": "Actual Cost"
+    },
+    {
+      "fieldname": "column_break_finance",
+      "fieldtype": "Column Break"
+    },
+    {
+      "default": "0",
+      "fieldname": "is_billable",
+      "fieldtype": "Check",
+      "label": "Billable"
+    },
+    {
+      "depends_on": "eval:doc.is_billable",
+      "fieldname": "billing_rate",
+      "fieldtype": "Currency",
+      "label": "Billing Rate"
+    },
+    {
+      "collapsible": 1,
+      "fieldname": "section_frappe_integration",
+      "fieldtype": "Section Break",
+      "label": "Frappe Projects Integration"
+    },
+    {
+      "description": "Link to corresponding Task in Frappe Projects module",
+      "fieldname": "frappe_task_link",
+      "fieldtype": "Data",
+      "label": "Frappe Task"
+    },
+    {
+      "fieldname": "last_frappe_sync",
+      "fieldtype": "Datetime",
+      "label": "Last Sync",
+      "read_only": 1
+    }
+  ],
+  "index_web_pages_for_search": 1,
+  "links": [],
+  "modified": "2026-02-03 12:00:00.000000",
+  "modified_by": "Administrator",
+  "module": "Orga",
+  "name": "Orga Task",
+  "naming_rule": "By \"Naming Series\" field",
+  "owner": "Administrator",
+  "permissions": [
+    {
+      "create": 1,
+      "delete": 1,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "System Manager",
+      "share": 1,
+      "write": 1
+    },
+    {
+      "create": 1,
+      "delete": 1,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "Orga Manager",
+      "share": 1,
+      "write": 1
+    },
+    {
+      "create": 1,
+      "delete": 0,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "Orga User",
+      "share": 0,
+      "write": 1,
+      "if_owner": 1
+    },
+    {
+      "read": 1,
+      "role": "Orga Client"
+    }
+  ],
+  "search_fields": "subject,project,status,assigned_to,task_group",
+  "sort_field": "modified",
+  "sort_order": "DESC",
+  "states": [],
+  "title_field": "subject",
+  "track_changes": 1
+}

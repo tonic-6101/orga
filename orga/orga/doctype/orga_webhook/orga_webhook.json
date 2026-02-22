@@ -1,0 +1,198 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:webhook_name",
+ "creation": "2026-02-04 12:00:00.000000",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "webhook_name",
+  "url",
+  "column_break_1",
+  "is_active",
+  "secret",
+  "section_events",
+  "events",
+  "section_options",
+  "request_timeout",
+  "retry_count",
+  "column_break_options",
+  "include_doc_data",
+  "section_history",
+  "last_delivery",
+  "last_status",
+  "column_break_history",
+  "success_count",
+  "failure_count",
+  "section_notes",
+  "notes"
+ ],
+ "fields": [
+  {
+   "fieldname": "webhook_name",
+   "fieldtype": "Data",
+   "label": "Webhook Name",
+   "reqd": 1,
+   "unique": 1,
+   "in_list_view": 1
+  },
+  {
+   "fieldname": "url",
+   "fieldtype": "Data",
+   "label": "Webhook URL",
+   "reqd": 1,
+   "options": "URL",
+   "description": "The URL to receive webhook payloads"
+  },
+  {
+   "fieldname": "column_break_1",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "is_active",
+   "fieldtype": "Check",
+   "label": "Is Active",
+   "default": "1",
+   "in_list_view": 1
+  },
+  {
+   "fieldname": "secret",
+   "fieldtype": "Password",
+   "label": "Secret",
+   "description": "Used to sign payloads with HMAC-SHA256. The signature is sent in X-Orga-Signature header."
+  },
+  {
+   "fieldname": "section_events",
+   "fieldtype": "Section Break",
+   "label": "Subscribed Events"
+  },
+  {
+   "fieldname": "events",
+   "fieldtype": "Table",
+   "label": "Events",
+   "options": "Orga Webhook Event",
+   "reqd": 1,
+   "description": "Select which events trigger this webhook"
+  },
+  {
+   "fieldname": "section_options",
+   "fieldtype": "Section Break",
+   "label": "Options",
+   "collapsible": 1
+  },
+  {
+   "fieldname": "request_timeout",
+   "fieldtype": "Int",
+   "label": "Request Timeout (seconds)",
+   "default": "30",
+   "description": "Maximum time to wait for response (1-60 seconds)"
+  },
+  {
+   "fieldname": "retry_count",
+   "fieldtype": "Int",
+   "label": "Retry Count",
+   "default": "3",
+   "description": "Number of retries on failure (0-5)"
+  },
+  {
+   "fieldname": "column_break_options",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "include_doc_data",
+   "fieldtype": "Check",
+   "label": "Include Document Data",
+   "default": "1",
+   "description": "Include full document data in payload"
+  },
+  {
+   "fieldname": "section_history",
+   "fieldtype": "Section Break",
+   "label": "Delivery Statistics",
+   "collapsible": 1
+  },
+  {
+   "fieldname": "last_delivery",
+   "fieldtype": "Datetime",
+   "label": "Last Delivery",
+   "read_only": 1
+  },
+  {
+   "fieldname": "last_status",
+   "fieldtype": "Select",
+   "label": "Last Status",
+   "options": "\nSuccess\nFailed\nPending",
+   "read_only": 1,
+   "in_list_view": 1
+  },
+  {
+   "fieldname": "column_break_history",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "success_count",
+   "fieldtype": "Int",
+   "label": "Success Count",
+   "read_only": 1,
+   "default": "0"
+  },
+  {
+   "fieldname": "failure_count",
+   "fieldtype": "Int",
+   "label": "Failure Count",
+   "read_only": 1,
+   "default": "0"
+  },
+  {
+   "fieldname": "section_notes",
+   "fieldtype": "Section Break",
+   "label": "Notes",
+   "collapsible": 1
+  },
+  {
+   "fieldname": "notes",
+   "fieldtype": "Text",
+   "label": "Notes"
+  }
+ ],
+ "index_web_pages_for_search": 0,
+ "links": [],
+ "modified": "2026-02-04 12:00:00.000000",
+ "modified_by": "Administrator",
+ "module": "Orga",
+ "name": "Orga Webhook",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Orga Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "search_fields": "webhook_name, url",
+ "sort_field": "webhook_name",
+ "sort_order": "ASC",
+ "states": [],
+ "title_field": "webhook_name",
+ "track_changes": 1
+}

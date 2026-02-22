@@ -1,0 +1,1551 @@
++ Add Milestone,+ Lisa verstapost
++ Create Task,+ Loo ülesanne
++ Log Time,+ Kirjuta aeg
+-- Select a project --,-- Vali projekt --
+0m,0m
+1 day,1 päev
+1 day ago,1 päev tagasi
+1 dependency,1 sõltuvus
+1 entry,1 kirje
+1 file,1 fail
+1 hour ago,1 tund tagasi
+1 member,1 liige
+1 milestone,1 verstapost
+1 month,1 kuu
+1 task,1 ülesanne
+< 1m,< 1m
+"A clear, actionable title for the task",Selge ja teostatav pealkiri ülesandele
+A client with email {0} already exists: {1},Klient e-posti aadressiga {0} on juba olemas: {1}
+A key deliverable or checkpoint for the project,Projekti oluline tulemus või kontrollpunkt
+Accept,Nõustu
+Accepted,Nõustutud
+Acknowledge,Kinnita
+across,üle
+Action,Tegevus
+Actions,Tegevused
+Active,Aktiivne
+Active Assignments,Aktiivsed määramised
+Active Projects,Aktiivsed projektid
+Activity,Tegevused
+Activity data deleted successfully,Tegevuse andmed edukalt kustutatud
+Activity Info,Tegevuse info
+Activity Stats,Tegevuse statistika
+Activity will appear here as you work on tasks and projects.,Tegevused ilmuvad siia ülesannete ja projektidega töötades.
+Actual,Tegelik
+Actual Cost,Tegelik kulu
+Actual cost cannot be negative,Tegelik kulu ei saa olla negatiivne
+Actual end date cannot be before actual start date,Tegelik lõppkuupäev ei saa olla enne tegelikku alguskuupäeva
+Actual Hours,Tegelikud tunnid
+Add,Lisa
+Add a checklist item...,Lisa kontrollnimekirja element...
+Add a comment...,Lisa kommentaar...
+Add a comment... (Ctrl+Enter to send),Lisa kommentaar... (Ctrl+Enter saatmiseks)
+Add a description...,Lisa kirjeldus...
+Add a milestone description...,Lisa verstapostile kirjeldus...
+Add a note below to annotate this activity.,Lisage allpool märkus selle tegevuse kohta.
+Add a note...,Lisa märkus...
+Add a project description...,Lisa projekti kirjeldus...
+Add a task description...,Lisa ülesande kirjeldus...
+Add checklist item...,Lisa kontrollnimekirja element...
+Add Contact,Lisa kontakt
+Add contacts via the Desk interface or clear filters,Lisage kontakte Desk liidese kaudu või tühjendage filtrid
+Add Dependency,Lisa sõltuvus
+Add details about this event...,Lisa selle sündmuse üksikasjad...
+Add details about this milestone...,Lisa selle verstapostile üksikasjad...
+Add details about this task...,Lisa selle ülesande üksikasjad...
+Add details or acceptance criteria for this milestone,Lisa üksikasjad või vastuvõtukriteeriumid selle verstapostile
+"Add details, context, or acceptance criteria","Lisa üksikasjad, kontekst või vastuvõtukriteeriumid"
+Add first dependency,Lisa esimene sõltuvus
+Add item,Lisa element
+Add items below to track progress.,Lisage allpool elemente edenemise jälgimiseks.
+Add items below to track subtasks,Lisage allpool elemente alamülesannete jälgimiseks
+Add Milestone,Lisa verstapost
+Add Milestone (Shift+M),Lisa verstapost (Shift+M)
+Add milestones to track key deliverables.,Lisage verstaposte oluliste tulemuste jälgimiseks.
+Add New Contact,Lisa uus kontakt
+Add Note,Lisa märkus
+Add note,Lisa märkus
+Add notes about this contact...,Lisa märkmeid selle kontakti kohta...
+Add reaction,Lisa reaktsioon
+Add Skill,Lisa oskus
+Add start and due dates to tasks to see them on the Gantt chart,Lisage ülesannetele algus- ja tähtajad nende nägemiseks Gantt diagrammil
+Add Task,Lisa ülesanne
+Add Task (Shift+T),Lisa ülesanne (Shift+T)
+Added Finish-to-Start dependency,Lõpp-algus sõltuvus lisatud
+Adding this dependency would create a circular reference: {0},Selle sõltuvuse lisamine tekitaks ringviite: {0}
+Adding...,Lisamine...
+Address,Aadress
+Advanced,Täpsem
+All,Kõik
+All Active,Kõik aktiivsed
+All Assignees,Kõik määratud
+All Categories,Kõik kategooriad
+All caught up!,Kõik on tehtud!
+All Contexts,Kõik kontekstid
+All day,Terve päev
+All day event,Kogu päeva sündmus
+All fields,Kõik väljad
+All Priorities,Kõik prioriteedid
+All Projects,Kõik projektid
+All Status,Kõik olekud
+All Statuses,Kõik olekud
+All task dependencies & relative dates,Kõik ülesannete sõltuvused ja suhtelised kuupäevad
+All Tasks,Kõik ülesanded
+All tasks across all projects.,Kõik ülesanded kõikides projektides.
+All tasks are already linked,Kõik ülesanded on juba seotud
+All team members,Kõik meeskonnaliikmed
+All Types,Kõik tüübid
+All Users,Kõik kasutajad
+Allocated,Eraldatud
+allocated,eraldatud
+Allow users to log time against tasks,Luba kasutajatel ülesannete jaoks aega kirjutada
+Already exported to timesheet {0},Juba eksporditud ajakaardile {0}
+Already Migrated,Juba migreeritud
+Anyone with access,Igaüks kellel on juurdepääs
+anytime to show this help,igal ajal selle abi kuvamiseks
+App Updates,App Updates
+Appearance,Välimus
+Apply,Rakenda
+Apply cascade?,Rakendada kaskaad?
+Apply Changes,Rakenda muudatused
+Apply failed,Rakendamine ebaõnnestus
+Apply Template,Rakenda mall
+Applying...,Rakendamine...
+Appointment,Kohtumine
+Appointment and resource are required,Kohtumine ja ressurss on nõutavad
+Appointment name is required,Kohtumise nimi on nõutav
+Appointment not found,Kohtumist ei leitud
+Appointment {0} not found,Kohtumist {0} ei leitud
+Apps,Rakendused
+Archive,Arhiveeri
+Archive Activity,Arhiveeri tegevus
+Archived,Arhiveeritud
+Are you sure you want to delete this activity data? This cannot be undone.,"Kas olete kindel, et soovite need tegevuse andmed kustutada? Seda ei saa tagasi võtta."
+Are you sure you want to delete this comment?,Kas olete kindel et soovite selle kommentaari kustutada?
+Are you sure you want to delete this project?,Kas olete kindel et soovite selle projekti kustutada?
+Are you sure?,Kas olete kindel?
+Ascending -- click to reverse,Kasvav -- klõpsake ümberpööramiseks
+Assign To,Määra
+Assign to Me,Määra mulle
+Assigned Contact,Määratud kontakt
+Assigned To,Määratud
+Assigned to,Määratud
+Assigned to Me,Mulle määratud
+Assignee,Määratud isik
+Assignment,Määramine
+Assignment History,Määramiste ajalugu
+Assignment name is required,Määramise nimi on nõutav
+Assignment {0} not found,Määramist {0} ei leitud
+Assignments,Määramised
+At least one action is required,Vähemalt üks tegevus on nõutav
+At least one event is required,Vähemalt üks sündmus on nõutav
+At least one event must be selected,Vähemalt üks sündmus peab olema valitud
+Attachment,Manus
+Attachments,Manused
+Attendees,Osalejad
+"Audit trail, assignments, version history","Muudatuste jälg, määramised, versioonide ajalugu"
+Auto,Automaatne
+Auto Calculate Progress,Arvuta edenemist automaatselt
+Auto Set Missed Milestones,Märgi möödunud verstapostid automaatselt
+Auto-shift dependents when dates change,Nihuta sõltuvaid automaatselt kuupäevade muutumisel
+Auto-Trail Start,Automaatne nihkumine
+Auto-Trail updated,Automaatne nihkumine uuendatud
+Automatically calculate project progress from task completion,Arvuta projekti edenemine automaatselt ülesannete lõpetamise põhjal
+Automatically mark milestones as missed when overdue,Märgi verstapostid automaatselt möödunuks kui tähtaeg on ületatud
+Automation rule {0} not found,Automatiseerimise reeglit {0} ei leitud
+Automation: {0},Automatiseerimine: {0}
+Availability,Saadavus
+Available,Saadaval
+Avatar updated successfully,Profiilipilt edukalt uuendatud
+Avg Progress,Keskmine edenemine
+Back,Tagasi
+Back to Portal,Tagasi portaali
+Back to Projects,Tagasi projektide juurde
+Beginner,Algaja
+Best regards,Parimate soovidega
+Billable,Arveldatav
+Billable Amount,Arveldatav summa
+Billable Hours,Arveldatavad tunnid
+Billable Rate,Arveldatav määr
+Billing Rate,Arveldusmäär
+Blocked,Blokeeritud
+Both dates are needed to display task as a bar in Gantt chart,Ülesande ribana kuvamiseks Gantt diagrammil on mõlemad kuupäevad vajalikud
+Both doctype and docname are required,Nii doctype kui ka docname on nõutavad
+Both proposed start and end times are required,Nii pakutud algus- kui lõppaeg on nõutavad
+Both task_name and depends_on are required,Nii task_name kui depends_on on nõutavad
+Breadcrumb,Teejuht
+Brief description of the defect or damage,Lühikirjeldus defektist või kahjustusest
+Brief description of this template,Selle malli lühikirjeldus
+Brief description of your request,Teie taotluse lühikirjeldus
+Brief project description,Projekti lühikirjeldus
+Budget,Eelarve
+Budget at risk,Eelarve ohus
+Budget Burn Rate,Eelarve kulutamise kiirus
+Budget Status,Eelarve olek
+Budget updated,Eelarve uuendatud
+Budget:,Eelarve:
+Bug,Viga
+Burn Rate,Kulutamise kiirus
+Busy,Hõivatud
+By,Autor
+By Assignee,Määratu järgi
+By Group,Rühma järgi
+By Milestone,Verstapostide järgi
+By Priority,Prioriteedi järgi
+By Status,Oleku järgi
+Cancel,Tühista
+Cancelled,Tühistatud
+cannot be undone,ei saa tagasi võtta
+Cannot delete client with {0} linked projects. Unlink projects first.,Ei saa kustutada klienti {0} seotud projektiga. Eemaldage esmalt projektide seosed.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Ei saa kustutada projekti {0} seotud ülesandega. Kustutage esmalt ülesanded.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Ei saa kustutada ressurssi {0} aktiivse määramisega. Lõpetage või tühistage need esmalt.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Ei saa kustutada ülesannet {0} alamülesandega. Kustutage esmalt alamülesanded.
+Capacity,Maht
+capacity,maht
+Capacity & Rates,Maht ja määrad
+Capture project structure for reuse,Salvesta projekti struktuur taaskasutamiseks
+Cascade,Kaskaad
+Cascade Preview,Kaskaadi eelvaade
+Category,Kategooria
+Celebrate,Tähista
+Change,Muuda
+Change History,Muudatuste ajalugu
+Change Priority,Muuda prioriteeti
+Change Status,Muuda olekut
+Changes,Muudatused
+Changes appear when fields are modified.,Muudatused ilmuvad väljade muutmisel.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Kontrollnimekiri
+Checklist item name is required,Kontrollnimekirja elemendi nimi on nõutav
+Checklist item not found,Kontrollnimekirja elementi ei leitud
+Checklist item title is required,Kontrollnimekirja elemendi pealkiri on nõutav
+Checklist item {0} not found,Kontrollnimekirja elementi {0} ei leitud
+Checklist item {0} not found in task,Kontrollnimekirja elementi {0} ei leitud ülesandest
+Child,Alamülesanne
+Choose file to upload,Valige fail üleslaadimiseks
+Circular dependency detected: {0},Ringkujuline sõltuvus tuvastatud: {0}
+Circular parent-child relationship detected,Ringkujuline ülem-alam seos tuvastatud
+Clear,Tühjenda
+Clear all read,Tühjenda kõik loetud
+Clear date,Tühjenda kuupäev
+Click on an activity from the list to view and manage its details.,Klõpsake tegevusel loendis selle üksikasjade vaatamiseks ja haldamiseks.
+Click the avatar to upload a new photo,Klõpsake profiilipildil uue foto üleslaadimiseks
+Click to add description...,Klõpsake kirjelduse lisamiseks...
+Click to add notes...,Klõpsake märkmete lisamiseks...
+Click to assign contact,Klõpsake kontakti määramiseks
+Click to change status,Klõpsake oleku muutmiseks
+Click to change type,Klõpsake tüübi muutmiseks
+Click to edit,Klõpsake muutmiseks
+Click to edit budget,Klõpsake eelarve muutmiseks
+Click to edit description,Klõpsake kirjelduse muutmiseks
+Click to edit end date,Klõpsake lõppkuupäeva muutmiseks
+Click to edit milestone name,Klõpsake verstapostile nime muutmiseks
+Click to edit rate,Klõpsake määra muutmiseks
+Click to edit start date,Klõpsake alguskuupäeva muutmiseks
+Click to edit title,Klõpsake pealkirja muutmiseks
+Click to load,Klõpsake laadimiseks
+Click to set group dependency...,Klõpsake rühma sõltuvuse määramiseks...
+Click to set group...,Klõpsake rühma määramiseks...
+Click to view,Klõpsake vaatamiseks
+Click to view at-risk projects,Klõpsake ohustatud projektide vaatamiseks
+Click to view critical projects,Klõpsake kriitiliste projektide vaatamiseks
+Click to view healthy projects,Klõpsake tervete projektide vaatamiseks
+Client,Klient
+Client already has a portal user: {0},Kliendil on juba portaali kasutaja: {0}
+Client already has portal access,Kliendil on juba portaalile juurdepääs
+Client has no portal user to revoke,Kliendil ei ole portaali kasutajat tühistamiseks
+Client link removed from project {0},Kliendi seos eemaldatud projektist {0}
+Client Portal,Kliendiportaal
+Client {0} deleted successfully,Klient {0} edukalt kustutatud
+Close,Sulge
+Close (Esc),Sulge (Esc)
+Comment,Kommentaar
+comment,kommentaar
+Comment added,Kommentaar lisatud
+Comment content is required,Kommentaari sisu on nõutav
+Comment name is required,Kommentaari nimi on nõutav
+Comment not found,Kommentaari ei leitud
+Comment removed,Kommentaar eemaldatud
+Comment {0} not found in task,Kommentaari {0} ei leitud ülesandest
+Comments,Kommentaarid
+comments,kommentaarid
+Community Edition,Community Edition
+Company,Ettevõte
+Company name...,Ettevõtte nimi...
+Complete,Lõpeta
+Completed,Lõpetatud
+completed,lõpetatud
+Completed Tasks,Lõpetatud ülesanded
+Compliance,Vastavus
+Configure default values for new projects and tasks,Seadista uute projektide ja ülesannete vaikeväärtused
+Configure email notification settings,Seadista e-posti teavituste sätted
+Confirm,Kinnita
+Contact deleted,Kontakt kustutatud
+Contact Details,Kontakti üksikasjad
+Contact Information,Kontaktandmed
+Contact name is required,Kontakti nimi on nõutav
+Contact Support,Võta ühendust toega
+Contact your project manager for more information.,Lisateabe saamiseks pöörduge projektijuhi poole.
+Contact:,Kontakt:
+Contacts,Kontaktid
+Context,Kontekst
+Contractor,Töövõtja
+Cost estimate cannot be negative,Kulude hinnang ei saa olla negatiivne
+Cost Impact,Kulu mõju
+Cost Summary,Kulude kokkuvõte
+Could not apply the template. Please try again.,Malli rakendamine ebaõnnestus. Palun proovige uuesti.
+Could not attach file to project,Faili lisamine projektile ebaõnnestus
+Could not change task priority,Ülesande prioriteedi muutmine ebaõnnestus
+Could not change task status,Ülesande oleku muutmine ebaõnnestus
+Could not delete the project. Please try again.,Projekti kustutamine ebaõnnestus. Palun proovige uuesti.
+Could not delete the task. Please try again.,Ülesande kustutamine ebaõnnestus. Palun proovige uuesti.
+Could not delete the template.,Malli kustutamine ebaõnnestus.
+Could not duplicate the task. Please try again.,Ülesande kopeerimine ebaõnnestus. Palun proovige uuesti.
+Could not export the template.,Malli eksportimine ebaõnnestus.
+Could not import the template. Please check the file format.,Malli importimine ebaõnnestus. Palun kontrollige faili vormingut.
+Could not link task to milestone,Ülesande sidumine verstapostiga ebaõnnestus
+Could not load document details.,Dokumendi üksikasjade laadimine ebaõnnestus.
+Could not load task details,Ülesande üksikasjade laadimine ebaõnnestus
+Could not promote checklist item to task.,Kontrollnimekirja elemendi edutamine ülesandeks ebaõnnestus.
+Could not remove task from milestone,Ülesande eemaldamine verstapostist ebaõnnestus
+Could not save budget.,Eelarve salvestamine ebaõnnestus.
+Could not save changes to the milestone,Verstapostile tehtud muudatuste salvestamine ebaõnnestus
+Could not save changes to the task,Ülesandele tehtud muudatuste salvestamine ebaõnnestus
+Could not save description.,Kirjelduse salvestamine ebaõnnestus.
+Could not save end date.,Lõppkuupäeva salvestamine ebaõnnestus.
+Could not save milestone name.,Verstapostile nime salvestamine ebaõnnestus.
+Could not save start date.,Alguskuupäeva salvestamine ebaõnnestus.
+Could not save the template. Please try again.,Malli salvestamine ebaõnnestus. Palun proovige uuesti.
+Could not save title.,Pealkirja salvestamine ebaõnnestus.
+Could not update dependency mode.,Sõltuvuse režiimi uuendamine ebaõnnestus.
+Could not update milestone date,Verstapostile kuupäeva uuendamine ebaõnnestus
+Could not update project status.,Projekti oleku uuendamine ebaõnnestus.
+Could not update project type.,Projekti tüübi uuendamine ebaõnnestus.
+Could not update setting.,Sätte uuendamine ebaõnnestus.
+Could not update task dates,Ülesande kuupäevade uuendamine ebaõnnestus
+Could not update task status,Ülesande oleku uuendamine ebaõnnestus
+Could not update the template.,Malli uuendamine ebaõnnestus.
+Create a copy of this task,Loo sellest ülesandest koopia
+Create Contact,Loo kontakt
+Create Event,Loo sündmus
+Create Milestone,Loo verstapost
+Create New Milestone,Loo uus verstapost
+Create New Task,Loo uus ülesanne
+Create Project,Loo projekt
+Create Task,Loo ülesanne
+Create tasks and milestones from a template,Loo ülesanded ja verstapostid mallist
+Create your first project to get started.,Looge oma esimene projekt alustamiseks.
+Create your first task to start tracking work on this project.,Looge esimene ülesanne selle projekti töö jälgimiseks.
+Created,Loodud
+Creating...,Loomine...
+Critical,Kriitiline
+Critical Path,Kriitiline tee
+"Currency used for budgets, costs, and billing rates","Valuuta eelarveteks, kuludeks ja arveldusmääradeks"
+Current,Praegune
+Current Assignments,Praegused määramised
+Current scheduled time:,Praegune kavandatud aeg:
+Currently running version,Currently running version
+d lag,p viivitus
+Daily Availability,Päevane saadavus
+Daily Hours,Päevatunnid
+Danger Zone,Ohutsoon
+Dark,Tume
+Dashboard,Töölaud
+Date,Kuupäev
+Date changes on this task will show cascade impact here,Selle ülesande kuupäevamuudatused näitavad kaskaadimõju siin
+Date cleared,Kuupäev tühjendatud
+Date of Joining,Liitumise kuupäev
+Date updated,Kuupäev uuendatud
+Dates,Kuupäevad
+Dates cascaded,Kuupäevad kaskaaditud
+Dates will be relative to the project's start date.,Kuupäevad on suhtelised projekti alguskuupäeva suhtes.
+Day,Päev
+day,päev
+days,päeva
+Days before due date to send reminder,Päevi enne tähtaega meeldetuletuse saatmiseks
+Days Overdue,Päevi üle tähtaja
+Days Remaining,Päevi jäänud
+Deadline,Tähtaeg
+Deadlines,Tähtajad
+Decision,Otsus
+Decline,Keeldu
+Declined,Keeldutud
+Default Currency,Vaikevaluuta
+Default hours per week for contact capacity planning,Vaiketunnid nädalas kontakti mahuplaneerimiseks
+Default Priority,Vaikepriortieet
+Default Project Status,Projekti vaikeolek
+Default Task Status,Ülesande vaikeolek
+Default task view,Ülesande vaikevaade
+Default Values,Vaikeväärtused
+Default Weekly Capacity,Vaikimisi nädalane maht
+Defaults,Vaikeväärtused
+Defect Cost Impact,Defekti kulu mõju
+Defect name is required,Defekti nimi on nõutav
+Defect Type,Defekti tüüp
+Defect {0} not found,Defekti {0} ei leitud
+Defects,Defektid
+Defects & Issues,Defektid ja probleemid
+Defects Resolved,Lahendatud defektid
+Delayed,Hilinenud
+Delete,Kustuta
+Delete Activity Data,Kustuta tegevuse andmed
+Delete all read notifications?,Kustutada kõik loetud teavitused?
+Delete comment,Kustuta kommentaar
+Delete Contact,Kustuta kontakt
+Delete Event,Kustuta sündmus
+Delete Event?,Kustutada sündmus?
+Delete failed,Kustutamine ebaõnnestus
+Delete file,Kustuta fail
+Delete item,Kustuta element
+Delete note,Kustuta märkus
+Delete Project,Kustuta projekt
+Delete Task,Kustuta ülesanne
+Delete this project,Kustuta see projekt
+Deleted,Kustutatud
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Projekt ""{0}"" kustutatud ({1} ülesannet, {2} verstapostid)"
+Deletes notes and preferences. Source document is not affected.,Kustutab märkmed ja eelistused. Lähtekovumenti ei mõjutata.
+Deleting...,Kustutamine...
+Department,Osakond
+Dependencies,Sõltuvused
+dependencies,sõltuvused
+Dependencies are informational only,Sõltuvused on ainult teavituslikud
+dependency,sõltuvus
+Dependency already exists,Sõltuvus on juba olemas
+Dependency Chain,Sõltuvuste ahel
+Dependency created,Sõltuvus loodud
+Dependency mode updated,Sõltuvuse režiim uuendatud
+Dependency name is required,Sõltuvuse nimi on nõutav
+Dependency task {0} not found,Sõltuvuse ülesannet {0} ei leitud
+Dependency {0} not found,Sõltuvust {0} ei leitud
+depends,sõltub
+Depends on Group,Sõltub rühmast
+Depends on task is required,Sõltuvusülesanne on nõutav
+depends on...,sõltub...
+Descending -- click to reverse,Kahanev -- klõpsake ümberpööramiseks
+Describe the defect in detail...,Kirjeldage defekti üksikasjalikult...
+Description,Kirjeldus
+Description updated,Kirjeldus uuendatud
+Designation,Ametinimetus
+"Detailed description of the defect, location, and impact","Defekti, asukoha ja mõju üksikasjalik kirjeldus"
+Details,Üksikasjad
+Discard timer,Loobu taimerist
+Discussion,Arutelu
+Dismiss,Dismiss
+Display,Kuva
+Document,Dokument
+Document attached to project,Dokument lisatud projektile
+Document final decision and rationale,Dokumenteeri lõplik otsus ja põhjendus
+Documentation Review,Dokumentatsiooni ülevaatus
+Documents,Dokumendid
+Done,Valmis
+Download,Laadi alla
+Drag to create dependency,Lohistage sõltuvuse loomiseks
+Dry Run,Proovijooks
+Dry Run Complete,Proovijooks lõpetatud
+Due Date,Tähtaeg
+Due date,Tähtaeg
+Due Date (Earliest),Tähtaeg (varaseim)
+Due date cannot be before start date,Tähtaeg ei saa olla enne alguskuupäeva
+Due date is in the past,Tähtaeg on minevikus
+Due Date Reminders,Tähtaja meeldetuletused
+Due Diligence,Nõuetekohane hoolsus
+Due Diligence Checklist,Nõuetekohase hoolsuse kontrollnimekiri
+Due This Week,Tähtaeg sel nädalal
+Due:,Tähtaeg:
+Duplicate events are not allowed,Korduvad sündmused ei ole lubatud
+Duplicate failed,Kopeerimine ebaõnnestus
+Duplicate Task,Kopeeri ülesanne
+Duration,Kestus
+Duration Summary,Kestuse kokkuvõte
+Duration:,Kestus:
+e.g. Cracked wall finish in bathroom...,nt Pragunenud seinakate vannitoas...
+"e.g. Electrical, Plumbing...","nt Elektri-, Torutööd..."
+Edit,Muuda
+Edit (E),Muuda (E)
+Edit dependency,Muuda sõltuvust
+Edit Event,Muuda sündmust
+Efficiency,Tõhusus
+Either dependency_name or depends_on is required,dependency_name või depends_on on nõutav
+Email,E-post
+Email invitations to all attendees,E-posti kutsed kõigile osalejatele
+Email is required to create portal user,E-posti aadress on vajalik portaali kasutaja loomiseks
+Email notifications,E-posti teavitused
+Employee,Töötaja
+Employee DocType not available,Töötaja DocType ei ole saadaval
+Employee not found,Töötajat ei leitud
+Enable or disable optional features,Luba või keela valikulised funktsioonid
+Enable Time Tracking,Luba aja jälgimine
+End,Lõpp
+End Date,Lõppkuupäev
+End date,Lõppkuupäev
+End Date cannot be before Start Date,Lõppkuupäev ei saa olla enne alguskuupäeva
+End date cannot be before start date,Lõppkuupäev ei saa olla enne alguskuupäeva
+End date updated,Lõppkuupäev uuendatud
+End time was before start time. Adjusted to 1 hour after start.,Lõpuaeg oli enne algusaega. Kohandatud 1 tund pärast algust.
+End:,Lõpp:
+Enter milestone name...,Sisestage verstapostile nimi...
+Enter project name,Sisestage projekti nimi
+Enter task title...,Sisestage ülesande pealkiri...
+Enter template name,Sisestage malli nimi
+Enter your note... Use @name to mention someone,Sisestage oma märkus... Kasutage @nimi kellegi mainimiseks
+Error,Viga
+Error loading activity,Viga tegevuse laadimisel
+Error loading contacts,Viga kontaktide laadimisel
+Error loading dashboard,Viga töölaua laadimisel
+Error loading project,Viga projekti laadimisel
+Error loading projects,Viga projektide laadimisel
+Error loading settings,Viga sätete laadimisel
+Error loading tasks,Viga ülesannete laadimisel
+Error loading templates,Viga mallide laadimisel
+Est. Hours,Hin. tunnid
+Estimated,Hinnanguline
+Estimated Cost,Hinnanguline kulu
+Estimated Cost (€),Hinnanguline kulu (€)
+Estimated Hours,Hinnangulised tunnid
+Estimated:,Hinnanguline:
+Evaluate potential risks and concerns,Hinnake võimalikke riske ja murekohti
+Event,Sündmus
+Event is required for event context,Sündmus on nõutav sündmuse konteksti jaoks
+Event is required when tracking context is 'event',"Sündmus on nõutav kui jälgimise kontekst on „sündmus""
+Events not available. Please run: bench --site orga.localhost migrate"""
+Event Type,Sündmuse tüüp
+Events,Sündmused
+Events not available. Please run: bench --site orga.localhost migrate,Sündmused pole saadaval. Palun käivitage: bench --site orga.localhost migrate
+Events:,Sündmused:
+Expert,Ekspert
+Explain why you are proposing a different time...,Selgitage miks te pakute teist aega...
+Export,Ekspordi
+Export failed,Eksportimine ebaõnnestus
+Export JSON,Ekspordi JSON
+Exported,Eksporditud
+Exported to timesheet {0},Eksporditud ajakaardile {0}
+External,Väline
+Failed to add item,Elemendi lisamine ebaõnnestus
+Failed to add note,Märkuse lisamine ebaõnnestus
+Failed to add skill,Oskuse lisamine ebaõnnestus
+Failed to apply cascade changes: {0},Kaskaadmuudatuste rakendamine ebaõnnestus: {0}
+Failed to create defect,Defekti loomine ebaõnnestus
+Failed to create dependency,Sõltuvuse loomine ebaõnnestus
+Failed to create event,Sündmuse loomine ebaõnnestus
+Failed to create milestone,Verstapostile loomine ebaõnnestus
+Failed to create project,Projekti loomine ebaõnnestus
+Failed to create task,Ülesande loomine ebaõnnestus
+Failed to create time log,Ajakande loomine ebaõnnestus
+Failed to delete,Kustutamine ebaõnnestus
+Failed to delete comment,Kommentaari kustutamine ebaõnnestus
+Failed to delete contact,Kontakti kustutamine ebaõnnestus
+Failed to load,Laadimine ebaõnnestus
+Failed to load activity,Tegevuse laadimine ebaõnnestus
+Failed to load assignments,Määramiste laadimine ebaõnnestus
+Failed to load contact,Kontakti laadimine ebaõnnestus
+Failed to load dashboard data,Töölaua andmete laadimine ebaõnnestus
+Failed to load defects,Defektide laadimine ebaõnnestus
+Failed to load events,Sündmuste laadimine ebaõnnestus
+Failed to load project,Projekti laadimine ebaõnnestus
+Failed to load projects,Projektide laadimine ebaõnnestus
+Failed to load report data,Aruande andmete laadimine ebaõnnestus
+Failed to load settings,Sätete laadimine ebaõnnestus
+Failed to load tasks,Ülesannete laadimine ebaõnnestus
+Failed to move task,Ülesande liigutamine ebaõnnestus
+Failed to post comment,Kommentaari postitamine ebaõnnestus
+Failed to propose new time,Uue aja pakkumine ebaõnnestus
+Failed to remove item,Elemendi eemaldamine ebaõnnestus
+Failed to remove skill,Oskuse eemaldamine ebaõnnestus
+Failed to reorder milestones: {0},Verstapostide ümberjärjestamine ebaõnnestus: {0}
+Failed to reorder tasks: {0},Ülesannete ümberjärjestamine ebaõnnestus: {0}
+Failed to reschedule dependent tasks: {0},Sõltuvate ülesannete ümberplaneerimine ebaõnnestus: {0}
+Failed to save,Salvestamine ebaõnnestus
+Failed to save preferences,Eelistuste salvestamine ebaõnnestus
+Failed to save settings,Sätete salvestamine ebaõnnestus
+Failed to submit request. Please try again.,Taotluse esitamine ebaõnnestus. Palun proovige uuesti.
+Failed to update item,Elemendi uuendamine ebaõnnestus
+Failed to update priority,Prioriteedi uuendamine ebaõnnestus
+Failed to update task,Ülesande uuendamine ebaõnnestus
+Failed to update tasks: {0},Ülesannete uuendamine ebaõnnestus: {0}
+Failed to upload avatar,Profiilipildi üleslaadimine ebaõnnestus
+Feature,Funktsioon
+Features,Funktsioonid
+FF (Finish-Finish),FF (Lõpp-Lõpp)
+FF - Finish-to-Finish,FF - Lõpp-Lõpp
+Field has been updated,Väli on uuendatud
+Field name is required for 'Set Field Value' action,"Välja nimi on nõutav tegevuse „Määra välja väärtus jaoks"""
+Field {0} is not a Link field,Väli {0} ei ole lingitüüpi väli
+Field {0} not found in {1},Välja {0} ei leitud {1}
+File,Fail
+file,fail
+File does not belong to this task,Fail ei kuulu selle ülesande juurde
+File name is required,Faili nimi on nõutav
+File uploaded,Fail üles laaditud
+File {0} not found,Faili {0} ei leitud
+Files,Failid
+files,failid
+Filter,Filter
+Final Decision,Lõplik otsus
+Finance,Rahandus
+Financial,Rahaline
+Finish-to-Finish,Lõpp-Lõpp
+Finish-to-Start,Lõpp-Algus
+Flag,Märgista
+Flag for attention,Märgista tähelepanuks
+Flagged,Märgistatud
+Focus Panel,Fookuspaneel
+Follows your system preference. Currently:,Järgib teie süsteemi eelistust. Hetkel:
+Frappe Project {0} not found,Frappe projekti {0} ei leitud
+Frappe Projects Migration,Frappe Projects migratsioon
+Frappe Projects module not available,Frappe Projects moodul ei ole saadaval
+Frappe Projects module not installed,Frappe Projects moodul ei ole installitud
+Frappe Projects sync is not enabled,Frappe Projects sünkroonimine ei ole lubatud
+Frappe Task DocType not found,Frappe ülesande DocType ei leitud
+Frappe Task has no project,Frappe ülesandel puudub projekt
+Frappe Task {0} not found,Frappe ülesannet {0} ei leitud
+Fri,R
+From,Alates
+From Template,Mallist
+FS (Finish-Start),FS (Lõpp-Algus)
+FS - Finish-to-Start (default),FS - Lõpp-Algus (vaikimisi)
+Full form view with audit trail,Täisvaade muudatuste jäljega
+Full name,Täisnimi
+Gantt,Gantt
+Gantt Chart,Gantt diagramm
+Gantt View,Gantt vaade
+General Note,Üldine märkus
+Get started,Alusta
+Go back,Mine tagasi
+Go Back,Go Back
+Group by,Rühmita
+Group dependency removed,Rühma sõltuvus eemaldatud
+Group dependency set,Rühma sõltuvus määratud
+Group removed,Rühm eemaldatud
+Group updated,Rühm uuendatud
+Hammock task dates are auto-calculated and cannot be changed manually,Hängmatitüüpi ülesande kuupäevad arvutatakse automaatselt ja neid ei saa käsitsi muuta
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Kas teil on küsimus või vajate abi? Täitke allolev vorm ja meie meeskond vastab teile.
+Health,Tervis
+Healthy,Terve
+Hello {0},Tere {0}
+Here's what's happening with your projects today.,Siin on ülevaade teie tänastest projektidest.
+Hide,Peida
+High,Kõrge
+History,Ajalugu
+Home,Avaleht
+Hourly Cost,Tunnihind
+Hours,Tunnid
+hours,tundi
+Hours Logged,Kirjutatud tunnid
+ID,ID
+Image must be smaller than 5 MB,Pilt peab olema väiksem kui 5 MB
+Import,Impordi
+Import existing projects and tasks from Frappe Projects module,Importige olemasolevad projektid ja ülesanded Frappe Projects moodulist
+Import failed,Importimine ebaõnnestus
+Import Template,Impordi mall
+Imported,Imporditud
+in,sees
+In Progress,Pooleli
+In Review,Ülevaatusel
+In-app notifications,Rakendusesisesed teavitused
+Inactive,Mitteaktiivne
+Initial Review,Esialgne ülevaatus
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Ebapiisavad õigused kõigi ülesannete vaatamiseks
+Intermediate,Keskmine
+Internal,Sisemine
+Invalid DocType,Vigane DocType
+Invalid DocType for import,Vigane DocType importimiseks
+Invalid item type: {0},Vigane elemendi tüüp: {0}
+Invalid JSON data,Vigased JSON andmed
+Invalid note type. Must be one of: {0},Vigane märkuse tüüp. Peab olema üks järgmistest: {0}
+Invalid project reference,Vigane projekti viide
+Invalid reaction type. Must be one of: {0},Vigane reaktsiooni tüüp. Peab olema üks järgmistest: {0}
+Invalid RSVP status,Vigane RSVP olek
+Invalid status. Must be one of: {0},Vigane olek. Peab olema üks järgmistest: {0}
+Invalid status: {0},Vigane olek: {0}
+Invalid status: {0}. Must be one of: {1},Vigane olek: {0}. Peab olema üks järgmistest: {1}
+Invalid tracking context: {0},Vigane jälgimise kontekst: {0}
+Invalid visibility. Must be one of: {0},Vigane nähtavus. Peab olema üks järgmistest: {0}
+Invitation: {0} - {1} at {2},Kutse: {0} - {1} kell {2}
+Invite People,Kutsu inimesi
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Element lisatud
+Item ID is required,Elemendi ID on nõutav
+Item removed,Element eemaldatud
+Item type is required,Elemendi tüüp on nõutav
+Item {0} not found,Elementi {0} ei leitud
+Job title or role,Ametinimetus või roll
+Join Meeting,Liitu koosolekuga
+Just now,Just praegu
+just now,just praegu
+Kanban,Kanban
+Kanban Board,Kanban tahvel
+Kanban View,Kanban vaade
+Keyboard Shortcuts,Kiirklahvid
+Keyboard shortcuts (?),Kiirklahvid (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Viimati uuendatud
+Last updated:,Viimati uuendatud:
+Last Week,Eelmine nädal
+Latest Version,Latest Version
+Light,Hele
+Link failed,Sidumine ebaõnnestus
+Link Task,Seo ülesanne
+Linked,Seotud
+Linked employee not found,Seotud töötajat ei leitud
+Linked Tasks,Seotud ülesanded
+List,Loend
+List View,Loendivaade
+Load failed,Laadimine ebaõnnestus
+Load More,Laadi rohkem
+Load more comments,Laadi rohkem kommentaare
+Loading activity...,Tegevuse laadimine...
+Loading changes...,Muudatuste laadimine...
+Loading checklist...,Kontrollnimekirja laadimine...
+Loading comments...,Kommentaaride laadimine...
+Loading contact...,Kontakti laadimine...
+Loading contacts...,Kontaktide laadimine...
+Loading dependencies...,Sõltuvuste laadimine...
+Loading details...,Üksikasjade laadimine...
+Loading discussion...,Arutelu laadimine...
+Loading events...,Sündmuste laadimine...
+Loading files...,Failide laadimine...
+Loading notes...,Märkmete laadimine...
+Loading preferences...,Eelistuste laadimine...
+Loading project...,Projekti laadimine...
+Loading projects...,Projektide laadimine...
+Loading replies...,Vastuste laadimine...
+Loading report data...,Aruande andmete laadimine...
+Loading settings...,Sätete laadimine...
+Loading task...,Ülesande laadimine...
+Loading templates...,Mallide laadimine...
+Loading time logs...,Ajakannete laadimine...
+Loading your portal...,Teie portaali laadimine...
+Loading...,Laadimine...
+Location,Asukoht
+Log Time,Kirjuta aeg
+Logout,Logi välja
+Low,Madal
+Make Offer,Tee pakkumine
+Manager,Haldur
+Manual Entry,Käsitsi sisestamine
+Margin,Marginaal
+Mark all as read,Märgi kõik loetuks
+Mark all read,Märgi kõik loetuks
+Mark as read,Märgi loetuks
+Mark as unread,Märgi mitteloetuks
+Mark read,Märgi loetuks
+Marking...,Märkimine...
+Material,Materjal
+Maybe,Võib-olla
+Medium,Keskmine
+Meeting,Koosolek
+Meeting Link,Koosoleku link
+Meeting title,Koosoleku pealkiri
+Meeting URL,Koosoleku URL
+Meetings,Koosolekud
+Mention,Mainimine
+Message,Sõnum
+Message is required,Sõnum on nõutav
+Message is required for '{0}' action,"Sõnum on nõutav tegevuse „{0} jaoks"""
+Migrate,Migreeri
+Migration Complete,Migratsioon lõpetatud
+Migration ID:,Migratsiooni ID:
+Migration log not found: {0},Migratsiooni logi ei leitud: {0}
+Milestone,Verstapost
+milestone,verstapost
+Milestone created,Verstapost loodud
+Milestone description has been saved.,Verstapostile kirjeldus on salvestatud.
+Milestone ID is required,Verstapostile ID on nõutav
+Milestone marked as Missed (past due date),Verstapost märgitud möödunuks (tähtaeg ületatud)
+Milestone moved,Verstapost liigutatud
+Milestone Name,Verstapostile nimi
+Milestone name has been saved.,Verstapostile nimi on salvestatud.
+Milestone name is required,Verstapostile nimi on nõutav
+Milestone updated,Verstapost uuendatud
+Milestone {0} not found,Verstaposti {0} ei leitud
+Milestone {0} not in project {1},Verstapost {0} puudub projektist {1}
+Milestones,Verstapostid
+milestones,verstapostid
+Milestones:,Verstapostid:
+Minutes,Minutid
+Missed,Möödunud
+Mixed,Segamini
+Mobile,Mobiil
+Moderate,Mõõdukas
+Modified,Muudetud
+"Modify details, time, or attendees","Muuda üksikasju, aega või osalejaid"
+Mon,E
+Month,Kuu
+Move failed,Liigutamine ebaõnnestus
+Must be a positive number,Peab olema positiivne arv
+Must finish before this finishes,Peab lõppema enne selle lõppu
+Must finish before this starts,Peab lõppema enne selle algust
+Must start before this finishes,Peab algama enne selle lõppu
+Must start before this starts,Peab algama enne selle algust
+My Assignments,Minu määramised
+My Projects,Minu projektid
+My Schedule,Minu ajakava
+My Tasks,Minu ülesanded
+N/A,Puudub
+Name,Nimi
+Name (A-Z),Nimi (A-Z)
+Name (Z-A),Nimi (Z-A)
+Name cannot exceed 255 characters,Nimi ei tohi ületada 255 tähemärki
+Need help?,Vajad abi?
+Needs Attention,Vajab tähelepanu
+Never,Never
+new activities,uued tegevused
+New Activity,Uus tegevus
+New activity,Uus tegevus
+New Event,Uus sündmus
+New index is required,Uus indeks on nõutav
+New Project,Uus projekt
+New tasks will auto-trail by default.,Uued ülesanded nihkuvad vaikimisi automaatselt.
+Newest First,Uuemad enne
+Next,Järgmine
+Next 14 days,Järgmised 14 päeva
+Next 30 days,Järgmised 30 päeva
+Next 60 days,Järgmised 60 päeva
+Next 7 days,Järgmised 7 päeva
+Next 90 days,Järgmised 90 päeva
+Next Week,Järgmine nädal
+Next:,Järgmine:
+No,Ei
+No active assignments,Aktiivseid määramisi ei ole
+No active projects,Aktiivseid projekte ei ole
+No active timer found,Aktiivset taimerit ei leitud
+No activity selected,Tegevust ei ole valitud
+No assignments found,Määramisi ei leitud
+No attendees,Osalejaid ei ole
+no change,muudatusi ei ole
+No changes for this field.,Selle välja muudatused puuduvad.
+No changes recorded for this activity.,Selle tegevuse kohta ei ole muudatusi salvestatud.
+No checklist items yet,Kontrollnimekirja elemente veel ei ole
+No checklist items yet.,Kontrollnimekirja elemente veel ei ole.
+No comments yet,Kommentaare veel ei ole
+No comments yet.,Kommentaare veel ei ole.
+No contacts available,Kontakte ei ole saadaval
+No content for this tab,Selle vahekaardi sisu puudub
+No data available,Andmed puuduvad
+No data available for the selected filters,Valitud filtritele vastavaid andmeid ei ole
+No data to export,Eksporditavaid andmeid ei ole
+No dates set,Kuupäevi ei ole määratud
+No defects reported,Defekte ei ole teatatud
+No dependencies defined,Sõltuvusi ei ole määratud
+No description,Kirjeldus puudub
+No discussion yet.,Arutelu veel puudub.
+No documents attached,Dokumente ei ole lisatud
+No due date,Tähtaeg puudub
+No employee linked to this resource,Selle ressursiga ei ole seotud ühtegi töötajat
+No ERPNext employee linked to resource,Ressursiga ei ole seotud ühtegi ERPNext töötajat
+No events found,Sündmusi ei leitud
+No files attached yet.,Faile ei ole veel lisatud.
+No Frappe Project linked,Frappe projekti ei ole seotud
+No Grouping,Ilma rühmitamiseta
+No items,Elemente ei ole
+No matching tasks,Vastavaid ülesandeid ei ole
+No matching tasks found,Vastavaid ülesandeid ei leitud
+No migration history,Migratsiooni ajalugu puudub
+No Milestone,Verstapostita
+No milestones,Verstaposte ei ole
+No milestones defined for this project.,Selle projekti jaoks ei ole verstaposte määratud.
+No notes yet.,Märkmeid veel ei ole.
+No notes yet. Add a due diligence note to track progress.,Märkmeid veel ei ole. Lisage nõuetekohase hoolsuse märkus edenemise jälgimiseks.
+No notifications,Teavitusi ei ole
+No Orga Project linked to Frappe Project {0},Frappe projektiga {0} ei ole seotud ühtegi Orga projekti
+No overdue tasks,Üle tähtaja ülesandeid ei ole
+No pending cascade changes,Ootel kaskaadmuudatusi ei ole
+No predecessors - this task can start independently,Eelnevaid ülesandeid ei ole — see ülesanne saab alata iseseisvalt
+No project,Projekt puudub
+No projects found,Projekte ei leitud
+No Projects Yet,Projekte ei ole veel
+No recent activity,Hiljutist tegevust ei ole
+No related documents,Seotud dokumente ei ole
+No resolved threads.,Lahendatud arutelusid ei ole.
+No resources found,Ressursse ei leitud
+No results found,Tulemusi ei leitud
+No skills listed,Oskusi ei ole loetletud
+No skills recorded yet,Oskusi ei ole veel kirjutatud
+No successors - no tasks are waiting for this one,Järgnevaid ülesandeid ei ole — ükski ülesanne ei oota seda
+No task selected,Ülesannet ei ole valitud
+No tasks assigned to you,Teile ei ole ülesandeid määratud
+No tasks available to add,Lisamiseks pole ülesandeid saadaval
+No tasks found,Ülesandeid ei leitud
+No tasks linked to this milestone,Selle verstapostiga ei ole seotud ülesandeid
+No tasks with dates to display,Kuupäevadega ülesandeid kuvamiseks ei ole
+No tasks yet,Ülesandeid veel ei ole
+No team members,Meeskonnaliikmeid ei ole
+No template,Mall puudub
+No templates yet,Malle veel ei ole
+No time data found,Ajaandmeid ei leitud
+No time logged today,Täna ei ole aega kirjutatud
+No time logged yet,Aega ei ole veel kirjutatud
+No time logs for this period,Selle perioodi ajakandeid ei ole
+No time logs found,Ajakandeid ei leitud
+No unread notifications,Lugemata teavitusi ei ole
+No update information available yet.,No update information available yet.
+None,Puudub
+Not found,Ei leitud
+Not permitted,Ei ole lubatud
+Not permitted to access this project,Puudub õigus sellele projektile juurde pääseda
+Not permitted to access this task,Puudub õigus sellele ülesandele juurde pääseda
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Teil puudub õigus seda dokumenti kommenteerida
+Not permitted to create clients,Teil puudub õigus kliente luua
+Not permitted to delete this client,Teil puudub õigus seda klienti kustutada
+Not permitted to delete this defect,Teil puudub õigus seda defekti kustutada
+Not permitted to delete this note,Teil puudub õigus seda märkust kustutada
+Not permitted to delete this project,Teil puudub õigus seda projekti kustutada
+Not permitted to delete this task,Teil puudub õigus seda ülesannet kustutada
+Not permitted to delete this time log,Teil puudub õigus seda ajakannet kustutada
+Not permitted to invite clients,Teil puudub õigus kliente kutsuda
+Not permitted to modify client access,Teil puudub õigus kliendi juurdepääsu muuta
+Not permitted to modify this project,Teil puudub õigus seda projekti muuta
+Not permitted to update settings,Teil puudub õigus sätteid muuta
+Not permitted to update this client,Teil puudub õigus seda klienti muuta
+Not permitted to view this client,Teil puudub õigus seda klienti vaadata
+not sent,saatmata
+Not set,Määramata
+Not specified,Täpsustamata
+Note,Märkus
+Note (optional),Märkus (valikuline)
+Note Content,Märkuse sisu
+Note content is required,Märkuse sisu on nõutav
+Note name is required,Märkuse nimi on nõutav
+Note not found,Märkust ei leitud
+Note Type,Märkuse tüüp
+Notes,Märkmed
+Notification,Teavitus
+Notification not found,Teavitust ei leitud
+Notifications,Teavitused
+Off Track,Rajalt maas
+Offer,Pakkumine
+Offer Prepared,Pakkumine ettevalmistatud
+Oldest First,Vanemad enne
+On Hold,Ootel
+On Leave,Puhkusel
+On Track,Graafikus
+On-Time Rate,Õigeaegsuse määr
+Only administrators can delete activities,Ainult administraatorid saavad tegevusi kustutada
+Only the comment author or administrators can delete comments,Ainult kommentaari autor või administraatorid saavad kommentaare kustutada
+Only you and admins,Ainult teie ja administraatorid
+Open,Avatud
+Open in Desk,Ava Deskis
+Open Task Log,Ava ülesande logi
+Open Tasks,Avatud ülesanded
+Optional,Valikuline
+optional,valikuline
+Or email us directly at,Või kirjutage meile otse aadressil
+Orga Project {0} from Frappe Projects,Orga projekt {0} Frappe Projectsist
+Orga Task {0} from Frappe,Orga ülesanne {0} Frappest
+Organizer,Korraldaja
+Other,Muu
+Over Budget,Eelarve ületatud
+Overall Progress,Üldine edenemine
+Overall Utilization,Üldine kasutus
+Overallocated,Üle eraldatud
+Overdue,Üle tähtaja
+overdue,üle tähtaja
+Overdue Tasks,Üle tähtaja ülesanded
+Overview,Ülevaade
+Owner,Omanik
+Page Not Found,Lehte ei leitud
+Parent,Ülem
+Parent comment must belong to the same document,Ülemkommentaar peab kuuluma samale dokumendile
+Parent comment not found,Ülemkommentaari ei leitud
+Parent project not synced to Frappe yet,Ülemprojekti ei ole veel Frappega sünkroonitud
+Parent project sync not enabled,Ülemprojekti sünkroonimine ei ole lubatud
+Partner,Partner
+Pending,Ootel
+per page,lehel
+Perform initial assessment and background check,Viige läbi esialgne hindamine ja taustakontroll
+Permanently remove this event,Kustuta see sündmus jäädavalt
+Permanently remove this task,Kustuta see ülesanne jäädavalt
+Phone,Telefon
+Pin,Kinnita
+Pin Activity,Kinnita tegevus
+Pin to top,Kinnita üles
+Pinned,Kinnitatud
+Planned budget for this task,Selle ülesande kavandatud eelarve
+Planning,Planeerimine
+Please describe your question or issue in detail...,Palun kirjeldage oma küsimust või probleemi üksikasjalikult...
+Please login to access Orga,Palun logige sisse Orgale juurdepääsemiseks
+Please login to access the client portal,Palun logige sisse kliendiportaalile juurdepääsemiseks
+Please respond to this invitation in Orga,Palun vastake sellele kutsele Orgas
+Please select an image file,Palun valige pildifail
+Please try again,Palun proovige uuesti
+Please type,Palun sisestage
+Portal,Portaal
+Portal access revoked for {0},Portaali juurdepääs tühistatud kasutajal {0}
+Portal user created successfully. Welcome email {0},Portaali kasutaja edukalt loodud. Tervituskiri {0}
+Post,Postita
+Powered by,Powered by
+Powered by Tonic,Powered by Tonic
+Predecessors (Blocked By),Eelnevad (blokeeritud)
+Preferences,Eelistused
+Preferences saved successfully,Eelistused edukalt salvestatud
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Automaatselt loodud projektikoodide eesliide (nt ORG-2026-0001)
+Prepare and document offer terms,Valmistage ette ja dokumenteerige pakkumise tingimused
+Press,Vajutage
+Preview,Eelvaade
+Preview cascade before applying,Vaadake kaskaadi eelvaadet enne rakendamist
+Previous,Eelmine
+Priority,Prioriteet
+Priority assigned to new tasks,Uutele ülesannetele määratud prioriteet
+Priority updated,Prioriteet uuendatud
+Proficiency,Oskustase
+Profile,Profiil
+Progress,Edenemine
+Progress (High-Low),Edenemine (kõrge-madal)
+Progress (Low-High),Edenemine (madal-kõrge)
+Progress Overview,Edenemise ülevaade
+Progress updated,Edenemine uuendatud
+Project,Projekt
+Project budget has been saved.,Projekti eelarve on salvestatud.
+Project code (e.g. ORG-2026-0001),Projektikood (nt ORG-2026-0001)
+Project Code Prefix,Projektikoodi eesliide
+Project created,Projekt loodud
+Project deleted,Projekt kustutatud
+Project description has been saved.,Projekti kirjeldus on salvestatud.
+Project Details,Projekti üksikasjad
+Project end date has been saved.,Projekti lõppkuupäev on salvestatud.
+Project Files,Projekti failid
+Project has no linked client,Projektil puudub seotud klient
+Project Health,Projekti tervis
+Project Info,Projekti info
+Project is required,Projekt on nõutav
+Project is required for project context,Projekt on nõutav projekti konteksti jaoks
+Project is required when tracking context is 'project',"Projekt on nõutav kui jälgimise kontekst on „projekt""
+Project name and template name are required,Projekti nimi ja malli nimi on nõutavad
+Project name is required,Projekti nimi on nõutav
+Project not found,Projekti ei leitud
+Project not found or you do not have access,Projekti ei leitud või juurdepääs puudub
+Project settings,Projekti sätted
+Project start date has been saved.,Projekti alguskuupäev on salvestatud.
+Project title has been saved.,Projekti pealkiri on salvestatud.
+Project updated,Projekt uuendatud
+Project {0} linked to client {1},Projekt {0} seotud kliendiga {1}
+Project {0} not found,Projekti {0} ei leitud
+Project {0} to Frappe Projects,Projekt {0} Frappe Projectsisse
+Project:,Projekt:
+Projects,Projektid
+Projects Overview,Projektide ülevaade
+Projects created:,Loodud projekte:
+Projects skipped:,Vahele jäetud projekte:
+Projects updated:,Uuendatud projekte:
+Promote failed,Edutamine ebaõnnestus
+Promote to task,Eduta ülesandeks
+Promoted to task,Edutatud ülesandeks
+Propose,Paku
+Propose New Time,Paku uus aeg
+Propose Time,Paku aeg
+Proposed End,Pakutud lõpp
+Proposed Start,Pakutud algus
+Public,Avalik
+Quick Action,Kiirtegevus
+Quick Actions,Kiirtegevused
+Quick Stats,Kiirstatistika
+RSVP,RSVP
+Rates,Määrad
+Receive notifications via email,Saage teavitusi e-posti teel
+Receive notifications within the application,Saage teavitusi rakenduses
+Recipient {0} is not a valid user,Saaja {0} ei ole kehtiv kasutaja
+Recent Activity,Hiljutine tegevus
+Reference,Viide
+Refresh,Värskenda
+Related,Seotud
+Related Company (optional),Seotud ettevõte (valikuline)
+Related Documents,Seotud dokumendid
+Related Project,Seotud projekt
+Remaining,Järelejäänud
+Reminder,Meeldetuletus
+Reminder Lead Time"""
+Project Manager,Projektijuht
+Project Name,Projekti nimi
+Project name and template name are required,Projekti nimi ja malli nimi on nõutud
+Project name is required,Projekti nimi on nõutud
+Project not found,Projekti ei leitud
+Project not found or you do not have access,Projekti ei leitud või teil puudub juurdepääs
+Project settings,Projekti seaded
+Project start date has been saved.,Projekti alguskuupäev on salvestatud.
+Project title has been saved.,Projekti pealkiri on salvestatud.
+Project Type,Projekti tüüp
+Project updated,Projekt uuendatud
+Project {0} linked to client {1},Projekt {0} seotud kliendiga {1}
+Project {0} not found,Projekti {0} ei leitud
+Project {0} to Frappe Projects,Projekt {0} Frappe Projects'isse
+Project:,Projekt:
+projects,projektid
+Projects,Projektid
+Projects created:,Loodud projektid:
+Projects Overview,Projektide ülevaade
+Projects skipped:,Vahele jäetud projektid:
+Projects updated:,Uuendatud projektid:
+Promote failed,Ülendamine ebaõnnestus
+Promote to task,Ülenda ülesandeks
+Promoted to task,Ülendatud ülesandeks
+Propose,Paku välja
+Propose New Time,Paku uus aeg
+Propose Time,Paku aeg
+Proposed End,Pakutud lõpp
+Proposed Start,Pakutud algus
+Public,Avalik
+Quick Action,Kiirtoiming
+Quick Actions,Kiirtoimingud
+Quick Stats,Kiirstatistika
+Rates,Tariifid
+Receive notifications via email,Saa teavitusi e-posti teel
+Receive notifications within the application,Saa teavitusi rakenduses
+Recent Activity,Hiljutine tegevus
+Recipient {0} is not a valid user,Saaja {0} ei ole kehtiv kasutaja
+Reference,Viide
+Refresh,Värskenda
+Related,Seotud
+Related Company (optional),Seotud ettevõte (valikuline)
+Related Documents,Seotud dokumendid
+Related Project,Seotud projekt
+Remaining,Järelejäänud
+Reminder,Meeldetuletus
+Reminder Lead Time,Meeldetuletuse etteteatamisaeg
+Reminder: {0} - {1} at {2},Meeldetuletus: {0} - {1} kell {2}
+Remove,Eemalda
+Remove dependency,Eemalda sõltuvus
+Remove dependency on,Eemalda sõltuvus
+Remove from group,Eemalda rühmast
+Remove group dependency,Eemalda rühma sõltuvus
+Remove skill,Eemalda oskus
+Reopen,Ava uuesti
+Reopen thread,Ava arutelu uuesti
+reopened,taasavatud
+replies,vastused
+Reply,Vasta
+reply,vastus
+Replying to,Vastamine
+Replying to comment,Vastamine kommentaarile
+Report Defect,Teata defektist
+Reported Date,Teatamise kuupäev
+Reports,Aruanded
+Reports To,Allub
+Request Submitted!,Taotlus esitatud!
+Required,Nõutav
+required,nõutav
+Research,Uurimine
+Reset to Defaults,Lähtesta vaikeväärtustele
+Resolve,Lahenda
+Resolve thread,Lahenda arutelu
+Resolved,Lahendatud
+Resolved date cannot be before reported date,Lahendamise kuupäev ei saa olla enne teatamise kuupäeva
+Resource,Ressurss
+Resource and skill name are required,Ressurss ja oskuse nimi on nõutavad
+Resource is already an attendee,Ressurss on juba osaleja
+Resource name is required,Ressursi nimi on nõutav
+Resource not found,Ressurssi ei leitud
+Resource synced from employee {0},Ressurss sünkroonitud töötajalt {0}
+Resource {0} is already assigned to this task ({1}),Ressurss {0} on juba sellele ülesandele määratud ({1})
+Resource {0} not found,Ressurssi {0} ei leitud
+Resources,Kontaktid
+Retry,Proovi uuesti
+Review,Ülevaatus
+Review all relevant documents and contracts,Vaadake üle kõik asjakohased dokumendid ja lepingud
+Reviews,Ülevaatused
+Risk Assessment,Riskihindamine
+Rollback,Võta tagasi
+Rolled back,Tagasi võetud
+Room or address,Ruum või aadress
+RSVP,RSVP
+Safety,Ohutus
+Sat,L
+Save,Salvesta
+"Save a project as a template, or import one from a JSON file.",Salvestage projekt mallina või importige see JSON failist.
+Save as Template,Salvesta mallina
+Save Changes,Salvesta muudatused
+Save failed,Salvestamine ebaõnnestus
+Save Preferences,Salvesta eelistused
+Save Template,Salvesta mall
+Saving...,Salvestamine...
+Schedule,Ajakava
+Schedule type is required for scheduled triggers,Ajakava tüüp on nõutav kavandatud päästikute jaoks
+Scheduled,Kavandatud
+Search,Otsing
+"Search by name, email, or skill...","Otsige nime, e-posti või oskuse järgi..."
+Search for a project...,Otsige projekti...
+Search for a task...,Otsige ülesannet...
+Search for an event...,Otsige sündmust...
+Search for people to invite...,Otsige inimesi kutsumiseks...
+Search tasks to link...,Otsige ülesandeid sidumiseks...
+Search tasks...,Otsige ülesandeid...
+Search...,Otsi...
+Searching...,Otsimine...
+Seen,Nähtud
+Select a project if your request is related to a specific project.,Valige projekt kui teie taotlus on seotud konkreetse projektiga.
+Select a project...,Valige projekt...
+Select a task from the Gantt chart to view and manage its details.,Valige Gantt diagrammilt ülesanne selle üksikasjade vaatamiseks ja haldamiseks.
+Select a task from the list or Kanban board to view and manage its details.,Valige ülesanne loendist või Kanban tahvlilt selle üksikasjade vaatamiseks ja haldamiseks.
+Select a template...,Valige mall...
+Select priority...,Valige prioriteet...
+Select status...,Valige olek...
+Select task...,Valige ülesanne...
+Select type...,Valige tüüp...
+Selection,Valik
+Send,Saada
+Send comment,Saada kommentaar
+Send email invitations to attendees,Saatke e-posti kutsed osalejatele
+Send Invitations,Saada kutsed
+Send notification when a task is assigned to a user,Saada teavitus kui ülesanne on kasutajale määratud
+Send notification when task status changes,Saada teavitus ülesande oleku muutumisel
+Send reminder before task due date,Saada meeldetuletus enne ülesande tähtaega
+sent,saadetud
+Set rate,Määra hind
+Settings,Sätted
+Settings saved successfully,Sätted edukalt salvestatud
+Severity,Tõsidus
+SF (Start-Finish),SF (Algus-Lõpp)
+SF - Start-to-Finish,SF - Algus-Lõpp
+Show,Näita
+Show all,Näita kõiki
+Show all changes,Näita kõiki muudatusi
+Show Archived,Näita arhiveeritud
+Show full diff,Näita täielikku erinevust
+Show less,Näita vähem
+Show more,Näita rohkem
+Skill added,Oskus lisatud
+Skill is required,Oskus on nõutav
+Skill Name,Oskuse nimi
+Skill removed,Oskus eemaldatud
+Skill {0} already exists for this resource,Oskus {0} on selle ressursi jaoks juba olemas
+Skills,Oskused
+Skills & Competencies,Oskused ja pädevused
+Skip already migrated projects,Jäta juba migreeritud projektid vahele
+Sort by,Sordi
+Sort: Due Date,Sordi: Tähtaeg
+Sort: Priority,Sordi: Prioriteet
+Sort: Project,Sordi: Projekt
+Sort: Status,Sordi: Olek
+Sort: Task,Sordi: Ülesanne
+Source Code,Lähtekood
+Spent,Kulutatud
+Spent:,Kulutatud:
+SS (Start-Start),SS (Algus-Algus)
+SS - Start-to-Start,SS - Algus-Algus
+Standalone,Iseseisev
+Start,Algus
+Start a discussion below,Alustage allpool arutelu
+Start Date,Alguskuupäev
+Start date,Alguskuupäev
+Start Date (Earliest),Alguskuupäev (varaseim)
+Start date updated,Alguskuupäev uuendatud
+Start date/time is required,Alguskuupäev/-aeg on nõutav
+Start Migration,Alusta migratsiooni
+Start the conversation below.,Alustage vestlust allpool.
+Start Timer,Käivita taimer
+Start typing to search...,Alustage otsimiseks tippimist...
+Start-to-Finish,Algus-Lõpp
+Start-to-Start,Algus-Algus
+Start:,Algus:
+Statistics reset,Statistika lähtestatud
+Status,Olek
+Status assigned to new projects,Uutele projektidele määratud olek
+Status assigned to new tasks,Uutele ülesannetele määratud olek
+Status Changes,Olekumuudatused
+Status updated,Olek uuendatud
+Status:,Olek:
+Stop,Peata
+Stop & Save,Peata ja salvesta
+Stop Timer,Peata taimer
+Stops current timer and starts for this event,Peatab praeguse taimeri ja käivitab selle sündmuse jaoks
+Stops current timer and starts for this task,Peatab praeguse taimeri ja käivitab selle ülesande jaoks
+Subject,Teema
+Subject cannot exceed 255 characters,Teema ei tohi ületada 255 tähemärki
+Subject is required,Teema on nõutav
+Submit,Esita
+Submit Another Request,Esita uus taotlus
+Submit Request,Esita taotlus
+Submitting...,Esitamine...
+Successfully saved,Edukalt salvestatud
+Successors (Blocking),Järgnevad (blokeerivad)
+Sun,P
+Supplier,Tarnija
+Support,Tugi
+Switch to this event,Lülitu sellele sündmusele
+Switch to this task,Lülitu sellele ülesandele
+Sync direction is set to Frappe to Orga only,Sünkroonimise suund on ainult Frappest Orgasse
+Sync direction is set to Orga to Frappe only,Sünkroonimise suund on ainult Orgast Frappesse
+Sync not enabled for this project,Sünkroonimine ei ole selle projekti jaoks lubatud
+System,Süsteem
+Table,Tabel
+Take ownership of this task,Võta see ülesanne enda peale
+Target Date,Sihtkuupäev
+Target End,Sihtlõpp
+Target Project,Sihtprojekt
+Target user is required for '{0}' action,"Sihtkasutaja on nõutav tegevuse „{0} jaoks"""
+Task,Ülesanne
+task,ülesanne
+Task '{0}' is due on {1}.,"Ülesande „{0} tähtaeg on {1}."""
+Task and resource are required,Ülesanne ja ressurss on nõutavad
+Task Assignment,Ülesande määramine
+Task cannot be its own parent,Ülesanne ei saa olla enda ülem
+Task cannot depend on itself,Ülesanne ei saa sõltuda iseendast
+Task cannot depend on the group it belongs to,Ülesanne ei saa sõltuda rühmast kuhu ta kuulub
+Task created,Ülesanne loodud
+Task deleted,Ülesanne kustutatud
+Task description has been saved.,Ülesande kirjeldus on salvestatud.
+Task Details,Ülesande üksikasjad
+Task due in {0} days: {1},Ülesande tähtaeg {0} päeva pärast: {1}
+Task due today: {0},Ülesande tähtaeg täna: {0}
+Task due tomorrow: {0},Ülesande tähtaeg homme: {0}
+Task duplicated,Ülesanne kopeeritud
+Task Group,Ülesannete rühm
+Task ID is required,Ülesande ID on nõutav
+Task is blocked by incomplete dependencies,Ülesanne on blokeeritud lõpetamata sõltuvuste tõttu
+Task is cancelled,Ülesanne on tühistatud
+Task is completed,Ülesanne on lõpetatud
+Task is no longer blocked by a group,Ülesanne ei ole enam rühma poolt blokeeritud
+Task is required for task context,Ülesanne on nõutav ülesande konteksti jaoks
+Task is required when tracking context is 'task',"Ülesanne on nõutav kui jälgimise kontekst on „ülesanne""
+Task linked,Ülesanne seotud
+Task moved,Ülesanne liigutatud
+Task name,Ülesande nimi
+Task name is required,Ülesande nimi on nõutav
+Task removed from group,Ülesanne eemaldatud rühmast
+Task subject is required,Ülesande teema on nõutav
+Task unblocked: {0},Ülesanne vabastatud: {0}
+Task unlinked,Ülesande seos eemaldatud
+Task updated,Ülesanne uuendatud
+Task {0} not found,Ülesannet {0} ei leitud
+Task {0} not in project {1},Ülesanne {0} puudub projektist {1}
+Task {0} to Frappe,Ülesanne {0} Frappesse
+Tasks and milestones will be created with dates relative to the project start date."""
+Task linked,Ülesanne seotud
+Task moved,Ülesanne teisaldatud
+Task name,Ülesande nimi
+Task name is required,Ülesande nimi on nõutud
+Task removed from group,Ülesanne eemaldatud grupist
+Task Subject,Ülesande teema
+Task subject is required,Ülesande teema on nõutud
+Task Type,Ülesande tüüp
+Task unblocked: {0},Ülesanne blokeeringust vabastatud: {0}
+Task unlinked,Ülesande seos eemaldatud
+Task updated,Ülesanne uuendatud
+Task {0} not found,Ülesannet {0} ei leitud
+Task {0} not in project {1},Ülesanne {0} ei ole projektis {1}
+Task {0} to Frappe,Ülesanne {0} Frappe'sse
+Tasks,Ülesanded
+tasks,ülesanded
+Tasks and milestones will be created with dates relative to the project start date.,Ülesanded ja verstapostid luuakse projekti alguskuupäevaga seotud kuupäevadega.
+Tasks assigned to you across all projects.,Teile määratud ülesanded kõikides projektides.
+Tasks created:,Loodud ülesandeid:
+Tasks from projects you manage.,Ülesanded teie hallatavatest projektidest.
+Tasks updated:,Uuendatud ülesandeid:
+"Tasks, milestones, and dependencies have been created.","Ülesanded, verstapostid ja sõltuvused on loodud."
+Tasks:,Ülesanded:
+TBD,Selgub
+Team,Meeskond
+Team Members,Meeskonnaliikmed
+Template,Mall
+Template applied,Mall rakendatud
+Template data is required in import data,Malli andmed on nõutavad impordiandmetes
+Template has no data,Mallil puuduvad andmed
+Template Name,Malli nimi
+Template name,Malli nimi
+Template name is required,Malli nimi on nõutav
+Template name is required in import data,Malli nimi on nõutav impordiandmetes
+Template saved,Mall salvestatud
+Template updated successfully.,Mall edukalt uuendatud.
+Template {0} not found,Malli {0} ei leitud
+Templates,Mallid
+Tentative,Esialgne
+The comment has been deleted,Kommentaar on kustutatud
+The project,Projekt
+The source document may have been deleted.,Lähtedokument võib olla kustutatud.
+The source document will not be affected.,Lähtedokumenti ei mõjutata.
+The status of '{0}' was changed from {1} to {2}.,"Üksuse „{0} olek muudeti olekult {1} olekuks {2}."""
+Theme,Teema
+Theme preference,Teema eelistus
+This action,See tegevus
+This action cannot be undone.,Seda tegevust ei saa tagasi võtta.
+This activity has been flagged for attention,See tegevus on märgistatud tähelepanuks
+This is a reminder for your upcoming appointment,See on meeldetuletus teie eelseisva kohtumise kohta
+This method is only meant for developer mode,See meetod on mõeldud ainult arendusrežiimile
+This page wandered off,This page wandered off
+This Week,See nädal
+This will delete all notes and preferences associated with this activity.,See kustutab kõik selle tegevusega seotud märkmed ja eelistused.
+This will import all Frappe Projects into Orga. Continue?,See impordib kõik Frappe projektid Orgasse. Jätkata?
+This will permanently delete,See kustutab jäädavalt
+This will permanently delete:,See kustutab jäädavalt:
+Thu,N
+Time,Aeg
+Time & Billing,Aeg ja arveldus
+Time & Revenue,Aeg ja tulu
+Time Entries,Ajakanded
+Time log name is required,Ajakande nimi on nõutav
+Time Log not found,Ajakannet ei leitud
+Time log {0} not found,Ajakannet {0} ei leitud
+Time Logs,Ajakanded
+Time Summary,Aja kokkuvõte
+Time Tracking,Aja jälgimine
+Timeline,Ajatelg
+Timer active on,Taimer aktiivne
+Timer is not running,Taimer ei tööta
+Timer Running,Taimer töötab
+Timer running,Taimer töötab
+Timesheet DocType not available,Ajakaardi DocType ei ole saadaval
+Timesheets,Ajakaardid
+Timezone,Ajavöönd
+Timezone is detected from your browser,Ajavöönd tuvastatakse teie brauserist
+Title,Pealkiri
+Title cannot exceed 255 characters,Pealkiri ei tohi ületada 255 tähemärki
+Title is required,Pealkiri on nõutav
+Title updated,Pealkiri uuendatud
+To,Kuni
+to,kuni
+to cancel,tühistamiseks
+to close,sulgemiseks
+to confirm:,kinnitamiseks:
+to edit,muutmiseks
+"to save,","salvestamiseks,"
+To Time cannot be before From Time,Lõpuaeg ei saa olla enne algusaega
+Today,Täna
+today,täna
+Toggle billable,Lülita arveldatav
+Toggle Details Panel,Lülita üksikasjade paneel
+Toggle Manager Panel,Lülita halduri paneel
+Toggle Sidebar,Lülita külgriba
+Tomorrow,Homme
+tomorrow,homme
+Total,Kokku
+Total Budget,Eelarve kokku
+Total Contacts,Kontakte kokku
+Total Cost,Kulu kokku
+Total Cost to Org,Kulu organisatsioonile kokku
+Total Defect Cost,Defektide kulu kokku
+Total Hours,Tunde kokku
+Total Hours Logged,Kirjutatud tunde kokku
+Total Projects,Projekte kokku
+Total Spent,Kulutatud kokku
+Total Tasks,Ülesandeid kokku
+Total:,Kokku:
+Tracked,Jälgitud
+trails to today while Open at 0%,nihkub tänaseni kui avatud 0% juures
+Tried:,Tried:
+Try adjusting your filter criteria,Proovige filtrikriteeriumeid muuta
+Try adjusting your filters.,Proovige filtreid muuta.
+Try Again,Proovi uuesti
+Tue,T
+Type,Tüüp
+Type updated,Tüüp uuendatud
+Type:,Tüüp:
+Typical response time: 1-2 business days,Tavaline vastusaeg: 1-2 tööpäeva
+Unarchive,Taasta arhiivist
+Unarchive Activity,Taasta tegevus arhiivist
+Unassign,Tühista määramine
+Unassigned,Määramata
+Under Budget,Eelarve piires
+Ungrouped,Rühmitamata
+Unknown,Tundmatu
+Unknown error,Tundmatu viga
+Unlink failed,Seose eemaldamine ebaõnnestus
+Unlink task from milestone,Eemalda ülesande seos verstapostiga
+Unpin,Eemalda kinnitamine
+Unpin Activity,Eemalda tegevuse kinnitamine
+Unread,Lugemata
+Unread only,Ainult lugemata
+Until,Kuni
+Up to Date,Up to Date
+Upcoming,Eelseisvad
+upcoming,eelseisvad
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Uuendamine ebaõnnestus
+Updated,Uuendatud
+Updated successfully,Edukalt uuendatud
+Updates,Updates
+Upload,Laadi üles
+Upload failed,Üleslaadimine ebaõnnestus
+Upload files below to attach them to this task.,Laadige allpool failid üles nende lisamiseks sellele ülesandele.
+Upload to project,Laadi üles projekti
+Uploading...,Üleslaadimine...
+Urgent,Kiire
+User {0} is already linked to client {1},Kasutaja {0} on juba seotud kliendiga {1}
+User {0} is already linked to resource {1},Kasutaja {0} on juba seotud ressursiga {1}
+Utilization,Kasutus
+Valid,Kehtiv
+Value:,Väärtus:
+Variance,Erinevus
+Variance:,Erinevus:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Vaade
+View All,Vaata kõiki
+View all active projects,Vaata kõiki aktiivseid projekte
+View all open tasks,Vaata kõiki avatud ülesandeid
+View overdue tasks,Vaata üle tähtaja ülesandeid
+View Release,View Release
+Visibility,Nähtavus
+Waiting for this task,Ootab seda ülesannet
+Waits for:,Ootab:
+Warning: Resource {0} status is {1},Hoiatus: Ressursi {0} olek on {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Hoiatus: Kasutusel HTTP HTTPS asemel. Webhooki andmed ei pruugi olla turvalised.
+Watch budget closely,Jälgige eelarvet tähelepanelikult
+We'll respond to:,Vastame aadressil:
+Webhook deleted,Webhook kustutatud
+Webhook name is required,Webhooki nimi on nõutav
+Webhook not found,Webhooki ei leitud
+Webhook URL is required,Webhooki URL on nõutav
+Webhook URL must start with http:// or https://,Webhooki URL peab algama http:// või https://
+Wed,K
+Week,Nädal
+Weekend,Nädalavahetus
+Weekly Capacity,Nädalane maht
+weekly capacity,nädalane maht
+Weekly Capacity (h),Nädalane maht (t)
+Welcome,Tere tulemast
+Welcome back!,Tere tulemast tagasi!
+Welcome to Orga,Tere tulemast Orgasse
+What are you working on?,Millega te tegelete?
+What did you work on?,Millega te tegelesite?
+When,Millal
+When work begins,Kui töö algab
+When work is due,Kui töö tähtaeg on
+Where,Kus
+Will capture:,Salvestatakse:
+Will create:,Luuakse:
+with checklist items,koos kontrollnimekirja elementidega
+Working,Töös
+Workload,Töökoormus
+Workmanship,Töökvaliteet
+Write a comment...,Kirjutage kommentaar...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Kirjutage kommentaar... Kasutage @nimi mainimiseks (Ctrl+Enter saatmiseks)
+Year,Aasta
+Yes,Jah
+Yesterday,Eile
+yesterday,eile
+You are not an attendee of this appointment,Te ei ole selle kohtumise osaleja
+You are not linked to any resource,Te ei ole ühegi ressursiga seotud
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Saate kustutada ainult oma kommentaare
+You can only delete your own reactions,Saate kustutada ainult oma reaktsioone
+You do not have access to the client portal. Please contact support.,Teil puudub juurdepääs kliendiportaalile. Palun võtke ühendust toega.
+You have already reacted with '{0}',"Te olete juba reageerinud valikuga „{0}""
+You have been assigned to task '{0}' in project '{1}'."""
+You have been assigned to task '{0}' in project '{1}'.,Teile on määratud ülesanne '{0}' projektis '{1}'.
+You have been assigned to: {0},Teile on määratud: {0}
+You have been invited to the following appointment,Teid on kutsutud järgmisele kohtumisele
+You have no tasks assigned to you right now.,Teil ei ole hetkel ühtegi määratud ülesannet.
+You were mentioned in {0},Teid mainiti dokumendis {0}
+Your attendance,Teie osalemine
+Your comment has been posted,Teie kommentaar on postitatud
+Your Projects,Teie projektid
+Your projects will appear here once they're assigned to you.,Teie projektid ilmuvad siia pärast nende teile määramist.
+Your Response,Teie vastus
+Your RSVP,Teie RSVP
+Your support request has been submitted successfully.,Teie tugisoov on edukalt esitatud.
+Your support request has been submitted successfully. We'll get back to you shortly.,Teie tugisoov on edukalt esitatud. Vastame teile esimesel võimalusel.
+"Your task ""{0}"" is no longer blocked and can now be started.","Teie ülesanne „{0} ei ole enam blokeeritud ja saab nüüd alata."""
+{0} is required,{0} on nõutav
+{0} new activities,{0} uut tegevust
+{0} of {1} completed,{0}/{1} lõpetatud
+{0} projects already migrated (will be skipped or updated),{0} projekti on juba migreeritud (jäetakse vahele või uuendatakse)
+{0} status changed to {1},{0} olek muudetud olekuks {1}
+{0} tasks remaining,{0} ülesannet jäänud
+{0} tasks without projects will be skipped,{0} projektita ülesannet jäetakse vahele
+{0} {1} not found,{0} {1} ei leitud

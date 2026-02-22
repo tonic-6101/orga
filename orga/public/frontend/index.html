@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+    <title>Orga - Project Management</title>
+    <meta name="description" content="Orga - Project Management System" />
+    <link rel="icon" type="image/svg+xml" href="/assets/orga/images/orga-icon.svg" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+    <script type="module" crossorigin src="/assets/orga/frontend/assets/main-BV0KycqK.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/orga/frontend/assets/main-rM0yIY27.css">
+  </head>
+  <body>
+    <script>
+      // Prevent flash of wrong theme before Vue loads
+      (function() {
+        var stored = localStorage.getItem('orga-theme');
+        var isDark = stored === 'dark' ||
+          (!stored || stored === 'auto') && window.matchMedia('(prefers-color-scheme: dark)').matches;
+        if (isDark) document.documentElement.classList.add('dark');
+      })();
+    </script>
+    <div id="app" class="h-screen"></div>
+    <div id="modals"></div>
+    <div id="popovers"></div>
+    <script>
+      window.csrf_token = "{{ csrf_token }}"
+    </script>
+  
+          <script>
+              {% for key in boot %}
+              window["{{ key }}"] = {{ boot[key] | tojson }};
+              {% endfor %}
+          </script>
+          </body>
+          
+</html>

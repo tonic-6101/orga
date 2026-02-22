@@ -1,0 +1,1492 @@
++ Add Milestone,+ Tambah Pencapaian
++ Create Task,+ Cipta Tugasan
++ Log Time,+ Log Masa
+-- Select a project --,-- Pilih projek --
+0m,0m
+1 day,1 hari
+1 day ago,1 hari yang lalu
+1 dependency,1 kebergantungan
+1 entry,1 entri
+1 file,1 fail
+1 hour ago,1 jam yang lalu
+1 member,1 ahli
+1 milestone,1 pencapaian
+1 month,1 bulan
+1 task,1 tugasan
+< 1m,< 1m
+"A clear, actionable title for the task",Tajuk yang jelas dan boleh dilaksanakan untuk tugasan
+A client with email {0} already exists: {1},Pelanggan dengan e-mel {0} sudah wujud: {1}
+A key deliverable or checkpoint for the project,Hasil utama atau titik semak untuk projek
+Accept,Terima
+Accepted,Diterima
+Acknowledge,Akui
+across,merentasi
+Action,Tindakan
+Actions,Tindakan
+Active,Aktif
+Active Assignments,Tugasan Aktif
+Active Projects,Projek Aktif
+Activity,Aktiviti
+Activity data deleted successfully,Data aktiviti berjaya dipadam
+Activity Info,Maklumat Aktiviti
+Activity Stats,Statistik Aktiviti
+Activity will appear here as you work on tasks and projects.,Aktiviti akan dipaparkan di sini semasa anda bekerja pada tugasan dan projek.
+Actual,Sebenar
+Actual Cost,Kos Sebenar
+Actual cost cannot be negative,Kos sebenar tidak boleh negatif
+Actual end date cannot be before actual start date,Tarikh tamat sebenar tidak boleh sebelum tarikh mula sebenar
+Actual Hours,Jam Sebenar
+Add,Tambah
+Add a checklist item...,Tambah item senarai semak...
+Add a comment...,Tambah komen...
+Add a comment... (Ctrl+Enter to send),Tambah komen... (Ctrl+Enter untuk hantar)
+Add a description...,Tambah penerangan...
+Add a milestone description...,Tambah penerangan pencapaian...
+Add a note below to annotate this activity.,Tambah nota di bawah untuk menganotasi aktiviti ini.
+Add a note...,Tambah nota...
+Add a project description...,Tambah penerangan projek...
+Add a task description...,Tambah penerangan tugasan...
+Add checklist item...,Tambah item senarai semak...
+Add Contact,Tambah Kenalan
+Add contacts via the Desk interface or clear filters,Tambah kenalan melalui antara muka Desk atau kosongkan penapis
+Add Dependency,Tambah Kebergantungan
+Add details about this event...,Tambah butiran tentang acara ini...
+Add details about this milestone...,Tambah butiran tentang pencapaian ini...
+Add details about this task...,Tambah butiran tentang tugasan ini...
+Add details or acceptance criteria for this milestone,Tambah butiran atau kriteria penerimaan untuk pencapaian ini
+"Add details, context, or acceptance criteria","Tambah butiran, konteks, atau kriteria penerimaan"
+Add first dependency,Tambah kebergantungan pertama
+Add item,Tambah item
+Add items below to track progress.,Tambah item di bawah untuk menjejak kemajuan.
+Add items below to track subtasks,Tambah item di bawah untuk menjejak subtugasan
+Add Milestone,Tambah Pencapaian
+Add Milestone (Shift+M),Tambah Pencapaian (Shift+M)
+Add milestones to track key deliverables.,Tambah pencapaian untuk menjejak hasil utama.
+Add New Contact,Tambah Kenalan Baharu
+Add Note,Tambah Nota
+Add note,Tambah nota
+Add notes about this contact...,Tambah nota tentang kenalan ini...
+Add reaction,Tambah reaksi
+Add Skill,Tambah Kemahiran
+Add start and due dates to tasks to see them on the Gantt chart,Tambah tarikh mula dan tarikh akhir pada tugasan untuk melihatnya pada carta Gantt
+Add Task,Tambah Tugasan
+Add Task (Shift+T),Tambah Tugasan (Shift+T)
+Added Finish-to-Start dependency,Kebergantungan Tamat-ke-Mula ditambah
+Adding this dependency would create a circular reference: {0},Menambah kebergantungan ini akan mencipta rujukan bulat: {0}
+Adding...,Menambah...
+Address,Alamat
+Advanced,Lanjutan
+All,Semua
+All Active,Semua Aktif
+All Assignees,Semua Penerima Tugas
+All Categories,Semua Kategori
+All caught up!,Semua sudah dikemas kini!
+All Contexts,Semua Konteks
+All day,Sepanjang hari
+All day event,Acara sepanjang hari
+All fields,Semua medan
+All Priorities,Semua Keutamaan
+All Projects,Semua Projek
+All Status,Semua Status
+All Statuses,Semua Status
+All task dependencies & relative dates,Semua kebergantungan tugasan & tarikh relatif
+All Tasks,Semua Tugasan
+All tasks across all projects.,Semua tugasan merentasi semua projek.
+All tasks are already linked,Semua tugasan sudah dipaut
+All team members,Semua ahli pasukan
+All Types,Semua Jenis
+All Users,Semua Pengguna
+Allocated,Diperuntukkan
+allocated,diperuntukkan
+Allow users to log time against tasks,Benarkan pengguna merekod masa terhadap tugasan
+Already exported to timesheet {0},Sudah dieksport ke helaian masa {0}
+Already Migrated,Sudah Dipindahkan
+Anyone with access,Sesiapa yang mempunyai akses
+anytime to show this help,bila-bila masa untuk memaparkan bantuan ini
+App Updates,App Updates
+Appearance,Penampilan
+Apply,Terapkan
+Apply cascade?,Terapkan lata?
+Apply Changes,Terapkan Perubahan
+Apply failed,Penerapan gagal
+Apply Template,Terapkan Templat
+Applying...,Menerapkan...
+Appointment,Temu Janji
+Appointment and resource are required,Temu janji dan sumber diperlukan
+Appointment name is required,Nama temu janji diperlukan
+Appointment not found,Temu janji tidak dijumpai
+Appointment {0} not found,Temu janji {0} tidak dijumpai
+Apps,Aplikasi
+Archive,Arkib
+Archive Activity,Arkibkan Aktiviti
+Archived,Diarkibkan
+Are you sure you want to delete this activity data? This cannot be undone.,Adakah anda pasti ingin memadam data aktiviti ini? Tindakan ini tidak boleh dibatalkan.
+Are you sure you want to delete this comment?,Adakah anda pasti ingin memadam komen ini?
+Are you sure you want to delete this project?,Adakah anda pasti ingin memadam projek ini?
+Are you sure?,Adakah anda pasti?
+Ascending -- click to reverse,Menaik -- klik untuk terbalikkan
+Assign To,Tugaskan Kepada
+Assign to Me,Tugaskan kepada Saya
+Assigned Contact,Kenalan Ditugaskan
+Assigned To,Ditugaskan Kepada
+Assigned to,Ditugaskan kepada
+Assigned to Me,Ditugaskan kepada Saya
+Assignee,Penerima Tugas
+Assignment,Tugasan
+Assignment History,Sejarah Tugasan
+Assignment name is required,Nama tugasan diperlukan
+Assignment {0} not found,Tugasan {0} tidak dijumpai
+Assignments,Tugasan
+At least one action is required,Sekurang-kurangnya satu tindakan diperlukan
+At least one event is required,Sekurang-kurangnya satu acara diperlukan
+At least one event must be selected,Sekurang-kurangnya satu acara mesti dipilih
+Attachment,Lampiran
+Attachments,Lampiran
+Attendees,Peserta
+"Audit trail, assignments, version history","Jejak audit, tugasan, sejarah versi"
+Auto,Automatik
+Auto Calculate Progress,Kira Kemajuan Secara Automatik
+Auto Set Missed Milestones,Tetapkan Pencapaian Terlepas Secara Automatik
+Auto-shift dependents when dates change,Anjak tanggungan secara automatik apabila tarikh berubah
+Auto-Trail Start,Mula Jejak Automatik
+Auto-Trail updated,Jejak Automatik dikemas kini
+Automatically calculate project progress from task completion,Kira kemajuan projek secara automatik daripada penyelesaian tugasan
+Automatically mark milestones as missed when overdue,Tandakan pencapaian sebagai terlepas secara automatik apabila lampau tempoh
+Automation rule {0} not found,Peraturan automasi {0} tidak dijumpai
+Automation: {0},Automasi: {0}
+Availability,Ketersediaan
+Available,Tersedia
+Avatar updated successfully,Avatar berjaya dikemas kini
+Avg Progress,Purata Kemajuan
+Back,Kembali
+Back to Portal,Kembali ke Portal
+Back to Projects,Kembali ke Projek
+Beginner,Pemula
+Best regards,Salam hormat
+Billable,Boleh Dibilkan
+Billable Amount,Jumlah Boleh Dibilkan
+Billable Hours,Jam Boleh Dibilkan
+Billable Rate,Kadar Boleh Dibilkan
+Billing Rate,Kadar Pengebilan
+Blocked,Disekat
+Both dates are needed to display task as a bar in Gantt chart,Kedua-dua tarikh diperlukan untuk memaparkan tugasan sebagai bar pada carta Gantt
+Both doctype and docname are required,Kedua-dua doctype dan docname diperlukan
+Both proposed start and end times are required,Kedua-dua masa mula dan tamat yang dicadangkan diperlukan
+Both task_name and depends_on are required,Kedua-dua task_name dan depends_on diperlukan
+Breadcrumb,Jejak Laluan
+Brief description of the defect or damage,Penerangan ringkas tentang kecacatan atau kerosakan
+Brief description of this template,Penerangan ringkas tentang templat ini
+Brief description of your request,Penerangan ringkas tentang permintaan anda
+Brief project description,Penerangan ringkas projek
+Budget,Bajet
+Budget at risk,Bajet berisiko
+Budget Burn Rate,Kadar Pembakaran Bajet
+Budget Status,Status Bajet
+Budget updated,Bajet dikemas kini
+Budget:,Bajet:
+Bug,Pepijat
+Burn Rate,Kadar Pembakaran
+Busy,Sibuk
+By,Oleh
+By Assignee,Mengikut Penerima Tugas
+By Group,Mengikut Kumpulan
+By Milestone,Mengikut Pencapaian
+By Priority,Mengikut Keutamaan
+By Status,Mengikut Status
+Cancel,Batal
+Cancelled,Dibatalkan
+cannot be undone,tidak boleh dibatalkan
+Cannot delete client with {0} linked projects. Unlink projects first.,Tidak boleh memadam pelanggan dengan {0} projek yang dipaut. Nyahpaut projek terlebih dahulu.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Tidak boleh memadam projek dengan {0} tugasan yang dipaut. Padam tugasan terlebih dahulu.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Tidak boleh memadam sumber dengan {0} tugasan aktif. Selesaikan atau batalkan terlebih dahulu.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Tidak boleh memadam tugasan dengan {0} subtugasan. Padam subtugasan terlebih dahulu.
+Capacity,Kapasiti
+capacity,kapasiti
+Capacity & Rates,Kapasiti & Kadar
+Capture project structure for reuse,Tangkap struktur projek untuk guna semula
+Cascade,Lata
+Cascade Preview,Pratonton Lata
+Category,Kategori
+Celebrate,Raikan
+Change,Tukar
+Change History,Sejarah Perubahan
+Change Priority,Tukar Keutamaan
+Change Status,Tukar Status
+Changes,Perubahan
+Changes appear when fields are modified.,Perubahan dipaparkan apabila medan diubah suai.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Senarai Semak
+Checklist item name is required,Nama item senarai semak diperlukan
+Checklist item not found,Item senarai semak tidak dijumpai
+Checklist item title is required,Tajuk item senarai semak diperlukan
+Checklist item {0} not found,Item senarai semak {0} tidak dijumpai
+Checklist item {0} not found in task,Item senarai semak {0} tidak dijumpai dalam tugasan
+Child,Anak
+Choose file to upload,Pilih fail untuk dimuat naik
+Circular dependency detected: {0},Kebergantungan bulat dikesan: {0}
+Circular parent-child relationship detected,Hubungan induk-anak bulat dikesan
+Clear,Kosongkan
+Clear all read,Kosongkan semua yang dibaca
+Clear date,Kosongkan tarikh
+Click on an activity from the list to view and manage its details.,Klik pada aktiviti daripada senarai untuk melihat dan mengurus butirannya.
+Click the avatar to upload a new photo,Klik avatar untuk memuat naik foto baharu
+Click to add description...,Klik untuk menambah penerangan...
+Click to add notes...,Klik untuk menambah nota...
+Click to assign contact,Klik untuk menugaskan kenalan
+Click to change status,Klik untuk menukar status
+Click to change type,Klik untuk menukar jenis
+Click to edit,Klik untuk mengedit
+Click to edit budget,Klik untuk mengedit bajet
+Click to edit description,Klik untuk mengedit penerangan
+Click to edit end date,Klik untuk mengedit tarikh tamat
+Click to edit milestone name,Klik untuk mengedit nama pencapaian
+Click to edit rate,Klik untuk mengedit kadar
+Click to edit start date,Klik untuk mengedit tarikh mula
+Click to edit title,Klik untuk mengedit tajuk
+Click to load,Klik untuk memuatkan
+Click to set group dependency...,Klik untuk menetapkan kebergantungan kumpulan...
+Click to set group...,Klik untuk menetapkan kumpulan...
+Click to view,Klik untuk melihat
+Click to view at-risk projects,Klik untuk melihat projek berisiko
+Click to view critical projects,Klik untuk melihat projek kritikal
+Click to view healthy projects,Klik untuk melihat projek sihat
+Client,Pelanggan
+Client already has a portal user: {0},Pelanggan sudah mempunyai pengguna portal: {0}
+Client already has portal access,Pelanggan sudah mempunyai akses portal
+Client has no portal user to revoke,Pelanggan tidak mempunyai pengguna portal untuk dibatalkan
+Client link removed from project {0},Pautan pelanggan dikeluarkan daripada projek {0}
+Client Portal,Portal Pelanggan
+Client {0} deleted successfully,Pelanggan {0} berjaya dipadam
+Close,Tutup
+Close (Esc),Tutup (Esc)
+Comment,Komen
+comment,komen
+Comment added,Komen ditambah
+Comment content is required,Kandungan komen diperlukan
+Comment name is required,Nama komen diperlukan
+Comment not found,Komen tidak dijumpai
+Comment removed,Komen dikeluarkan
+Comment {0} not found in task,Komen {0} tidak dijumpai dalam tugasan
+Comments,Komen
+comments,komen
+Community Edition,Community Edition
+Company,Syarikat
+Company name...,Nama syarikat...
+Complete,Selesai
+Completed,Selesai
+completed,selesai
+Completed Tasks,Tugasan Selesai
+Compliance,Pematuhan
+Configure default values for new projects and tasks,Konfigurasikan nilai lalai untuk projek dan tugasan baharu
+Configure email notification settings,Konfigurasikan tetapan pemberitahuan e-mel
+Confirm,Sahkan
+Contact deleted,Kenalan dipadam
+Contact Details,Butiran Kenalan
+Contact Information,Maklumat Kenalan
+Contact name is required,Nama kenalan diperlukan
+Contact Support,Hubungi Sokongan
+Contact your project manager for more information.,Hubungi pengurus projek anda untuk maklumat lanjut.
+Contact:,Kenalan:
+Contacts,Kenalan
+Context,Konteks
+Contractor,Kontraktor
+Cost estimate cannot be negative,Anggaran kos tidak boleh negatif
+Cost Impact,Impak Kos
+Cost Summary,Ringkasan Kos
+Could not apply the template. Please try again.,Tidak dapat menerapkan templat. Sila cuba lagi.
+Could not attach file to project,Tidak dapat melampirkan fail ke projek
+Could not change task priority,Tidak dapat menukar keutamaan tugasan
+Could not change task status,Tidak dapat menukar status tugasan
+Could not delete the project. Please try again.,Tidak dapat memadam projek. Sila cuba lagi.
+Could not delete the task. Please try again.,Tidak dapat memadam tugasan. Sila cuba lagi.
+Could not delete the template.,Tidak dapat memadam templat.
+Could not duplicate the task. Please try again.,Tidak dapat menduplikasi tugasan. Sila cuba lagi.
+Could not export the template.,Tidak dapat mengeksport templat.
+Could not import the template. Please check the file format.,Tidak dapat mengimport templat. Sila semak format fail.
+Could not link task to milestone,Tidak dapat memaut tugasan ke pencapaian
+Could not load document details.,Tidak dapat memuatkan butiran dokumen.
+Could not load task details,Tidak dapat memuatkan butiran tugasan
+Could not promote checklist item to task.,Tidak dapat menaikkan item senarai semak kepada tugasan.
+Could not remove task from milestone,Tidak dapat mengeluarkan tugasan daripada pencapaian
+Could not save budget.,Tidak dapat menyimpan bajet.
+Could not save changes to the milestone,Tidak dapat menyimpan perubahan pada pencapaian
+Could not save changes to the task,Tidak dapat menyimpan perubahan pada tugasan
+Could not save description.,Tidak dapat menyimpan penerangan.
+Could not save end date.,Tidak dapat menyimpan tarikh tamat.
+Could not save milestone name.,Tidak dapat menyimpan nama pencapaian.
+Could not save start date.,Tidak dapat menyimpan tarikh mula.
+Could not save the template. Please try again.,Tidak dapat menyimpan templat. Sila cuba lagi.
+Could not save title.,Tidak dapat menyimpan tajuk.
+Could not update dependency mode.,Tidak dapat mengemas kini mod kebergantungan.
+Could not update milestone date,Tidak dapat mengemas kini tarikh pencapaian
+Could not update project status.,Tidak dapat mengemas kini status projek.
+Could not update project type.,Tidak dapat mengemas kini jenis projek.
+Could not update setting.,Tidak dapat mengemas kini tetapan.
+Could not update task dates,Tidak dapat mengemas kini tarikh tugasan
+Could not update task status,Tidak dapat mengemas kini status tugasan
+Could not update the template.,Tidak dapat mengemas kini templat.
+Create a copy of this task,Cipta salinan tugasan ini
+Create Contact,Cipta Kenalan
+Create Event,Cipta Acara
+Create Milestone,Cipta Pencapaian
+Create New Milestone,Cipta Pencapaian Baharu
+Create New Task,Cipta Tugasan Baharu
+Create Project,Cipta Projek
+Create Task,Cipta Tugasan
+Create tasks and milestones from a template,Cipta tugasan dan pencapaian daripada templat
+Create your first project to get started.,Cipta projek pertama anda untuk bermula.
+Create your first task to start tracking work on this project.,Cipta tugasan pertama anda untuk mula menjejak kerja pada projek ini.
+Created,Dicipta
+Creating...,Mencipta...
+Critical,Kritikal
+Critical Path,Laluan Kritikal
+"Currency used for budgets, costs, and billing rates","Mata wang yang digunakan untuk bajet, kos, dan kadar pengebilan"
+Current,Semasa
+Current Assignments,Tugasan Semasa
+Current scheduled time:,Masa yang dijadualkan semasa:
+Currently running version,Currently running version
+d lag,d sela
+Daily Availability,Ketersediaan Harian
+Daily Hours,Jam Harian
+Danger Zone,Zon Bahaya
+Dark,Gelap
+Dashboard,Papan Pemuka
+Date,Tarikh
+Date changes on this task will show cascade impact here,Perubahan tarikh pada tugasan ini akan menunjukkan impak lata di sini
+Date cleared,Tarikh dikosongkan
+Date of Joining,Tarikh Menyertai
+Date updated,Tarikh dikemas kini
+Dates,Tarikh
+Dates cascaded,Tarikh dilata
+Dates will be relative to the project's start date.,Tarikh akan relatif kepada tarikh mula projek.
+Day,Hari
+day,hari
+days,hari
+Days before due date to send reminder,Hari sebelum tarikh akhir untuk menghantar peringatan
+Days Overdue,Hari Lampau Tempoh
+Days Remaining,Hari Berbaki
+Deadline,Tarikh Akhir
+Deadlines,Tarikh Akhir
+Decision,Keputusan
+Decline,Tolak
+Declined,Ditolak
+Default Currency,Mata Wang Lalai
+Default hours per week for contact capacity planning,Jam lalai seminggu untuk perancangan kapasiti kenalan
+Default Priority,Keutamaan Lalai
+Default Project Status,Status Projek Lalai
+Default Task Status,Status Tugasan Lalai
+Default task view,Paparan tugasan lalai
+Default Values,Nilai Lalai
+Default Weekly Capacity,Kapasiti Mingguan Lalai
+Defaults,Lalai
+Defect Cost Impact,Impak Kos Kecacatan
+Defect name is required,Nama kecacatan diperlukan
+Defect Type,Jenis Kecacatan
+Defect {0} not found,Kecacatan {0} tidak dijumpai
+Defects,Kecacatan
+Defects & Issues,Kecacatan & Isu
+Defects Resolved,Kecacatan Diselesaikan
+Delayed,Tertangguh
+Delete,Padam
+Delete Activity Data,Padam Data Aktiviti
+Delete all read notifications?,Padam semua pemberitahuan yang dibaca?
+Delete comment,Padam komen
+Delete Contact,Padam Kenalan
+Delete Event,Padam Acara
+Delete Event?,Padam Acara?
+Delete failed,Pemadaman gagal
+Delete file,Padam fail
+Delete item,Padam item
+Delete note,Padam nota
+Delete Project,Padam Projek
+Delete Task,Padam Tugasan
+Delete this project,Padam projek ini
+Deleted,Dipadam
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Projek ""{0}"" dipadam ({1} tugasan, {2} pencapaian)"
+Deletes notes and preferences. Source document is not affected.,Memadam nota dan keutamaan. Dokumen sumber tidak terjejas.
+Deleting...,Memadam...
+Department,Jabatan
+Dependencies,Kebergantungan
+dependencies,kebergantungan
+Dependencies are informational only,Kebergantungan adalah untuk maklumat sahaja
+dependency,kebergantungan
+Dependency already exists,Kebergantungan sudah wujud
+Dependency Chain,Rantaian Kebergantungan
+Dependency created,Kebergantungan dicipta
+Dependency mode updated,Mod kebergantungan dikemas kini
+Dependency name is required,Nama kebergantungan diperlukan
+Dependency task {0} not found,Tugasan kebergantungan {0} tidak dijumpai
+Dependency {0} not found,Kebergantungan {0} tidak dijumpai
+depends,bergantung
+Depends on Group,Bergantung pada Kumpulan
+Depends on task is required,Tugasan bergantung diperlukan
+depends on...,bergantung pada...
+Descending -- click to reverse,Menurun -- klik untuk terbalikkan
+Describe the defect in detail...,Huraikan kecacatan secara terperinci...
+Description,Penerangan
+Description updated,Penerangan dikemas kini
+Designation,Jawatan
+"Detailed description of the defect, location, and impact","Penerangan terperinci tentang kecacatan, lokasi, dan impak"
+Details,Butiran
+Discard timer,Buang pemasa
+Discussion,Perbincangan
+Dismiss,Dismiss
+Display,Paparan
+Document,Dokumen
+Document attached to project,Dokumen dilampirkan ke projek
+Document final decision and rationale,Dokumentasikan keputusan akhir dan rasional
+Documentation Review,Semakan Dokumentasi
+Documents,Dokumen
+Done,Selesai
+Download,Muat Turun
+Drag to create dependency,Seret untuk mencipta kebergantungan
+Dry Run,Larian Percubaan
+Dry Run Complete,Larian Percubaan Selesai
+Due Date,Tarikh Akhir
+Due date,Tarikh akhir
+Due Date (Earliest),Tarikh Akhir (Terawal)
+Due date cannot be before start date,Tarikh akhir tidak boleh sebelum tarikh mula
+Due date is in the past,Tarikh akhir sudah lepas
+Due Date Reminders,Peringatan Tarikh Akhir
+Due Diligence,Usaha Wajar
+Due Diligence Checklist,Senarai Semak Usaha Wajar
+Due This Week,Perlu Minggu Ini
+Due:,Tarikh Akhir:
+Duplicate events are not allowed,Acara pendua tidak dibenarkan
+Duplicate failed,Penduplikatan gagal
+Duplicate Task,Duplikasi Tugasan
+Duration,Tempoh
+Duration Summary,Ringkasan Tempoh
+Duration:,Tempoh:
+e.g. Cracked wall finish in bathroom...,cth. Kemasan dinding retak di bilik mandi...
+"e.g. Electrical, Plumbing...","cth. Elektrikal, Paip Air..."
+Edit,Edit
+Edit (E),Edit (E)
+Edit dependency,Edit kebergantungan
+Edit Event,Edit Acara
+Efficiency,Kecekapan
+Either dependency_name or depends_on is required,Sama ada dependency_name atau depends_on diperlukan
+Email,E-mel
+Email invitations to all attendees,Jemputan e-mel kepada semua peserta
+Email is required to create portal user,E-mel diperlukan untuk mencipta pengguna portal
+Email notifications,Pemberitahuan e-mel
+Employee,Pekerja
+Employee DocType not available,DocType Pekerja tidak tersedia
+Employee not found,Pekerja tidak dijumpai
+Enable or disable optional features,Dayakan atau nyahdayakan ciri pilihan
+Enable Time Tracking,Dayakan Penjejakan Masa
+End,Tamat
+End Date,Tarikh Tamat
+End date,Tarikh tamat
+End Date cannot be before Start Date,Tarikh Tamat tidak boleh sebelum Tarikh Mula
+End date cannot be before start date,Tarikh tamat tidak boleh sebelum tarikh mula
+End date updated,Tarikh tamat dikemas kini
+End time was before start time. Adjusted to 1 hour after start.,Masa tamat sebelum masa mula. Diselaraskan kepada 1 jam selepas mula.
+End:,Tamat:
+Enter milestone name...,Masukkan nama pencapaian...
+Enter project name,Masukkan nama projek
+Enter task title...,Masukkan tajuk tugasan...
+Enter template name,Masukkan nama templat
+Enter your note... Use @name to mention someone,Masukkan nota anda... Gunakan @nama untuk menyebut seseorang
+Error,Ralat
+Error loading activity,Ralat memuatkan aktiviti
+Error loading contacts,Ralat memuatkan kenalan
+Error loading dashboard,Ralat memuatkan papan pemuka
+Error loading project,Ralat memuatkan projek
+Error loading projects,Ralat memuatkan projek
+Error loading settings,Ralat memuatkan tetapan
+Error loading tasks,Ralat memuatkan tugasan
+Error loading templates,Ralat memuatkan templat
+Est. Hours,Angg. Jam
+Estimated,Anggaran
+Estimated Cost,Kos Anggaran
+Estimated Cost (€),Kos Anggaran (€)
+Estimated Hours,Jam Anggaran
+Estimated:,Anggaran:
+Evaluate potential risks and concerns,Nilaikan risiko dan kebimbangan yang berpotensi
+Event,Acara
+Event is required for event context,Acara diperlukan untuk konteks acara
+Event is required when tracking context is 'event',Acara diperlukan apabila konteks penjejakan adalah 'acara'
+Event Type,Jenis Acara
+Events,Acara
+Events not available. Please run: bench --site orga.localhost migrate,Acara tidak tersedia. Sila jalankan: bench --site orga.localhost migrate
+Events:,Acara:
+Expert,Pakar
+Explain why you are proposing a different time...,Jelaskan mengapa anda mencadangkan masa yang berbeza...
+Export,Eksport
+Export failed,Eksport gagal
+Export JSON,Eksport JSON
+Exported,Dieksport
+Exported to timesheet {0},Dieksport ke helaian masa {0}
+External,Luaran
+Failed to add item,Gagal menambah item
+Failed to add note,Gagal menambah nota
+Failed to add skill,Gagal menambah kemahiran
+Failed to apply cascade changes: {0},Gagal menerapkan perubahan lata: {0}
+Failed to create defect,Gagal mencipta kecacatan
+Failed to create dependency,Gagal mencipta kebergantungan
+Failed to create event,Gagal mencipta acara
+Failed to create milestone,Gagal mencipta pencapaian
+Failed to create project,Gagal mencipta projek
+Failed to create task,Gagal mencipta tugasan
+Failed to create time log,Gagal mencipta log masa
+Failed to delete,Gagal memadam
+Failed to delete comment,Gagal memadam komen
+Failed to delete contact,Gagal memadam kenalan
+Failed to load,Gagal memuatkan
+Failed to load activity,Gagal memuatkan aktiviti
+Failed to load assignments,Gagal memuatkan tugasan
+Failed to load contact,Gagal memuatkan kenalan
+Failed to load dashboard data,Gagal memuatkan data papan pemuka
+Failed to load defects,Gagal memuatkan kecacatan
+Failed to load events,Gagal memuatkan acara
+Failed to load project,Gagal memuatkan projek
+Failed to load projects,Gagal memuatkan projek
+Failed to load report data,Gagal memuatkan data laporan
+Failed to load settings,Gagal memuatkan tetapan
+Failed to load tasks,Gagal memuatkan tugasan
+Failed to move task,Gagal memindahkan tugasan
+Failed to post comment,Gagal menghantar komen
+Failed to propose new time,Gagal mencadangkan masa baharu
+Failed to remove item,Gagal mengeluarkan item
+Failed to remove skill,Gagal mengeluarkan kemahiran
+Failed to reorder milestones: {0},Gagal menyusun semula pencapaian: {0}
+Failed to reorder tasks: {0},Gagal menyusun semula tugasan: {0}
+Failed to reschedule dependent tasks: {0},Gagal menjadualkan semula tugasan bergantung: {0}
+Failed to save,Gagal menyimpan
+Failed to save preferences,Gagal menyimpan keutamaan
+Failed to save settings,Gagal menyimpan tetapan
+Failed to submit request. Please try again.,Gagal menghantar permintaan. Sila cuba lagi.
+Failed to update item,Gagal mengemas kini item
+Failed to update priority,Gagal mengemas kini keutamaan
+Failed to update task,Gagal mengemas kini tugasan
+Failed to update tasks: {0},Gagal mengemas kini tugasan: {0}
+Failed to upload avatar,Gagal memuat naik avatar
+Feature,Ciri
+Features,Ciri
+FF (Finish-Finish),FF (Tamat-Tamat)
+FF - Finish-to-Finish,FF - Tamat-ke-Tamat
+Field has been updated,Medan telah dikemas kini
+Field name is required for 'Set Field Value' action,Nama medan diperlukan untuk tindakan 'Tetapkan Nilai Medan'
+Field {0} is not a Link field,Medan {0} bukan medan Pautan
+Field {0} not found in {1},Medan {0} tidak dijumpai dalam {1}
+file,fail
+File,Fail
+File does not belong to this task,Fail tidak tergolong dalam tugasan ini
+File name is required,Nama fail diperlukan
+File uploaded,Fail dimuat naik
+File {0} not found,Fail {0} tidak dijumpai
+files,fail
+Files,Fail
+Filter,Tapis
+Final Decision,Keputusan Akhir
+Finance,Kewangan
+Financial,Kewangan
+Finish-to-Finish,Tamat-ke-Tamat
+Finish-to-Start,Tamat-ke-Mula
+Flag,Tandakan
+Flag for attention,Tandakan untuk perhatian
+Flagged,Ditandakan
+Focus Panel,Panel Fokus
+Follows your system preference. Currently:,Mengikut keutamaan sistem anda. Semasa:
+Frappe Project {0} not found,Projek Frappe {0} tidak dijumpai
+Frappe Projects Migration,Pemindahan Projek Frappe
+Frappe Projects module not available,Modul Projek Frappe tidak tersedia
+Frappe Projects module not installed,Modul Projek Frappe tidak dipasang
+Frappe Projects sync is not enabled,Penyegerakan Projek Frappe tidak didayakan
+Frappe Task DocType not found,DocType Tugas Frappe tidak dijumpai
+Frappe Task has no project,Tugas Frappe tiada projek
+Frappe Task {0} not found,Tugas Frappe {0} tidak dijumpai
+Fri,Jum
+From,Dari
+From Template,Dari Templat
+FS (Finish-Start),FS (Tamat-Mula)
+FS - Finish-to-Start (default),FS - Tamat-ke-Mula (lalai)
+Full form view with audit trail,Paparan penuh borang dengan jejak audit
+Full name,Nama penuh
+Gantt,Gantt
+Gantt Chart,Carta Gantt
+Gantt View,Paparan Gantt
+General Note,Nota Umum
+Get started,Mulakan
+Go back,Kembali
+Go Back,Go Back
+Group by,Kumpulkan mengikut
+Group dependency removed,Kebergantungan kumpulan dikeluarkan
+Group dependency set,Kebergantungan kumpulan ditetapkan
+Group removed,Kumpulan dikeluarkan
+Group updated,Kumpulan dikemas kini
+Hammock task dates are auto-calculated and cannot be changed manually,Tarikh tugasan hammock dikira secara automatik dan tidak boleh diubah secara manual
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Ada soalan atau perlukan bantuan? Isi borang di bawah dan pasukan kami akan menghubungi anda.
+Health,Kesihatan
+Healthy,Sihat
+Hello {0},Halo {0}
+Here's what's happening with your projects today.,Inilah yang berlaku dengan projek anda hari ini.
+Hide,Sembunyikan
+High,Tinggi
+History,Sejarah
+Home,Laman Utama
+Hourly Cost,Kos Per Jam
+Hours,Jam
+hours,jam
+Hours Logged,Jam Direkod
+ID,ID
+Image must be smaller than 5 MB,Imej mesti lebih kecil daripada 5 MB
+Import,Import
+Import existing projects and tasks from Frappe Projects module,Import projek dan tugasan sedia ada dari modul Projek Frappe
+Import failed,Import gagal
+Import Template,Import Templat
+Imported,Diimport
+in,dalam
+In Progress,Sedang Berjalan
+In Review,Dalam Semakan
+In-app notifications,Pemberitahuan dalam aplikasi
+Inactive,Tidak Aktif
+Initial Review,Semakan Awal
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Keizinan tidak mencukupi untuk melihat semua tugasan
+Intermediate,Pertengahan
+Internal,Dalaman
+Invalid DocType,DocType tidak sah
+Invalid DocType for import,DocType tidak sah untuk import
+Invalid item type: {0},Jenis item tidak sah: {0}
+Invalid JSON data,Data JSON tidak sah
+Invalid note type. Must be one of: {0},Jenis nota tidak sah. Mesti salah satu daripada: {0}
+Invalid project reference,Rujukan projek tidak sah
+Invalid reaction type. Must be one of: {0},Jenis reaksi tidak sah. Mesti salah satu daripada: {0}
+Invalid RSVP status,Status RSVP tidak sah
+Invalid status. Must be one of: {0},Status tidak sah. Mesti salah satu daripada: {0}
+Invalid status: {0},Status tidak sah: {0}
+Invalid status: {0}. Must be one of: {1},Status tidak sah: {0}. Mesti salah satu daripada: {1}
+Invalid tracking context: {0},Konteks penjejakan tidak sah: {0}
+Invalid visibility. Must be one of: {0},Keterlihatan tidak sah. Mesti salah satu daripada: {0}
+Invitation: {0} - {1} at {2},Jemputan: {0} - {1} pada {2}
+Invite People,Jemput Orang
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Item ditambah
+Item ID is required,ID item diperlukan
+Item removed,Item dikeluarkan
+Item type is required,Jenis item diperlukan
+Item {0} not found,Item {0} tidak dijumpai
+Job title or role,Jawatan atau peranan
+Join Meeting,Sertai Mesyuarat
+Just now,Baru sahaja
+just now,baru sahaja
+Kanban,Kanban
+Kanban Board,Papan Kanban
+Kanban View,Paparan Kanban
+Keyboard Shortcuts,Pintasan Papan Kekunci
+Keyboard shortcuts (?),Pintasan papan kekunci (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Terakhir Dikemas Kini
+Last updated:,Terakhir dikemas kini:
+Last Week,Minggu Lepas
+Latest Version,Latest Version
+Light,Cerah
+Link failed,Pautan gagal
+Link Task,Paut Tugasan
+Linked,Dipaut
+Linked employee not found,Pekerja yang dipaut tidak dijumpai
+Linked Tasks,Tugasan Dipaut
+List,Senarai
+List View,Paparan Senarai
+Load failed,Pemuatan gagal
+Load More,Muat Lagi
+Load more comments,Muat lagi komen
+Loading activity...,Memuatkan aktiviti...
+Loading changes...,Memuatkan perubahan...
+Loading checklist...,Memuatkan senarai semak...
+Loading comments...,Memuatkan komen...
+Loading contact...,Memuatkan kenalan...
+Loading contacts...,Memuatkan kenalan...
+Loading dependencies...,Memuatkan kebergantungan...
+Loading details...,Memuatkan butiran...
+Loading discussion...,Memuatkan perbincangan...
+Loading events...,Memuatkan acara...
+Loading files...,Memuatkan fail...
+Loading notes...,Memuatkan nota...
+Loading preferences...,Memuatkan keutamaan...
+Loading project...,Memuatkan projek...
+Loading projects...,Memuatkan projek...
+Loading replies...,Memuatkan balasan...
+Loading report data...,Memuatkan data laporan...
+Loading settings...,Memuatkan tetapan...
+Loading task...,Memuatkan tugasan...
+Loading templates...,Memuatkan templat...
+Loading time logs...,Memuatkan log masa...
+Loading your portal...,Memuatkan portal anda...
+Loading...,Memuatkan...
+Location,Lokasi
+Log Time,Log Masa
+Logout,Log Keluar
+Low,Rendah
+Make Offer,Buat Tawaran
+Manager,Pengurus
+Manual Entry,Kemasukan Manual
+Margin,Margin
+Mark all as read,Tandakan semua sebagai dibaca
+Mark all read,Tandakan semua dibaca
+Mark as read,Tandakan sebagai dibaca
+Mark as unread,Tandakan sebagai belum dibaca
+Mark read,Tandakan dibaca
+Marking...,Menandakan...
+Material,Material
+Maybe,Mungkin
+Medium,Sederhana
+Meeting,Mesyuarat
+Meeting Link,Pautan Mesyuarat
+Meeting title,Tajuk mesyuarat
+Meeting URL,URL Mesyuarat
+Meetings,Mesyuarat
+Mention,Sebutan
+Message,Mesej
+Message is required,Mesej diperlukan
+Message is required for '{0}' action,Mesej diperlukan untuk tindakan '{0}'
+Migrate,Pindahkan
+Migration Complete,Pemindahan Selesai
+Migration ID:,ID Pemindahan:
+Migration log not found: {0},Log pemindahan tidak dijumpai: {0}
+milestone,pencapaian
+Milestone,Pencapaian
+Milestone created,Pencapaian dicipta
+Milestone description has been saved.,Penerangan pencapaian telah disimpan.
+Milestone ID is required,ID pencapaian diperlukan
+Milestone marked as Missed (past due date),Pencapaian ditandakan sebagai Terlepas (lampau tarikh akhir)
+Milestone moved,Pencapaian dipindahkan
+Milestone Name,Nama Pencapaian
+Milestone name has been saved.,Nama pencapaian telah disimpan.
+Milestone name is required,Nama pencapaian diperlukan
+Milestone updated,Pencapaian dikemas kini
+Milestone {0} not found,Pencapaian {0} tidak dijumpai
+Milestone {0} not in project {1},Pencapaian {0} tiada dalam projek {1}
+milestones,pencapaian
+Milestones,Pencapaian
+Milestones:,Pencapaian:
+Minutes,Minit
+Missed,Terlepas
+Mixed,Bercampur
+Mobile,Mudah Alih
+Moderate,Sederhana
+Modified,Diubah Suai
+"Modify details, time, or attendees","Ubah suai butiran, masa, atau peserta"
+Mon,Isn
+Month,Bulan
+Move failed,Pemindahan gagal
+Must be a positive number,Mesti nombor positif
+Must finish before this finishes,Mesti selesai sebelum ini selesai
+Must finish before this starts,Mesti selesai sebelum ini bermula
+Must start before this finishes,Mesti bermula sebelum ini selesai
+Must start before this starts,Mesti bermula sebelum ini bermula
+My Assignments,Tugasan Saya
+My Projects,Projek Saya
+My Schedule,Jadual Saya
+My Tasks,Tugasan Saya
+N/A,N/A
+Name,Nama
+Name (A-Z),Nama (A-Z)
+Name (Z-A),Nama (Z-A)
+Name cannot exceed 255 characters,Nama tidak boleh melebihi 255 aksara
+Need help?,Perlukan bantuan?
+Needs Attention,Perlu Perhatian
+Never,Never
+new activities,aktiviti baharu
+New Activity,Aktiviti Baharu
+New activity,Aktiviti baharu
+New Event,Acara Baharu
+New index is required,Indeks baharu diperlukan
+New Project,Projek Baharu
+New tasks will auto-trail by default.,Tugasan baharu akan jejak automatik secara lalai.
+Newest First,Terbaharu Dahulu
+Next,Seterusnya
+Next 14 days,14 hari seterusnya
+Next 30 days,30 hari seterusnya
+Next 60 days,60 hari seterusnya
+Next 7 days,7 hari seterusnya
+Next 90 days,90 hari seterusnya
+Next Week,Minggu Hadapan
+Next:,Seterusnya:
+No,Tidak
+No active assignments,Tiada tugasan aktif
+No active projects,Tiada projek aktif
+No active timer found,Tiada pemasa aktif dijumpai
+No activity selected,Tiada aktiviti dipilih
+No assignments found,Tiada tugasan dijumpai
+No attendees,Tiada peserta
+no change,tiada perubahan
+No changes for this field.,Tiada perubahan untuk medan ini.
+No changes recorded for this activity.,Tiada perubahan direkodkan untuk aktiviti ini.
+No checklist items yet,Belum ada item senarai semak
+No checklist items yet.,Belum ada item senarai semak.
+No comments yet,Belum ada komen
+No comments yet.,Belum ada komen.
+No contacts available,Tiada kenalan tersedia
+No content for this tab,Tiada kandungan untuk tab ini
+No data available,Tiada data tersedia
+No data available for the selected filters,Tiada data tersedia untuk penapis yang dipilih
+No data to export,Tiada data untuk dieksport
+No dates set,Tiada tarikh ditetapkan
+No defects reported,Tiada kecacatan dilaporkan
+No dependencies defined,Tiada kebergantungan ditetapkan
+No description,Tiada penerangan
+No discussion yet.,Belum ada perbincangan.
+No documents attached,Tiada dokumen dilampirkan
+No due date,Tiada tarikh akhir
+No employee linked to this resource,Tiada pekerja dipaut ke sumber ini
+No ERPNext employee linked to resource,Tiada pekerja ERPNext dipaut ke sumber
+No events found,Tiada acara dijumpai
+No files attached yet.,Belum ada fail dilampirkan.
+No Frappe Project linked,Tiada Projek Frappe dipaut
+No Grouping,Tanpa Pengelompokan
+No items,Tiada item
+No matching tasks,Tiada tugasan sepadan
+No matching tasks found,Tiada tugasan sepadan dijumpai
+No migration history,Tiada sejarah pemindahan
+No Milestone,Tiada Pencapaian
+No milestones,Tiada pencapaian
+No milestones defined for this project.,Tiada pencapaian ditetapkan untuk projek ini.
+No notes yet.,Belum ada nota.
+No notes yet. Add a due diligence note to track progress.,Belum ada nota. Tambah nota usaha wajar untuk menjejak kemajuan.
+No notifications,Tiada pemberitahuan
+No Orga Project linked to Frappe Project {0},Tiada Projek Orga dipaut ke Projek Frappe {0}
+No overdue tasks,Tiada tugasan lampau tempoh
+No pending cascade changes,Tiada perubahan lata tertangguh
+No predecessors - this task can start independently,Tiada pendahulu - tugasan ini boleh dimulakan secara bebas
+No project,Tiada projek
+No projects found,Tiada projek dijumpai
+No Projects Yet,Belum Ada Projek
+No recent activity,Tiada aktiviti terkini
+No related documents,Tiada dokumen berkaitan
+No resolved threads.,Tiada utas yang diselesaikan.
+No resources found,Tiada sumber dijumpai
+No results found,Tiada hasil dijumpai
+No skills listed,Tiada kemahiran disenaraikan
+No skills recorded yet,Belum ada kemahiran direkodkan
+No successors - no tasks are waiting for this one,Tiada pengganti - tiada tugasan menunggu tugasan ini
+No task selected,Tiada tugasan dipilih
+No tasks assigned to you,Tiada tugasan ditugaskan kepada anda
+No tasks available to add,Tiada tugasan tersedia untuk ditambah
+No tasks found,Tiada tugasan dijumpai
+No tasks linked to this milestone,Tiada tugasan dipaut ke pencapaian ini
+No tasks with dates to display,Tiada tugasan dengan tarikh untuk dipaparkan
+No tasks yet,Belum ada tugasan
+No team members,Tiada ahli pasukan
+No template,Tiada templat
+No templates yet,Belum ada templat
+No time data found,Tiada data masa dijumpai
+No time logged today,Tiada masa direkod hari ini
+No time logged yet,Belum ada masa direkod
+No time logs for this period,Tiada log masa untuk tempoh ini
+No time logs found,Tiada log masa dijumpai
+No unread notifications,Tiada pemberitahuan belum dibaca
+No update information available yet.,No update information available yet.
+None,Tiada
+Not found,Tidak dijumpai
+Not permitted,Tidak dibenarkan
+Not permitted to access this project,Tidak dibenarkan mengakses projek ini
+Not permitted to access this task,Tidak dibenarkan mengakses tugasan ini
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Tidak dibenarkan mengulas pada dokumen ini
+Not permitted to create clients,Tidak dibenarkan mencipta pelanggan
+Not permitted to delete this client,Tidak dibenarkan memadam pelanggan ini
+Not permitted to delete this defect,Tidak dibenarkan memadam kecacatan ini
+Not permitted to delete this note,Tidak dibenarkan memadam nota ini
+Not permitted to delete this project,Tidak dibenarkan memadam projek ini
+Not permitted to delete this task,Tidak dibenarkan memadam tugasan ini
+Not permitted to delete this time log,Tidak dibenarkan memadam log masa ini
+Not permitted to invite clients,Tidak dibenarkan menjemput pelanggan
+Not permitted to modify client access,Tidak dibenarkan mengubah suai akses pelanggan
+Not permitted to modify this project,Tidak dibenarkan mengubah suai projek ini
+Not permitted to update settings,Tidak dibenarkan mengemas kini tetapan
+Not permitted to update this client,Tidak dibenarkan mengemas kini pelanggan ini
+Not permitted to view this client,Tidak dibenarkan melihat pelanggan ini
+not sent,tidak dihantar
+Not set,Tidak ditetapkan
+Not specified,Tidak dinyatakan
+Note,Nota
+Note (optional),Nota (pilihan)
+Note Content,Kandungan Nota
+Note content is required,Kandungan nota diperlukan
+Note name is required,Nama nota diperlukan
+Note not found,Nota tidak dijumpai
+Note Type,Jenis Nota
+Notes,Nota
+Notification,Pemberitahuan
+Notification not found,Pemberitahuan tidak dijumpai
+Notifications,Pemberitahuan
+Off Track,Tidak Mengikut Jejak
+Offer,Tawaran
+Offer Prepared,Tawaran Disediakan
+Oldest First,Terlama Dahulu
+On Hold,Ditangguhkan
+On Leave,Cuti
+On Track,Mengikut Jejak
+On-Time Rate,Kadar Tepat Masa
+Only administrators can delete activities,Hanya pentadbir boleh memadam aktiviti
+Only the comment author or administrators can delete comments,Hanya penulis komen atau pentadbir boleh memadam komen
+Only you and admins,Hanya anda dan pentadbir
+Open,Buka
+Open in Desk,Buka di Desk
+Open Task Log,Buka Log Tugasan
+Open Tasks,Tugasan Terbuka
+Optional,Pilihan
+optional,pilihan
+Or email us directly at,Atau e-mel kami terus di
+Orga Project {0} from Frappe Projects,Projek Orga {0} dari Projek Frappe
+Orga Task {0} from Frappe,Tugasan Orga {0} dari Frappe
+Organizer,Penganjur
+Other,Lain-lain
+Over Budget,Melebihi Bajet
+Overall Progress,Kemajuan Keseluruhan
+Overall Utilization,Penggunaan Keseluruhan
+Overallocated,Terlebih Peruntukan
+Overdue,Lampau Tempoh
+overdue,lampau tempoh
+Overdue Tasks,Tugasan Lampau Tempoh
+Overview,Gambaran Keseluruhan
+Owner,Pemilik
+Page Not Found,Halaman Tidak Dijumpai
+Parent,Induk
+Parent comment must belong to the same document,Komen induk mesti tergolong dalam dokumen yang sama
+Parent comment not found,Komen induk tidak dijumpai
+Parent project not synced to Frappe yet,Projek induk belum disegerakkan ke Frappe
+Parent project sync not enabled,Penyegerakan projek induk tidak didayakan
+Partner,Rakan Kongsi
+Pending,Tertangguh
+per page,setiap halaman
+Perform initial assessment and background check,Lakukan penilaian awal dan semakan latar belakang
+Permanently remove this event,Keluarkan acara ini secara kekal
+Permanently remove this task,Keluarkan tugasan ini secara kekal
+Phone,Telefon
+Pin,Semat
+Pin Activity,Semat Aktiviti
+Pin to top,Semat ke atas
+Pinned,Disemat
+Planned budget for this task,Bajet yang dirancang untuk tugasan ini
+Planning,Perancangan
+Please describe your question or issue in detail...,Sila huraikan soalan atau isu anda secara terperinci...
+Please login to access Orga,Sila log masuk untuk mengakses Orga
+Please login to access the client portal,Sila log masuk untuk mengakses portal pelanggan
+Please respond to this invitation in Orga,Sila jawab jemputan ini dalam Orga
+Please select an image file,Sila pilih fail imej
+Please try again,Sila cuba lagi
+Please type,Sila taip
+Portal,Portal
+Portal access revoked for {0},Akses portal dibatalkan untuk {0}
+Portal user created successfully. Welcome email {0},Pengguna portal berjaya dicipta. E-mel selamat datang {0}
+Post,Hantar
+Powered by,Dikuasakan oleh
+Powered by Tonic,Dikuasakan oleh Tonic
+Predecessors (Blocked By),Pendahulu (Disekat Oleh)
+Preferences,Keutamaan
+Preferences saved successfully,Keutamaan berjaya disimpan
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)","Awalan untuk kod projek yang dijana automatik (cth., ORG-2026-0001)"
+Prepare and document offer terms,Sediakan dan dokumentasikan terma tawaran
+Press,Tekan
+Preview,Pratonton
+Preview cascade before applying,Pratonton lata sebelum menerapkan
+Previous,Sebelumnya
+Priority,Keutamaan
+Priority assigned to new tasks,Keutamaan yang ditugaskan kepada tugasan baharu
+Priority updated,Keutamaan dikemas kini
+Proficiency,Kecekapan
+Profile,Profil
+Progress,Kemajuan
+Progress (High-Low),Kemajuan (Tinggi-Rendah)
+Progress (Low-High),Kemajuan (Rendah-Tinggi)
+Progress Overview,Gambaran Keseluruhan Kemajuan
+Progress updated,Kemajuan dikemas kini
+Project,Projek
+Project budget has been saved.,Bajet projek telah disimpan.
+Project code (e.g. ORG-2026-0001),Kod projek (cth. ORG-2026-0001)
+Project Code Prefix,Awalan Kod Projek
+Project created,Projek dicipta
+Project deleted,Projek dipadam
+Project description has been saved.,Penerangan projek telah disimpan.
+Project Details,Butiran Projek
+Project end date has been saved.,Tarikh tamat projek telah disimpan.
+Project Files,Fail Projek
+Project has no linked client,Projek tiada pelanggan yang dipaut
+Project Health,Kesihatan Projek
+Project Info,Maklumat Projek
+Project is required,Projek diperlukan
+Project is required for project context,Projek diperlukan untuk konteks projek
+Project is required when tracking context is 'project',Projek diperlukan apabila konteks penjejakan adalah 'projek'
+Project Manager,Pengurus Projek
+Project Name,Nama Projek
+Project name and template name are required,Nama projek dan nama templat diperlukan
+Project name is required,Nama projek diperlukan
+Project not found,Projek tidak dijumpai
+Project not found or you do not have access,Projek tidak dijumpai atau anda tiada akses
+Project settings,Tetapan projek
+Project start date has been saved.,Tarikh mula projek telah disimpan.
+Project title has been saved.,Tajuk projek telah disimpan.
+Project Type,Jenis Projek
+Project updated,Projek dikemas kini
+Project {0} linked to client {1},Projek {0} dipaut ke pelanggan {1}
+Project {0} not found,Projek {0} tidak dijumpai
+Project {0} to Frappe Projects,Projek {0} ke Projek Frappe
+Project:,Projek:
+projects,projek
+Projects,Projek
+Projects created:,Projek dicipta:
+Projects Overview,Gambaran Keseluruhan Projek
+Projects skipped:,Projek dilangkau:
+Projects updated:,Projek dikemas kini:
+Promote failed,Penaikkan gagal
+Promote to task,Naikkan kepada tugasan
+Promoted to task,Dinaikkan kepada tugasan
+Propose,Cadangkan
+Propose New Time,Cadangkan Masa Baharu
+Propose Time,Cadangkan Masa
+Proposed End,Tamat Dicadangkan
+Proposed Start,Mula Dicadangkan
+Public,Awam
+Quick Action,Tindakan Pantas
+Quick Actions,Tindakan Pantas
+Quick Stats,Statistik Pantas
+Rates,Kadar
+Receive notifications via email,Terima pemberitahuan melalui e-mel
+Receive notifications within the application,Terima pemberitahuan dalam aplikasi
+Recent Activity,Aktiviti Terkini
+Recipient {0} is not a valid user,Penerima {0} bukan pengguna yang sah
+Reference,Rujukan
+Refresh,Muat Semula
+Related,Berkaitan
+Related Company (optional),Syarikat Berkaitan (pilihan)
+Related Documents,Dokumen Berkaitan
+Related Project,Projek Berkaitan
+Remaining,Berbaki
+Reminder,Peringatan
+Reminder Lead Time,Masa Pendahuluan Peringatan
+Reminder: {0} - {1} at {2},Peringatan: {0} - {1} pada {2}
+Remove,Keluarkan
+Remove dependency,Keluarkan kebergantungan
+Remove dependency on,Keluarkan kebergantungan pada
+Remove from group,Keluarkan dari kumpulan
+Remove group dependency,Keluarkan kebergantungan kumpulan
+Remove skill,Keluarkan kemahiran
+Reopen,Buka Semula
+Reopen thread,Buka semula utas
+reopened,dibuka semula
+replies,balasan
+Reply,Balas
+reply,balasan
+Replying to,Membalas kepada
+Replying to comment,Membalas komen
+Report Defect,Laporkan Kecacatan
+Reported Date,Tarikh Dilaporkan
+Reports,Laporan
+Reports To,Melapor Kepada
+Request Submitted!,Permintaan Dihantar!
+Required,Diperlukan
+required,diperlukan
+Research,Penyelidikan
+Reset to Defaults,Tetapkan Semula ke Lalai
+Resolve,Selesaikan
+Resolve thread,Selesaikan utas
+Resolved,Diselesaikan
+Resolved date cannot be before reported date,Tarikh diselesaikan tidak boleh sebelum tarikh dilaporkan
+Resource,Sumber
+Resource and skill name are required,Sumber dan nama kemahiran diperlukan
+Resource is already an attendee,Sumber sudah menjadi peserta
+Resource name is required,Nama sumber diperlukan
+Resource not found,Sumber tidak dijumpai
+Resource synced from employee {0},Sumber disegerakkan dari pekerja {0}
+Resource {0} is already assigned to this task ({1}),Sumber {0} sudah ditugaskan kepada tugasan ini ({1})
+Resource {0} not found,Sumber {0} tidak dijumpai
+Resources,Sumber
+Retry,Cuba Semula
+Review,Semakan
+Review all relevant documents and contracts,Semak semua dokumen dan kontrak yang berkaitan
+Reviews,Semakan
+Risk Assessment,Penilaian Risiko
+Rollback,Gulung Balik
+Rolled back,Digulung balik
+Room or address,Bilik atau alamat
+RSVP,RSVP
+Safety,Keselamatan
+Sat,Sab
+Save,Simpan
+"Save a project as a template, or import one from a JSON file.","Simpan projek sebagai templat, atau import satu daripada fail JSON."
+Save as Template,Simpan sebagai Templat
+Save Changes,Simpan Perubahan
+Save failed,Penyimpanan gagal
+Save Preferences,Simpan Keutamaan
+Save Template,Simpan Templat
+Saving...,Menyimpan...
+Schedule,Jadual
+Schedule type is required for scheduled triggers,Jenis jadual diperlukan untuk pencetus berjadual
+Scheduled,Dijadualkan
+Search,Cari
+"Search by name, email, or skill...","Cari mengikut nama, e-mel, atau kemahiran..."
+Search for a project...,Cari projek...
+Search for a task...,Cari tugasan...
+Search for an event...,Cari acara...
+Search for people to invite...,Cari orang untuk dijemput...
+Search tasks to link...,Cari tugasan untuk dipaut...
+Search tasks...,Cari tugasan...
+Search...,Cari...
+Searching...,Mencari...
+Seen,Dilihat
+Select a project if your request is related to a specific project.,Pilih projek jika permintaan anda berkaitan dengan projek tertentu.
+Select a project...,Pilih projek...
+Select a task from the Gantt chart to view and manage its details.,Pilih tugasan daripada carta Gantt untuk melihat dan mengurus butirannya.
+Select a task from the list or Kanban board to view and manage its details.,Pilih tugasan daripada senarai atau papan Kanban untuk melihat dan mengurus butirannya.
+Select a template...,Pilih templat...
+Select priority...,Pilih keutamaan...
+Select status...,Pilih status...
+Select task...,Pilih tugasan...
+Select type...,Pilih jenis...
+Selection,Pilihan
+Send,Hantar
+Send comment,Hantar komen
+Send email invitations to attendees,Hantar jemputan e-mel kepada peserta
+Send Invitations,Hantar Jemputan
+Send notification when a task is assigned to a user,Hantar pemberitahuan apabila tugasan ditugaskan kepada pengguna
+Send notification when task status changes,Hantar pemberitahuan apabila status tugasan berubah
+Send reminder before task due date,Hantar peringatan sebelum tarikh akhir tugasan
+sent,dihantar
+Set rate,Tetapkan kadar
+Settings,Tetapan
+Settings saved successfully,Tetapan berjaya disimpan
+Severity,Keterukan
+SF (Start-Finish),SF (Mula-Tamat)
+SF - Start-to-Finish,SF - Mula-ke-Tamat
+Show,Tunjukkan
+Show all,Tunjukkan semua
+Show all changes,Tunjukkan semua perubahan
+Show Archived,Tunjukkan Arkib
+Show full diff,Tunjukkan perbezaan penuh
+Show less,Tunjukkan kurang
+Show more,Tunjukkan lagi
+Skill added,Kemahiran ditambah
+Skill is required,Kemahiran diperlukan
+Skill Name,Nama Kemahiran
+Skill removed,Kemahiran dikeluarkan
+Skill {0} already exists for this resource,Kemahiran {0} sudah wujud untuk sumber ini
+Skills,Kemahiran
+Skills & Competencies,Kemahiran & Kecekapan
+Skip already migrated projects,Langkau projek yang sudah dipindahkan
+Sort by,Susun mengikut
+Sort: Due Date,Susun: Tarikh Akhir
+Sort: Priority,Susun: Keutamaan
+Sort: Project,Susun: Projek
+Sort: Status,Susun: Status
+Sort: Task,Susun: Tugasan
+Source Code,Kod Sumber
+Spent,Dibelanjakan
+Spent:,Dibelanjakan:
+SS (Start-Start),SS (Mula-Mula)
+SS - Start-to-Start,SS - Mula-ke-Mula
+Standalone,Bersendirian
+Start,Mula
+Start a discussion below,Mulakan perbincangan di bawah
+Start Date,Tarikh Mula
+Start date,Tarikh mula
+Start Date (Earliest),Tarikh Mula (Terawal)
+Start date updated,Tarikh mula dikemas kini
+Start date/time is required,Tarikh/masa mula diperlukan
+Start Migration,Mulakan Pemindahan
+Start the conversation below.,Mulakan perbualan di bawah.
+Start Timer,Mulakan Pemasa
+Start typing to search...,Mula menaip untuk mencari...
+Start-to-Finish,Mula-ke-Tamat
+Start-to-Start,Mula-ke-Mula
+Start:,Mula:
+Statistics reset,Statistik ditetapkan semula
+Status,Status
+Status assigned to new projects,Status yang ditugaskan kepada projek baharu
+Status assigned to new tasks,Status yang ditugaskan kepada tugasan baharu
+Status Changes,Perubahan Status
+Status updated,Status dikemas kini
+Status:,Status:
+Stop,Henti
+Stop & Save,Henti & Simpan
+Stop Timer,Hentikan Pemasa
+Stops current timer and starts for this event,Hentikan pemasa semasa dan mulakan untuk acara ini
+Stops current timer and starts for this task,Hentikan pemasa semasa dan mulakan untuk tugasan ini
+Subject,Subjek
+Subject cannot exceed 255 characters,Subjek tidak boleh melebihi 255 aksara
+Subject is required,Subjek diperlukan
+Submit,Hantar
+Submit Another Request,Hantar Permintaan Lain
+Submit Request,Hantar Permintaan
+Submitting...,Menghantar...
+Successfully saved,Berjaya disimpan
+Successors (Blocking),Pengganti (Menyekat)
+Sun,Ahd
+Supplier,Pembekal
+Support,Sokongan
+Switch to this event,Tukar ke acara ini
+Switch to this task,Tukar ke tugasan ini
+Sync direction is set to Frappe to Orga only,Arah penyegerakan ditetapkan kepada Frappe ke Orga sahaja
+Sync direction is set to Orga to Frappe only,Arah penyegerakan ditetapkan kepada Orga ke Frappe sahaja
+Sync not enabled for this project,Penyegerakan tidak didayakan untuk projek ini
+System,Sistem
+Table,Jadual
+Take ownership of this task,Ambil pemilikan tugasan ini
+Target Date,Tarikh Sasaran
+Target End,Sasaran Tamat
+Target Project,Projek Sasaran
+Target user is required for '{0}' action,Pengguna sasaran diperlukan untuk tindakan '{0}'
+task,tugasan
+Task,Tugasan
+Task '{0}' is due on {1}.,Tugasan '{0}' perlu disiapkan pada {1}.
+Task and resource are required,Tugasan dan sumber diperlukan
+Task Assignment,Penugasan Tugasan
+Task cannot be its own parent,Tugasan tidak boleh menjadi induk sendiri
+Task cannot depend on itself,Tugasan tidak boleh bergantung pada dirinya sendiri
+Task cannot depend on the group it belongs to,Tugasan tidak boleh bergantung pada kumpulan yang dimilikinya
+Task created,Tugasan dicipta
+Task deleted,Tugasan dipadam
+Task description has been saved.,Penerangan tugasan telah disimpan.
+Task Details,Butiran Tugasan
+Task due in {0} days: {1},Tugasan perlu dalam {0} hari: {1}
+Task due today: {0},Tugasan perlu hari ini: {0}
+Task due tomorrow: {0},Tugasan perlu esok: {0}
+Task duplicated,Tugasan diduplikasi
+Task Group,Kumpulan Tugasan
+Task ID is required,ID tugasan diperlukan
+Task is blocked by incomplete dependencies,Tugasan disekat oleh kebergantungan yang tidak lengkap
+Task is cancelled,Tugasan dibatalkan
+Task is completed,Tugasan selesai
+Task is no longer blocked by a group,Tugasan tidak lagi disekat oleh kumpulan
+Task is required for task context,Tugasan diperlukan untuk konteks tugasan
+Task is required when tracking context is 'task',Tugasan diperlukan apabila konteks penjejakan adalah 'tugasan'
+Task linked,Tugasan dipaut
+Task moved,Tugasan dipindahkan
+Task name,Nama tugasan
+Task name is required,Nama tugasan diperlukan
+Task removed from group,Tugasan dikeluarkan dari kumpulan
+Task Subject,Subjek Tugasan
+Task subject is required,Subjek tugasan diperlukan
+Task Type,Jenis Tugasan
+Task unblocked: {0},Tugasan dinyahsekat: {0}
+Task unlinked,Tugasan dinyahpaut
+Task updated,Tugasan dikemas kini
+Task {0} not found,Tugasan {0} tidak dijumpai
+Task {0} not in project {1},Tugasan {0} tiada dalam projek {1}
+Task {0} to Frappe,Tugasan {0} ke Frappe
+Tasks,Tugasan
+tasks,tugasan
+Tasks and milestones will be created with dates relative to the project start date.,Tugasan dan pencapaian akan dicipta dengan tarikh relatif kepada tarikh mula projek.
+Tasks assigned to you across all projects.,Tugasan yang ditugaskan kepada anda merentasi semua projek.
+Tasks created:,Tugasan dicipta:
+Tasks from projects you manage.,Tugasan dari projek yang anda urus.
+Tasks updated:,Tugasan dikemas kini:
+"Tasks, milestones, and dependencies have been created.","Tugasan, pencapaian, dan kebergantungan telah dicipta."
+Tasks:,Tugasan:
+TBD,TBD
+Team,Pasukan
+Team Members,Ahli Pasukan
+Template,Templat
+Template applied,Templat diterapkan
+Template data is required in import data,Data templat diperlukan dalam data import
+Template has no data,Templat tiada data
+Template Name,Nama Templat
+Template name,Nama templat
+Template name is required,Nama templat diperlukan
+Template name is required in import data,Nama templat diperlukan dalam data import
+Template saved,Templat disimpan
+Template updated successfully.,Templat berjaya dikemas kini.
+Template {0} not found,Templat {0} tidak dijumpai
+Templates,Templat
+Tentative,Tentatif
+The comment has been deleted,Komen telah dipadam
+The project,Projek tersebut
+The source document may have been deleted.,Dokumen sumber mungkin telah dipadam.
+The source document will not be affected.,Dokumen sumber tidak akan terjejas.
+The status of '{0}' was changed from {1} to {2}.,Status '{0}' telah ditukar daripada {1} kepada {2}.
+Theme,Tema
+Theme preference,Keutamaan tema
+This action,Tindakan ini
+This action cannot be undone.,Tindakan ini tidak boleh dibatalkan.
+This activity has been flagged for attention,Aktiviti ini telah ditandakan untuk perhatian
+This is a reminder for your upcoming appointment,Ini adalah peringatan untuk temu janji anda yang akan datang
+This method is only meant for developer mode,Kaedah ini hanya untuk mod pembangun
+This page wandered off,This page wandered off
+This Week,Minggu Ini
+This will delete all notes and preferences associated with this activity.,Ini akan memadam semua nota dan keutamaan yang berkaitan dengan aktiviti ini.
+This will import all Frappe Projects into Orga. Continue?,Ini akan mengimport semua Projek Frappe ke Orga. Teruskan?
+This will permanently delete,Ini akan memadam secara kekal
+This will permanently delete:,Ini akan memadam secara kekal:
+Thu,Kha
+Time,Masa
+Time & Billing,Masa & Pengebilan
+Time & Revenue,Masa & Hasil
+Time Entries,Entri Masa
+Time log name is required,Nama log masa diperlukan
+Time Log not found,Log Masa tidak dijumpai
+Time log {0} not found,Log masa {0} tidak dijumpai
+Time Logs,Log Masa
+Time Summary,Ringkasan Masa
+Time Tracking,Penjejakan Masa
+Timeline,Garis Masa
+Timer active on,Pemasa aktif pada
+Timer is not running,Pemasa tidak berjalan
+Timer Running,Pemasa Berjalan
+Timer running,Pemasa berjalan
+Timesheet DocType not available,DocType Helaian Masa tidak tersedia
+Timesheets,Helaian Masa
+Timezone,Zon Masa
+Timezone is detected from your browser,Zon masa dikesan daripada pelayar anda
+Title,Tajuk
+Title cannot exceed 255 characters,Tajuk tidak boleh melebihi 255 aksara
+Title is required,Tajuk diperlukan
+Title updated,Tajuk dikemas kini
+To,Kepada
+to,kepada
+to cancel,untuk membatalkan
+to close,untuk menutup
+to confirm:,untuk mengesahkan:
+to edit,untuk mengedit
+"to save,","untuk menyimpan,"
+To Time cannot be before From Time,Masa Tamat tidak boleh sebelum Masa Mula
+Today,Hari Ini
+today,hari ini
+Toggle billable,Togol boleh dibilkan
+Toggle Details Panel,Togol Panel Butiran
+Toggle Manager Panel,Togol Panel Pengurus
+Toggle Sidebar,Togol Bar Sisi
+Tomorrow,Esok
+tomorrow,esok
+Total,Jumlah
+Total Budget,Jumlah Bajet
+Total Contacts,Jumlah Kenalan
+Total Cost,Jumlah Kos
+Total Cost to Org,Jumlah Kos kepada Organisasi
+Total Defect Cost,Jumlah Kos Kecacatan
+Total Hours,Jumlah Jam
+Total Hours Logged,Jumlah Jam Direkod
+Total Projects,Jumlah Projek
+Total Spent,Jumlah Dibelanjakan
+Total Tasks,Jumlah Tugasan
+Total:,Jumlah:
+Tracked,Dijejak
+trails to today while Open at 0%,menjejak ke hari ini semasa Buka pada 0%
+Tried:,Tried:
+Try adjusting your filter criteria,Cuba selaraskan kriteria penapis anda
+Try adjusting your filters.,Cuba selaraskan penapis anda.
+Try Again,Cuba Lagi
+Tue,Sel
+Type,Jenis
+Type updated,Jenis dikemas kini
+Type:,Jenis:
+Typical response time: 1-2 business days,Masa respons biasa: 1-2 hari perniagaan
+Unarchive,Nyaharkib
+Unarchive Activity,Nyaharkibkan Aktiviti
+Unassign,Nyahtugaskan
+Unassigned,Tidak Ditugaskan
+Under Budget,Di Bawah Bajet
+Ungrouped,Tidak Dikumpulkan
+Unknown,Tidak Diketahui
+Unknown error,Ralat tidak diketahui
+Unlink failed,Nyahpautan gagal
+Unlink task from milestone,Nyahpaut tugasan daripada pencapaian
+Unpin,Nyahsemat
+Unpin Activity,Nyahsemat Aktiviti
+Unread,Belum Dibaca
+Unread only,Belum dibaca sahaja
+Until,Sehingga
+Up to Date,Up to Date
+Upcoming,Akan Datang
+upcoming,akan datang
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Kemas kini gagal
+Updated,Dikemas Kini
+Updated successfully,Berjaya dikemas kini
+Updates,Updates
+Upload,Muat Naik
+Upload failed,Muat naik gagal
+Upload files below to attach them to this task.,Muat naik fail di bawah untuk melampirkan pada tugasan ini.
+Upload to project,Muat naik ke projek
+Uploading...,Memuat naik...
+Urgent,Segera
+User {0} is already linked to client {1},Pengguna {0} sudah dipaut ke pelanggan {1}
+User {0} is already linked to resource {1},Pengguna {0} sudah dipaut ke sumber {1}
+Utilization,Penggunaan
+Valid,Sah
+Value:,Nilai:
+Variance,Varians
+Variance:,Varians:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Lihat
+View All,Lihat Semua
+View all active projects,Lihat semua projek aktif
+View all open tasks,Lihat semua tugasan terbuka
+View overdue tasks,Lihat tugasan lampau tempoh
+View Release,View Release
+Visibility,Keterlihatan
+Waiting for this task,Menunggu tugasan ini
+Waits for:,Menunggu:
+Warning: Resource {0} status is {1},Amaran: Status sumber {0} ialah {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Amaran: Menggunakan HTTP dan bukan HTTPS. Muatan webhook mungkin tidak selamat.
+Watch budget closely,Pantau bajet dengan teliti
+We'll respond to:,Kami akan membalas kepada:
+Webhook deleted,Webhook dipadam
+Webhook name is required,Nama webhook diperlukan
+Webhook not found,Webhook tidak dijumpai
+Webhook URL is required,URL webhook diperlukan
+Webhook URL must start with http:// or https://,URL webhook mesti bermula dengan http:// atau https://
+Wed,Rab
+Week,Minggu
+Weekend,Hujung Minggu
+Weekly Capacity,Kapasiti Mingguan
+weekly capacity,kapasiti mingguan
+Weekly Capacity (h),Kapasiti Mingguan (j)
+Welcome,Selamat Datang
+Welcome back!,Selamat kembali!
+Welcome to Orga,Selamat Datang ke Orga
+What are you working on?,Apa yang sedang anda usahakan?
+What did you work on?,Apa yang anda usahakan?
+When,Bila
+When work begins,Bila kerja bermula
+When work is due,Bila kerja perlu disiapkan
+Where,Di mana
+Will capture:,Akan menangkap:
+Will create:,Akan mencipta:
+with checklist items,dengan item senarai semak
+Working,Sedang Bekerja
+Workload,Beban Kerja
+Workmanship,Mutu Kerja
+Write a comment...,Tulis komen...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Tulis komen... Gunakan @nama untuk menyebut (Ctrl+Enter untuk hantar)
+Year,Tahun
+Yes,Ya
+Yesterday,Semalam
+yesterday,semalam
+You are not an attendee of this appointment,Anda bukan peserta temu janji ini
+You are not linked to any resource,Anda tidak dipaut ke mana-mana sumber
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Anda hanya boleh memadam komen anda sendiri
+You can only delete your own reactions,Anda hanya boleh memadam reaksi anda sendiri
+You do not have access to the client portal. Please contact support.,Anda tidak mempunyai akses ke portal pelanggan. Sila hubungi sokongan.
+You have already reacted with '{0}',Anda sudah memberi reaksi dengan '{0}'
+You have been assigned to task '{0}' in project '{1}'.,Anda telah ditugaskan kepada tugasan '{0}' dalam projek '{1}'.
+You have been assigned to: {0},Anda telah ditugaskan kepada: {0}
+You have been invited to the following appointment,Anda telah dijemput ke temu janji berikut
+You have no tasks assigned to you right now.,Anda tiada tugasan yang ditugaskan kepada anda buat masa ini.
+You were mentioned in {0},Anda disebut dalam {0}
+Your attendance,Kehadiran anda
+Your comment has been posted,Komen anda telah dihantar
+Your Projects,Projek Anda
+Your projects will appear here once they're assigned to you.,Projek anda akan dipaparkan di sini setelah ditugaskan kepada anda.
+Your Response,Respons Anda
+Your RSVP,RSVP Anda
+Your support request has been submitted successfully.,Permintaan sokongan anda telah berjaya dihantar.
+Your support request has been submitted successfully. We'll get back to you shortly.,Permintaan sokongan anda telah berjaya dihantar. Kami akan menghubungi anda tidak lama lagi.
+"Your task ""{0}"" is no longer blocked and can now be started.","Tugasan anda ""{0}"" tidak lagi disekat dan kini boleh dimulakan."
+{0} is required,{0} diperlukan
+{0} new activities,{0} aktiviti baharu
+{0} of {1} completed,{0} daripada {1} selesai
+{0} projects already migrated (will be skipped or updated),{0} projek sudah dipindahkan (akan dilangkau atau dikemas kini)
+{0} status changed to {1},Status {0} ditukar kepada {1}
+{0} tasks remaining,{0} tugasan berbaki
+{0} tasks without projects will be skipped,{0} tugasan tanpa projek akan dilangkau
+{0} {1} not found,{0} {1} tidak dijumpai

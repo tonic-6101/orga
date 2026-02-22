@@ -1,0 +1,1622 @@
++ Add Milestone,+ Pievienot posmu
++ Create Task,+ Izveidot uzdevumu
++ Log Time,+ Reģistrēt laiku
+-- Select a project --,-- Izvēlieties projektu --
+0m,0 min
+1 day,1 diena
+1 day ago,pirms 1 dienas
+1 dependency,1 atkarība
+1 entry,1 ieraksts
+1 file,1 fails
+1 hour ago,pirms 1 stundas
+1 member,1 dalībnieks
+1 milestone,1 posms
+1 month,1 mēnesis
+1 task,1 uzdevums
+< 1m,< 1 min
+"A clear, actionable title for the task","Skaidrs, pārskatāms uzdevuma nosaukums"
+A client with email {0} already exists: {1},Klients ar e-pastu {0} jau pastāv: {1}
+A key deliverable or checkpoint for the project,Galvenais projekta rezultāts vai kontrolpunkts
+Accept,Pieņemt
+Accepted,Pieņemts
+Acknowledge,Apstiprināt saņemšanu
+across,visos
+Action,Darbība
+Actions,Darbības
+Active,Aktīvs
+Active Assignments,Aktīvie piešķīrumi
+Active Projects,Aktīvie projekti
+Activity,Aktivitāte
+Activity data deleted successfully,Aktivitātes dati veiksmīgi dzēsti
+Activity Info,Aktivitātes informācija
+Activity Stats,Aktivitātes statistika
+Activity will appear here as you work on tasks and projects.,"Aktivitāte tiks parādīta šeit, kad strādāsiet ar uzdevumiem un projektiem."
+Actual,Faktiskais
+Actual Cost,Faktiskās izmaksas
+Actual cost cannot be negative,Faktiskās izmaksas nevar būt negatīvas
+Actual end date cannot be before actual start date,Faktiskais beigu datums nevar būt pirms faktiskā sākuma datuma
+Actual Hours,Faktiskās stundas
+Add,Pievienot
+Add a checklist item...,Pievienot kontrolsaraksta elementu...
+Add a comment...,Pievienot komentāru...
+Add a comment... (Ctrl+Enter to send),Pievienot komentāru... (Ctrl+Enter lai nosūtītu)
+Add a description...,Pievienot aprakstu...
+Add a milestone description...,Pievienot posma aprakstu...
+Add a note below to annotate this activity.,"Pievienojiet piezīmi zemāk, lai komentētu šo aktivitāti."
+Add a note...,Pievienot piezīmi...
+Add a project description...,Pievienot projekta aprakstu...
+Add a task description...,Pievienot uzdevuma aprakstu...
+Add checklist item...,Pievienot kontrolsaraksta elementu...
+Add Contact,Pievienot kontaktu
+Add contacts via the Desk interface or clear filters,Pievienojiet kontaktus caur Desk saskarni vai notīriet filtrus
+Add Dependency,Pievienot atkarību
+Add details about this event...,Pievienot informāciju par šo notikumu...
+Add details about this milestone...,Pievienot informāciju par šo posmu...
+Add details about this task...,Pievienot informāciju par šo uzdevumu...
+Add details or acceptance criteria for this milestone,Pievienot informāciju vai pieņemšanas kritērijus šim posmam
+"Add details, context, or acceptance criteria","Pievienot informāciju, kontekstu vai pieņemšanas kritērijus"
+Add first dependency,Pievienot pirmo atkarību
+Add item,Pievienot elementu
+Add items below to track progress.,Pievienojiet elementus zemāk progresa izsekošanai.
+Add items below to track subtasks,Pievienojiet elementus zemāk apakšuzdevumu izsekošanai
+Add Milestone,Pievienot posmu
+Add Milestone (Shift+M),Pievienot posmu (Shift+M)
+Add milestones to track key deliverables.,Pievienojiet posmus galveno rezultātu izsekošanai.
+Add New Contact,Pievienot jaunu kontaktu
+Add Note,Pievienot piezīmi
+Add note,Pievienot piezīmi
+Add notes about this contact...,Pievienot piezīmes par šo kontaktu...
+Add reaction,Pievienot reakciju
+Add Skill,Pievienot prasmi
+Add start and due dates to tasks to see them on the Gantt chart,Pievienojiet sākuma un termiņa datumus uzdevumiem lai tos redzētu Gantt diagrammā
+Add Task,Pievienot uzdevumu
+Add Task (Shift+T),Pievienot uzdevumu (Shift+T)
+Added Finish-to-Start dependency,Pievienota Beigas-Sākums atkarība
+Adding this dependency would create a circular reference: {0},Šīs atkarības pievienošana radītu ciklisku atsauci: {0}
+Adding...,Pievieno...
+Address,Adrese
+Advanced,Papildu
+All,Visi
+All Active,Visi aktīvie
+All Assignees,Visi piešķirtie
+All Categories,Visas kategorijas
+All caught up!,Viss ir pārskatīts!
+All Contexts,Visi konteksti
+All day,Visa diena
+All day event,Visas dienas notikums
+All fields,Visi lauki
+All Priorities,Visas prioritātes
+All Projects,Visi projekti
+All Status,Visi statusi
+All Statuses,Visi statusi
+All task dependencies & relative dates,Visas uzdevumu atkarības un relatīvie datumi
+All Tasks,Visi uzdevumi
+All tasks across all projects.,Visi uzdevumi visos projektos.
+All tasks are already linked,Visi uzdevumi jau ir saistīti
+All team members,Visi komandas dalībnieki
+All Types,Visi veidi
+All Users,Visi lietotāji
+Allocated,Piešķirts
+allocated,piešķirts
+Allow users to log time against tasks,Ļaut lietotājiem reģistrēt laiku uzdevumiem
+Already exported to timesheet {0},Jau eksportēts uz laika uzskaiti {0}
+Already Migrated,Jau migrēts
+Anyone with access,Ikviens ar piekļuvi
+anytime to show this help,jebkurā laikā lai parādītu šo palīdzību
+App Updates,App Updates
+Appearance,Izskats
+Apply,Lietot
+Apply cascade?,Lietot kaskādes izmaiņas?
+Apply Changes,Lietot izmaiņas
+Apply failed,Lietošana neizdevās
+Apply Template,Lietot veidni
+Applying...,Lieto...
+Appointment,Tikšanās
+Appointment and resource are required,Tikšanās un kontakts ir obligāti
+Appointment name is required,Tikšanās nosaukums ir obligāts
+Appointment not found,Tikšanās nav atrasta
+Appointment {0} not found,Tikšanās {0} nav atrasta
+Apps,Lietotnes
+Archive,Arhivēt
+Archive Activity,Arhivēt aktivitāti
+Archived,Arhivēts
+Are you sure you want to delete this activity data? This cannot be undone.,Vai tiešām vēlaties dzēst šos aktivitātes datus? Šo darbību nevar atsaukt.
+Are you sure you want to delete this comment?,Vai tiešām vēlaties dzēst šo komentāru?
+Are you sure you want to delete this project?,Vai tiešām vēlaties dzēst šo projektu?
+Are you sure?,Vai esat pārliecināts?
+Ascending -- click to reverse,Augošā secībā -- noklikšķiniet lai mainītu
+Assign To,Piešķirt
+Assign to Me,Piešķirt man
+Assigned Contact,Piešķirtais kontakts
+Assigned To,Piešķirts
+Assigned to,Piešķirts
+Assigned to Me,Piešķirts man
+Assignee,Piešķirtā persona
+Assignment,Piešķīrums
+Assignment History,Piešķīrumu vēsture
+Assignment name is required,Piešķīruma nosaukums ir obligāts
+Assignment {0} not found,Piešķīrums {0} nav atrasts
+Assignments,Piešķīrumi
+At least one action is required,Nepieciešama vismaz viena darbība
+At least one event is required,Nepieciešams vismaz viens notikums
+At least one event must be selected,Jāizvēlas vismaz viens notikums
+Attachment,Pielikums
+Attachments,Pielikumi
+Attendees,Dalībnieki
+"Audit trail, assignments, version history","Audita izsekošana, piešķīrumi, versiju vēsture"
+Auto,Automātiski
+Auto Calculate Progress,Automātiski aprēķināt progresu
+Auto Set Missed Milestones,Automātiski atzīmēt nokavētos posmus
+Auto-shift dependents when dates change,Automātiski pārbīdīt atkarīgos elementus mainoties datumiem
+Auto-Trail Start,Automātiska sākuma pārbīde
+Auto-Trail updated,Automātiskā pārbīde atjaunināta
+Automatically calculate project progress from task completion,Automātiski aprēķināt projekta progresu no uzdevumu izpildes
+Automatically mark milestones as missed when overdue,Automātiski atzīmēt posmus kā nokavētus kad kavējas
+Automation rule {0} not found,Automatizācijas noteikums {0} nav atrasts
+Automation: {0},Automatizācija: {0}
+Availability,Pieejamība
+Available,Pieejams
+Avatar updated successfully,Profila attēls veiksmīgi atjaunināts
+Avg Progress,Vid. progress
+Back,Atpakaļ
+Back to Portal,Atpakaļ uz portālu
+Back to Projects,Atpakaļ uz projektiem
+Beginner,Iesācējs
+Best regards,Ar cieņu
+Billable,Apmaksājams
+Billable Amount,Apmaksājamā summa
+Billable Hours,Apmaksājamās stundas
+Billable Rate,Apmaksas likme
+Billing Rate,Norēķinu likme
+Blocked,Bloķēts
+Both dates are needed to display task as a bar in Gantt chart,Abi datumi nepieciešami lai uzdevumu attēlotu kā joslu Gantt diagrammā
+Both doctype and docname are required,Nepieciešams gan dokumenta tips gan nosaukums
+Both proposed start and end times are required,Nepieciešams gan piedāvātais sākuma gan beigu laiks
+Both task_name and depends_on are required,Nepieciešams gan task_name gan depends_on
+Breadcrumb,Navigācijas ceļš
+Brief description of the defect or damage,Īss defekta vai bojājuma apraksts
+Brief description of this template,Īss šīs veidnes apraksts
+Brief description of your request,Īss jūsu pieprasījuma apraksts
+Brief project description,Īss projekta apraksts
+Budget,Budžets
+Budget at risk,Budžets riskā
+Budget Burn Rate,Budžeta izlietojuma temps
+Budget Status,Budžeta statuss
+Budget updated,Budžets atjaunināts
+Budget:,Budžets:
+Bug,Kļūda
+Burn Rate,Izlietojuma temps
+Busy,Aizņemts
+By,Pēc
+By Assignee,Pēc piešķirtās personas
+By Group,Pēc grupas
+By Milestone,Pēc posma
+By Priority,Pēc prioritātes
+By Status,Pēc statusa
+Cancel,Atcelt
+Cancelled,Atcelts
+cannot be undone,nevar atsaukt
+Cannot delete client with {0} linked projects. Unlink projects first.,Nevar dzēst klientu ar {0} saistītiem projektiem. Vispirms atsaistiet projektus.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Nevar dzēst projektu ar {0} saistītiem uzdevumiem. Vispirms dzēsiet uzdevumus.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Nevar dzēst kontaktu ar {0} aktīviem piešķīrumiem. Vispirms pabeidziet vai atceliet tos.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Nevar dzēst uzdevumu ar {0} apakšuzdevumiem. Vispirms dzēsiet apakšuzdevumus.
+Capacity,Jauda
+capacity,jauda
+Capacity & Rates,Jauda un likmes
+Capture project structure for reuse,Saglabāt projekta struktūru atkārtotai izmantošanai
+Cascade,Kaskāde
+Cascade Preview,Kaskādes priekšskatījums
+Category,Kategorija
+Celebrate,Svinēt
+Change,Mainīt
+Change History,Izmaiņu vēsture
+Change Priority,Mainīt prioritāti
+Change Status,Mainīt statusu
+Changes,Izmaiņas
+Changes appear when fields are modified.,Izmaiņas parādās kad lauki tiek mainīti.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Kontrolsaraksts
+Checklist item name is required,Kontrolsaraksta elementa nosaukums ir obligāts
+Checklist item not found,Kontrolsaraksta elements nav atrasts
+Checklist item title is required,Kontrolsaraksta elementa nosaukums ir obligāts
+Checklist item {0} not found,Kontrolsaraksta elements {0} nav atrasts
+Checklist item {0} not found in task,Kontrolsaraksta elements {0} nav atrasts uzdevumā
+Child,Pakārtotais
+Choose file to upload,Izvēlieties failu augšupielādei
+Circular dependency detected: {0},Konstatēta cikliska atkarība: {0}
+Circular parent-child relationship detected,Konstatēta cikliska vecāk-bērn attiecība
+Clear,Notīrīt
+Clear all read,Notīrīt visas izlasītās
+Clear date,Notīrīt datumu
+Click on an activity from the list to view and manage its details.,Noklikšķiniet uz aktivitātes sarakstā lai apskatītu un pārvaldītu tās informāciju.
+Click the avatar to upload a new photo,Noklikšķiniet uz profila attēla lai augšupielādētu jaunu fotoattēlu
+Click to add description...,Noklikšķiniet lai pievienotu aprakstu...
+Click to add notes...,Noklikšķiniet lai pievienotu piezīmes...
+Click to assign contact,Noklikšķiniet lai piešķirtu kontaktu
+Click to change status,Noklikšķiniet lai mainītu statusu
+Click to change type,Noklikšķiniet lai mainītu veidu
+Click to edit,Noklikšķiniet lai rediģētu
+Click to edit budget,Noklikšķiniet lai rediģētu budžetu
+Click to edit description,Noklikšķiniet lai rediģētu aprakstu
+Click to edit end date,Noklikšķiniet lai rediģētu beigu datumu
+Click to edit milestone name,Noklikšķiniet lai rediģētu posma nosaukumu
+Click to edit rate,Noklikšķiniet lai rediģētu likmi
+Click to edit start date,Noklikšķiniet lai rediģētu sākuma datumu
+Click to edit title,Noklikšķiniet lai rediģētu nosaukumu
+Click to load,Noklikšķiniet lai ielādētu
+Click to set group dependency...,Noklikšķiniet lai iestatītu grupas atkarību...
+Click to set group...,Noklikšķiniet lai iestatītu grupu...
+Click to view,Noklikšķiniet lai apskatītu
+Click to view at-risk projects,Noklikšķiniet lai apskatītu riska projektus
+Click to view critical projects,Noklikšķiniet lai apskatītu kritiskos projektus
+Click to view healthy projects,Noklikšķiniet lai apskatītu labi noritošos projektus
+Client,Klients
+Client already has a portal user: {0},Klientam jau ir portāla lietotājs: {0}
+Client already has portal access,Klientam jau ir piekļuve portālam
+Client has no portal user to revoke,Klientam nav portāla lietotāja ko atsaukt
+Client link removed from project {0},Klienta saite noņemta no projekta {0}
+Client Portal,Klientu portāls
+Client {0} deleted successfully,Klients {0} veiksmīgi dzēsts
+Close,Aizvērt
+Close (Esc),Aizvērt (Esc)
+Comment,Komentārs
+comment,komentārs
+Comment added,Komentārs pievienots
+Comment content is required,Komentāra saturs ir obligāts
+Comment name is required,Komentāra nosaukums ir obligāts
+Comment not found,Komentārs nav atrasts
+Comment removed,Komentārs noņemts
+Comment {0} not found in task,Komentārs {0} nav atrasts uzdevumā
+Comments,Komentāri
+comments,komentāri
+Community Edition,Community Edition
+Company,Uzņēmums
+Company name...,Uzņēmuma nosaukums...
+Complete,Pabeigt
+Completed,Pabeigts
+completed,pabeigts
+Completed Tasks,Pabeigtie uzdevumi
+Compliance,Atbilstība
+Configure default values for new projects and tasks,Konfigurēt noklusējuma vērtības jauniem projektiem un uzdevumiem
+Configure email notification settings,Konfigurēt e-pasta paziņojumu iestatījumus
+Confirm,Apstiprināt
+Contact deleted,Kontakts dzēsts
+Contact Details,Kontakta informācija
+Contact Information,Kontaktinformācija
+Contact name is required,Kontakta vārds ir obligāts
+Contact Support,Sazināties ar atbalstu
+Contact your project manager for more information.,Sazinieties ar projekta vadītāju lai iegūtu vairāk informācijas.
+Contact:,Kontakts:
+Contacts,Kontakti
+Context,Konteksts
+Contractor,Darbuzņēmējs
+Cost estimate cannot be negative,Izmaksu novērtējums nevar būt negatīvs
+Cost Impact,Izmaksu ietekme
+Cost Summary,Izmaksu kopsavilkums
+Could not apply the template. Please try again.,Neizdevās lietot veidni. Lūdzu mēģiniet vēlreiz.
+Could not attach file to project,Neizdevās pievienot failu projektam
+Could not change task priority,Neizdevās mainīt uzdevuma prioritāti
+Could not change task status,Neizdevās mainīt uzdevuma statusu
+Could not delete the project. Please try again.,Neizdevās dzēst projektu. Lūdzu mēģiniet vēlreiz.
+Could not delete the task. Please try again.,Neizdevās dzēst uzdevumu. Lūdzu mēģiniet vēlreiz.
+Could not delete the template.,Neizdevās dzēst veidni.
+Could not duplicate the task. Please try again.,Neizdevās dublēt uzdevumu. Lūdzu mēģiniet vēlreiz.
+Could not export the template.,Neizdevās eksportēt veidni.
+Could not import the template. Please check the file format.,Neizdevās importēt veidni. Lūdzu pārbaudiet faila formātu.
+Could not link task to milestone,Neizdevās saistīt uzdevumu ar posmu
+Could not load document details.,Neizdevās ielādēt dokumenta informāciju.
+Could not load task details,Neizdevās ielādēt uzdevuma informāciju
+Could not promote checklist item to task.,Neizdevās paaugstināt kontrolsaraksta elementu par uzdevumu.
+Could not remove task from milestone,Neizdevās noņemt uzdevumu no posma
+Could not save budget.,Neizdevās saglabāt budžetu.
+Could not save changes to the milestone,Neizdevās saglabāt posma izmaiņas
+Could not save changes to the task,Neizdevās saglabāt uzdevuma izmaiņas
+Could not save description.,Neizdevās saglabāt aprakstu.
+Could not save end date.,Neizdevās saglabāt beigu datumu.
+Could not save milestone name.,Neizdevās saglabāt posma nosaukumu.
+Could not save start date.,Neizdevās saglabāt sākuma datumu.
+Could not save the template. Please try again.,Neizdevās saglabāt veidni. Lūdzu mēģiniet vēlreiz.
+Could not save title.,Neizdevās saglabāt nosaukumu.
+Could not update dependency mode.,Neizdevās atjaunināt atkarības režīmu.
+Could not update milestone date,Neizdevās atjaunināt posma datumu
+Could not update project status.,Neizdevās atjaunināt projekta statusu.
+Could not update project type.,Neizdevās atjaunināt projekta veidu.
+Could not update setting.,Neizdevās atjaunināt iestatījumu.
+Could not update task dates,Neizdevās atjaunināt uzdevuma datumus
+Could not update task status,Neizdevās atjaunināt uzdevuma statusu
+Could not update the template.,Neizdevās atjaunināt veidni.
+Create a copy of this task,Izveidot šī uzdevuma kopiju
+Create Contact,Izveidot kontaktu
+Create Event,Izveidot notikumu
+Create Milestone,Izveidot posmu
+Create New Milestone,Izveidot jaunu posmu
+Create New Task,Izveidot jaunu uzdevumu
+Create Project,Izveidot projektu
+Create Task,Izveidot uzdevumu
+Create tasks and milestones from a template,Izveidot uzdevumus un posmus no veidnes
+Create your first project to get started.,Izveidojiet savu pirmo projektu lai sāktu.
+Create your first task to start tracking work on this project.,Izveidojiet pirmo uzdevumu lai sāktu izsekot darbu šajā projektā.
+Created,Izveidots
+Creating...,Izveido...
+Critical,Kritisks
+Critical Path,Kritiskais ceļš
+"Currency used for budgets, costs, and billing rates","Valūta ko izmanto budžetiem, izmaksām un norēķinu likmēm"
+Current,Pašreizējais
+Current Assignments,Pašreizējie piešķīrumi
+Current scheduled time:,Pašreiz ieplānotais laiks:
+Currently running version,Currently running version
+d lag,d. nobīde
+Daily Availability,Dienas pieejamība
+Daily Hours,Dienas stundas
+Danger Zone,Bīstamā zona
+Dark,Tumšs
+Dashboard,Vadības panelis
+Date,Datums
+Date changes on this task will show cascade impact here,Datumu izmaiņas šajā uzdevumā parādīs kaskādes ietekmi šeit
+Date cleared,Datums notīrīts
+Date of Joining,Pievienošanās datums
+Date updated,Datums atjaunināts
+Dates,Datumi
+Dates cascaded,Datumi kaskadēti
+Dates will be relative to the project's start date.,Datumi būs relatīvi pret projekta sākuma datumu.
+Day,Diena
+day,diena
+days,dienas
+Days before due date to send reminder,Dienas pirms termiņa lai nosūtītu atgādinājumu
+Days Overdue,Kavēšanās dienas
+Days Remaining,Atlikušās dienas
+Deadline,Termiņš
+Deadlines,Termiņi
+Decision,Lēmums
+Decline,Noraidīt
+Declined,Noraidīts
+Default Currency,Noklusējuma valūta
+Default hours per week for contact capacity planning,Noklusējuma stundas nedēļā kontaktu jaudas plānošanai
+Default Priority,Noklusējuma prioritāte
+Default Project Status,Noklusējuma projekta statuss
+Default Task Status,Noklusējuma uzdevuma statuss
+Default task view,Noklusējuma uzdevumu skats
+Default Values,Noklusējuma vērtības
+Default Weekly Capacity,Noklusējuma nedēļas jauda
+Defaults,Noklusējuma vērtības
+Defect Cost Impact,Defekta izmaksu ietekme
+Defect name is required,Defekta nosaukums ir obligāts
+Defect Type,Defekta veids
+Defect {0} not found,Defekts {0} nav atrasts
+Defects,Defekti
+Defects & Issues,Defekti un problēmas
+Defects Resolved,Novērstie defekti
+Delayed,Aizkavēts
+Delete,Dzēst
+Delete Activity Data,Dzēst aktivitātes datus
+Delete all read notifications?,Dzēst visus izlasītos paziņojumus?
+Delete comment,Dzēst komentāru
+Delete Contact,Dzēst kontaktu
+Delete Event,Dzēst notikumu
+Delete Event?,Dzēst notikumu?
+Delete failed,Dzēšana neizdevās
+Delete file,Dzēst failu
+Delete item,Dzēst elementu
+Delete note,Dzēst piezīmi
+Delete Project,Dzēst projektu
+Delete Task,Dzēst uzdevumu
+Delete this project,Dzēst šo projektu
+Deleted,Dzēsts
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Dzēsts projekts ""{0}"" ({1} uzdevumi, {2} posmi)"
+Deletes notes and preferences. Source document is not affected.,Dzēš piezīmes un iestatījumus. Avota dokuments netiek ietekmēts.
+Deleting...,Dzēš...
+Department,Nodaļa
+Dependencies,Atkarības
+dependencies,atkarības
+Dependencies are informational only,Atkarības ir tikai informatīvas
+dependency,atkarība
+Dependency already exists,Atkarība jau pastāv
+Dependency Chain,Atkarību ķēde
+Dependency created,Atkarība izveidota
+Dependency mode updated,Atkarības režīms atjaunināts
+Dependency name is required,Atkarības nosaukums ir obligāts
+Dependency task {0} not found,Atkarības uzdevums {0} nav atrasts
+Dependency {0} not found,Atkarība {0} nav atrasta
+depends,atkarīgs
+Depends on Group,Atkarīgs no grupas
+Depends on task is required,Atkarīgais uzdevums ir obligāts
+depends on...,atkarīgs no...
+Descending -- click to reverse,Dilstošā secībā -- noklikšķiniet lai mainītu
+Describe the defect in detail...,Detalizēti aprakstiet defektu...
+Description,Apraksts
+Description updated,Apraksts atjaunināts
+Designation,Amats
+"Detailed description of the defect, location, and impact","Detalizēts defekta, atrašanās vietas un ietekmes apraksts"
+Details,Informācija
+Discard timer,Atmest taimeri
+Discussion,Apspriede
+Dismiss,Dismiss
+Display,Attēlošana
+Document,Dokuments
+Document attached to project,Dokuments pievienots projektam
+Document final decision and rationale,Dokumentēt galīgo lēmumu un pamatojumu
+Documentation Review,Dokumentācijas pārskatīšana
+Documents,Dokumenti
+Done,Gatavs
+Download,Lejupielādēt
+Drag to create dependency,Velciet lai izveidotu atkarību
+Dry Run,Testa izpilde
+Dry Run Complete,Testa izpilde pabeigta
+Due Date,Termiņš
+Due date,Termiņš
+Due Date (Earliest),Termiņš (agrākais)
+Due date cannot be before start date,Termiņš nevar būt pirms sākuma datuma
+Due date is in the past,Termiņš ir pagātnē
+Due Date Reminders,Termiņa atgādinājumi
+Due Diligence,Rūpīga pārbaude
+Due Diligence Checklist,Rūpīgas pārbaudes kontrolsaraksts
+Due This Week,Termiņš šonedēļ
+Due:,Termiņš:
+Duplicate events are not allowed,Dublikātu notikumi nav atļauti
+Duplicate failed,Dublēšana neizdevās
+Duplicate Task,Dublēt uzdevumu
+Duration,Ilgums
+Duration Summary,Ilguma kopsavilkums
+Duration:,Ilgums:
+e.g. Cracked wall finish in bathroom...,"piem., Ieplaisājis sienas segums vannas istabā..."
+"e.g. Electrical, Plumbing...","piem., Elektroinstalācija, Santehnika..."
+Edit,Rediģēt
+Edit (E),Rediģēt (E)
+Edit dependency,Rediģēt atkarību
+Edit Event,Rediģēt notikumu
+Efficiency,Efektivitāte
+Either dependency_name or depends_on is required,Nepieciešams dependency_name vai depends_on
+Email,E-pasts
+Email invitations to all attendees,E-pasta ielūgumi visiem dalībniekiem
+Email is required to create portal user,E-pasts ir nepieciešams portāla lietotāja izveidei
+Email notifications,E-pasta paziņojumi
+Employee,Darbinieks
+Employee DocType not available,Darbinieka DocType nav pieejams
+Employee not found,Darbinieks nav atrasts
+Enable or disable optional features,Iespējot vai atspējot papildu funkcijas
+Enable Time Tracking,Iespējot laika uzskaiti
+End,Beigas
+End Date,Beigu datums
+End date,Beigu datums
+End Date cannot be before Start Date,Beigu datums nevar būt pirms sākuma datuma
+End date cannot be before start date,Beigu datums nevar būt pirms sākuma datuma
+End date updated,Beigu datums atjaunināts
+End time was before start time. Adjusted to 1 hour after start.,Beigu laiks bija pirms sākuma laika. Koriģēts uz 1 stundu pēc sākuma.
+End:,Beigas:
+Enter milestone name...,Ievadiet posma nosaukumu...
+Enter project name,Ievadiet projekta nosaukumu
+Enter task title...,Ievadiet uzdevuma nosaukumu...
+Enter template name,Ievadiet veidnes nosaukumu
+Enter your note... Use @name to mention someone,Ievadiet savu piezīmi... Izmantojiet @vārdu lai pieminētu personu
+Error,Kļūda
+Error loading activity,Kļūda ielādējot aktivitāti
+Error loading contacts,Kļūda ielādējot kontaktus
+Error loading dashboard,Kļūda ielādējot vadības paneli
+Error loading project,Kļūda ielādējot projektu
+Error loading projects,Kļūda ielādējot projektus
+Error loading settings,Kļūda ielādējot iestatījumus
+Error loading tasks,Kļūda ielādējot uzdevumus
+Error loading templates,Kļūda ielādējot veidnes
+Est. Hours,Paredz. stundas
+Estimated,Paredzēts
+Estimated Cost,Paredzētās izmaksas
+Estimated Cost (€),Paredzētās izmaksas (€)
+Estimated Hours,Paredzētās stundas
+Estimated:,Paredzēts:
+Evaluate potential risks and concerns,Novērtēt iespējamos riskus un bažas
+Event,Notikums
+Event is required for event context,Notikums ir nepieciešams notikuma kontekstam
+Event is required when tracking context is 'event',"Notikums ir nepieciešams kad izsekošanas konteksts ir „notikums""
+Events not available. Please run: bench --site orga.localhost migrate"""
+Event Type,Notikuma veids
+Events,Notikumi
+Events not available. Please run: bench --site orga.localhost migrate,"Notikumi nav pieejami. Lūdzu, palaidiet: bench --site orga.localhost migrate"
+Events:,Notikumi:
+Expert,Eksperts
+Explain why you are proposing a different time...,Paskaidrojiet kāpēc piedāvājat citu laiku...
+Export,Eksportēt
+Export failed,Eksportēšana neizdevās
+Export JSON,Eksportēt JSON
+Exported,Eksportēts
+Exported to timesheet {0},Eksportēts uz laika uzskaiti {0}
+External,Ārējs
+Failed to add item,Neizdevās pievienot elementu
+Failed to add note,Neizdevās pievienot piezīmi
+Failed to add skill,Neizdevās pievienot prasmi
+Failed to apply cascade changes: {0},Neizdevās lietot kaskādes izmaiņas: {0}
+Failed to create defect,Neizdevās izveidot defektu
+Failed to create dependency,Neizdevās izveidot atkarību
+Failed to create event,Neizdevās izveidot notikumu
+Failed to create milestone,Neizdevās izveidot posmu
+Failed to create project,Neizdevās izveidot projektu
+Failed to create task,Neizdevās izveidot uzdevumu
+Failed to create time log,Neizdevās izveidot laika ierakstu
+Failed to delete,Neizdevās dzēst
+Failed to delete comment,Neizdevās dzēst komentāru
+Failed to delete contact,Neizdevās dzēst kontaktu
+Failed to load,Neizdevās ielādēt
+Failed to load activity,Neizdevās ielādēt aktivitāti
+Failed to load assignments,Neizdevās ielādēt piešķīrumus
+Failed to load contact,Neizdevās ielādēt kontaktu
+Failed to load dashboard data,Neizdevās ielādēt vadības paneļa datus
+Failed to load defects,Neizdevās ielādēt defektus
+Failed to load events,Neizdevās ielādēt notikumus
+Failed to load project,Neizdevās ielādēt projektu
+Failed to load projects,Neizdevās ielādēt projektus
+Failed to load report data,Neizdevās ielādēt atskaites datus
+Failed to load settings,Neizdevās ielādēt iestatījumus
+Failed to load tasks,Neizdevās ielādēt uzdevumus
+Failed to move task,Neizdevās pārvietot uzdevumu
+Failed to post comment,Neizdevās publicēt komentāru
+Failed to propose new time,Neizdevās piedāvāt jaunu laiku
+Failed to remove item,Neizdevās noņemt elementu
+Failed to remove skill,Neizdevās noņemt prasmi
+Failed to reorder milestones: {0},Neizdevās pārkārtot posmus: {0}
+Failed to reorder tasks: {0},Neizdevās pārkārtot uzdevumus: {0}
+Failed to reschedule dependent tasks: {0},Neizdevās pārplānot atkarīgos uzdevumus: {0}
+Failed to save,Neizdevās saglabāt
+Failed to save preferences,Neizdevās saglabāt iestatījumus
+Failed to save settings,Neizdevās saglabāt iestatījumus
+Failed to submit request. Please try again.,Neizdevās iesniegt pieprasījumu. Lūdzu mēģiniet vēlreiz.
+Failed to update item,Neizdevās atjaunināt elementu
+Failed to update priority,Neizdevās atjaunināt prioritāti
+Failed to update task,Neizdevās atjaunināt uzdevumu
+Failed to update tasks: {0},Neizdevās atjaunināt uzdevumus: {0}
+Failed to upload avatar,Neizdevās augšupielādēt profila attēlu
+Feature,Funkcija
+Features,Funkcijas
+FF (Finish-Finish),FF (Beigas-Beigas)
+FF - Finish-to-Finish,FF - Beigas-Beigas
+Field has been updated,Lauks ir atjaunināts
+Field name is required for 'Set Field Value' action,"Lauka nosaukums ir nepieciešams darbībai „Iestatīt lauka vērtību""
+Field {0} is not a Link field,Lauks {0} nav saites tipa lauks
+Field {0} not found in {1},Lauks {0} nav atrasts {1}
+File,Fails
+File does not belong to this task,Fails nepieder šim uzdevumam
+File name is required,Faila nosaukums ir obligāts
+File uploaded,Fails augšupielādēts
+File {0} not found,Fails {0} nav atrasts
+Files,Faili
+Filter,Filtrs
+Final Decision,Galīgais lēmums
+Finance,Finanses
+Financial,Finanšu
+Finish-to-Finish,Beigas-Beigas
+Finish-to-Start,Beigas-Sākums
+Flag,Atzīmēt
+Flag for attention,Atzīmēt uzmanībai
+Flagged,Atzīmēts
+Follows your system preference. Currently:,Seko jūsu sistēmas iestatījumam. Pašlaik:
+Focus Panel,Fokusa panelis
+Frappe Project {0} not found,Frappe projekts {0} nav atrasts
+Frappe Projects Migration,Frappe Projects migrācija
+Frappe Projects module not available,Frappe Projects modulis nav pieejams
+Frappe Projects module not installed,Frappe Projects modulis nav instalēts
+Frappe Projects sync is not enabled,Frappe Projects sinhronizācija nav iespējota
+Frappe Task DocType not found,Frappe uzdevuma DocType nav atrasts
+Frappe Task has no project,Frappe uzdevumam nav projekta
+Frappe Task {0} not found,Frappe uzdevums {0} nav atrasts
+Fri,Pk
+From,No
+From Template,No veidnes
+Full form view with audit trail,Pilns veidlapas skats ar audita izsekošanu
+Full name,Pilns vārds
+Gantt,Gantt
+Gantt Chart,Gantt diagramma
+Gantt View,Gantt skats
+General Note,Vispārīga piezīme
+Get started,Sākt darbu
+Go back,Atgriezties
+Group by,Grupēt pēc
+Group dependency removed,Grupas atkarība noņemta
+Group dependency set,Grupas atkarība iestatīta
+Group removed,Grupa noņemta
+Group updated,Grupa atjaunināta
+Hammock task dates are auto-calculated and cannot be changed manually,Hamaka uzdevumu datumi tiek automātiski aprēķināti un tos nevar mainīt manuāli
+Have a question or need assistance? Fill out the form below and our team will get back to you."""
+Field {0} is not a Link field,Lauks {0} nav saites lauks
+Field {0} not found in {1},Lauks {0} nav atrasts {1}
+file,fails
+File,Fails
+File does not belong to this task,Fails nepieder šim uzdevumam
+File name is required,Faila nosaukums ir obligāts
+File uploaded,Fails augšupielādēts
+File {0} not found,Fails {0} nav atrasts
+files,faili
+Files,Faili
+Filter,Filtrs
+Final Decision,Galīgais lēmums
+Finance,Finanses
+Financial,Finanšu
+Finish-to-Finish,Beigas-līdz-Beigām
+Finish-to-Start,Beigas-līdz-Sākumam
+Flag,Karodziņš
+Flag for attention,Atzīmēt uzmanībai
+Flagged,Atzīmēts
+Focus Panel,Fokusa panelis
+Follows your system preference. Currently:,Seko jūsu sistēmas iestatījumiem. Pašlaik:
+Frappe Project {0} not found,Frappe projekts {0} nav atrasts
+Frappe Projects Migration,Frappe Projects migrācija
+Frappe Projects module not available,Frappe Projects modulis nav pieejams
+Frappe Projects module not installed,Frappe Projects modulis nav instalēts
+Frappe Projects sync is not enabled,Frappe Projects sinhronizācija nav iespējota
+Frappe Task DocType not found,Frappe Task DocType nav atrasts
+Frappe Task has no project,Frappe uzdevumam nav projekta
+Frappe Task {0} not found,Frappe uzdevums {0} nav atrasts
+Fri,Pk
+From,No
+From Template,No veidnes
+FS (Finish-Start),FS (Beigas-Sākums)
+FS - Finish-to-Start (default),FS - Beigas-Sākums (noklusējums)
+Full form view with audit trail,Pilns formas skats ar audita pierakstu
+Full name,Pilns vārds
+Gantt,Gantt
+Gantt Chart,Gantt diagramma
+Gantt View,Gantt skats
+General Note,Vispārīga piezīme
+Get started,Sākt darbu
+Go back,Atpakaļ
+Go Back,Go Back
+Group by,Grupēt pēc
+Group dependency removed,Grupas atkarība noņemta
+Group dependency set,Grupas atkarība iestatīta
+Group removed,Grupa noņemta
+Group updated,Grupa atjaunināta
+Hammock task dates are auto-calculated and cannot be changed manually,Hamaka uzdevumu datumi tiek aprēķināti automātiski un tos nevar mainīt manuāli
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Ir jautājums vai nepieciešama palīdzība? Aizpildiet zemāk esošo veidlapu un mūsu komanda ar jums sazināsies.
+Health,Veselība
+Healthy,Labā stāvoklī
+Hello {0},Sveiki {0}
+Here's what's happening with your projects today.,Lūk kas šodien notiek ar jūsu projektiem.
+Hide,Slēpt
+High,Augsts
+History,Vēsture
+Home,Sākums
+Hourly Cost,Stundas likme
+Hours,Stundas
+hours,stundas
+Hours Logged,Reģistrētās stundas
+ID,ID
+Image must be smaller than 5 MB,Attēlam jābūt mazākam par 5 MB
+Import,Importēt
+Import existing projects and tasks from Frappe Projects module,Importēt esošos projektus un uzdevumus no Frappe Projects moduļa
+Import failed,Importēšana neizdevās
+Import Template,Importēt veidni
+Imported,Importēts
+in,iekš
+In Progress,Izpildē
+In Review,Pārskatīšanā
+In-app notifications,Paziņojumi lietotnē
+Inactive,Neaktīvs
+Initial Review,Sākotnējā pārskatīšana
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Nepietiekamas tiesības lai apskatītu visus uzdevumus
+Intermediate,Vidēja līmeņa
+Internal,Iekšējs
+Invalid DocType,Nederīgs DocType
+Invalid DocType for import,Nederīgs DocType importēšanai
+Invalid item type: {0},Nederīgs elementa veids: {0}
+Invalid JSON data,Nederīgi JSON dati
+Invalid note type. Must be one of: {0},Nederīgs piezīmes veids. Jābūt vienam no: {0}
+Invalid project reference,Nederīga projekta atsauce
+Invalid reaction type. Must be one of: {0},Nederīgs reakcijas veids. Jābūt vienam no: {0}
+Invalid RSVP status,Nederīgs RSVP statuss
+Invalid status. Must be one of: {0},Nederīgs statuss. Jābūt vienam no: {0}
+Invalid status: {0},Nederīgs statuss: {0}
+Invalid status: {0}. Must be one of: {1},Nederīgs statuss: {0}. Jābūt vienam no: {1}
+Invalid tracking context: {0},Nederīgs izsekošanas konteksts: {0}
+Invalid visibility. Must be one of: {0},Nederīga redzamība. Jābūt vienai no: {0}
+Invitation: {0} - {1} at {2},"Ielūgums: {0} - {1}, {2}"
+Invite People,Uzaicināt cilvēkus
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Elements pievienots
+Item ID is required,Elementa ID ir obligāts
+Item removed,Elements noņemts
+Item type is required,Elementa veids ir obligāts
+Item {0} not found,Elements {0} nav atrasts
+Job title or role,Amata nosaukums vai loma
+Join Meeting,Pievienoties tikšanās
+Just now,Tikko
+just now,tikko
+Kanban,Kanban
+Kanban Board,Kanban panelis
+Kanban View,Kanban skats
+Keyboard Shortcuts,Tastatūras saīsnes
+Keyboard shortcuts (?),Tastatūras saīsnes (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Pēdējo reizi atjaunināts
+Last updated:,Pēdējo reizi atjaunināts:
+Last Week,Pagājušajā nedēļā
+Latest Version,Latest Version
+Light,Gaišs
+Link failed,Saistīšana neizdevās
+Link Task,Saistīt uzdevumu
+Linked,Saistīts
+Linked employee not found,Saistītais darbinieks nav atrasts
+Linked Tasks,Saistītie uzdevumi
+List,Saraksts
+List View,Saraksta skats
+Load failed,Ielāde neizdevās
+Load More,Ielādēt vairāk
+Load more comments,Ielādēt vairāk komentāru
+Loading activity...,Ielādē aktivitāti...
+Loading changes...,Ielādē izmaiņas...
+Loading checklist...,Ielādē kontrolsarakstu...
+Loading comments...,Ielādē komentārus...
+Loading contact...,Ielādē kontaktu...
+Loading contacts...,Ielādē kontaktus...
+Loading dependencies...,Ielādē atkarības...
+Loading details...,Ielādē informāciju...
+Loading discussion...,Ielādē apspriedi...
+Loading events...,Ielādē notikumus...
+Loading files...,Ielādē failus...
+Loading notes...,Ielādē piezīmes...
+Loading preferences...,Ielādē iestatījumus...
+Loading project...,Ielādē projektu...
+Loading projects...,Ielādē projektus...
+Loading replies...,Ielādē atbildes...
+Loading report data...,Ielādē atskaites datus...
+Loading settings...,Ielādē iestatījumus...
+Loading task...,Ielādē uzdevumu...
+Loading templates...,Ielādē veidnes...
+Loading time logs...,Ielādē laika ierakstus...
+Loading your portal...,Ielādē jūsu portālu...
+Loading...,Ielādē...
+Location,Atrašanās vieta
+Log Time,Reģistrēt laiku
+Logout,Izrakstīties
+Low,Zems
+Make Offer,Iesniegt piedāvājumu
+Manager,Vadītājs
+Manual Entry,Manuāla ievade
+Margin,Peļņa
+Mark all as read,Atzīmēt visu kā izlasītu
+Mark all read,Atzīmēt visu kā izlasītu
+Mark as read,Atzīmēt kā izlasītu
+Mark as unread,Atzīmēt kā neizlasītu
+Mark read,Atzīmēt izlasītu
+Marking...,Atzīmē...
+Material,Materiāls
+Maybe,Varbūt
+Medium,Vidējs
+Meeting,Tikšanās
+Meeting Link,Tikšanās saite
+Meeting title,Tikšanās nosaukums
+Meeting URL,Tikšanās URL
+Meetings,Tikšanās
+Mention,Pieminējums
+Message,Ziņojums
+Message is required,Ziņojums ir obligāts
+Message is required for '{0}' action,"Ziņojums ir nepieciešams darbībai „{0}""
+Migrate,Migrēt
+Migration Complete,Migrācija pabeigta
+Migration ID:,Migrācijas ID:
+Migration log not found: {0},Migrācijas žurnāls nav atrasts: {0}
+Milestone,Posms
+Milestone ID is required,Posma ID ir obligāts
+Milestone Name,Posma nosaukums
+Milestone created,Posms izveidots
+Milestone description has been saved.,Posma apraksts saglabāts.
+Milestone marked as Missed (past due date),Posms atzīmēts kā nokavēts (termiņš pagājis)
+Milestone moved,Posms pārvietots
+Milestone name has been saved.,Posma nosaukums saglabāts.
+Milestone name is required,Posma nosaukums ir obligāts
+Milestone updated,Posms atjaunināts
+Milestone {0} not found,Posms {0} nav atrasts
+Milestone {0} not in project {1},Posms {0} nav projektā {1}
+Milestones,Posmi
+Milestones:,Posmi:
+Minutes,Minūtes
+Missed,Nokavēts
+Mixed,Jaukts
+Mobile,Mobilais
+Moderate,Mērens
+Modify details, time, or attendees,Mainīt informāciju"
+Migrate,Migrēt
+Migration Complete,Migrācija pabeigta
+Migration ID:,Migrācijas ID:
+Migration log not found: {0},Migrācijas žurnāls nav atrasts: {0}
+milestone,posms
+Milestone,Atskaites punkts
+Milestone created,Atskaites punkts izveidots
+Milestone description has been saved.,Atskaites punkta apraksts saglabāts.
+Milestone ID is required,Atskaites punkta ID ir obligāts
+Milestone marked as Missed (past due date),Atskaites punkts atzīmēts kā nokavēts (pagājis termiņš)
+Milestone moved,Atskaites punkts pārvietots
+Milestone Name,Atskaites punkta nosaukums
+Milestone name has been saved.,Atskaites punkta nosaukums saglabāts.
+Milestone name is required,Atskaites punkta nosaukums ir obligāts
+Milestone updated,Atskaites punkts atjaunināts
+Milestone {0} not found,Atskaites punkts {0} nav atrasts
+Milestone {0} not in project {1},Atskaites punkts {0} nav projektā {1}
+milestones,posmi
+Milestones,Atskaites punkti
+Milestones:,Atskaites punkti:
+Minutes,Minūtes
+Missed,Nokavēts
+Mixed,Jaukts
+Mobile,Mobilais
+Moderate,Mērens
+Modified,Mainīts
+"Modify details, time, or attendees","Mainīt detaļas, laiku vai dalībniekus"
+Mon,Pr
+Month,Mēnesis
+Move failed,Pārvietošana neizdevās
+Must be a positive number,Jābūt pozitīvam skaitlim
+Must finish before this finishes,Jābeidzas pirms šis beidzas
+Must finish before this starts,Jābeidzas pirms šis sākas
+Must start before this finishes,Jāsākas pirms šis beidzas
+Must start before this starts,Jāsākas pirms šis sākas
+My Assignments,Mani piešķīrumi
+My Projects,Mani projekti
+My Schedule,Mans grafiks
+My Tasks,Mani uzdevumi
+N/A,Nav piemērojams
+Name,Nosaukums
+Name (A-Z),Nosaukums (A-Z)
+Name (Z-A),Nosaukums (Z-A)
+Name cannot exceed 255 characters,Nosaukums nevar pārsniegt 255 rakstzīmes
+Need help?,Nepieciešama palīdzība?
+Needs Attention,Nepieciešama uzmanība
+Never,Never
+new activities,jaunas aktivitātes
+New Activity,Jauna aktivitāte
+New activity,Jauna aktivitāte
+New Event,Jauns notikums
+New index is required,Jauns indekss ir obligāts
+New Project,Jauns projekts
+New tasks will auto-trail by default.,Jaunie uzdevumi pēc noklusējuma tiks automātiski pārbīdīti.
+Newest First,Jaunākie vispirms
+Next,Nākamais
+Next 14 days,Nākamās 14 dienas
+Next 30 days,Nākamās 30 dienas
+Next 60 days,Nākamās 60 dienas
+Next 7 days,Nākamās 7 dienas
+Next 90 days,Nākamās 90 dienas
+Next Week,Nākamnedēļ
+Next:,Nākamais:
+No,Nē
+No active assignments,Nav aktīvu piešķīrumu
+No active projects,Nav aktīvu projektu
+No active timer found,Nav atrasts aktīvs taimeris
+No activity selected,Nav izvēlēta aktivitāte
+No assignments found,Piešķīrumi nav atrasti
+No attendees,Nav dalībnieku
+no change,bez izmaiņām
+No changes for this field.,Nav izmaiņu šajā laukā.
+No changes recorded for this activity.,Nav reģistrētu izmaiņu šai aktivitātei.
+No checklist items yet,Pagaidām nav kontrolsaraksta elementu
+No checklist items yet.,Pagaidām nav kontrolsaraksta elementu.
+No comments yet,Pagaidām nav komentāru
+No comments yet.,Pagaidām nav komentāru.
+No contacts available,Nav pieejamu kontaktu
+No content for this tab,Nav satura šai cilnei
+No data available,Nav pieejamu datu
+No data available for the selected filters,Nav datu atbilstoši izvēlētajiem filtriem
+No data to export,Nav datu eksportēšanai
+No dates set,Datumi nav iestatīti
+No defects reported,Nav ziņots par defektiem
+No dependencies defined,Nav noteiktu atkarību
+No description,Nav apraksta
+No discussion yet.,Pagaidām nav apspriežu.
+No documents attached,Nav pievienotu dokumentu
+No due date,Nav termiņa
+No employee linked to this resource,Neviens darbinieks nav saistīts ar šo kontaktu
+No ERPNext employee linked to resource,Neviens ERPNext darbinieks nav saistīts ar kontaktu
+No events found,Notikumi nav atrasti
+No files attached yet.,Pagaidām nav pievienotu failu.
+No Frappe Project linked,Neviens Frappe projekts nav saistīts
+No Grouping,Bez grupēšanas
+No items,Nav elementu
+No matching tasks,Nav atbilstošu uzdevumu
+No matching tasks found,Nav atrasti atbilstoši uzdevumi
+No migration history,Nav migrācijas vēstures
+No Milestone,Nav posma
+No milestones,Nav posmu
+No milestones defined for this project.,Šim projektam nav noteiktu posmu.
+No notes yet.,Pagaidām nav piezīmju.
+No notes yet. Add a due diligence note to track progress.,Pagaidām nav piezīmju. Pievienojiet pārbaudes piezīmi progresa izsekošanai.
+No notifications,Nav paziņojumu
+No Orga Project linked to Frappe Project {0},Neviens Orga projekts nav saistīts ar Frappe projektu {0}
+No overdue tasks,Nav kavētu uzdevumu
+No pending cascade changes,Nav gaidošu kaskādes izmaiņu
+No predecessors - this task can start independently,Nav priekšgājēju — šis uzdevums var sākties neatkarīgi
+No project,Nav projekta
+No projects found,Projekti nav atrasti
+No Projects Yet,Pagaidām nav projektu
+No recent activity,Nav nesenas aktivitātes
+No related documents,Nav saistītu dokumentu
+No resolved threads.,Nav atrisinātu tēmu.
+No resources found,Kontakti nav atrasti
+No results found,Rezultāti nav atrasti
+No skills listed,Nav uzskaitītu prasmju
+No skills recorded yet,Pagaidām nav reģistrētu prasmju
+No successors - no tasks are waiting for this one,Nav pēcteču — neviens uzdevums negaida šo
+No task selected,Nav izvēlēts uzdevums
+No tasks assigned to you,Jums nav piešķirtu uzdevumu
+No tasks available to add,Nav uzdevumu ko pievienot
+No tasks found,Uzdevumi nav atrasti
+No tasks linked to this milestone,Neviens uzdevums nav saistīts ar šo posmu
+No tasks with dates to display,Nav uzdevumu ar datumiem ko attēlot
+No tasks yet,Pagaidām nav uzdevumu
+No team members,Nav komandas dalībnieku
+No template,Nav veidnes
+No templates yet,Pagaidām nav veidņu
+No time data found,Laika dati nav atrasti
+No time logged today,Šodien nav reģistrēts laiks
+No time logged yet,Pagaidām nav reģistrēts laiks
+No time logs for this period,Nav laika ierakstu šim periodam
+No time logs found,Laika ieraksti nav atrasti
+No unread notifications,Nav neizlasītu paziņojumu
+No update information available yet.,No update information available yet.
+None,Nav
+Not found,Nav atrasts
+Not permitted,Nav atļauts
+Not permitted to access this project,Nav atļauts piekļūt šim projektam
+Not permitted to access this task,Nav atļauts piekļūt šim uzdevumam
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Jums nav atļauts komentēt šo dokumentu
+Not permitted to create clients,Jums nav atļauts veidot klientus
+Not permitted to delete this client,Jums nav atļauts dzēst šo klientu
+Not permitted to delete this defect,Jums nav atļauts dzēst šo defektu
+Not permitted to delete this note,Jums nav atļauts dzēst šo piezīmi
+Not permitted to delete this project,Jums nav atļauts dzēst šo projektu
+Not permitted to delete this task,Jums nav atļauts dzēst šo uzdevumu
+Not permitted to delete this time log,Jums nav atļauts dzēst šo laika ierakstu
+Not permitted to invite clients,Jums nav atļauts uzaicināt klientus
+Not permitted to modify client access,Jums nav atļauts mainīt klienta piekļuvi
+Not permitted to modify this project,Jums nav atļauts mainīt šo projektu
+Not permitted to update settings,Jums nav atļauts mainīt iestatījumus
+Not permitted to update this client,Jums nav atļauts atjaunināt šo klientu
+Not permitted to view this client,Jums nav atļauts apskatīt šo klientu
+not sent,nav nosūtīts
+Not set,Nav iestatīts
+Not specified,Nav norādīts
+Note,Piezīme
+Note (optional),Piezīme (neobligāta)
+Note Content,Piezīmes saturs
+Note content is required,Piezīmes saturs ir obligāts
+Note name is required,Piezīmes nosaukums ir obligāts
+Note not found,Piezīme nav atrasta
+Note Type,Piezīmes veids
+Notes,Piezīmes
+Notification,Paziņojums
+Notification not found,Paziņojums nav atrasts
+Notifications,Paziņojumi
+Off Track,Novirzījies no plāna
+Offer,Piedāvājums
+Offer Prepared,Piedāvājums sagatavots
+Oldest First,Vecākie vispirms
+On Hold,Aizturēts
+On Leave,Atvaļinājumā
+On Track,Pēc plāna
+On-Time Rate,Savlaicīguma rādītājs
+Only administrators can delete activities,Tikai administratori var dzēst aktivitātes
+Only the comment author or administrators can delete comments,Tikai komentāra autors vai administratori var dzēst komentārus
+Only you and admins,Tikai jūs un administratori
+Open,Atvērts
+Open in Desk,Atvērt Desk vidē
+Open Task Log,Atvērt uzdevuma žurnālu
+Open Tasks,Atvērtie uzdevumi
+Optional,Neobligāts
+optional,neobligāts
+Or email us directly at,Vai rakstiet mums tieši uz
+Orga Project {0} from Frappe Projects,Orga projekts {0} no Frappe Projects
+Orga Task {0} from Frappe,Orga uzdevums {0} no Frappe
+Organizer,Organizators
+Other,Cits
+Over Budget,Pārsniegts budžets
+Overall Progress,Kopējais progress
+Overall Utilization,Kopējā izmantošana
+Overallocated,Pārpiešķirts
+Overdue,Kavējas
+overdue,kavējas
+Overdue Tasks,Kavētie uzdevumi
+Overview,Pārskats
+Owner,Īpašnieks
+Page Not Found,Lapa nav atrasta
+Parent,Vecākais
+Parent comment must belong to the same document,Vecāka komentāram jāpieder tam pašam dokumentam
+Parent comment not found,Vecāka komentārs nav atrasts
+Parent project not synced to Frappe yet,Vecākais projekts vēl nav sinhronizēts ar Frappe
+Parent project sync not enabled,Vecākā projekta sinhronizācija nav iespējota
+Partner,Partneris
+Pending,Gaida
+per page,lapā
+Perform initial assessment and background check,Veikt sākotnējo novērtēšanu un pārbaudi
+Permanently remove this event,Neatgriezeniski noņemt šo notikumu
+Permanently remove this task,Neatgriezeniski noņemt šo uzdevumu
+Phone,Tālrunis
+Pin,Piespraust
+Pin Activity,Piespraust aktivitāti
+Pin to top,Piespraust augšā
+Pinned,Piesprausts
+Planned budget for this task,Plānotais budžets šim uzdevumam
+Planning,Plānošana
+Please describe your question or issue in detail...,Lūdzu detalizēti aprakstiet savu jautājumu vai problēmu...
+Please login to access Orga,Lūdzu pierakstieties lai piekļūtu Orga
+Please login to access the client portal,Lūdzu pierakstieties lai piekļūtu klientu portālam
+Please respond to this invitation in Orga,Lūdzu atbildiet uz šo ielūgumu Orga sistēmā
+Please select an image file,Lūdzu izvēlieties attēla failu
+Please try again,Lūdzu mēģiniet vēlreiz
+Please type,Lūdzu ievadiet
+Portal,Portāls
+Portal access revoked for {0},Portāla piekļuve atsaukta {0}
+Portal user created successfully. Welcome email {0},Portāla lietotājs veiksmīgi izveidots. Sveiciena e-pasts {0}
+Post,Publicēt
+Powered by,Darbina
+Powered by Tonic,Darbina Tonic
+Predecessors (Blocked By),Priekšgājēji (bloķē)
+Preferences,Iestatījumi
+Preferences saved successfully,Iestatījumi veiksmīgi saglabāti
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)","Priedēklis automātiski ģenerētiem projektu kodiem (piem., ORG-2026-0001)"
+Prepare and document offer terms,Sagatavot un dokumentēt piedāvājuma nosacījumus
+Press,Nospiediet
+Preview,Priekšskatījums
+Preview cascade before applying,Priekšskatīt kaskādi pirms lietošanas
+Previous,Iepriekšējais
+Priority,Prioritāte
+Priority assigned to new tasks,Prioritāte piešķirta jauniem uzdevumiem
+Priority updated,Prioritāte atjaunināta
+Proficiency,Prasmīgums
+Profile,Profils
+Progress,Progress
+Progress (High-Low),Progress (dilstošs)
+Progress (Low-High),Progress (augošs)
+Progress Overview,Progresa pārskats
+Progress updated,Progress atjaunināts
+Project,Projekts
+Project budget has been saved.,Projekta budžets saglabāts.
+Project code (e.g. ORG-2026-0001),Projekta kods (piem. ORG-2026-0001)
+Project Code Prefix,Projekta koda priedēklis
+Project created,Projekts izveidots
+Project deleted,Projekts dzēsts
+Project description has been saved.,Projekta apraksts saglabāts.
+Project Details,Projekta informācija
+Project end date has been saved.,Projekta beigu datums saglabāts.
+Project Files,Projekta faili
+Project has no linked client,Projektam nav saistīta klienta
+Project Health,Projekta stāvoklis
+Project Info,Projekta informācija
+Project is required,Projekts ir obligāts
+Project is required for project context,Projekts ir nepieciešams projekta kontekstam
+Project is required when tracking context is 'project',"Projekts ir nepieciešams kad izsekošanas konteksts ir „projekts""
+Project name and template name are required,Projekta nosaukums un veidnes nosaukums ir obligāti
+Project name is required,Projekta nosaukums ir obligāts
+Project not found,Projekts nav atrasts
+Project not found or you do not have access,Projekts nav atrasts vai jums nav piekļuves
+Project settings,Projekta iestatījumi
+Project start date has been saved.,Projekta sākuma datums saglabāts.
+Project title has been saved.,Projekta nosaukums saglabāts.
+Project updated,Projekts atjaunināts
+Project {0} linked to client {1},Projekts {0} saistīts ar klientu {1}
+Project {0} not found,Projekts {0} nav atrasts
+Project {0} to Frappe Projects,Projekts {0} uz Frappe Projects
+Project:,Projekts:
+Projects,Projekti
+Projects Overview,Projektu pārskats
+Projects created:,Izveidotie projekti:
+Projects skipped:,Izlaistie projekti:
+Projects updated:,Atjauninātie projekti:
+Promote failed,Paaugstināšana neizdevās
+Promote to task,Paaugstināt par uzdevumu
+Promoted to task,Paaugstināts par uzdevumu
+Propose,Piedāvāt
+Propose New Time,Piedāvāt jaunu laiku
+Propose Time,Piedāvāt laiku
+Proposed End,Piedāvātās beigas
+Proposed Start,Piedāvātais sākums
+Public,Publisks
+Quick Action,Ātrā darbība
+Quick Actions,Ātrās darbības
+Quick Stats,Ātrā statistika
+RSVP,RSVP
+Rates,Likmes
+Receive notifications via email,Saņemt paziņojumus pa e-pastu
+Receive notifications within the application,Saņemt paziņojumus lietotnē
+Recipient {0} is not a valid user,Saņēmējs {0} nav derīgs lietotājs
+Recent Activity,Nesenā aktivitāte
+Reference,Atsauce
+Refresh,Atjaunot
+Related,Saistītie
+Related Company (optional),Saistītais uzņēmums (neobligāts)
+Related Documents,Saistītie dokumenti
+Related Project,Saistītais projekts
+Remaining,Atlicis
+Reminder,Atgādinājums
+Reminder Lead Time"""
+Project Manager,Projekta vadītājs
+Project Name,Projekta nosaukums
+Project name and template name are required,Projekta nosaukums un veidnes nosaukums ir obligāti
+Project name is required,Projekta nosaukums ir obligāts
+Project not found,Projekts nav atrasts
+Project not found or you do not have access,Projekts nav atrasts vai jums nav piekļuves
+Project settings,Projekta iestatījumi
+Project start date has been saved.,Projekta sākuma datums saglabāts.
+Project title has been saved.,Projekta nosaukums saglabāts.
+Project Type,Projekta veids
+Project updated,Projekts atjaunināts
+Project {0} linked to client {1},Projekts {0} saistīts ar klientu {1}
+Project {0} not found,Projekts {0} nav atrasts
+Project {0} to Frappe Projects,Projekts {0} uz Frappe Projects
+Project:,Projekts:
+projects,projekti
+Projects,Projekti
+Projects created:,Izveidoti projekti:
+Projects Overview,Projektu pārskats
+Projects skipped:,Izlaisti projekti:
+Projects updated:,Atjaunināti projekti:
+Promote failed,Paaugstināšana neizdevās
+Promote to task,Paaugstināt uz uzdevumu
+Promoted to task,Paaugstināts uz uzdevumu
+Propose,Piedāvāt
+Propose New Time,Piedāvāt jaunu laiku
+Propose Time,Piedāvāt laiku
+Proposed End,Piedāvātās beigas
+Proposed Start,Piedāvātais sākums
+Public,Publisks
+Quick Action,Ātra darbība
+Quick Actions,Ātrās darbības
+Quick Stats,Ātrā statistika
+Rates,Tarifi
+Receive notifications via email,Saņemt paziņojumus pa e-pastu
+Receive notifications within the application,Saņemt paziņojumus lietotnē
+Recent Activity,Nesenā aktivitāte
+Recipient {0} is not a valid user,Saņēmējs {0} nav derīgs lietotājs
+Reference,Atsauce
+Refresh,Atsvaidzināt
+Related,Saistīts
+Related Company (optional),Saistītais uzņēmums (neobligāts)
+Related Documents,Saistītie dokumenti
+Related Project,Saistītais projekts
+Remaining,Atlicis
+Reminder,Atgādinājums
+Reminder Lead Time,Atgādinājuma iepriekšējais laiks
+Reminder: {0} - {1} at {2},Atgādinājums: {0} - {1}
+Remove,Noņemt
+Remove dependency,Noņemt atkarību
+Remove dependency on,Noņemt atkarību no
+Remove from group,Noņemt no grupas
+Remove group dependency,Noņemt grupas atkarību
+Remove skill,Noņemt prasmi
+Reopen,Atvērt atkārtoti
+Reopen thread,Atvērt tēmu atkārtoti
+reopened,atvērts atkārtoti
+replies,atbildes
+Reply,Atbildēt
+reply,atbilde
+Replying to,Atbild uz
+Replying to comment,Atbild uz komentāru
+Report Defect,Ziņot par defektu
+Reported Date,Ziņošanas datums
+Reports,Atskaites
+Reports To,Atskaitās
+Request Submitted!,Pieprasījums iesniegts!
+Required,Obligāts
+required,obligāts
+Research,Izpēte
+Reset to Defaults,Atiestatīt uz noklusējumu
+Resolve,Atrisināt
+Resolve thread,Atrisināt tēmu
+Resolved,Atrisināts
+Resolved date cannot be before reported date,Atrisināšanas datums nevar būt pirms ziņošanas datuma
+Resource,Kontakts
+Resource and skill name are required,Kontakts un prasmes nosaukums ir obligāti
+Resource is already an attendee,Kontakts jau ir dalībnieks
+Resource name is required,Kontakta vārds ir obligāts
+Resource not found,Kontakts nav atrasts
+Resource synced from employee {0},Kontakts sinhronizēts no darbinieka {0}
+Resource {0} is already assigned to this task ({1}),Kontakts {0} jau ir piešķirts šim uzdevumam ({1})
+Resource {0} not found,Kontakts {0} nav atrasts
+Resources,Kontakti
+Retry,Mēģināt vēlreiz
+Review,Pārskatīšana
+Review all relevant documents and contracts,Pārskatīt visus saistītos dokumentus un līgumus
+Reviews,Pārskatīšanas
+Risk Assessment,Risku novērtējums
+Rollback,Atsaukt izmaiņas
+Rolled back,Izmaiņas atsauktas
+Room or address,Telpa vai adrese
+RSVP,RSVP
+Safety,Drošība
+Sat,Se
+Save,Saglabāt
+"Save a project as a template, or import one from a JSON file.",Saglabājiet projektu kā veidni vai importējiet no JSON faila.
+Save as Template,Saglabāt kā veidni
+Save Changes,Saglabāt izmaiņas
+Save failed,Saglabāšana neizdevās
+Save Preferences,Saglabāt iestatījumus
+Save Template,Saglabāt veidni
+Saving...,Saglabā...
+Schedule,Grafiks
+Schedule type is required for scheduled triggers,Grafika veids ir obligāts ieplānotiem aktivizētājiem
+Scheduled,Ieplānots
+Search,Meklēt
+"Search by name, email, or skill...","Meklēt pēc vārda, e-pasta vai prasmes..."
+Search for a project...,Meklēt projektu...
+Search for a task...,Meklēt uzdevumu...
+Search for an event...,Meklēt notikumu...
+Search for people to invite...,Meklēt cilvēkus uzaicināšanai...
+Search tasks to link...,Meklēt uzdevumus saistīšanai...
+Search tasks...,Meklēt uzdevumus...
+Search...,Meklēt...
+Searching...,Meklē...
+Seen,Apskatīts
+Select a project if your request is related to a specific project.,Izvēlieties projektu ja jūsu pieprasījums ir saistīts ar konkrētu projektu.
+Select a project...,Izvēlieties projektu...
+Select a task from the Gantt chart to view and manage its details.,Izvēlieties uzdevumu no Gantt diagrammas lai apskatītu un pārvaldītu tā informāciju.
+Select a task from the list or Kanban board to view and manage its details.,Izvēlieties uzdevumu no saraksta vai Kanban paneļa lai apskatītu un pārvaldītu tā informāciju.
+Select a template...,Izvēlieties veidni...
+Select priority...,Izvēlieties prioritāti...
+Select status...,Izvēlieties statusu...
+Select task...,Izvēlieties uzdevumu...
+Select type...,Izvēlieties veidu...
+Selection,Izvēle
+Send,Nosūtīt
+Send comment,Nosūtīt komentāru
+Send email invitations to attendees,Nosūtīt e-pasta ielūgumus dalībniekiem
+Send Invitations,Nosūtīt ielūgumus
+Send notification when a task is assigned to a user,Nosūtīt paziņojumu kad uzdevums tiek piešķirts lietotājam
+Send notification when task status changes,Nosūtīt paziņojumu kad mainās uzdevuma statuss
+Send reminder before task due date,Nosūtīt atgādinājumu pirms uzdevuma termiņa
+sent,nosūtīts
+Set rate,Iestatīt likmi
+Settings,Iestatījumi
+Settings saved successfully,Iestatījumi veiksmīgi saglabāti
+Severity,Smagums
+SF (Start-Finish),SF (Sākums-Beigas)
+SF - Start-to-Finish,SF - Sākums-Beigas
+Show,Rādīt
+Show all,Rādīt visu
+Show all changes,Rādīt visas izmaiņas
+Show Archived,Rādīt arhivētos
+Show full diff,Rādīt pilnu atšķirību
+Show less,Rādīt mazāk
+Show more,Rādīt vairāk
+Skill added,Prasme pievienota
+Skill is required,Prasme ir obligāta
+Skill Name,Prasmes nosaukums
+Skill removed,Prasme noņemta
+Skill {0} already exists for this resource,Prasme {0} jau pastāv šim kontaktam
+Skills,Prasmes
+Skills & Competencies,Prasmes un kompetences
+Skip already migrated projects,Izlaist jau migrētos projektus
+Sort by,Kārtot pēc
+Sort: Due Date,Kārtošana: Termiņš
+Sort: Priority,Kārtošana: Prioritāte
+Sort: Project,Kārtošana: Projekts
+Sort: Status,Kārtošana: Statuss
+Sort: Task,Kārtošana: Uzdevums
+Source Code,Pirmkods
+Spent,Iztērēts
+Spent:,Iztērēts:
+SS (Start-Start),SS (Sākums-Sākums)
+SS - Start-to-Start,SS - Sākums-Sākums
+Standalone,Atsevišķs
+Start,Sākums
+Start a discussion below,Sāciet apspriedi zemāk
+Start Date,Sākuma datums
+Start date,Sākuma datums
+Start Date (Earliest),Sākuma datums (agrākais)
+Start date updated,Sākuma datums atjaunināts
+Start date/time is required,Sākuma datums/laiks ir obligāts
+Start Migration,Sākt migrāciju
+Start the conversation below.,Sāciet sarunu zemāk.
+Start Timer,Sākt taimeri
+Start typing to search...,Sāciet rakstīt lai meklētu...
+Start-to-Finish,Sākums-Beigas
+Start-to-Start,Sākums-Sākums
+Start:,Sākums:
+Statistics reset,Statistika atiestatīta
+Status,Statuss
+Status assigned to new projects,Statuss piešķirts jauniem projektiem
+Status assigned to new tasks,Statuss piešķirts jauniem uzdevumiem
+Status Changes,Statusa izmaiņas
+Status updated,Statuss atjaunināts
+Status:,Statuss:
+Stop,Apturēt
+Stop & Save,Apturēt un saglabāt
+Stop Timer,Apturēt taimeri
+Stops current timer and starts for this event,Aptur pašreizējo taimeri un sāk šim notikumam
+Stops current timer and starts for this task,Aptur pašreizējo taimeri un sāk šim uzdevumam
+Subject,Tēma
+Subject cannot exceed 255 characters,Tēma nevar pārsniegt 255 rakstzīmes
+Subject is required,Tēma ir obligāta
+Submit,Iesniegt
+Submit Another Request,Iesniegt vēl vienu pieprasījumu
+Submit Request,Iesniegt pieprasījumu
+Submitting...,Iesniedz...
+Successfully saved,Veiksmīgi saglabāts
+Successors (Blocking),Pēcteči (bloķējoši)
+Sun,Sv
+Supplier,Piegādātājs
+Support,Atbalsts
+Switch to this event,Pārslēgties uz šo notikumu
+Switch to this task,Pārslēgties uz šo uzdevumu
+Sync direction is set to Frappe to Orga only,Sinhronizācijas virziens iestatīts tikai no Frappe uz Orga
+Sync direction is set to Orga to Frappe only,Sinhronizācijas virziens iestatīts tikai no Orga uz Frappe
+Sync not enabled for this project,Sinhronizācija šim projektam nav iespējota
+System,Sistēma
+Table,Tabula
+Take ownership of this task,Uzņemties šo uzdevumu
+Target Date,Mērķa datums
+Target End,Mērķa beigas
+Target Project,Mērķa projekts
+Target user is required for '{0}' action,"Mērķa lietotājs ir nepieciešams darbībai „{0}""
+Task,Uzdevums
+Task '{0}' is due on {1}."""
+task,uzdevums
+Task,Uzdevums
+Task '{0}' is due on {1}.,Uzdevuma '{0}' termiņš ir {1}.
+Task and resource are required,Uzdevums un kontakts ir obligāti
+Task Assignment,Uzdevuma piešķīrums
+Task cannot be its own parent,Uzdevums nevar būt pats sev vecākais
+Task cannot depend on itself,Uzdevums nevar būt atkarīgs no sevis paša
+Task cannot depend on the group it belongs to,Uzdevums nevar būt atkarīgs no grupas kurai pieder
+Task created,Uzdevums izveidots
+Task deleted,Uzdevums dzēsts
+Task description has been saved.,Uzdevuma apraksts saglabāts.
+Task Details,Uzdevuma informācija
+Task due in {0} days: {1},Uzdevuma termiņš pēc {0} dienām: {1}
+Task due today: {0},Uzdevuma termiņš šodien: {0}
+Task due tomorrow: {0},Uzdevuma termiņš rīt: {0}
+Task duplicated,Uzdevums dublēts
+Task Group,Uzdevumu grupa
+Task ID is required,Uzdevuma ID ir obligāts
+Task is blocked by incomplete dependencies,Uzdevums ir bloķēts nepabeigtām atkarībām
+Task is cancelled,Uzdevums ir atcelts
+Task is completed,Uzdevums ir pabeigts
+Task is no longer blocked by a group,Uzdevums vairs nav bloķēts no grupas
+Task is required for task context,Uzdevums ir nepieciešams uzdevuma kontekstam
+Task is required when tracking context is 'task',"Uzdevums ir nepieciešams kad izsekošanas konteksts ir „uzdevums""
+Task linked,Uzdevums saistīts
+Task moved,Uzdevums pārvietots
+Task name,Uzdevuma nosaukums
+Task name is required,Uzdevuma nosaukums ir obligāts
+Task removed from group,Uzdevums noņemts no grupas
+Task subject is required,Uzdevuma tēma ir obligāta
+Task unblocked: {0},Uzdevums atbloķēts: {0}
+Task unlinked,Uzdevums atsaistīts
+Task updated,Uzdevums atjaunināts
+Task {0} not found,Uzdevums {0} nav atrasts
+Task {0} not in project {1},Uzdevums {0} nav projektā {1}
+Task {0} to Frappe,Uzdevums {0} uz Frappe
+Tasks and milestones will be created with dates relative to the project start date."""
+Task linked,Uzdevums saistīts
+Task moved,Uzdevums pārvietots
+Task name,Uzdevuma nosaukums
+Task name is required,Uzdevuma nosaukums ir obligāts
+Task removed from group,Uzdevums noņemts no grupas
+Task Subject,Uzdevuma tēma
+Task subject is required,Uzdevuma tēma ir obligāta
+Task Type,Uzdevuma veids
+Task unblocked: {0},Uzdevums atbloķēts: {0}
+Task unlinked,Uzdevums atvienots
+Task updated,Uzdevums atjaunināts
+Task {0} not found,Uzdevums {0} nav atrasts
+Task {0} not in project {1},Uzdevums {0} nav projektā {1}
+Task {0} to Frappe,Uzdevums {0} uz Frappe
+Tasks,Uzdevumi
+tasks,uzdevumi
+Tasks and milestones will be created with dates relative to the project start date.,Uzdevumi un atskaites punkti tiks izveidoti ar datumiem attiecībā pret projekta sākuma datumu.
+Tasks assigned to you across all projects.,Jums piešķirtie uzdevumi visos projektos.
+Tasks created:,Izveidotie uzdevumi:
+Tasks from projects you manage.,Uzdevumi no projektiem ko jūs vadāt.
+Tasks updated:,Atjauninātie uzdevumi:
+"Tasks, milestones, and dependencies have been created.","Uzdevumi, posmi un atkarības ir izveidotas."
+Tasks:,Uzdevumi:
+TBD,Vēl noteiks
+Team,Komanda
+Team Members,Komandas dalībnieki
+Template,Veidne
+Template applied,Veidne lietota
+Template data is required in import data,Veidnes dati ir nepieciešami importa datos
+Template has no data,Veidnei nav datu
+Template Name,Veidnes nosaukums
+Template name,Veidnes nosaukums
+Template name is required,Veidnes nosaukums ir obligāts
+Template name is required in import data,Veidnes nosaukums ir nepieciešams importa datos
+Template saved,Veidne saglabāta
+Template updated successfully.,Veidne veiksmīgi atjaunināta.
+Template {0} not found,Veidne {0} nav atrasta
+Templates,Veidnes
+Tentative,Provizoriskos
+The comment has been deleted,Komentārs ir dzēsts
+The project,Projekts
+The source document may have been deleted.,Avota dokuments iespējams ir dzēsts.
+The source document will not be affected.,Avota dokuments netiks ietekmēts.
+The status of '{0}' was changed from {1} to {2}.,"„{0} statuss mainīts no {1} uz {2}."""
+Theme,Tēma
+Theme preference,Tēmas iestatījums
+This action,Šī darbība
+This action cannot be undone.,Šo darbību nevar atsaukt.
+This activity has been flagged for attention,Šī aktivitāte ir atzīmēta uzmanībai
+This is a reminder for your upcoming appointment,Šis ir atgādinājums par jūsu gaidāmo tikšanos
+This method is only meant for developer mode,Šī metode ir paredzēta tikai izstrādātāja režīmam
+This page wandered off,This page wandered off
+This Week,Šonedēļ
+This will delete all notes and preferences associated with this activity.,Tas dzēsīs visas piezīmes un iestatījumus saistītus ar šo aktivitāti.
+This will import all Frappe Projects into Orga. Continue?,Tas importēs visus Frappe projektus Orga sistēmā. Turpināt?
+This will permanently delete,Tas neatgriezeniski dzēsīs
+This will permanently delete:,Tas neatgriezeniski dzēsīs:
+Thu,Ce
+Time,Laiks
+Time & Billing,Laiks un norēķini
+Time & Revenue,Laiks un ieņēmumi
+Time Entries,Laika ieraksti
+Time log name is required,Laika ieraksta nosaukums ir obligāts
+Time Log not found,Laika ieraksts nav atrasts
+Time log {0} not found,Laika ieraksts {0} nav atrasts
+Time Logs,Laika ieraksti
+Time Summary,Laika kopsavilkums
+Time Tracking,Laika uzskaite
+Timeline,Laika skala
+Timer active on,Taimeris aktīvs
+Timer is not running,Taimeris nedarbojas
+Timer Running,Taimeris darbojas
+Timer running,Taimeris darbojas
+Timesheet DocType not available,Laika uzskaites DocType nav pieejams
+Timesheets,Laika uzskaites lapas
+Timezone,Laika zona
+Timezone is detected from your browser,Laika zona tiek noteikta no jūsu pārlūka
+Title,Nosaukums
+Title cannot exceed 255 characters,Nosaukums nevar pārsniegt 255 rakstzīmes
+Title is required,Nosaukums ir obligāts
+Title updated,Nosaukums atjaunināts
+To,Līdz
+to,līdz
+to cancel,lai atceltu
+to close,lai aizvērtu
+to confirm:,lai apstiprinātu:
+to edit,lai rediģētu
+"to save,","lai saglabātu,"
+To Time cannot be before From Time,Beigu laiks nevar būt pirms sākuma laika
+Today,Šodien
+today,šodien
+Toggle billable,Pārslēgt apmaksājamību
+Toggle Details Panel,Rādīt/slēpt informācijas paneli
+Toggle Manager Panel,Rādīt/slēpt vadītāja paneli
+Toggle Sidebar,Rādīt/slēpt sānu joslu
+Tomorrow,Rīt
+tomorrow,rīt
+Total,Kopā
+Total Budget,Kopējais budžets
+Total Contacts,Kopā kontaktu
+Total Cost,Kopējās izmaksas
+Total Cost to Org,Kopējās izmaksas organizācijai
+Total Defect Cost,Kopējās defektu izmaksas
+Total Hours,Kopā stundu
+Total Hours Logged,Kopā reģistrēto stundu
+Total Projects,Kopā projektu
+Total Spent,Kopā iztērēts
+Total Tasks,Kopā uzdevumu
+Total:,Kopā:
+Tracked,Izsekots
+trails to today while Open at 0%,pārbīdās līdz šodienai kamēr Atvērts 0%
+Tried:,Tried:
+Try adjusting your filter criteria,Mēģiniet mainīt filtru kritērijus
+Try adjusting your filters.,Mēģiniet mainīt filtrus.
+Try Again,Mēģināt vēlreiz
+Tue,Ot
+Type,Veids
+Type updated,Veids atjaunināts
+Type:,Veids:
+Typical response time: 1-2 business days,Parastais atbildes laiks: 1–2 darba dienas
+Unarchive,Atarhivēt
+Unarchive Activity,Atarhivēt aktivitāti
+Unassign,Noņemt piešķīrumu
+Unassigned,Nepiešķirts
+Under Budget,Zem budžeta
+Ungrouped,Negrupēts
+Unknown,Nezināms
+Unknown error,Nezināma kļūda
+Unlink failed,Atsaistīšana neizdevās
+Unlink task from milestone,Atsaistīt uzdevumu no posma
+Unpin,Atspraust
+Unpin Activity,Atspraust aktivitāti
+Unread,Neizlasīts
+Unread only,Tikai neizlasītie
+Until,Līdz
+Up to Date,Up to Date
+Upcoming,Gaidāmie
+upcoming,gaidāmie
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Atjaunināšana neizdevās
+Updated,Atjaunināts
+Updated successfully,Veiksmīgi atjaunināts
+Updates,Updates
+Upload,Augšupielādēt
+Upload failed,Augšupielāde neizdevās
+Upload files below to attach them to this task.,Augšupielādējiet failus zemāk lai pievienotu tos šim uzdevumam.
+Upload to project,Augšupielādēt projektam
+Uploading...,Augšupielādē...
+Urgent,Steidzams
+User {0} is already linked to client {1},Lietotājs {0} jau ir saistīts ar klientu {1}
+User {0} is already linked to resource {1},Lietotājs {0} jau ir saistīts ar kontaktu {1}
+Utilization,Izmantošana
+Valid,Derīgs
+Value:,Vērtība:
+Variance,Novirze
+Variance:,Novirze:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Skatīt
+View All,Skatīt visu
+View all active projects,Skatīt visus aktīvos projektus
+View all open tasks,Skatīt visus atvērtos uzdevumus
+View overdue tasks,Skatīt kavētos uzdevumus
+View Release,View Release
+Visibility,Redzamība
+Waiting for this task,Gaida šo uzdevumu
+Waits for:,Gaida:
+Warning: Resource {0} status is {1},Brīdinājums: kontakta {0} statuss ir {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Brīdinājums: tiek izmantots HTTP nevis HTTPS. Webhook dati var nebūt droši.
+Watch budget closely,Rūpīgi sekojiet budžetam
+We'll respond to:,Mēs atbildēsim uz:
+Webhook deleted,Webhook dzēsts
+Webhook name is required,Webhook nosaukums ir obligāts
+Webhook not found,Webhook nav atrasts
+Webhook URL is required,Webhook URL ir obligāts
+Webhook URL must start with http:// or https://,Webhook URL jāsākas ar http:// vai https://
+Wed,Tr
+Week,Nedēļa
+Weekend,Nedēļas nogale
+Weekly Capacity,Nedēļas jauda
+weekly capacity,nedēļas jauda
+Weekly Capacity (h),Nedēļas jauda (st.)
+Welcome,Laipni lūdzam
+Welcome back!,Laipni lūdzam atpakaļ!
+Welcome to Orga,Laipni lūdzam Orga
+What are you working on?,Pie kā jūs pašlaik strādājat?
+What did you work on?,Pie kā jūs strādājāt?
+When,Kad
+When work begins,Kad darbs sākas
+When work is due,Kad darbam pienāk termiņš
+Where,Kur
+Will capture:,Tiks iekļauts:
+Will create:,Tiks izveidots:
+with checklist items,ar kontrolsaraksta elementiem
+Working,Izpildē
+Workload,Darba slodze
+Workmanship,Darba kvalitāte
+Write a comment...,Rakstiet komentāru...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Rakstiet komentāru... Izmantojiet @vārdu pieminēšanai (Ctrl+Enter lai nosūtītu)
+Year,Gads
+Yes,Jā
+Yesterday,Vakar
+yesterday,vakar
+You are not an attendee of this appointment,Jūs neesat šīs tikšanās dalībnieks
+You are not linked to any resource,Jūs neesat saistīts ar nevienu kontaktu
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Jūs varat dzēst tikai savus komentārus
+You can only delete your own reactions,Jūs varat dzēst tikai savas reakcijas
+You do not have access to the client portal. Please contact support.,Jums nav piekļuves klientu portālam. Lūdzu sazinieties ar atbalstu.
+You have already reacted with '{0}',"Jūs jau esat reaģējis ar „{0}""
+You have been assigned to task '{0}' in project '{1}'."""
+You have been assigned to task '{0}' in project '{1}'.,Jums ir piešķirts uzdevums '{0}' projektā '{1}'.
+You have been assigned to: {0},Jums piešķirts: {0}
+You have been invited to the following appointment,Jūs esat uzaicināts uz šādu tikšanos
+You have no tasks assigned to you right now.,Jums pašlaik nav piešķirtu uzdevumu.
+You were mentioned in {0},Jūs tikāt pieminēts {0}
+Your attendance,Jūsu dalība
+Your comment has been posted,Jūsu komentārs ir publicēts
+Your Projects,Jūsu projekti
+Your projects will appear here once they're assigned to you.,Jūsu projekti parādīsies šeit kad tie tiks jums piešķirti.
+Your Response,Jūsu atbilde
+Your RSVP,Jūsu RSVP
+Your support request has been submitted successfully.,Jūsu atbalsta pieprasījums ir veiksmīgi iesniegts.
+Your support request has been submitted successfully. We'll get back to you shortly.,Jūsu atbalsta pieprasījums ir veiksmīgi iesniegts. Mēs ar jums sazināsimies tuvākajā laikā.
+"Your task ""{0}"" is no longer blocked and can now be started.","Jūsu uzdevums „{0} vairs nav bloķēts un to tagad var sākt."""
+{0} is required,{0} ir obligāts
+{0} new activities,{0} jaunas aktivitātes
+{0} of {1} completed,{0} no {1} pabeigts
+{0} projects already migrated (will be skipped or updated),{0} projekti jau migrēti (tiks izlaisti vai atjaunināti)
+{0} status changed to {1},{0} statuss mainīts uz {1}
+{0} tasks remaining,atlikuši {0} uzdevumi
+{0} tasks without projects will be skipped,{0} uzdevumi bez projektiem tiks izlaisti
+{0} {1} not found,{0} {1} nav atrasts

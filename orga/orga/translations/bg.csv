@@ -1,0 +1,1622 @@
++ Add Milestone,+ Добавяне на етап
++ Create Task,+ Създаване на задача
++ Log Time,+ Записване на време
+-- Select a project --,-- Изберете проект --
+0m,0м
+1 day,1 ден
+1 day ago,преди 1 ден
+1 dependency,1 зависимост
+1 entry,1 запис
+1 file,1 файл
+1 hour ago,преди 1 час
+1 member,1 член
+1 milestone,1 етап
+1 month,1 месец
+1 task,1 задача
+< 1m,< 1м
+"A clear, actionable title for the task",Ясно и конкретно заглавие за задачата
+A client with email {0} already exists: {1},Клиент с имейл {0} вече съществува: {1}
+A key deliverable or checkpoint for the project,Ключен резултат или контролна точка за проекта
+Accept,Приемане
+Accepted,Прието
+Acknowledge,Потвърждаване
+across,в
+Action,Действие
+Actions,Действия
+Active,Активен
+Active Assignments,Активни назначения
+Active Projects,Активни проекти
+Activity,Дейност
+Activity data deleted successfully,Данните за дейността са изтрити успешно
+Activity Info,Информация за дейността
+Activity Stats,Статистика на дейността
+Activity will appear here as you work on tasks and projects.,"Дейността ще се показва тук, докато работите по задачи и проекти."
+Actual,Действителен
+Actual Cost,Действителна цена
+Actual cost cannot be negative,Действителната цена не може да бъде отрицателна
+Actual end date cannot be before actual start date,Действителната крайна дата не може да бъде преди действителната начална дата
+Actual Hours,Действителни часове
+Add,Добавяне
+Add a checklist item...,Добавяне на елемент от списъка...
+Add a comment...,Добавяне на коментар...
+Add a comment... (Ctrl+Enter to send),Добавяне на коментар... (Ctrl+Enter за изпращане)
+Add a description...,Добавяне на описание...
+Add a milestone description...,Добавяне на описание на етап...
+Add a note below to annotate this activity.,"Добавете бележка по-долу, за да отбележите тази дейност."
+Add a note...,Добавяне на бележка...
+Add a project description...,Добавяне на описание на проект...
+Add a task description...,Добавяне на описание на задача...
+Add checklist item...,Добавяне на елемент от списъка...
+Add Contact,Добавяне на контакт
+Add contacts via the Desk interface or clear filters,Добавете контакти чрез интерфейса Desk или изчистете филтрите
+Add Dependency,Добавяне на зависимост
+Add details about this event...,Добавяне на подробности за това събитие...
+Add details about this milestone...,Добавяне на подробности за този етап...
+Add details about this task...,Добавяне на подробности за тази задача...
+Add details or acceptance criteria for this milestone,Добавяне на подробности или критерии за приемане на този етап
+"Add details, context, or acceptance criteria","Добавяне на подробности, контекст или критерии за приемане"
+Add first dependency,Добавяне на първа зависимост
+Add item,Добавяне на елемент
+Add items below to track progress.,Добавете елементи по-долу за проследяване на напредъка.
+Add items below to track subtasks,Добавете елементи по-долу за проследяване на подзадачи
+Add Milestone,Добавяне на етап
+Add Milestone (Shift+M),Добавяне на етап (Shift+M)
+Add milestones to track key deliverables.,Добавете етапи за проследяване на ключови резултати.
+Add New Contact,Добавяне на нов контакт
+Add Note,Добавяне на бележка
+Add note,Добавяне на бележка
+Add notes about this contact...,Добавяне на бележки за този контакт...
+Add reaction,Добавяне на реакция
+Add Skill,Добавяне на умение
+Add start and due dates to tasks to see them on the Gantt chart,Добавете начални дати и крайни срокове на задачите за показване в Gantt диаграмата
+Add Task,Добавяне на задача
+Add Task (Shift+T),Добавяне на задача (Shift+T)
+Added Finish-to-Start dependency,Добавена зависимост край-начало
+Adding this dependency would create a circular reference: {0},Добавянето на тази зависимост ще създаде кръгова препратка: {0}
+Adding...,Добавяне...
+Address,Адрес
+Advanced,Разширени
+All,Всички
+All Active,Всички активни
+All Assignees,Всички назначени
+All Categories,Всички категории
+All caught up!,Всичко е актуално!
+All Contexts,Всички контексти
+All day,Цял ден
+All day event,Целодневно събитие
+All fields,Всички полета
+All Priorities,Всички приоритети
+All Projects,Всички проекти
+All Status,Всички състояния
+All Statuses,Всички състояния
+All task dependencies & relative dates,Всички зависимости на задачи и относителни дати
+All Tasks,Всички задачи
+All tasks across all projects.,Всички задачи от всички проекти.
+All tasks are already linked,Всички задачи вече са свързани
+All team members,Всички членове на екипа
+All Types,Всички видове
+All Users,Всички потребители
+Allocated,Разпределено
+allocated,разпределено
+Allow users to log time against tasks,Разрешаване на потребителите да записват време за задачи
+Already exported to timesheet {0},Вече изнесено към справка за времето {0}
+Already Migrated,Вече мигрирано
+Anyone with access,Всеки с достъп
+anytime to show this help,по всяко време за показване на тази помощ
+App Updates,App Updates
+Appearance,Външен вид
+Apply,Прилагане
+Apply cascade?,Прилагане на каскада?
+Apply Changes,Прилагане на промени
+Apply failed,Прилагането не успя
+Apply Template,Прилагане на шаблон
+Applying...,Прилагане...
+Appointment,Среща
+Appointment and resource are required,Срещата и ресурсът са задължителни
+Appointment name is required,Името на срещата е задължително
+Appointment not found,Срещата не е намерена
+Appointment {0} not found,Среща {0} не е намерена
+Apps,Приложения
+Archive,Архивиране
+Archive Activity,Архивиране на дейност
+Archived,Архивирано
+Are you sure you want to delete this activity data? This cannot be undone.,"Сигурни ли сте, че искате да изтриете тези данни за дейността? Това не може да бъде отменено."
+Are you sure you want to delete this comment?,"Сигурни ли сте, че искате да изтриете този коментар?"
+Are you sure you want to delete this project?,"Сигурни ли сте, че искате да изтриете този проект?"
+Are you sure?,Сигурни ли сте?
+Ascending -- click to reverse,Възходящо -- щракнете за обратен ред
+Assign To,Назначаване на
+Assign to Me,Назначаване на мен
+Assigned Contact,Назначен контакт
+Assigned To,Назначено на
+Assigned to,Назначено на
+Assigned to Me,Назначено на мен
+Assignee,Назначен
+Assignment,Назначение
+Assignment History,История на назначенията
+Assignment name is required,Името на назначението е задължително
+Assignment {0} not found,Назначение {0} не е намерено
+Assignments,Назначения
+At least one action is required,Необходимо е поне едно действие
+At least one event is required,Необходимо е поне едно събитие
+At least one event must be selected,Трябва да бъде избрано поне едно събитие
+Attachment,Прикачен файл
+Attachments,Прикачени файлове
+Attendees,Участници
+"Audit trail, assignments, version history","Одитна следа, назначения, история на версиите"
+Auto,Автоматично
+Auto Calculate Progress,Автоматично изчисляване на напредъка
+Auto Set Missed Milestones,Автоматично маркиране на пропуснати етапи
+Auto-shift dependents when dates change,Автоматично изместване на зависимите при промяна на дати
+Auto-Trail Start,Автоматично плъзгащо начало
+Auto-Trail updated,Автоматичното плъзгащо начало е обновено
+Automatically calculate project progress from task completion,Автоматично изчисляване на напредъка на проекта от завършването на задачите
+Automatically mark milestones as missed when overdue,Автоматично маркиране на етапите като пропуснати при закъснение
+Automation rule {0} not found,Правило за автоматизация {0} не е намерено
+Automation: {0},Автоматизация: {0}
+Availability,Наличност
+Available,Наличен
+Avatar updated successfully,Снимката на профила е обновена успешно
+Avg Progress,Среден напредък
+Back,Назад
+Back to Portal,Назад към портала
+Back to Projects,Назад към проектите
+Beginner,Начинаещ
+Best regards,С уважение
+Billable,За фактуриране
+Billable Amount,Сума за фактуриране
+Billable Hours,Часове за фактуриране
+Billable Rate,Ставка за фактуриране
+Billing Rate,Ставка за фактуриране
+Blocked,Блокирано
+Both dates are needed to display task as a bar in Gantt chart,И двете дати са необходими за показване на задачата като лента в Gantt диаграмата
+Both doctype and docname are required,И doctype и docname са задължителни
+Both proposed start and end times are required,И предложеното начално и крайно време са задължителни
+Both task_name and depends_on are required,И task_name и depends_on са задължителни
+Breadcrumb,Навигационна пътека
+Brief description of the defect or damage,Кратко описание на дефекта или повредата
+Brief description of this template,Кратко описание на този шаблон
+Brief description of your request,Кратко описание на вашата заявка
+Brief project description,Кратко описание на проекта
+Budget,Бюджет
+Budget at risk,Бюджетът е застрашен
+Budget Burn Rate,Скорост на изразходване на бюджета
+Budget Status,Състояние на бюджета
+Budget updated,Бюджетът е обновен
+Budget:,Бюджет:
+Bug,Грешка
+Burn Rate,Скорост на изразходване
+Busy,Зает
+By,От
+By Assignee,По назначен
+By Group,По група
+By Milestone,По етап
+By Priority,По приоритет
+By Status,По състояние
+Cancel,Отмяна
+Cancelled,Отменено
+cannot be undone,не може да бъде отменено
+Cannot delete client with {0} linked projects. Unlink projects first.,Не може да се изтрие клиент с {0} свързани проекта. Първо разкачете проектите.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Не може да се изтрие проект с {0} свързани задачи. Първо изтрийте задачите.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Не може да се изтрие ресурс с {0} активни назначения. Първо ги завършете или отменете.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Не може да се изтрие задача с {0} подзадачи. Първо изтрийте подзадачите.
+Capacity,Капацитет
+capacity,капацитет
+Capacity & Rates,Капацитет и ставки
+Capture project structure for reuse,Запазване на структурата на проекта за повторна употреба
+Cascade,Каскада
+Cascade Preview,Преглед на каскадата
+Category,Категория
+Celebrate,Поздравления
+Change,Промяна
+Change History,История на промените
+Change Priority,Промяна на приоритет
+Change Status,Промяна на състояние
+Changes,Промени
+Changes appear when fields are modified.,Промените се показват при промяна на полетата.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Контролен списък
+Checklist item name is required,Името на елемента от контролния списък е задължително
+Checklist item not found,Елементът от контролния списък не е намерен
+Checklist item title is required,Заглавието на елемента от контролния списък е задължително
+Checklist item {0} not found,Елемент от контролния списък {0} не е намерен
+Checklist item {0} not found in task,Елемент от контролния списък {0} не е намерен в задачата
+Child,Подчинен
+Choose file to upload,Изберете файл за качване
+Circular dependency detected: {0},Открита кръгова зависимост: {0}
+Circular parent-child relationship detected,Открито кръгово отношение родител-дете
+Clear,Изчистване
+Clear all read,Изчистване на всички прочетени
+Clear date,Изчистване на дата
+Click on an activity from the list to view and manage its details.,"Щракнете върху дейност от списъка, за да видите и управлявате подробностите."
+Click the avatar to upload a new photo,Щракнете върху снимката на профила за качване на нова снимка
+Click to add description...,Щракнете за добавяне на описание...
+Click to add notes...,Щракнете за добавяне на бележки...
+Click to assign contact,Щракнете за назначаване на контакт
+Click to change status,Щракнете за промяна на състоянието
+Click to change type,Щракнете за промяна на вида
+Click to edit,Щракнете за редактиране
+Click to edit budget,Щракнете за редактиране на бюджета
+Click to edit description,Щракнете за редактиране на описанието
+Click to edit end date,Щракнете за редактиране на крайната дата
+Click to edit milestone name,Щракнете за редактиране на името на етапа
+Click to edit rate,Щракнете за редактиране на ставката
+Click to edit start date,Щракнете за редактиране на началната дата
+Click to edit title,Щракнете за редактиране на заглавието
+Click to load,Щракнете за зареждане
+Click to set group dependency...,Щракнете за задаване на зависимост на групата...
+Click to set group...,Щракнете за задаване на група...
+Click to view,Щракнете за преглед
+Click to view at-risk projects,Щракнете за преглед на застрашените проекти
+Click to view critical projects,Щракнете за преглед на критичните проекти
+Click to view healthy projects,Щракнете за преглед на проектите в добро състояние
+Client,Клиент
+Client already has a portal user: {0},Клиентът вече има потребител на портала: {0}
+Client already has portal access,Клиентът вече има достъп до портала
+Client has no portal user to revoke,Клиентът няма потребител на портала за отнемане
+Client link removed from project {0},Връзката с клиента е премахната от проект {0}
+Client Portal,Клиентски портал
+Client {0} deleted successfully,Клиент {0} е изтрит успешно
+Close,Затваряне
+Close (Esc),Затваряне (Esc)
+Comment,Коментар
+comment,коментар
+Comment added,Коментарът е добавен
+Comment content is required,Съдържанието на коментара е задължително
+Comment name is required,Името на коментара е задължително
+Comment not found,Коментарът не е намерен
+Comment removed,Коментарът е премахнат
+Comment {0} not found in task,Коментар {0} не е намерен в задачата
+Comments,Коментари
+comments,коментари
+Community Edition,Community Edition
+Company,Фирма
+Company name...,Име на фирмата...
+Complete,Завършване
+Completed,Завършено
+completed,завършено
+Completed Tasks,Завършени задачи
+Compliance,Съответствие
+Configure default values for new projects and tasks,Настройване на стойности по подразбиране за нови проекти и задачи
+Configure email notification settings,Настройване на имейл известията
+Confirm,Потвърждаване
+Contact deleted,Контактът е изтрит
+Contact Details,Данни за контакт
+Contact Information,Информация за контакт
+Contact name is required,Името на контакта е задължително
+Contact Support,Свържете се с поддръжката
+Contact your project manager for more information.,Свържете се с ръководителя на проекта за повече информация.
+Contact:,Контакт:
+Contacts,Контакти
+Context,Контекст
+Contractor,Изпълнител
+Cost estimate cannot be negative,Оценката на разходите не може да бъде отрицателна
+Cost Impact,Въздействие върху разходите
+Cost Summary,Обобщение на разходите
+Could not apply the template. Please try again.,Шаблонът не може да бъде приложен. Моля опитайте отново.
+Could not attach file to project,Файлът не може да бъде прикачен към проекта
+Could not change task priority,Приоритетът на задачата не може да бъде променен
+Could not change task status,Състоянието на задачата не може да бъде променено
+Could not delete the project. Please try again.,Проектът не може да бъде изтрит. Моля опитайте отново.
+Could not delete the task. Please try again.,Задачата не може да бъде изтрита. Моля опитайте отново.
+Could not delete the template.,Шаблонът не може да бъде изтрит.
+Could not duplicate the task. Please try again.,Задачата не може да бъде дублирана. Моля опитайте отново.
+Could not export the template.,Шаблонът не може да бъде изнесен.
+Could not import the template. Please check the file format.,Шаблонът не може да бъде внесен. Моля проверете формата на файла.
+Could not link task to milestone,Задачата не може да бъде свързана с етапа
+Could not load document details.,Подробностите на документа не могат да бъдат заредени.
+Could not load task details,Подробностите на задачата не могат да бъдат заредени
+Could not promote checklist item to task.,Елементът от контролния списък не може да бъде повишен в задача.
+Could not remove task from milestone,Задачата не може да бъде премахната от етапа
+Could not save budget.,Бюджетът не може да бъде запазен.
+Could not save changes to the milestone,Промените на етапа не могат да бъдат запазени
+Could not save changes to the task,Промените на задачата не могат да бъдат запазени
+Could not save description.,Описанието не може да бъде запазено.
+Could not save end date.,Крайната дата не може да бъде запазена.
+Could not save milestone name.,Името на етапа не може да бъде запазено.
+Could not save start date.,Началната дата не може да бъде запазена.
+Could not save the template. Please try again.,Шаблонът не може да бъде запазен. Моля опитайте отново.
+Could not save title.,Заглавието не може да бъде запазено.
+Could not update dependency mode.,Режимът на зависимост не може да бъде обновен.
+Could not update milestone date,Датата на етапа не може да бъде обновена
+Could not update project status.,Състоянието на проекта не може да бъде обновено.
+Could not update project type.,Видът на проекта не може да бъде обновен.
+Could not update setting.,Настройката не може да бъде обновена.
+Could not update task dates,Датите на задачата не могат да бъдат обновени
+Could not update task status,Състоянието на задачата не може да бъде обновено
+Could not update the template.,Шаблонът не може да бъде обновен.
+Create a copy of this task,Създаване на копие на тази задача
+Create Contact,Създаване на контакт
+Create Event,Създаване на събитие
+Create Milestone,Създаване на етап
+Create New Milestone,Създаване на нов етап
+Create New Task,Създаване на нова задача
+Create Project,Създаване на проект
+Create Task,Създаване на задача
+Create tasks and milestones from a template,Създаване на задачи и етапи от шаблон
+Create your first project to get started.,Създайте първия си проект за начало.
+Create your first task to start tracking work on this project.,Създайте първата си задача за проследяване на работата по този проект.
+Created,Създадено
+Creating...,Създаване...
+Critical,Критично
+Critical Path,Критичен път
+"Currency used for budgets, costs, and billing rates","Валута за бюджети, разходи и ставки за фактуриране"
+Current,Текущо
+Current Assignments,Текущи назначения
+Current scheduled time:,Текущо планирано време:
+Currently running version,Currently running version
+d lag,д забавяне
+Daily Availability,Дневна наличност
+Daily Hours,Дневни часове
+Danger Zone,Опасна зона
+Dark,Тъмно
+Dashboard,Табло
+Date,Дата
+Date changes on this task will show cascade impact here,Промените на датите на тази задача ще покажат каскадното въздействие тук
+Date cleared,Датата е изчистена
+Date of Joining,Дата на присъединяване
+Date updated,Датата е обновена
+Dates,Дати
+Dates cascaded,Датите са каскадно обновени
+Dates will be relative to the project's start date.,Датите ще бъдат относителни спрямо началната дата на проекта.
+Day,Ден
+day,ден
+days,дни
+Days before due date to send reminder,Дни преди крайния срок за изпращане на напомняне
+Days Overdue,Дни закъснение
+Days Remaining,Оставащи дни
+Deadline,Краен срок
+Deadlines,Крайни срокове
+Decision,Решение
+Decline,Отказване
+Declined,Отказано
+Default Currency,Валута по подразбиране
+Default hours per week for contact capacity planning,Часове по подразбиране на седмица за планиране капацитета на контакти
+Default Priority,Приоритет по подразбиране
+Default Project Status,Състояние на проект по подразбиране
+Default Task Status,Състояние на задача по подразбиране
+Default task view,Изглед на задачи по подразбиране
+Default Values,Стойности по подразбиране
+Default Weekly Capacity,Седмичен капацитет по подразбиране
+Defaults,По подразбиране
+Defect Cost Impact,Финансово въздействие на дефекта
+Defect name is required,Името на дефекта е задължително
+Defect Type,Вид дефект
+Defect {0} not found,Дефект {0} не е намерен
+Defects,Дефекти
+Defects & Issues,Дефекти и проблеми
+Defects Resolved,Отстранени дефекти
+Delayed,Забавено
+Delete,Изтриване
+Delete Activity Data,Изтриване на данни за дейността
+Delete all read notifications?,Изтриване на всички прочетени известия?
+Delete comment,Изтриване на коментар
+Delete Contact,Изтриване на контакт
+Delete Event,Изтриване на събитие
+Delete Event?,Изтриване на събитието?
+Delete failed,Изтриването не успя
+Delete file,Изтриване на файл
+Delete item,Изтриване на елемент
+Delete note,Изтриване на бележка
+Delete Project,Изтриване на проект
+Delete Task,Изтриване на задача
+Delete this project,Изтриване на този проект
+Deleted,Изтрито
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Изтрит проект ""{0}"" ({1} задачи, {2} етапа)"
+Deletes notes and preferences. Source document is not affected.,Изтрива бележки и предпочитания. Изходният документ не е засегнат.
+Deleting...,Изтриване...
+Department,Отдел
+Dependencies,Зависимости
+dependencies,зависимости
+Dependencies are informational only,Зависимостите са само информативни
+dependency,зависимост
+Dependency already exists,Зависимостта вече съществува
+Dependency Chain,Верига на зависимост
+Dependency created,Зависимостта е създадена
+Dependency mode updated,Режимът на зависимост е обновен
+Dependency name is required,Името на зависимостта е задължително
+Dependency task {0} not found,Зависима задача {0} не е намерена
+Dependency {0} not found,Зависимост {0} не е намерена
+depends,зависи
+Depends on Group,Зависи от група
+Depends on task is required,Зависимата задача е задължителна
+depends on...,зависи от...
+Descending -- click to reverse,Низходящо -- щракнете за обратен ред
+Describe the defect in detail...,Опишете дефекта подробно...
+Description,Описание
+Description updated,Описанието е обновено
+Designation,Длъжност
+"Detailed description of the defect, location, and impact","Подробно описание на дефекта, местоположението и въздействието"
+Details,Подробности
+Discard timer,Отхвърляне на хронометъра
+Discussion,Обсъждане
+Dismiss,Dismiss
+Display,Показване
+Document,Документ
+Document attached to project,Документът е прикачен към проекта
+Document final decision and rationale,Документирайте крайното решение и обосновката
+Documentation Review,Преглед на документация
+Documents,Документи
+Done,Готово
+Download,Изтегляне
+Drag to create dependency,Плъзнете за създаване на зависимост
+Dry Run,Пробно изпълнение
+Dry Run Complete,Пробното изпълнение е завършено
+Due Date,Краен срок
+Due date,Краен срок
+Due Date (Earliest),Краен срок (най-ранен)
+Due date cannot be before start date,Крайният срок не може да бъде преди началната дата
+Due date is in the past,Крайният срок е в миналото
+Due Date Reminders,Напомняния за краен срок
+Due Diligence,Надлежна проверка
+Due Diligence Checklist,Контролен списък за надлежна проверка
+Due This Week,С краен срок тази седмица
+Due:,Срок:
+Duplicate events are not allowed,Дублирани събития не са разрешени
+Duplicate failed,Дублирането не успя
+Duplicate Task,Дублиране на задача
+Duration,Продължителност
+Duration Summary,Обобщение на продължителността
+Duration:,Продължителност:
+e.g. Cracked wall finish in bathroom...,напр. напукана мазилка в банята...
+"e.g. Electrical, Plumbing...","напр. електричество, водопровод..."
+Edit,Редактиране
+Edit (E),Редактиране (E)
+Edit dependency,Редактиране на зависимост
+Edit Event,Редактиране на събитие
+Efficiency,Ефективност
+Either dependency_name or depends_on is required,Необходимо е dependency_name или depends_on
+Email,Имейл
+Email invitations to all attendees,Имейл покани до всички участници
+Email is required to create portal user,Имейл адресът е задължителен за създаване на потребител на портала
+Email notifications,Имейл известия
+Employee,Служител
+Employee DocType not available,Типът документ Служител не е наличен
+Employee not found,Служителят не е намерен
+Enable or disable optional features,Включване или изключване на допълнителни функции
+Enable Time Tracking,Включване на проследяване на времето
+End,Край
+End Date,Крайна дата
+End date,Крайна дата
+End Date cannot be before Start Date,Крайната дата не може да бъде преди началната дата
+End date cannot be before start date,Крайната дата не може да бъде преди началната дата
+End date updated,Крайната дата е обновена
+End time was before start time. Adjusted to 1 hour after start.,Крайното време беше преди началното. Коригирано на 1 час след началото.
+End:,Край:
+Enter milestone name...,Въведете име на етапа...
+Enter project name,Въведете име на проекта
+Enter task title...,Въведете заглавие на задачата...
+Enter template name,Въведете име на шаблона
+Enter your note... Use @name to mention someone,Въведете бележката си... Използвайте @име за споменаване
+Error,Грешка
+Error loading activity,Грешка при зареждане на дейността
+Error loading contacts,Грешка при зареждане на контактите
+Error loading dashboard,Грешка при зареждане на таблото
+Error loading project,Грешка при зареждане на проекта
+Error loading projects,Грешка при зареждане на проектите
+Error loading settings,Грешка при зареждане на настройките
+Error loading tasks,Грешка при зареждане на задачите
+Error loading templates,Грешка при зареждане на шаблоните
+Est. Hours,Прогн. часове
+Estimated,Прогнозно
+Estimated Cost,Прогнозна цена
+Estimated Cost (€),Прогнозна цена (€)
+Estimated Hours,Прогнозни часове
+Estimated:,Прогнозно:
+Evaluate potential risks and concerns,Оценете потенциалните рискове и опасения
+Event,Събитие
+Event is required for event context,Събитието е задължително за контекст на събитие
+Event is required when tracking context is 'event',"Събитието е задължително, когато контекстът на проследяване е „събитие""
+Events not available. Please run: bench --site orga.localhost migrate"""
+Event Type,Вид събитие
+Events,Събития
+Events not available. Please run: bench --site orga.localhost migrate,"Събитията не са налични. Моля, стартирайте: bench --site orga.localhost migrate"
+Events:,Събития:
+Expert,Експерт
+Explain why you are proposing a different time...,Обяснете защо предлагате различно време...
+Export,Изнасяне
+Export failed,Изнасянето не успя
+Export JSON,Изнасяне в JSON
+Exported,Изнесено
+Exported to timesheet {0},Изнесено към справка за времето {0}
+External,Външен
+Failed to add item,Добавянето на елемента не успя
+Failed to add note,Добавянето на бележката не успя
+Failed to add skill,Добавянето на умението не успя
+Failed to apply cascade changes: {0},Прилагането на каскадни промени не успя: {0}
+Failed to create defect,Създаването на дефекта не успя
+Failed to create dependency,Създаването на зависимостта не успя
+Failed to create event,Създаването на събитието не успя
+Failed to create milestone,Създаването на етапа не успя
+Failed to create project,Създаването на проекта не успя
+Failed to create task,Създаването на задачата не успя
+Failed to create time log,Създаването на запис за времето не успя
+Failed to delete,Изтриването не успя
+Failed to delete comment,Изтриването на коментара не успя
+Failed to delete contact,Изтриването на контакта не успя
+Failed to load,Зареждането не успя
+Failed to load activity,Зареждането на дейността не успя
+Failed to load assignments,Зареждането на назначенията не успя
+Failed to load contact,Зареждането на контакта не успя
+Failed to load dashboard data,Зареждането на данните на таблото не успя
+Failed to load defects,Зареждането на дефектите не успя
+Failed to load events,Зареждането на събитията не успя
+Failed to load project,Зареждането на проекта не успя
+Failed to load projects,Зареждането на проектите не успя
+Failed to load report data,Зареждането на данните от справката не успя
+Failed to load settings,Зареждането на настройките не успя
+Failed to load tasks,Зареждането на задачите не успя
+Failed to move task,Преместването на задачата не успя
+Failed to post comment,Публикуването на коментара не успя
+Failed to propose new time,Предлагането на ново време не успя
+Failed to remove item,Премахването на елемента не успя
+Failed to remove skill,Премахването на умението не успя
+Failed to reorder milestones: {0},Пренареждането на етапите не успя: {0}
+Failed to reorder tasks: {0},Пренареждането на задачите не успя: {0}
+Failed to reschedule dependent tasks: {0},Препланирането на зависимите задачи не успя: {0}
+Failed to save,Запазването не успя
+Failed to save preferences,Запазването на предпочитанията не успя
+Failed to save settings,Запазването на настройките не успя
+Failed to submit request. Please try again.,Изпращането на заявката не успя. Моля опитайте отново.
+Failed to update item,Обновяването на елемента не успя
+Failed to update priority,Обновяването на приоритета не успя
+Failed to update task,Обновяването на задачата не успя
+Failed to update tasks: {0},Обновяването на задачите не успя: {0}
+Failed to upload avatar,Качването на снимката на профила не успя
+Feature,Функция
+Features,Функции
+FF (Finish-Finish),FF (край-край)
+FF - Finish-to-Finish,FF - край-край
+Field has been updated,Полето е обновено
+Field name is required for 'Set Field Value' action,"Името на полето е задължително за действие „Задаване на стойност на поле""
+Field {0} is not a Link field,Поле {0} не е поле от тип Връзка
+Field {0} not found in {1},Поле {0} не е намерено в {1}
+File,Файл
+File does not belong to this task,Файлът не принадлежи на тази задача
+File name is required,Името на файла е задължително
+File uploaded,Файлът е качен
+File {0} not found,Файл {0} не е намерен
+Files,Файлове
+Filter,Филтър
+Final Decision,Крайно решение
+Finance,Финанси
+Financial,Финансово
+Finish-to-Finish,Край-край
+Finish-to-Start,Край-начало
+Flag,Маркиране
+Flag for attention,Маркиране за внимание
+Flagged,Маркирано
+Follows your system preference. Currently:,Следва системната ви настройка. В момента:
+Focus Panel,Панел за фокус
+Frappe Project {0} not found,Frappe проект {0} не е намерен
+Frappe Projects Migration,Миграция на Frappe Projects
+Frappe Projects module not available,Модулът Frappe Projects не е наличен
+Frappe Projects module not installed,Модулът Frappe Projects не е инсталиран
+Frappe Projects sync is not enabled,Синхронизацията с Frappe Projects не е включена
+Frappe Task DocType not found,Типът документ Frappe задача не е намерен
+Frappe Task has no project,Frappe задачата няма проект
+Frappe Task {0} not found,Frappe задача {0} не е намерена
+Fri,Пет
+From,От
+From Template,От шаблон
+Full form view with audit trail,Пълен изглед на формуляра с одитна следа
+Full name,Пълно име
+Gantt,Gantt
+Gantt Chart,Gantt диаграма
+Gantt View,Gantt изглед
+General Note,Обща бележка
+Get started,Започнете
+Go back,Връщане назад
+Group by,Групиране по
+Group dependency removed,Зависимостта на групата е премахната
+Group dependency set,Зависимостта на групата е зададена
+Group removed,Групата е премахната
+Group updated,Групата е обновена
+Hammock task dates are auto-calculated and cannot be changed manually,Датите на висяща задача се изчисляват автоматично и не могат да бъдат променяни ръчно
+Have a question or need assistance? Fill out the form below and our team will get back to you."""
+Field {0} is not a Link field,Поле {0} не е поле за връзка
+Field {0} not found in {1},Поле {0} не е намерено в {1}
+file,файл
+File,Файл
+File does not belong to this task,Файлът не принадлежи на тази задача
+File name is required,Името на файла е задължително
+File uploaded,Файлът е качен
+File {0} not found,Файл {0} не е намерен
+files,файлове
+Files,Файлове
+Filter,Филтър
+Final Decision,Окончателно решение
+Finance,Финанси
+Financial,Финансови
+Finish-to-Finish,Край-до-Край
+Finish-to-Start,Край-до-Начало
+Flag,Флаг
+Flag for attention,Маркирай за внимание
+Flagged,Маркирано
+Focus Panel,Панел за фокус
+Follows your system preference. Currently:,Следва системните ви предпочитания. В момента:
+Frappe Project {0} not found,Frappe проект {0} не е намерен
+Frappe Projects Migration,Миграция на Frappe Projects
+Frappe Projects module not available,Модулът Frappe Projects не е наличен
+Frappe Projects module not installed,Модулът Frappe Projects не е инсталиран
+Frappe Projects sync is not enabled,Синхронизацията с Frappe Projects не е активирана
+Frappe Task DocType not found,Frappe Task DocType не е намерен
+Frappe Task has no project,Frappe задачата няма проект
+Frappe Task {0} not found,Frappe задача {0} не е намерена
+Fri,Пт
+From,От
+From Template,От шаблон
+FS (Finish-Start),FS (край-начало)
+FS - Finish-to-Start (default),FS - край-начало (по подразбиране)
+Full form view with audit trail,Пълен изглед на формуляра с одитна следа
+Full name,Пълно име
+Gantt,Gantt
+Gantt Chart,Gantt диаграма
+Gantt View,Gantt изглед
+General Note,Обща бележка
+Get started,Започнете
+Go back,Назад
+Go Back,Go Back
+Group by,Групиране по
+Group dependency removed,Групова зависимост премахната
+Group dependency set,Групова зависимост зададена
+Group removed,Групата е премахната
+Group updated,Групата е актуализирана
+Hammock task dates are auto-calculated and cannot be changed manually,Датите на хамак задачите се изчисляват автоматично и не могат да бъдат променяни ръчно
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Имате въпрос или нуждаете се от помощ? Попълнете формуляра по-долу и нашият екип ще се свърже с вас.
+Health,Състояние
+Healthy,Добро
+Hello {0},Здравейте {0}
+Here's what's happening with your projects today.,Ето какво се случва с вашите проекти днес.
+Hide,Скриване
+High,Висок
+History,История
+Home,Начало
+Hourly Cost,Часова цена
+Hours,Часове
+hours,часове
+Hours Logged,Записани часове
+ID,ИД
+Image must be smaller than 5 MB,Изображението трябва да бъде по-малко от 5 MB
+Import,Внасяне
+Import existing projects and tasks from Frappe Projects module,Внасяне на съществуващи проекти и задачи от модула Frappe Projects
+Import failed,Внасянето не успя
+Import Template,Внасяне на шаблон
+Imported,Внесено
+in,в
+In Progress,В процес
+In Review,В преглед
+In-app notifications,Известия в приложението
+Inactive,Неактивен
+Initial Review,Начален преглед
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Недостатъчни права за преглед на всички задачи
+Intermediate,Средно ниво
+Internal,Вътрешен
+Invalid DocType,Невалиден тип документ
+Invalid DocType for import,Невалиден тип документ за внасяне
+Invalid item type: {0},Невалиден вид елемент: {0}
+Invalid JSON data,Невалидни JSON данни
+Invalid note type. Must be one of: {0},Невалиден вид бележка. Трябва да бъде един от: {0}
+Invalid project reference,Невалидна препратка към проект
+Invalid reaction type. Must be one of: {0},Невалиден вид реакция. Трябва да бъде един от: {0}
+Invalid RSVP status,Невалиден RSVP статус
+Invalid status. Must be one of: {0},Невалидно състояние. Трябва да бъде едно от: {0}
+Invalid status: {0},Невалидно състояние: {0}
+Invalid status: {0}. Must be one of: {1},Невалидно състояние: {0}. Трябва да бъде едно от: {1}
+Invalid tracking context: {0},Невалиден контекст на проследяване: {0}
+Invalid visibility. Must be one of: {0},Невалидна видимост. Трябва да бъде една от: {0}
+Invitation: {0} - {1} at {2},Покана: {0} - {1} в {2}
+Invite People,Поканване на хора
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Елементът е добавен
+Item ID is required,ИД на елемента е задължителен
+Item removed,Елементът е премахнат
+Item type is required,Видът на елемента е задължителен
+Item {0} not found,Елемент {0} не е намерен
+Job title or role,Длъжност или роля
+Join Meeting,Присъединяване към среща
+Just now,Точно сега
+just now,точно сега
+Kanban,Kanban
+Kanban Board,Kanban табло
+Kanban View,Kanban изглед
+Keyboard Shortcuts,Клавишни комбинации
+Keyboard shortcuts (?),Клавишни комбинации (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Последно обновено
+Last updated:,Последно обновено:
+Last Week,Миналата седмица
+Latest Version,Latest Version
+Light,Светло
+Link failed,Свързването не успя
+Link Task,Свързване на задача
+Linked,Свързано
+Linked employee not found,Свързаният служител не е намерен
+Linked Tasks,Свързани задачи
+List,Списък
+List View,Изглед списък
+Load failed,Зареждането не успя
+Load More,Зареждане на още
+Load more comments,Зареждане на повече коментари
+Loading activity...,Зареждане на дейността...
+Loading changes...,Зареждане на промените...
+Loading checklist...,Зареждане на контролния списък...
+Loading comments...,Зареждане на коментарите...
+Loading contact...,Зареждане на контакта...
+Loading contacts...,Зареждане на контактите...
+Loading dependencies...,Зареждане на зависимостите...
+Loading details...,Зареждане на подробностите...
+Loading discussion...,Зареждане на обсъждането...
+Loading events...,Зареждане на събитията...
+Loading files...,Зареждане на файловете...
+Loading notes...,Зареждане на бележките...
+Loading preferences...,Зареждане на предпочитанията...
+Loading project...,Зареждане на проекта...
+Loading projects...,Зареждане на проектите...
+Loading replies...,Зареждане на отговорите...
+Loading report data...,Зареждане на данните от справката...
+Loading settings...,Зареждане на настройките...
+Loading task...,Зареждане на задачата...
+Loading templates...,Зареждане на шаблоните...
+Loading time logs...,Зареждане на записите за времето...
+Loading your portal...,Зареждане на вашия портал...
+Loading...,Зареждане...
+Location,Местоположение
+Log Time,Записване на време
+Logout,Излизане
+Low,Нисък
+Make Offer,Подготвяне на оферта
+Manager,Ръководител
+Manual Entry,Ръчен запис
+Margin,Марж
+Mark all as read,Маркиране на всички като прочетени
+Mark all read,Маркиране на всички като прочетени
+Mark as read,Маркиране като прочетено
+Mark as unread,Маркиране като непрочетено
+Mark read,Маркиране като прочетено
+Marking...,Маркиране...
+Material,Материал
+Maybe,Може би
+Medium,Среден
+Meeting,Среща
+Meeting Link,Връзка за среща
+Meeting title,Заглавие на срещата
+Meeting URL,URL на срещата
+Meetings,Срещи
+Mention,Споменаване
+Message,Съобщение
+Message is required,Съобщението е задължително
+Message is required for '{0}' action,"Съобщението е задължително за действие „{0}""
+Migrate,Мигриране
+Migration Complete,Миграцията е завършена
+Migration ID:,ИД на миграция:
+Migration log not found: {0},Дневникът на миграцията не е намерен: {0}
+Milestone,Етап
+Milestone ID is required,ИД на етапа е задължителен
+Milestone Name,Име на етап
+Milestone created,Етапът е създаден
+Milestone description has been saved.,Описанието на етапа е запазено.
+Milestone marked as Missed (past due date),Етапът е маркиран като пропуснат (изтекъл краен срок)
+Milestone moved,Етапът е преместен
+Milestone name has been saved.,Името на етапа е запазено.
+Milestone name is required,Името на етапа е задължително
+Milestone updated,Етапът е обновен
+Milestone {0} not found,Етап {0} не е намерен
+Milestone {0} not in project {1},Етап {0} не е в проект {1}
+Milestones,Етапи
+Milestones:,Етапи:
+Minutes,Минути
+Missed,Пропуснат
+Mixed,Смесено
+Mobile,Мобилно
+Moderate,Умерено
+Modify details"
+Migrate,Мигриране
+Migration Complete,Миграцията е завършена
+Migration ID:,ID на миграция:
+Migration log not found: {0},Журнал на миграцията не е намерен: {0}
+milestone,етап
+Milestone,Етап
+Milestone created,Етапът е създаден
+Milestone description has been saved.,Описанието на етапа е запазено.
+Milestone ID is required,ID на етапа е задължителен
+Milestone marked as Missed (past due date),Етапът е маркиран като пропуснат (изтекъл краен срок)
+Milestone moved,Етапът е преместен
+Milestone Name,Име на етапа
+Milestone name has been saved.,Името на етапа е запазено.
+Milestone name is required,Името на етапа е задължително
+Milestone updated,Етапът е актуализиран
+Milestone {0} not found,Етап {0} не е намерен
+Milestone {0} not in project {1},Етап {0} не е в проект {1}
+milestones,етапи
+Milestones,Етапи
+Milestones:,Етапи:
+Minutes,Минути
+Missed,Пропуснат
+Mixed,Смесен
+Mobile,Мобилен
+Moderate,Умерен
+Modified,Променено
+"Modify details, time, or attendees","Промяна на детайли, час или присъстващи"
+Mon,Пон
+Month,Месец
+Move failed,Преместването не успя
+Must be a positive number,Трябва да бъде положително число
+Must finish before this finishes,Трябва да завърши преди края на това
+Must finish before this starts,Трябва да завърши преди началото на това
+Must start before this finishes,Трябва да започне преди края на това
+Must start before this starts,Трябва да започне преди началото на това
+My Assignments,Моите назначения
+My Projects,Моите проекти
+My Schedule,Моят график
+My Tasks,Моите задачи
+N/A,Н/П
+Name,Име
+Name (A-Z),Име (А-Я)
+Name (Z-A),Име (Я-А)
+Name cannot exceed 255 characters,Името не може да надвишава 255 символа
+Need help?,Нуждаете се от помощ?
+Needs Attention,Изисква внимание
+Never,Never
+new activities,нови дейности
+New Activity,Нова дейност
+New activity,Нова дейност
+New Event,Ново събитие
+New index is required,Новият индекс е задължителен
+New Project,Нов проект
+New tasks will auto-trail by default.,Новите задачи ще имат автоматично плъзгащо начало по подразбиране.
+Newest First,Най-новите първо
+Next,Напред
+Next 14 days,Следващите 14 дни
+Next 30 days,Следващите 30 дни
+Next 60 days,Следващите 60 дни
+Next 7 days,Следващите 7 дни
+Next 90 days,Следващите 90 дни
+Next Week,Следващата седмица
+Next:,Следващо:
+No,Не
+No active assignments,Няма активни назначения
+No active projects,Няма активни проекти
+No active timer found,Няма намерен активен хронометър
+No activity selected,Няма избрана дейност
+No assignments found,Няма намерени назначения
+No attendees,Няма участници
+no change,без промяна
+No changes for this field.,Няма промени за това поле.
+No changes recorded for this activity.,Няма записани промени за тази дейност.
+No checklist items yet,Все още няма елементи в контролния списък
+No checklist items yet.,Все още няма елементи в контролния списък.
+No comments yet,Все още няма коментари
+No comments yet.,Все още няма коментари.
+No contacts available,Няма налични контакти
+No content for this tab,Няма съдържание за този раздел
+No data available,Няма налични данни
+No data available for the selected filters,Няма налични данни за избраните филтри
+No data to export,Няма данни за изнасяне
+No dates set,Не са зададени дати
+No defects reported,Няма докладвани дефекти
+No dependencies defined,Няма определени зависимости
+No description,Няма описание
+No discussion yet.,Все още няма обсъждане.
+No documents attached,Няма прикачени документи
+No due date,Няма краен срок
+No employee linked to this resource,Няма свързан служител с този ресурс
+No ERPNext employee linked to resource,Няма свързан ERPNext служител с ресурса
+No events found,Няма намерени събития
+No files attached yet.,Все още няма прикачени файлове.
+No Frappe Project linked,Няма свързан Frappe проект
+No Grouping,Без групиране
+No items,Няма елементи
+No matching tasks,Няма съвпадащи задачи
+No matching tasks found,Няма намерени съвпадащи задачи
+No migration history,Няма история на миграцията
+No Milestone,Без етап
+No milestones,Няма етапи
+No milestones defined for this project.,Няма определени етапи за този проект.
+No notes yet.,Все още няма бележки.
+No notes yet. Add a due diligence note to track progress.,Все още няма бележки. Добавете бележка за надлежна проверка за проследяване на напредъка.
+No notifications,Няма известия
+No Orga Project linked to Frappe Project {0},Няма Orga проект свързан с Frappe проект {0}
+No overdue tasks,Няма закъснели задачи
+No pending cascade changes,Няма чакащи каскадни промени
+No predecessors - this task can start independently,Няма предшественици — тази задача може да започне самостоятелно
+No project,Няма проект
+No projects found,Няма намерени проекти
+No Projects Yet,Все още няма проекти
+No recent activity,Няма скорошна дейност
+No related documents,Няма свързани документи
+No resolved threads.,Няма разрешени нишки.
+No resources found,Няма намерени ресурси
+No results found,Няма намерени резултати
+No skills listed,Няма изброени умения
+No skills recorded yet,Все още няма записани умения
+No successors - no tasks are waiting for this one,Няма наследници — никоя задача не чака тази
+No task selected,Няма избрана задача
+No tasks assigned to you,Няма задачи назначени на вас
+No tasks available to add,Няма налични задачи за добавяне
+No tasks found,Няма намерени задачи
+No tasks linked to this milestone,Няма задачи свързани с този етап
+No tasks with dates to display,Няма задачи с дати за показване
+No tasks yet,Все още няма задачи
+No team members,Няма членове на екипа
+No template,Няма шаблон
+No templates yet,Все още няма шаблони
+No time data found,Няма намерени данни за времето
+No time logged today,Днес не е записано време
+No time logged yet,Все още не е записано време
+No time logs for this period,Няма записи за времето за този период
+No time logs found,Няма намерени записи за времето
+No unread notifications,Няма непрочетени известия
+No update information available yet.,No update information available yet.
+None,Нищо
+Not found,Не е намерено
+Not permitted,Не е разрешено
+Not permitted to access this project,Достъпът до този проект не е разрешен
+Not permitted to access this task,Достъпът до тази задача не е разрешен
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Коментирането на този документ не е разрешено
+Not permitted to create clients,Създаването на клиенти не е разрешено
+Not permitted to delete this client,Изтриването на този клиент не е разрешено
+Not permitted to delete this defect,Изтриването на този дефект не е разрешено
+Not permitted to delete this note,Изтриването на тази бележка не е разрешено
+Not permitted to delete this project,Изтриването на този проект не е разрешено
+Not permitted to delete this task,Изтриването на тази задача не е разрешено
+Not permitted to delete this time log,Изтриването на този запис за времето не е разрешено
+Not permitted to invite clients,Поканването на клиенти не е разрешено
+Not permitted to modify client access,Промяната на достъпа на клиента не е разрешена
+Not permitted to modify this project,Промяната на този проект не е разрешена
+Not permitted to update settings,Обновяването на настройките не е разрешено
+Not permitted to update this client,Обновяването на този клиент не е разрешено
+Not permitted to view this client,Прегледът на този клиент не е разрешен
+not sent,не е изпратено
+Not set,Не е зададено
+Not specified,Не е посочено
+Note,Бележка
+Note (optional),Бележка (по желание)
+Note Content,Съдържание на бележката
+Note content is required,Съдържанието на бележката е задължително
+Note name is required,Името на бележката е задължително
+Note not found,Бележката не е намерена
+Note Type,Вид бележка
+Notes,Бележки
+Notification,Известие
+Notification not found,Известието не е намерено
+Notifications,Известия
+Off Track,Извън плана
+Offer,Оферта
+Offer Prepared,Офертата е подготвена
+Oldest First,Най-старите първо
+On Hold,В изчакване
+On Leave,В отпуск
+On Track,По план
+On-Time Rate,Процент на навременност
+Only administrators can delete activities,Само администраторите могат да изтриват дейности
+Only the comment author or administrators can delete comments,Само авторът на коментара или администраторите могат да изтриват коментари
+Only you and admins,Само вие и администраторите
+Open,Отворено
+Open in Desk,Отваряне в Desk
+Open Task Log,Отваряне на дневника на задачата
+Open Tasks,Отворени задачи
+Optional,По желание
+optional,по желание
+Or email us directly at,Или ни пишете директно на
+Orga Project {0} from Frappe Projects,Orga проект {0} от Frappe Projects
+Orga Task {0} from Frappe,Orga задача {0} от Frappe
+Organizer,Организатор
+Other,Друго
+Over Budget,Надхвърлен бюджет
+Overall Progress,Общ напредък
+Overall Utilization,Обща натовареност
+Overallocated,Прекомерно разпределено
+Overdue,Закъсняло
+overdue,закъсняло
+Overdue Tasks,Закъснели задачи
+Overview,Преглед
+Owner,Собственик
+Page Not Found,Страницата не е намерена
+Parent,Родител
+Parent comment must belong to the same document,Родителският коментар трябва да принадлежи на същия документ
+Parent comment not found,Родителският коментар не е намерен
+Parent project not synced to Frappe yet,Родителският проект все още не е синхронизиран с Frappe
+Parent project sync not enabled,Синхронизацията на родителския проект не е включена
+Partner,Партньор
+Pending,В очакване
+per page,на страница
+Perform initial assessment and background check,Извършете начална оценка и проверка на миналото
+Permanently remove this event,Окончателно премахване на това събитие
+Permanently remove this task,Окончателно премахване на тази задача
+Phone,Телефон
+Pin,Закачане
+Pin Activity,Закачане на дейност
+Pin to top,Закачане отгоре
+Pinned,Закачено
+Planned budget for this task,Планиран бюджет за тази задача
+Planning,Планиране
+Please describe your question or issue in detail...,Моля опишете подробно вашия въпрос или проблем...
+Please login to access Orga,Моля влезте за достъп до Orga
+Please login to access the client portal,Моля влезте за достъп до клиентския портал
+Please respond to this invitation in Orga,Моля отговорете на тази покана в Orga
+Please select an image file,Моля изберете файл с изображение
+Please try again,Моля опитайте отново
+Please type,Моля въведете
+Portal,Портал
+Portal access revoked for {0},Достъпът до портала е отнет за {0}
+Portal user created successfully. Welcome email {0},Потребителят на портала е създаден успешно. Поздравителен имейл {0}
+Post,Публикуване
+Powered by,Разработено от
+Powered by Tonic,Разработено от Tonic
+Predecessors (Blocked By),Предшественици (блокирано от)
+Preferences,Предпочитания
+Preferences saved successfully,Предпочитанията са запазени успешно
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Префикс за автоматично генерирани кодове на проекти (напр. ORG-2026-0001)
+Prepare and document offer terms,Подгответе и документирайте условията на офертата
+Press,Натиснете
+Preview,Преглед
+Preview cascade before applying,Преглед на каскадата преди прилагане
+Previous,Предишно
+Priority,Приоритет
+Priority assigned to new tasks,Приоритет назначен на нови задачи
+Priority updated,Приоритетът е обновен
+Proficiency,Квалификация
+Profile,Профил
+Progress,Напредък
+Progress (High-Low),Напредък (низходящо)
+Progress (Low-High),Напредък (възходящо)
+Progress Overview,Преглед на напредъка
+Progress updated,Напредъкът е обновен
+Project,Проект
+Project budget has been saved.,Бюджетът на проекта е запазен.
+Project code (e.g. ORG-2026-0001),Код на проекта (напр. ORG-2026-0001)
+Project Code Prefix,Префикс на кода на проекта
+Project created,Проектът е създаден
+Project deleted,Проектът е изтрит
+Project description has been saved.,Описанието на проекта е запазено.
+Project Details,Подробности за проекта
+Project end date has been saved.,Крайната дата на проекта е запазена.
+Project Files,Файлове на проекта
+Project has no linked client,Проектът няма свързан клиент
+Project Health,Състояние на проекта
+Project Info,Информация за проекта
+Project is required,Проектът е задължителен
+Project is required for project context,Проектът е задължителен за контекст на проект
+Project is required when tracking context is 'project',"Проектът е задължителен, когато контекстът на проследяване е „проект""
+Project name and template name are required,Името на проекта и името на шаблона са задължителни
+Project name is required,Името на проекта е задължително
+Project not found,Проектът не е намерен
+Project not found or you do not have access,Проектът не е намерен или нямате достъп
+Project settings,Настройки на проекта
+Project start date has been saved.,Началната дата на проекта е запазена.
+Project title has been saved.,Заглавието на проекта е запазено.
+Project updated,Проектът е обновен
+Project {0} linked to client {1},Проект {0} е свързан с клиент {1}
+Project {0} not found,Проект {0} не е намерен
+Project {0} to Frappe Projects,Проект {0} към Frappe Projects
+Project:,Проект:
+Projects,Проекти
+Projects Overview,Преглед на проектите
+Projects created:,Създадени проекти:
+Projects skipped:,Пропуснати проекти:
+Projects updated:,Обновени проекти:
+Promote failed,Повишаването не успя
+Promote to task,Повишаване в задача
+Promoted to task,Повишено в задача
+Propose,Предлагане
+Propose New Time,Предлагане на ново време
+Propose Time,Предлагане на време
+Proposed End,Предложен край
+Proposed Start,Предложено начало
+Public,Публично
+Quick Action,Бързо действие
+Quick Actions,Бързи действия
+Quick Stats,Бърза статистика
+RSVP,RSVP
+Rates,Ставки
+Receive notifications via email,Получаване на известия по имейл
+Receive notifications within the application,Получаване на известия в приложението
+Recipient {0} is not a valid user,Получател {0} не е валиден потребител
+Recent Activity,Скорошна дейност
+Reference,Препратка
+Refresh,Опресняване
+Related,Свързано
+Related Company (optional),Свързана фирма (по желание)
+Related Documents,Свързани документи
+Related Project,Свързан проект
+Remaining,Оставащо
+Reminder,Напомняне
+Reminder Lead Time"""
+Project Manager,Ръководител на проект
+Project Name,Име на проект
+Project name and template name are required,Името на проекта и името на шаблона са задължителни
+Project name is required,Името на проекта е задължително
+Project not found,Проектът не е намерен
+Project not found or you do not have access,Проектът не е намерен или нямате достъп
+Project settings,Настройки на проекта
+Project start date has been saved.,Началната дата на проекта е запазена.
+Project title has been saved.,Заглавието на проекта е запазено.
+Project Type,Вид проект
+Project updated,Проектът е актуализиран
+Project {0} linked to client {1},Проект {0} е свързан с клиент {1}
+Project {0} not found,Проект {0} не е намерен
+Project {0} to Frappe Projects,Проект {0} към Frappe Projects
+Project:,Проект:
+projects,проекти
+Projects,Проекти
+Projects created:,Създадени проекти:
+Projects Overview,Преглед на проекти
+Projects skipped:,Пропуснати проекти:
+Projects updated:,Актуализирани проекти:
+Promote failed,Повишаването е неуспешно
+Promote to task,Повиши в задача
+Promoted to task,Повишено в задача
+Propose,Предложи
+Propose New Time,Предложи ново време
+Propose Time,Предложи време
+Proposed End,Предложен край
+Proposed Start,Предложено начало
+Public,Публичен
+Quick Action,Бързо действие
+Quick Actions,Бързи действия
+Quick Stats,Бърза статистика
+Rates,Тарифи
+Receive notifications via email,Получавайте известия по имейл
+Receive notifications within the application,Получавайте известия в приложението
+Recent Activity,Скорошна активност
+Recipient {0} is not a valid user,Получател {0} не е валиден потребител
+Reference,Справка
+Refresh,Обновяване
+Related,Свързани
+Related Company (optional),Свързана компания (по избор)
+Related Documents,Свързани документи
+Related Project,Свързан проект
+Remaining,Оставащ
+Reminder,Напомняне
+Reminder Lead Time,Предварително време за напомняне
+Reminder: {0} - {1} at {2},Напомняне: {0} - {1} в {2}
+Remove,Премахване
+Remove dependency,Премахване на зависимост
+Remove dependency on,Премахване на зависимост от
+Remove from group,Премахване от група
+Remove group dependency,Премахване на зависимост на група
+Remove skill,Премахване на умение
+Reopen,Повторно отваряне
+Reopen thread,Повторно отваряне на нишка
+reopened,повторно отворено
+replies,отговори
+Reply,Отговор
+reply,отговор
+Replying to,Отговор на
+Replying to comment,Отговор на коментар
+Report Defect,Докладване на дефект
+Reported Date,Дата на докладване
+Reports,Справки
+Reports To,Докладва на
+Request Submitted!,Заявката е изпратена!
+Required,Задължително
+required,задължително
+Research,Проучване
+Reset to Defaults,Възстановяване по подразбиране
+Resolve,Разрешаване
+Resolve thread,Разрешаване на нишка
+Resolved,Разрешено
+Resolved date cannot be before reported date,Датата на разрешаване не може да бъде преди датата на докладване
+Resource,Ресурс
+Resource and skill name are required,Ресурсът и името на умението са задължителни
+Resource is already an attendee,Ресурсът вече е участник
+Resource name is required,Името на ресурса е задължително
+Resource not found,Ресурсът не е намерен
+Resource synced from employee {0},Ресурсът е синхронизиран от служител {0}
+Resource {0} is already assigned to this task ({1}),Ресурс {0} вече е назначен на тази задача ({1})
+Resource {0} not found,Ресурс {0} не е намерен
+Resources,Ресурси
+Retry,Повторен опит
+Review,Преглед
+Review all relevant documents and contracts,Прегледайте всички съответни документи и договори
+Reviews,Прегледи
+Risk Assessment,Оценка на риска
+Rollback,Отмяна
+Rolled back,Отменено
+Room or address,Стая или адрес
+RSVP,RSVP
+Safety,Безопасност
+Sat,Съб
+Save,Запазване
+"Save a project as a template, or import one from a JSON file.",Запазете проект като шаблон или внесете от JSON файл.
+Save as Template,Запазване като шаблон
+Save Changes,Запазване на промените
+Save failed,Запазването не успя
+Save Preferences,Запазване на предпочитанията
+Save Template,Запазване на шаблон
+Saving...,Запазване...
+Schedule,График
+Schedule type is required for scheduled triggers,Видът на графика е задължителен за планирани задействания
+Scheduled,Планирано
+Search,Търсене
+"Search by name, email, or skill...","Търсене по име, имейл или умение..."
+Search for a project...,Търсене на проект...
+Search for a task...,Търсене на задача...
+Search for an event...,Търсене на събитие...
+Search for people to invite...,Търсене на хора за поканване...
+Search tasks to link...,Търсене на задачи за свързване...
+Search tasks...,Търсене на задачи...
+Search...,Търсене...
+Searching...,Търсене...
+Seen,Видяно
+Select a project if your request is related to a specific project.,"Изберете проект, ако заявката ви е свързана с определен проект."
+Select a project...,Изберете проект...
+Select a task from the Gantt chart to view and manage its details.,Изберете задача от Gantt диаграмата за преглед и управление на подробностите.
+Select a task from the list or Kanban board to view and manage its details.,Изберете задача от списъка или Kanban таблото за преглед и управление на подробностите.
+Select a template...,Изберете шаблон...
+Select priority...,Изберете приоритет...
+Select status...,Изберете състояние...
+Select task...,Изберете задача...
+Select type...,Изберете вид...
+Selection,Избор
+Send,Изпращане
+Send comment,Изпращане на коментар
+Send email invitations to attendees,Изпращане на имейл покани до участниците
+Send Invitations,Изпращане на покани
+Send notification when a task is assigned to a user,Изпращане на известие при назначаване на задача на потребител
+Send notification when task status changes,Изпращане на известие при промяна на състоянието на задача
+Send reminder before task due date,Изпращане на напомняне преди крайния срок на задачата
+sent,изпратено
+Set rate,Задаване на ставка
+Settings,Настройки
+Settings saved successfully,Настройките са запазени успешно
+Severity,Тежест
+SF (Start-Finish),SF (начало-край)
+SF - Start-to-Finish,SF - начало-край
+Show,Показване
+Show all,Показване на всички
+Show all changes,Показване на всички промени
+Show Archived,Показване на архивираните
+Show full diff,Показване на пълната разлика
+Show less,Показване на по-малко
+Show more,Показване на повече
+Skill added,Умението е добавено
+Skill is required,Умението е задължително
+Skill Name,Име на умение
+Skill removed,Умението е премахнато
+Skill {0} already exists for this resource,Умение {0} вече съществува за този ресурс
+Skills,Умения
+Skills & Competencies,Умения и компетентности
+Skip already migrated projects,Пропускане на вече мигрирани проекти
+Sort by,Сортиране по
+Sort: Due Date,Сортиране: краен срок
+Sort: Priority,Сортиране: приоритет
+Sort: Project,Сортиране: проект
+Sort: Status,Сортиране: състояние
+Sort: Task,Сортиране: задача
+Source Code,Изходен код
+Spent,Изразходвано
+Spent:,Изразходвано:
+SS (Start-Start),SS (начало-начало)
+SS - Start-to-Start,SS - начало-начало
+Standalone,Самостоятелно
+Start,Начало
+Start a discussion below,Започнете обсъждане по-долу
+Start Date,Начална дата
+Start date,Начална дата
+Start Date (Earliest),Начална дата (най-ранна)
+Start date updated,Началната дата е обновена
+Start date/time is required,Началната дата/час е задължителна
+Start Migration,Начало на миграцията
+Start the conversation below.,Започнете разговора по-долу.
+Start Timer,Стартиране на хронометъра
+Start typing to search...,Започнете да пишете за търсене...
+Start-to-Finish,Начало-край
+Start-to-Start,Начало-начало
+Start:,Начало:
+Statistics reset,Статистиката е нулирана
+Status,Състояние
+Status assigned to new projects,Състояние назначено на нови проекти
+Status assigned to new tasks,Състояние назначено на нови задачи
+Status Changes,Промени на състоянието
+Status updated,Състоянието е обновено
+Status:,Състояние:
+Stop,Спиране
+Stop & Save,Спиране и запазване
+Stop Timer,Спиране на хронометъра
+Stops current timer and starts for this event,Спира текущия хронометър и стартира за това събитие
+Stops current timer and starts for this task,Спира текущия хронометър и стартира за тази задача
+Subject,Тема
+Subject cannot exceed 255 characters,Темата не може да надвишава 255 символа
+Subject is required,Темата е задължителна
+Submit,Изпращане
+Submit Another Request,Изпращане на нова заявка
+Submit Request,Изпращане на заявка
+Submitting...,Изпращане...
+Successfully saved,Запазено успешно
+Successors (Blocking),Наследници (блокиращи)
+Sun,Нед
+Supplier,Доставчик
+Support,Поддръжка
+Switch to this event,Превключване към това събитие
+Switch to this task,Превключване към тази задача
+Sync direction is set to Frappe to Orga only,Посоката на синхронизация е зададена само от Frappe към Orga
+Sync direction is set to Orga to Frappe only,Посоката на синхронизация е зададена само от Orga към Frappe
+Sync not enabled for this project,Синхронизацията не е включена за този проект
+System,Система
+Table,Таблица
+Take ownership of this task,Поемане на тази задача
+Target Date,Целева дата
+Target End,Целеви край
+Target Project,Целеви проект
+Target user is required for '{0}' action,"Целевият потребител е задължителен за действие „{0}""
+Task,Задача
+Task '{0}' is due on {1}."""
+task,задача
+Task,Задача
+Task '{0}' is due on {1}.,Задача '{0}' е с краен срок {1}.
+Task and resource are required,Задачата и ресурсът са задължителни
+Task Assignment,Назначаване на задача
+Task cannot be its own parent,Задачата не може да бъде собствен родител
+Task cannot depend on itself,Задачата не може да зависи от себе си
+Task cannot depend on the group it belongs to,Задачата не може да зависи от групата
+Task created,Задачата е създадена
+Task deleted,Задачата е изтрита
+Task description has been saved.,Описанието на задачата е запазено.
+Task Details,Подробности за задачата
+Task due in {0} days: {1},Задача с краен срок след {0} дни: {1}
+Task due today: {0},Задача с краен срок днес: {0}
+Task due tomorrow: {0},Задача с краен срок утре: {0}
+Task duplicated,Задачата е дублирана
+Task Group,Група задачи
+Task ID is required,ИД на задачата е задължителен
+Task is blocked by incomplete dependencies,Задачата е блокирана от незавършени зависимости
+Task is cancelled,Задачата е отменена
+Task is completed,Задачата е завършена
+Task is no longer blocked by a group,Задачата вече не е блокирана от група
+Task is required for task context,Задачата е задължителна за контекст на задача
+Task is required when tracking context is 'task',"Задачата е задължителна, когато контекстът на проследяване е „задача""
+Task linked,Задачата е свързана
+Task moved,Задачата е преместена
+Task name,Име на задача
+Task name is required,Името на задачата е задължително
+Task removed from group,Задачата е премахната от групата
+Task subject is required,Темата на задачата е задължителна
+Task unblocked: {0},Задачата е деблокирана: {0}
+Task unlinked,Задачата е разкачена
+Task updated,Задачата е обновена
+Task {0} not found,Задача {0} не е намерена
+Task {0} not in project {1},Задача {0} не е в проект {1}
+Task {0} to Frappe,Задача {0} към Frappe
+Tasks and milestones will be created with dates relative to the project start date."""
+Task linked,Задачата е свързана
+Task moved,Задачата е преместена
+Task name,Име на задача
+Task name is required,Името на задачата е задължително
+Task removed from group,Задачата е премахната от групата
+Task Subject,Тема на задачата
+Task subject is required,Темата на задачата е задължителна
+Task Type,Вид задача
+Task unblocked: {0},Задачата е отблокирана: {0}
+Task unlinked,Задачата е разкачена
+Task updated,Задачата е актуализирана
+Task {0} not found,Задача {0} не е намерена
+Task {0} not in project {1},Задача {0} не е в проект {1}
+Task {0} to Frappe,Задача {0} към Frappe
+Tasks,Задачи
+tasks,задачи
+Tasks and milestones will be created with dates relative to the project start date.,Задачите и етапите ще бъдат създадени с дати спрямо началната дата на проекта.
+Tasks assigned to you across all projects.,Задачи назначени на вас от всички проекти.
+Tasks created:,Създадени задачи:
+Tasks from projects you manage.,Задачи от проекти
+Tasks updated:,Обновени задачи:
+"Tasks, milestones, and dependencies have been created.","Задачите, етапите и зависимостите са създадени."
+Tasks:,Задачи:
+TBD,Предстои уточняване
+Team,Екип
+Team Members,Членове на екипа
+Template,Шаблон
+Template applied,Шаблонът е приложен
+Template data is required in import data,Данните на шаблона са задължителни в данните за внасяне
+Template has no data,Шаблонът няма данни
+Template Name,Име на шаблон
+Template name,Име на шаблон
+Template name is required,Името на шаблона е задължително
+Template name is required in import data,Името на шаблона е задължително в данните за внасяне
+Template saved,Шаблонът е запазен
+Template updated successfully.,Шаблонът е обновен успешно.
+Template {0} not found,Шаблон {0} не е намерен
+Templates,Шаблони
+Tentative,Ориентировъчно
+The comment has been deleted,Коментарът е изтрит
+The project,Проектът
+The source document may have been deleted.,Изходният документ може да е бил изтрит.
+The source document will not be affected.,Изходният документ няма да бъде засегнат.
+The status of '{0}' was changed from {1} to {2}.,"Състоянието на „{0} е променено от {1} на {2}."""
+Theme,Тема
+Theme preference,Предпочитание за тема
+This action,Това действие
+This action cannot be undone.,Това действие не може да бъде отменено.
+This activity has been flagged for attention,Тази дейност е маркирана за внимание
+This is a reminder for your upcoming appointment,Това е напомняне за предстоящата ви среща
+This method is only meant for developer mode,Този метод е предназначен само за режим за разработчици
+This page wandered off,This page wandered off
+This Week,Тази седмица
+This will delete all notes and preferences associated with this activity.,Това ще изтрие всички бележки и предпочитания свързани с тази дейност.
+This will import all Frappe Projects into Orga. Continue?,Това ще внесе всички Frappe проекти в Orga. Продължавате ли?
+This will permanently delete,Това ще изтрие окончателно
+This will permanently delete:,Това ще изтрие окончателно:
+Thu,Чет
+Time,Време
+Time & Billing,Време и фактуриране
+Time & Revenue,Време и приходи
+Time Entries,Записи за времето
+Time log name is required,Името на записа за времето е задължително
+Time Log not found,Записът за времето не е намерен
+Time log {0} not found,Запис за времето {0} не е намерен
+Time Logs,Записи за времето
+Time Summary,Обобщение на времето
+Time Tracking,Проследяване на времето
+Timeline,Хронология
+Timer active on,Хронометърът е активен на
+Timer is not running,Хронометърът не работи
+Timer Running,Хронометърът работи
+Timer running,Хронометърът работи
+Timesheet DocType not available,Типът документ Справка за времето не е наличен
+Timesheets,Справки за времето
+Timezone,Часова зона
+Timezone is detected from your browser,Часовата зона е определена от вашия браузър
+Title,Заглавие
+Title cannot exceed 255 characters,Заглавието не може да надвишава 255 символа
+Title is required,Заглавието е задължително
+Title updated,Заглавието е обновено
+To,До
+to,до
+to cancel,за отмяна
+to close,за затваряне
+to confirm:,за потвърждаване:
+to edit,за редактиране
+"to save,","за запазване,"
+To Time cannot be before From Time,Крайното време не може да бъде преди началното
+Today,Днес
+today,днес
+Toggle billable,Превключване на фактуриране
+Toggle Details Panel,Показване/скриване на панела с подробности
+Toggle Manager Panel,Показване/скриване на панела на ръководителя
+Toggle Sidebar,Показване/скриване на страничната лента
+Tomorrow,Утре
+tomorrow,утре
+Total,Общо
+Total Budget,Общ бюджет
+Total Contacts,Общо контакти
+Total Cost,Обща цена
+Total Cost to Org,Обща цена за организацията
+Total Defect Cost,Обща цена на дефектите
+Total Hours,Общо часове
+Total Hours Logged,Общо записани часове
+Total Projects,Общо проекти
+Total Spent,Общо изразходвано
+Total Tasks,Общо задачи
+Total:,Общо:
+Tracked,Проследено
+trails to today while Open at 0%,"плъзга се до днес, докато е отворено на 0%"
+Tried:,Tried:
+Try adjusting your filter criteria,Опитайте да промените критериите на филтъра
+Try adjusting your filters.,Опитайте да промените филтрите си.
+Try Again,Опитайте отново
+Tue,Вто
+Type,Вид
+Type updated,Видът е обновен
+Type:,Вид:
+Typical response time: 1-2 business days,Обичайно време за отговор: 1–2 работни дни
+Unarchive,Разархивиране
+Unarchive Activity,Разархивиране на дейност
+Unassign,Отмяна на назначение
+Unassigned,Неназначено
+Under Budget,Под бюджета
+Ungrouped,Негрупирано
+Unknown,Неизвестно
+Unknown error,Неизвестна грешка
+Unlink failed,Разкачването не успя
+Unlink task from milestone,Разкачване на задача от етап
+Unpin,Откачване
+Unpin Activity,Откачване на дейност
+Unread,Непрочетено
+Unread only,Само непрочетени
+Until,До
+Up to Date,Up to Date
+Upcoming,Предстоящо
+upcoming,предстоящо
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Обновяването не успя
+Updated,Обновено
+Updated successfully,Обновено успешно
+Updates,Updates
+Upload,Качване
+Upload failed,Качването не успя
+Upload files below to attach them to this task.,Качете файлове по-долу за прикачване към тази задача.
+Upload to project,Качване в проект
+Uploading...,Качване...
+Urgent,Спешно
+User {0} is already linked to client {1},Потребител {0} вече е свързан с клиент {1}
+User {0} is already linked to resource {1},Потребител {0} вече е свързан с ресурс {1}
+Utilization,Натовареност
+Valid,Валидно
+Value:,Стойност:
+Variance,Отклонение
+Variance:,Отклонение:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Преглед
+View All,Преглед на всички
+View all active projects,Преглед на всички активни проекти
+View all open tasks,Преглед на всички отворени задачи
+View overdue tasks,Преглед на закъснелите задачи
+View Release,View Release
+Visibility,Видимост
+Waiting for this task,В очакване на тази задача
+Waits for:,Чака за:
+Warning: Resource {0} status is {1},Предупреждение: състоянието на ресурс {0} е {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Предупреждение: използва се HTTP вместо HTTPS. Данните от webhook може да не са защитени.
+Watch budget closely,Следете бюджета внимателно
+We'll respond to:,Ще отговорим на:
+Webhook deleted,Webhook е изтрит
+Webhook name is required,Името на webhook е задължително
+Webhook not found,Webhook не е намерен
+Webhook URL is required,URL адресът на webhook е задължителен
+Webhook URL must start with http:// or https://,URL адресът на webhook трябва да започва с http:// или https://
+Wed,Сря
+Week,Седмица
+Weekend,Уикенд
+Weekly Capacity,Седмичен капацитет
+weekly capacity,седмичен капацитет
+Weekly Capacity (h),Седмичен капацитет (ч)
+Welcome,Добре дошли
+Welcome back!,Добре дошли отново!
+Welcome to Orga,Добре дошли в Orga
+What are you working on?,Върху какво работите?
+What did you work on?,Върху какво работихте?
+When,Кога
+When work begins,Когато работата започне
+When work is due,Когато настъпи крайният срок
+Where,Къде
+Will capture:,Ще запази:
+Will create:,Ще създаде:
+with checklist items,с елементи от контролния списък
+Working,В работа
+Workload,Натовареност
+Workmanship,Качество на изпълнение
+Write a comment...,Напишете коментар...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Напишете коментар... Използвайте @име за споменаване (Ctrl+Enter за изпращане)
+Year,Година
+Yes,Да
+Yesterday,Вчера
+yesterday,вчера
+You are not an attendee of this appointment,Вие не сте участник в тази среща
+You are not linked to any resource,Не сте свързани с никакъв ресурс
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Можете да изтривате само собствените си коментари
+You can only delete your own reactions,Можете да изтривате само собствените си реакции
+You do not have access to the client portal. Please contact support.,Нямате достъп до клиентския портал. Моля свържете се с поддръжката.
+You have already reacted with '{0}',"Вече сте реагирали с „{0}""
+You have been assigned to task '{0}' in project '{1}'."""
+You have been assigned to task '{0}' in project '{1}'.,Бяхте назначени към задача '{0}' в проект '{1}'.
+You have been assigned to: {0},Назначени сте на: {0}
+You have been invited to the following appointment,Поканени сте на следната среща
+You have no tasks assigned to you right now.,В момента нямате назначени задачи.
+You were mentioned in {0},Споменахте ви в {0}
+Your attendance,Вашето присъствие
+Your comment has been posted,Вашият коментар е публикуван
+Your Projects,Вашите проекти
+Your projects will appear here once they're assigned to you.,Вашите проекти ще се появят тук след като ви бъдат назначени.
+Your Response,Вашият отговор
+Your RSVP,Вашият RSVP
+Your support request has been submitted successfully.,Вашата заявка за поддръжка е изпратена успешно.
+Your support request has been submitted successfully. We'll get back to you shortly.,Вашата заявка за поддръжка е изпратена успешно. Ще ви отговорим скоро.
+"Your task ""{0}"" is no longer blocked and can now be started.","Вашата задача „{0} вече не е блокирана и може да бъде започната."""
+{0} is required,{0} е задължително
+{0} new activities,{0} нови дейности
+{0} of {1} completed,{0} от {1} завършени
+{0} projects already migrated (will be skipped or updated),{0} проекта вече са мигрирани (ще бъдат пропуснати или обновени)
+{0} status changed to {1},Състоянието на {0} е променено на {1}
+{0} tasks remaining,{0} оставащи задачи
+{0} tasks without projects will be skipped,{0} задачи без проекти ще бъдат пропуснати
+{0} {1} not found,{0} {1} не е намерено

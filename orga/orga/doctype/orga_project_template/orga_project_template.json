@@ -1,0 +1,171 @@
+{
+  "actions": [],
+  "allow_rename": 1,
+  "autoname": "TPL-.#####",
+  "creation": "2026-02-12 12:00:00.000000",
+  "doctype": "DocType",
+  "engine": "InnoDB",
+  "field_order": [
+    "template_name",
+    "column_break_1",
+    "category",
+    "project_type",
+    "section_description",
+    "description",
+    "section_source",
+    "source_project",
+    "section_metrics",
+    "task_count",
+    "milestone_count",
+    "column_break_2",
+    "dependency_count",
+    "section_data",
+    "template_data"
+  ],
+  "fields": [
+    {
+      "fieldname": "template_name",
+      "fieldtype": "Data",
+      "label": "Template Name",
+      "reqd": 1,
+      "in_list_view": 1,
+      "in_standard_filter": 1
+    },
+    {
+      "fieldname": "column_break_1",
+      "fieldtype": "Column Break"
+    },
+    {
+      "fieldname": "category",
+      "fieldtype": "Select",
+      "label": "Category",
+      "options": "General\nMarketing\nEngineering\nOperations\nOther",
+      "default": "General",
+      "in_list_view": 1,
+      "in_standard_filter": 1
+    },
+    {
+      "fieldname": "project_type",
+      "fieldtype": "Select",
+      "label": "Project Type",
+      "options": "Internal\nClient\nMixed",
+      "default": "Internal",
+      "in_standard_filter": 1
+    },
+    {
+      "fieldname": "section_description",
+      "fieldtype": "Section Break",
+      "label": "Description",
+      "collapsible": 1
+    },
+    {
+      "fieldname": "description",
+      "fieldtype": "Small Text",
+      "label": "Description"
+    },
+    {
+      "fieldname": "section_source",
+      "fieldtype": "Section Break",
+      "label": "Source"
+    },
+    {
+      "fieldname": "source_project",
+      "fieldtype": "Link",
+      "label": "Source Project",
+      "options": "Orga Project",
+      "read_only": 1
+    },
+    {
+      "fieldname": "section_metrics",
+      "fieldtype": "Section Break",
+      "label": "Metrics"
+    },
+    {
+      "fieldname": "task_count",
+      "fieldtype": "Int",
+      "label": "Task Count",
+      "read_only": 1,
+      "in_list_view": 1
+    },
+    {
+      "fieldname": "milestone_count",
+      "fieldtype": "Int",
+      "label": "Milestone Count",
+      "read_only": 1,
+      "in_list_view": 1
+    },
+    {
+      "fieldname": "column_break_2",
+      "fieldtype": "Column Break"
+    },
+    {
+      "fieldname": "dependency_count",
+      "fieldtype": "Int",
+      "label": "Dependency Count",
+      "read_only": 1
+    },
+    {
+      "fieldname": "section_data",
+      "fieldtype": "Section Break",
+      "label": "Template Data"
+    },
+    {
+      "fieldname": "template_data",
+      "fieldtype": "JSON",
+      "label": "Template Data",
+      "hidden": 1
+    }
+  ],
+  "index_web_pages_for_search": 1,
+  "links": [],
+  "modified": "2026-02-12 12:00:00.000000",
+  "modified_by": "Administrator",
+  "module": "Orga",
+  "name": "Orga Project Template",
+  "naming_rule": "Expression",
+  "owner": "Administrator",
+  "permissions": [
+    {
+      "create": 1,
+      "delete": 1,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "System Manager",
+      "share": 1,
+      "write": 1
+    },
+    {
+      "create": 1,
+      "delete": 1,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "Orga Manager",
+      "share": 1,
+      "write": 1
+    },
+    {
+      "create": 1,
+      "delete": 0,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "Orga User",
+      "share": 0,
+      "write": 1
+    }
+  ],
+  "search_fields": "template_name,category",
+  "sort_field": "modified",
+  "sort_order": "DESC",
+  "states": [],
+  "title_field": "template_name",
+  "track_changes": 1
+}

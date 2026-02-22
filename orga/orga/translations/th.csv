@@ -1,0 +1,1492 @@
++ Add Milestone,+ เพิ่มเป้าหมาย
++ Create Task,+ สร้างงาน
++ Log Time,+ บันทึกเวลา
+-- Select a project --,-- เลือกโปรเจกต์ --
+0m,0น.
+1 day,1 วัน
+1 day ago,1 วันที่แล้ว
+1 dependency,1 การพึ่งพา
+1 entry,1 รายการ
+1 file,1 ไฟล์
+1 hour ago,1 ชั่วโมงที่แล้ว
+1 member,1 สมาชิก
+1 milestone,1 เป้าหมาย
+1 month,1 เดือน
+1 task,1 งาน
+< 1m,< 1น.
+"A clear, actionable title for the task",หัวข้องานที่ชัดเจนและปฏิบัติได้
+A client with email {0} already exists: {1},มีลูกค้าที่ใช้อีเมล {0} อยู่แล้ว: {1}
+A key deliverable or checkpoint for the project,ผลลัพธ์สำคัญหรือจุดตรวจสอบของโปรเจกต์
+Accept,ยอมรับ
+Accepted,ยอมรับแล้ว
+Acknowledge,รับทราบ
+across,ทั้งหมด
+Action,การดำเนินการ
+Actions,การดำเนินการ
+Active,ใช้งาน
+Active Assignments,การมอบหมายที่ใช้งาน
+Active Projects,โปรเจกต์ที่ใช้งาน
+Activity,กิจกรรม
+Activity data deleted successfully,ลบข้อมูลกิจกรรมสำเร็จ
+Activity Info,ข้อมูลกิจกรรม
+Activity Stats,สถิติกิจกรรม
+Activity will appear here as you work on tasks and projects.,กิจกรรมจะปรากฏที่นี่เมื่อคุณทำงานในงานและโปรเจกต์
+Actual,จริง
+Actual Cost,ต้นทุนจริง
+Actual cost cannot be negative,ต้นทุนจริงต้องไม่เป็นค่าลบ
+Actual end date cannot be before actual start date,วันที่สิ้นสุดจริงต้องไม่อยู่ก่อนวันที่เริ่มต้นจริง
+Actual Hours,ชั่วโมงจริง
+Add,เพิ่ม
+Add a checklist item...,เพิ่มรายการตรวจสอบ...
+Add a comment...,เพิ่มความคิดเห็น...
+Add a comment... (Ctrl+Enter to send),เพิ่มความคิดเห็น... (Ctrl+Enter เพื่อส่ง)
+Add a description...,เพิ่มคำอธิบาย...
+Add a milestone description...,เพิ่มคำอธิบายเป้าหมาย...
+Add a note below to annotate this activity.,เพิ่มบันทึกด้านล่างเพื่ออธิบายกิจกรรมนี้
+Add a note...,เพิ่มบันทึก...
+Add a project description...,เพิ่มคำอธิบายโปรเจกต์...
+Add a task description...,เพิ่มคำอธิบายงาน...
+Add checklist item...,เพิ่มรายการตรวจสอบ...
+Add Contact,เพิ่มผู้ติดต่อ
+Add contacts via the Desk interface or clear filters,เพิ่มผู้ติดต่อผ่านหน้า Desk หรือล้างตัวกรอง
+Add Dependency,เพิ่มการพึ่งพา
+Add details about this event...,เพิ่มรายละเอียดเกี่ยวกับกิจกรรมนี้...
+Add details about this milestone...,เพิ่มรายละเอียดเกี่ยวกับเป้าหมายนี้...
+Add details about this task...,เพิ่มรายละเอียดเกี่ยวกับงานนี้...
+Add details or acceptance criteria for this milestone,เพิ่มรายละเอียดหรือเกณฑ์การยอมรับสำหรับเป้าหมายนี้
+"Add details, context, or acceptance criteria",เพิ่มรายละเอียด บริบท หรือเกณฑ์การยอมรับ
+Add first dependency,เพิ่มการพึ่งพาแรก
+Add item,เพิ่มรายการ
+Add items below to track progress.,เพิ่มรายการด้านล่างเพื่อติดตามความคืบหน้า
+Add items below to track subtasks,เพิ่มรายการด้านล่างเพื่อติดตามงานย่อย
+Add Milestone,เพิ่มเป้าหมาย
+Add Milestone (Shift+M),เพิ่มเป้าหมาย (Shift+M)
+Add milestones to track key deliverables.,เพิ่มเป้าหมายเพื่อติดตามผลลัพธ์สำคัญ
+Add New Contact,เพิ่มผู้ติดต่อใหม่
+Add Note,เพิ่มบันทึก
+Add note,เพิ่มบันทึก
+Add notes about this contact...,เพิ่มบันทึกเกี่ยวกับผู้ติดต่อนี้...
+Add reaction,เพิ่มปฏิกิริยา
+Add Skill,เพิ่มทักษะ
+Add start and due dates to tasks to see them on the Gantt chart,เพิ่มวันที่เริ่มต้นและวันครบกำหนดให้กับงานเพื่อแสดงบนแผนภูมิแกนต์
+Add Task,เพิ่มงาน
+Add Task (Shift+T),เพิ่มงาน (Shift+T)
+Added Finish-to-Start dependency,เพิ่มการพึ่งพาแบบเสร็จ-ถึง-เริ่มแล้ว
+Adding this dependency would create a circular reference: {0},การเพิ่มการพึ่งพานี้จะสร้างการอ้างอิงวนรอบ: {0}
+Adding...,กำลังเพิ่ม...
+Address,ที่อยู่
+Advanced,ขั้นสูง
+All,ทั้งหมด
+All Active,ใช้งานทั้งหมด
+All Assignees,ผู้รับมอบหมายทั้งหมด
+All Categories,หมวดหมู่ทั้งหมด
+All caught up!,ไม่มีรายการใหม่แล้ว!
+All Contexts,บริบททั้งหมด
+All day,ทั้งวัน
+All day event,กิจกรรมทั้งวัน
+All fields,ทุกฟิลด์
+All Priorities,ลำดับความสำคัญทั้งหมด
+All Projects,โปรเจกต์ทั้งหมด
+All Status,สถานะทั้งหมด
+All Statuses,สถานะทั้งหมด
+All task dependencies & relative dates,การพึ่งพาของงานทั้งหมดและวันที่สัมพันธ์
+All Tasks,งานทั้งหมด
+All tasks across all projects.,งานทั้งหมดในทุกโปรเจกต์
+All tasks are already linked,งานทั้งหมดเชื่อมโยงแล้ว
+All team members,สมาชิกในทีมทั้งหมด
+All Types,ประเภททั้งหมด
+All Users,ผู้ใช้ทั้งหมด
+Allocated,จัดสรรแล้ว
+allocated,จัดสรรแล้ว
+Allow users to log time against tasks,อนุญาตให้ผู้ใช้บันทึกเวลาสำหรับงาน
+Already exported to timesheet {0},ส่งออกไปยังใบบันทึกเวลา {0} แล้ว
+Already Migrated,ย้ายข้อมูลแล้ว
+Anyone with access,ทุกคนที่มีสิทธิ์เข้าถึง
+anytime to show this help,เมื่อใดก็ได้เพื่อแสดงความช่วยเหลือนี้
+App Updates,App Updates
+Appearance,รูปลักษณ์
+Apply,นำไปใช้
+Apply cascade?,นำไปใช้แบบต่อเนื่อง?
+Apply Changes,นำการเปลี่ยนแปลงไปใช้
+Apply failed,การนำไปใช้ล้มเหลว
+Apply Template,นำเทมเพลตไปใช้
+Applying...,กำลังนำไปใช้...
+Appointment,การนัดหมาย
+Appointment and resource are required,ต้องระบุการนัดหมายและทรัพยากร
+Appointment name is required,ต้องระบุชื่อการนัดหมาย
+Appointment not found,ไม่พบการนัดหมาย
+Appointment {0} not found,ไม่พบการนัดหมาย {0}
+Apps,แอปพลิเคชัน
+Archive,จัดเก็บ
+Archive Activity,จัดเก็บกิจกรรม
+Archived,จัดเก็บแล้ว
+Are you sure you want to delete this activity data? This cannot be undone.,คุณแน่ใจหรือไม่ว่าต้องการลบข้อมูลกิจกรรมนี้? การดำเนินการนี้ไม่สามารถเลิกทำได้
+Are you sure you want to delete this comment?,คุณแน่ใจหรือไม่ว่าต้องการลบความคิดเห็นนี้?
+Are you sure you want to delete this project?,คุณแน่ใจหรือไม่ว่าต้องการลบโปรเจกต์นี้?
+Are you sure?,คุณแน่ใจหรือไม่?
+Ascending -- click to reverse,เรียงจากน้อยไปมาก -- คลิกเพื่อกลับทาง
+Assign To,มอบหมายให้
+Assign to Me,มอบหมายให้ฉัน
+Assigned Contact,ผู้ติดต่อที่มอบหมาย
+Assigned To,มอบหมายให้
+Assigned to,มอบหมายให้
+Assigned to Me,มอบหมายให้ฉัน
+Assignee,ผู้รับมอบหมาย
+Assignment,การมอบหมาย
+Assignment History,ประวัติการมอบหมาย
+Assignment name is required,ต้องระบุชื่อการมอบหมาย
+Assignment {0} not found,ไม่พบการมอบหมาย {0}
+Assignments,การมอบหมาย
+At least one action is required,ต้องมีอย่างน้อยหนึ่งการดำเนินการ
+At least one event is required,ต้องมีอย่างน้อยหนึ่งเหตุการณ์
+At least one event must be selected,ต้องเลือกอย่างน้อยหนึ่งเหตุการณ์
+Attachment,ไฟล์แนบ
+Attachments,ไฟล์แนบ
+Attendees,ผู้เข้าร่วม
+"Audit trail, assignments, version history",ประวัติการตรวจสอบ การมอบหมาย ประวัติเวอร์ชัน
+Auto,อัตโนมัติ
+Auto Calculate Progress,คำนวณความคืบหน้าอัตโนมัติ
+Auto Set Missed Milestones,ตั้งเป้าหมายที่พลาดอัตโนมัติ
+Auto-shift dependents when dates change,เลื่อนงานที่พึ่งพาอัตโนมัติเมื่อวันที่เปลี่ยน
+Auto-Trail Start,เริ่มติดตามอัตโนมัติ
+Auto-Trail updated,อัปเดตการติดตามอัตโนมัติแล้ว
+Automatically calculate project progress from task completion,คำนวณความคืบหน้าโปรเจกต์จากการทำงานเสร็จสิ้นอัตโนมัติ
+Automatically mark milestones as missed when overdue,ทำเครื่องหมายเป้าหมายว่าพลาดอัตโนมัติเมื่อเกินกำหนด
+Automation rule {0} not found,ไม่พบกฎอัตโนมัติ {0}
+Automation: {0},อัตโนมัติ: {0}
+Availability,ความพร้อมใช้งาน
+Available,พร้อมใช้งาน
+Avatar updated successfully,อัปเดตรูปโปรไฟล์สำเร็จ
+Avg Progress,ความคืบหน้าเฉลี่ย
+Back,ย้อนกลับ
+Back to Portal,กลับไปยังพอร์ทัล
+Back to Projects,กลับไปยังโปรเจกต์
+Beginner,เริ่มต้น
+Best regards,ด้วยความนับถือ
+Billable,เรียกเก็บเงินได้
+Billable Amount,จำนวนเงินที่เรียกเก็บได้
+Billable Hours,ชั่วโมงที่เรียกเก็บได้
+Billable Rate,อัตราที่เรียกเก็บได้
+Billing Rate,อัตราเรียกเก็บ
+Blocked,ถูกบล็อก
+Both dates are needed to display task as a bar in Gantt chart,ต้องระบุวันที่ทั้งสองเพื่อแสดงงานเป็นแถบในแผนภูมิแกนต์
+Both doctype and docname are required,ต้องระบุทั้ง doctype และ docname
+Both proposed start and end times are required,ต้องระบุทั้งเวลาเริ่มต้นและเวลาสิ้นสุดที่เสนอ
+Both task_name and depends_on are required,ต้องระบุทั้ง task_name และ depends_on
+Breadcrumb,เส้นทางนำทาง
+Brief description of the defect or damage,คำอธิบายสั้น ๆ เกี่ยวกับข้อบกพร่องหรือความเสียหาย
+Brief description of this template,คำอธิบายสั้น ๆ ของเทมเพลตนี้
+Brief description of your request,คำอธิบายสั้น ๆ ของคำขอของคุณ
+Brief project description,คำอธิบายโปรเจกต์สั้น ๆ
+Budget,งบประมาณ
+Budget at risk,งบประมาณที่เสี่ยง
+Budget Burn Rate,อัตราการใช้งบประมาณ
+Budget Status,สถานะงบประมาณ
+Budget updated,อัปเดตงบประมาณแล้ว
+Budget:,งบประมาณ:
+Bug,บัก
+Burn Rate,อัตราการใช้
+Busy,ไม่ว่าง
+By,โดย
+By Assignee,ตามผู้รับมอบหมาย
+By Group,ตามกลุ่ม
+By Milestone,ตามเป้าหมาย
+By Priority,ตามลำดับความสำคัญ
+By Status,ตามสถานะ
+Cancel,ยกเลิก
+Cancelled,ยกเลิกแล้ว
+cannot be undone,ไม่สามารถเลิกทำได้
+Cannot delete client with {0} linked projects. Unlink projects first.,ไม่สามารถลบลูกค้าที่มี {0} โปรเจกต์ที่เชื่อมโยง ต้องยกเลิกการเชื่อมโยงโปรเจกต์ก่อน
+Cannot delete project with {0} linked tasks. Delete tasks first.,ไม่สามารถลบโปรเจกต์ที่มี {0} งานที่เชื่อมโยง ต้องลบงานก่อน
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,ไม่สามารถลบทรัพยากรที่มี {0} การมอบหมายที่ใช้งาน ต้องทำให้เสร็จหรือยกเลิกก่อน
+Cannot delete task with {0} subtasks. Delete subtasks first.,ไม่สามารถลบงานที่มี {0} งานย่อย ต้องลบงานย่อยก่อน
+Capacity,ความจุ
+capacity,ความจุ
+Capacity & Rates,ความจุและอัตรา
+Capture project structure for reuse,บันทึกโครงสร้างโปรเจกต์เพื่อนำกลับมาใช้
+Cascade,ต่อเนื่อง
+Cascade Preview,ตัวอย่างการเปลี่ยนแปลงต่อเนื่อง
+Category,หมวดหมู่
+Celebrate,แสดงความยินดี
+Change,เปลี่ยน
+Change History,ประวัติการเปลี่ยนแปลง
+Change Priority,เปลี่ยนลำดับความสำคัญ
+Change Status,เปลี่ยนสถานะ
+Changes,การเปลี่ยนแปลง
+Changes appear when fields are modified.,การเปลี่ยนแปลงจะปรากฏเมื่อมีการแก้ไขฟิลด์
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,รายการตรวจสอบ
+Checklist item name is required,ต้องระบุชื่อรายการตรวจสอบ
+Checklist item not found,ไม่พบรายการตรวจสอบ
+Checklist item title is required,ต้องระบุหัวข้อรายการตรวจสอบ
+Checklist item {0} not found,ไม่พบรายการตรวจสอบ {0}
+Checklist item {0} not found in task,ไม่พบรายการตรวจสอบ {0} ในงาน
+Child,รายการย่อย
+Choose file to upload,เลือกไฟล์เพื่ออัปโหลด
+Circular dependency detected: {0},ตรวจพบการพึ่งพาวนรอบ: {0}
+Circular parent-child relationship detected,ตรวจพบความสัมพันธ์แม่-ลูกวนรอบ
+Clear,ล้าง
+Clear all read,ล้างที่อ่านแล้วทั้งหมด
+Clear date,ล้างวันที่
+Click on an activity from the list to view and manage its details.,คลิกที่กิจกรรมจากรายการเพื่อดูและจัดการรายละเอียด
+Click the avatar to upload a new photo,คลิกที่รูปโปรไฟล์เพื่ออัปโหลดรูปใหม่
+Click to add description...,คลิกเพื่อเพิ่มคำอธิบาย...
+Click to add notes...,คลิกเพื่อเพิ่มบันทึก...
+Click to assign contact,คลิกเพื่อมอบหมายผู้ติดต่อ
+Click to change status,คลิกเพื่อเปลี่ยนสถานะ
+Click to change type,คลิกเพื่อเปลี่ยนประเภท
+Click to edit,คลิกเพื่อแก้ไข
+Click to edit budget,คลิกเพื่อแก้ไขงบประมาณ
+Click to edit description,คลิกเพื่อแก้ไขคำอธิบาย
+Click to edit end date,คลิกเพื่อแก้ไขวันที่สิ้นสุด
+Click to edit milestone name,คลิกเพื่อแก้ไขชื่อเป้าหมาย
+Click to edit rate,คลิกเพื่อแก้ไขอัตรา
+Click to edit start date,คลิกเพื่อแก้ไขวันที่เริ่มต้น
+Click to edit title,คลิกเพื่อแก้ไขหัวข้อ
+Click to load,คลิกเพื่อโหลด
+Click to set group dependency...,คลิกเพื่อตั้งการพึ่งพากลุ่ม...
+Click to set group...,คลิกเพื่อตั้งกลุ่ม...
+Click to view,คลิกเพื่อดู
+Click to view at-risk projects,คลิกเพื่อดูโปรเจกต์ที่มีความเสี่ยง
+Click to view critical projects,คลิกเพื่อดูโปรเจกต์วิกฤต
+Click to view healthy projects,คลิกเพื่อดูโปรเจกต์ที่สมบูรณ์
+Client,ลูกค้า
+Client already has a portal user: {0},ลูกค้ามีผู้ใช้พอร์ทัลแล้ว: {0}
+Client already has portal access,ลูกค้ามีสิทธิ์เข้าถึงพอร์ทัลแล้ว
+Client has no portal user to revoke,ลูกค้าไม่มีผู้ใช้พอร์ทัลที่จะเพิกถอน
+Client link removed from project {0},ลบการเชื่อมโยงลูกค้าจากโปรเจกต์ {0} แล้ว
+Client Portal,พอร์ทัลลูกค้า
+Client {0} deleted successfully,ลบลูกค้า {0} สำเร็จ
+Close,ปิด
+Close (Esc),ปิด (Esc)
+Comment,ความคิดเห็น
+comment,ความคิดเห็น
+Comment added,เพิ่มความคิดเห็นแล้ว
+Comment content is required,ต้องระบุเนื้อหาความคิดเห็น
+Comment name is required,ต้องระบุชื่อความคิดเห็น
+Comment not found,ไม่พบความคิดเห็น
+Comment removed,ลบความคิดเห็นแล้ว
+Comment {0} not found in task,ไม่พบความคิดเห็น {0} ในงาน
+Comments,ความคิดเห็น
+comments,ความคิดเห็น
+Community Edition,Community Edition
+Company,บริษัท
+Company name...,ชื่อบริษัท...
+Complete,เสร็จสมบูรณ์
+Completed,เสร็จสมบูรณ์แล้ว
+completed,เสร็จสมบูรณ์แล้ว
+Completed Tasks,งานที่เสร็จสมบูรณ์
+Compliance,การปฏิบัติตามกฎ
+Configure default values for new projects and tasks,กำหนดค่าเริ่มต้นสำหรับโปรเจกต์และงานใหม่
+Configure email notification settings,กำหนดการตั้งค่าการแจ้งเตือนทางอีเมล
+Confirm,ยืนยัน
+Contact deleted,ลบผู้ติดต่อแล้ว
+Contact Details,รายละเอียดผู้ติดต่อ
+Contact Information,ข้อมูลผู้ติดต่อ
+Contact name is required,ต้องระบุชื่อผู้ติดต่อ
+Contact Support,ติดต่อฝ่ายสนับสนุน
+Contact your project manager for more information.,ติดต่อผู้จัดการโปรเจกต์ของคุณสำหรับข้อมูลเพิ่มเติม
+Contact:,ผู้ติดต่อ:
+Contacts,ผู้ติดต่อ
+Context,บริบท
+Contractor,ผู้รับเหมา
+Cost estimate cannot be negative,ประมาณการต้นทุนต้องไม่เป็นค่าลบ
+Cost Impact,ผลกระทบด้านต้นทุน
+Cost Summary,สรุปต้นทุน
+Could not apply the template. Please try again.,ไม่สามารถนำเทมเพลตไปใช้ กรุณาลองอีกครั้ง
+Could not attach file to project,ไม่สามารถแนบไฟล์กับโปรเจกต์
+Could not change task priority,ไม่สามารถเปลี่ยนลำดับความสำคัญของงาน
+Could not change task status,ไม่สามารถเปลี่ยนสถานะงาน
+Could not delete the project. Please try again.,ไม่สามารถลบโปรเจกต์ กรุณาลองอีกครั้ง
+Could not delete the task. Please try again.,ไม่สามารถลบงาน กรุณาลองอีกครั้ง
+Could not delete the template.,ไม่สามารถลบเทมเพลต
+Could not duplicate the task. Please try again.,ไม่สามารถทำสำเนางาน กรุณาลองอีกครั้ง
+Could not export the template.,ไม่สามารถส่งออกเทมเพลต
+Could not import the template. Please check the file format.,ไม่สามารถนำเข้าเทมเพลต กรุณาตรวจสอบรูปแบบไฟล์
+Could not link task to milestone,ไม่สามารถเชื่อมโยงงานกับเป้าหมาย
+Could not load document details.,ไม่สามารถโหลดรายละเอียดเอกสาร
+Could not load task details,ไม่สามารถโหลดรายละเอียดงาน
+Could not promote checklist item to task.,ไม่สามารถเลื่อนรายการตรวจสอบเป็นงาน
+Could not remove task from milestone,ไม่สามารถลบงานออกจากเป้าหมาย
+Could not save budget.,ไม่สามารถบันทึกงบประมาณ
+Could not save changes to the milestone,ไม่สามารถบันทึกการเปลี่ยนแปลงเป้าหมาย
+Could not save changes to the task,ไม่สามารถบันทึกการเปลี่ยนแปลงงาน
+Could not save description.,ไม่สามารถบันทึกคำอธิบาย
+Could not save end date.,ไม่สามารถบันทึกวันที่สิ้นสุด
+Could not save milestone name.,ไม่สามารถบันทึกชื่อเป้าหมาย
+Could not save start date.,ไม่สามารถบันทึกวันที่เริ่มต้น
+Could not save the template. Please try again.,ไม่สามารถบันทึกเทมเพลต กรุณาลองอีกครั้ง
+Could not save title.,ไม่สามารถบันทึกหัวข้อ
+Could not update dependency mode.,ไม่สามารถอัปเดตโหมดการพึ่งพา
+Could not update milestone date,ไม่สามารถอัปเดตวันที่เป้าหมาย
+Could not update project status.,ไม่สามารถอัปเดตสถานะโปรเจกต์
+Could not update project type.,ไม่สามารถอัปเดตประเภทโปรเจกต์
+Could not update setting.,ไม่สามารถอัปเดตการตั้งค่า
+Could not update task dates,ไม่สามารถอัปเดตวันที่ของงาน
+Could not update task status,ไม่สามารถอัปเดตสถานะงาน
+Could not update the template.,ไม่สามารถอัปเดตเทมเพลต
+Create a copy of this task,สร้างสำเนาของงานนี้
+Create Contact,สร้างผู้ติดต่อ
+Create Event,สร้างกิจกรรม
+Create Milestone,สร้างเป้าหมาย
+Create New Milestone,สร้างเป้าหมายใหม่
+Create New Task,สร้างงานใหม่
+Create Project,สร้างโปรเจกต์
+Create Task,สร้างงาน
+Create tasks and milestones from a template,สร้างงานและเป้าหมายจากเทมเพลต
+Create your first project to get started.,สร้างโปรเจกต์แรกของคุณเพื่อเริ่มต้น
+Create your first task to start tracking work on this project.,สร้างงานแรกของคุณเพื่อเริ่มติดตามงานในโปรเจกต์นี้
+Created,สร้างแล้ว
+Creating...,กำลังสร้าง...
+Critical,วิกฤต
+Critical Path,เส้นทางวิกฤต
+"Currency used for budgets, costs, and billing rates",สกุลเงินที่ใช้สำหรับงบประมาณ ต้นทุน และอัตราเรียกเก็บ
+Current,ปัจจุบัน
+Current Assignments,การมอบหมายปัจจุบัน
+Current scheduled time:,เวลาที่กำหนดปัจจุบัน:
+Currently running version,Currently running version
+d lag,วันล่าช้า
+Daily Availability,ความพร้อมรายวัน
+Daily Hours,ชั่วโมงรายวัน
+Danger Zone,โซนอันตราย
+Dark,มืด
+Dashboard,แดชบอร์ด
+Date,วันที่
+Date changes on this task will show cascade impact here,การเปลี่ยนแปลงวันที่ของงานนี้จะแสดงผลกระทบต่อเนื่องที่นี่
+Date cleared,ล้างวันที่แล้ว
+Date of Joining,วันที่เข้าร่วม
+Date updated,อัปเดตวันที่แล้ว
+Dates,วันที่
+Dates cascaded,เลื่อนวันที่ต่อเนื่องแล้ว
+Dates will be relative to the project's start date.,วันที่จะสัมพันธ์กับวันที่เริ่มต้นของโปรเจกต์
+Day,วัน
+day,วัน
+days,วัน
+Days before due date to send reminder,จำนวนวันก่อนวันครบกำหนดที่จะส่งการแจ้งเตือน
+Days Overdue,วันที่เกินกำหนด
+Days Remaining,วันที่เหลือ
+Deadline,กำหนดส่ง
+Deadlines,กำหนดส่ง
+Decision,การตัดสินใจ
+Decline,ปฏิเสธ
+Declined,ปฏิเสธแล้ว
+Default Currency,สกุลเงินเริ่มต้น
+Default hours per week for contact capacity planning,ชั่วโมงเริ่มต้นต่อสัปดาห์สำหรับการวางแผนความจุผู้ติดต่อ
+Default Priority,ลำดับความสำคัญเริ่มต้น
+Default Project Status,สถานะโปรเจกต์เริ่มต้น
+Default Task Status,สถานะงานเริ่มต้น
+Default task view,มุมมองงานเริ่มต้น
+Default Values,ค่าเริ่มต้น
+Default Weekly Capacity,ความจุรายสัปดาห์เริ่มต้น
+Defaults,ค่าเริ่มต้น
+Defect Cost Impact,ผลกระทบด้านต้นทุนจากข้อบกพร่อง
+Defect name is required,ต้องระบุชื่อข้อบกพร่อง
+Defect Type,ประเภทข้อบกพร่อง
+Defect {0} not found,ไม่พบข้อบกพร่อง {0}
+Defects,ข้อบกพร่อง
+Defects & Issues,ข้อบกพร่องและปัญหา
+Defects Resolved,ข้อบกพร่องที่แก้ไขแล้ว
+Delayed,ล่าช้า
+Delete,ลบ
+Delete Activity Data,ลบข้อมูลกิจกรรม
+Delete all read notifications?,ลบการแจ้งเตือนที่อ่านแล้วทั้งหมด?
+Delete comment,ลบความคิดเห็น
+Delete Contact,ลบผู้ติดต่อ
+Delete Event,ลบกิจกรรม
+Delete Event?,ลบกิจกรรม?
+Delete failed,การลบล้มเหลว
+Delete file,ลบไฟล์
+Delete item,ลบรายการ
+Delete note,ลบบันทึก
+Delete Project,ลบโปรเจกต์
+Delete Task,ลบงาน
+Delete this project,ลบโปรเจกต์นี้
+Deleted,ลบแล้ว
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","ลบโปรเจกต์ ""{0}"" แล้ว ({1} งาน, {2} เป้าหมาย)"
+Deletes notes and preferences. Source document is not affected.,ลบบันทึกและการตั้งค่า เอกสารต้นฉบับไม่ได้รับผลกระทบ
+Deleting...,กำลังลบ...
+Department,แผนก
+Dependencies,การพึ่งพา
+dependencies,การพึ่งพา
+Dependencies are informational only,การพึ่งพาเป็นเพียงข้อมูลอ้างอิงเท่านั้น
+dependency,การพึ่งพา
+Dependency already exists,มีการพึ่งพาอยู่แล้ว
+Dependency Chain,ห่วงโซ่การพึ่งพา
+Dependency created,สร้างการพึ่งพาแล้ว
+Dependency mode updated,อัปเดตโหมดการพึ่งพาแล้ว
+Dependency name is required,ต้องระบุชื่อการพึ่งพา
+Dependency task {0} not found,ไม่พบงานที่พึ่งพา {0}
+Dependency {0} not found,ไม่พบการพึ่งพา {0}
+depends,พึ่งพา
+Depends on Group,พึ่งพากลุ่ม
+Depends on task is required,ต้องระบุงานที่พึ่งพา
+depends on...,พึ่งพา...
+Descending -- click to reverse,เรียงจากมากไปน้อย -- คลิกเพื่อกลับทาง
+Describe the defect in detail...,อธิบายข้อบกพร่องอย่างละเอียด...
+Description,คำอธิบาย
+Description updated,อัปเดตคำอธิบายแล้ว
+Designation,ตำแหน่ง
+"Detailed description of the defect, location, and impact",คำอธิบายโดยละเอียดของข้อบกพร่อง ตำแหน่ง และผลกระทบ
+Details,รายละเอียด
+Discard timer,ยกเลิกตัวจับเวลา
+Discussion,การสนทนา
+Dismiss,Dismiss
+Display,การแสดงผล
+Document,เอกสาร
+Document attached to project,แนบเอกสารกับโปรเจกต์แล้ว
+Document final decision and rationale,บันทึกการตัดสินใจสุดท้ายและเหตุผล
+Documentation Review,การตรวจสอบเอกสาร
+Documents,เอกสาร
+Done,เสร็จ
+Download,ดาวน์โหลด
+Drag to create dependency,ลากเพื่อสร้างการพึ่งพา
+Dry Run,ทดลองเรียกใช้
+Dry Run Complete,ทดลองเรียกใช้เสร็จสิ้น
+Due Date,วันครบกำหนด
+Due date,วันครบกำหนด
+Due Date (Earliest),วันครบกำหนด (เร็วที่สุด)
+Due date cannot be before start date,วันครบกำหนดต้องไม่อยู่ก่อนวันที่เริ่มต้น
+Due date is in the past,วันครบกำหนดอยู่ในอดีต
+Due Date Reminders,การแจ้งเตือนวันครบกำหนด
+Due Diligence,การตรวจสอบสถานะ
+Due Diligence Checklist,รายการตรวจสอบสถานะ
+Due This Week,ครบกำหนดสัปดาห์นี้
+Due:,ครบกำหนด:
+Duplicate events are not allowed,ไม่อนุญาตให้มีเหตุการณ์ซ้ำ
+Duplicate failed,การทำสำเนาล้มเหลว
+Duplicate Task,ทำสำเนางาน
+Duration,ระยะเวลา
+Duration Summary,สรุประยะเวลา
+Duration:,ระยะเวลา:
+e.g. Cracked wall finish in bathroom...,เช่น ผนังห้องน้ำแตกร้าว...
+"e.g. Electrical, Plumbing...","เช่น ไฟฟ้า, ประปา..."
+Edit,แก้ไข
+Edit (E),แก้ไข (E)
+Edit dependency,แก้ไขการพึ่งพา
+Edit Event,แก้ไขกิจกรรม
+Efficiency,ประสิทธิภาพ
+Either dependency_name or depends_on is required,ต้องระบุ dependency_name หรือ depends_on อย่างใดอย่างหนึ่ง
+Email,อีเมล
+Email invitations to all attendees,ส่งคำเชิญทางอีเมลถึงผู้เข้าร่วมทั้งหมด
+Email is required to create portal user,ต้องระบุอีเมลเพื่อสร้างผู้ใช้พอร์ทัล
+Email notifications,การแจ้งเตือนทางอีเมล
+Employee,พนักงาน
+Employee DocType not available,DocType พนักงานไม่พร้อมใช้งาน
+Employee not found,ไม่พบพนักงาน
+Enable or disable optional features,เปิดหรือปิดคุณสมบัติเสริม
+Enable Time Tracking,เปิดใช้งานการติดตามเวลา
+End,สิ้นสุด
+End Date,วันที่สิ้นสุด
+End date,วันที่สิ้นสุด
+End Date cannot be before Start Date,วันที่สิ้นสุดต้องไม่อยู่ก่อนวันที่เริ่มต้น
+End date cannot be before start date,วันที่สิ้นสุดต้องไม่อยู่ก่อนวันที่เริ่มต้น
+End date updated,อัปเดตวันที่สิ้นสุดแล้ว
+End time was before start time. Adjusted to 1 hour after start.,เวลาสิ้นสุดอยู่ก่อนเวลาเริ่มต้น ปรับเป็น 1 ชั่วโมงหลังเริ่มต้น
+End:,สิ้นสุด:
+Enter milestone name...,ป้อนชื่อเป้าหมาย...
+Enter project name,ป้อนชื่อโปรเจกต์
+Enter task title...,ป้อนหัวข้องาน...
+Enter template name,ป้อนชื่อเทมเพลต
+Enter your note... Use @name to mention someone,ป้อนบันทึกของคุณ... ใช้ @ชื่อ เพื่อกล่าวถึงผู้อื่น
+Error,ข้อผิดพลาด
+Error loading activity,เกิดข้อผิดพลาดในการโหลดกิจกรรม
+Error loading contacts,เกิดข้อผิดพลาดในการโหลดผู้ติดต่อ
+Error loading dashboard,เกิดข้อผิดพลาดในการโหลดแดชบอร์ด
+Error loading project,เกิดข้อผิดพลาดในการโหลดโปรเจกต์
+Error loading projects,เกิดข้อผิดพลาดในการโหลดโปรเจกต์
+Error loading settings,เกิดข้อผิดพลาดในการโหลดการตั้งค่า
+Error loading tasks,เกิดข้อผิดพลาดในการโหลดงาน
+Error loading templates,เกิดข้อผิดพลาดในการโหลดเทมเพลต
+Est. Hours,ชม. ประมาณ
+Estimated,ประมาณการ
+Estimated Cost,ต้นทุนประมาณการ
+Estimated Cost (€),ต้นทุนประมาณการ (€)
+Estimated Hours,ชั่วโมงประมาณการ
+Estimated:,ประมาณการ:
+Evaluate potential risks and concerns,ประเมินความเสี่ยงและข้อกังวลที่อาจเกิดขึ้น
+Event,กิจกรรม
+Event is required for event context,ต้องระบุกิจกรรมสำหรับบริบทกิจกรรม
+Event is required when tracking context is 'event',ต้องระบุกิจกรรมเมื่อบริบทการติดตามเป็น 'event'
+Event Type,ประเภทกิจกรรม
+Events,กิจกรรม
+Events not available. Please run: bench --site orga.localhost migrate,กิจกรรมไม่พร้อมใช้งาน กรุณาเรียกใช้: bench --site orga.localhost migrate
+Events:,กิจกรรม:
+Expert,ผู้เชี่ยวชาญ
+Explain why you are proposing a different time...,อธิบายเหตุผลที่คุณเสนอเวลาที่แตกต่าง...
+Export,ส่งออก
+Export failed,การส่งออกล้มเหลว
+Export JSON,ส่งออก JSON
+Exported,ส่งออกแล้ว
+Exported to timesheet {0},ส่งออกไปยังใบบันทึกเวลา {0} แล้ว
+External,ภายนอก
+Failed to add item,ไม่สามารถเพิ่มรายการ
+Failed to add note,ไม่สามารถเพิ่มบันทึก
+Failed to add skill,ไม่สามารถเพิ่มทักษะ
+Failed to apply cascade changes: {0},ไม่สามารถนำการเปลี่ยนแปลงต่อเนื่องไปใช้: {0}
+Failed to create defect,ไม่สามารถสร้างข้อบกพร่อง
+Failed to create dependency,ไม่สามารถสร้างการพึ่งพา
+Failed to create event,ไม่สามารถสร้างกิจกรรม
+Failed to create milestone,ไม่สามารถสร้างเป้าหมาย
+Failed to create project,ไม่สามารถสร้างโปรเจกต์
+Failed to create task,ไม่สามารถสร้างงาน
+Failed to create time log,ไม่สามารถสร้างบันทึกเวลา
+Failed to delete,ไม่สามารถลบ
+Failed to delete comment,ไม่สามารถลบความคิดเห็น
+Failed to delete contact,ไม่สามารถลบผู้ติดต่อ
+Failed to load,ไม่สามารถโหลด
+Failed to load activity,ไม่สามารถโหลดกิจกรรม
+Failed to load assignments,ไม่สามารถโหลดการมอบหมาย
+Failed to load contact,ไม่สามารถโหลดผู้ติดต่อ
+Failed to load dashboard data,ไม่สามารถโหลดข้อมูลแดชบอร์ด
+Failed to load defects,ไม่สามารถโหลดข้อบกพร่อง
+Failed to load events,ไม่สามารถโหลดกิจกรรม
+Failed to load project,ไม่สามารถโหลดโปรเจกต์
+Failed to load projects,ไม่สามารถโหลดโปรเจกต์
+Failed to load report data,ไม่สามารถโหลดข้อมูลรายงาน
+Failed to load settings,ไม่สามารถโหลดการตั้งค่า
+Failed to load tasks,ไม่สามารถโหลดงาน
+Failed to move task,ไม่สามารถย้ายงาน
+Failed to post comment,ไม่สามารถโพสต์ความคิดเห็น
+Failed to propose new time,ไม่สามารถเสนอเวลาใหม่
+Failed to remove item,ไม่สามารถลบรายการ
+Failed to remove skill,ไม่สามารถลบทักษะ
+Failed to reorder milestones: {0},ไม่สามารถจัดลำดับเป้าหมายใหม่: {0}
+Failed to reorder tasks: {0},ไม่สามารถจัดลำดับงานใหม่: {0}
+Failed to reschedule dependent tasks: {0},ไม่สามารถกำหนดเวลางานที่พึ่งพาใหม่: {0}
+Failed to save,ไม่สามารถบันทึก
+Failed to save preferences,ไม่สามารถบันทึกการตั้งค่า
+Failed to save settings,ไม่สามารถบันทึกการตั้งค่า
+Failed to submit request. Please try again.,ไม่สามารถส่งคำขอ กรุณาลองอีกครั้ง
+Failed to update item,ไม่สามารถอัปเดตรายการ
+Failed to update priority,ไม่สามารถอัปเดตลำดับความสำคัญ
+Failed to update task,ไม่สามารถอัปเดตงาน
+Failed to update tasks: {0},ไม่สามารถอัปเดตงาน: {0}
+Failed to upload avatar,ไม่สามารถอัปโหลดรูปโปรไฟล์
+Feature,คุณสมบัติ
+Features,คุณสมบัติ
+FF (Finish-Finish),FF (เสร็จ-เสร็จ)
+FF - Finish-to-Finish,FF - เสร็จ-ถึง-เสร็จ
+Field has been updated,อัปเดตฟิลด์แล้ว
+Field name is required for 'Set Field Value' action,ต้องระบุชื่อฟิลด์สำหรับการดำเนินการ 'ตั้งค่าฟิลด์'
+Field {0} is not a Link field,ฟิลด์ {0} ไม่ใช่ฟิลด์ลิงก์
+Field {0} not found in {1},ไม่พบฟิลด์ {0} ใน {1}
+file,ไฟล์
+File,ไฟล์
+File does not belong to this task,ไฟล์ไม่ได้เป็นของงานนี้
+File name is required,ต้องระบุชื่อไฟล์
+File uploaded,อัปโหลดไฟล์แล้ว
+File {0} not found,ไม่พบไฟล์ {0}
+files,ไฟล์
+Files,ไฟล์
+Filter,ตัวกรอง
+Final Decision,การตัดสินใจสุดท้าย
+Finance,การเงิน
+Financial,การเงิน
+Finish-to-Finish,เสร็จ-ถึง-เสร็จ
+Finish-to-Start,เสร็จ-ถึง-เริ่ม
+Flag,ทำเครื่องหมาย
+Flag for attention,ทำเครื่องหมายเพื่อให้ความสนใจ
+Flagged,ทำเครื่องหมายแล้ว
+Focus Panel,แผงโฟกัส
+Follows your system preference. Currently:,ใช้ตามการตั้งค่าระบบของคุณ ปัจจุบัน:
+Frappe Project {0} not found,ไม่พบโปรเจกต์ Frappe {0}
+Frappe Projects Migration,การย้ายข้อมูลโปรเจกต์ Frappe
+Frappe Projects module not available,โมดูลโปรเจกต์ Frappe ไม่พร้อมใช้งาน
+Frappe Projects module not installed,ยังไม่ได้ติดตั้งโมดูลโปรเจกต์ Frappe
+Frappe Projects sync is not enabled,ยังไม่ได้เปิดใช้งานการซิงค์โปรเจกต์ Frappe
+Frappe Task DocType not found,ไม่พบ DocType งาน Frappe
+Frappe Task has no project,งาน Frappe ไม่มีโปรเจกต์
+Frappe Task {0} not found,ไม่พบงาน Frappe {0}
+Fri,ศ.
+From,จาก
+From Template,จากเทมเพลต
+FS (Finish-Start),FS (เสร็จ-เริ่ม)
+FS - Finish-to-Start (default),FS - เสร็จ-ถึง-เริ่ม (ค่าเริ่มต้น)
+Full form view with audit trail,มุมมองฟอร์มเต็มพร้อมประวัติการตรวจสอบ
+Full name,ชื่อเต็ม
+Gantt,แกนต์
+Gantt Chart,แผนภูมิแกนต์
+Gantt View,มุมมองแกนต์
+General Note,บันทึกทั่วไป
+Get started,เริ่มต้นใช้งาน
+Go back,ย้อนกลับ
+Go Back,Go Back
+Group by,จัดกลุ่มตาม
+Group dependency removed,ลบการพึ่งพากลุ่มแล้ว
+Group dependency set,ตั้งการพึ่งพากลุ่มแล้ว
+Group removed,ลบกลุ่มแล้ว
+Group updated,อัปเดตกลุ่มแล้ว
+Hammock task dates are auto-calculated and cannot be changed manually,วันที่ของงานแบบ Hammock คำนวณอัตโนมัติและไม่สามารถเปลี่ยนด้วยตนเอง
+Have a question or need assistance? Fill out the form below and our team will get back to you.,มีคำถามหรือต้องการความช่วยเหลือ? กรอกแบบฟอร์มด้านล่างและทีมงานของเราจะติดต่อกลับ
+Health,สุขภาพ
+Healthy,สมบูรณ์
+Hello {0},สวัสดี {0}
+Here's what's happening with your projects today.,นี่คือสิ่งที่เกิดขึ้นกับโปรเจกต์ของคุณวันนี้
+Hide,ซ่อน
+High,สูง
+History,ประวัติ
+Home,หน้าหลัก
+Hourly Cost,ต้นทุนรายชั่วโมง
+Hours,ชั่วโมง
+hours,ชั่วโมง
+Hours Logged,ชั่วโมงที่บันทึก
+ID,รหัส
+Image must be smaller than 5 MB,รูปภาพต้องมีขนาดเล็กกว่า 5 MB
+Import,นำเข้า
+Import existing projects and tasks from Frappe Projects module,นำเข้าโปรเจกต์และงานที่มีอยู่จากโมดูลโปรเจกต์ Frappe
+Import failed,การนำเข้าล้มเหลว
+Import Template,นำเข้าเทมเพลต
+Imported,นำเข้าแล้ว
+in,ใน
+In Progress,กำลังดำเนินการ
+In Review,อยู่ระหว่างตรวจสอบ
+In-app notifications,การแจ้งเตือนในแอป
+Inactive,ไม่ใช้งาน
+Initial Review,การตรวจสอบเบื้องต้น
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,สิทธิ์ไม่เพียงพอที่จะดูงานทั้งหมด
+Intermediate,ระดับกลาง
+Internal,ภายใน
+Invalid DocType,DocType ไม่ถูกต้อง
+Invalid DocType for import,DocType สำหรับนำเข้าไม่ถูกต้อง
+Invalid item type: {0},ประเภทรายการไม่ถูกต้อง: {0}
+Invalid JSON data,ข้อมูล JSON ไม่ถูกต้อง
+Invalid note type. Must be one of: {0},ประเภทบันทึกไม่ถูกต้อง ต้องเป็นหนึ่งใน: {0}
+Invalid project reference,การอ้างอิงโปรเจกต์ไม่ถูกต้อง
+Invalid reaction type. Must be one of: {0},ประเภทปฏิกิริยาไม่ถูกต้อง ต้องเป็นหนึ่งใน: {0}
+Invalid RSVP status,สถานะ RSVP ไม่ถูกต้อง
+Invalid status. Must be one of: {0},สถานะไม่ถูกต้อง ต้องเป็นหนึ่งใน: {0}
+Invalid status: {0},สถานะไม่ถูกต้อง: {0}
+Invalid status: {0}. Must be one of: {1},สถานะไม่ถูกต้อง: {0} ต้องเป็นหนึ่งใน: {1}
+Invalid tracking context: {0},บริบทการติดตามไม่ถูกต้อง: {0}
+Invalid visibility. Must be one of: {0},การมองเห็นไม่ถูกต้อง ต้องเป็นหนึ่งใน: {0}
+Invitation: {0} - {1} at {2},คำเชิญ: {0} - {1} เวลา {2}
+Invite People,เชิญผู้คน
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,เพิ่มรายการแล้ว
+Item ID is required,ต้องระบุรหัสรายการ
+Item removed,ลบรายการแล้ว
+Item type is required,ต้องระบุประเภทรายการ
+Item {0} not found,ไม่พบรายการ {0}
+Job title or role,ตำแหน่งหรือบทบาท
+Join Meeting,เข้าร่วมการประชุม
+Just now,เมื่อสักครู่
+just now,เมื่อสักครู่
+Kanban,คันบัง
+Kanban Board,บอร์ดคันบัง
+Kanban View,มุมมองคันบัง
+Keyboard Shortcuts,ปุ่มลัด
+Keyboard shortcuts (?),ปุ่มลัด (?)
+Last checked: {0},Last checked: {0}
+Last Updated,อัปเดตล่าสุด
+Last updated:,อัปเดตล่าสุด:
+Last Week,สัปดาห์ที่แล้ว
+Latest Version,Latest Version
+Light,สว่าง
+Link failed,การเชื่อมโยงล้มเหลว
+Link Task,เชื่อมโยงงาน
+Linked,เชื่อมโยงแล้ว
+Linked employee not found,ไม่พบพนักงานที่เชื่อมโยง
+Linked Tasks,งานที่เชื่อมโยง
+List,รายการ
+List View,มุมมองรายการ
+Load failed,การโหลดล้มเหลว
+Load More,โหลดเพิ่มเติม
+Load more comments,โหลดความคิดเห็นเพิ่มเติม
+Loading activity...,กำลังโหลดกิจกรรม...
+Loading changes...,กำลังโหลดการเปลี่ยนแปลง...
+Loading checklist...,กำลังโหลดรายการตรวจสอบ...
+Loading comments...,กำลังโหลดความคิดเห็น...
+Loading contact...,กำลังโหลดผู้ติดต่อ...
+Loading contacts...,กำลังโหลดผู้ติดต่อ...
+Loading dependencies...,กำลังโหลดการพึ่งพา...
+Loading details...,กำลังโหลดรายละเอียด...
+Loading discussion...,กำลังโหลดการสนทนา...
+Loading events...,กำลังโหลดกิจกรรม...
+Loading files...,กำลังโหลดไฟล์...
+Loading notes...,กำลังโหลดบันทึก...
+Loading preferences...,กำลังโหลดการตั้งค่า...
+Loading project...,กำลังโหลดโปรเจกต์...
+Loading projects...,กำลังโหลดโปรเจกต์...
+Loading replies...,กำลังโหลดการตอบกลับ...
+Loading report data...,กำลังโหลดข้อมูลรายงาน...
+Loading settings...,กำลังโหลดการตั้งค่า...
+Loading task...,กำลังโหลดงาน...
+Loading templates...,กำลังโหลดเทมเพลต...
+Loading time logs...,กำลังโหลดบันทึกเวลา...
+Loading your portal...,กำลังโหลดพอร์ทัลของคุณ...
+Loading...,กำลังโหลด...
+Location,สถานที่
+Log Time,บันทึกเวลา
+Logout,ออกจากระบบ
+Low,ต่ำ
+Make Offer,ทำข้อเสนอ
+Manager,ผู้จัดการ
+Manual Entry,ป้อนข้อมูลด้วยตนเอง
+Margin,ส่วนต่าง
+Mark all as read,ทำเครื่องหมายทั้งหมดว่าอ่านแล้ว
+Mark all read,ทำเครื่องหมายอ่านแล้วทั้งหมด
+Mark as read,ทำเครื่องหมายว่าอ่านแล้ว
+Mark as unread,ทำเครื่องหมายว่ายังไม่อ่าน
+Mark read,ทำเครื่องหมายว่าอ่านแล้ว
+Marking...,กำลังทำเครื่องหมาย...
+Material,วัสดุ
+Maybe,อาจจะ
+Medium,ปานกลาง
+Meeting,การประชุม
+Meeting Link,ลิงก์การประชุม
+Meeting title,หัวข้อการประชุม
+Meeting URL,URL การประชุม
+Meetings,การประชุม
+Mention,กล่าวถึง
+Message,ข้อความ
+Message is required,ต้องระบุข้อความ
+Message is required for '{0}' action,ต้องระบุข้อความสำหรับการดำเนินการ '{0}'
+Migrate,ย้ายข้อมูล
+Migration Complete,ย้ายข้อมูลเสร็จสิ้น
+Migration ID:,รหัสการย้ายข้อมูล:
+Migration log not found: {0},ไม่พบบันทึกการย้ายข้อมูล: {0}
+milestone,เป้าหมาย
+Milestone,เป้าหมาย
+Milestone created,สร้างเป้าหมายแล้ว
+Milestone description has been saved.,บันทึกคำอธิบายเป้าหมายแล้ว
+Milestone ID is required,ต้องระบุรหัสเป้าหมาย
+Milestone marked as Missed (past due date),เป้าหมายถูกทำเครื่องหมายว่าพลาด (เลยวันครบกำหนด)
+Milestone moved,ย้ายเป้าหมายแล้ว
+Milestone Name,ชื่อเป้าหมาย
+Milestone name has been saved.,บันทึกชื่อเป้าหมายแล้ว
+Milestone name is required,ต้องระบุชื่อเป้าหมาย
+Milestone updated,อัปเดตเป้าหมายแล้ว
+Milestone {0} not found,ไม่พบเป้าหมาย {0}
+Milestone {0} not in project {1},เป้าหมาย {0} ไม่อยู่ในโปรเจกต์ {1}
+milestones,เป้าหมาย
+Milestones,เป้าหมาย
+Milestones:,เป้าหมาย:
+Minutes,นาที
+Missed,พลาด
+Mixed,ผสม
+Mobile,มือถือ
+Moderate,ปานกลาง
+Modified,แก้ไขแล้ว
+"Modify details, time, or attendees",แก้ไขรายละเอียด เวลา หรือผู้เข้าร่วม
+Mon,จ.
+Month,เดือน
+Move failed,การย้ายล้มเหลว
+Must be a positive number,ต้องเป็นตัวเลขบวก
+Must finish before this finishes,ต้องเสร็จก่อนงานนี้เสร็จ
+Must finish before this starts,ต้องเสร็จก่อนงานนี้เริ่ม
+Must start before this finishes,ต้องเริ่มก่อนงานนี้เสร็จ
+Must start before this starts,ต้องเริ่มก่อนงานนี้เริ่ม
+My Assignments,การมอบหมายของฉัน
+My Projects,โปรเจกต์ของฉัน
+My Schedule,ตารางของฉัน
+My Tasks,งานของฉัน
+N/A,ไม่ระบุ
+Name,ชื่อ
+Name (A-Z),ชื่อ (ก-ฮ)
+Name (Z-A),ชื่อ (ฮ-ก)
+Name cannot exceed 255 characters,ชื่อต้องไม่เกิน 255 ตัวอักษร
+Need help?,ต้องการความช่วยเหลือ?
+Needs Attention,ต้องการความสนใจ
+Never,Never
+new activities,กิจกรรมใหม่
+New Activity,กิจกรรมใหม่
+New activity,กิจกรรมใหม่
+New Event,กิจกรรมใหม่
+New index is required,ต้องระบุลำดับใหม่
+New Project,โปรเจกต์ใหม่
+New tasks will auto-trail by default.,งานใหม่จะเริ่มติดตามอัตโนมัติเป็นค่าเริ่มต้น
+Newest First,ใหม่ที่สุดก่อน
+Next,ถัดไป
+Next 14 days,14 วันข้างหน้า
+Next 30 days,30 วันข้างหน้า
+Next 60 days,60 วันข้างหน้า
+Next 7 days,7 วันข้างหน้า
+Next 90 days,90 วันข้างหน้า
+Next Week,สัปดาห์หน้า
+Next:,ถัดไป:
+No,ไม่
+No active assignments,ไม่มีการมอบหมายที่ใช้งาน
+No active projects,ไม่มีโปรเจกต์ที่ใช้งาน
+No active timer found,ไม่พบตัวจับเวลาที่ใช้งาน
+No activity selected,ไม่ได้เลือกกิจกรรม
+No assignments found,ไม่พบการมอบหมาย
+No attendees,ไม่มีผู้เข้าร่วม
+no change,ไม่มีการเปลี่ยนแปลง
+No changes for this field.,ไม่มีการเปลี่ยนแปลงสำหรับฟิลด์นี้
+No changes recorded for this activity.,ไม่มีการเปลี่ยนแปลงที่บันทึกสำหรับกิจกรรมนี้
+No checklist items yet,ยังไม่มีรายการตรวจสอบ
+No checklist items yet.,ยังไม่มีรายการตรวจสอบ
+No comments yet,ยังไม่มีความคิดเห็น
+No comments yet.,ยังไม่มีความคิดเห็น
+No contacts available,ไม่มีผู้ติดต่อ
+No content for this tab,ไม่มีเนื้อหาสำหรับแท็บนี้
+No data available,ไม่มีข้อมูล
+No data available for the selected filters,ไม่มีข้อมูลสำหรับตัวกรองที่เลือก
+No data to export,ไม่มีข้อมูลที่จะส่งออก
+No dates set,ยังไม่ได้ตั้งวันที่
+No defects reported,ไม่มีข้อบกพร่องที่รายงาน
+No dependencies defined,ไม่มีการพึ่งพาที่กำหนด
+No description,ไม่มีคำอธิบาย
+No discussion yet.,ยังไม่มีการสนทนา
+No documents attached,ไม่มีเอกสารแนบ
+No due date,ไม่มีวันครบกำหนด
+No employee linked to this resource,ไม่มีพนักงานที่เชื่อมโยงกับทรัพยากรนี้
+No ERPNext employee linked to resource,ไม่มีพนักงาน ERPNext ที่เชื่อมโยงกับทรัพยากร
+No events found,ไม่พบกิจกรรม
+No files attached yet.,ยังไม่มีไฟล์แนบ
+No Frappe Project linked,ไม่มีโปรเจกต์ Frappe ที่เชื่อมโยง
+No Grouping,ไม่จัดกลุ่ม
+No items,ไม่มีรายการ
+No matching tasks,ไม่มีงานที่ตรงกัน
+No matching tasks found,ไม่พบงานที่ตรงกัน
+No migration history,ไม่มีประวัติการย้ายข้อมูล
+No Milestone,ไม่มีเป้าหมาย
+No milestones,ไม่มีเป้าหมาย
+No milestones defined for this project.,ยังไม่มีเป้าหมายที่กำหนดสำหรับโปรเจกต์นี้
+No notes yet.,ยังไม่มีบันทึก
+No notes yet. Add a due diligence note to track progress.,ยังไม่มีบันทึก เพิ่มบันทึกตรวจสอบสถานะเพื่อติดตามความคืบหน้า
+No notifications,ไม่มีการแจ้งเตือน
+No Orga Project linked to Frappe Project {0},ไม่มีโปรเจกต์ Orga ที่เชื่อมโยงกับโปรเจกต์ Frappe {0}
+No overdue tasks,ไม่มีงานที่เกินกำหนด
+No pending cascade changes,ไม่มีการเปลี่ยนแปลงต่อเนื่องที่รอดำเนินการ
+No predecessors - this task can start independently,ไม่มีงานก่อนหน้า - งานนี้สามารถเริ่มได้อย่างอิสระ
+No project,ไม่มีโปรเจกต์
+No projects found,ไม่พบโปรเจกต์
+No Projects Yet,ยังไม่มีโปรเจกต์
+No recent activity,ไม่มีกิจกรรมล่าสุด
+No related documents,ไม่มีเอกสารที่เกี่ยวข้อง
+No resolved threads.,ไม่มีเธรดที่แก้ไขแล้ว
+No resources found,ไม่พบทรัพยากร
+No results found,ไม่พบผลลัพธ์
+No skills listed,ไม่มีทักษะที่ระบุ
+No skills recorded yet,ยังไม่มีทักษะที่บันทึก
+No successors - no tasks are waiting for this one,ไม่มีงานถัดไป - ไม่มีงานที่รอให้งานนี้เสร็จ
+No task selected,ไม่ได้เลือกงาน
+No tasks assigned to you,ไม่มีงานที่มอบหมายให้คุณ
+No tasks available to add,ไม่มีงานที่พร้อมเพิ่ม
+No tasks found,ไม่พบงาน
+No tasks linked to this milestone,ไม่มีงานที่เชื่อมโยงกับเป้าหมายนี้
+No tasks with dates to display,ไม่มีงานที่มีวันที่ที่จะแสดง
+No tasks yet,ยังไม่มีงาน
+No team members,ไม่มีสมาชิกในทีม
+No template,ไม่มีเทมเพลต
+No templates yet,ยังไม่มีเทมเพลต
+No time data found,ไม่พบข้อมูลเวลา
+No time logged today,ไม่มีเวลาที่บันทึกวันนี้
+No time logged yet,ยังไม่มีเวลาที่บันทึก
+No time logs for this period,ไม่มีบันทึกเวลาสำหรับช่วงนี้
+No time logs found,ไม่พบบันทึกเวลา
+No unread notifications,ไม่มีการแจ้งเตือนที่ยังไม่อ่าน
+No update information available yet.,No update information available yet.
+None,ไม่มี
+Not found,ไม่พบ
+Not permitted,ไม่ได้รับอนุญาต
+Not permitted to access this project,ไม่ได้รับอนุญาตให้เข้าถึงโปรเจกต์นี้
+Not permitted to access this task,ไม่ได้รับอนุญาตให้เข้าถึงงานนี้
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,ไม่ได้รับอนุญาตให้แสดงความคิดเห็นในเอกสารนี้
+Not permitted to create clients,ไม่ได้รับอนุญาตให้สร้างลูกค้า
+Not permitted to delete this client,ไม่ได้รับอนุญาตให้ลบลูกค้านี้
+Not permitted to delete this defect,ไม่ได้รับอนุญาตให้ลบข้อบกพร่องนี้
+Not permitted to delete this note,ไม่ได้รับอนุญาตให้ลบบันทึกนี้
+Not permitted to delete this project,ไม่ได้รับอนุญาตให้ลบโปรเจกต์นี้
+Not permitted to delete this task,ไม่ได้รับอนุญาตให้ลบงานนี้
+Not permitted to delete this time log,ไม่ได้รับอนุญาตให้ลบบันทึกเวลานี้
+Not permitted to invite clients,ไม่ได้รับอนุญาตให้เชิญลูกค้า
+Not permitted to modify client access,ไม่ได้รับอนุญาตให้แก้ไขสิทธิ์เข้าถึงลูกค้า
+Not permitted to modify this project,ไม่ได้รับอนุญาตให้แก้ไขโปรเจกต์นี้
+Not permitted to update settings,ไม่ได้รับอนุญาตให้อัปเดตการตั้งค่า
+Not permitted to update this client,ไม่ได้รับอนุญาตให้อัปเดตลูกค้านี้
+Not permitted to view this client,ไม่ได้รับอนุญาตให้ดูลูกค้านี้
+not sent,ไม่ได้ส่ง
+Not set,ยังไม่ได้ตั้งค่า
+Not specified,ไม่ได้ระบุ
+Note,บันทึก
+Note (optional),บันทึก (ไม่บังคับ)
+Note Content,เนื้อหาบันทึก
+Note content is required,ต้องระบุเนื้อหาบันทึก
+Note name is required,ต้องระบุชื่อบันทึก
+Note not found,ไม่พบบันทึก
+Note Type,ประเภทบันทึก
+Notes,บันทึก
+Notification,การแจ้งเตือน
+Notification not found,ไม่พบการแจ้งเตือน
+Notifications,การแจ้งเตือน
+Off Track,นอกเส้นทาง
+Offer,ข้อเสนอ
+Offer Prepared,เตรียมข้อเสนอแล้ว
+Oldest First,เก่าที่สุดก่อน
+On Hold,พักไว้
+On Leave,ลาพักร้อน
+On Track,ตามแผน
+On-Time Rate,อัตราตรงเวลา
+Only administrators can delete activities,เฉพาะผู้ดูแลระบบเท่านั้นที่สามารถลบกิจกรรม
+Only the comment author or administrators can delete comments,เฉพาะผู้เขียนความคิดเห็นหรือผู้ดูแลระบบเท่านั้นที่สามารถลบความคิดเห็น
+Only you and admins,เฉพาะคุณและผู้ดูแลระบบ
+Open,เปิด
+Open in Desk,เปิดใน Desk
+Open Task Log,เปิดบันทึกงาน
+Open Tasks,งานที่เปิดอยู่
+Optional,ไม่บังคับ
+optional,ไม่บังคับ
+Or email us directly at,หรือส่งอีเมลถึงเราโดยตรงที่
+Orga Project {0} from Frappe Projects,โปรเจกต์ Orga {0} จากโปรเจกต์ Frappe
+Orga Task {0} from Frappe,งาน Orga {0} จาก Frappe
+Organizer,ผู้จัดงาน
+Other,อื่น ๆ
+Over Budget,เกินงบประมาณ
+Overall Progress,ความคืบหน้าโดยรวม
+Overall Utilization,การใช้งานโดยรวม
+Overallocated,จัดสรรเกิน
+Overdue,เกินกำหนด
+overdue,เกินกำหนด
+Overdue Tasks,งานที่เกินกำหนด
+Overview,ภาพรวม
+Owner,เจ้าของ
+Page Not Found,ไม่พบหน้า
+Parent,หลัก
+Parent comment must belong to the same document,ความคิดเห็นหลักต้องอยู่ในเอกสารเดียวกัน
+Parent comment not found,ไม่พบความคิดเห็นหลัก
+Parent project not synced to Frappe yet,โปรเจกต์หลักยังไม่ได้ซิงค์กับ Frappe
+Parent project sync not enabled,ยังไม่ได้เปิดใช้งานการซิงค์โปรเจกต์หลัก
+Partner,พาร์ทเนอร์
+Pending,รอดำเนินการ
+per page,ต่อหน้า
+Perform initial assessment and background check,ดำเนินการประเมินเบื้องต้นและตรวจสอบประวัติ
+Permanently remove this event,ลบกิจกรรมนี้อย่างถาวร
+Permanently remove this task,ลบงานนี้อย่างถาวร
+Phone,โทรศัพท์
+Pin,ปักหมุด
+Pin Activity,ปักหมุดกิจกรรม
+Pin to top,ปักหมุดไว้ด้านบน
+Pinned,ปักหมุดแล้ว
+Planned budget for this task,งบประมาณที่วางแผนไว้สำหรับงานนี้
+Planning,การวางแผน
+Please describe your question or issue in detail...,กรุณาอธิบายคำถามหรือปัญหาของคุณโดยละเอียด...
+Please login to access Orga,กรุณาเข้าสู่ระบบเพื่อเข้าถึง Orga
+Please login to access the client portal,กรุณาเข้าสู่ระบบเพื่อเข้าถึงพอร์ทัลลูกค้า
+Please respond to this invitation in Orga,กรุณาตอบรับคำเชิญนี้ใน Orga
+Please select an image file,กรุณาเลือกไฟล์รูปภาพ
+Please try again,กรุณาลองอีกครั้ง
+Please type,กรุณาพิมพ์
+Portal,พอร์ทัล
+Portal access revoked for {0},เพิกถอนสิทธิ์เข้าถึงพอร์ทัลสำหรับ {0} แล้ว
+Portal user created successfully. Welcome email {0},สร้างผู้ใช้พอร์ทัลสำเร็จ อีเมลต้อนรับ {0}
+Post,โพสต์
+Powered by,ขับเคลื่อนโดย
+Powered by Tonic,ขับเคลื่อนโดย Tonic
+Predecessors (Blocked By),งานก่อนหน้า (ถูกบล็อกโดย)
+Preferences,การตั้งค่า
+Preferences saved successfully,บันทึกการตั้งค่าสำเร็จ
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",คำนำหน้าสำหรับรหัสโปรเจกต์ที่สร้างอัตโนมัติ (เช่น ORG-2026-0001)
+Prepare and document offer terms,จัดทำและบันทึกเงื่อนไขข้อเสนอ
+Press,กด
+Preview,ตัวอย่าง
+Preview cascade before applying,ดูตัวอย่างการเปลี่ยนแปลงต่อเนื่องก่อนนำไปใช้
+Previous,ก่อนหน้า
+Priority,ลำดับความสำคัญ
+Priority assigned to new tasks,ลำดับความสำคัญที่กำหนดให้กับงานใหม่
+Priority updated,อัปเดตลำดับความสำคัญแล้ว
+Proficiency,ความชำนาญ
+Profile,โปรไฟล์
+Progress,ความคืบหน้า
+Progress (High-Low),ความคืบหน้า (สูง-ต่ำ)
+Progress (Low-High),ความคืบหน้า (ต่ำ-สูง)
+Progress Overview,ภาพรวมความคืบหน้า
+Progress updated,อัปเดตความคืบหน้าแล้ว
+Project,โปรเจกต์
+Project budget has been saved.,บันทึกงบประมาณโปรเจกต์แล้ว
+Project code (e.g. ORG-2026-0001),รหัสโปรเจกต์ (เช่น ORG-2026-0001)
+Project Code Prefix,คำนำหน้ารหัสโปรเจกต์
+Project created,สร้างโปรเจกต์แล้ว
+Project deleted,ลบโปรเจกต์แล้ว
+Project description has been saved.,บันทึกคำอธิบายโปรเจกต์แล้ว
+Project Details,รายละเอียดโปรเจกต์
+Project end date has been saved.,บันทึกวันที่สิ้นสุดโปรเจกต์แล้ว
+Project Files,ไฟล์โปรเจกต์
+Project has no linked client,โปรเจกต์ไม่มีลูกค้าที่เชื่อมโยง
+Project Health,สุขภาพโปรเจกต์
+Project Info,ข้อมูลโปรเจกต์
+Project is required,ต้องระบุโปรเจกต์
+Project is required for project context,ต้องระบุโปรเจกต์สำหรับบริบทโปรเจกต์
+Project is required when tracking context is 'project',ต้องระบุโปรเจกต์เมื่อบริบทการติดตามเป็น 'project'
+Project Manager,ผู้จัดการโปรเจกต์
+Project Name,ชื่อโปรเจกต์
+Project name and template name are required,ต้องระบุชื่อโปรเจกต์และชื่อเทมเพลต
+Project name is required,ต้องระบุชื่อโปรเจกต์
+Project not found,ไม่พบโปรเจกต์
+Project not found or you do not have access,ไม่พบโปรเจกต์หรือคุณไม่มีสิทธิ์เข้าถึง
+Project settings,การตั้งค่าโปรเจกต์
+Project start date has been saved.,บันทึกวันที่เริ่มต้นโปรเจกต์แล้ว
+Project title has been saved.,บันทึกหัวข้อโปรเจกต์แล้ว
+Project Type,ประเภทโปรเจกต์
+Project updated,อัปเดตโปรเจกต์แล้ว
+Project {0} linked to client {1},โปรเจกต์ {0} เชื่อมโยงกับลูกค้า {1}
+Project {0} not found,ไม่พบโปรเจกต์ {0}
+Project {0} to Frappe Projects,โปรเจกต์ {0} ไปยังโปรเจกต์ Frappe
+Project:,โปรเจกต์:
+projects,โปรเจกต์
+Projects,โปรเจกต์
+Projects created:,โปรเจกต์ที่สร้าง:
+Projects Overview,ภาพรวมโปรเจกต์
+Projects skipped:,โปรเจกต์ที่ข้าม:
+Projects updated:,โปรเจกต์ที่อัปเดต:
+Promote failed,การเลื่อนระดับล้มเหลว
+Promote to task,เลื่อนเป็นงาน
+Promoted to task,เลื่อนเป็นงานแล้ว
+Propose,เสนอ
+Propose New Time,เสนอเวลาใหม่
+Propose Time,เสนอเวลา
+Proposed End,สิ้นสุดที่เสนอ
+Proposed Start,เริ่มต้นที่เสนอ
+Public,สาธารณะ
+Quick Action,การดำเนินการด่วน
+Quick Actions,การดำเนินการด่วน
+Quick Stats,สถิติด่วน
+Rates,อัตรา
+Receive notifications via email,รับการแจ้งเตือนทางอีเมล
+Receive notifications within the application,รับการแจ้งเตือนภายในแอปพลิเคชัน
+Recent Activity,กิจกรรมล่าสุด
+Recipient {0} is not a valid user,ผู้รับ {0} ไม่ใช่ผู้ใช้ที่ถูกต้อง
+Reference,อ้างอิง
+Refresh,รีเฟรช
+Related,ที่เกี่ยวข้อง
+Related Company (optional),บริษัทที่เกี่ยวข้อง (ไม่บังคับ)
+Related Documents,เอกสารที่เกี่ยวข้อง
+Related Project,โปรเจกต์ที่เกี่ยวข้อง
+Remaining,เหลือ
+Reminder,การแจ้งเตือน
+Reminder Lead Time,เวลานำการแจ้งเตือน
+Reminder: {0} - {1} at {2},การแจ้งเตือน: {0} - {1} เวลา {2}
+Remove,ลบออก
+Remove dependency,ลบการพึ่งพา
+Remove dependency on,ลบการพึ่งพากับ
+Remove from group,ลบออกจากกลุ่ม
+Remove group dependency,ลบการพึ่งพากลุ่ม
+Remove skill,ลบทักษะ
+Reopen,เปิดอีกครั้ง
+Reopen thread,เปิดเธรดอีกครั้ง
+reopened,เปิดอีกครั้งแล้ว
+replies,การตอบกลับ
+Reply,ตอบกลับ
+reply,ตอบกลับ
+Replying to,ตอบกลับถึง
+Replying to comment,ตอบกลับความคิดเห็น
+Report Defect,รายงานข้อบกพร่อง
+Reported Date,วันที่รายงาน
+Reports,รายงาน
+Reports To,รายงานถึง
+Request Submitted!,ส่งคำขอแล้ว!
+Required,จำเป็น
+required,จำเป็น
+Research,การวิจัย
+Reset to Defaults,รีเซ็ตเป็นค่าเริ่มต้น
+Resolve,แก้ไข
+Resolve thread,แก้ไขเธรด
+Resolved,แก้ไขแล้ว
+Resolved date cannot be before reported date,วันที่แก้ไขต้องไม่อยู่ก่อนวันที่รายงาน
+Resource,ทรัพยากร
+Resource and skill name are required,ต้องระบุทรัพยากรและชื่อทักษะ
+Resource is already an attendee,ทรัพยากรเป็นผู้เข้าร่วมอยู่แล้ว
+Resource name is required,ต้องระบุชื่อทรัพยากร
+Resource not found,ไม่พบทรัพยากร
+Resource synced from employee {0},ซิงค์ทรัพยากรจากพนักงาน {0} แล้ว
+Resource {0} is already assigned to this task ({1}),ทรัพยากร {0} ได้รับมอบหมายให้กับงานนี้แล้ว ({1})
+Resource {0} not found,ไม่พบทรัพยากร {0}
+Resources,ทรัพยากร
+Retry,ลองอีกครั้ง
+Review,ตรวจสอบ
+Review all relevant documents and contracts,ตรวจสอบเอกสารและสัญญาที่เกี่ยวข้องทั้งหมด
+Reviews,การตรวจสอบ
+Risk Assessment,การประเมินความเสี่ยง
+Rollback,ย้อนกลับ
+Rolled back,ย้อนกลับแล้ว
+Room or address,ห้องหรือที่อยู่
+RSVP,ตอบรับ
+Safety,ความปลอดภัย
+Sat,ส.
+Save,บันทึก
+"Save a project as a template, or import one from a JSON file.",บันทึกโปรเจกต์เป็นเทมเพลต หรือนำเข้าจากไฟล์ JSON
+Save as Template,บันทึกเป็นเทมเพลต
+Save Changes,บันทึกการเปลี่ยนแปลง
+Save failed,การบันทึกล้มเหลว
+Save Preferences,บันทึกการตั้งค่า
+Save Template,บันทึกเทมเพลต
+Saving...,กำลังบันทึก...
+Schedule,ตารางเวลา
+Schedule type is required for scheduled triggers,ต้องระบุประเภทตารางเวลาสำหรับทริกเกอร์ที่กำหนดเวลา
+Scheduled,กำหนดเวลาแล้ว
+Search,ค้นหา
+"Search by name, email, or skill...",ค้นหาตามชื่อ อีเมล หรือทักษะ...
+Search for a project...,ค้นหาโปรเจกต์...
+Search for a task...,ค้นหางาน...
+Search for an event...,ค้นหากิจกรรม...
+Search for people to invite...,ค้นหาผู้คนเพื่อเชิญ...
+Search tasks to link...,ค้นหางานเพื่อเชื่อมโยง...
+Search tasks...,ค้นหางาน...
+Search...,ค้นหา...
+Searching...,กำลังค้นหา...
+Seen,เห็นแล้ว
+Select a project if your request is related to a specific project.,เลือกโปรเจกต์หากคำขอของคุณเกี่ยวข้องกับโปรเจกต์เฉพาะ
+Select a project...,เลือกโปรเจกต์...
+Select a task from the Gantt chart to view and manage its details.,เลือกงานจากแผนภูมิแกนต์เพื่อดูและจัดการรายละเอียด
+Select a task from the list or Kanban board to view and manage its details.,เลือกงานจากรายการหรือบอร์ดคันบังเพื่อดูและจัดการรายละเอียด
+Select a template...,เลือกเทมเพลต...
+Select priority...,เลือกลำดับความสำคัญ...
+Select status...,เลือกสถานะ...
+Select task...,เลือกงาน...
+Select type...,เลือกประเภท...
+Selection,การเลือก
+Send,ส่ง
+Send comment,ส่งความคิดเห็น
+Send email invitations to attendees,ส่งคำเชิญทางอีเมลถึงผู้เข้าร่วม
+Send Invitations,ส่งคำเชิญ
+Send notification when a task is assigned to a user,ส่งการแจ้งเตือนเมื่อมอบหมายงานให้ผู้ใช้
+Send notification when task status changes,ส่งการแจ้งเตือนเมื่อสถานะงานเปลี่ยน
+Send reminder before task due date,ส่งการแจ้งเตือนก่อนวันครบกำหนดของงาน
+sent,ส่งแล้ว
+Set rate,ตั้งอัตรา
+Settings,การตั้งค่า
+Settings saved successfully,บันทึกการตั้งค่าสำเร็จ
+Severity,ความรุนแรง
+SF (Start-Finish),SF (เริ่ม-เสร็จ)
+SF - Start-to-Finish,SF - เริ่ม-ถึง-เสร็จ
+Show,แสดง
+Show all,แสดงทั้งหมด
+Show all changes,แสดงการเปลี่ยนแปลงทั้งหมด
+Show Archived,แสดงที่จัดเก็บ
+Show full diff,แสดงความแตกต่างทั้งหมด
+Show less,แสดงน้อยลง
+Show more,แสดงเพิ่มเติม
+Skill added,เพิ่มทักษะแล้ว
+Skill is required,ต้องระบุทักษะ
+Skill Name,ชื่อทักษะ
+Skill removed,ลบทักษะแล้ว
+Skill {0} already exists for this resource,ทักษะ {0} มีอยู่แล้วสำหรับทรัพยากรนี้
+Skills,ทักษะ
+Skills & Competencies,ทักษะและความสามารถ
+Skip already migrated projects,ข้ามโปรเจกต์ที่ย้ายข้อมูลแล้ว
+Sort by,จัดเรียงตาม
+Sort: Due Date,เรียง: วันครบกำหนด
+Sort: Priority,เรียง: ลำดับความสำคัญ
+Sort: Project,เรียง: โปรเจกต์
+Sort: Status,เรียง: สถานะ
+Sort: Task,เรียง: งาน
+Source Code,ซอร์สโค้ด
+Spent,ใช้ไป
+Spent:,ใช้ไป:
+SS (Start-Start),SS (เริ่ม-เริ่ม)
+SS - Start-to-Start,SS - เริ่ม-ถึง-เริ่ม
+Standalone,แบบเดี่ยว
+Start,เริ่มต้น
+Start a discussion below,เริ่มการสนทนาด้านล่าง
+Start Date,วันที่เริ่มต้น
+Start date,วันที่เริ่มต้น
+Start Date (Earliest),วันที่เริ่มต้น (เร็วที่สุด)
+Start date updated,อัปเดตวันที่เริ่มต้นแล้ว
+Start date/time is required,ต้องระบุวันที่/เวลาเริ่มต้น
+Start Migration,เริ่มย้ายข้อมูล
+Start the conversation below.,เริ่มการสนทนาด้านล่าง
+Start Timer,เริ่มจับเวลา
+Start typing to search...,เริ่มพิมพ์เพื่อค้นหา...
+Start-to-Finish,เริ่ม-ถึง-เสร็จ
+Start-to-Start,เริ่ม-ถึง-เริ่ม
+Start:,เริ่มต้น:
+Statistics reset,รีเซ็ตสถิติแล้ว
+Status,สถานะ
+Status assigned to new projects,สถานะที่กำหนดให้กับโปรเจกต์ใหม่
+Status assigned to new tasks,สถานะที่กำหนดให้กับงานใหม่
+Status Changes,การเปลี่ยนแปลงสถานะ
+Status updated,อัปเดตสถานะแล้ว
+Status:,สถานะ:
+Stop,หยุด
+Stop & Save,หยุดและบันทึก
+Stop Timer,หยุดจับเวลา
+Stops current timer and starts for this event,หยุดตัวจับเวลาปัจจุบันและเริ่มสำหรับกิจกรรมนี้
+Stops current timer and starts for this task,หยุดตัวจับเวลาปัจจุบันและเริ่มสำหรับงานนี้
+Subject,หัวข้อ
+Subject cannot exceed 255 characters,หัวข้อต้องไม่เกิน 255 ตัวอักษร
+Subject is required,ต้องระบุหัวข้อ
+Submit,ส่ง
+Submit Another Request,ส่งคำขออีกรายการ
+Submit Request,ส่งคำขอ
+Submitting...,กำลังส่ง...
+Successfully saved,บันทึกสำเร็จ
+Successors (Blocking),งานถัดไป (กำลังบล็อก)
+Sun,อา.
+Supplier,ซัพพลายเออร์
+Support,การสนับสนุน
+Switch to this event,สลับไปยังกิจกรรมนี้
+Switch to this task,สลับไปยังงานนี้
+Sync direction is set to Frappe to Orga only,ทิศทางการซิงค์ตั้งค่าเป็น Frappe ไปยัง Orga เท่านั้น
+Sync direction is set to Orga to Frappe only,ทิศทางการซิงค์ตั้งค่าเป็น Orga ไปยัง Frappe เท่านั้น
+Sync not enabled for this project,ยังไม่ได้เปิดใช้งานการซิงค์สำหรับโปรเจกต์นี้
+System,ระบบ
+Table,ตาราง
+Take ownership of this task,รับผิดชอบงานนี้
+Target Date,วันที่เป้าหมาย
+Target End,สิ้นสุดเป้าหมาย
+Target Project,โปรเจกต์เป้าหมาย
+Target user is required for '{0}' action,ต้องระบุผู้ใช้เป้าหมายสำหรับการดำเนินการ '{0}'
+task,งาน
+Task,งาน
+Task '{0}' is due on {1}.,งาน '{0}' ครบกำหนดวันที่ {1}
+Task and resource are required,ต้องระบุงานและทรัพยากร
+Task Assignment,การมอบหมายงาน
+Task cannot be its own parent,งานไม่สามารถเป็นหลักของตัวเอง
+Task cannot depend on itself,งานไม่สามารถพึ่งพาตัวเอง
+Task cannot depend on the group it belongs to,งานไม่สามารถพึ่งพากลุ่มที่ตัวเองอยู่
+Task created,สร้างงานแล้ว
+Task deleted,ลบงานแล้ว
+Task description has been saved.,บันทึกคำอธิบายงานแล้ว
+Task Details,รายละเอียดงาน
+Task due in {0} days: {1},งานครบกำหนดใน {0} วัน: {1}
+Task due today: {0},งานครบกำหนดวันนี้: {0}
+Task due tomorrow: {0},งานครบกำหนดพรุ่งนี้: {0}
+Task duplicated,ทำสำเนางานแล้ว
+Task Group,กลุ่มงาน
+Task ID is required,ต้องระบุรหัสงาน
+Task is blocked by incomplete dependencies,งานถูกบล็อกโดยการพึ่งพาที่ยังไม่เสร็จ
+Task is cancelled,งานถูกยกเลิก
+Task is completed,งานเสร็จสมบูรณ์
+Task is no longer blocked by a group,งานไม่ถูกบล็อกโดยกลุ่มอีกต่อไป
+Task is required for task context,ต้องระบุงานสำหรับบริบทงาน
+Task is required when tracking context is 'task',ต้องระบุงานเมื่อบริบทการติดตามเป็น 'task'
+Task linked,เชื่อมโยงงานแล้ว
+Task moved,ย้ายงานแล้ว
+Task name,ชื่องาน
+Task name is required,ต้องระบุชื่องาน
+Task removed from group,ลบงานออกจากกลุ่มแล้ว
+Task Subject,หัวข้องาน
+Task subject is required,ต้องระบุหัวข้องาน
+Task Type,ประเภทงาน
+Task unblocked: {0},ปลดบล็อกงาน: {0}
+Task unlinked,ยกเลิกการเชื่อมโยงงานแล้ว
+Task updated,อัปเดตงานแล้ว
+Task {0} not found,ไม่พบงาน {0}
+Task {0} not in project {1},งาน {0} ไม่อยู่ในโปรเจกต์ {1}
+Task {0} to Frappe,งาน {0} ไปยัง Frappe
+Tasks,งาน
+tasks,งาน
+Tasks and milestones will be created with dates relative to the project start date.,งานและเป้าหมายจะถูกสร้างด้วยวันที่สัมพันธ์กับวันที่เริ่มต้นโปรเจกต์
+Tasks assigned to you across all projects.,งานที่มอบหมายให้คุณในทุกโปรเจกต์
+Tasks created:,งานที่สร้าง:
+Tasks from projects you manage.,งานจากโปรเจกต์ที่คุณจัดการ
+Tasks updated:,งานที่อัปเดต:
+"Tasks, milestones, and dependencies have been created.",สร้างงาน เป้าหมาย และการพึ่งพาแล้ว
+Tasks:,งาน:
+TBD,ยังไม่กำหนด
+Team,ทีม
+Team Members,สมาชิกในทีม
+Template,เทมเพลต
+Template applied,นำเทมเพลตไปใช้แล้ว
+Template data is required in import data,ต้องระบุข้อมูลเทมเพลตในข้อมูลนำเข้า
+Template has no data,เทมเพลตไม่มีข้อมูล
+Template Name,ชื่อเทมเพลต
+Template name,ชื่อเทมเพลต
+Template name is required,ต้องระบุชื่อเทมเพลต
+Template name is required in import data,ต้องระบุชื่อเทมเพลตในข้อมูลนำเข้า
+Template saved,บันทึกเทมเพลตแล้ว
+Template updated successfully.,อัปเดตเทมเพลตสำเร็จ
+Template {0} not found,ไม่พบเทมเพลต {0}
+Templates,เทมเพลต
+Tentative,ยังไม่แน่นอน
+The comment has been deleted,ลบความคิดเห็นแล้ว
+The project,โปรเจกต์
+The source document may have been deleted.,เอกสารต้นฉบับอาจถูกลบแล้ว
+The source document will not be affected.,เอกสารต้นฉบับจะไม่ได้รับผลกระทบ
+The status of '{0}' was changed from {1} to {2}.,สถานะของ '{0}' เปลี่ยนจาก {1} เป็น {2}
+Theme,ธีม
+Theme preference,การตั้งค่าธีม
+This action,การดำเนินการนี้
+This action cannot be undone.,การดำเนินการนี้ไม่สามารถเลิกทำได้
+This activity has been flagged for attention,กิจกรรมนี้ถูกทำเครื่องหมายเพื่อให้ความสนใจ
+This is a reminder for your upcoming appointment,นี่คือการแจ้งเตือนสำหรับการนัดหมายที่กำลังจะมาถึง
+This method is only meant for developer mode,เมธอดนี้มีไว้สำหรับโหมดนักพัฒนาเท่านั้น
+This page wandered off,This page wandered off
+This Week,สัปดาห์นี้
+This will delete all notes and preferences associated with this activity.,การดำเนินการนี้จะลบบันทึกและการตั้งค่าทั้งหมดที่เกี่ยวข้องกับกิจกรรมนี้
+This will import all Frappe Projects into Orga. Continue?,การดำเนินการนี้จะนำเข้าโปรเจกต์ Frappe ทั้งหมดไปยัง Orga ดำเนินการต่อ?
+This will permanently delete,การดำเนินการนี้จะลบอย่างถาวร
+This will permanently delete:,การดำเนินการนี้จะลบอย่างถาวร:
+Thu,พฤ.
+Time,เวลา
+Time & Billing,เวลาและการเรียกเก็บ
+Time & Revenue,เวลาและรายได้
+Time Entries,รายการบันทึกเวลา
+Time log name is required,ต้องระบุชื่อบันทึกเวลา
+Time Log not found,ไม่พบบันทึกเวลา
+Time log {0} not found,ไม่พบบันทึกเวลา {0}
+Time Logs,บันทึกเวลา
+Time Summary,สรุปเวลา
+Time Tracking,การติดตามเวลา
+Timeline,ลำดับเวลา
+Timer active on,ตัวจับเวลาทำงานอยู่ที่
+Timer is not running,ตัวจับเวลาไม่ได้ทำงาน
+Timer Running,ตัวจับเวลากำลังทำงาน
+Timer running,ตัวจับเวลากำลังทำงาน
+Timesheet DocType not available,DocType ใบบันทึกเวลาไม่พร้อมใช้งาน
+Timesheets,ใบบันทึกเวลา
+Timezone,เขตเวลา
+Timezone is detected from your browser,เขตเวลาถูกตรวจจับจากเบราว์เซอร์ของคุณ
+Title,หัวข้อ
+Title cannot exceed 255 characters,หัวข้อต้องไม่เกิน 255 ตัวอักษร
+Title is required,ต้องระบุหัวข้อ
+Title updated,อัปเดตหัวข้อแล้ว
+To,ถึง
+to,ถึง
+to cancel,เพื่อยกเลิก
+to close,เพื่อปิด
+to confirm:,เพื่อยืนยัน:
+to edit,เพื่อแก้ไข
+"to save,","เพื่อบันทึก,"
+To Time cannot be before From Time,เวลาสิ้นสุดต้องไม่อยู่ก่อนเวลาเริ่มต้น
+Today,วันนี้
+today,วันนี้
+Toggle billable,สลับเรียกเก็บเงินได้
+Toggle Details Panel,สลับแผงรายละเอียด
+Toggle Manager Panel,สลับแผงผู้จัดการ
+Toggle Sidebar,สลับแถบข้าง
+Tomorrow,พรุ่งนี้
+tomorrow,พรุ่งนี้
+Total,รวม
+Total Budget,งบประมาณรวม
+Total Contacts,ผู้ติดต่อทั้งหมด
+Total Cost,ต้นทุนรวม
+Total Cost to Org,ต้นทุนรวมขององค์กร
+Total Defect Cost,ต้นทุนข้อบกพร่องรวม
+Total Hours,ชั่วโมงรวม
+Total Hours Logged,ชั่วโมงที่บันทึกทั้งหมด
+Total Projects,โปรเจกต์ทั้งหมด
+Total Spent,ใช้จ่ายรวม
+Total Tasks,งานทั้งหมด
+Total:,รวม:
+Tracked,ติดตามแล้ว
+trails to today while Open at 0%,ติดตามจนถึงวันนี้ขณะที่เปิดอยู่ที่ 0%
+Tried:,Tried:
+Try adjusting your filter criteria,ลองปรับเกณฑ์ตัวกรองของคุณ
+Try adjusting your filters.,ลองปรับตัวกรองของคุณ
+Try Again,ลองอีกครั้ง
+Tue,อ.
+Type,ประเภท
+Type updated,อัปเดตประเภทแล้ว
+Type:,ประเภท:
+Typical response time: 1-2 business days,เวลาตอบกลับทั่วไป: 1-2 วันทำการ
+Unarchive,ยกเลิกการจัดเก็บ
+Unarchive Activity,ยกเลิกการจัดเก็บกิจกรรม
+Unassign,ยกเลิกการมอบหมาย
+Unassigned,ยังไม่มอบหมาย
+Under Budget,ต่ำกว่างบประมาณ
+Ungrouped,ไม่มีกลุ่ม
+Unknown,ไม่ทราบ
+Unknown error,ข้อผิดพลาดที่ไม่ทราบสาเหตุ
+Unlink failed,การยกเลิกการเชื่อมโยงล้มเหลว
+Unlink task from milestone,ยกเลิกการเชื่อมโยงงานจากเป้าหมาย
+Unpin,เลิกปักหมุด
+Unpin Activity,เลิกปักหมุดกิจกรรม
+Unread,ยังไม่อ่าน
+Unread only,ยังไม่อ่านเท่านั้น
+Until,จนถึง
+Up to Date,Up to Date
+Upcoming,กำลังจะมาถึง
+upcoming,กำลังจะมาถึง
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,การอัปเดตล้มเหลว
+Updated,อัปเดตแล้ว
+Updated successfully,อัปเดตสำเร็จ
+Updates,Updates
+Upload,อัปโหลด
+Upload failed,การอัปโหลดล้มเหลว
+Upload files below to attach them to this task.,อัปโหลดไฟล์ด้านล่างเพื่อแนบกับงานนี้
+Upload to project,อัปโหลดไปยังโปรเจกต์
+Uploading...,กำลังอัปโหลด...
+Urgent,เร่งด่วน
+User {0} is already linked to client {1},ผู้ใช้ {0} เชื่อมโยงกับลูกค้า {1} อยู่แล้ว
+User {0} is already linked to resource {1},ผู้ใช้ {0} เชื่อมโยงกับทรัพยากร {1} อยู่แล้ว
+Utilization,การใช้งาน
+Valid,ถูกต้อง
+Value:,ค่า:
+Variance,ผลต่าง
+Variance:,ผลต่าง:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,ดู
+View All,ดูทั้งหมด
+View all active projects,ดูโปรเจกต์ที่ใช้งานทั้งหมด
+View all open tasks,ดูงานที่เปิดอยู่ทั้งหมด
+View overdue tasks,ดูงานที่เกินกำหนด
+View Release,View Release
+Visibility,การมองเห็น
+Waiting for this task,กำลังรองานนี้
+Waits for:,รอ:
+Warning: Resource {0} status is {1},คำเตือน: สถานะทรัพยากร {0} คือ {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,คำเตือน: ใช้ HTTP แทน HTTPS ข้อมูล Webhook อาจไม่ปลอดภัย
+Watch budget closely,ติดตามงบประมาณอย่างใกล้ชิด
+We'll respond to:,เราจะตอบกลับไปที่:
+Webhook deleted,ลบ Webhook แล้ว
+Webhook name is required,ต้องระบุชื่อ Webhook
+Webhook not found,ไม่พบ Webhook
+Webhook URL is required,ต้องระบุ URL ของ Webhook
+Webhook URL must start with http:// or https://,URL ของ Webhook ต้องเริ่มต้นด้วย http:// หรือ https://
+Wed,พ.
+Week,สัปดาห์
+Weekend,วันหยุดสุดสัปดาห์
+Weekly Capacity,ความจุรายสัปดาห์
+weekly capacity,ความจุรายสัปดาห์
+Weekly Capacity (h),ความจุรายสัปดาห์ (ชม.)
+Welcome,ยินดีต้อนรับ
+Welcome back!,ยินดีต้อนรับกลับมา!
+Welcome to Orga,ยินดีต้อนรับสู่ Orga
+What are you working on?,คุณกำลังทำอะไรอยู่?
+What did you work on?,คุณทำอะไรไปบ้าง?
+When,เมื่อ
+When work begins,เมื่อเริ่มงาน
+When work is due,เมื่อถึงกำหนดส่งงาน
+Where,ที่ไหน
+Will capture:,จะบันทึก:
+Will create:,จะสร้าง:
+with checklist items,พร้อมรายการตรวจสอบ
+Working,กำลังทำงาน
+Workload,ปริมาณงาน
+Workmanship,ฝีมือ
+Write a comment...,เขียนความคิดเห็น...
+Write a comment... Use @name to mention (Ctrl+Enter to send),เขียนความคิดเห็น... ใช้ @ชื่อ เพื่อกล่าวถึง (Ctrl+Enter เพื่อส่ง)
+Year,ปี
+Yes,ใช่
+Yesterday,เมื่อวาน
+yesterday,เมื่อวาน
+You are not an attendee of this appointment,คุณไม่ใช่ผู้เข้าร่วมของการนัดหมายนี้
+You are not linked to any resource,คุณไม่ได้เชื่อมโยงกับทรัพยากรใด
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,คุณสามารถลบเฉพาะความคิดเห็นของคุณเอง
+You can only delete your own reactions,คุณสามารถลบเฉพาะปฏิกิริยาของคุณเอง
+You do not have access to the client portal. Please contact support.,คุณไม่มีสิทธิ์เข้าถึงพอร์ทัลลูกค้า กรุณาติดต่อฝ่ายสนับสนุน
+You have already reacted with '{0}',คุณได้แสดงปฏิกิริยา '{0}' แล้ว
+You have been assigned to task '{0}' in project '{1}'.,คุณได้รับมอบหมายงาน '{0}' ในโปรเจกต์ '{1}'
+You have been assigned to: {0},คุณได้รับมอบหมายให้: {0}
+You have been invited to the following appointment,คุณได้รับเชิญเข้าร่วมการนัดหมายต่อไปนี้
+You have no tasks assigned to you right now.,คุณไม่มีงานที่ได้รับมอบหมายในขณะนี้
+You were mentioned in {0},คุณถูกกล่าวถึงใน {0}
+Your attendance,การเข้าร่วมของคุณ
+Your comment has been posted,โพสต์ความคิดเห็นของคุณแล้ว
+Your Projects,โปรเจกต์ของคุณ
+Your projects will appear here once they're assigned to you.,โปรเจกต์ของคุณจะปรากฏที่นี่เมื่อได้รับมอบหมายให้คุณ
+Your Response,การตอบกลับของคุณ
+Your RSVP,การตอบรับของคุณ
+Your support request has been submitted successfully.,ส่งคำขอสนับสนุนของคุณสำเร็จ
+Your support request has been submitted successfully. We'll get back to you shortly.,ส่งคำขอสนับสนุนของคุณสำเร็จ เราจะติดต่อกลับโดยเร็ว
+"Your task ""{0}"" is no longer blocked and can now be started.","งาน ""{0}"" ของคุณไม่ถูกบล็อกอีกต่อไปและสามารถเริ่มได้แล้ว"
+{0} is required,ต้องระบุ {0}
+{0} new activities,{0} กิจกรรมใหม่
+{0} of {1} completed,{0} จาก {1} เสร็จสมบูรณ์
+{0} projects already migrated (will be skipped or updated),{0} โปรเจกต์ที่ย้ายข้อมูลแล้ว (จะถูกข้ามหรืออัปเดต)
+{0} status changed to {1},สถานะ {0} เปลี่ยนเป็น {1}
+{0} tasks remaining,{0} งานที่เหลือ
+{0} tasks without projects will be skipped,{0} งานที่ไม่มีโปรเจกต์จะถูกข้าม
+{0} {1} not found,ไม่พบ {0} {1}

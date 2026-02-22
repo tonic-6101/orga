@@ -1,0 +1,160 @@
+{
+  "actions": [],
+  "autoname": "naming_series:",
+  "creation": "2026-02-03 12:00:00.000000",
+  "doctype": "DocType",
+  "engine": "InnoDB",
+  "field_order": [
+    "naming_series",
+    "milestone_name",
+    "project",
+    "column_break_1",
+    "status",
+    "due_date",
+    "section_description",
+    "description",
+    "completion_criteria",
+    "sort_order",
+    "section_completion",
+    "completed_date"
+  ],
+  "fields": [
+    {
+      "fieldname": "naming_series",
+      "fieldtype": "Select",
+      "hidden": 1,
+      "label": "Naming Series",
+      "options": "MS-.#####",
+      "reqd": 1
+    },
+    {
+      "fieldname": "milestone_name",
+      "fieldtype": "Data",
+      "in_list_view": 1,
+      "in_standard_filter": 1,
+      "label": "Milestone Name",
+      "reqd": 1
+    },
+    {
+      "fieldname": "project",
+      "fieldtype": "Link",
+      "in_list_view": 1,
+      "in_standard_filter": 1,
+      "label": "Project",
+      "options": "Orga Project",
+      "reqd": 1
+    },
+    {
+      "fieldname": "column_break_1",
+      "fieldtype": "Column Break"
+    },
+    {
+      "default": "Upcoming",
+      "fieldname": "status",
+      "fieldtype": "Select",
+      "in_list_view": 1,
+      "in_standard_filter": 1,
+      "label": "Status",
+      "options": "Upcoming\nIn Progress\nCompleted\nMissed",
+      "reqd": 1
+    },
+    {
+      "fieldname": "due_date",
+      "fieldtype": "Date",
+      "in_list_view": 1,
+      "label": "Due Date",
+      "reqd": 1
+    },
+    {
+      "fieldname": "section_description",
+      "fieldtype": "Section Break",
+      "label": "Details"
+    },
+    {
+      "fieldname": "description",
+      "fieldtype": "Text Editor",
+      "label": "Description"
+    },
+    {
+      "fieldname": "completion_criteria",
+      "fieldtype": "Text",
+      "label": "Completion Criteria"
+    },
+    {
+      "default": "0",
+      "description": "Floating-point sort order for Gantt chart drag-and-drop positioning",
+      "fieldname": "sort_order",
+      "fieldtype": "Float",
+      "hidden": 1,
+      "label": "Sort Order",
+      "precision": "6"
+    },
+    {
+      "fieldname": "section_completion",
+      "fieldtype": "Section Break",
+      "label": "Completion"
+    },
+    {
+      "fieldname": "completed_date",
+      "fieldtype": "Date",
+      "label": "Completed Date",
+      "read_only": 1
+    }
+  ],
+  "index_web_pages_for_search": 1,
+  "links": [],
+  "modified": "2026-02-03 12:00:00.000000",
+  "modified_by": "Administrator",
+  "module": "Orga",
+  "name": "Orga Milestone",
+  "naming_rule": "By \"Naming Series\" field",
+  "owner": "Administrator",
+  "permissions": [
+    {
+      "create": 1,
+      "delete": 1,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "System Manager",
+      "share": 1,
+      "write": 1
+    },
+    {
+      "create": 1,
+      "delete": 1,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "Orga Manager",
+      "share": 1,
+      "write": 1
+    },
+    {
+      "create": 1,
+      "delete": 0,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "Orga User",
+      "share": 0,
+      "write": 1
+    },
+    {
+      "read": 1,
+      "role": "Orga Client"
+    }
+  ],
+  "search_fields": "milestone_name,project,status",
+  "sort_field": "due_date",
+  "sort_order": "ASC",
+  "states": [],
+  "title_field": "milestone_name",
+  "track_changes": 1
+}

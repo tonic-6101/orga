@@ -1,0 +1,321 @@
+{
+  "actions": [],
+  "allow_rename": 1,
+  "autoname": "field:project_code",
+  "creation": "2026-02-03 12:00:00.000000",
+  "doctype": "DocType",
+  "engine": "InnoDB",
+  "field_order": [
+    "project_name",
+    "project_code",
+    "column_break_1",
+    "status",
+    "project_type",
+    "section_description",
+    "description",
+    "section_dates",
+    "start_date",
+    "end_date",
+    "column_break_dates",
+    "actual_start",
+    "actual_end",
+    "section_scheduling",
+    "dependency_mode",
+    "column_break_scheduling",
+    "auto_schedule_on_completion",
+    "auto_trail_start_default",
+    "section_finance",
+    "budget",
+    "estimated_cost",
+    "spent",
+    "column_break_finance",
+    "client",
+    "section_team",
+    "project_manager",
+    "section_metrics",
+    "progress",
+    "health_status",
+    "section_frappe_integration",
+    "sync_with_frappe_projects",
+    "frappe_project_link",
+    "column_break_frappe",
+    "last_frappe_sync",
+    "frappe_sync_status"
+  ],
+  "fields": [
+    {
+      "fieldname": "project_name",
+      "fieldtype": "Data",
+      "in_list_view": 1,
+      "in_standard_filter": 1,
+      "label": "Project Name",
+      "reqd": 1
+    },
+    {
+      "fieldname": "project_code",
+      "fieldtype": "Data",
+      "in_list_view": 1,
+      "label": "Project Code",
+      "unique": 1
+    },
+    {
+      "fieldname": "column_break_1",
+      "fieldtype": "Column Break"
+    },
+    {
+      "default": "Planning",
+      "fieldname": "status",
+      "fieldtype": "Select",
+      "in_list_view": 1,
+      "in_standard_filter": 1,
+      "label": "Status",
+      "options": "Planning\nActive\nOn Hold\nCompleted\nCancelled",
+      "reqd": 1
+    },
+    {
+      "default": "Internal",
+      "fieldname": "project_type",
+      "fieldtype": "Select",
+      "in_standard_filter": 1,
+      "label": "Project Type",
+      "options": "Internal\nClient\nMixed",
+      "reqd": 1
+    },
+    {
+      "fieldname": "section_description",
+      "fieldtype": "Section Break",
+      "label": "Description"
+    },
+    {
+      "fieldname": "description",
+      "fieldtype": "Text Editor",
+      "label": "Description"
+    },
+    {
+      "fieldname": "section_dates",
+      "fieldtype": "Section Break",
+      "label": "Dates"
+    },
+    {
+      "fieldname": "start_date",
+      "fieldtype": "Date",
+      "in_list_view": 1,
+      "label": "Start Date",
+      "reqd": 1
+    },
+    {
+      "fieldname": "end_date",
+      "fieldtype": "Date",
+      "label": "End Date",
+      "reqd": 1
+    },
+    {
+      "fieldname": "column_break_dates",
+      "fieldtype": "Column Break"
+    },
+    {
+      "fieldname": "actual_start",
+      "fieldtype": "Date",
+      "label": "Actual Start"
+    },
+    {
+      "fieldname": "actual_end",
+      "fieldtype": "Date",
+      "label": "Actual End"
+    },
+    {
+      "collapsible": 1,
+      "fieldname": "section_scheduling",
+      "fieldtype": "Section Break",
+      "label": "Scheduling"
+    },
+    {
+      "default": "Flexible",
+      "description": "Strict: auto-shift dependent task dates when a predecessor moves. Flexible: preview cascade before applying. Off: dependencies are informational only.",
+      "fieldname": "dependency_mode",
+      "fieldtype": "Select",
+      "label": "Dependency Mode",
+      "options": "Flexible\nStrict\nOff"
+    },
+    {
+      "fieldname": "column_break_scheduling",
+      "fieldtype": "Column Break"
+    },
+    {
+      "default": "0",
+      "description": "When a predecessor completes early, auto-advance successor start dates to today",
+      "fieldname": "auto_schedule_on_completion",
+      "fieldtype": "Check",
+      "label": "Auto-Schedule on Completion"
+    },
+    {
+      "default": "0",
+      "description": "New tasks in this project will have Auto-Trail Start enabled by default",
+      "fieldname": "auto_trail_start_default",
+      "fieldtype": "Check",
+      "label": "Auto-Trail Start (Default for New Tasks)"
+    },
+    {
+      "collapsible": 1,
+      "fieldname": "section_finance",
+      "fieldtype": "Section Break",
+      "label": "Finance"
+    },
+    {
+      "fieldname": "budget",
+      "fieldtype": "Currency",
+      "label": "Budget"
+    },
+    {
+      "fieldname": "estimated_cost",
+      "fieldtype": "Currency",
+      "label": "Estimated Cost",
+      "read_only": 1,
+      "description": "Sum of estimated costs from all project tasks"
+    },
+    {
+      "fieldname": "spent",
+      "fieldtype": "Currency",
+      "label": "Spent",
+      "read_only": 1
+    },
+    {
+      "fieldname": "column_break_finance",
+      "fieldtype": "Column Break"
+    },
+    {
+      "fieldname": "client",
+      "fieldtype": "Link",
+      "label": "Client",
+      "options": "Orga Client",
+      "in_standard_filter": 1,
+      "description": "Link to Orga Client for portal access"
+    },
+    {
+      "fieldname": "section_team",
+      "fieldtype": "Section Break",
+      "label": "Team"
+    },
+    {
+      "fieldname": "project_manager",
+      "fieldtype": "Link",
+      "label": "Project Manager",
+      "options": "User",
+      "reqd": 1
+    },
+    {
+      "fieldname": "section_metrics",
+      "fieldtype": "Section Break",
+      "label": "Metrics"
+    },
+    {
+      "fieldname": "progress",
+      "fieldtype": "Percent",
+      "label": "Progress",
+      "read_only": 1
+    },
+    {
+      "default": "Unknown",
+      "fieldname": "health_status",
+      "fieldtype": "Select",
+      "label": "Health Status",
+      "options": "Unknown\nGreen\nYellow\nRed"
+    },
+    {
+      "collapsible": 1,
+      "fieldname": "section_frappe_integration",
+      "fieldtype": "Section Break",
+      "label": "Frappe Projects Integration"
+    },
+    {
+      "default": "0",
+      "description": "Enable two-way sync with Frappe Projects",
+      "fieldname": "sync_with_frappe_projects",
+      "fieldtype": "Check",
+      "label": "Sync with Frappe Projects"
+    },
+    {
+      "depends_on": "eval:doc.sync_with_frappe_projects",
+      "description": "Link to corresponding Project in Frappe Projects module",
+      "fieldname": "frappe_project_link",
+      "fieldtype": "Link",
+      "label": "Frappe Project",
+      "options": "Project"
+    },
+    {
+      "fieldname": "column_break_frappe",
+      "fieldtype": "Column Break"
+    },
+    {
+      "depends_on": "eval:doc.sync_with_frappe_projects",
+      "fieldname": "last_frappe_sync",
+      "fieldtype": "Datetime",
+      "label": "Last Sync",
+      "read_only": 1
+    },
+    {
+      "depends_on": "eval:doc.sync_with_frappe_projects",
+      "fieldname": "frappe_sync_status",
+      "fieldtype": "Select",
+      "label": "Sync Status",
+      "options": "\nPending\nSynced\nError",
+      "read_only": 1
+    }
+  ],
+  "index_web_pages_for_search": 1,
+  "links": [],
+  "modified": "2026-02-16 12:00:00.000000",
+  "modified_by": "Administrator",
+  "module": "Orga",
+  "name": "Orga Project",
+  "naming_rule": "By fieldname",
+  "owner": "Administrator",
+  "permissions": [
+    {
+      "create": 1,
+      "delete": 1,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "System Manager",
+      "share": 1,
+      "write": 1
+    },
+    {
+      "create": 1,
+      "delete": 1,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "Orga Manager",
+      "share": 1,
+      "write": 1
+    },
+    {
+      "create": 1,
+      "delete": 0,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "Orga User",
+      "share": 0,
+      "write": 1
+    },
+    {
+      "read": 1,
+      "role": "Orga Client"
+    }
+  ],
+  "search_fields": "project_name,project_code,status",
+  "sort_field": "modified",
+  "sort_order": "DESC",
+  "states": [],
+  "title_field": "project_name",
+  "track_changes": 1
+}

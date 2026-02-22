@@ -1,0 +1,251 @@
+{
+  "actions": [],
+  "allow_rename": 1,
+  "autoname": "APT-.#####",
+  "creation": "2026-02-03 15:00:00.000000",
+  "doctype": "DocType",
+  "engine": "InnoDB",
+  "field_order": [
+    "title",
+    "event_type",
+    "column_break_1",
+    "status",
+    "color",
+    "section_datetime",
+    "all_day",
+    "start_datetime",
+    "column_break_datetime",
+    "end_datetime",
+    "duration_minutes",
+    "section_location",
+    "location",
+    "meeting_url",
+    "section_links",
+    "project",
+    "task",
+    "column_break_links",
+    "milestone",
+    "created_by",
+    "section_attendees",
+    "attendees",
+    "section_description",
+    "description",
+    "section_reminder",
+    "send_reminder",
+    "reminder_minutes",
+    "reminder_sent"
+  ],
+  "fields": [
+    {
+      "fieldname": "title",
+      "fieldtype": "Data",
+      "label": "Title",
+      "reqd": 1,
+      "in_list_view": 1,
+      "in_standard_filter": 1
+    },
+    {
+      "fieldname": "event_type",
+      "fieldtype": "Select",
+      "label": "Event Type",
+      "options": "Meeting\nDeadline\nReview\nMilestone\nOther",
+      "default": "Meeting",
+      "reqd": 1,
+      "in_list_view": 1,
+      "in_standard_filter": 1
+    },
+    {
+      "fieldname": "column_break_1",
+      "fieldtype": "Column Break"
+    },
+    {
+      "fieldname": "status",
+      "fieldtype": "Select",
+      "label": "Status",
+      "options": "Scheduled\nCompleted\nCancelled",
+      "default": "Scheduled",
+      "reqd": 1,
+      "in_list_view": 1,
+      "in_standard_filter": 1
+    },
+    {
+      "fieldname": "color",
+      "fieldtype": "Color",
+      "label": "Color",
+      "description": "Display color on calendar"
+    },
+    {
+      "fieldname": "section_datetime",
+      "fieldtype": "Section Break",
+      "label": "Date & Time"
+    },
+    {
+      "fieldname": "all_day",
+      "fieldtype": "Check",
+      "label": "All Day Event",
+      "default": 0
+    },
+    {
+      "fieldname": "start_datetime",
+      "fieldtype": "Datetime",
+      "label": "Start",
+      "reqd": 1,
+      "in_list_view": 1
+    },
+    {
+      "fieldname": "column_break_datetime",
+      "fieldtype": "Column Break"
+    },
+    {
+      "fieldname": "end_datetime",
+      "fieldtype": "Datetime",
+      "label": "End"
+    },
+    {
+      "fieldname": "duration_minutes",
+      "fieldtype": "Int",
+      "label": "Duration (minutes)",
+      "read_only": 1,
+      "description": "Auto-calculated from start/end"
+    },
+    {
+      "fieldname": "section_location",
+      "fieldtype": "Section Break",
+      "label": "Location"
+    },
+    {
+      "fieldname": "location",
+      "fieldtype": "Data",
+      "label": "Location",
+      "description": "Physical location or room name"
+    },
+    {
+      "fieldname": "meeting_url",
+      "fieldtype": "Data",
+      "label": "Meeting URL",
+      "options": "URL",
+      "description": "Video conference link"
+    },
+    {
+      "fieldname": "section_links",
+      "fieldtype": "Section Break",
+      "label": "Project Links"
+    },
+    {
+      "fieldname": "project",
+      "fieldtype": "Link",
+      "label": "Project",
+      "options": "Orga Project",
+      "in_standard_filter": 1
+    },
+    {
+      "fieldname": "task",
+      "fieldtype": "Link",
+      "label": "Task",
+      "options": "Orga Task"
+    },
+    {
+      "fieldname": "column_break_links",
+      "fieldtype": "Column Break"
+    },
+    {
+      "fieldname": "milestone",
+      "fieldtype": "Link",
+      "label": "Milestone",
+      "options": "Orga Milestone"
+    },
+    {
+      "fieldname": "created_by",
+      "fieldtype": "Link",
+      "label": "Created By",
+      "options": "User",
+      "read_only": 1
+    },
+    {
+      "fieldname": "section_attendees",
+      "fieldtype": "Section Break",
+      "label": "Attendees"
+    },
+    {
+      "fieldname": "attendees",
+      "fieldtype": "Table",
+      "label": "Attendees",
+      "options": "Orga Appointment Attendee"
+    },
+    {
+      "fieldname": "section_description",
+      "fieldtype": "Section Break",
+      "label": "Description",
+      "collapsible": 1
+    },
+    {
+      "fieldname": "description",
+      "fieldtype": "Text Editor",
+      "label": "Description"
+    },
+    {
+      "fieldname": "section_reminder",
+      "fieldtype": "Section Break",
+      "label": "Reminder",
+      "collapsible": 1
+    },
+    {
+      "fieldname": "send_reminder",
+      "fieldtype": "Check",
+      "label": "Send Reminder",
+      "default": 1
+    },
+    {
+      "fieldname": "reminder_minutes",
+      "fieldtype": "Int",
+      "label": "Remind Before (minutes)",
+      "default": 60,
+      "depends_on": "send_reminder"
+    },
+    {
+      "fieldname": "reminder_sent",
+      "fieldtype": "Check",
+      "label": "Reminder Sent",
+      "read_only": 1,
+      "hidden": 1
+    }
+  ],
+  "index_web_pages_for_search": 0,
+  "links": [],
+  "modified": "2026-02-03 15:00:00.000000",
+  "modified_by": "Administrator",
+  "module": "Orga",
+  "name": "Orga Appointment",
+  "naming_rule": "Expression",
+  "owner": "Administrator",
+  "permissions": [
+    {
+      "create": 1,
+      "delete": 1,
+      "read": 1,
+      "role": "System Manager",
+      "share": 1,
+      "write": 1
+    },
+    {
+      "create": 1,
+      "delete": 1,
+      "read": 1,
+      "role": "Orga Manager",
+      "share": 1,
+      "write": 1
+    },
+    {
+      "create": 1,
+      "read": 1,
+      "role": "Orga User",
+      "write": 1
+    }
+  ],
+  "search_fields": "title, event_type, project",
+  "sort_field": "start_datetime",
+  "sort_order": "ASC",
+  "states": [],
+  "title_field": "title",
+  "track_changes": 1
+}

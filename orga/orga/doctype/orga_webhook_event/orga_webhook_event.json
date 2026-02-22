@@ -1,0 +1,43 @@
+{
+ "actions": [],
+ "allow_rename": 0,
+ "creation": "2026-02-04 12:00:00.000000",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "event_name",
+  "description"
+ ],
+ "fields": [
+  {
+   "fieldname": "event_name",
+   "fieldtype": "Select",
+   "label": "Event",
+   "reqd": 1,
+   "in_list_view": 1,
+   "options": "*\nproject.created\nproject.updated\nproject.completed\nproject.deleted\ntask.created\ntask.updated\ntask.completed\ntask.assigned\ntask.deleted\nresource.created\nresource.updated\nresource.deleted\nassignment.created\nassignment.updated\nassignment.deleted\nappointment.created\nappointment.updated\nappointment.deleted\nappointment.rsvp\nmilestone.created\nmilestone.completed\ntime_log.created"
+  },
+  {
+   "fieldname": "description",
+   "fieldtype": "Small Text",
+   "label": "Description",
+   "read_only": 1,
+   "fetch_from": "",
+   "in_list_view": 1
+  }
+ ],
+ "index_web_pages_for_search": 0,
+ "istable": 1,
+ "links": [],
+ "modified": "2026-02-04 12:00:00.000000",
+ "modified_by": "Administrator",
+ "module": "Orga",
+ "name": "Orga Webhook Event",
+ "naming_rule": "Random",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "track_changes": 0
+}

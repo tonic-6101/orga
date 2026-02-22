@@ -1,0 +1,63 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"dashboard_shortcut\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Dashboard\",\"col\":6}},{\"id\":\"orga_task_shortcut\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Orga Task\",\"col\":6}}]",
+ "creation": "2026-02-01 00:00:00.000000",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "project",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Orga",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Dashboard",
+   "link_count": 0,
+   "link_to": "orga",
+   "link_type": "Page",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Orga Task",
+   "link_count": 0,
+   "link_to": "Orga Task",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2026-02-11 12:00:00.000000",
+ "modified_by": "Administrator",
+ "module": "Orga",
+ "name": "Orga",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 1,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "label": "Dashboard",
+   "link_to": "orga",
+   "type": "Page"
+  },
+  {
+   "color": "Blue",
+   "doc_view": "List",
+   "label": "Orga Task",
+   "link_to": "Orga Task",
+   "type": "DocType"
+  }
+ ],
+ "title": "Orga"
+}

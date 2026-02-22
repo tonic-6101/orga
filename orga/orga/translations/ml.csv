@@ -1,0 +1,1492 @@
++ Add Milestone,+ നാഴികക്കല്ല് ചേർക്കുക
++ Create Task,+ ടാസ്ക് സൃഷ്ടിക്കുക
++ Log Time,+ സമയം രേഖപ്പെടുത്തുക
+-- Select a project --,-- ഒരു പ്രോജക്ട് തിരഞ്ഞെടുക്കുക --
+0m,0m
+1 day,1 ദിവസം
+1 day ago,1 ദിവസം മുമ്പ്
+1 dependency,1 ആശ്രിതത്വം
+1 entry,1 എൻട്രി
+1 file,1 ഫയൽ
+1 hour ago,1 മണിക്കൂർ മുമ്പ്
+1 member,1 അംഗം
+1 milestone,1 നാഴികക്കല്ല്
+1 month,1 മാസം
+1 task,1 ടാസ്ക്
+< 1m,< 1m
+"A clear, actionable title for the task",ടാസ്കിന് വ്യക്തവും പ്രവർത്തനയോഗ്യവുമായ ശീർഷകം
+A client with email {0} already exists: {1},{0} ഇമെയിലുള്ള ഒരു ക്ലയന്റ് ഇതിനകം നിലവിലുണ്ട്: {1}
+A key deliverable or checkpoint for the project,പ്രോജക്ടിനുള്ള ഒരു പ്രധാന ഡെലിവറബിൾ അല്ലെങ്കിൽ ചെക്ക്‌പോയിന്റ്
+Accept,സ്വീകരിക്കുക
+Accepted,സ്വീകരിച്ചു
+Acknowledge,അംഗീകരിക്കുക
+across,ഉടനീളം
+Action,പ്രവർത്തനം
+Actions,പ്രവർത്തനങ്ങൾ
+Active,സജീവം
+Active Assignments,സജീവ അസൈൻമെന്റുകൾ
+Active Projects,സജീവ പ്രോജക്ടുകൾ
+Activity,പ്രവർത്തനം
+Activity data deleted successfully,പ്രവർത്തന ഡാറ്റ വിജയകരമായി ഇല്ലാതാക്കി
+Activity Info,പ്രവർത്തന വിവരം
+Activity Stats,പ്രവർത്തന സ്ഥിതിവിവരക്കണക്കുകൾ
+Activity will appear here as you work on tasks and projects.,ടാസ്കുകളിലും പ്രോജക്ടുകളിലും പ്രവർത്തിക്കുമ്പോൾ പ്രവർത്തനങ്ങൾ ഇവിടെ ദൃശ്യമാകും.
+Actual,യഥാർത്ഥ
+Actual Cost,യഥാർത്ഥ ചെലവ്
+Actual cost cannot be negative,യഥാർത്ഥ ചെലവ് നെഗറ്റീവ് ആകാൻ കഴിയില്ല
+Actual end date cannot be before actual start date,യഥാർത്ഥ അവസാന തീയതി യഥാർത്ഥ ആരംഭ തീയതിക്ക് മുമ്പാകാൻ കഴിയില്ല
+Actual Hours,യഥാർത്ഥ മണിക്കൂറുകൾ
+Add,ചേർക്കുക
+Add a checklist item...,ഒരു ചെക്ക്‌ലിസ്റ്റ് ഇനം ചേർക്കുക...
+Add a comment...,ഒരു അഭിപ്രായം ചേർക്കുക...
+Add a comment... (Ctrl+Enter to send),ഒരു അഭിപ്രായം ചേർക്കുക... (അയയ്ക്കാൻ Ctrl+Enter)
+Add a description...,ഒരു വിവരണം ചേർക്കുക...
+Add a milestone description...,നാഴികക്കല്ല് വിവരണം ചേർക്കുക...
+Add a note below to annotate this activity.,ഈ പ്രവർത്തനത്തിന് കുറിപ്പ് ചേർക്കാൻ താഴെ ഒരു കുറിപ്പ് ചേർക്കുക.
+Add a note...,ഒരു കുറിപ്പ് ചേർക്കുക...
+Add a project description...,പ്രോജക്ട് വിവരണം ചേർക്കുക...
+Add a task description...,ടാസ്ക് വിവരണം ചേർക്കുക...
+Add checklist item...,ചെക്ക്‌ലിസ്റ്റ് ഇനം ചേർക്കുക...
+Add Contact,കോൺടാക്ട് ചേർക്കുക
+Add contacts via the Desk interface or clear filters,ഡെസ്ക് ഇന്റർഫേസ് വഴി കോൺടാക്ടുകൾ ചേർക്കുക അല്ലെങ്കിൽ ഫിൽട്ടറുകൾ മായ്ക്കുക
+Add Dependency,ആശ്രിതത്വം ചേർക്കുക
+Add details about this event...,ഈ ഇവന്റിനെക്കുറിച്ച് വിശദാംശങ്ങൾ ചേർക്കുക...
+Add details about this milestone...,ഈ നാഴികക്കല്ലിനെക്കുറിച്ച് വിശദാംശങ്ങൾ ചേർക്കുക...
+Add details about this task...,ഈ ടാസ്കിനെക്കുറിച്ച് വിശദാംശങ്ങൾ ചേർക്കുക...
+Add details or acceptance criteria for this milestone,ഈ നാഴികക്കല്ലിന് വിശദാംശങ്ങൾ അല്ലെങ്കിൽ സ്വീകാര്യതാ മാനദണ്ഡങ്ങൾ ചേർക്കുക
+"Add details, context, or acceptance criteria","വിശദാംശങ്ങൾ, സന്ദർഭം, അല്ലെങ്കിൽ സ്വീകാര്യതാ മാനദണ്ഡങ്ങൾ ചേർക്കുക"
+Add first dependency,ആദ്യ ആശ്രിതത്വം ചേർക്കുക
+Add item,ഇനം ചേർക്കുക
+Add items below to track progress.,പുരോഗതി ട്രാക്ക് ചെയ്യാൻ താഴെ ഇനങ്ങൾ ചേർക്കുക.
+Add items below to track subtasks,ഉപ ടാസ്കുകൾ ട്രാക്ക് ചെയ്യാൻ താഴെ ഇനങ്ങൾ ചേർക്കുക
+Add Milestone,നാഴികക്കല്ല് ചേർക്കുക
+Add Milestone (Shift+M),നാഴികക്കല്ല് ചേർക്കുക (Shift+M)
+Add milestones to track key deliverables.,പ്രധാന ഡെലിവറബിളുകൾ ട്രാക്ക് ചെയ്യാൻ നാഴികക്കല്ലുകൾ ചേർക്കുക.
+Add New Contact,പുതിയ കോൺടാക്ട് ചേർക്കുക
+Add Note,കുറിപ്പ് ചേർക്കുക
+Add note,കുറിപ്പ് ചേർക്കുക
+Add notes about this contact...,ഈ കോൺടാക്ടിനെക്കുറിച്ച് കുറിപ്പുകൾ ചേർക്കുക...
+Add reaction,പ്രതികരണം ചേർക്കുക
+Add Skill,നൈപുണ്യം ചേർക്കുക
+Add start and due dates to tasks to see them on the Gantt chart,"ഗാന്റ് ചാർട്ടിൽ കാണാൻ ടാസ്കുകളിലേക്ക് ആരംഭ, അവസാന തീയതികൾ ചേർക്കുക"
+Add Task,ടാസ്ക് ചേർക്കുക
+Add Task (Shift+T),ടാസ്ക് ചേർക്കുക (Shift+T)
+Added Finish-to-Start dependency,പൂർത്തീകരണം-ആരംഭം ആശ്രിതത്വം ചേർത്തു
+Adding this dependency would create a circular reference: {0},ഈ ആശ്രിതത്വം ചേർക്കുന്നത് ഒരു വൃത്താകാര റഫറൻസ് സൃഷ്ടിക്കും: {0}
+Adding...,ചേർക്കുന്നു...
+Address,വിലാസം
+Advanced,വിപുലമായ
+All,എല്ലാം
+All Active,എല്ലാ സജീവം
+All Assignees,എല്ലാ അസൈനികളും
+All Categories,എല്ലാ വിഭാഗങ്ങളും
+All caught up!,എല്ലാം കണ്ടു കഴിഞ്ഞു!
+All Contexts,എല്ലാ സന്ദർഭങ്ങളും
+All day,മുഴുദിനം
+All day event,മുഴുദിന ഇവന്റ്
+All fields,എല്ലാ ഫീൽഡുകളും
+All Priorities,എല്ലാ മുൻഗണനകളും
+All Projects,എല്ലാ പ്രോജക്ടുകളും
+All Status,എല്ലാ സ്ഥിതിയും
+All Statuses,എല്ലാ സ്ഥിതികളും
+All task dependencies & relative dates,എല്ലാ ടാസ്ക് ആശ്രിതത്വങ്ങളും & ആപേക്ഷിക തീയതികളും
+All Tasks,എല്ലാ ടാസ്കുകളും
+All tasks across all projects.,എല്ലാ പ്രോജക്ടുകളിലുമുള്ള എല്ലാ ടാസ്കുകളും.
+All tasks are already linked,എല്ലാ ടാസ്കുകളും ഇതിനകം ലിങ്ക് ചെയ്തിട്ടുണ്ട്
+All team members,എല്ലാ ടീം അംഗങ്ങളും
+All Types,എല്ലാ തരങ്ങളും
+All Users,എല്ലാ ഉപയോക്താക്കളും
+Allocated,അനുവദിച്ചത്
+allocated,അനുവദിച്ചത്
+Allow users to log time against tasks,ടാസ്കുകൾക്കെതിരെ സമയം രേഖപ്പെടുത്താൻ ഉപയോക്താക്കളെ അനുവദിക്കുക
+Already exported to timesheet {0},ഇതിനകം ടൈംഷീറ്റ് {0} ലേക്ക് എക്സ്പോർട്ട് ചെയ്തു
+Already Migrated,ഇതിനകം മൈഗ്രേറ്റ് ചെയ്തു
+Anyone with access,ആക്‌സസ് ഉള്ള ആർക്കും
+anytime to show this help,ഈ സഹായം കാണിക്കാൻ എപ്പോഴും
+App Updates,App Updates
+Appearance,രൂപഭാവം
+Apply,പ്രയോഗിക്കുക
+Apply cascade?,കാസ്കേഡ് പ്രയോഗിക്കണോ?
+Apply Changes,മാറ്റങ്ങൾ പ്രയോഗിക്കുക
+Apply failed,പ്രയോഗിക്കൽ പരാജയപ്പെട്ടു
+Apply Template,ടെംപ്ലേറ്റ് പ്രയോഗിക്കുക
+Applying...,പ്രയോഗിക്കുന്നു...
+Appointment,അപ്പോയിന്റ്‌മെന്റ്
+Appointment and resource are required,അപ്പോയിന്റ്‌മെന്റും വിഭവവും ആവശ്യമാണ്
+Appointment name is required,അപ്പോയിന്റ്‌മെന്റ് പേര് ആവശ്യമാണ്
+Appointment not found,അപ്പോയിന്റ്‌മെന്റ് കണ്ടെത്തിയില്ല
+Appointment {0} not found,അപ്പോയിന്റ്‌മെന്റ് {0} കണ്ടെത്തിയില്ല
+Apps,ആപ്പുകൾ
+Archive,ആർക്കൈവ് ചെയ്യുക
+Archive Activity,പ്രവർത്തനം ആർക്കൈവ് ചെയ്യുക
+Archived,ആർക്കൈവ് ചെയ്തു
+Are you sure you want to delete this activity data? This cannot be undone.,ഈ പ്രവർത്തന ഡാറ്റ ഇല്ലാതാക്കണമെന്ന് തീർച്ചയാണോ? ഇത് പഴയപടിയാക്കാൻ കഴിയില്ല.
+Are you sure you want to delete this comment?,ഈ അഭിപ്രായം ഇല്ലാതാക്കണമെന്ന് തീർച്ചയാണോ?
+Are you sure you want to delete this project?,ഈ പ്രോജക്ട് ഇല്ലാതാക്കണമെന്ന് തീർച്ചയാണോ?
+Are you sure?,തീർച്ചയാണോ?
+Ascending -- click to reverse,ആരോഹണം -- വിപരീതമാക്കാൻ ക്ലിക്ക് ചെയ്യുക
+Assign To,അസൈൻ ചെയ്യുക
+Assign to Me,എനിക്ക് അസൈൻ ചെയ്യുക
+Assigned Contact,അസൈൻ ചെയ്ത കോൺടാക്ട്
+Assigned To,അസൈൻ ചെയ്തത്
+Assigned to,അസൈൻ ചെയ്തത്
+Assigned to Me,എനിക്ക് അസൈൻ ചെയ്തത്
+Assignee,അസൈനി
+Assignment,അസൈൻമെന്റ്
+Assignment History,അസൈൻമെന്റ് ചരിത്രം
+Assignment name is required,അസൈൻമെന്റ് പേര് ആവശ്യമാണ്
+Assignment {0} not found,അസൈൻമെന്റ് {0} കണ്ടെത്തിയില്ല
+Assignments,അസൈൻമെന്റുകൾ
+At least one action is required,കുറഞ്ഞത് ഒരു പ്രവർത്തനം ആവശ്യമാണ്
+At least one event is required,കുറഞ്ഞത് ഒരു ഇവന്റ് ആവശ്യമാണ്
+At least one event must be selected,കുറഞ്ഞത് ഒരു ഇവന്റ് തിരഞ്ഞെടുക്കണം
+Attachment,അറ്റാച്ച്‌മെന്റ്
+Attachments,അറ്റാച്ച്‌മെന്റുകൾ
+Attendees,പങ്കെടുക്കുന്നവർ
+"Audit trail, assignments, version history","ഓഡിറ്റ് ട്രെയിൽ, അസൈൻമെന്റുകൾ, പതിപ്പ് ചരിത്രം"
+Auto,ഓട്ടോ
+Auto Calculate Progress,പുരോഗതി സ്വയം കണക്കാക്കുക
+Auto Set Missed Milestones,നഷ്ടമായ നാഴികക്കല്ലുകൾ സ്വയം സജ്ജമാക്കുക
+Auto-shift dependents when dates change,തീയതികൾ മാറുമ്പോൾ ആശ്രിതങ്ങളെ സ്വയം മാറ്റുക
+Auto-Trail Start,ഓട്ടോ-ട്രെയിൽ ആരംഭം
+Auto-Trail updated,ഓട്ടോ-ട്രെയിൽ അപ്‌ഡേറ്റ് ചെയ്തു
+Automatically calculate project progress from task completion,ടാസ്ക് പൂർത്തീകരണത്തിൽ നിന്ന് പ്രോജക്ട് പുരോഗതി സ്വയം കണക്കാക്കുക
+Automatically mark milestones as missed when overdue,കാലഹരണപ്പെടുമ്പോൾ നാഴികക്കല്ലുകൾ നഷ്ടമായതായി സ്വയം അടയാളപ്പെടുത്തുക
+Automation rule {0} not found,ഓട്ടോമേഷൻ നിയമം {0} കണ്ടെത്തിയില്ല
+Automation: {0},ഓട്ടോമേഷൻ: {0}
+Availability,ലഭ്യത
+Available,ലഭ്യമാണ്
+Avatar updated successfully,അവതാർ വിജയകരമായി അപ്‌ഡേറ്റ് ചെയ്തു
+Avg Progress,ശരാശരി പുരോഗതി
+Back,പിന്നോട്ട്
+Back to Portal,പോർട്ടലിലേക്ക് മടങ്ങുക
+Back to Projects,പ്രോജക്ടുകളിലേക്ക് മടങ്ങുക
+Beginner,തുടക്കക്കാരൻ
+Best regards,ആശംസകളോടെ
+Billable,ബില്ലബിൾ
+Billable Amount,ബില്ലബിൾ തുക
+Billable Hours,ബില്ലബിൾ മണിക്കൂറുകൾ
+Billable Rate,ബില്ലിംഗ് നിരക്ക്
+Billing Rate,ബില്ലിംഗ് നിരക്ക്
+Blocked,ബ്ലോക്ക് ചെയ്തു
+Both dates are needed to display task as a bar in Gantt chart,ഗാന്റ് ചാർട്ടിൽ ടാസ്ക് ഒരു ബാർ ആയി കാണിക്കാൻ രണ്ട് തീയതികളും ആവശ്യമാണ്
+Both doctype and docname are required,DocType-ഉം DocName-ഉം ആവശ്യമാണ്
+Both proposed start and end times are required,"നിർദ്ദേശിച്ച ആരംഭ, അവസാന സമയങ്ങൾ രണ്ടും ആവശ്യമാണ്"
+Both task_name and depends_on are required,task_name-ഉം depends_on-ഉം ആവശ്യമാണ്
+Breadcrumb,ബ്രെഡ്‌ക്രംബ്
+Brief description of the defect or damage,തകരാറിന്റെ അല്ലെങ്കിൽ കേടുപാടിന്റെ ഹ്രസ്വ വിവരണം
+Brief description of this template,ഈ ടെംപ്ലേറ്റിന്റെ ഹ്രസ്വ വിവരണം
+Brief description of your request,നിങ്ങളുടെ അഭ്യർത്ഥനയുടെ ഹ്രസ്വ വിവരണം
+Brief project description,ഹ്രസ്വ പ്രോജക്ട് വിവരണം
+Budget,ബജറ്റ്
+Budget at risk,ബജറ്റ് അപകടത്തിൽ
+Budget Burn Rate,ബജറ്റ് ഉപഭോഗ നിരക്ക്
+Budget Status,ബജറ്റ് സ്ഥിതി
+Budget updated,ബജറ്റ് അപ്‌ഡേറ്റ് ചെയ്തു
+Budget:,ബജറ്റ്:
+Bug,ബഗ്
+Burn Rate,ഉപഭോഗ നിരക്ക്
+Busy,തിരക്കിലാണ്
+By,എഴുതിയത്
+By Assignee,അസൈനി പ്രകാരം
+By Group,ഗ്രൂപ്പ് പ്രകാരം
+By Milestone,നാഴികക്കല്ല് പ്രകാരം
+By Priority,മുൻഗണന പ്രകാരം
+By Status,സ്ഥിതി പ്രകാരം
+Cancel,റദ്ദാക്കുക
+Cancelled,റദ്ദാക്കി
+cannot be undone,പഴയപടിയാക്കാൻ കഴിയില്ല
+Cannot delete client with {0} linked projects. Unlink projects first.,{0} ലിങ്ക് ചെയ്ത പ്രോജക്ടുകളുള്ള ക്ലയന്റിനെ ഇല്ലാതാക്കാൻ കഴിയില്ല. ആദ്യം പ്രോജക്ടുകൾ അൺലിങ്ക് ചെയ്യുക.
+Cannot delete project with {0} linked tasks. Delete tasks first.,{0} ലിങ്ക് ചെയ്ത ടാസ്കുകളുള്ള പ്രോജക്ട് ഇല്ലാതാക്കാൻ കഴിയില്ല. ആദ്യം ടാസ്കുകൾ ഇല്ലാതാക്കുക.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,{0} സജീവ അസൈൻമെന്റുകളുള്ള വിഭവം ഇല്ലാതാക്കാൻ കഴിയില്ല. ആദ്യം അവ പൂർത്തിയാക്കുക അല്ലെങ്കിൽ റദ്ദാക്കുക.
+Cannot delete task with {0} subtasks. Delete subtasks first.,{0} ഉപ ടാസ്കുകളുള്ള ടാസ്ക് ഇല്ലാതാക്കാൻ കഴിയില്ല. ആദ്യം ഉപ ടാസ്കുകൾ ഇല്ലാതാക്കുക.
+Capacity,ശേഷി
+capacity,ശേഷി
+Capacity & Rates,ശേഷിയും നിരക്കുകളും
+Capture project structure for reuse,പുനരുപയോഗത്തിനായി പ്രോജക്ട് ഘടന ക്യാപ്ചർ ചെയ്യുക
+Cascade,കാസ്കേഡ്
+Cascade Preview,കാസ്കേഡ് പ്രിവ്യൂ
+Category,വിഭാഗം
+Celebrate,ആഘോഷിക്കുക
+Change,മാറ്റുക
+Change History,മാറ്റ ചരിത്രം
+Change Priority,മുൻഗണന മാറ്റുക
+Change Status,സ്ഥിതി മാറ്റുക
+Changes,മാറ്റങ്ങൾ
+Changes appear when fields are modified.,ഫീൽഡുകൾ പരിഷ്കരിക്കുമ്പോൾ മാറ്റങ്ങൾ ദൃശ്യമാകും.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,ചെക്ക്‌ലിസ്റ്റ്
+Checklist item name is required,ചെക്ക്‌ലിസ്റ്റ് ഇനത്തിന്റെ പേര് ആവശ്യമാണ്
+Checklist item not found,ചെക്ക്‌ലിസ്റ്റ് ഇനം കണ്ടെത്തിയില്ല
+Checklist item title is required,ചെക്ക്‌ലിസ്റ്റ് ഇനത്തിന്റെ ശീർഷകം ആവശ്യമാണ്
+Checklist item {0} not found,ചെക്ക്‌ലിസ്റ്റ് ഇനം {0} കണ്ടെത്തിയില്ല
+Checklist item {0} not found in task,ടാസ്കിൽ ചെക്ക്‌ലിസ്റ്റ് ഇനം {0} കണ്ടെത്തിയില്ല
+Child,ചൈൽഡ്
+Choose file to upload,അപ്‌ലോഡ് ചെയ്യാൻ ഫയൽ തിരഞ്ഞെടുക്കുക
+Circular dependency detected: {0},വൃത്താകാര ആശ്രിതത്വം കണ്ടെത്തി: {0}
+Circular parent-child relationship detected,വൃത്താകാര മാതൃ-ശിശു ബന്ധം കണ്ടെത്തി
+Clear,മായ്ക്കുക
+Clear all read,വായിച്ചവയെല്ലാം മായ്ക്കുക
+Clear date,തീയതി മായ്ക്കുക
+Click on an activity from the list to view and manage its details.,വിശദാംശങ്ങൾ കാണാനും നിയന്ത്രിക്കാനും ലിസ്റ്റിൽ നിന്ന് ഒരു പ്രവർത്തനത്തിൽ ക്ലിക്ക് ചെയ്യുക.
+Click the avatar to upload a new photo,പുതിയ ഫോട്ടോ അപ്‌ലോഡ് ചെയ്യാൻ അവതാറിൽ ക്ലിക്ക് ചെയ്യുക
+Click to add description...,വിവരണം ചേർക്കാൻ ക്ലിക്ക് ചെയ്യുക...
+Click to add notes...,കുറിപ്പുകൾ ചേർക്കാൻ ക്ലിക്ക് ചെയ്യുക...
+Click to assign contact,കോൺടാക്ട് അസൈൻ ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക
+Click to change status,സ്ഥിതി മാറ്റാൻ ക്ലിക്ക് ചെയ്യുക
+Click to change type,തരം മാറ്റാൻ ക്ലിക്ക് ചെയ്യുക
+Click to edit,എഡിറ്റ് ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക
+Click to edit budget,ബജറ്റ് എഡിറ്റ് ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക
+Click to edit description,വിവരണം എഡിറ്റ് ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക
+Click to edit end date,അവസാന തീയതി എഡിറ്റ് ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക
+Click to edit milestone name,നാഴികക്കല്ല് പേര് എഡിറ്റ് ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക
+Click to edit rate,നിരക്ക് എഡിറ്റ് ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക
+Click to edit start date,ആരംഭ തീയതി എഡിറ്റ് ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക
+Click to edit title,ശീർഷകം എഡിറ്റ് ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക
+Click to load,ലോഡ് ചെയ്യാൻ ക്ലിക്ക് ചെയ്യുക
+Click to set group dependency...,ഗ്രൂപ്പ് ആശ്രിതത്വം സജ്ജമാക്കാൻ ക്ലിക്ക് ചെയ്യുക...
+Click to set group...,ഗ്രൂപ്പ് സജ്ജമാക്കാൻ ക്ലിക്ക് ചെയ്യുക...
+Click to view,കാണാൻ ക്ലിക്ക് ചെയ്യുക
+Click to view at-risk projects,അപകടത്തിലുള്ള പ്രോജക്ടുകൾ കാണാൻ ക്ലിക്ക് ചെയ്യുക
+Click to view critical projects,നിർണായക പ്രോജക്ടുകൾ കാണാൻ ക്ലിക്ക് ചെയ്യുക
+Click to view healthy projects,ആരോഗ്യകരമായ പ്രോജക്ടുകൾ കാണാൻ ക്ലിക്ക് ചെയ്യുക
+Client,ക്ലയന്റ്
+Client already has a portal user: {0},ക്ലയന്റിന് ഇതിനകം ഒരു പോർട്ടൽ ഉപയോക്താവുണ്ട്: {0}
+Client already has portal access,ക്ലയന്റിന് ഇതിനകം പോർട്ടൽ ആക്‌സസ് ഉണ്ട്
+Client has no portal user to revoke,ക്ലയന്റിന് റദ്ദാക്കാൻ പോർട്ടൽ ഉപയോക്താവില്ല
+Client link removed from project {0},പ്രോജക്ട് {0}-ൽ നിന്ന് ക്ലയന്റ് ലിങ്ക് നീക്കം ചെയ്തു
+Client Portal,ക്ലയന്റ് പോർട്ടൽ
+Client {0} deleted successfully,ക്ലയന്റ് {0} വിജയകരമായി ഇല്ലാതാക്കി
+Close,അടയ്ക്കുക
+Close (Esc),അടയ്ക്കുക (Esc)
+Comment,അഭിപ്രായം
+comment,അഭിപ്രായം
+Comment added,അഭിപ്രായം ചേർത്തു
+Comment content is required,അഭിപ്രായ ഉള്ളടക്കം ആവശ്യമാണ്
+Comment name is required,അഭിപ്രായ പേര് ആവശ്യമാണ്
+Comment not found,അഭിപ്രായം കണ്ടെത്തിയില്ല
+Comment removed,അഭിപ്രായം നീക്കം ചെയ്തു
+Comment {0} not found in task,ടാസ്കിൽ അഭിപ്രായം {0} കണ്ടെത്തിയില്ല
+Comments,അഭിപ്രായങ്ങൾ
+comments,അഭിപ്രായങ്ങൾ
+Community Edition,Community Edition
+Company,കമ്പനി
+Company name...,കമ്പനി പേര്...
+Complete,പൂർത്തിയാക്കുക
+Completed,പൂർത്തിയായി
+completed,പൂർത്തിയായി
+Completed Tasks,പൂർത്തിയാക്കിയ ടാസ്കുകൾ
+Compliance,അനുപാലനം
+Configure default values for new projects and tasks,പുതിയ പ്രോജക്ടുകൾക്കും ടാസ്കുകൾക്കും സ്ഥിരസ്ഥിതി മൂല്യങ്ങൾ ക്രമീകരിക്കുക
+Configure email notification settings,ഇമെയിൽ അറിയിപ്പ് ക്രമീകരണങ്ങൾ ക്രമീകരിക്കുക
+Confirm,സ്ഥിരീകരിക്കുക
+Contact deleted,കോൺടാക്ട് ഇല്ലാതാക്കി
+Contact Details,കോൺടാക്ട് വിശദാംശങ്ങൾ
+Contact Information,കോൺടാക്ട് വിവരങ്ങൾ
+Contact name is required,കോൺടാക്ട് പേര് ആവശ്യമാണ്
+Contact Support,സപ്പോർട്ടുമായി ബന്ധപ്പെടുക
+Contact your project manager for more information.,കൂടുതൽ വിവരങ്ങൾക്ക് നിങ്ങളുടെ പ്രോജക്ട് മാനേജറുമായി ബന്ധപ്പെടുക.
+Contact:,കോൺടാക്ട്:
+Contacts,കോൺടാക്ടുകൾ
+Context,സന്ദർഭം
+Contractor,കരാറുകാരൻ
+Cost estimate cannot be negative,ചെലവ് കണക്ക് നെഗറ്റീവ് ആകാൻ കഴിയില്ല
+Cost Impact,ചെലവ് ആഘാതം
+Cost Summary,ചെലവ് സംഗ്രഹം
+Could not apply the template. Please try again.,ടെംപ്ലേറ്റ് പ്രയോഗിക്കാൻ കഴിഞ്ഞില്ല. ദയവായി വീണ്ടും ശ്രമിക്കുക.
+Could not attach file to project,പ്രോജക്ടിലേക്ക് ഫയൽ അറ്റാച്ച് ചെയ്യാൻ കഴിഞ്ഞില്ല
+Could not change task priority,ടാസ്ക് മുൻഗണന മാറ്റാൻ കഴിഞ്ഞില്ല
+Could not change task status,ടാസ്ക് സ്ഥിതി മാറ്റാൻ കഴിഞ്ഞില്ല
+Could not delete the project. Please try again.,പ്രോജക്ട് ഇല്ലാതാക്കാൻ കഴിഞ്ഞില്ല. ദയവായി വീണ്ടും ശ്രമിക്കുക.
+Could not delete the task. Please try again.,ടാസ്ക് ഇല്ലാതാക്കാൻ കഴിഞ്ഞില്ല. ദയവായി വീണ്ടും ശ്രമിക്കുക.
+Could not delete the template.,ടെംപ്ലേറ്റ് ഇല്ലാതാക്കാൻ കഴിഞ്ഞില്ല.
+Could not duplicate the task. Please try again.,ടാസ്ക് ഡ്യൂപ്ലിക്കേറ്റ് ചെയ്യാൻ കഴിഞ്ഞില്ല. ദയവായി വീണ്ടും ശ്രമിക്കുക.
+Could not export the template.,ടെംപ്ലേറ്റ് എക്‌സ്‌പോർട്ട് ചെയ്യാൻ കഴിഞ്ഞില്ല.
+Could not import the template. Please check the file format.,ടെംപ്ലേറ്റ് ഇംപോർട്ട് ചെയ്യാൻ കഴിഞ്ഞില്ല. ദയവായി ഫയൽ ഫോർമാറ്റ് പരിശോധിക്കുക.
+Could not link task to milestone,ടാസ്ക് നാഴികക്കല്ലിലേക്ക് ലിങ്ക് ചെയ്യാൻ കഴിഞ്ഞില്ല
+Could not load document details.,ഡോക്യുമെന്റ് വിശദാംശങ്ങൾ ലോഡ് ചെയ്യാൻ കഴിഞ്ഞില്ല.
+Could not load task details,ടാസ്ക് വിശദാംശങ്ങൾ ലോഡ് ചെയ്യാൻ കഴിഞ്ഞില്ല
+Could not promote checklist item to task.,ചെക്ക്‌ലിസ്റ്റ് ഇനം ടാസ്കായി പ്രമോട്ട് ചെയ്യാൻ കഴിഞ്ഞില്ല.
+Could not remove task from milestone,നാഴികക്കല്ലിൽ നിന്ന് ടാസ്ക് നീക്കം ചെയ്യാൻ കഴിഞ്ഞില്ല
+Could not save budget.,ബജറ്റ് സേവ് ചെയ്യാൻ കഴിഞ്ഞില്ല.
+Could not save changes to the milestone,നാഴികക്കല്ലിലെ മാറ്റങ്ങൾ സേവ് ചെയ്യാൻ കഴിഞ്ഞില്ല
+Could not save changes to the task,ടാസ്കിലെ മാറ്റങ്ങൾ സേവ് ചെയ്യാൻ കഴിഞ്ഞില്ല
+Could not save description.,വിവരണം സേവ് ചെയ്യാൻ കഴിഞ്ഞില്ല.
+Could not save end date.,അവസാന തീയതി സേവ് ചെയ്യാൻ കഴിഞ്ഞില്ല.
+Could not save milestone name.,നാഴികക്കല്ല് പേര് സേവ് ചെയ്യാൻ കഴിഞ്ഞില്ല.
+Could not save start date.,ആരംഭ തീയതി സേവ് ചെയ്യാൻ കഴിഞ്ഞില്ല.
+Could not save the template. Please try again.,ടെംപ്ലേറ്റ് സേവ് ചെയ്യാൻ കഴിഞ്ഞില്ല. ദയവായി വീണ്ടും ശ്രമിക്കുക.
+Could not save title.,ശീർഷകം സേവ് ചെയ്യാൻ കഴിഞ്ഞില്ല.
+Could not update dependency mode.,ആശ്രിതത്വ മോഡ് അപ്‌ഡേറ്റ് ചെയ്യാൻ കഴിഞ്ഞില്ല.
+Could not update milestone date,നാഴികക്കല്ല് തീയതി അപ്‌ഡേറ്റ് ചെയ്യാൻ കഴിഞ്ഞില്ല
+Could not update project status.,പ്രോജക്ട് സ്ഥിതി അപ്‌ഡേറ്റ് ചെയ്യാൻ കഴിഞ്ഞില്ല.
+Could not update project type.,പ്രോജക്ട് തരം അപ്‌ഡേറ്റ് ചെയ്യാൻ കഴിഞ്ഞില്ല.
+Could not update setting.,ക്രമീകരണം അപ്‌ഡേറ്റ് ചെയ്യാൻ കഴിഞ്ഞില്ല.
+Could not update task dates,ടാസ്ക് തീയതികൾ അപ്‌ഡേറ്റ് ചെയ്യാൻ കഴിഞ്ഞില്ല
+Could not update task status,ടാസ്ക് സ്ഥിതി അപ്‌ഡേറ്റ് ചെയ്യാൻ കഴിഞ്ഞില്ല
+Could not update the template.,ടെംപ്ലേറ്റ് അപ്‌ഡേറ്റ് ചെയ്യാൻ കഴിഞ്ഞില്ല.
+Create a copy of this task,ഈ ടാസ്കിന്റെ ഒരു പകർപ്പ് സൃഷ്ടിക്കുക
+Create Contact,കോൺടാക്ട് സൃഷ്ടിക്കുക
+Create Event,ഇവന്റ് സൃഷ്ടിക്കുക
+Create Milestone,നാഴികക്കല്ല് സൃഷ്ടിക്കുക
+Create New Milestone,പുതിയ നാഴികക്കല്ല് സൃഷ്ടിക്കുക
+Create New Task,പുതിയ ടാസ്ക് സൃഷ്ടിക്കുക
+Create Project,പ്രോജക്ട് സൃഷ്ടിക്കുക
+Create Task,ടാസ്ക് സൃഷ്ടിക്കുക
+Create tasks and milestones from a template,ഒരു ടെംപ്ലേറ്റിൽ നിന്ന് ടാസ്കുകളും നാഴികക്കല്ലുകളും സൃഷ്ടിക്കുക
+Create your first project to get started.,ആരംഭിക്കാൻ നിങ്ങളുടെ ആദ്യ പ്രോജക്ട് സൃഷ്ടിക്കുക.
+Create your first task to start tracking work on this project.,ഈ പ്രോജക്ടിലെ ജോലി ട്രാക്ക് ചെയ്യാൻ ആരംഭിക്കുന്നതിന് നിങ്ങളുടെ ആദ്യ ടാസ്ക് സൃഷ്ടിക്കുക.
+Created,സൃഷ്ടിച്ചു
+Creating...,സൃഷ്ടിക്കുന്നു...
+Critical,നിർണായകം
+Critical Path,നിർണായക പാത
+"Currency used for budgets, costs, and billing rates","ബജറ്റുകൾ, ചെലവുകൾ, ബില്ലിംഗ് നിരക്കുകൾ എന്നിവയ്ക്ക് ഉപയോഗിക്കുന്ന കറൻസി"
+Current,നിലവിലെ
+Current Assignments,നിലവിലെ അസൈൻമെന്റുകൾ
+Current scheduled time:,നിലവിലെ ഷെഡ്യൂൾ ചെയ്ത സമയം:
+Currently running version,Currently running version
+d lag,d കാലതാമസം
+Daily Availability,ദൈനംദിന ലഭ്യത
+Daily Hours,ദൈനംദിന മണിക്കൂറുകൾ
+Danger Zone,അപകട മേഖല
+Dark,ഡാർക്ക്
+Dashboard,ഡാഷ്‌ബോർഡ്
+Date,തീയതി
+Date changes on this task will show cascade impact here,ഈ ടാസ്കിലെ തീയതി മാറ്റങ്ങൾ ഇവിടെ കാസ്കേഡ് ആഘാതം കാണിക്കും
+Date cleared,തീയതി മായ്ച്ചു
+Date of Joining,ചേരുന്ന തീയതി
+Date updated,തീയതി അപ്‌ഡേറ്റ് ചെയ്തു
+Dates,തീയതികൾ
+Dates cascaded,തീയതികൾ കാസ്കേഡ് ചെയ്തു
+Dates will be relative to the project's start date.,തീയതികൾ പ്രോജക്ടിന്റെ ആരംഭ തീയതിയെ അടിസ്ഥാനമാക്കിയുള്ളതായിരിക്കും.
+Day,ദിവസം
+day,ദിവസം
+days,ദിവസങ്ങൾ
+Days before due date to send reminder,ഓർമ്മപ്പെടുത്തൽ അയയ്ക്കാൻ അവസാന തീയതിക്ക് മുമ്പുള്ള ദിവസങ്ങൾ
+Days Overdue,കാലഹരണപ്പെട്ട ദിവസങ്ങൾ
+Days Remaining,ശേഷിക്കുന്ന ദിവസങ്ങൾ
+Deadline,അന്തിമ തീയതി
+Deadlines,അന്തിമ തീയതികൾ
+Decision,തീരുമാനം
+Decline,നിരസിക്കുക
+Declined,നിരസിച്ചു
+Default Currency,സ്ഥിരസ്ഥിതി കറൻസി
+Default hours per week for contact capacity planning,കോൺടാക്ട് ശേഷി ആസൂത്രണത്തിനായി ആഴ്ചയിലെ സ്ഥിരസ്ഥിതി മണിക്കൂറുകൾ
+Default Priority,സ്ഥിരസ്ഥിതി മുൻഗണന
+Default Project Status,സ്ഥിരസ്ഥിതി പ്രോജക്ട് സ്ഥിതി
+Default Task Status,സ്ഥിരസ്ഥിതി ടാസ്ക് സ്ഥിതി
+Default task view,സ്ഥിരസ്ഥിതി ടാസ്ക് കാഴ്ച
+Default Values,സ്ഥിരസ്ഥിതി മൂല്യങ്ങൾ
+Default Weekly Capacity,സ്ഥിരസ്ഥിതി ആഴ്ചക്കുള്ള ശേഷി
+Defaults,സ്ഥിരസ്ഥിതികൾ
+Defect Cost Impact,തകരാർ ചെലവ് ആഘാതം
+Defect name is required,തകരാർ പേര് ആവശ്യമാണ്
+Defect Type,തകരാർ തരം
+Defect {0} not found,തകരാർ {0} കണ്ടെത്തിയില്ല
+Defects,തകരാറുകൾ
+Defects & Issues,തകരാറുകളും പ്രശ്‌നങ്ങളും
+Defects Resolved,പരിഹരിച്ച തകരാറുകൾ
+Delayed,വൈകി
+Delete,ഇല്ലാതാക്കുക
+Delete Activity Data,പ്രവർത്തന ഡാറ്റ ഇല്ലാതാക്കുക
+Delete all read notifications?,വായിച്ച എല്ലാ അറിയിപ്പുകളും ഇല്ലാതാക്കണോ?
+Delete comment,അഭിപ്രായം ഇല്ലാതാക്കുക
+Delete Contact,കോൺടാക്ട് ഇല്ലാതാക്കുക
+Delete Event,ഇവന്റ് ഇല്ലാതാക്കുക
+Delete Event?,ഇവന്റ് ഇല്ലാതാക്കണോ?
+Delete failed,ഇല്ലാതാക്കൽ പരാജയപ്പെട്ടു
+Delete file,ഫയൽ ഇല്ലാതാക്കുക
+Delete item,ഇനം ഇല്ലാതാക്കുക
+Delete note,കുറിപ്പ് ഇല്ലാതാക്കുക
+Delete Project,പ്രോജക്ട് ഇല്ലാതാക്കുക
+Delete Task,ടാസ്ക് ഇല്ലാതാക്കുക
+Delete this project,ഈ പ്രോജക്ട് ഇല്ലാതാക്കുക
+Deleted,ഇല്ലാതാക്കി
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","പ്രോജക്ട് ""{0}"" ഇല്ലാതാക്കി ({1} ടാസ്കുകൾ, {2} നാഴികക്കല്ലുകൾ)"
+Deletes notes and preferences. Source document is not affected.,കുറിപ്പുകളും മുൻഗണനകളും ഇല്ലാതാക്കുന്നു. ഉറവിട ഡോക്യുമെന്റിനെ ബാധിക്കില്ല.
+Deleting...,ഇല്ലാതാക്കുന്നു...
+Department,വകുപ്പ്
+Dependencies,ആശ്രിതത്വങ്ങൾ
+dependencies,ആശ്രിതത്വങ്ങൾ
+Dependencies are informational only,ആശ്രിതത്വങ്ങൾ വിവരദായകം മാത്രമാണ്
+dependency,ആശ്രിതത്വം
+Dependency already exists,ആശ്രിതത്വം ഇതിനകം നിലവിലുണ്ട്
+Dependency Chain,ആശ്രിതത്വ ശൃംഖല
+Dependency created,ആശ്രിതത്വം സൃഷ്ടിച്ചു
+Dependency mode updated,ആശ്രിതത്വ മോഡ് അപ്‌ഡേറ്റ് ചെയ്തു
+Dependency name is required,ആശ്രിതത്വ പേര് ആവശ്യമാണ്
+Dependency task {0} not found,ആശ്രിതത്വ ടാസ്ക് {0} കണ്ടെത്തിയില്ല
+Dependency {0} not found,ആശ്രിതത്വം {0} കണ്ടെത്തിയില്ല
+depends,ആശ്രയിക്കുന്നു
+Depends on Group,ഗ്രൂപ്പിനെ ആശ്രയിക്കുന്നു
+Depends on task is required,ആശ്രയിക്കുന്ന ടാസ്ക് ആവശ്യമാണ്
+depends on...,ആശ്രയിക്കുന്നു...
+Descending -- click to reverse,അവരോഹണം -- വിപരീതമാക്കാൻ ക്ലിക്ക് ചെയ്യുക
+Describe the defect in detail...,തകരാർ വിശദമായി വിവരിക്കുക...
+Description,വിവരണം
+Description updated,വിവരണം അപ്‌ഡേറ്റ് ചെയ്തു
+Designation,പദവി
+"Detailed description of the defect, location, and impact","തകരാറിന്റെ, സ്ഥാനത്തിന്റെ, ആഘാതത്തിന്റെ വിശദമായ വിവരണം"
+Details,വിശദാംശങ്ങൾ
+Discard timer,ടൈമർ നിരസിക്കുക
+Discussion,ചർച്ച
+Dismiss,Dismiss
+Display,പ്രദർശനം
+Document,ഡോക്യുമെന്റ്
+Document attached to project,പ്രോജക്ടിലേക്ക് ഡോക്യുമെന്റ് അറ്റാച്ച് ചെയ്തു
+Document final decision and rationale,അന്തിമ തീരുമാനവും ന്യായവും ഡോക്യുമെന്റ് ചെയ്യുക
+Documentation Review,ഡോക്യുമെന്റേഷൻ അവലോകനം
+Documents,ഡോക്യുമെന്റുകൾ
+Done,പൂർത്തിയായി
+Download,ഡൗൺലോഡ്
+Drag to create dependency,ആശ്രിതത്വം സൃഷ്ടിക്കാൻ വലിച്ചിടുക
+Dry Run,ഡ്രൈ റൺ
+Dry Run Complete,ഡ്രൈ റൺ പൂർത്തിയായി
+Due Date,അവസാന തീയതി
+Due date,അവസാന തീയതി
+Due Date (Earliest),അവസാന തീയതി (ആദ്യത്തേത്)
+Due date cannot be before start date,അവസാന തീയതി ആരംഭ തീയതിക്ക് മുമ്പാകാൻ കഴിയില്ല
+Due date is in the past,അവസാന തീയതി കഴിഞ്ഞതാണ്
+Due Date Reminders,അവസാന തീയതി ഓർമ്മപ്പെടുത്തലുകൾ
+Due Diligence,ഡ്യൂ ഡിലിജൻസ്
+Due Diligence Checklist,ഡ്യൂ ഡിലിജൻസ് ചെക്ക്‌ലിസ്റ്റ്
+Due This Week,ഈ ആഴ്ച അവസാനിക്കുന്നവ
+Due:,അവസാന തീയതി:
+Duplicate events are not allowed,ഡ്യൂപ്ലിക്കേറ്റ് ഇവന്റുകൾ അനുവദനീയമല്ല
+Duplicate failed,ഡ്യൂപ്ലിക്കേഷൻ പരാജയപ്പെട്ടു
+Duplicate Task,ടാസ്ക് ഡ്യൂപ്ലിക്കേറ്റ് ചെയ്യുക
+Duration,കാലയളവ്
+Duration Summary,കാലയളവ് സംഗ്രഹം
+Duration:,കാലയളവ്:
+e.g. Cracked wall finish in bathroom...,ഉദാ. ബാത്ത്‌റൂമിലെ ചുമർ ഫിനിഷിൽ വിള്ളൽ...
+"e.g. Electrical, Plumbing...","ഉദാ. ഇലക്ട്രിക്കൽ, പ്ലംബിംഗ്..."
+Edit,എഡിറ്റുചെയ്യുക
+Edit (E),എഡിറ്റ് ചെയ്യുക (E)
+Edit dependency,ആശ്രിതത്വം എഡിറ്റ് ചെയ്യുക
+Edit Event,ഇവന്റ് എഡിറ്റ് ചെയ്യുക
+Efficiency,കാര്യക്ഷമത
+Either dependency_name or depends_on is required,dependency_name അല്ലെങ്കിൽ depends_on ആവശ്യമാണ്
+Email,ഇമെയിൽ
+Email invitations to all attendees,എല്ലാ പങ്കെടുക്കുന്നവർക്കും ഇമെയിൽ ക്ഷണങ്ങൾ
+Email is required to create portal user,പോർട്ടൽ ഉപയോക്താവിനെ സൃഷ്ടിക്കാൻ ഇമെയിൽ ആവശ്യമാണ്
+Email notifications,ഇമെയിൽ അറിയിപ്പുകൾ
+Employee,ജീവനക്കാരൻ
+Employee DocType not available,Employee DocType ലഭ്യമല്ല
+Employee not found,ജീവനക്കാരനെ കണ്ടെത്തിയില്ല
+Enable or disable optional features,ഐച്ഛിക സവിശേഷതകൾ പ്രവർത്തനക്ഷമമാക്കുക അല്ലെങ്കിൽ നിഷ്ക്രിയമാക്കുക
+Enable Time Tracking,സമയ ട്രാക്കിംഗ് പ്രവർത്തനക്ഷമമാക്കുക
+End,അവസാനം
+End Date,അവസാന ദിവസം
+End date,അവസാന തീയതി
+End Date cannot be before Start Date,അവസാന തീയതി ആരംഭ തീയതിക്ക് മുമ്പാകാൻ കഴിയില്ല
+End date cannot be before start date,അവസാന തീയതി ആരംഭ തീയതിക്ക് മുമ്പാകാൻ കഴിയില്ല
+End date updated,അവസാന തീയതി അപ്‌ഡേറ്റ് ചെയ്തു
+End time was before start time. Adjusted to 1 hour after start.,അവസാന സമയം ആരംഭ സമയത്തിന് മുമ്പായിരുന്നു. ആരംഭത്തിന് 1 മണിക്കൂർ ശേഷമായി ക്രമീകരിച്ചു.
+End:,അവസാനം:
+Enter milestone name...,നാഴികക്കല്ല് പേര് നൽകുക...
+Enter project name,പ്രോജക്ട് പേര് നൽകുക
+Enter task title...,ടാസ്ക് ശീർഷകം നൽകുക...
+Enter template name,ടെംപ്ലേറ്റ് പേര് നൽകുക
+Enter your note... Use @name to mention someone,നിങ്ങളുടെ കുറിപ്പ് നൽകുക... ആരെയെങ്കിലും പരാമർശിക്കാൻ @name ഉപയോഗിക്കുക
+Error,പിശക്
+Error loading activity,പ്രവർത്തനം ലോഡ് ചെയ്യുന്നതിൽ പിശക്
+Error loading contacts,കോൺടാക്ടുകൾ ലോഡ് ചെയ്യുന്നതിൽ പിശക്
+Error loading dashboard,ഡാഷ്‌ബോർഡ് ലോഡ് ചെയ്യുന്നതിൽ പിശക്
+Error loading project,പ്രോജക്ട് ലോഡ് ചെയ്യുന്നതിൽ പിശക്
+Error loading projects,പ്രോജക്ടുകൾ ലോഡ് ചെയ്യുന്നതിൽ പിശക്
+Error loading settings,ക്രമീകരണങ്ങൾ ലോഡ് ചെയ്യുന്നതിൽ പിശക്
+Error loading tasks,ടാസ്കുകൾ ലോഡ് ചെയ്യുന്നതിൽ പിശക്
+Error loading templates,ടെംപ്ലേറ്റുകൾ ലോഡ് ചെയ്യുന്നതിൽ പിശക്
+Est. Hours,കണക്കാക്കിയ മണിക്കൂറുകൾ
+Estimated,കണക്കാക്കിയ
+Estimated Cost,കണക്കാക്കിയ ചെലവ്
+Estimated Cost (€),കണക്കാക്കിയ ചെലവ് (€)
+Estimated Hours,കണക്കാക്കിയ മണിക്കൂറുകൾ
+Estimated:,കണക്കാക്കിയത്:
+Evaluate potential risks and concerns,സാധ്യതയുള്ള അപകടസാധ്യതകളും ആശങ്കകളും വിലയിരുത്തുക
+Event,ഇവന്റ്
+Event is required for event context,ഇവന്റ് സന്ദർഭത്തിന് ഇവന്റ് ആവശ്യമാണ്
+Event is required when tracking context is 'event',ട്രാക്കിംഗ് സന്ദർഭം 'event' ആയിരിക്കുമ്പോൾ ഇവന്റ് ആവശ്യമാണ്
+Event Type,ഇവന്റ് തരം
+Events,ഇവന്റുകൾ
+Events not available. Please run: bench --site orga.localhost migrate,ഇവന്റുകൾ ലഭ്യമല്ല. ദയവായി bench --site orga.localhost migrate പ്രവർത്തിപ്പിക്കുക
+Events:,ഇവന്റുകൾ:
+Expert,വിദഗ്ധ
+Explain why you are proposing a different time...,നിങ്ങൾ എന്തുകൊണ്ട് മറ്റൊരു സമയം നിർദ്ദേശിക്കുന്നുവെന്ന് വിശദീകരിക്കുക...
+Export,എക്സ്പോർട്ട്
+Export failed,എക്‌സ്‌പോർട്ട് പരാജയപ്പെട്ടു
+Export JSON,JSON എക്‌സ്‌പോർട്ട് ചെയ്യുക
+Exported,എക്‌സ്‌പോർട്ട് ചെയ്തു
+Exported to timesheet {0},ടൈംഷീറ്റ് {0} ലേക്ക് എക്‌സ്‌പോർട്ട് ചെയ്തു
+External,ബാഹ്യം
+Failed to add item,ഇനം ചേർക്കുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to add note,കുറിപ്പ് ചേർക്കുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to add skill,നൈപുണ്യം ചേർക്കുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to apply cascade changes: {0},കാസ്കേഡ് മാറ്റങ്ങൾ പ്രയോഗിക്കുന്നതിൽ പരാജയപ്പെട്ടു: {0}
+Failed to create defect,തകരാർ സൃഷ്ടിക്കുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to create dependency,ആശ്രിതത്വം സൃഷ്ടിക്കുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to create event,ഇവന്റ് സൃഷ്ടിക്കുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to create milestone,നാഴികക്കല്ല് സൃഷ്ടിക്കുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to create project,പ്രോജക്ട് സൃഷ്ടിക്കുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to create task,ടാസ്ക് സൃഷ്ടിക്കുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to create time log,ടൈം ലോഗ് സൃഷ്ടിക്കുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to delete,ഇല്ലാതാക്കുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to delete comment,അഭിപ്രായം ഇല്ലാതാക്കുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to delete contact,കോൺടാക്ട് ഇല്ലാതാക്കുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to load,ലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to load activity,പ്രവർത്തനം ലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to load assignments,അസൈൻമെന്റുകൾ ലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to load contact,കോൺടാക്ട് ലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to load dashboard data,ഡാഷ്‌ബോർഡ് ഡാറ്റ ലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to load defects,തകരാറുകൾ ലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to load events,ഇവന്റുകൾ ലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to load project,പ്രോജക്ട് ലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to load projects,പ്രോജക്ടുകൾ ലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to load report data,റിപ്പോർട്ട് ഡാറ്റ ലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to load settings,ക്രമീകരണങ്ങൾ ലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to load tasks,ടാസ്കുകൾ ലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to move task,ടാസ്ക് നീക്കുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to post comment,അഭിപ്രായം പോസ്റ്റ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to propose new time,പുതിയ സമയം നിർദ്ദേശിക്കുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to remove item,ഇനം നീക്കം ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to remove skill,നൈപുണ്യം നീക്കം ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to reorder milestones: {0},നാഴികക്കല്ലുകൾ പുനഃക്രമീകരിക്കുന്നതിൽ പരാജയപ്പെട്ടു: {0}
+Failed to reorder tasks: {0},ടാസ്കുകൾ പുനഃക്രമീകരിക്കുന്നതിൽ പരാജയപ്പെട്ടു: {0}
+Failed to reschedule dependent tasks: {0},ആശ്രിത ടാസ്കുകൾ പുനഃഷെഡ്യൂൾ ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു: {0}
+Failed to save,സേവ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to save preferences,മുൻഗണനകൾ സേവ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to save settings,ക്രമീകരണങ്ങൾ സേവ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to submit request. Please try again.,അഭ്യർത്ഥന സമർപ്പിക്കുന്നതിൽ പരാജയപ്പെട്ടു. ദയവായി വീണ്ടും ശ്രമിക്കുക.
+Failed to update item,ഇനം അപ്‌ഡേറ്റ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to update priority,മുൻഗണന അപ്‌ഡേറ്റ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to update task,ടാസ്ക് അപ്‌ഡേറ്റ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Failed to update tasks: {0},ടാസ്കുകൾ അപ്‌ഡേറ്റ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു: {0}
+Failed to upload avatar,അവതാർ അപ്‌ലോഡ് ചെയ്യുന്നതിൽ പരാജയപ്പെട്ടു
+Feature,സവിശേഷത
+Features,സവിശേഷതകൾ
+FF (Finish-Finish),FF (പൂർത്തീകരണം-പൂർത്തീകരണം)
+FF - Finish-to-Finish,FF - പൂർത്തീകരണം-മുതൽ-പൂർത്തീകരണം
+Field has been updated,ഫീൽഡ് അപ്‌ഡേറ്റ് ചെയ്തു
+Field name is required for 'Set Field Value' action,'Set Field Value' പ്രവർത്തനത്തിന് ഫീൽഡ് പേര് ആവശ്യമാണ്
+Field {0} is not a Link field,ഫീൽഡ് {0} ഒരു Link ഫീൽഡ് അല്ല
+Field {0} not found in {1},ഫീൽഡ് {0} {1}-ൽ കണ്ടെത്തിയില്ല
+file,ഫയല്
+File,ഫയൽ
+File does not belong to this task,ഫയൽ ഈ ടാസ്കിന്റേതല്ല
+File name is required,ഫയൽ പേര് ആവശ്യമാണ്
+File uploaded,ഫയൽ അപ്‌ലോഡ് ചെയ്തു
+File {0} not found,ഫയൽ {0} കണ്ടെത്തിയില്ല
+files,ഫയലുകൾ
+Files,ഫയലുകൾ
+Filter,ഫിൽറ്റർ ചെയ്യുക
+Final Decision,അന്തിമ തീരുമാനം
+Finance,ധനകാര്യം
+Financial,സാമ്പത്തികം
+Finish-to-Finish,പൂർത്തീകരണം-മുതൽ-പൂർത്തീകരണം
+Finish-to-Start,പൂർത്തീകരണം-മുതൽ-ആരംഭം
+Flag,ഫ്ലാഗ്
+Flag for attention,ശ്രദ്ധയ്ക്കായി ഫ്ലാഗ് ചെയ്യുക
+Flagged,ഫ്ലാഗ് ചെയ്തു
+Focus Panel,ഫോക്കസ് പാനൽ
+Follows your system preference. Currently:,നിങ്ങളുടെ സിസ്റ്റം മുൻഗണന പിന്തുടരുന്നു. നിലവിൽ:
+Frappe Project {0} not found,Frappe പ്രോജക്ട് {0} കണ്ടെത്തിയില്ല
+Frappe Projects Migration,Frappe പ്രോജക്ടുകൾ മൈഗ്രേഷൻ
+Frappe Projects module not available,Frappe പ്രോജക്ടുകൾ മൊഡ്യൂൾ ലഭ്യമല്ല
+Frappe Projects module not installed,Frappe പ്രോജക്ടുകൾ മൊഡ്യൂൾ ഇൻസ്റ്റാൾ ചെയ്തിട്ടില്ല
+Frappe Projects sync is not enabled,Frappe പ്രോജക്ടുകൾ സമന്വയം പ്രവർത്തനക്ഷമമല്ല
+Frappe Task DocType not found,Frappe Task DocType കണ്ടെത്തിയില്ല
+Frappe Task has no project,Frappe ടാസ്കിന് പ്രോജക്ട് ഇല്ല
+Frappe Task {0} not found,Frappe ടാസ്ക് {0} കണ്ടെത്തിയില്ല
+Fri,വെള്ളി
+From,നിന്നും
+From Template,ടെംപ്ലേറ്റിൽ നിന്ന്
+FS (Finish-Start),FS (പൂർത്തീകരണം-ആരംഭം)
+FS - Finish-to-Start (default),FS - പൂർത്തീകരണം-മുതൽ-ആരംഭം (സ്ഥിരസ്ഥിതി)
+Full form view with audit trail,ഓഡിറ്റ് ട്രെയിൽ ഉള്ള പൂർണ ഫോം കാഴ്ച
+Full name,പൂർണ നാമം
+Gantt,Gantt
+Gantt Chart,ഗാന്റ് ചാർട്ട്
+Gantt View,ഗാന്റ് കാഴ്ച
+General Note,പൊതു കുറിപ്പ്
+Get started,ആരംഭിക്കുക
+Go back,തിരികെ പോകുക
+Go Back,Go Back
+Group by,ഗ്രൂപ്പ് ചെയ്യുക
+Group dependency removed,ഗ്രൂപ്പ് ആശ്രിതത്വം നീക്കം ചെയ്തു
+Group dependency set,ഗ്രൂപ്പ് ആശ്രിതത്വം സജ്ജമാക്കി
+Group removed,ഗ്രൂപ്പ് നീക്കം ചെയ്തു
+Group updated,ഗ്രൂപ്പ് അപ്‌ഡേറ്റ് ചെയ്തു
+Hammock task dates are auto-calculated and cannot be changed manually,"ഹാമോക്ക് ടാസ്ക് തീയതികൾ സ്വയം കണക്കാക്കുന്നതാണ്, സ്വമേധയാ മാറ്റാൻ കഴിയില്ല"
+Have a question or need assistance? Fill out the form below and our team will get back to you.,"ഒരു ചോദ്യമുണ്ടോ അല്ലെങ്കിൽ സഹായം ആവശ്യമാണോ? താഴെയുള്ള ഫോം പൂരിപ്പിക്കുക, ഞങ്ങളുടെ ടീം നിങ്ങളെ ബന്ധപ്പെടും."
+Health,ആരോഗ്യം
+Healthy,ആരോഗ്യകരം
+Hello {0},ഹലോ {0}
+Here's what's happening with your projects today.,നിങ്ങളുടെ പ്രോജക്ടുകളിൽ ഇന്ന് സംഭവിക്കുന്നത് ഇതാ.
+Hide,മറയ്‌ക്കുക
+High,ഹൈ
+History,ചരിത്രം
+Home,ഹോം
+Hourly Cost,മണിക്കൂർ ചെലവ്
+Hours,മണിക്കൂറുകൾ
+hours,മണിക്കൂറുകൾ
+Hours Logged,രേഖപ്പെടുത്തിയ മണിക്കൂറുകൾ
+ID,ഐഡി
+Image must be smaller than 5 MB,ചിത്രം 5 MB-യിൽ ചെറുതായിരിക്കണം
+Import,ഇംപോർട്ട്
+Import existing projects and tasks from Frappe Projects module,Frappe പ്രോജക്ടുകൾ മൊഡ്യൂളിൽ നിന്ന് നിലവിലുള്ള പ്രോജക്ടുകളും ടാസ്കുകളും ഇംപോർട്ട് ചെയ്യുക
+Import failed,ഇംപോർട്ട് പരാജയപ്പെട്ടു
+Import Template,ടെംപ്ലേറ്റ് ഇംപോർട്ട് ചെയ്യുക
+Imported,ഇംപോർട്ട് ചെയ്തു
+in,ൽ
+In Progress,പുരോഗതിയിൽ
+In Review,അവലോകനത്തിൽ
+In-app notifications,ആപ്പിനുള്ളിലെ അറിയിപ്പുകൾ
+Inactive,നിഷ്ക്രിയം
+Initial Review,പ്രാഥമിക അവലോകനം
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,എല്ലാ ടാസ്കുകളും കാണാൻ മതിയായ അനുമതിയില്ല
+Intermediate,ഇന്റർമീഡിയറ്റ്
+Internal,ആന്തരികം
+Invalid DocType,അസാധുവായ DocType
+Invalid DocType for import,ഇംപോർട്ടിനായി അസാധുവായ DocType
+Invalid item type: {0},അസാധുവായ ഇനം തരം: {0}
+Invalid JSON data,അസാധുവായ JSON ഡാറ്റ
+Invalid note type. Must be one of: {0},അസാധുവായ കുറിപ്പ് തരം. ഇവയിൽ ഒന്നായിരിക്കണം: {0}
+Invalid project reference,അസാധുവായ പ്രോജക്ട് റഫറൻസ്
+Invalid reaction type. Must be one of: {0},അസാധുവായ പ്രതികരണ തരം. ഇവയിൽ ഒന്നായിരിക്കണം: {0}
+Invalid RSVP status,അസാധുവായ RSVP സ്ഥിതി
+Invalid status. Must be one of: {0},അസാധുവായ സ്ഥിതി. ഇവയിൽ ഒന്നായിരിക്കണം: {0}
+Invalid status: {0},അസാധുവായ സ്ഥിതി: {0}
+Invalid status: {0}. Must be one of: {1},അസാധുവായ സ്ഥിതി: {0}. ഇവയിൽ ഒന്നായിരിക്കണം: {1}
+Invalid tracking context: {0},അസാധുവായ ട്രാക്കിംഗ് സന്ദർഭം: {0}
+Invalid visibility. Must be one of: {0},അസാധുവായ ദൃശ്യത. ഇവയിൽ ഒന്നായിരിക്കണം: {0}
+Invitation: {0} - {1} at {2},ക്ഷണം: {0} - {1} {2}-ൽ
+Invite People,ആളുകളെ ക്ഷണിക്കുക
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,ഇനം ചേർത്തു
+Item ID is required,ഇനം ID ആവശ്യമാണ്
+Item removed,ഇനം നീക്കം ചെയ്തു
+Item type is required,ഇനം തരം ആവശ്യമാണ്
+Item {0} not found,ഇനം {0} കണ്ടെത്തിയില്ല
+Job title or role,ജോലി ശീർഷകം അല്ലെങ്കിൽ റോൾ
+Join Meeting,മീറ്റിംഗിൽ ചേരുക
+Just now,ഇപ്പോൾ
+just now,ഇപ്പോള്
+Kanban,Kanban
+Kanban Board,Kanban ബോർഡ്
+Kanban View,കാൻബൻ കാഴ്ച
+Keyboard Shortcuts,കീബോർഡ് കുറുക്കുവഴികൾ
+Keyboard shortcuts (?),കീബോർഡ് കുറുക്കുവഴികൾ (?)
+Last checked: {0},Last checked: {0}
+Last Updated,അവസാനം അപ്‌ഡേറ്റ് ചെയ്തത്
+Last updated:,അവസാനം അപ്‌ഡേറ്റ് ചെയ്തത്:
+Last Week,കഴിഞ്ഞ ആഴ്ച
+Latest Version,Latest Version
+Light,ലൈറ്റ്
+Link failed,ലിങ്ക് പരാജയപ്പെട്ടു
+Link Task,ടാസ്ക് ലിങ്ക് ചെയ്യുക
+Linked,ലിങ്ക്ഡ്
+Linked employee not found,ലിങ്ക് ചെയ്ത ജീവനക്കാരനെ കണ്ടെത്തിയില്ല
+Linked Tasks,ലിങ്ക് ചെയ്ത ടാസ്കുകൾ
+List,പട്ടിക
+List View,ലിസ്റ്റ് കാഴ്ച
+Load failed,ലോഡ് ചെയ്യൽ പരാജയപ്പെട്ടു
+Load More,കൂടുതൽ ലോഡുചെയ്യുക
+Load more comments,കൂടുതൽ അഭിപ്രായങ്ങൾ ലോഡ് ചെയ്യുക
+Loading activity...,പ്രവർത്തനം ലോഡ് ചെയ്യുന്നു...
+Loading changes...,മാറ്റങ്ങൾ ലോഡ് ചെയ്യുന്നു...
+Loading checklist...,ചെക്ക്‌ലിസ്റ്റ് ലോഡ് ചെയ്യുന്നു...
+Loading comments...,അഭിപ്രായങ്ങൾ ലോഡ് ചെയ്യുന്നു...
+Loading contact...,കോൺടാക്ട് ലോഡ് ചെയ്യുന്നു...
+Loading contacts...,കോൺടാക്ടുകൾ ലോഡ് ചെയ്യുന്നു...
+Loading dependencies...,ആശ്രിതത്വങ്ങൾ ലോഡ് ചെയ്യുന്നു...
+Loading details...,വിശദാംശങ്ങൾ ലോഡ് ചെയ്യുന്നു...
+Loading discussion...,ചർച്ച ലോഡ് ചെയ്യുന്നു...
+Loading events...,ഇവന്റുകൾ ലോഡ് ചെയ്യുന്നു...
+Loading files...,ഫയലുകൾ ലോഡ് ചെയ്യുന്നു...
+Loading notes...,കുറിപ്പുകൾ ലോഡ് ചെയ്യുന്നു...
+Loading preferences...,മുൻഗണനകൾ ലോഡ് ചെയ്യുന്നു...
+Loading project...,പ്രോജക്ട് ലോഡ് ചെയ്യുന്നു...
+Loading projects...,പ്രോജക്ടുകൾ ലോഡ് ചെയ്യുന്നു...
+Loading replies...,മറുപടികൾ ലോഡ് ചെയ്യുന്നു...
+Loading report data...,റിപ്പോർട്ട് ഡാറ്റ ലോഡ് ചെയ്യുന്നു...
+Loading settings...,ക്രമീകരണങ്ങൾ ലോഡ് ചെയ്യുന്നു...
+Loading task...,ടാസ്ക് ലോഡ് ചെയ്യുന്നു...
+Loading templates...,ടെംപ്ലേറ്റുകൾ ലോഡ് ചെയ്യുന്നു...
+Loading time logs...,ടൈം ലോഗുകൾ ലോഡ് ചെയ്യുന്നു...
+Loading your portal...,നിങ്ങളുടെ പോർട്ടൽ ലോഡ് ചെയ്യുന്നു...
+Loading...,ലോഡുചെയ്യുന്നു ...
+Location,സ്ഥാനം
+Log Time,സമയം രേഖപ്പെടുത്തുക
+Logout,പുറത്തിറങ്ങുക
+Low,ലോ
+Make Offer,ഓഫർ ചെയ്യുക
+Manager,മാനേജർ
+Manual Entry,സ്വമേധയാ ഉള്ള എൻട്രി
+Margin,മാർജിൻ
+Mark all as read,എല്ലാം വായിച്ചതായി അടയാളപ്പെടുത്തുക
+Mark all read,എല്ലാം വായിച്ചതായി അടയാളപ്പെടുത്തുക
+Mark as read,വായിച്ചതായി അടയാളപ്പെടുത്തുക
+Mark as unread,വായിക്കാത്തതായി അടയാളപ്പെടുത്തുക
+Mark read,വായിച്ചതായി അടയാളപ്പെടുത്തുക
+Marking...,അടയാളപ്പെടുത്തുന്നു...
+Material,മെറ്റീരിയൽ
+Maybe,ഒരുപക്ഷേ
+Medium,മീഡിയം
+Meeting,മീറ്റിംഗ്
+Meeting Link,മീറ്റിംഗ് ലിങ്ക്
+Meeting title,മീറ്റിംഗ് ശീർഷകം
+Meeting URL,മീറ്റിംഗ് URL
+Meetings,മീറ്റിംഗുകൾ
+Mention,പരാമർശിക്കുക
+Message,സന്ദേശം
+Message is required,സന്ദേശം ആവശ്യമാണ്
+Message is required for '{0}' action,'{0}' പ്രവർത്തനത്തിന് സന്ദേശം ആവശ്യമാണ്
+Migrate,മൈഗ്രേറ്റ് ചെയ്യുക
+Migration Complete,മൈഗ്രേഷൻ പൂർത്തിയായി
+Migration ID:,മൈഗ്രേഷൻ ID:
+Migration log not found: {0},മൈഗ്രേഷൻ ലോഗ് കണ്ടെത്തിയില്ല: {0}
+milestone,നാഴികക്കല്ല്
+Milestone,നാഴികക്കല്ല്
+Milestone created,നാഴികക്കല്ല് സൃഷ്ടിച്ചു
+Milestone description has been saved.,നാഴികക്കല്ല് വിവരണം സേവ് ചെയ്തു.
+Milestone ID is required,നാഴികക്കല്ല് ID ആവശ്യമാണ്
+Milestone marked as Missed (past due date),നാഴികക്കല്ല് നഷ്ടമായതായി അടയാളപ്പെടുത്തി (അവസാന തീയതി കഴിഞ്ഞു)
+Milestone moved,നാഴികക്കല്ല് നീക്കി
+Milestone Name,നാഴികക്കല്ല് പേര്
+Milestone name has been saved.,നാഴികക്കല്ല് പേര് സേവ് ചെയ്തു.
+Milestone name is required,നാഴികക്കല്ല് പേര് ആവശ്യമാണ്
+Milestone updated,നാഴികക്കല്ല് അപ്‌ഡേറ്റ് ചെയ്തു
+Milestone {0} not found,നാഴികക്കല്ല് {0} കണ്ടെത്തിയില്ല
+Milestone {0} not in project {1},നാഴികക്കല്ല് {0} പ്രോജക്ട് {1}-ൽ ഇല്ല
+milestones,നാഴികക്കല്ലുകൾ
+Milestones,നാഴികക്കല്ലുകൾ
+Milestones:,നാഴികക്കല്ലുകൾ:
+Minutes,മിനിറ്റുകൾ
+Missed,നഷ്ടമായി
+Mixed,മിശ്രിതം
+Mobile,മൊബൈൽ
+Moderate,മിതമായ
+Modified,പരിഷ്കരിച്ചത്
+"Modify details, time, or attendees","വിശദാംശങ്ങൾ, സമയം, അല്ലെങ്കിൽ പങ്കെടുക്കുന്നവരെ പരിഷ്കരിക്കുക"
+Mon,തിങ്കൾ
+Month,മാസം
+Move failed,നീക്കൽ പരാജയപ്പെട്ടു
+Must be a positive number,ഒരു പോസിറ്റീവ് സംഖ്യ ആയിരിക്കണം
+Must finish before this finishes,ഇത് പൂർത്തിയാകുന്നതിന് മുമ്പ് പൂർത്തിയാക്കണം
+Must finish before this starts,ഇത് ആരംഭിക്കുന്നതിന് മുമ്പ് പൂർത്തിയാക്കണം
+Must start before this finishes,ഇത് പൂർത്തിയാകുന്നതിന് മുമ്പ് ആരംഭിക്കണം
+Must start before this starts,ഇത് ആരംഭിക്കുന്നതിന് മുമ്പ് ആരംഭിക്കണം
+My Assignments,എന്റെ അസൈൻമെന്റുകൾ
+My Projects,എന്റെ പ്രോജക്ടുകൾ
+My Schedule,എന്റെ ഷെഡ്യൂൾ
+My Tasks,എന്റെ ടാസ്കുകൾ
+N/A,ബാധകമല്ല
+Name,പേര്
+Name (A-Z),പേര് (A-Z)
+Name (Z-A),പേര് (Z-A)
+Name cannot exceed 255 characters,പേര് 255 അക്ഷരങ്ങൾ കവിയാൻ പാടില്ല
+Need help?,സഹായം ആവശ്യമുണ്ടോ?
+Needs Attention,ശ്രദ്ധ ആവശ്യമാണ്
+Never,Never
+new activities,പുതിയ പ്രവർത്തനങ്ങൾ
+New Activity,പുതിയ പ്രവർത്തനം
+New activity,പുതിയ പ്രവർത്തനം
+New Event,പുതിയ ഇവന്റ്
+New index is required,പുതിയ ഇൻഡക്സ് ആവശ്യമാണ്
+New Project,പുതിയ പ്രോജക്ട്
+New tasks will auto-trail by default.,പുതിയ ടാസ്കുകൾ സ്ഥിരസ്ഥിതിയായി ഓട്ടോ-ട്രെയിൽ ചെയ്യും.
+Newest First,ഏറ്റവും പുതിയത് ആദ്യം
+Next,അടുത്തത്
+Next 14 days,അടുത്ത 14 ദിവസങ്ങൾ
+Next 30 days,അടുത്ത 30 ദിവസങ്ങൾ
+Next 60 days,അടുത്ത 60 ദിവസങ്ങൾ
+Next 7 days,അടുത്ത 7 ദിവസങ്ങൾ
+Next 90 days,അടുത്ത 90 ദിവസങ്ങൾ
+Next Week,അടുത്ത ആഴ്ച
+Next:,അടുത്തത്:
+No,ഇല്ല
+No active assignments,സജീവ അസൈൻമെന്റുകൾ ഇല്ല
+No active projects,സജീവ പ്രോജക്ടുകൾ ഇല്ല
+No active timer found,സജീവ ടൈമർ കണ്ടെത്തിയില്ല
+No activity selected,പ്രവർത്തനം തിരഞ്ഞെടുത്തിട്ടില്ല
+No assignments found,അസൈൻമെന്റുകൾ കണ്ടെത്തിയില്ല
+No attendees,പങ്കെടുക്കുന്നവർ ഇല്ല
+no change,മാറ്റമില്ല
+No changes for this field.,ഈ ഫീൽഡിൽ മാറ്റങ്ങളില്ല.
+No changes recorded for this activity.,ഈ പ്രവർത്തനത്തിന് മാറ്റങ്ങൾ രേഖപ്പെടുത്തിയിട്ടില്ല.
+No checklist items yet,ചെക്ക്‌ലിസ്റ്റ് ഇനങ്ങൾ ഇതുവരെ ഇല്ല
+No checklist items yet.,ചെക്ക്‌ലിസ്റ്റ് ഇനങ്ങൾ ഇതുവരെ ഇല്ല.
+No comments yet,ഇതുവരെ പോസ്റ്റ്
+No comments yet.,അഭിപ്രായങ്ങൾ ഇതുവരെ ഇല്ല.
+No contacts available,കോൺടാക്ടുകൾ ലഭ്യമല്ല
+No content for this tab,ഈ ടാബിൽ ഉള്ളടക്കമില്ല
+No data available,ഡാറ്റ ലഭ്യമല്ല
+No data available for the selected filters,തിരഞ്ഞെടുത്ത ഫിൽട്ടറുകൾക്ക് ഡാറ്റ ലഭ്യമല്ല
+No data to export,എക്‌സ്‌പോർട്ടുചെയ്യാൻ ഡാറ്റയൊന്നുമില്ല
+No dates set,തീയതികൾ സജ്ജമാക്കിയിട്ടില്ല
+No defects reported,തകരാറുകൾ റിപ്പോർട്ട് ചെയ്തിട്ടില്ല
+No dependencies defined,ആശ്രിതത്വങ്ങൾ നിർവചിച്ചിട്ടില്ല
+No description,വിവരണം ഇല്ല
+No discussion yet.,ചർച്ച ഇതുവരെ ഇല്ല.
+No documents attached,ഡോക്യുമെന്റുകൾ അറ്റാച്ച് ചെയ്തിട്ടില്ല
+No due date,അവസാന തീയതി ഇല്ല
+No employee linked to this resource,ഈ വിഭവത്തിലേക്ക് ജീവനക്കാരനെ ലിങ്ക് ചെയ്തിട്ടില്ല
+No ERPNext employee linked to resource,വിഭവത്തിലേക്ക് ERPNext ജീവനക്കാരനെ ലിങ്ക് ചെയ്തിട്ടില്ല
+No events found,ഇവന്റുകൾ കണ്ടെത്തിയില്ല
+No files attached yet.,ഫയലുകൾ ഇതുവരെ അറ്റാച്ച് ചെയ്തിട്ടില്ല.
+No Frappe Project linked,Frappe പ്രോജക്ട് ലിങ്ക് ചെയ്തിട്ടില്ല
+No Grouping,ഗ്രൂപ്പിംഗ് ഇല്ല
+No items,ഇനങ്ങൾ ഇല്ല
+No matching tasks,പൊരുത്തപ്പെടുന്ന ടാസ്കുകൾ ഇല്ല
+No matching tasks found,പൊരുത്തപ്പെടുന്ന ടാസ്കുകൾ കണ്ടെത്തിയില്ല
+No migration history,മൈഗ്രേഷൻ ചരിത്രം ഇല്ല
+No Milestone,നാഴികക്കല്ല് ഇല്ല
+No milestones,നാഴികക്കല്ലുകൾ ഇല്ല
+No milestones defined for this project.,ഈ പ്രോജക്ടിന് നാഴികക്കല്ലുകൾ നിർവചിച്ചിട്ടില്ല.
+No notes yet.,കുറിപ്പുകൾ ഇതുവരെ ഇല്ല.
+No notes yet. Add a due diligence note to track progress.,കുറിപ്പുകൾ ഇതുവരെ ഇല്ല. പുരോഗതി ട്രാക്ക് ചെയ്യാൻ ഒരു ഡ്യൂ ഡിലിജൻസ് കുറിപ്പ് ചേർക്കുക.
+No notifications,അറിയിപ്പുകൾ ഇല്ല
+No Orga Project linked to Frappe Project {0},Frappe പ്രോജക്ട് {0}-ലേക്ക് Orga പ്രോജക്ട് ലിങ്ക് ചെയ്തിട്ടില്ല
+No overdue tasks,കാലഹരണപ്പെട്ട ടാസ്കുകൾ ഇല്ല
+No pending cascade changes,തീർപ്പാക്കാത്ത കാസ്കേഡ് മാറ്റങ്ങൾ ഇല്ല
+No predecessors - this task can start independently,മുൻഗാമികൾ ഇല്ല - ഈ ടാസ്ക് സ്വതന്ത്രമായി ആരംഭിക്കാം
+No project,പ്രോജക്ട് ഇല്ല
+No projects found,പ്രോജക്ടുകൾ കണ്ടെത്തിയില്ല
+No Projects Yet,പ്രോജക്ടുകൾ ഇതുവരെ ഇല്ല
+No recent activity,സമീപകാല പ്രവർത്തനം ഇല്ല
+No related documents,ബന്ധപ്പെട്ട ഡോക്യുമെന്റുകൾ ഇല്ല
+No resolved threads.,പരിഹരിച്ച ത്രെഡുകൾ ഇല്ല.
+No resources found,വിഭവങ്ങൾ കണ്ടെത്തിയില്ല
+No results found,ഫലങ്ങൾ കണ്ടെത്തിയില്ല
+No skills listed,നൈപുണ്യങ്ങൾ ലിസ്റ്റ് ചെയ്തിട്ടില്ല
+No skills recorded yet,നൈപുണ്യങ്ങൾ ഇതുവരെ രേഖപ്പെടുത്തിയിട്ടില്ല
+No successors - no tasks are waiting for this one,പിൻഗാമികൾ ഇല്ല - ഈ ടാസ്കിനായി മറ്റ് ടാസ്കുകൾ കാത്തിരിക്കുന്നില്ല
+No task selected,ടാസ്ക് തിരഞ്ഞെടുത്തിട്ടില്ല
+No tasks assigned to you,നിങ്ങൾക്ക് അസൈൻ ചെയ്ത ടാസ്കുകൾ ഇല്ല
+No tasks available to add,ചേർക്കാൻ ലഭ്യമായ ടാസ്കുകൾ ഇല്ല
+No tasks found,ടാസ്കുകൾ കണ്ടെത്തിയില്ല
+No tasks linked to this milestone,ഈ നാഴികക്കല്ലിലേക്ക് ലിങ്ക് ചെയ്ത ടാസ്കുകൾ ഇല്ല
+No tasks with dates to display,പ്രദർശിപ്പിക്കാൻ തീയതികളുള്ള ടാസ്കുകൾ ഇല്ല
+No tasks yet,ടാസ്കുകൾ ഇതുവരെ ഇല്ല
+No team members,ടീം അംഗങ്ങൾ ഇല്ല
+No template,ടെംപ്ലേറ്റ് ഇല്ല
+No templates yet,ടെംപ്ലേറ്റുകൾ ഇതുവരെ ഇല്ല
+No time data found,സമയ ഡാറ്റ കണ്ടെത്തിയില്ല
+No time logged today,ഇന്ന് സമയം രേഖപ്പെടുത്തിയിട്ടില്ല
+No time logged yet,സമയം ഇതുവരെ രേഖപ്പെടുത്തിയിട്ടില്ല
+No time logs for this period,ഈ കാലയളവിൽ ടൈം ലോഗുകൾ ഇല്ല
+No time logs found,ടൈം ലോഗുകൾ കണ്ടെത്തിയില്ല
+No unread notifications,വായിക്കാത്ത അറിയിപ്പുകൾ ഇല്ല
+No update information available yet.,No update information available yet.
+None,ഒന്നുമില്ല
+Not found,കാണ്മാനില്ല
+Not permitted,അനുവദനീയമല്ല
+Not permitted to access this project,ഈ പ്രോജക്ട് ആക്‌സസ് ചെയ്യാൻ അനുമതിയില്ല
+Not permitted to access this task,ഈ ടാസ്ക് ആക്‌സസ് ചെയ്യാൻ അനുമതിയില്ല
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,ഈ ഡോക്യുമെന്റിൽ അഭിപ്രായം പറയാൻ അനുമതിയില്ല
+Not permitted to create clients,ക്ലയന്റുകളെ സൃഷ്ടിക്കാൻ അനുമതിയില്ല
+Not permitted to delete this client,ഈ ക്ലയന്റിനെ ഇല്ലാതാക്കാൻ അനുമതിയില്ല
+Not permitted to delete this defect,ഈ തകരാർ ഇല്ലാതാക്കാൻ അനുമതിയില്ല
+Not permitted to delete this note,ഈ കുറിപ്പ് ഇല്ലാതാക്കാൻ അനുമതിയില്ല
+Not permitted to delete this project,ഈ പ്രോജക്ട് ഇല്ലാതാക്കാൻ അനുമതിയില്ല
+Not permitted to delete this task,ഈ ടാസ്ക് ഇല്ലാതാക്കാൻ അനുമതിയില്ല
+Not permitted to delete this time log,ഈ ടൈം ലോഗ് ഇല്ലാതാക്കാൻ അനുമതിയില്ല
+Not permitted to invite clients,ക്ലയന്റുകളെ ക്ഷണിക്കാൻ അനുമതിയില്ല
+Not permitted to modify client access,ക്ലയന്റ് ആക്‌സസ് പരിഷ്കരിക്കാൻ അനുമതിയില്ല
+Not permitted to modify this project,ഈ പ്രോജക്ട് പരിഷ്കരിക്കാൻ അനുമതിയില്ല
+Not permitted to update settings,ക്രമീകരണങ്ങൾ അപ്‌ഡേറ്റ് ചെയ്യാൻ അനുമതിയില്ല
+Not permitted to update this client,ഈ ക്ലയന്റിനെ അപ്‌ഡേറ്റ് ചെയ്യാൻ അനുമതിയില്ല
+Not permitted to view this client,ഈ ക്ലയന്റിനെ കാണാൻ അനുമതിയില്ല
+not sent,അയച്ചിട്ടില്ല
+Not set,സജ്ജമാക്കിയിട്ടില്ല
+Not specified,വ്യക്തമാക്കിയിട്ടില്ല
+Note,കുറിപ്പ്
+Note (optional),കുറിപ്പ് (ഐച്ഛികം)
+Note Content,കുറിപ്പ് ഉള്ളടക്കം
+Note content is required,കുറിപ്പ് ഉള്ളടക്കം ആവശ്യമാണ്
+Note name is required,കുറിപ്പ് പേര് ആവശ്യമാണ്
+Note not found,കുറിപ്പ് കണ്ടെത്തിയില്ല
+Note Type,കുറിപ്പ് തരം
+Notes,കുറിപ്പുകൾ
+Notification,അറിയിപ്പ്
+Notification not found,അറിയിപ്പ് കണ്ടെത്തിയില്ല
+Notifications,അറിയിപ്പുകൾ
+Off Track,ട്രാക്കിൽ നിന്ന് മാറി
+Offer,ഓഫർ
+Offer Prepared,ഓഫർ തയ്യാറാക്കി
+Oldest First,ഏറ്റവും പഴയത് ആദ്യം
+On Hold,നിർത്തിവച്ചിരിക്കുന്നു
+On Leave,അവധിയിൽ
+On Track,ട്രാക്കിൽ
+On-Time Rate,സമയനിഷ്ഠ നിരക്ക്
+Only administrators can delete activities,അഡ്മിനിസ്ട്രേറ്റർമാർക്ക് മാത്രമേ പ്രവർത്തനങ്ങൾ ഇല്ലാതാക്കാൻ കഴിയൂ
+Only the comment author or administrators can delete comments,അഭിപ്രായ രചയിതാവിനോ അഡ്മിനിസ്ട്രേറ്റർമാർക്കോ മാത്രമേ അഭിപ്രായങ്ങൾ ഇല്ലാതാക്കാൻ കഴിയൂ
+Only you and admins,നിങ്ങളും അഡ്മിനുമാരും മാത്രം
+Open,തുറക്കുക
+Open in Desk,ഡെസ്കിൽ തുറക്കുക
+Open Task Log,ടാസ്ക് ലോഗ് തുറക്കുക
+Open Tasks,തുറന്ന ടാസ്കുകൾ
+Optional,ഐച്ഛികം
+optional,ഐച്ഛികം
+Or email us directly at,അല്ലെങ്കിൽ നേരിട്ട് ഇമെയിൽ ചെയ്യുക
+Orga Project {0} from Frappe Projects,Frappe പ്രോജക്ടുകളിൽ നിന്നുള്ള Orga പ്രോജക്ട് {0}
+Orga Task {0} from Frappe,Frappe-യിൽ നിന്നുള്ള Orga ടാസ്ക് {0}
+Organizer,സംഘാടകൻ
+Other,മറ്റുള്ളവ
+Over Budget,ബജറ്റ് കവിഞ്ഞു
+Overall Progress,മൊത്തത്തിലുള്ള പുരോഗതി
+Overall Utilization,മൊത്തത്തിലുള്ള ഉപയോഗം
+Overallocated,അമിതമായി അനുവദിച്ചത്
+Overdue,കാലഹരണപ്പെട്ടത്
+overdue,കാലഹരണപ്പെട്ടത്
+Overdue Tasks,കാലഹരണപ്പെട്ട ടാസ്കുകൾ
+Overview,അവലോകനം
+Owner,ഉടമ
+Page Not Found,പേജ് കണ്ടെത്തിയില്ല
+Parent,പേരന്റ്ഫോള്ഡര്
+Parent comment must belong to the same document,മാതൃ അഭിപ്രായം അതേ ഡോക്യുമെന്റിന്റേതായിരിക്കണം
+Parent comment not found,മാതൃ അഭിപ്രായം കണ്ടെത്തിയില്ല
+Parent project not synced to Frappe yet,മാതൃ പ്രോജക്ട് ഇതുവരെ Frappe-ലേക്ക് സമന്വയിപ്പിച്ചിട്ടില്ല
+Parent project sync not enabled,മാതൃ പ്രോജക്ട് സമന്വയം പ്രവർത്തനക്ഷമമല്ല
+Partner,പങ്കാളി
+Pending,തീർച്ചപ്പെടുത്തിയിട്ടില്ല
+per page,ഓരോ പേജിലും
+Perform initial assessment and background check,പ്രാഥമിക വിലയിരുത്തലും പശ്ചാത്തല പരിശോധനയും നടത്തുക
+Permanently remove this event,ഈ ഇവന്റ് ശാശ്വതമായി നീക്കം ചെയ്യുക
+Permanently remove this task,ഈ ടാസ്ക് ശാശ്വതമായി നീക്കം ചെയ്യുക
+Phone,ഫോൺ
+Pin,പിൻ ചെയ്യുക
+Pin Activity,പ്രവർത്തനം പിൻ ചെയ്യുക
+Pin to top,മുകളിൽ പിൻ ചെയ്യുക
+Pinned,പിൻ ചെയ്തു
+Planned budget for this task,ഈ ടാസ്കിനായി ആസൂത്രണം ചെയ്ത ബജറ്റ്
+Planning,ആസൂത്രണം
+Please describe your question or issue in detail...,നിങ്ങളുടെ ചോദ്യം അല്ലെങ്കിൽ പ്രശ്‌നം വിശദമായി വിവരിക്കുക...
+Please login to access Orga,Orga ആക്‌സസ് ചെയ്യാൻ ദയവായി ലോഗിൻ ചെയ്യുക
+Please login to access the client portal,ക്ലയന്റ് പോർട്ടൽ ആക്‌സസ് ചെയ്യാൻ ദയവായി ലോഗിൻ ചെയ്യുക
+Please respond to this invitation in Orga,ദയവായി ഈ ക്ഷണത്തിന് Orga-ൽ മറുപടി നൽകുക
+Please select an image file,ദയവായി ഒരു ചിത്ര ഫയൽ തിരഞ്ഞെടുക്കുക
+Please try again,വീണ്ടും ശ്രമിക്കുക
+Please type,ദയവായി ടൈപ്പ് ചെയ്യുക
+Portal,പോർട്ടൽ
+Portal access revoked for {0},{0}-ന്റെ പോർട്ടൽ ആക്‌സസ് റദ്ദാക്കി
+Portal user created successfully. Welcome email {0},പോർട്ടൽ ഉപയോക്താവിനെ വിജയകരമായി സൃഷ്ടിച്ചു. സ്വാഗത ഇമെയിൽ {0}
+Post,പോസ്റ്റുകൾ
+Powered by,നൽകുന്നത്
+Powered by Tonic,Tonic നൽകുന്നത്
+Predecessors (Blocked By),മുൻഗാമികൾ (ബ്ലോക്ക് ചെയ്തത്)
+Preferences,മുൻഗണനകൾ
+Preferences saved successfully,മുൻഗണനകൾ വിജയകരമായി സേവ് ചെയ്തു
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)","സ്വയം ജനറേറ്റ് ചെയ്ത പ്രോജക്ട് കോഡുകൾക്കുള്ള പ്രിഫിക്സ് (ഉദാ., ORG-2026-0001)"
+Prepare and document offer terms,ഓഫർ നിബന്ധനകൾ തയ്യാറാക്കുകയും ഡോക്യുമെന്റ് ചെയ്യുകയും ചെയ്യുക
+Press,അമർത്തുക
+Preview,പ്രിവ്യൂ
+Preview cascade before applying,പ്രയോഗിക്കുന്നതിന് മുമ്പ് കാസ്കേഡ് പ്രിവ്യൂ ചെയ്യുക
+Previous,മുമ്പത്തെ
+Priority,മുൻഗണന
+Priority assigned to new tasks,പുതിയ ടാസ്കുകൾക്ക് നൽകിയ മുൻഗണന
+Priority updated,മുൻഗണന അപ്‌ഡേറ്റ് ചെയ്തു
+Proficiency,പ്രാവീണ്യം
+Profile,പ്രൊഫൈൽ
+Progress,പുരോഗതി
+Progress (High-Low),പുരോഗതി (ഉയർന്നത്-താഴ്ന്നത്)
+Progress (Low-High),പുരോഗതി (താഴ്ന്നത്-ഉയർന്നത്)
+Progress Overview,പുരോഗതി അവലോകനം
+Progress updated,പുരോഗതി അപ്‌ഡേറ്റ് ചെയ്തു
+Project,പ്രോജക്ട്
+Project budget has been saved.,പ്രോജക്ട് ബജറ്റ് സേവ് ചെയ്തു.
+Project code (e.g. ORG-2026-0001),പ്രോജക്ട് കോഡ് (ഉദാ. ORG-2026-0001)
+Project Code Prefix,പ്രോജക്ട് കോഡ് പ്രിഫിക്സ്
+Project created,പ്രോജക്ട് സൃഷ്ടിച്ചു
+Project deleted,പ്രോജക്ട് ഇല്ലാതാക്കി
+Project description has been saved.,പ്രോജക്ട് വിവരണം സേവ് ചെയ്തു.
+Project Details,പ്രോജക്ട് വിശദാംശങ്ങൾ
+Project end date has been saved.,പ്രോജക്ട് അവസാന തീയതി സേവ് ചെയ്തു.
+Project Files,പ്രോജക്ട് ഫയലുകൾ
+Project has no linked client,പ്രോജക്ടിന് ലിങ്ക് ചെയ്ത ക്ലയന്റ് ഇല്ല
+Project Health,പ്രോജക്ട് ആരോഗ്യം
+Project Info,പ്രോജക്ട് വിവരം
+Project is required,പ്രോജക്ട് ആവശ്യമാണ്
+Project is required for project context,പ്രോജക്ട് സന്ദർഭത്തിന് പ്രോജക്ട് ആവശ്യമാണ്
+Project is required when tracking context is 'project',ട്രാക്കിംഗ് സന്ദർഭം 'project' ആയിരിക്കുമ്പോൾ പ്രോജക്ട് ആവശ്യമാണ്
+Project Manager,പ്രോജക്ട് മാനേജർ
+Project Name,പ്രോജക്ട് പേര്
+Project name and template name are required,പ്രോജക്ട് പേരും ടെംപ്ലേറ്റ് പേരും ആവശ്യമാണ്
+Project name is required,പ്രോജക്ട് പേര് ആവശ്യമാണ്
+Project not found,പ്രോജക്ട് കണ്ടെത്തിയില്ല
+Project not found or you do not have access,പ്രോജക്ട് കണ്ടെത്തിയില്ല അല്ലെങ്കിൽ നിങ്ങൾക്ക് ആക്‌സസ് ഇല്ല
+Project settings,പ്രോജക്ട് ക്രമീകരണങ്ങൾ
+Project start date has been saved.,പ്രോജക്ട് ആരംഭ തീയതി സേവ് ചെയ്തു.
+Project title has been saved.,പ്രോജക്ട് ശീർഷകം സേവ് ചെയ്തു.
+Project Type,പ്രോജക്ട് തരം
+Project updated,പ്രോജക്ട് അപ്‌ഡേറ്റ് ചെയ്തു
+Project {0} linked to client {1},പ്രോജക്ട് {0} ക്ലയന്റ് {1}-ലേക്ക് ലിങ്ക് ചെയ്തു
+Project {0} not found,പ്രോജക്ട് {0} കണ്ടെത്തിയില്ല
+Project {0} to Frappe Projects,പ്രോജക്ട് {0} Frappe പ്രോജക്ടുകളിലേക്ക്
+Project:,പ്രോജക്ട്:
+projects,പ്രോജക്ടുകൾ
+Projects,പ്രോജക്ടുകൾ
+Projects created:,സൃഷ്ടിച്ച പ്രോജക്ടുകൾ:
+Projects Overview,പ്രോജക്ടുകൾ അവലോകനം
+Projects skipped:,ഒഴിവാക്കിയ പ്രോജക്ടുകൾ:
+Projects updated:,അപ്‌ഡേറ്റ് ചെയ്ത പ്രോജക്ടുകൾ:
+Promote failed,പ്രമോട്ട് ചെയ്യൽ പരാജയപ്പെട്ടു
+Promote to task,ടാസ്കായി പ്രമോട്ട് ചെയ്യുക
+Promoted to task,ടാസ്കായി പ്രമോട്ട് ചെയ്തു
+Propose,നിർദ്ദേശിക്കുക
+Propose New Time,പുതിയ സമയം നിർദ്ദേശിക്കുക
+Propose Time,സമയം നിർദ്ദേശിക്കുക
+Proposed End,നിർദ്ദേശിച്ച അവസാനം
+Proposed Start,നിർദ്ദേശിച്ച ആരംഭം
+Public,പബ്ലിക്
+Quick Action,ദ്രുത പ്രവർത്തനം
+Quick Actions,ദ്രുത പ്രവർത്തനങ്ങൾ
+Quick Stats,ദ്രുത സ്ഥിതിവിവരക്കണക്കുകൾ
+Rates,നിരക്കുകൾ
+Receive notifications via email,ഇമെയിൽ വഴി അറിയിപ്പുകൾ സ്വീകരിക്കുക
+Receive notifications within the application,ആപ്ലിക്കേഷനിൽ അറിയിപ്പുകൾ സ്വീകരിക്കുക
+Recent Activity,സമീപകാല പ്രവർത്തനം
+Recipient {0} is not a valid user,സ്വീകർത്താവ് {0} സാധുവായ ഉപയോക്താവല്ല
+Reference,റഫറൻസ്
+Refresh,പുതുക്കുക
+Related,ബന്ധപ്പെട്ടത്
+Related Company (optional),ബന്ധപ്പെട്ട കമ്പനി (ഐച്ഛികം)
+Related Documents,ബന്ധപ്പെട്ട ഡോക്യുമെന്റുകൾ
+Related Project,ബന്ധപ്പെട്ട പ്രോജക്ട്
+Remaining,ശേഷിക്കുന്നത്
+Reminder,ഓർമ്മപ്പെടുത്തൽ
+Reminder Lead Time,ഓർമ്മപ്പെടുത്തൽ ലീഡ് സമയം
+Reminder: {0} - {1} at {2},ഓർമ്മപ്പെടുത്തൽ: {0} - {1} {2}-ൽ
+Remove,നീക്കം
+Remove dependency,ആശ്രിതത്വം നീക്കം ചെയ്യുക
+Remove dependency on,ആശ്രിതത്വം നീക്കം ചെയ്യുക
+Remove from group,ഗ്രൂപ്പിൽ നിന്ന് നീക്കം ചെയ്യുക
+Remove group dependency,ഗ്രൂപ്പ് ആശ്രിതത്വം നീക്കം ചെയ്യുക
+Remove skill,നൈപുണ്യം നീക്കം ചെയ്യുക
+Reopen,വീണ്ടും തുറക്കുക
+Reopen thread,ത്രെഡ് വീണ്ടും തുറക്കുക
+reopened,വീണ്ടും തുറന്നു
+replies,മറുപടികൾ
+Reply,മറുപടി നൽകുക
+reply,മറുപടി
+Replying to,മറുപടി നൽകുന്നു
+Replying to comment,അഭിപ്രായത്തിന് മറുപടി നൽകുന്നു
+Report Defect,തകരാർ റിപ്പോർട്ട് ചെയ്യുക
+Reported Date,റിപ്പോർട്ട് ചെയ്ത തീയതി
+Reports,റിപ്പോർട്ടുകൾ
+Reports To,റിപ്പോർട്ട് ചെയ്യുന്നത്
+Request Submitted!,അഭ്യർത്ഥന സമർപ്പിച്ചു!
+Required,ആവശ്യമാണ്
+required,ആവശ്യമാണ്
+Research,ഗവേഷണം
+Reset to Defaults,സ്ഥിരസ്ഥിതികളിലേക്ക് പുനഃസജ്ജമാക്കുക
+Resolve,പരിഹരിക്കുക
+Resolve thread,ത്രെഡ് പരിഹരിക്കുക
+Resolved,പരിഹരിച്ചു
+Resolved date cannot be before reported date,പരിഹരിച്ച തീയതി റിപ്പോർട്ട് ചെയ്ത തീയതിക്ക് മുമ്പാകാൻ കഴിയില്ല
+Resource,വിഭവം
+Resource and skill name are required,വിഭവവും നൈപുണ്യ നാമവും ആവശ്യമാണ്
+Resource is already an attendee,വിഭവം ഇതിനകം ഒരു പങ്കെടുക്കുന്നയാളാണ്
+Resource name is required,വിഭവ നാമം ആവശ്യമാണ്
+Resource not found,വിഭവം കണ്ടെത്തിയില്ല
+Resource synced from employee {0},ജീവനക്കാരൻ {0}-ൽ നിന്ന് വിഭവം സമന്വയിപ്പിച്ചു
+Resource {0} is already assigned to this task ({1}),വിഭവം {0} ഇതിനകം ഈ ടാസ്കിലേക്ക് ({1}) അസൈൻ ചെയ്തിട്ടുണ്ട്
+Resource {0} not found,വിഭവം {0} കണ്ടെത്തിയില്ല
+Resources,വിഭവങ്ങൾ
+Retry,വീണ്ടും ശ്രമിക്കുക
+Review,അവലോകനം
+Review all relevant documents and contracts,പ്രസക്തമായ എല്ലാ ഡോക്യുമെന്റുകളും കരാറുകളും അവലോകനം ചെയ്യുക
+Reviews,അവലോകനങ്ങൾ
+Risk Assessment,അപകടസാധ്യതാ വിലയിരുത്തൽ
+Rollback,റോൾബാക്ക്
+Rolled back,റോൾബാക്ക് ചെയ്തു
+Room or address,മുറി അല്ലെങ്കിൽ വിലാസം
+RSVP,RSVP
+Safety,സുരക്ഷ
+Sat,ശനി
+Save,സംരക്ഷിക്കുക
+"Save a project as a template, or import one from a JSON file.","ഒരു പ്രോജക്ട് ടെംപ്ലേറ്റായി സേവ് ചെയ്യുക, അല്ലെങ്കിൽ JSON ഫയലിൽ നിന്ന് ഇംപോർട്ട് ചെയ്യുക."
+Save as Template,ടെംപ്ലേറ്റായി സേവ് ചെയ്യുക
+Save Changes,മാറ്റങ്ങൾ സേവ് ചെയ്യുക
+Save failed,സേവ് ചെയ്യൽ പരാജയപ്പെട്ടു
+Save Preferences,മുൻഗണനകൾ സേവ് ചെയ്യുക
+Save Template,ടെംപ്ലേറ്റ് സേവ് ചെയ്യുക
+Saving...,സംരക്ഷിക്കുന്നത്...
+Schedule,ഷെഡ്യൂൾ
+Schedule type is required for scheduled triggers,ഷെഡ്യൂൾ ചെയ്ത ട്രിഗറുകൾക്ക് ഷെഡ്യൂൾ തരം ആവശ്യമാണ്
+Scheduled,ഷെഡ്യൂൾഡ്
+Search,തിരച്ചിൽ
+"Search by name, email, or skill...","പേര്, ഇമെയിൽ, അല്ലെങ്കിൽ നൈപുണ്യം അനുസരിച്ച് തിരയുക..."
+Search for a project...,ഒരു പ്രോജക്ട് തിരയുക...
+Search for a task...,ഒരു ടാസ്ക് തിരയുക...
+Search for an event...,ഒരു ഇവന്റ് തിരയുക...
+Search for people to invite...,ക്ഷണിക്കാൻ ആളുകളെ തിരയുക...
+Search tasks to link...,ലിങ്ക് ചെയ്യാൻ ടാസ്കുകൾ തിരയുക...
+Search tasks...,ടാസ്കുകൾ തിരയുക...
+Search...,തിരയൽ ...
+Searching...,തിരയുന്നു...
+Seen,കണ്ടതാണ്
+Select a project if your request is related to a specific project.,നിങ്ങളുടെ അഭ്യർത്ഥന ഒരു നിശ്ചിത പ്രോജക്ടുമായി ബന്ധപ്പെട്ടതാണെങ്കിൽ ഒരു പ്രോജക്ട് തിരഞ്ഞെടുക്കുക.
+Select a project...,ഒരു പ്രോജക്ട് തിരഞ്ഞെടുക്കുക...
+Select a task from the Gantt chart to view and manage its details.,വിശദാംശങ്ങൾ കാണാനും നിയന്ത്രിക്കാനും ഗാന്റ് ചാർട്ടിൽ നിന്ന് ഒരു ടാസ്ക് തിരഞ്ഞെടുക്കുക.
+Select a task from the list or Kanban board to view and manage its details.,വിശദാംശങ്ങൾ കാണാനും നിയന്ത്രിക്കാനും ലിസ്റ്റിൽ നിന്നോ കാൻബൻ ബോർഡിൽ നിന്നോ ഒരു ടാസ്ക് തിരഞ്ഞെടുക്കുക.
+Select a template...,ഒരു ടെംപ്ലേറ്റ് തിരഞ്ഞെടുക്കുക...
+Select priority...,മുൻഗണന തിരഞ്ഞെടുക്കുക...
+Select status...,സ്ഥിതി തിരഞ്ഞെടുക്കുക...
+Select task...,ടാസ്ക് തിരഞ്ഞെടുക്കുക...
+Select type...,തരം തിരഞ്ഞെടുക്കുക...
+Selection,തിരഞ്ഞെടുപ്പ്
+Send,അയയ്ക്കുക
+Send comment,അഭിപ്രായം അയയ്ക്കുക
+Send email invitations to attendees,പങ്കെടുക്കുന്നവർക്ക് ഇമെയിൽ ക്ഷണങ്ങൾ അയയ്ക്കുക
+Send Invitations,ക്ഷണങ്ങൾ അയയ്ക്കുക
+Send notification when a task is assigned to a user,ഒരു ഉപയോക്താവിന് ടാസ്ക് അസൈൻ ചെയ്യുമ്പോൾ അറിയിപ്പ് അയയ്ക്കുക
+Send notification when task status changes,ടാസ്ക് സ്ഥിതി മാറുമ്പോൾ അറിയിപ്പ് അയയ്ക്കുക
+Send reminder before task due date,ടാസ്ക് അവസാന തീയതിക്ക് മുമ്പ് ഓർമ്മപ്പെടുത്തൽ അയയ്ക്കുക
+sent,അയച്ചു
+Set rate,നിരക്ക് സജ്ജമാക്കുക
+Settings,ക്രമീകരണങ്ങൾ
+Settings saved successfully,ക്രമീകരണങ്ങൾ വിജയകരമായി സേവ് ചെയ്തു
+Severity,തീവ്രത
+SF (Start-Finish),SF (ആരംഭം-പൂർത്തീകരണം)
+SF - Start-to-Finish,SF - ആരംഭം-മുതൽ-പൂർത്തീകരണം
+Show,കാണിക്കുക
+Show all,എല്ലാം കാണിക്കുക
+Show all changes,എല്ലാ മാറ്റങ്ങളും കാണിക്കുക
+Show Archived,ആർക്കൈവ് ചെയ്തവ കാണിക്കുക
+Show full diff,പൂർണ diff കാണിക്കുക
+Show less,കുറച്ചു കാണിക്കുക
+Show more,കൂടുതൽ കാണിക്കുക
+Skill added,നൈപുണ്യം ചേർത്തു
+Skill is required,നൈപുണ്യം ആവശ്യമാണ്
+Skill Name,നൈപുണ്യ നാമം
+Skill removed,നൈപുണ്യം നീക്കം ചെയ്തു
+Skill {0} already exists for this resource,ഈ വിഭവത്തിന് നൈപുണ്യം {0} ഇതിനകം നിലവിലുണ്ട്
+Skills,നൈപുണ്യങ്ങൾ
+Skills & Competencies,നൈപുണ്യങ്ങളും കഴിവുകളും
+Skip already migrated projects,ഇതിനകം മൈഗ്രേറ്റ് ചെയ്ത പ്രോജക്ടുകൾ ഒഴിവാക്കുക
+Sort by,ക്രമീകരിക്കുക
+Sort: Due Date,ക്രമീകരണം: അവസാന തീയതി
+Sort: Priority,ക്രമീകരണം: മുൻഗണന
+Sort: Project,ക്രമീകരണം: പ്രോജക്ട്
+Sort: Status,ക്രമീകരണം: സ്ഥിതി
+Sort: Task,ക്രമീകരണം: ടാസ്ക്
+Source Code,സോഴ്‌സ് കോഡ്
+Spent,ചെലവഴിച്ചത്
+Spent:,ചെലവഴിച്ചത്:
+SS (Start-Start),SS (ആരംഭം-ആരംഭം)
+SS - Start-to-Start,SS - ആരംഭം-മുതൽ-ആരംഭം
+Standalone,സ്വതന്ത്രം
+Start,ആരംഭിക്കുക
+Start a discussion below,താഴെ ഒരു ചർച്ച ആരംഭിക്കുക
+Start Date,തുടങ്ങുന്ന ദിവസം
+Start date,ആരംഭ തീയതി
+Start Date (Earliest),ആരംഭ തീയതി (ആദ്യത്തേത്)
+Start date updated,ആരംഭ തീയതി അപ്‌ഡേറ്റ് ചെയ്തു
+Start date/time is required,ആരംഭ തീയതി/സമയം ആവശ്യമാണ്
+Start Migration,മൈഗ്രേഷൻ ആരംഭിക്കുക
+Start the conversation below.,താഴെ സംഭാഷണം ആരംഭിക്കുക.
+Start Timer,ടൈമർ ആരംഭിക്കുക
+Start typing to search...,തിരയാൻ ടൈപ്പ് ചെയ്യാൻ ആരംഭിക്കുക...
+Start-to-Finish,ആരംഭം-മുതൽ-പൂർത്തീകരണം
+Start-to-Start,ആരംഭം-മുതൽ-ആരംഭം
+Start:,ആരംഭം:
+Statistics reset,സ്ഥിതിവിവരക്കണക്കുകൾ പുനഃസജ്ജമാക്കി
+Status,അവസ്ഥ
+Status assigned to new projects,പുതിയ പ്രോജക്ടുകൾക്ക് നൽകിയ സ്ഥിതി
+Status assigned to new tasks,പുതിയ ടാസ്കുകൾക്ക് നൽകിയ സ്ഥിതി
+Status Changes,സ്ഥിതി മാറ്റങ്ങൾ
+Status updated,സ്ഥിതി അപ്‌ഡേറ്റ് ചെയ്തു
+Status:,സ്ഥിതി:
+Stop,നിർത്തുക
+Stop & Save,നിർത്തുക & സേവ് ചെയ്യുക
+Stop Timer,ടൈമർ നിർത്തുക
+Stops current timer and starts for this event,നിലവിലെ ടൈമർ നിർത്തുകയും ഈ ഇവന്റിന് ആരംഭിക്കുകയും ചെയ്യുന്നു
+Stops current timer and starts for this task,നിലവിലെ ടൈമർ നിർത്തുകയും ഈ ടാസ്കിന് ആരംഭിക്കുകയും ചെയ്യുന്നു
+Subject,വിഷയം
+Subject cannot exceed 255 characters,വിഷയം 255 അക്ഷരങ്ങൾ കവിയാൻ പാടില്ല
+Subject is required,വിഷയം ആവശ്യമാണ്
+Submit,സമർപ്പിക്കുക
+Submit Another Request,മറ്റൊരു അഭ്യർത്ഥന സമർപ്പിക്കുക
+Submit Request,അഭ്യർത്ഥന സമർപ്പിക്കുക
+Submitting...,സമർപ്പിക്കുന്നു ...
+Successfully saved,വിജയകരമായി സേവ് ചെയ്തു
+Successors (Blocking),പിൻഗാമികൾ (ബ്ലോക്ക് ചെയ്യുന്നു)
+Sun,ഞായർ
+Supplier,വിതരണക്കാരൻ
+Support,പിന്തുണ
+Switch to this event,ഈ ഇവന്റിലേക്ക് മാറുക
+Switch to this task,ഈ ടാസ്കിലേക്ക് മാറുക
+Sync direction is set to Frappe to Orga only,സമന്വയ ദിശ Frappe-ൽ നിന്ന് Orga-ലേക്ക് മാത്രമായി സജ്ജമാക്കിയിരിക്കുന്നു
+Sync direction is set to Orga to Frappe only,സമന്വയ ദിശ Orga-ൽ നിന്ന് Frappe-ലേക്ക് മാത്രമായി സജ്ജമാക്കിയിരിക്കുന്നു
+Sync not enabled for this project,ഈ പ്രോജക്ടിന് സമന്വയം പ്രവർത്തനക്ഷമമല്ല
+System,സിസ്റ്റം
+Table,ടേബിൾ
+Take ownership of this task,ഈ ടാസ്കിന്റെ ഉടമസ്ഥത ഏറ്റെടുക്കുക
+Target Date,ലക്ഷ്യ തീയതി
+Target End,ലക്ഷ്യ അവസാനം
+Target Project,ലക്ഷ്യ പ്രോജക്ട്
+Target user is required for '{0}' action,'{0}' പ്രവർത്തനത്തിന് ലക്ഷ്യ ഉപയോക്താവ് ആവശ്യമാണ്
+task,ടാസ്ക്
+Task,ടാസ്ക്
+Task '{0}' is due on {1}.,ടാസ്ക് '{0}' {1}-ന് അവസാനിക്കും.
+Task and resource are required,ടാസ്കും വിഭവവും ആവശ്യമാണ്
+Task Assignment,ടാസ്ക് അസൈൻമെന്റ്
+Task cannot be its own parent,ടാസ്കിന് സ്വയം മാതൃ ടാസ്ക് ആകാൻ കഴിയില്ല
+Task cannot depend on itself,ടാസ്കിന് സ്വയം ആശ്രയിക്കാൻ കഴിയില്ല
+Task cannot depend on the group it belongs to,ടാസ്കിന് അത് ഉൾപ്പെടുന്ന ഗ്രൂപ്പിനെ ആശ്രയിക്കാൻ കഴിയില്ല
+Task created,ടാസ്ക് സൃഷ്ടിച്ചു
+Task deleted,ടാസ്ക് ഇല്ലാതാക്കി
+Task description has been saved.,ടാസ്ക് വിവരണം സേവ് ചെയ്തു.
+Task Details,ടാസ്ക് വിശദാംശങ്ങൾ
+Task due in {0} days: {1},{0} ദിവസത്തിനുള്ളിൽ ടാസ്ക് അവസാനിക്കും: {1}
+Task due today: {0},ഇന്ന് അവസാനിക്കുന്ന ടാസ്ക്: {0}
+Task due tomorrow: {0},നാളെ അവസാനിക്കുന്ന ടാസ്ക്: {0}
+Task duplicated,ടാസ്ക് ഡ്യൂപ്ലിക്കേറ്റ് ചെയ്തു
+Task Group,ടാസ്ക് ഗ്രൂപ്പ്
+Task ID is required,ടാസ്ക് ID ആവശ്യമാണ്
+Task is blocked by incomplete dependencies,അപൂർണ ആശ്രിതത്വങ്ങൾ മൂലം ടാസ്ക് ബ്ലോക്ക് ചെയ്തിരിക്കുന്നു
+Task is cancelled,ടാസ്ക് റദ്ദാക്കി
+Task is completed,ടാസ്ക് പൂർത്തിയായി
+Task is no longer blocked by a group,ടാസ്ക് ഒരു ഗ്രൂപ്പ് മൂലം ബ്ലോക്ക് ചെയ്തിട്ടില്ല
+Task is required for task context,ടാസ്ക് സന്ദർഭത്തിന് ടാസ്ക് ആവശ്യമാണ്
+Task is required when tracking context is 'task',ട്രാക്കിംഗ് സന്ദർഭം 'task' ആയിരിക്കുമ്പോൾ ടാസ്ക് ആവശ്യമാണ്
+Task linked,ടാസ്ക് ലിങ്ക് ചെയ്തു
+Task moved,ടാസ്ക് നീക്കി
+Task name,ടാസ്ക് പേര്
+Task name is required,ടാസ്ക് പേര് ആവശ്യമാണ്
+Task removed from group,ടാസ്ക് ഗ്രൂപ്പിൽ നിന്ന് നീക്കം ചെയ്തു
+Task Subject,ടാസ്ക് വിഷയം
+Task subject is required,ടാസ്ക് വിഷയം ആവശ്യമാണ്
+Task Type,ടാസ്ക് തരം
+Task unblocked: {0},ടാസ്ക് അൺബ്ലോക്ക് ചെയ്തു: {0}
+Task unlinked,ടാസ്ക് അൺലിങ്ക് ചെയ്തു
+Task updated,ടാസ്ക് അപ്‌ഡേറ്റ് ചെയ്തു
+Task {0} not found,ടാസ്ക് {0} കണ്ടെത്തിയില്ല
+Task {0} not in project {1},ടാസ്ക് {0} പ്രോജക്ട് {1}-ൽ ഇല്ല
+Task {0} to Frappe,ടാസ്ക് {0} Frappe-ലേക്ക്
+Tasks,ടാസ്കുകൾ
+tasks,ടാസ്കുകൾ
+Tasks and milestones will be created with dates relative to the project start date.,പ്രോജക്ട് ആരംഭ തീയതിയെ അടിസ്ഥാനമാക്കിയ തീയതികളോടെ ടാസ്കുകളും നാഴികക്കല്ലുകളും സൃഷ്ടിക്കും.
+Tasks assigned to you across all projects.,എല്ലാ പ്രോജക്ടുകളിലും നിങ്ങൾക്ക് അസൈൻ ചെയ്ത ടാസ്കുകൾ.
+Tasks created:,സൃഷ്ടിച്ച ടാസ്കുകൾ:
+Tasks from projects you manage.,നിങ്ങൾ നിയന്ത്രിക്കുന്ന പ്രോജക്ടുകളിൽ നിന്നുള്ള ടാസ്കുകൾ.
+Tasks updated:,അപ്‌ഡേറ്റ് ചെയ്ത ടാസ്കുകൾ:
+"Tasks, milestones, and dependencies have been created.","ടാസ്കുകൾ, നാഴികക്കല്ലുകൾ, ആശ്രിതത്വങ്ങൾ എന്നിവ സൃഷ്ടിച്ചു."
+Tasks:,ടാസ്കുകൾ:
+TBD,TBD
+Team,ടീം
+Team Members,ടീം അംഗങ്ങൾ
+Template,ഫലകം
+Template applied,ടെംപ്ലേറ്റ് പ്രയോഗിച്ചു
+Template data is required in import data,ഇംപോർട്ട് ഡാറ്റയിൽ ടെംപ്ലേറ്റ് ഡാറ്റ ആവശ്യമാണ്
+Template has no data,ടെംപ്ലേറ്റിൽ ഡാറ്റ ഇല്ല
+Template Name,ടെംപ്ലേറ്റ് പേര്
+Template name,ടെംപ്ലേറ്റ് പേര്
+Template name is required,ടെംപ്ലേറ്റ് പേര് ആവശ്യമാണ്
+Template name is required in import data,ഇംപോർട്ട് ഡാറ്റയിൽ ടെംപ്ലേറ്റ് പേര് ആവശ്യമാണ്
+Template saved,ടെംപ്ലേറ്റ് സേവ് ചെയ്തു
+Template updated successfully.,ടെംപ്ലേറ്റ് വിജയകരമായി അപ്‌ഡേറ്റ് ചെയ്തു.
+Template {0} not found,ടെംപ്ലേറ്റ് {0} കണ്ടെത്തിയില്ല
+Templates,ടെംപ്ലേറ്റുകൾ
+Tentative,താൽക്കാലികം
+The comment has been deleted,അഭിപ്രായം ഇല്ലാതാക്കി
+The project,പ്രോജക്ട്
+The source document may have been deleted.,ഉറവിട ഡോക്യുമെന്റ് ഇല്ലാതാക്കിയിരിക്കാം.
+The source document will not be affected.,ഉറവിട ഡോക്യുമെന്റിനെ ബാധിക്കില്ല.
+The status of '{0}' was changed from {1} to {2}.,'{0}'-ന്റെ സ്ഥിതി {1}-ൽ നിന്ന് {2}-ലേക്ക് മാറ്റി.
+Theme,തീം
+Theme preference,തീം മുൻഗണന
+This action,ഈ പ്രവർത്തനം
+This action cannot be undone.,ഈ പ്രവർത്തനം പഴയപടിയാക്കാൻ കഴിയില്ല.
+This activity has been flagged for attention,ഈ പ്രവർത്തനം ശ്രദ്ധയ്ക്കായി ഫ്ലാഗ് ചെയ്തിരിക്കുന്നു
+This is a reminder for your upcoming appointment,നിങ്ങളുടെ വരാനിരിക്കുന്ന അപ്പോയിന്റ്‌മെന്റിനുള്ള ഓർമ്മപ്പെടുത്തലാണിത്
+This method is only meant for developer mode,ഈ മെത്തേഡ് ഡെവലപ്പർ മോഡിന് മാത്രമുള്ളതാണ്
+This page wandered off,This page wandered off
+This Week,ഈ ആഴ്ച
+This will delete all notes and preferences associated with this activity.,ഈ പ്രവർത്തനവുമായി ബന്ധപ്പെട്ട എല്ലാ കുറിപ്പുകളും മുൻഗണനകളും ഇത് ഇല്ലാതാക്കും.
+This will import all Frappe Projects into Orga. Continue?,ഇത് എല്ലാ Frappe പ്രോജക്ടുകളും Orga-ലേക്ക് ഇംപോർട്ട് ചെയ്യും. തുടരണോ?
+This will permanently delete,ഇത് ശാശ്വതമായി ഇല്ലാതാക്കും
+This will permanently delete:,ഇത് ശാശ്വതമായി ഇല്ലാതാക്കും:
+Thu,വ്യാഴം
+Time,സമയം
+Time & Billing,സമയവും ബില്ലിംഗും
+Time & Revenue,സമയവും വരുമാനവും
+Time Entries,സമയ എൻട്രികൾ
+Time log name is required,ടൈം ലോഗ് പേര് ആവശ്യമാണ്
+Time Log not found,ടൈം ലോഗ് കണ്ടെത്തിയില്ല
+Time log {0} not found,ടൈം ലോഗ് {0} കണ്ടെത്തിയില്ല
+Time Logs,ടൈം ലോഗുകൾ
+Time Summary,സമയ സംഗ്രഹം
+Time Tracking,സമയ ട്രാക്കിംഗ്
+Timeline,ടൈംലൈൻ
+Timer active on,ടൈമർ സജീവമാണ്
+Timer is not running,ടൈമർ പ്രവർത്തിക്കുന്നില്ല
+Timer Running,ടൈമർ പ്രവർത്തിക്കുന്നു
+Timer running,ടൈമർ പ്രവർത്തിക്കുന്നു
+Timesheet DocType not available,Timesheet DocType ലഭ്യമല്ല
+Timesheets,ടൈംഷീറ്റുകൾ
+Timezone,സമയ മേഖല
+Timezone is detected from your browser,നിങ്ങളുടെ ബ്രൗസറിൽ നിന്ന് സമയ മേഖല കണ്ടെത്തി
+Title,ശീർഷകം
+Title cannot exceed 255 characters,ശീർഷകം 255 അക്ഷരങ്ങൾ കവിയാൻ പാടില്ല
+Title is required,ശീർഷകം ആവശ്യമാണ്
+Title updated,ശീർഷകം അപ്‌ഡേറ്റ് ചെയ്തു
+To,ലേക്ക്
+to,-ലേക്ക്
+to cancel,റദ്ദാക്കാൻ
+to close,അടയ്ക്കാൻ
+to confirm:,സ്ഥിരീകരിക്കാൻ:
+to edit,എഡിറ്റ് ചെയ്യാൻ
+"to save,","സേവ് ചെയ്യാൻ,"
+To Time cannot be before From Time,അവസാന സമയം ആരംഭ സമയത്തിന് മുമ്പാകാൻ കഴിയില്ല
+Today,ഇന്ന്
+today,ഇന്ന്
+Toggle billable,ബില്ലബിൾ മാറ്റുക
+Toggle Details Panel,വിശദാംശ പാനൽ മാറ്റുക
+Toggle Manager Panel,മാനേജർ പാനൽ മാറ്റുക
+Toggle Sidebar,സൈഡ്ബാർ ടോഗിൾ ചെയ്യുക
+Tomorrow,നാളെ
+tomorrow,നാളെ
+Total,ആകെ
+Total Budget,മൊത്തം ബജറ്റ്
+Total Contacts,മൊത്തം കോൺടാക്ടുകൾ
+Total Cost,മൊത്തം ചെലവ്
+Total Cost to Org,സ്ഥാപനത്തിനുള്ള മൊത്തം ചെലവ്
+Total Defect Cost,മൊത്തം തകരാർ ചെലവ്
+Total Hours,മൊത്തം മണിക്കൂറുകൾ
+Total Hours Logged,രേഖപ്പെടുത്തിയ മൊത്തം മണിക്കൂറുകൾ
+Total Projects,മൊത്തം പ്രോജക്ടുകൾ
+Total Spent,മൊത്തം ചെലവഴിച്ചത്
+Total Tasks,മൊത്തം ടാസ്കുകൾ
+Total:,മൊത്തം:
+Tracked,ട്രാക്ക് ചെയ്തത്
+trails to today while Open at 0%,0% ൽ Open ആയിരിക്കുമ്പോൾ ഇന്ന് വരെ ട്രെയിൽ ചെയ്യുന്നു
+Tried:,Tried:
+Try adjusting your filter criteria,നിങ്ങളുടെ ഫിൽട്ടർ മാനദണ്ഡങ്ങൾ ക്രമീകരിച്ച് നോക്കുക
+Try adjusting your filters.,നിങ്ങളുടെ ഫിൽട്ടറുകൾ ക്രമീകരിച്ച് നോക്കുക.
+Try Again,വീണ്ടും ശ്രമിക്കുക
+Tue,ചൊവ്വ
+Type,തരം
+Type updated,തരം അപ്‌ഡേറ്റ് ചെയ്തു
+Type:,ടൈപ്പ്:
+Typical response time: 1-2 business days,സാധാരണ പ്രതികരണ സമയം: 1-2 പ്രവൃത്തി ദിവസങ്ങൾ
+Unarchive,ആർക്കൈവ് നീക്കം ചെയ്യുക
+Unarchive Activity,പ്രവർത്തനം ആർക്കൈവിൽ നിന്ന് നീക്കം ചെയ്യുക
+Unassign,അസൈൻ നീക്കം ചെയ്യുക
+Unassigned,അസൈൻ ചെയ്യാത്തത്
+Under Budget,ബജറ്റിനുള്ളിൽ
+Ungrouped,ഗ്രൂപ്പ് ചെയ്യാത്തത്
+Unknown,അജ്ഞാതം
+Unknown error,അജ്ഞാത പിശക്
+Unlink failed,അൺലിങ്ക് പരാജയപ്പെട്ടു
+Unlink task from milestone,നാഴികക്കല്ലിൽ നിന്ന് ടാസ്ക് അൺലിങ്ക് ചെയ്യുക
+Unpin,അൺപിൻ ചെയ്യുക
+Unpin Activity,പ്രവർത്തനം അൺപിൻ ചെയ്യുക
+Unread,വായിക്കാത്ത
+Unread only,വായിക്കാത്തവ മാത്രം
+Until,വരെ
+Up to Date,Up to Date
+Upcoming,വരാനിരിക്കുന്നത്
+upcoming,വരാനിരിക്കുന്നത്
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,അപ്‌ഡേറ്റ് പരാജയപ്പെട്ടു
+Updated,അപ്ഡേറ്റ്
+Updated successfully,വിജയകരമായി അപ്‌ഡേറ്റുചെയ്‌തു
+Updates,Updates
+Upload,അപ്ലോഡുചെയ്യുക
+Upload failed,അപ്ലോഡ് പരാജയപ്പെട്ടു
+Upload files below to attach them to this task.,ഈ ടാസ്കിലേക്ക് അറ്റാച്ച് ചെയ്യാൻ താഴെ ഫയലുകൾ അപ്‌ലോഡ് ചെയ്യുക.
+Upload to project,പ്രോജക്ടിലേക്ക് അപ്‌ലോഡ് ചെയ്യുക
+Uploading...,അപ്‌ലോഡ് ചെയ്യുന്നു...
+Urgent,അടിയന്തിരം
+User {0} is already linked to client {1},ഉപയോക്താവ് {0} ഇതിനകം ക്ലയന്റ് {1}-ലേക്ക് ലിങ്ക് ചെയ്തിട്ടുണ്ട്
+User {0} is already linked to resource {1},ഉപയോക്താവ് {0} ഇതിനകം വിഭവം {1}-ലേക്ക് ലിങ്ക് ചെയ്തിട്ടുണ്ട്
+Utilization,ഉപയോഗം
+Valid,സാധുവായ
+Value:,മൂല്യം:
+Variance,വ്യത്യാസം
+Variance:,വ്യത്യാസം:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,കാണുക
+View All,എല്ലാം കാണുക
+View all active projects,എല്ലാ സജീവ പ്രോജക്ടുകളും കാണുക
+View all open tasks,എല്ലാ തുറന്ന ടാസ്കുകളും കാണുക
+View overdue tasks,കാലഹരണപ്പെട്ട ടാസ്കുകൾ കാണുക
+View Release,View Release
+Visibility,ദൃശ്യത
+Waiting for this task,ഈ ടാസ്കിനായി കാത്തിരിക്കുന്നു
+Waits for:,കാത്തിരിക്കുന്നു:
+Warning: Resource {0} status is {1},മുന്നറിയിപ്പ്: വിഭവം {0}-ന്റെ സ്ഥിതി {1} ആണ്
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,മുന്നറിയിപ്പ്: HTTPS-ന് പകരം HTTP ഉപയോഗിക്കുന്നു. Webhook പേലോഡുകൾ സുരക്ഷിതമായിരിക്കില്ല.
+Watch budget closely,ബജറ്റ് സൂക്ഷ്മമായി നിരീക്ഷിക്കുക
+We'll respond to:,ഞങ്ങൾ പ്രതികരിക്കും:
+Webhook deleted,Webhook ഇല്ലാതാക്കി
+Webhook name is required,Webhook പേര് ആവശ്യമാണ്
+Webhook not found,Webhook കണ്ടെത്തിയില്ല
+Webhook URL is required,Webhook URL ആവശ്യമാണ്
+Webhook URL must start with http:// or https://,Webhook URL http:// അല്ലെങ്കിൽ https://-ൽ ആരംഭിക്കണം
+Wed,ബുധൻ
+Week,ആഴ്ച
+Weekend,വാരാന്ത്യം
+Weekly Capacity,ആഴ്ചക്കുള്ള ശേഷി
+weekly capacity,ആഴ്ചക്കുള്ള ശേഷി
+Weekly Capacity (h),ആഴ്ചക്കുള്ള ശേഷി (മ)
+Welcome,സ്വാഗതം
+Welcome back!,തിരിച്ചു സ്വാഗതം!
+Welcome to Orga,Orga-ലേക്ക് സ്വാഗതം
+What are you working on?,നിങ്ങൾ എന്താണ് ചെയ്യുന്നത്?
+What did you work on?,നിങ്ങൾ എന്താണ് ചെയ്തത്?
+When,എപ്പോൾ
+When work begins,ജോലി ആരംഭിക്കുമ്പോൾ
+When work is due,ജോലി അവസാനിക്കേണ്ടപ്പോൾ
+Where,എവിടെ
+Will capture:,ക്യാപ്ചർ ചെയ്യും:
+Will create:,സൃഷ്ടിക്കും:
+with checklist items,ചെക്ക്‌ലിസ്റ്റ് ഇനങ്ങളോടെ
+Working,പ്രവർത്തിക്കുന്നു
+Workload,ജോലിഭാരം
+Workmanship,പണിത്തരം
+Write a comment...,ഒരു അഭിപ്രായം എഴുതുക...
+Write a comment... Use @name to mention (Ctrl+Enter to send),ഒരു അഭിപ്രായം എഴുതുക... പരാമർശിക്കാൻ @name ഉപയോഗിക്കുക (അയയ്ക്കാൻ Ctrl+Enter)
+Year,വർഷം
+Yes,അതെ
+Yesterday,ഇന്നലെ
+yesterday,ഇന്നലെ
+You are not an attendee of this appointment,നിങ്ങൾ ഈ അപ്പോയിന്റ്‌മെന്റിൽ പങ്കെടുക്കുന്നയാളല്ല
+You are not linked to any resource,നിങ്ങൾ ഒരു വിഭവവുമായും ലിങ്ക് ചെയ്തിട്ടില്ല
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,നിങ്ങളുടെ സ്വന്തം അഭിപ്രായങ്ങൾ മാത്രമേ ഇല്ലാതാക്കാൻ കഴിയൂ
+You can only delete your own reactions,നിങ്ങളുടെ സ്വന്തം പ്രതികരണങ്ങൾ മാത്രമേ ഇല്ലാതാക്കാൻ കഴിയൂ
+You do not have access to the client portal. Please contact support.,ക്ലയന്റ് പോർട്ടലിലേക്ക് നിങ്ങൾക്ക് ആക്‌സസ് ഇല്ല. ദയവായി പിന്തുണയുമായി ബന്ധപ്പെടുക.
+You have already reacted with '{0}',നിങ്ങൾ ഇതിനകം '{0}' ഉപയോഗിച്ച് പ്രതികരിച്ചിട്ടുണ്ട്
+You have been assigned to task '{0}' in project '{1}'.,പ്രോജക്ട് '{1}'-ലെ ടാസ്ക് '{0}' നിങ്ങൾക്ക് അസൈൻ ചെയ്തിരിക്കുന്നു.
+You have been assigned to: {0},നിങ്ങൾക്ക് അസൈൻ ചെയ്തിരിക്കുന്നു: {0}
+You have been invited to the following appointment,ഇനിപ്പറയുന്ന അപ്പോയിന്റ്‌മെന്റിലേക്ക് നിങ്ങളെ ക്ഷണിച്ചിരിക്കുന്നു
+You have no tasks assigned to you right now.,ഇപ്പോൾ നിങ്ങൾക്ക് അസൈൻ ചെയ്ത ടാസ്കുകൾ ഇല്ല.
+You were mentioned in {0},നിങ്ങളെ {0}-ൽ പരാമർശിച്ചു
+Your attendance,നിങ്ങളുടെ ഹാജർ
+Your comment has been posted,നിങ്ങളുടെ അഭിപ്രായം പോസ്റ്റ് ചെയ്തു
+Your Projects,നിങ്ങളുടെ പ്രോജക്ടുകൾ
+Your projects will appear here once they're assigned to you.,നിങ്ങൾക്ക് അസൈൻ ചെയ്തുകഴിഞ്ഞാൽ നിങ്ങളുടെ പ്രോജക്ടുകൾ ഇവിടെ ദൃശ്യമാകും.
+Your Response,നിങ്ങളുടെ പ്രതികരണം
+Your RSVP,നിങ്ങളുടെ RSVP
+Your support request has been submitted successfully.,നിങ്ങളുടെ പിന്തുണ അഭ്യർത്ഥന വിജയകരമായി സമർപ്പിച്ചു.
+Your support request has been submitted successfully. We'll get back to you shortly.,നിങ്ങളുടെ പിന്തുണ അഭ്യർത്ഥന വിജയകരമായി സമർപ്പിച്ചു. ഉടൻ തന്നെ ഞങ്ങൾ നിങ്ങളെ ബന്ധപ്പെടും.
+"Your task ""{0}"" is no longer blocked and can now be started.","നിങ്ങളുടെ ടാസ്ക് ""{0}"" ഇനി ബ്ലോക്ക് ചെയ്തിട്ടില്ല, ഇപ്പോൾ ആരംഭിക്കാം."
+{0} is required,{0} ആവശ്യമാണ്
+{0} new activities,{0} പുതിയ പ്രവർത്തനങ്ങൾ
+{0} of {1} completed,{1}-ൽ {0} പൂർത്തിയായി
+{0} projects already migrated (will be skipped or updated),{0} പ്രോജക്ടുകൾ ഇതിനകം മൈഗ്രേറ്റ് ചെയ്തു (ഒഴിവാക്കുകയോ അപ്‌ഡേറ്റ് ചെയ്യുകയോ ചെയ്യും)
+{0} status changed to {1},{0} സ്ഥിതി {1}-ലേക്ക് മാറ്റി
+{0} tasks remaining,{0} ടാസ്കുകൾ ശേഷിക്കുന്നു
+{0} tasks without projects will be skipped,പ്രോജക്ടുകൾ ഇല്ലാത്ത {0} ടാസ്കുകൾ ഒഴിവാക്കും
+{0} {1} not found,{0} {1} കണ്ടെത്തിയില്ല

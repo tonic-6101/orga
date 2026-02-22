@@ -1,0 +1,1492 @@
++ Add Milestone,+ माइलस्टोन जोड़ें
++ Create Task,+ कार्य बनाएँ
++ Log Time,+ समय दर्ज करें
+-- Select a project --,-- एक परियोजना चुनें --
+0m,0मि
+1 day,1 दिन
+1 day ago,1 दिन पहले
+1 dependency,1 निर्भरता
+1 entry,1 प्रविष्टि
+1 file,1 फ़ाइल
+1 hour ago,1 घंटा पहले
+1 member,1 सदस्य
+1 milestone,1 माइलस्टोन
+1 month,1 महीना
+1 task,1 कार्य
+< 1m,< 1मि
+"A clear, actionable title for the task","कार्य के लिए एक स्पष्ट, कार्यवाही योग्य शीर्षक"
+A client with email {0} already exists: {1},ईमेल {0} वाला एक ग्राहक पहले से मौजूद है: {1}
+A key deliverable or checkpoint for the project,परियोजना के लिए एक प्रमुख डिलीवरेबल या चेकपॉइंट
+Accept,स्वीकार करें
+Accepted,स्वीकृत
+Acknowledge,पावती दें
+across,में
+Action,कार्रवाई
+Actions,कार्रवाइयाँ
+Active,सक्रिय
+Active Assignments,सक्रिय असाइनमेंट
+Active Projects,सक्रिय परियोजनाएँ
+Activity,गतिविधि
+Activity data deleted successfully,गतिविधि डेटा सफलतापूर्वक हटाया गया
+Activity Info,गतिविधि जानकारी
+Activity Stats,गतिविधि आँकड़े
+Activity will appear here as you work on tasks and projects.,"जैसे-जैसे आप कार्यों और परियोजनाओं पर काम करेंगे, गतिविधि यहाँ दिखाई देगी।"
+Actual,वास्तविक
+Actual Cost,वास्तविक लागत
+Actual cost cannot be negative,वास्तविक लागत ऋणात्मक नहीं हो सकती
+Actual end date cannot be before actual start date,वास्तविक समाप्ति तिथि वास्तविक आरंभ तिथि से पहले नहीं हो सकती
+Actual Hours,वास्तविक घंटे
+Add,जोड़ें
+Add a checklist item...,चेकलिस्ट आइटम जोड़ें...
+Add a comment...,टिप्पणी जोड़ें...
+Add a comment... (Ctrl+Enter to send),टिप्पणी जोड़ें... (भेजने के लिए Ctrl+Enter)
+Add a description...,विवरण जोड़ें...
+Add a milestone description...,माइलस्टोन विवरण जोड़ें...
+Add a note below to annotate this activity.,इस गतिविधि पर टिप्पणी करने के लिए नीचे एक नोट जोड़ें।
+Add a note...,एक नोट जोड़ें...
+Add a project description...,परियोजना विवरण जोड़ें...
+Add a task description...,कार्य विवरण जोड़ें...
+Add checklist item...,चेकलिस्ट आइटम जोड़ें...
+Add Contact,संपर्क जोड़ें
+Add contacts via the Desk interface or clear filters,Desk इंटरफ़ेस से संपर्क जोड़ें या फ़िल्टर साफ़ करें
+Add Dependency,निर्भरता जोड़ें
+Add details about this event...,इस कार्यक्रम के बारे में विवरण जोड़ें...
+Add details about this milestone...,इस माइलस्टोन के बारे में विवरण जोड़ें...
+Add details about this task...,इस कार्य के बारे में विवरण जोड़ें...
+Add details or acceptance criteria for this milestone,इस माइलस्टोन के लिए विवरण या स्वीकृति मानदंड जोड़ें
+"Add details, context, or acceptance criteria","विवरण, संदर्भ, या स्वीकृति मानदंड जोड़ें"
+Add first dependency,पहली निर्भरता जोड़ें
+Add item,आइटम जोड़ें
+Add items below to track progress.,प्रगति ट्रैक करने के लिए नीचे आइटम जोड़ें।
+Add items below to track subtasks,उप-कार्य ट्रैक करने के लिए नीचे आइटम जोड़ें
+Add Milestone,माइलस्टोन जोड़ें
+Add Milestone (Shift+M),माइलस्टोन जोड़ें (Shift+M)
+Add milestones to track key deliverables.,प्रमुख डिलीवरेबल ट्रैक करने के लिए माइलस्टोन जोड़ें।
+Add New Contact,नया संपर्क जोड़ें
+Add Note,टिप्पणी जोड़ें
+Add note,नोट जोड़ें
+Add notes about this contact...,इस संपर्क के बारे में नोट जोड़ें...
+Add reaction,प्रतिक्रिया जोड़ें
+Add Skill,कौशल जोड़ें
+Add start and due dates to tasks to see them on the Gantt chart,कार्यों को Gantt चार्ट पर देखने के लिए आरंभ और नियत तिथियाँ जोड़ें
+Add Task,कार्य जोड़ें
+Add Task (Shift+T),कार्य जोड़ें (Shift+T)
+Added Finish-to-Start dependency,समाप्ति-से-आरंभ निर्भरता जोड़ी गई
+Adding this dependency would create a circular reference: {0},इस निर्भरता को जोड़ने से एक चक्रीय संदर्भ बनेगा: {0}
+Adding...,जोड़ा जा रहा है...
+Address,पता
+Advanced,उन्नत
+All,सभी
+All Active,सभी सक्रिय
+All Assignees,सभी असाइनी
+All Categories,सभी श्रेणियाँ
+All caught up!,सब अपडेट है!
+All Contexts,सभी संदर्भ
+All day,पूरा दिन
+All day event,पूरे दिन का कार्यक्रम
+All fields,सभी फ़ील्ड
+All Priorities,सभी प्राथमिकताएँ
+All Projects,सभी परियोजनाएँ
+All Status,सभी स्थिति
+All Statuses,सभी स्थितियाँ
+All task dependencies & relative dates,सभी कार्य निर्भरताएँ और सापेक्ष तिथियाँ
+All Tasks,सभी कार्य
+All tasks across all projects.,सभी परियोजनाओं के सभी कार्य।
+All tasks are already linked,सभी कार्य पहले से जुड़े हुए हैं
+All team members,सभी टीम सदस्य
+All Types,सभी प्रकार
+All Users,सभी उपयोगकर्ता
+Allocated,आवंटित
+allocated,आवंटित
+Allow users to log time against tasks,उपयोगकर्ताओं को कार्यों पर समय दर्ज करने की अनुमति दें
+Already exported to timesheet {0},पहले से टाइमशीट {0} में निर्यात किया गया
+Already Migrated,पहले से माइग्रेट किया गया
+Anyone with access,पहुँच वाला कोई भी व्यक्ति
+anytime to show this help,इस सहायता को दिखाने के लिए कभी भी
+App Updates,App Updates
+Appearance,दिखावट
+Apply,लागू करें
+Apply cascade?,कैस्केड लागू करें?
+Apply Changes,बदलाव लागू करें
+Apply failed,लागू करना विफल
+Apply Template,टेम्पलेट लागू करें
+Applying...,लागू किया जा रहा है...
+Appointment,अपॉइंटमेंट
+Appointment and resource are required,अपॉइंटमेंट और संसाधन आवश्यक हैं
+Appointment name is required,अपॉइंटमेंट का नाम आवश्यक है
+Appointment not found,अपॉइंटमेंट नहीं मिला
+Appointment {0} not found,अपॉइंटमेंट {0} नहीं मिला
+Apps,ऐप्स
+Archive,संग्रहित करें
+Archive Activity,गतिविधि संग्रहित करें
+Archived,संग्रहित
+Are you sure you want to delete this activity data? This cannot be undone.,क्या आप वाकई इस गतिविधि डेटा को हटाना चाहते हैं? यह पूर्ववत नहीं किया जा सकता।
+Are you sure you want to delete this comment?,क्या आप वाकई इस टिप्पणी को हटाना चाहते हैं?
+Are you sure you want to delete this project?,क्या आप वाकई इस परियोजना को हटाना चाहते हैं?
+Are you sure?,क्या आप सुनिश्चित हैं?
+Ascending -- click to reverse,बढ़ते क्रम में -- उलटने के लिए क्लिक करें
+Assign To,को असाइन करें
+Assign to Me,मुझे असाइन करें
+Assigned Contact,असाइन किया गया संपर्क
+Assigned To,को असाइन किया गया
+Assigned to,को असाइन किया गया
+Assigned to Me,मुझे असाइन किया गया
+Assignee,असाइनी
+Assignment,असाइनमेंट
+Assignment History,असाइनमेंट इतिहास
+Assignment name is required,असाइनमेंट का नाम आवश्यक है
+Assignment {0} not found,असाइनमेंट {0} नहीं मिला
+Assignments,असाइनमेंट
+At least one action is required,कम से कम एक कार्रवाई आवश्यक है
+At least one event is required,कम से कम एक कार्यक्रम आवश्यक है
+At least one event must be selected,कम से कम एक कार्यक्रम चुना जाना चाहिए
+Attachment,अनुलग्नक
+Attachments,अनुलग्नक
+Attendees,सहभागी
+"Audit trail, assignments, version history","ऑडिट ट्रेल, असाइनमेंट, संस्करण इतिहास"
+Auto,स्वचालित
+Auto Calculate Progress,प्रगति स्वचालित रूप से गणना करें
+Auto Set Missed Milestones,छूटे माइलस्टोन स्वचालित रूप से चिह्नित करें
+Auto-shift dependents when dates change,तिथियाँ बदलने पर निर्भर कार्यों को स्वचालित रूप से शिफ़्ट करें
+Auto-Trail Start,स्वचालित ट्रेल आरंभ
+Auto-Trail updated,स्वचालित ट्रेल अपडेट किया गया
+Automatically calculate project progress from task completion,कार्य पूर्णता से परियोजना प्रगति स्वचालित रूप से गणना करें
+Automatically mark milestones as missed when overdue,समय बीतने पर माइलस्टोन को स्वचालित रूप से छूटा हुआ चिह्नित करें
+Automation rule {0} not found,स्वचालन नियम {0} नहीं मिला
+Automation: {0},स्वचालन: {0}
+Availability,उपलब्धता
+Available,उपलब्ध
+Avatar updated successfully,अवतार सफलतापूर्वक अपडेट किया गया
+Avg Progress,औसत प्रगति
+Back,वापस
+Back to Portal,पोर्टल पर वापस
+Back to Projects,परियोजनाओं पर वापस
+Beginner,शुरुआती
+Best regards,सादर
+Billable,बिल योग्य
+Billable Amount,बिल योग्य राशि
+Billable Hours,बिल योग्य घंटे
+Billable Rate,बिल योग्य दर
+Billing Rate,बिलिंग दर
+Blocked,अवरुद्ध
+Both dates are needed to display task as a bar in Gantt chart,Gantt चार्ट में कार्य को बार के रूप में दिखाने के लिए दोनों तिथियाँ आवश्यक हैं
+Both doctype and docname are required,doctype और docname दोनों आवश्यक हैं
+Both proposed start and end times are required,प्रस्तावित आरंभ और समाप्ति समय दोनों आवश्यक हैं
+Both task_name and depends_on are required,task_name और depends_on दोनों आवश्यक हैं
+Breadcrumb,ब्रेडक्रम्ब
+Brief description of the defect or damage,दोष या क्षति का संक्षिप्त विवरण
+Brief description of this template,इस टेम्पलेट का संक्षिप्त विवरण
+Brief description of your request,आपके अनुरोध का संक्षिप्त विवरण
+Brief project description,संक्षिप्त परियोजना विवरण
+Budget,बजट
+Budget at risk,बजट जोखिम में
+Budget Burn Rate,बजट खर्च दर
+Budget Status,बजट स्थिति
+Budget updated,बजट अपडेट किया गया
+Budget:,बजट:
+Bug,बग
+Burn Rate,खर्च दर
+Busy,व्यस्त
+By,द्वारा
+By Assignee,असाइनी के अनुसार
+By Group,समूह के अनुसार
+By Milestone,माइलस्टोन के अनुसार
+By Priority,प्राथमिकता के अनुसार
+By Status,स्थिति के अनुसार
+Cancel,रद्द करें
+Cancelled,रद्द किया गया
+cannot be undone,पूर्ववत नहीं किया जा सकता
+Cannot delete client with {0} linked projects. Unlink projects first.,{0} जुड़ी परियोजनाओं वाले ग्राहक को हटाया नहीं जा सकता। पहले परियोजनाएँ अनलिंक करें।
+Cannot delete project with {0} linked tasks. Delete tasks first.,{0} जुड़े कार्यों वाली परियोजना को हटाया नहीं जा सकता। पहले कार्य हटाएँ।
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,{0} सक्रिय असाइनमेंट वाले संसाधन को हटाया नहीं जा सकता। पहले उन्हें पूरा या रद्द करें।
+Cannot delete task with {0} subtasks. Delete subtasks first.,{0} उप-कार्यों वाले कार्य को हटाया नहीं जा सकता। पहले उप-कार्य हटाएँ।
+Capacity,क्षमता
+capacity,क्षमता
+Capacity & Rates,क्षमता और दरें
+Capture project structure for reuse,पुन: उपयोग के लिए परियोजना संरचना कैप्चर करें
+Cascade,कैस्केड
+Cascade Preview,कैस्केड पूर्वावलोकन
+Category,श्रेणी
+Celebrate,उत्सव मनाएँ
+Change,बदलें
+Change History,बदलाव इतिहास
+Change Priority,प्राथमिकता बदलें
+Change Status,स्थिति बदलें
+Changes,बदलाव
+Changes appear when fields are modified.,फ़ील्ड संशोधित होने पर बदलाव दिखाई देते हैं।
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,चेकलिस्ट
+Checklist item name is required,चेकलिस्ट आइटम का नाम आवश्यक है
+Checklist item not found,चेकलिस्ट आइटम नहीं मिला
+Checklist item title is required,चेकलिस्ट आइटम का शीर्षक आवश्यक है
+Checklist item {0} not found,चेकलिस्ट आइटम {0} नहीं मिला
+Checklist item {0} not found in task,कार्य में चेकलिस्ट आइटम {0} नहीं मिला
+Child,चाइल्ड
+Choose file to upload,अपलोड करने के लिए फ़ाइल चुनें
+Circular dependency detected: {0},चक्रीय निर्भरता पाई गई: {0}
+Circular parent-child relationship detected,चक्रीय पैरेंट-चाइल्ड संबंध पाया गया
+Clear,साफ़ करें
+Clear all read,सभी पढ़ी हुई साफ़ करें
+Clear date,तिथि साफ़ करें
+Click on an activity from the list to view and manage its details.,विवरण देखने और प्रबंधित करने के लिए सूची से किसी गतिविधि पर क्लिक करें।
+Click the avatar to upload a new photo,नई फ़ोटो अपलोड करने के लिए अवतार पर क्लिक करें
+Click to add description...,विवरण जोड़ने के लिए क्लिक करें...
+Click to add notes...,नोट जोड़ने के लिए क्लिक करें...
+Click to assign contact,संपर्क असाइन करने के लिए क्लिक करें
+Click to change status,स्थिति बदलने के लिए क्लिक करें
+Click to change type,प्रकार बदलने के लिए क्लिक करें
+Click to edit,संपादित करने के लिए क्लिक करें
+Click to edit budget,बजट संपादित करने के लिए क्लिक करें
+Click to edit description,विवरण संपादित करने के लिए क्लिक करें
+Click to edit end date,समाप्ति तिथि संपादित करने के लिए क्लिक करें
+Click to edit milestone name,माइलस्टोन का नाम संपादित करने के लिए क्लिक करें
+Click to edit rate,दर संपादित करने के लिए क्लिक करें
+Click to edit start date,आरंभ तिथि संपादित करने के लिए क्लिक करें
+Click to edit title,शीर्षक संपादित करने के लिए क्लिक करें
+Click to load,लोड करने के लिए क्लिक करें
+Click to set group dependency...,समूह निर्भरता सेट करने के लिए क्लिक करें...
+Click to set group...,समूह सेट करने के लिए क्लिक करें...
+Click to view,देखने के लिए क्लिक करें
+Click to view at-risk projects,जोखिम वाली परियोजनाएँ देखने के लिए क्लिक करें
+Click to view critical projects,गंभीर परियोजनाएँ देखने के लिए क्लिक करें
+Click to view healthy projects,स्वस्थ परियोजनाएँ देखने के लिए क्लिक करें
+Client,ग्राहक
+Client already has a portal user: {0},ग्राहक के पास पहले से एक पोर्टल उपयोगकर्ता है: {0}
+Client already has portal access,ग्राहक के पास पहले से पोर्टल पहुँच है
+Client has no portal user to revoke,ग्राहक के पास रद्द करने के लिए कोई पोर्टल उपयोगकर्ता नहीं है
+Client link removed from project {0},परियोजना {0} से ग्राहक लिंक हटाया गया
+Client Portal,ग्राहक पोर्टल
+Client {0} deleted successfully,ग्राहक {0} सफलतापूर्वक हटाया गया
+Close,बंद करें
+Close (Esc),बंद करें (Esc)
+Comment,टिप्पणी
+comment,टिप्पणी
+Comment added,टिप्पणी जोड़ी गई
+Comment content is required,टिप्पणी की सामग्री आवश्यक है
+Comment name is required,टिप्पणी का नाम आवश्यक है
+Comment not found,टिप्पणी नहीं मिली
+Comment removed,टिप्पणी हटाई गई
+Comment {0} not found in task,कार्य में टिप्पणी {0} नहीं मिली
+Comments,टिप्पणियाँ
+comments,टिप्पणियाँ
+Community Edition,Community Edition
+Company,कंपनी
+Company name...,कंपनी का नाम...
+Complete,पूर्ण करें
+Completed,पूर्ण
+completed,पूर्ण
+Completed Tasks,पूर्ण कार्य
+Compliance,अनुपालन
+Configure default values for new projects and tasks,नई परियोजनाओं और कार्यों के लिए डिफ़ॉल्ट मान कॉन्फ़िगर करें
+Configure email notification settings,ईमेल सूचना सेटिंग्स कॉन्फ़िगर करें
+Confirm,पुष्टि करें
+Contact deleted,संपर्क हटाया गया
+Contact Details,संपर्क विवरण
+Contact Information,संपर्क जानकारी
+Contact name is required,संपर्क का नाम आवश्यक है
+Contact Support,सहायता से संपर्क करें
+Contact your project manager for more information.,अधिक जानकारी के लिए अपने परियोजना प्रबंधक से संपर्क करें।
+Contact:,संपर्क:
+Contacts,संपर्क
+Context,संदर्भ
+Contractor,ठेकेदार
+Cost estimate cannot be negative,लागत अनुमान ऋणात्मक नहीं हो सकता
+Cost Impact,लागत प्रभाव
+Cost Summary,लागत सारांश
+Could not apply the template. Please try again.,टेम्पलेट लागू नहीं हो सका। कृपया पुनः प्रयास करें।
+Could not attach file to project,परियोजना से फ़ाइल संलग्न नहीं हो सकी
+Could not change task priority,कार्य प्राथमिकता बदल नहीं सकी
+Could not change task status,कार्य स्थिति बदल नहीं सकी
+Could not delete the project. Please try again.,परियोजना हटाई नहीं जा सकी। कृपया पुनः प्रयास करें।
+Could not delete the task. Please try again.,कार्य हटाया नहीं जा सका। कृपया पुनः प्रयास करें।
+Could not delete the template.,टेम्पलेट हटाया नहीं जा सका।
+Could not duplicate the task. Please try again.,कार्य की प्रतिलिपि नहीं बन सकी। कृपया पुनः प्रयास करें।
+Could not export the template.,टेम्पलेट निर्यात नहीं हो सका।
+Could not import the template. Please check the file format.,टेम्पलेट आयात नहीं हो सका। कृपया फ़ाइल प्रारूप जाँचें।
+Could not link task to milestone,कार्य को माइलस्टोन से जोड़ा नहीं जा सका
+Could not load document details.,दस्तावेज़ विवरण लोड नहीं हो सका।
+Could not load task details,कार्य विवरण लोड नहीं हो सका
+Could not promote checklist item to task.,चेकलिस्ट आइटम को कार्य में प्रोमोट नहीं किया जा सका।
+Could not remove task from milestone,कार्य को माइलस्टोन से हटाया नहीं जा सका
+Could not save budget.,बजट सहेजा नहीं जा सका।
+Could not save changes to the milestone,माइलस्टोन में बदलाव सहेजे नहीं जा सके
+Could not save changes to the task,कार्य में बदलाव सहेजे नहीं जा सके
+Could not save description.,विवरण सहेजा नहीं जा सका।
+Could not save end date.,समाप्ति तिथि सहेजी नहीं जा सकी।
+Could not save milestone name.,माइलस्टोन का नाम सहेजा नहीं जा सका।
+Could not save start date.,आरंभ तिथि सहेजी नहीं जा सकी।
+Could not save the template. Please try again.,टेम्पलेट सहेजा नहीं जा सका। कृपया पुनः प्रयास करें।
+Could not save title.,शीर्षक सहेजा नहीं जा सका।
+Could not update dependency mode.,निर्भरता मोड अपडेट नहीं हो सका।
+Could not update milestone date,माइलस्टोन तिथि अपडेट नहीं हो सकी
+Could not update project status.,परियोजना स्थिति अपडेट नहीं हो सकी।
+Could not update project type.,परियोजना प्रकार अपडेट नहीं हो सका।
+Could not update setting.,सेटिंग अपडेट नहीं हो सकी।
+Could not update task dates,कार्य तिथियाँ अपडेट नहीं हो सकीं
+Could not update task status,कार्य स्थिति अपडेट नहीं हो सकी
+Could not update the template.,टेम्पलेट अपडेट नहीं हो सका।
+Create a copy of this task,इस कार्य की प्रतिलिपि बनाएँ
+Create Contact,संपर्क बनाएँ
+Create Event,कार्यक्रम बनाएँ
+Create Milestone,माइलस्टोन बनाएँ
+Create New Milestone,नया माइलस्टोन बनाएँ
+Create New Task,नया कार्य बनाएँ
+Create Project,परियोजना बनाएँ
+Create Task,कार्य बनाएँ
+Create tasks and milestones from a template,टेम्पलेट से कार्य और माइलस्टोन बनाएँ
+Create your first project to get started.,शुरू करने के लिए अपनी पहली परियोजना बनाएँ।
+Create your first task to start tracking work on this project.,इस परियोजना पर काम ट्रैक करना शुरू करने के लिए अपना पहला कार्य बनाएँ।
+Created,बनाया गया
+Creating...,बनाया जा रहा है...
+Critical,गंभीर
+Critical Path,गंभीर पथ
+"Currency used for budgets, costs, and billing rates","बजट, लागत और बिलिंग दरों के लिए उपयोग की जाने वाली मुद्रा"
+Current,वर्तमान
+Current Assignments,वर्तमान असाइनमेंट
+Current scheduled time:,वर्तमान निर्धारित समय:
+Currently running version,Currently running version
+d lag,दि विलंब
+Daily Availability,दैनिक उपलब्धता
+Daily Hours,दैनिक घंटे
+Danger Zone,खतरा क्षेत्र
+Dark,गहरा
+Dashboard,डैशबोर्ड
+Date,तिथि
+Date changes on this task will show cascade impact here,इस कार्य पर तिथि बदलाव यहाँ कैस्केड प्रभाव दिखाएंगे
+Date cleared,तिथि साफ़ की गई
+Date of Joining,शामिल होने की तिथि
+Date updated,तिथि अपडेट की गई
+Dates,तिथियाँ
+Dates cascaded,तिथियाँ कैस्केड की गईं
+Dates will be relative to the project's start date.,तिथियाँ परियोजना की आरंभ तिथि के सापेक्ष होंगी।
+Day,दिन
+day,दिन
+days,दिन
+Days before due date to send reminder,अनुस्मारक भेजने के लिए नियत तिथि से पहले के दिन
+Days Overdue,विलंब के दिन
+Days Remaining,शेष दिन
+Deadline,अंतिम तिथि
+Deadlines,अंतिम तिथियाँ
+Decision,निर्णय
+Decline,अस्वीकार करें
+Declined,अस्वीकृत
+Default Currency,डिफ़ॉल्ट मुद्रा
+Default hours per week for contact capacity planning,संपर्क क्षमता नियोजन के लिए प्रति सप्ताह डिफ़ॉल्ट घंटे
+Default Priority,डिफ़ॉल्ट प्राथमिकता
+Default Project Status,डिफ़ॉल्ट परियोजना स्थिति
+Default Task Status,डिफ़ॉल्ट कार्य स्थिति
+Default task view,डिफ़ॉल्ट कार्य दृश्य
+Default Values,डिफ़ॉल्ट मान
+Default Weekly Capacity,डिफ़ॉल्ट साप्ताहिक क्षमता
+Defaults,डिफ़ॉल्ट
+Defect Cost Impact,दोष लागत प्रभाव
+Defect name is required,दोष का नाम आवश्यक है
+Defect Type,दोष प्रकार
+Defect {0} not found,दोष {0} नहीं मिला
+Defects,दोष
+Defects & Issues,दोष और समस्याएँ
+Defects Resolved,दोष हल किए गए
+Delayed,विलंबित
+Delete,हटाएँ
+Delete Activity Data,गतिविधि डेटा हटाएँ
+Delete all read notifications?,सभी पढ़ी हुई सूचनाएँ हटाएँ?
+Delete comment,टिप्पणी हटाएँ
+Delete Contact,संपर्क हटाएँ
+Delete Event,कार्यक्रम हटाएँ
+Delete Event?,कार्यक्रम हटाएँ?
+Delete failed,हटाना विफल
+Delete file,फ़ाइल हटाएँ
+Delete item,आइटम हटाएँ
+Delete note,नोट हटाएँ
+Delete Project,परियोजना हटाएँ
+Delete Task,कार्य हटाएँ
+Delete this project,यह परियोजना हटाएँ
+Deleted,हटाया गया
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","परियोजना ""{0}"" हटाई गई ({1} कार्य, {2} माइलस्टोन)"
+Deletes notes and preferences. Source document is not affected.,नोट और प्राथमिकताएँ हटाता है। स्रोत दस्तावेज़ प्रभावित नहीं होता।
+Deleting...,हटाया जा रहा है...
+Department,विभाग
+Dependencies,निर्भरताएँ
+dependencies,निर्भरताएँ
+Dependencies are informational only,निर्भरताएँ केवल सूचनात्मक हैं
+dependency,निर्भरता
+Dependency already exists,निर्भरता पहले से मौजूद है
+Dependency Chain,निर्भरता श्रृंखला
+Dependency created,निर्भरता बनाई गई
+Dependency mode updated,निर्भरता मोड अपडेट किया गया
+Dependency name is required,निर्भरता का नाम आवश्यक है
+Dependency task {0} not found,निर्भरता कार्य {0} नहीं मिला
+Dependency {0} not found,निर्भरता {0} नहीं मिली
+depends,निर्भर
+Depends on Group,समूह पर निर्भर
+Depends on task is required,निर्भर कार्य आवश्यक है
+depends on...,निर्भर करता है...
+Descending -- click to reverse,घटते क्रम में -- उलटने के लिए क्लिक करें
+Describe the defect in detail...,दोष का विस्तार से वर्णन करें...
+Description,विवरण
+Description updated,विवरण अपडेट किया गया
+Designation,पदनाम
+"Detailed description of the defect, location, and impact","दोष, स्थान और प्रभाव का विस्तृत विवरण"
+Details,विवरण
+Discard timer,टाइमर खारिज करें
+Discussion,चर्चा
+Dismiss,Dismiss
+Display,प्रदर्शन
+Document,दस्तावेज़
+Document attached to project,दस्तावेज़ परियोजना से संलग्न किया गया
+Document final decision and rationale,अंतिम निर्णय और तर्क को दस्तावेज़ित करें
+Documentation Review,दस्तावेज़ समीक्षा
+Documents,दस्तावेज़
+Done,पूर्ण
+Download,डाउनलोड
+Drag to create dependency,निर्भरता बनाने के लिए खींचें
+Dry Run,परीक्षण चालन
+Dry Run Complete,परीक्षण चालन पूर्ण
+Due Date,नियत तिथि
+Due date,नियत तिथि
+Due Date (Earliest),नियत तिथि (सबसे पहले)
+Due date cannot be before start date,नियत तिथि आरंभ तिथि से पहले नहीं हो सकती
+Due date is in the past,नियत तिथि बीत चुकी है
+Due Date Reminders,नियत तिथि अनुस्मारक
+Due Diligence,उचित सावधानी
+Due Diligence Checklist,उचित सावधानी चेकलिस्ट
+Due This Week,इस सप्ताह नियत
+Due:,नियत:
+Duplicate events are not allowed,डुप्लिकेट कार्यक्रमों की अनुमति नहीं है
+Duplicate failed,प्रतिलिपि बनाना विफल
+Duplicate Task,कार्य की प्रतिलिपि बनाएँ
+Duration,अवधि
+Duration Summary,अवधि सारांश
+Duration:,अवधि:
+e.g. Cracked wall finish in bathroom...,जैसे दीवार की दरार बाथरूम में...
+"e.g. Electrical, Plumbing...","जैसे बिजली, प्लंबिंग..."
+Edit,संपादित करें
+Edit (E),संपादित करें (E)
+Edit dependency,निर्भरता संपादित करें
+Edit Event,कार्यक्रम संपादित करें
+Efficiency,दक्षता
+Either dependency_name or depends_on is required,dependency_name या depends_on में से कोई एक आवश्यक है
+Email,ईमेल
+Email invitations to all attendees,सभी सहभागियों को ईमेल निमंत्रण
+Email is required to create portal user,पोर्टल उपयोगकर्ता बनाने के लिए ईमेल आवश्यक है
+Email notifications,ईमेल सूचनाएँ
+Employee,कर्मचारी
+Employee DocType not available,कर्मचारी DocType उपलब्ध नहीं है
+Employee not found,कर्मचारी नहीं मिला
+Enable or disable optional features,वैकल्पिक सुविधाएँ सक्षम या अक्षम करें
+Enable Time Tracking,समय ट्रैकिंग सक्षम करें
+End,समाप्ति
+End Date,समाप्ति तिथि
+End date,समाप्ति तिथि
+End Date cannot be before Start Date,समाप्ति तिथि आरंभ तिथि से पहले नहीं हो सकती
+End date cannot be before start date,समाप्ति तिथि आरंभ तिथि से पहले नहीं हो सकती
+End date updated,समाप्ति तिथि अपडेट की गई
+End time was before start time. Adjusted to 1 hour after start.,समाप्ति समय आरंभ समय से पहले था। आरंभ के 1 घंटे बाद समायोजित किया गया।
+End:,समाप्ति:
+Enter milestone name...,माइलस्टोन का नाम दर्ज करें...
+Enter project name,परियोजना का नाम दर्ज करें
+Enter task title...,कार्य शीर्षक दर्ज करें...
+Enter template name,टेम्पलेट का नाम दर्ज करें
+Enter your note... Use @name to mention someone,अपना नोट दर्ज करें... किसी का उल्लेख करने के लिए @नाम का उपयोग करें
+Error,त्रुटि
+Error loading activity,गतिविधि लोड करने में त्रुटि
+Error loading contacts,संपर्क लोड करने में त्रुटि
+Error loading dashboard,डैशबोर्ड लोड करने में त्रुटि
+Error loading project,परियोजना लोड करने में त्रुटि
+Error loading projects,परियोजनाएँ लोड करने में त्रुटि
+Error loading settings,सेटिंग्स लोड करने में त्रुटि
+Error loading tasks,कार्य लोड करने में त्रुटि
+Error loading templates,टेम्पलेट लोड करने में त्रुटि
+Est. Hours,अनु. घंटे
+Estimated,अनुमानित
+Estimated Cost,अनुमानित लागत
+Estimated Cost (€),अनुमानित लागत (€)
+Estimated Hours,अनुमानित घंटे
+Estimated:,अनुमानित:
+Evaluate potential risks and concerns,संभावित जोखिमों और चिंताओं का मूल्यांकन करें
+Event,कार्यक्रम
+Event is required for event context,कार्यक्रम संदर्भ के लिए कार्यक्रम आवश्यक है
+Event is required when tracking context is 'event',जब ट्रैकिंग संदर्भ 'event' हो तो कार्यक्रम आवश्यक है
+Event Type,कार्यक्रम प्रकार
+Events,कार्यक्रम
+Events not available. Please run: bench --site orga.localhost migrate,कार्यक्रम उपलब्ध नहीं हैं। कृपया चलाएँ: bench --site orga.localhost migrate
+Events:,कार्यक्रम:
+Expert,विशेषज्ञ
+Explain why you are proposing a different time...,बताएँ कि आप भिन्न समय क्यों प्रस्तावित कर रहे हैं...
+Export,निर्यात
+Export failed,निर्यात विफल
+Export JSON,JSON निर्यात करें
+Exported,निर्यात किया गया
+Exported to timesheet {0},टाइमशीट {0} में निर्यात किया गया
+External,बाहरी
+Failed to add item,आइटम जोड़ना विफल
+Failed to add note,नोट जोड़ना विफल
+Failed to add skill,कौशल जोड़ना विफल
+Failed to apply cascade changes: {0},कैस्केड बदलाव लागू करना विफल: {0}
+Failed to create defect,दोष बनाना विफल
+Failed to create dependency,निर्भरता बनाना विफल
+Failed to create event,कार्यक्रम बनाना विफल
+Failed to create milestone,माइलस्टोन बनाना विफल
+Failed to create project,परियोजना बनाना विफल
+Failed to create task,कार्य बनाना विफल
+Failed to create time log,समय प्रविष्टि बनाना विफल
+Failed to delete,हटाना विफल
+Failed to delete comment,टिप्पणी हटाना विफल
+Failed to delete contact,संपर्क हटाना विफल
+Failed to load,लोड करना विफल
+Failed to load activity,गतिविधि लोड करना विफल
+Failed to load assignments,असाइनमेंट लोड करना विफल
+Failed to load contact,संपर्क लोड करना विफल
+Failed to load dashboard data,डैशबोर्ड डेटा लोड करना विफल
+Failed to load defects,दोष लोड करना विफल
+Failed to load events,कार्यक्रम लोड करना विफल
+Failed to load project,परियोजना लोड करना विफल
+Failed to load projects,परियोजनाएँ लोड करना विफल
+Failed to load report data,रिपोर्ट डेटा लोड करना विफल
+Failed to load settings,सेटिंग्स लोड करना विफल
+Failed to load tasks,कार्य लोड करना विफल
+Failed to move task,कार्य ले जाना विफल
+Failed to post comment,टिप्पणी पोस्ट करना विफल
+Failed to propose new time,नया समय प्रस्तावित करना विफल
+Failed to remove item,आइटम हटाना विफल
+Failed to remove skill,कौशल हटाना विफल
+Failed to reorder milestones: {0},माइलस्टोन पुनःक्रमित करना विफल: {0}
+Failed to reorder tasks: {0},कार्य पुनःक्रमित करना विफल: {0}
+Failed to reschedule dependent tasks: {0},निर्भर कार्यों को पुनर्निर्धारित करना विफल: {0}
+Failed to save,सहेजना विफल
+Failed to save preferences,प्राथमिकताएँ सहेजना विफल
+Failed to save settings,सेटिंग्स सहेजना विफल
+Failed to submit request. Please try again.,अनुरोध सबमिट करना विफल। कृपया पुनः प्रयास करें।
+Failed to update item,आइटम अपडेट करना विफल
+Failed to update priority,प्राथमिकता अपडेट करना विफल
+Failed to update task,कार्य अपडेट करना विफल
+Failed to update tasks: {0},कार्य अपडेट करना विफल: {0}
+Failed to upload avatar,अवतार अपलोड करना विफल
+Feature,सुविधा
+Features,सुविधाएँ
+FF (Finish-Finish),FF (समाप्ति-समाप्ति)
+FF - Finish-to-Finish,FF - समाप्ति-से-समाप्ति
+Field has been updated,फ़ील्ड अपडेट किया गया है
+Field name is required for 'Set Field Value' action,'Set Field Value' कार्रवाई के लिए फ़ील्ड नाम आवश्यक है
+Field {0} is not a Link field,फ़ील्ड {0} एक लिंक फ़ील्ड नहीं है
+Field {0} not found in {1},फ़ील्ड {0} {1} में नहीं मिला
+File,फ़ाइल
+file,फ़ाइल
+File does not belong to this task,फ़ाइल इस कार्य से संबंधित नहीं है
+File name is required,फ़ाइल नाम आवश्यक है
+File uploaded,फ़ाइल अपलोड की गई
+File {0} not found,फ़ाइल {0} नहीं मिली
+Files,फ़ाइलें
+files,फ़ाइलें
+Filter,फ़िल्टर
+Final Decision,अंतिम निर्णय
+Finance,वित्त
+Financial,वित्तीय
+Finish-to-Finish,समाप्ति-से-समाप्ति
+Finish-to-Start,समाप्ति-से-आरंभ
+Flag,फ़्लैग करें
+Flag for attention,ध्यान के लिए फ़्लैग करें
+Flagged,फ़्लैग किया गया
+Focus Panel,फ़ोकस पैनल
+Follows your system preference. Currently:,आपकी सिस्टम प्राथमिकता का पालन करता है। वर्तमान:
+Frappe Project {0} not found,Frappe परियोजना {0} नहीं मिली
+Frappe Projects Migration,Frappe Projects माइग्रेशन
+Frappe Projects module not available,Frappe Projects मॉड्यूल उपलब्ध नहीं है
+Frappe Projects module not installed,Frappe Projects मॉड्यूल स्थापित नहीं है
+Frappe Projects sync is not enabled,Frappe Projects सिंक सक्षम नहीं है
+Frappe Task DocType not found,Frappe कार्य DocType नहीं मिला
+Frappe Task has no project,Frappe कार्य की कोई परियोजना नहीं है
+Frappe Task {0} not found,Frappe कार्य {0} नहीं मिला
+Fri,शुक्र
+From,से
+From Template,टेम्पलेट से
+FS (Finish-Start),FS (समाप्ति-आरंभ)
+FS - Finish-to-Start (default),FS - समाप्ति-से-आरंभ (डिफ़ॉल्ट)
+Full form view with audit trail,ऑडिट ट्रेल के साथ पूर्ण फ़ॉर्म दृश्य
+Full name,पूरा नाम
+Gantt,Gantt
+Gantt Chart,Gantt चार्ट
+Gantt View,Gantt दृश्य
+General Note,सामान्य टिप्पणी
+Get started,शुरू करें
+Go back,वापस जाएँ
+Go Back,Go Back
+Group by,इसके अनुसार समूहित करें
+Group dependency removed,समूह निर्भरता हटाई गई
+Group dependency set,समूह निर्भरता सेट की गई
+Group removed,समूह हटाया गया
+Group updated,समूह अपडेट किया गया
+Hammock task dates are auto-calculated and cannot be changed manually,हैमॉक कार्य तिथियाँ स्वचालित रूप से गणना की जाती हैं और मैन्युअल रूप से बदली नहीं जा सकतीं
+Have a question or need assistance? Fill out the form below and our team will get back to you.,कोई प्रश्न है या सहायता चाहिए? नीचे फ़ॉर्म भरें और हमारी टीम आपसे संपर्क करेगी।
+Health,स्वास्थ्य
+Healthy,स्वस्थ
+Hello {0},नमस्ते {0}
+Here's what's happening with your projects today.,आज आपकी परियोजनाओं में क्या हो रहा है।
+Hide,छिपाएँ
+High,उच्च
+History,इतिहास
+Home,होम
+Hourly Cost,प्रति घंटा लागत
+Hours,घंटे
+hours,घंटे
+Hours Logged,दर्ज किए गए घंटे
+ID,ID
+Image must be smaller than 5 MB,छवि 5 MB से छोटी होनी चाहिए
+Import,आयात
+Import existing projects and tasks from Frappe Projects module,Frappe Projects मॉड्यूल से मौजूदा परियोजनाएँ और कार्य आयात करें
+Import failed,आयात विफल
+Import Template,टेम्पलेट आयात करें
+Imported,आयात किया गया
+in,में
+In Progress,प्रगति में
+In Review,समीक्षा में
+In-app notifications,ऐप में सूचनाएँ
+Inactive,निष्क्रिय
+Initial Review,प्रारंभिक समीक्षा
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,सभी कार्य देखने के लिए अपर्याप्त अनुमतियाँ
+Intermediate,मध्यम
+Internal,आंतरिक
+Invalid DocType,अमान्य DocType
+Invalid DocType for import,आयात के लिए अमान्य DocType
+Invalid item type: {0},अमान्य आइटम प्रकार: {0}
+Invalid JSON data,अमान्य JSON डेटा
+Invalid note type. Must be one of: {0},अमान्य नोट प्रकार। इनमें से एक होना चाहिए: {0}
+Invalid project reference,अमान्य परियोजना संदर्भ
+Invalid reaction type. Must be one of: {0},अमान्य प्रतिक्रिया प्रकार। इनमें से एक होना चाहिए: {0}
+Invalid RSVP status,अमान्य RSVP स्थिति
+Invalid status. Must be one of: {0},अमान्य स्थिति। इनमें से एक होनी चाहिए: {0}
+Invalid status: {0},अमान्य स्थिति: {0}
+Invalid status: {0}. Must be one of: {1},अमान्य स्थिति: {0}। इनमें से एक होनी चाहिए: {1}
+Invalid tracking context: {0},अमान्य ट्रैकिंग संदर्भ: {0}
+Invalid visibility. Must be one of: {0},अमान्य दृश्यता। इनमें से एक होनी चाहिए: {0}
+Invitation: {0} - {1} at {2},निमंत्रण: {0} - {1} {2} पर
+Invite People,लोगों को आमंत्रित करें
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,आइटम जोड़ा गया
+Item ID is required,आइटम ID आवश्यक है
+Item removed,आइटम हटाया गया
+Item type is required,आइटम प्रकार आवश्यक है
+Item {0} not found,आइटम {0} नहीं मिला
+Job title or role,पद शीर्षक या भूमिका
+Join Meeting,बैठक में शामिल हों
+Just now,अभी-अभी
+just now,अभी-अभी
+Kanban,Kanban
+Kanban Board,Kanban बोर्ड
+Kanban View,Kanban दृश्य
+Keyboard Shortcuts,कीबोर्ड शॉर्टकट
+Keyboard shortcuts (?),कीबोर्ड शॉर्टकट (?)
+Last checked: {0},Last checked: {0}
+Last Updated,अंतिम अपडेट
+Last updated:,अंतिम अपडेट:
+Last Week,पिछला सप्ताह
+Latest Version,Latest Version
+Light,हल्का
+Link failed,जोड़ना विफल
+Link Task,कार्य जोड़ें
+Linked,जुड़ा हुआ
+Linked employee not found,जुड़ा कर्मचारी नहीं मिला
+Linked Tasks,जुड़े कार्य
+List,सूची
+List View,सूची दृश्य
+Load failed,लोड विफल
+Load More,और लोड करें
+Load more comments,और टिप्पणियाँ लोड करें
+Loading activity...,गतिविधि लोड हो रही है...
+Loading changes...,बदलाव लोड हो रहे हैं...
+Loading checklist...,चेकलिस्ट लोड हो रही है...
+Loading comments...,टिप्पणियाँ लोड हो रही हैं...
+Loading contact...,संपर्क लोड हो रहा है...
+Loading contacts...,संपर्क लोड हो रहे हैं...
+Loading dependencies...,निर्भरताएँ लोड हो रही हैं...
+Loading details...,विवरण लोड हो रहे हैं...
+Loading discussion...,चर्चा लोड हो रही है...
+Loading events...,कार्यक्रम लोड हो रहे हैं...
+Loading files...,फ़ाइलें लोड हो रही हैं...
+Loading notes...,नोट लोड हो रहे हैं...
+Loading preferences...,प्राथमिकताएँ लोड हो रही हैं...
+Loading project...,परियोजना लोड हो रही है...
+Loading projects...,परियोजनाएँ लोड हो रही हैं...
+Loading replies...,उत्तर लोड हो रहे हैं...
+Loading report data...,रिपोर्ट डेटा लोड हो रहा है...
+Loading settings...,सेटिंग्स लोड हो रही हैं...
+Loading task...,कार्य लोड हो रहा है...
+Loading templates...,टेम्पलेट लोड हो रहे हैं...
+Loading time logs...,समय प्रविष्टियाँ लोड हो रही हैं...
+Loading your portal...,आपका पोर्टल लोड हो रहा है...
+Loading...,लोड हो रहा है...
+Location,स्थान
+Log Time,समय दर्ज करें
+Logout,लॉगआउट
+Low,कम
+Make Offer,प्रस्ताव दें
+Manager,प्रबंधक
+Manual Entry,मैन्युअल प्रविष्टि
+Margin,मार्जिन
+Mark all as read,सभी को पढ़ा हुआ चिह्नित करें
+Mark all read,सभी पढ़ा हुआ चिह्नित करें
+Mark as read,पढ़ा हुआ चिह्नित करें
+Mark as unread,अपठित चिह्नित करें
+Mark read,पढ़ा हुआ चिह्नित करें
+Marking...,चिह्नित किया जा रहा है...
+Material,सामग्री
+Maybe,शायद
+Medium,मध्यम
+Meeting,बैठक
+Meeting Link,बैठक लिंक
+Meeting title,बैठक शीर्षक
+Meeting URL,बैठक URL
+Meetings,बैठकें
+Mention,उल्लेख
+Message,संदेश
+Message is required,संदेश आवश्यक है
+Message is required for '{0}' action,'{0}' कार्रवाई के लिए संदेश आवश्यक है
+Migrate,माइग्रेट करें
+Migration Complete,माइग्रेशन पूर्ण
+Migration ID:,माइग्रेशन ID:
+Migration log not found: {0},माइग्रेशन लॉग नहीं मिला: {0}
+Milestone,माइलस्टोन
+milestone,माइलस्टोन
+Milestone created,माइलस्टोन बनाया गया
+Milestone description has been saved.,माइलस्टोन विवरण सहेजा गया है।
+Milestone ID is required,माइलस्टोन ID आवश्यक है
+Milestone marked as Missed (past due date),माइलस्टोन छूटा हुआ चिह्नित किया गया (नियत तिथि बीत चुकी है)
+Milestone moved,माइलस्टोन ले जाया गया
+Milestone Name,माइलस्टोन नाम
+Milestone name has been saved.,माइलस्टोन का नाम सहेजा गया है।
+Milestone name is required,माइलस्टोन का नाम आवश्यक है
+Milestone updated,माइलस्टोन अपडेट किया गया
+Milestone {0} not found,माइलस्टोन {0} नहीं मिला
+Milestone {0} not in project {1},माइलस्टोन {0} परियोजना {1} में नहीं है
+Milestones,माइलस्टोन
+milestones,माइलस्टोन
+Milestones:,माइलस्टोन:
+Minutes,मिनट
+Missed,छूटा हुआ
+Mixed,मिश्रित
+Mobile,मोबाइल
+Moderate,मध्यम
+Modified,संशोधित
+"Modify details, time, or attendees","विवरण, समय, या सहभागी संशोधित करें"
+Mon,सोम
+Month,महीना
+Move failed,ले जाना विफल
+Must be a positive number,एक धनात्मक संख्या होनी चाहिए
+Must finish before this finishes,इसके समाप्त होने से पहले समाप्त होना चाहिए
+Must finish before this starts,इसके शुरू होने से पहले समाप्त होना चाहिए
+Must start before this finishes,इसके समाप्त होने से पहले शुरू होना चाहिए
+Must start before this starts,इसके शुरू होने से पहले शुरू होना चाहिए
+My Assignments,मेरे असाइनमेंट
+My Projects,मेरी परियोजनाएँ
+My Schedule,मेरा शेड्यूल
+My Tasks,मेरे कार्य
+N/A,लागू नहीं
+Name,नाम
+Name (A-Z),नाम (A-Z)
+Name (Z-A),नाम (Z-A)
+Name cannot exceed 255 characters,नाम 255 अक्षरों से अधिक नहीं हो सकता
+Need help?,मदद चाहिए?
+Needs Attention,ध्यान आवश्यक
+Never,Never
+new activities,नई गतिविधियाँ
+New Activity,नई गतिविधि
+New activity,नई गतिविधि
+New Event,नया कार्यक्रम
+New index is required,नया इंडेक्स आवश्यक है
+New Project,नई परियोजना
+New tasks will auto-trail by default.,नए कार्य डिफ़ॉल्ट रूप से स्वचालित ट्रेल करेंगे।
+Newest First,नवीनतम पहले
+Next,अगला
+Next 14 days,अगले 14 दिन
+Next 30 days,अगले 30 दिन
+Next 60 days,अगले 60 दिन
+Next 7 days,अगले 7 दिन
+Next 90 days,अगले 90 दिन
+Next Week,अगला सप्ताह
+Next:,अगला:
+No,नहीं
+No active assignments,कोई सक्रिय असाइनमेंट नहीं
+No active projects,कोई सक्रिय परियोजना नहीं
+No active timer found,कोई सक्रिय टाइमर नहीं मिला
+No activity selected,कोई गतिविधि चयनित नहीं
+No assignments found,कोई असाइनमेंट नहीं मिला
+No attendees,कोई सहभागी नहीं
+no change,कोई बदलाव नहीं
+No changes for this field.,इस फ़ील्ड के लिए कोई बदलाव नहीं।
+No changes recorded for this activity.,इस गतिविधि के लिए कोई बदलाव दर्ज नहीं।
+No checklist items yet,अभी कोई चेकलिस्ट आइटम नहीं
+No checklist items yet.,अभी कोई चेकलिस्ट आइटम नहीं।
+No comments yet,अभी कोई टिप्पणी नहीं
+No comments yet.,अभी कोई टिप्पणी नहीं।
+No contacts available,कोई संपर्क उपलब्ध नहीं
+No content for this tab,इस टैब के लिए कोई सामग्री नहीं
+No data available,कोई डेटा उपलब्ध नहीं
+No data available for the selected filters,चयनित फ़िल्टरों के लिए कोई डेटा उपलब्ध नहीं
+No data to export,निर्यात के लिए कोई डेटा नहीं
+No dates set,कोई तिथि सेट नहीं
+No defects reported,कोई दोष रिपोर्ट नहीं किया गया
+No dependencies defined,कोई निर्भरता परिभाषित नहीं
+No description,कोई विवरण नहीं
+No discussion yet.,अभी कोई चर्चा नहीं।
+No documents attached,कोई दस्तावेज़ संलग्न नहीं
+No due date,कोई नियत तिथि नहीं
+No employee linked to this resource,इस संसाधन से कोई कर्मचारी जुड़ा नहीं है
+No ERPNext employee linked to resource,संसाधन से कोई ERPNext कर्मचारी जुड़ा नहीं है
+No events found,कोई कार्यक्रम नहीं मिला
+No files attached yet.,अभी कोई फ़ाइल संलग्न नहीं।
+No Frappe Project linked,कोई Frappe परियोजना जुड़ी नहीं है
+No Grouping,कोई समूहन नहीं
+No items,कोई आइटम नहीं
+No matching tasks,कोई मेल खाने वाला कार्य नहीं
+No matching tasks found,कोई मेल खाने वाला कार्य नहीं मिला
+No migration history,कोई माइग्रेशन इतिहास नहीं
+No Milestone,कोई माइलस्टोन नहीं
+No milestones,कोई माइलस्टोन नहीं
+No milestones defined for this project.,इस परियोजना के लिए कोई माइलस्टोन परिभाषित नहीं।
+No notes yet.,अभी कोई नोट नहीं।
+No notes yet. Add a due diligence note to track progress.,अभी कोई नोट नहीं। प्रगति ट्रैक करने के लिए उचित सावधानी नोट जोड़ें।
+No notifications,कोई सूचना नहीं
+No Orga Project linked to Frappe Project {0},Frappe परियोजना {0} से कोई Orga परियोजना जुड़ी नहीं है
+No overdue tasks,कोई विलंबित कार्य नहीं
+No pending cascade changes,कोई लंबित कैस्केड बदलाव नहीं
+No predecessors - this task can start independently,कोई पूर्ववर्ती नहीं — यह कार्य स्वतंत्र रूप से शुरू हो सकता है
+No project,कोई परियोजना नहीं
+No projects found,कोई परियोजना नहीं मिली
+No Projects Yet,अभी कोई परियोजना नहीं
+No recent activity,कोई हालिया गतिविधि नहीं
+No related documents,कोई संबंधित दस्तावेज़ नहीं
+No resolved threads.,कोई हल किए गए थ्रेड नहीं।
+No resources found,कोई संसाधन नहीं मिला
+No results found,कोई परिणाम नहीं मिला
+No skills listed,कोई कौशल सूचीबद्ध नहीं
+No skills recorded yet,अभी कोई कौशल दर्ज नहीं
+No successors - no tasks are waiting for this one,कोई उत्तरवर्ती नहीं — कोई कार्य इसकी प्रतीक्षा नहीं कर रहा
+No task selected,कोई कार्य चयनित नहीं
+No tasks assigned to you,आपको कोई कार्य असाइन नहीं किया गया
+No tasks available to add,जोड़ने के लिए कोई कार्य उपलब्ध नहीं
+No tasks found,कोई कार्य नहीं मिला
+No tasks linked to this milestone,इस माइलस्टोन से कोई कार्य जुड़ा नहीं
+No tasks with dates to display,दिखाने के लिए तिथियों वाला कोई कार्य नहीं
+No tasks yet,अभी कोई कार्य नहीं
+No team members,कोई टीम सदस्य नहीं
+No template,कोई टेम्पलेट नहीं
+No templates yet,अभी कोई टेम्पलेट नहीं
+No time data found,कोई समय डेटा नहीं मिला
+No time logged today,आज कोई समय दर्ज नहीं
+No time logged yet,अभी कोई समय दर्ज नहीं
+No time logs for this period,इस अवधि के लिए कोई समय प्रविष्टि नहीं
+No time logs found,कोई समय प्रविष्टि नहीं मिली
+No unread notifications,कोई अपठित सूचना नहीं
+No update information available yet.,No update information available yet.
+None,कोई नहीं
+Not found,नहीं मिला
+Not permitted,अनुमति नहीं
+Not permitted to access this project,इस परियोजना तक पहुँच की अनुमति नहीं
+Not permitted to access this task,इस कार्य तक पहुँच की अनुमति नहीं
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,इस दस्तावेज़ पर टिप्पणी करने की अनुमति नहीं
+Not permitted to create clients,ग्राहक बनाने की अनुमति नहीं
+Not permitted to delete this client,इस ग्राहक को हटाने की अनुमति नहीं
+Not permitted to delete this defect,इस दोष को हटाने की अनुमति नहीं
+Not permitted to delete this note,इस नोट को हटाने की अनुमति नहीं
+Not permitted to delete this project,इस परियोजना को हटाने की अनुमति नहीं
+Not permitted to delete this task,इस कार्य को हटाने की अनुमति नहीं
+Not permitted to delete this time log,इस समय प्रविष्टि को हटाने की अनुमति नहीं
+Not permitted to invite clients,ग्राहकों को आमंत्रित करने की अनुमति नहीं
+Not permitted to modify client access,ग्राहक पहुँच संशोधित करने की अनुमति नहीं
+Not permitted to modify this project,इस परियोजना को संशोधित करने की अनुमति नहीं
+Not permitted to update settings,सेटिंग्स अपडेट करने की अनुमति नहीं
+Not permitted to update this client,इस ग्राहक को अपडेट करने की अनुमति नहीं
+Not permitted to view this client,इस ग्राहक को देखने की अनुमति नहीं
+not sent,नहीं भेजा गया
+Not set,सेट नहीं
+Not specified,निर्दिष्ट नहीं
+Note,नोट
+Note (optional),नोट (वैकल्पिक)
+Note Content,नोट सामग्री
+Note content is required,नोट सामग्री आवश्यक है
+Note name is required,नोट का नाम आवश्यक है
+Note not found,नोट नहीं मिला
+Note Type,नोट प्रकार
+Notes,नोट
+Notification,सूचना
+Notification not found,सूचना नहीं मिली
+Notifications,सूचनाएँ
+Off Track,पटरी से उतरा
+Offer,प्रस्ताव
+Offer Prepared,प्रस्ताव तैयार
+Oldest First,सबसे पुराने पहले
+On Hold,रुका हुआ
+On Leave,छुट्टी पर
+On Track,सही रास्ते पर
+On-Time Rate,समय पर दर
+Only administrators can delete activities,केवल व्यवस्थापक गतिविधियाँ हटा सकते हैं
+Only the comment author or administrators can delete comments,केवल टिप्पणी लेखक या व्यवस्थापक टिप्पणियाँ हटा सकते हैं
+Only you and admins,केवल आप और व्यवस्थापक
+Open,खुला
+Open in Desk,Desk में खोलें
+Open Task Log,कार्य लॉग खोलें
+Open Tasks,खुले कार्य
+Optional,वैकल्पिक
+optional,वैकल्पिक
+Or email us directly at,या हमें सीधे ईमेल करें
+Orga Project {0} from Frappe Projects,Frappe Projects से Orga परियोजना {0}
+Orga Task {0} from Frappe,Frappe से Orga कार्य {0}
+Organizer,आयोजक
+Other,अन्य
+Over Budget,बजट से अधिक
+Overall Progress,समग्र प्रगति
+Overall Utilization,समग्र उपयोग
+Overallocated,अति-आवंटित
+Overdue,विलंबित
+overdue,विलंबित
+Overdue Tasks,विलंबित कार्य
+Overview,अवलोकन
+Owner,स्वामी
+Page Not Found,पृष्ठ नहीं मिला
+Parent,पैरेंट
+Parent comment must belong to the same document,पैरेंट टिप्पणी उसी दस्तावेज़ से संबंधित होनी चाहिए
+Parent comment not found,पैरेंट टिप्पणी नहीं मिली
+Parent project not synced to Frappe yet,पैरेंट परियोजना अभी तक Frappe में सिंक नहीं हुई
+Parent project sync not enabled,पैरेंट परियोजना सिंक सक्षम नहीं है
+Partner,साझेदार
+Pending,लंबित
+per page,प्रति पृष्ठ
+Perform initial assessment and background check,प्रारंभिक मूल्यांकन और पृष्ठभूमि जाँच करें
+Permanently remove this event,इस कार्यक्रम को स्थायी रूप से हटाएँ
+Permanently remove this task,इस कार्य को स्थायी रूप से हटाएँ
+Phone,फ़ोन
+Pin,पिन करें
+Pin Activity,गतिविधि पिन करें
+Pin to top,शीर्ष पर पिन करें
+Pinned,पिन किया गया
+Planned budget for this task,इस कार्य के लिए नियोजित बजट
+Planning,योजना
+Please describe your question or issue in detail...,कृपया अपने प्रश्न या समस्या का विस्तार से वर्णन करें...
+Please login to access Orga,Orga तक पहुँचने के लिए कृपया लॉगिन करें
+Please login to access the client portal,ग्राहक पोर्टल तक पहुँचने के लिए कृपया लॉगिन करें
+Please respond to this invitation in Orga,कृपया Orga में इस निमंत्रण का उत्तर दें
+Please select an image file,कृपया एक छवि फ़ाइल चुनें
+Please try again,कृपया पुनः प्रयास करें
+Please type,कृपया टाइप करें
+Portal,पोर्टल
+Portal access revoked for {0},{0} के लिए पोर्टल पहुँच रद्द की गई
+Portal user created successfully. Welcome email {0},पोर्टल उपयोगकर्ता सफलतापूर्वक बनाया गया। स्वागत ईमेल {0}
+Post,पोस्ट
+Powered by,द्वारा संचालित
+Powered by Tonic,Tonic द्वारा संचालित
+Predecessors (Blocked By),पूर्ववर्ती (इनके द्वारा अवरुद्ध)
+Preferences,प्राथमिकताएँ
+Preferences saved successfully,प्राथमिकताएँ सफलतापूर्वक सहेजी गईं
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)","स्वचालित रूप से उत्पन्न परियोजना कोड का उपसर्ग (जैसे, ORG-2026-0001)"
+Prepare and document offer terms,प्रस्ताव शर्तें तैयार और दस्तावेज़ित करें
+Press,दबाएँ
+Preview,पूर्वावलोकन
+Preview cascade before applying,लागू करने से पहले कैस्केड का पूर्वावलोकन करें
+Previous,पिछला
+Priority,प्राथमिकता
+Priority assigned to new tasks,नए कार्यों को असाइन की गई प्राथमिकता
+Priority updated,प्राथमिकता अपडेट की गई
+Proficiency,दक्षता
+Profile,प्रोफ़ाइल
+Progress,प्रगति
+Progress (High-Low),प्रगति (अधिक से कम)
+Progress (Low-High),प्रगति (कम से अधिक)
+Progress Overview,प्रगति अवलोकन
+Progress updated,प्रगति अपडेट की गई
+Project,परियोजना
+Project budget has been saved.,परियोजना बजट सहेजा गया है।
+Project code (e.g. ORG-2026-0001),परियोजना कोड (जैसे ORG-2026-0001)
+Project Code Prefix,परियोजना कोड उपसर्ग
+Project created,परियोजना बनाई गई
+Project deleted,परियोजना हटाई गई
+Project description has been saved.,परियोजना विवरण सहेजा गया है।
+Project Details,परियोजना विवरण
+Project end date has been saved.,परियोजना समाप्ति तिथि सहेजी गई है।
+Project Files,परियोजना फ़ाइलें
+Project has no linked client,परियोजना से कोई ग्राहक जुड़ा नहीं है
+Project Health,परियोजना स्वास्थ्य
+Project Info,परियोजना जानकारी
+Project is required,परियोजना आवश्यक है
+Project is required for project context,परियोजना संदर्भ के लिए परियोजना आवश्यक है
+Project is required when tracking context is 'project',जब ट्रैकिंग संदर्भ 'project' हो तो परियोजना आवश्यक है
+Project Manager,परियोजना प्रबंधक
+Project Name,परियोजना नाम
+Project name and template name are required,परियोजना नाम और टेम्पलेट नाम आवश्यक हैं
+Project name is required,परियोजना नाम आवश्यक है
+Project not found,परियोजना नहीं मिली
+Project not found or you do not have access,परियोजना नहीं मिली या आपकी पहुँच नहीं है
+Project settings,परियोजना सेटिंग्स
+Project start date has been saved.,परियोजना आरंभ तिथि सहेजी गई है।
+Project title has been saved.,परियोजना शीर्षक सहेजा गया है।
+Project Type,परियोजना प्रकार
+Project updated,परियोजना अपडेट की गई
+Project {0} linked to client {1},परियोजना {0} ग्राहक {1} से जोड़ी गई
+Project {0} not found,परियोजना {0} नहीं मिली
+Project {0} to Frappe Projects,परियोजना {0} Frappe Projects में
+Project:,परियोजना:
+Projects,परियोजनाएँ
+projects,परियोजनाएँ
+Projects created:,बनाई गई परियोजनाएँ:
+Projects Overview,परियोजनाओं का अवलोकन
+Projects skipped:,छोड़ी गई परियोजनाएँ:
+Projects updated:,अपडेट की गई परियोजनाएँ:
+Promote failed,प्रोमोट करना विफल
+Promote to task,कार्य में प्रोमोट करें
+Promoted to task,कार्य में प्रोमोट किया गया
+Propose,प्रस्तावित करें
+Propose New Time,नया समय प्रस्तावित करें
+Propose Time,समय प्रस्तावित करें
+Proposed End,प्रस्तावित समाप्ति
+Proposed Start,प्रस्तावित आरंभ
+Public,सार्वजनिक
+Quick Action,त्वरित कार्रवाई
+Quick Actions,त्वरित कार्रवाइयाँ
+Quick Stats,त्वरित आँकड़े
+Rates,दरें
+Receive notifications via email,ईमेल के माध्यम से सूचनाएँ प्राप्त करें
+Receive notifications within the application,ऐप के भीतर सूचनाएँ प्राप्त करें
+Recent Activity,हालिया गतिविधि
+Recipient {0} is not a valid user,प्राप्तकर्ता {0} एक मान्य उपयोगकर्ता नहीं है
+Reference,संदर्भ
+Refresh,ताज़ा करें
+Related,संबंधित
+Related Company (optional),संबंधित कंपनी (वैकल्पिक)
+Related Documents,संबंधित दस्तावेज़
+Related Project,संबंधित परियोजना
+Remaining,शेष
+Reminder,अनुस्मारक
+Reminder Lead Time,अनुस्मारक पूर्व समय
+Reminder: {0} - {1} at {2},अनुस्मारक: {0} - {1} {2} पर
+Remove,हटाएँ
+Remove dependency,निर्भरता हटाएँ
+Remove dependency on,पर निर्भरता हटाएँ
+Remove from group,समूह से हटाएँ
+Remove group dependency,समूह निर्भरता हटाएँ
+Remove skill,कौशल हटाएँ
+Reopen,पुनः खोलें
+Reopen thread,थ्रेड पुनः खोलें
+reopened,पुनः खोला गया
+replies,उत्तर
+Reply,उत्तर दें
+reply,उत्तर
+Replying to,को उत्तर दे रहे हैं
+Replying to comment,टिप्पणी का उत्तर दे रहे हैं
+Report Defect,दोष रिपोर्ट करें
+Reported Date,रिपोर्ट की गई तिथि
+Reports,रिपोर्ट
+Reports To,को रिपोर्ट करता है
+Request Submitted!,अनुरोध सबमिट किया गया!
+Required,आवश्यक
+required,आवश्यक
+Research,अनुसंधान
+Reset to Defaults,डिफ़ॉल्ट पर रीसेट करें
+Resolve,हल करें
+Resolve thread,थ्रेड हल करें
+Resolved,हल किया गया
+Resolved date cannot be before reported date,हल करने की तिथि रिपोर्ट की गई तिथि से पहले नहीं हो सकती
+Resource,संसाधन
+Resource and skill name are required,संसाधन और कौशल नाम आवश्यक हैं
+Resource is already an attendee,संसाधन पहले से सहभागी है
+Resource name is required,संसाधन नाम आवश्यक है
+Resource not found,संसाधन नहीं मिला
+Resource synced from employee {0},कर्मचारी {0} से संसाधन सिंक किया गया
+Resource {0} is already assigned to this task ({1}),संसाधन {0} पहले से इस कार्य ({1}) को असाइन किया गया है
+Resource {0} not found,संसाधन {0} नहीं मिला
+Resources,संसाधन
+Retry,पुनः प्रयास करें
+Review,समीक्षा
+Review all relevant documents and contracts,सभी संबंधित दस्तावेज़ों और अनुबंधों की समीक्षा करें
+Reviews,समीक्षाएँ
+Risk Assessment,जोखिम मूल्यांकन
+Rollback,वापस लें
+Rolled back,वापस लिया गया
+Room or address,कमरा या पता
+RSVP,RSVP
+Safety,सुरक्षा
+Sat,शनि
+Save,सहेजें
+"Save a project as a template, or import one from a JSON file.","परियोजना को टेम्पलेट के रूप में सहेजें, या JSON फ़ाइल से एक आयात करें।"
+Save as Template,टेम्पलेट के रूप में सहेजें
+Save Changes,बदलाव सहेजें
+Save failed,सहेजना विफल
+Save Preferences,प्राथमिकताएँ सहेजें
+Save Template,टेम्पलेट सहेजें
+Saving...,सहेजा जा रहा है...
+Schedule,शेड्यूल
+Schedule type is required for scheduled triggers,निर्धारित ट्रिगर के लिए शेड्यूल प्रकार आवश्यक है
+Scheduled,निर्धारित
+Search,खोजें
+"Search by name, email, or skill...","नाम, ईमेल, या कौशल से खोजें..."
+Search for a project...,परियोजना खोजें...
+Search for a task...,कार्य खोजें...
+Search for an event...,कार्यक्रम खोजें...
+Search for people to invite...,आमंत्रित करने के लिए लोग खोजें...
+Search tasks to link...,जोड़ने के लिए कार्य खोजें...
+Search tasks...,कार्य खोजें...
+Search...,खोजें...
+Searching...,खोजा जा रहा है...
+Seen,देखा गया
+Select a project if your request is related to a specific project.,यदि आपका अनुरोध किसी विशिष्ट परियोजना से संबंधित है तो एक परियोजना चुनें।
+Select a project...,परियोजना चुनें...
+Select a task from the Gantt chart to view and manage its details.,विवरण देखने और प्रबंधित करने के लिए Gantt चार्ट से कोई कार्य चुनें।
+Select a task from the list or Kanban board to view and manage its details.,विवरण देखने और प्रबंधित करने के लिए सूची या Kanban बोर्ड से कोई कार्य चुनें।
+Select a template...,टेम्पलेट चुनें...
+Select priority...,प्राथमिकता चुनें...
+Select status...,स्थिति चुनें...
+Select task...,कार्य चुनें...
+Select type...,प्रकार चुनें...
+Selection,चयन
+Send,भेजें
+Send comment,टिप्पणी भेजें
+Send email invitations to attendees,सहभागियों को ईमेल निमंत्रण भेजें
+Send Invitations,निमंत्रण भेजें
+Send notification when a task is assigned to a user,जब कोई कार्य किसी उपयोगकर्ता को असाइन किया जाए तो सूचना भेजें
+Send notification when task status changes,कार्य स्थिति बदलने पर सूचना भेजें
+Send reminder before task due date,कार्य की नियत तिथि से पहले अनुस्मारक भेजें
+sent,भेजा गया
+Set rate,दर सेट करें
+Settings,सेटिंग्स
+Settings saved successfully,सेटिंग्स सफलतापूर्वक सहेजी गईं
+Severity,गंभीरता
+SF (Start-Finish),SF (आरंभ-समाप्ति)
+SF - Start-to-Finish,SF - आरंभ-से-समाप्ति
+Show,दिखाएँ
+Show all,सभी दिखाएँ
+Show all changes,सभी बदलाव दिखाएँ
+Show Archived,संग्रहित दिखाएँ
+Show full diff,पूर्ण अंतर दिखाएँ
+Show less,कम दिखाएँ
+Show more,और दिखाएँ
+Skill added,कौशल जोड़ा गया
+Skill is required,कौशल आवश्यक है
+Skill Name,कौशल नाम
+Skill removed,कौशल हटाया गया
+Skill {0} already exists for this resource,इस संसाधन के लिए कौशल {0} पहले से मौजूद है
+Skills,कौशल
+Skills & Competencies,कौशल और योग्यताएँ
+Skip already migrated projects,पहले से माइग्रेट की गई परियोजनाएँ छोड़ें
+Sort by,इसके अनुसार क्रमबद्ध करें
+Sort: Due Date,क्रम: नियत तिथि
+Sort: Priority,क्रम: प्राथमिकता
+Sort: Project,क्रम: परियोजना
+Sort: Status,क्रम: स्थिति
+Sort: Task,क्रम: कार्य
+Source Code,स्रोत कोड
+Spent,खर्च
+Spent:,खर्च:
+SS (Start-Start),SS (आरंभ-आरंभ)
+SS - Start-to-Start,SS - आरंभ-से-आरंभ
+Standalone,स्वतंत्र
+Start,आरंभ
+Start a discussion below,नीचे एक चर्चा शुरू करें
+Start Date,आरंभ तिथि
+Start date,आरंभ तिथि
+Start Date (Earliest),आरंभ तिथि (सबसे पहले)
+Start date updated,आरंभ तिथि अपडेट की गई
+Start date/time is required,आरंभ तिथि/समय आवश्यक है
+Start Migration,माइग्रेशन शुरू करें
+Start the conversation below.,नीचे बातचीत शुरू करें।
+Start Timer,टाइमर शुरू करें
+Start typing to search...,खोजने के लिए टाइप करना शुरू करें...
+Start-to-Finish,आरंभ-से-समाप्ति
+Start-to-Start,आरंभ-से-आरंभ
+Start:,आरंभ:
+Statistics reset,आँकड़े रीसेट किए गए
+Status,स्थिति
+Status assigned to new projects,नई परियोजनाओं को असाइन की गई स्थिति
+Status assigned to new tasks,नए कार्यों को असाइन की गई स्थिति
+Status Changes,स्थिति बदलाव
+Status updated,स्थिति अपडेट की गई
+Status:,स्थिति:
+Stop,रोकें
+Stop & Save,रोकें और सहेजें
+Stop Timer,टाइमर रोकें
+Stops current timer and starts for this event,वर्तमान टाइमर रोकता है और इस कार्यक्रम के लिए शुरू करता है
+Stops current timer and starts for this task,वर्तमान टाइमर रोकता है और इस कार्य के लिए शुरू करता है
+Subject,विषय
+Subject cannot exceed 255 characters,विषय 255 अक्षरों से अधिक नहीं हो सकता
+Subject is required,विषय आवश्यक है
+Submit,सबमिट करें
+Submit Another Request,एक और अनुरोध सबमिट करें
+Submit Request,अनुरोध सबमिट करें
+Submitting...,सबमिट किया जा रहा है...
+Successfully saved,सफलतापूर्वक सहेजा गया
+Successors (Blocking),उत्तरवर्ती (अवरुद्ध कर रहे)
+Sun,रवि
+Supplier,आपूर्तिकर्ता
+Support,सहायता
+Switch to this event,इस कार्यक्रम पर स्विच करें
+Switch to this task,इस कार्य पर स्विच करें
+Sync direction is set to Frappe to Orga only,सिंक दिशा केवल Frappe से Orga की ओर सेट है
+Sync direction is set to Orga to Frappe only,सिंक दिशा केवल Orga से Frappe की ओर सेट है
+Sync not enabled for this project,इस परियोजना के लिए सिंक सक्षम नहीं है
+System,सिस्टम
+Table,तालिका
+Take ownership of this task,इस कार्य का स्वामित्व लें
+Target Date,लक्ष्य तिथि
+Target End,लक्ष्य समाप्ति
+Target Project,लक्ष्य परियोजना
+Target user is required for '{0}' action,'{0}' कार्रवाई के लिए लक्ष्य उपयोगकर्ता आवश्यक है
+Task,कार्य
+task,कार्य
+Task '{0}' is due on {1}.,कार्य '{0}' की नियत तिथि {1} है।
+Task and resource are required,कार्य और संसाधन आवश्यक हैं
+Task Assignment,कार्य असाइनमेंट
+Task cannot be its own parent,कार्य स्वयं का पैरेंट नहीं हो सकता
+Task cannot depend on itself,कार्य स्वयं पर निर्भर नहीं हो सकता
+Task cannot depend on the group it belongs to,कार्य उस समूह पर निर्भर नहीं हो सकता जिसमें वह है
+Task created,कार्य बनाया गया
+Task deleted,कार्य हटाया गया
+Task description has been saved.,कार्य विवरण सहेजा गया है।
+Task Details,कार्य विवरण
+Task due in {0} days: {1},{0} दिनों में कार्य नियत: {1}
+Task due today: {0},आज नियत कार्य: {0}
+Task due tomorrow: {0},कल नियत कार्य: {0}
+Task duplicated,कार्य की प्रतिलिपि बनाई गई
+Task Group,कार्य समूह
+Task ID is required,कार्य ID आवश्यक है
+Task is blocked by incomplete dependencies,कार्य अपूर्ण निर्भरताओं द्वारा अवरुद्ध है
+Task is cancelled,कार्य रद्द किया गया है
+Task is completed,कार्य पूर्ण हो गया है
+Task is no longer blocked by a group,कार्य अब किसी समूह द्वारा अवरुद्ध नहीं है
+Task is required for task context,कार्य संदर्भ के लिए कार्य आवश्यक है
+Task is required when tracking context is 'task',जब ट्रैकिंग संदर्भ 'task' हो तो कार्य आवश्यक है
+Task linked,कार्य जोड़ा गया
+Task moved,कार्य ले जाया गया
+Task name,कार्य नाम
+Task name is required,कार्य नाम आवश्यक है
+Task removed from group,कार्य समूह से हटाया गया
+Task Subject,कार्य विषय
+Task subject is required,कार्य विषय आवश्यक है
+Task Type,कार्य प्रकार
+Task unblocked: {0},कार्य अनवरोधित: {0}
+Task unlinked,कार्य अनलिंक किया गया
+Task updated,कार्य अपडेट किया गया
+Task {0} not found,कार्य {0} नहीं मिला
+Task {0} not in project {1},कार्य {0} परियोजना {1} में नहीं है
+Task {0} to Frappe,कार्य {0} Frappe में
+Tasks,कार्य
+tasks,कार्य
+Tasks and milestones will be created with dates relative to the project start date.,कार्य और माइलस्टोन परियोजना आरंभ तिथि के सापेक्ष तिथियों के साथ बनाए जाएंगे।
+Tasks assigned to you across all projects.,सभी परियोजनाओं में आपको असाइन किए गए कार्य।
+Tasks created:,बनाए गए कार्य:
+Tasks from projects you manage.,आपके द्वारा प्रबंधित परियोजनाओं के कार्य।
+Tasks updated:,अपडेट किए गए कार्य:
+"Tasks, milestones, and dependencies have been created.","कार्य, माइलस्टोन, और निर्भरताएँ बनाई गई हैं।"
+Tasks:,कार्य:
+TBD,निर्धारित किया जाना है
+Team,टीम
+Team Members,टीम सदस्य
+Template,टेम्पलेट
+Template applied,टेम्पलेट लागू किया गया
+Template data is required in import data,आयात डेटा में टेम्पलेट डेटा आवश्यक है
+Template has no data,टेम्पलेट में कोई डेटा नहीं है
+Template Name,टेम्पलेट नाम
+Template name,टेम्पलेट नाम
+Template name is required,टेम्पलेट नाम आवश्यक है
+Template name is required in import data,आयात डेटा में टेम्पलेट नाम आवश्यक है
+Template saved,टेम्पलेट सहेजा गया
+Template updated successfully.,टेम्पलेट सफलतापूर्वक अपडेट किया गया।
+Template {0} not found,टेम्पलेट {0} नहीं मिला
+Templates,टेम्पलेट
+Tentative,अस्थायी
+The comment has been deleted,टिप्पणी हटा दी गई है
+The project,परियोजना
+The source document may have been deleted.,स्रोत दस्तावेज़ संभवतः हटा दिया गया है।
+The source document will not be affected.,स्रोत दस्तावेज़ प्रभावित नहीं होगा।
+The status of '{0}' was changed from {1} to {2}.,'{0}' की स्थिति {1} से {2} में बदल दी गई।
+Theme,थीम
+Theme preference,थीम प्राथमिकता
+This action,यह कार्रवाई
+This action cannot be undone.,यह कार्रवाई पूर्ववत नहीं की जा सकती।
+This activity has been flagged for attention,इस गतिविधि को ध्यान के लिए फ़्लैग किया गया है
+This is a reminder for your upcoming appointment,यह आपके आगामी अपॉइंटमेंट के लिए एक अनुस्मारक है
+This method is only meant for developer mode,यह विधि केवल डेवलपर मोड के लिए है
+This page wandered off,This page wandered off
+This Week,इस सप्ताह
+This will delete all notes and preferences associated with this activity.,यह इस गतिविधि से जुड़े सभी नोट और प्राथमिकताएँ हटा देगा।
+This will import all Frappe Projects into Orga. Continue?,यह सभी Frappe परियोजनाओं को Orga में आयात करेगा। जारी रखें?
+This will permanently delete,यह स्थायी रूप से हटा देगा
+This will permanently delete:,यह स्थायी रूप से हटा देगा:
+Thu,गुरु
+Time,समय
+Time & Billing,समय और बिलिंग
+Time & Revenue,समय और राजस्व
+Time Entries,समय प्रविष्टियाँ
+Time log name is required,समय प्रविष्टि का नाम आवश्यक है
+Time Log not found,समय प्रविष्टि नहीं मिली
+Time log {0} not found,समय प्रविष्टि {0} नहीं मिली
+Time Logs,समय प्रविष्टियाँ
+Time Summary,समय सारांश
+Time Tracking,समय ट्रैकिंग
+Timeline,समयरेखा
+Timer active on,टाइमर सक्रिय है
+Timer is not running,टाइमर नहीं चल रहा
+Timer Running,टाइमर चल रहा है
+Timer running,टाइमर चल रहा है
+Timesheet DocType not available,टाइमशीट DocType उपलब्ध नहीं है
+Timesheets,टाइमशीट
+Timezone,समय क्षेत्र
+Timezone is detected from your browser,समय क्षेत्र आपके ब्राउज़र से पहचाना गया है
+Title,शीर्षक
+Title cannot exceed 255 characters,शीर्षक 255 अक्षरों से अधिक नहीं हो सकता
+Title is required,शीर्षक आवश्यक है
+Title updated,शीर्षक अपडेट किया गया
+To,तक
+to,तक
+to cancel,रद्द करने के लिए
+to close,बंद करने के लिए
+to confirm:,पुष्टि करने के लिए:
+to edit,संपादित करने के लिए
+"to save,","सहेजने के लिए,"
+To Time cannot be before From Time,समाप्ति समय आरंभ समय से पहले नहीं हो सकता
+Today,आज
+today,आज
+Toggle billable,बिल योग्य टॉगल करें
+Toggle Details Panel,विवरण पैनल टॉगल करें
+Toggle Manager Panel,प्रबंधक पैनल टॉगल करें
+Toggle Sidebar,साइडबार टॉगल करें
+Tomorrow,कल
+tomorrow,कल
+Total,कुल
+Total Budget,कुल बजट
+Total Contacts,कुल संपर्क
+Total Cost,कुल लागत
+Total Cost to Org,संगठन की कुल लागत
+Total Defect Cost,कुल दोष लागत
+Total Hours,कुल घंटे
+Total Hours Logged,कुल दर्ज घंटे
+Total Projects,कुल परियोजनाएँ
+Total Spent,कुल खर्च
+Total Tasks,कुल कार्य
+Total:,कुल:
+Tracked,ट्रैक किया गया
+trails to today while Open at 0%,खुला रहते हुए 0% पर आज तक ट्रेल होता है
+Tried:,Tried:
+Try adjusting your filter criteria,अपने फ़िल्टर मानदंड समायोजित करने का प्रयास करें
+Try adjusting your filters.,अपने फ़िल्टर समायोजित करने का प्रयास करें।
+Try Again,पुनः प्रयास करें
+Tue,मंगल
+Type,प्रकार
+Type updated,प्रकार अपडेट किया गया
+Type:,प्रकार:
+Typical response time: 1-2 business days,सामान्य प्रतिक्रिया समय: 1-2 कार्य दिवस
+Unarchive,असंग्रहित करें
+Unarchive Activity,गतिविधि असंग्रहित करें
+Unassign,असाइनमेंट हटाएँ
+Unassigned,असाइन नहीं किया गया
+Under Budget,बजट के भीतर
+Ungrouped,असमूहित
+Unknown,अज्ञात
+Unknown error,अज्ञात त्रुटि
+Unlink failed,अनलिंक विफल
+Unlink task from milestone,कार्य को माइलस्टोन से अनलिंक करें
+Unpin,अनपिन करें
+Unpin Activity,गतिविधि अनपिन करें
+Unread,अपठित
+Unread only,केवल अपठित
+Until,तक
+Up to Date,Up to Date
+Upcoming,आगामी
+upcoming,आगामी
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,अपडेट विफल
+Updated,अपडेट किया गया
+Updated successfully,सफलतापूर्वक अपडेट किया गया
+Updates,Updates
+Upload,अपलोड
+Upload failed,अपलोड विफल
+Upload files below to attach them to this task.,इस कार्य से संलग्न करने के लिए नीचे फ़ाइलें अपलोड करें।
+Upload to project,परियोजना में अपलोड करें
+Uploading...,अपलोड हो रहा है...
+Urgent,अत्यावश्यक
+User {0} is already linked to client {1},उपयोगकर्ता {0} पहले से ग्राहक {1} से जुड़ा है
+User {0} is already linked to resource {1},उपयोगकर्ता {0} पहले से संसाधन {1} से जुड़ा है
+Utilization,उपयोग
+Valid,मान्य
+Value:,मान:
+Variance,विचलन
+Variance:,विचलन:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,देखें
+View All,सभी देखें
+View all active projects,सभी सक्रिय परियोजनाएँ देखें
+View all open tasks,सभी खुले कार्य देखें
+View overdue tasks,विलंबित कार्य देखें
+View Release,View Release
+Visibility,दृश्यता
+Waiting for this task,इस कार्य की प्रतीक्षा में
+Waits for:,प्रतीक्षा कर रहा है:
+Warning: Resource {0} status is {1},चेतावनी: संसाधन {0} की स्थिति {1} है
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,चेतावनी: HTTPS के बजाय HTTP का उपयोग हो रहा है। Webhook डेटा सुरक्षित नहीं हो सकता।
+Watch budget closely,बजट पर बारीकी से नज़र रखें
+We'll respond to:,हम इस पर उत्तर देंगे:
+Webhook deleted,Webhook हटाया गया
+Webhook name is required,Webhook नाम आवश्यक है
+Webhook not found,Webhook नहीं मिला
+Webhook URL is required,Webhook URL आवश्यक है
+Webhook URL must start with http:// or https://,Webhook URL http:// या https:// से शुरू होना चाहिए
+Wed,बुध
+Week,सप्ताह
+Weekend,सप्ताहांत
+Weekly Capacity,साप्ताहिक क्षमता
+weekly capacity,साप्ताहिक क्षमता
+Weekly Capacity (h),साप्ताहिक क्षमता (घं)
+Welcome,स्वागत
+Welcome back!,वापसी पर स्वागत!
+Welcome to Orga,Orga में आपका स्वागत है
+What are you working on?,आप किस पर काम कर रहे हैं?
+What did you work on?,आपने किस पर काम किया?
+When,कब
+When work begins,जब काम शुरू हो
+When work is due,जब काम नियत हो
+Where,कहाँ
+Will capture:,कैप्चर करेगा:
+Will create:,बनाएगा:
+with checklist items,चेकलिस्ट आइटम के साथ
+Working,काम कर रहा है
+Workload,कार्यभार
+Workmanship,कारीगरी
+Write a comment...,टिप्पणी लिखें...
+Write a comment... Use @name to mention (Ctrl+Enter to send),टिप्पणी लिखें... उल्लेख के लिए @नाम का उपयोग करें (भेजने के लिए Ctrl+Enter)
+Year,वर्ष
+Yes,हाँ
+Yesterday,कल
+yesterday,कल
+You are not an attendee of this appointment,आप इस अपॉइंटमेंट के सहभागी नहीं हैं
+You are not linked to any resource,आप किसी संसाधन से जुड़े नहीं हैं
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,आप केवल अपनी टिप्पणियाँ हटा सकते हैं
+You can only delete your own reactions,आप केवल अपनी प्रतिक्रियाएँ हटा सकते हैं
+You do not have access to the client portal. Please contact support.,आपकी ग्राहक पोर्टल तक पहुँच नहीं है। कृपया सहायता से संपर्क करें।
+You have already reacted with '{0}',आपने पहले से '{0}' प्रतिक्रिया दी है
+You have been assigned to task '{0}' in project '{1}'.,आपको परियोजना '{1}' में कार्य '{0}' असाइन किया गया है।
+You have been assigned to: {0},आपको असाइन किया गया है: {0}
+You have been invited to the following appointment,आपको निम्नलिखित अपॉइंटमेंट के लिए आमंत्रित किया गया है
+You have no tasks assigned to you right now.,अभी आपको कोई कार्य असाइन नहीं किया गया है।
+You were mentioned in {0},आपका उल्लेख {0} में किया गया
+Your attendance,आपकी उपस्थिति
+Your comment has been posted,आपकी टिप्पणी पोस्ट की गई है
+Your Projects,आपकी परियोजनाएँ
+Your projects will appear here once they're assigned to you.,आपकी परियोजनाएँ यहाँ दिखाई देंगी जब वे आपको असाइन की जाएँगी।
+Your Response,आपका उत्तर
+Your RSVP,आपका RSVP
+Your support request has been submitted successfully.,आपका सहायता अनुरोध सफलतापूर्वक सबमिट किया गया है।
+Your support request has been submitted successfully. We'll get back to you shortly.,आपका सहायता अनुरोध सफलतापूर्वक सबमिट किया गया है। हम जल्द ही आपसे संपर्क करेंगे।
+"Your task ""{0}"" is no longer blocked and can now be started.","आपका कार्य ""{0}"" अब अवरुद्ध नहीं है और अब शुरू किया जा सकता है।"
+{0} is required,{0} आवश्यक है
+{0} new activities,{0} नई गतिविधियाँ
+{0} of {1} completed,{1} में से {0} पूर्ण
+{0} projects already migrated (will be skipped or updated),{0} परियोजनाएँ पहले से माइग्रेट (छोड़ी जाएंगी या अपडेट की जाएंगी)
+{0} status changed to {1},{0} की स्थिति {1} में बदली गई
+{0} tasks remaining,{0} कार्य शेष
+{0} tasks without projects will be skipped,परियोजनाओं के बिना {0} कार्य छोड़ दिए जाएंगे
+{0} {1} not found,{0} {1} नहीं मिला

@@ -1,0 +1,1492 @@
++ Add Milestone,+ Voeg mylpaal by
++ Create Task,+ Skep taak
++ Log Time,+ Teken tyd aan
+-- Select a project --,-- Kies 'n projek --
+0m,0m
+1 day,1 dag
+1 day ago,1 dag gelede
+1 dependency,1 afhanklikheid
+1 entry,1 inskrywing
+1 file,1 lêer
+1 hour ago,1 uur gelede
+1 member,1 lid
+1 milestone,1 mylpaal
+1 month,1 maand
+1 task,1 taak
+< 1m,< 1m
+"A clear, actionable title for the task","'n Duidelike, uitvoerbare titel vir die taak"
+A client with email {0} already exists: {1},'n Kliënt met e-posadres {0} bestaan reeds: {1}
+A key deliverable or checkpoint for the project,'n Belangrike aflewering of kontrolepunt vir die projek
+Accept,Aanvaar
+Accepted,Aanvaar
+Acknowledge,Bevestig
+across,oor
+Action,Aksie
+Actions,Aksies
+Active,Aktief
+Active Assignments,Aktiewe toekennings
+Active Projects,Aktiewe projekte
+Activity,Aktiwiteit
+Activity data deleted successfully,Aktiwiteitsdata suksesvol verwyder
+Activity Info,Aktiwiteitsinligting
+Activity Stats,Aktiwiteitsstatistieke
+Activity will appear here as you work on tasks and projects.,Aktiwiteit sal hier verskyn soos u aan take en projekte werk.
+Actual,Werklik
+Actual Cost,Werklike koste
+Actual cost cannot be negative,Werklike koste kan nie negatief wees nie
+Actual end date cannot be before actual start date,Die werklike einddatum kan nie voor die werklike begindatum wees nie
+Actual Hours,Werklike ure
+Add,Voeg by
+Add a checklist item...,Voeg 'n kontrolelysitem by...
+Add a comment...,Voeg 'n opmerking by...
+Add a comment... (Ctrl+Enter to send),Voeg 'n opmerking by... (Ctrl+Enter om te stuur)
+Add a description...,Voeg 'n beskrywing by...
+Add a milestone description...,Voeg 'n mylpaalbeskrywing by...
+Add a note below to annotate this activity.,Voeg 'n nota hieronder by om hierdie aktiwiteit te annoteer.
+Add a note...,Voeg 'n nota by...
+Add a project description...,Voeg 'n projekbeskrywing by...
+Add a task description...,Voeg 'n taakbeskrywing by...
+Add checklist item...,Voeg kontrolelysitem by...
+Add Contact,Voeg kontak by
+Add contacts via the Desk interface or clear filters,Voeg kontakte by via die Desk-koppelvlak of maak filters skoon
+Add Dependency,Voeg afhanklikheid by
+Add details about this event...,Voeg besonderhede oor hierdie geleentheid by...
+Add details about this milestone...,Voeg besonderhede oor hierdie mylpaal by...
+Add details about this task...,Voeg besonderhede oor hierdie taak by...
+Add details or acceptance criteria for this milestone,Voeg besonderhede of aanvaardingskriteria vir hierdie mylpaal by
+"Add details, context, or acceptance criteria","Voeg besonderhede, konteks of aanvaardingskriteria by"
+Add first dependency,Voeg eerste afhanklikheid by
+Add item,Voeg item by
+Add items below to track progress.,Voeg items hieronder by om vordering na te spoor.
+Add items below to track subtasks,Voeg items hieronder by om subtake na te spoor
+Add Milestone,Voeg mylpaal by
+Add Milestone (Shift+M),Voeg mylpaal by (Shift+M)
+Add milestones to track key deliverables.,Voeg mylpale by om belangrike aflewerings na te spoor.
+Add New Contact,Voeg nuwe kontak by
+Add Note,Voeg nota by
+Add note,Voeg nota by
+Add notes about this contact...,Voeg notas oor hierdie kontak by...
+Add reaction,Voeg reaksie by
+Add Skill,Voeg vaardigheid by
+Add start and due dates to tasks to see them on the Gantt chart,Voeg begin- en sperdatums by take by om hulle op die Gantt-grafiek te sien
+Add Task,Voeg taak by
+Add Task (Shift+T),Voeg taak by (Shift+T)
+Added Finish-to-Start dependency,Einde-na-Begin-afhanklikheid bygevoeg
+Adding this dependency would create a circular reference: {0},Die byvoeging van hierdie afhanklikheid sal 'n kringverwysing skep: {0}
+Adding...,Besig om by te voeg...
+Address,Adres
+Advanced,Gevorderd
+All,Alle
+All Active,Alle aktiewe
+All Assignees,Alle toegekendes
+All Categories,Alle kategorieë
+All caught up!,Alles is bygewerk!
+All Contexts,Alle kontekste
+All day,Heeldag
+All day event,Heeldaggeleentheid
+All fields,Alle velde
+All Priorities,Alle prioriteite
+All Projects,Alle projekte
+All Status,Alle statusse
+All Statuses,Alle statusse
+All task dependencies & relative dates,Alle taakafhanklikhede en relatiewe datums
+All Tasks,Alle take
+All tasks across all projects.,Alle take oor alle projekte.
+All tasks are already linked,Alle take is reeds gekoppel
+All team members,Alle spanlede
+All Types,Alle tipes
+All Users,Alle gebruikers
+Allocated,Toegeken
+allocated,toegeken
+Allow users to log time against tasks,Laat gebruikers toe om tyd teen take aan te teken
+Already exported to timesheet {0},Reeds na tydstaat {0} uitgevoer
+Already Migrated,Reeds gemigreer
+Anyone with access,Enigiemand met toegang
+anytime to show this help,enige tyd om hierdie hulp te wys
+App Updates,App Updates
+Appearance,Voorkoms
+Apply,Pas toe
+Apply cascade?,Pas kaskade toe?
+Apply Changes,Pas veranderings toe
+Apply failed,Toepassing het misluk
+Apply Template,Pas sjabloon toe
+Applying...,Besig om toe te pas...
+Appointment,Afspraak
+Appointment and resource are required,Afspraak en kontakpersoon word vereis
+Appointment name is required,Die afspraaknaam word vereis
+Appointment not found,Afspraak nie gevind nie
+Appointment {0} not found,Afspraak {0} nie gevind nie
+Apps,Toepassings
+Archive,Argiveer
+Archive Activity,Argiveer aktiwiteit
+Archived,Geargiveer
+Are you sure you want to delete this activity data? This cannot be undone.,Is u seker u wil hierdie aktiwiteitsdata verwyder? Dit kan nie ongedaan gemaak word nie.
+Are you sure you want to delete this comment?,Is u seker u wil hierdie opmerking verwyder?
+Are you sure you want to delete this project?,Is u seker u wil hierdie projek verwyder?
+Are you sure?,Is u seker?
+Ascending -- click to reverse,Stygende volgorde -- klik om om te keer
+Assign To,Ken toe aan
+Assign to Me,Ken aan my toe
+Assigned Contact,Toegekende kontak
+Assigned To,Toegeken aan
+Assigned to,Toegeken aan
+Assigned to Me,Aan my toegeken
+Assignee,Toegekende
+Assignment,Toekenning
+Assignment History,Toekenningsgeskiedenis
+Assignment name is required,Die toekenningsnaam word vereis
+Assignment {0} not found,Toekenning {0} nie gevind nie
+Assignments,Toekennings
+At least one action is required,Minstens een aksie word vereis
+At least one event is required,Minstens een geleentheid word vereis
+At least one event must be selected,Minstens een geleentheid moet gekies word
+Attachment,Aanhegsel
+Attachments,Aanhegsels
+Attendees,Bywoners
+"Audit trail, assignments, version history","Ouditspoor, toekennings, weergawegeskiedenis"
+Auto,Outomaties
+Auto Calculate Progress,Bereken vordering outomaties
+Auto Set Missed Milestones,Merk gemiste mylpale outomaties
+Auto-shift dependents when dates change,Skuif afhanklike take outomaties wanneer datums verander
+Auto-Trail Start,Outomatiese opskuif by begin
+Auto-Trail updated,Outomatiese opskuif bygewerk
+Automatically calculate project progress from task completion,Bereken projekvordering outomaties uit taakvoltooiing
+Automatically mark milestones as missed when overdue,Merk mylpale outomaties as gemis wanneer hulle agterstallig is
+Automation rule {0} not found,Outomatiseringsreël {0} nie gevind nie
+Automation: {0},Outomatisering: {0}
+Availability,Beskikbaarheid
+Available,Beskikbaar
+Avatar updated successfully,Avatar suksesvol bygewerk
+Avg Progress,Gem. vordering
+Back,Terug
+Back to Portal,Terug na portaal
+Back to Projects,Terug na projekte
+Beginner,Beginner
+Best regards,Vriendelike groete
+Billable,Faktureerbaar
+Billable Amount,Faktureerbare bedrag
+Billable Hours,Faktureerbare ure
+Billable Rate,Faktureerbare tarief
+Billing Rate,Faktureringstarief
+Blocked,Geblokkeer
+Both dates are needed to display task as a bar in Gantt chart,Beide datums is nodig om die taak as 'n staaf op die Gantt-grafiek te vertoon
+Both doctype and docname are required,Beide doctype en docname word vereis
+Both proposed start and end times are required,Beide voorgestelde begin- en eindtye word vereis
+Both task_name and depends_on are required,Beide task_name en depends_on word vereis
+Breadcrumb,Broodkrummelpad
+Brief description of the defect or damage,Kort beskrywing van die gebrek of skade
+Brief description of this template,Kort beskrywing van hierdie sjabloon
+Brief description of your request,Kort beskrywing van u versoek
+Brief project description,Kort projekbeskrywing
+Budget,Begroting
+Budget at risk,Begroting in gevaar
+Budget Burn Rate,Begrotingsverbruikstempo
+Budget Status,Begrotingstatus
+Budget updated,Begroting bygewerk
+Budget:,Begroting:
+Bug,Fout
+Burn Rate,Verbruikstempo
+Busy,Besig
+By,Deur
+By Assignee,Volgens toegekende
+By Group,Volgens groep
+By Milestone,Volgens mylpaal
+By Priority,Volgens prioriteit
+By Status,Volgens status
+Cancel,Kanselleer
+Cancelled,Gekanselleer
+cannot be undone,kan nie ongedaan gemaak word nie
+Cannot delete client with {0} linked projects. Unlink projects first.,Kan nie kliënt met {0} gekoppelde projekte verwyder nie. Ontkoppel eers die projekte.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Kan nie projek met {0} gekoppelde take verwyder nie. Verwyder eers die take.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Kan nie kontakpersoon met {0} aktiewe toekennings verwyder nie. Voltooi of kanselleer hulle eers.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Kan nie taak met {0} subtake verwyder nie. Verwyder eers die subtake.
+Capacity,Kapasiteit
+capacity,kapasiteit
+Capacity & Rates,Kapasiteit en tariewe
+Capture project structure for reuse,Vang projekstruktuur vas vir hergebruik
+Cascade,Kaskade
+Cascade Preview,Kaskade-voorskou
+Category,Kategorie
+Celebrate,Vier
+Change,Verander
+Change History,Veranderingsgeskiedenis
+Change Priority,Verander prioriteit
+Change Status,Verander status
+Changes,Veranderings
+Changes appear when fields are modified.,Veranderings verskyn wanneer velde gewysig word.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Kontrolelys
+Checklist item name is required,Die kontrolelysitemnaam word vereis
+Checklist item not found,Kontrolelysitem nie gevind nie
+Checklist item title is required,Die kontrolelysitemtitel word vereis
+Checklist item {0} not found,Kontrolelysitem {0} nie gevind nie
+Checklist item {0} not found in task,Kontrolelysitem {0} nie in taak gevind nie
+Child,Kind
+Choose file to upload,Kies lêer om op te laai
+Circular dependency detected: {0},Kringafhanklikheid bespeur: {0}
+Circular parent-child relationship detected,Kringouer-kind-verhouding bespeur
+Clear,Maak skoon
+Clear all read,Maak alle geleesdes skoon
+Clear date,Maak datum skoon
+Click on an activity from the list to view and manage its details.,Klik op 'n aktiwiteit in die lys om die besonderhede te bekyk en te bestuur.
+Click the avatar to upload a new photo,Klik op die avatar om 'n nuwe foto op te laai
+Click to add description...,Klik om beskrywing by te voeg...
+Click to add notes...,Klik om notas by te voeg...
+Click to assign contact,Klik om kontak toe te ken
+Click to change status,Klik om status te verander
+Click to change type,Klik om tipe te verander
+Click to edit,Klik om te wysig
+Click to edit budget,Klik om begroting te wysig
+Click to edit description,Klik om beskrywing te wysig
+Click to edit end date,Klik om einddatum te wysig
+Click to edit milestone name,Klik om mylpaalnaam te wysig
+Click to edit rate,Klik om tarief te wysig
+Click to edit start date,Klik om begindatum te wysig
+Click to edit title,Klik om titel te wysig
+Click to load,Klik om te laai
+Click to set group dependency...,Klik om groepafhanklikheid in te stel...
+Click to set group...,Klik om groep in te stel...
+Click to view,Klik om te bekyk
+Click to view at-risk projects,Klik om risiko-projekte te bekyk
+Click to view critical projects,Klik om kritieke projekte te bekyk
+Click to view healthy projects,Klik om gesonde projekte te bekyk
+Client,Kliënt
+Client already has a portal user: {0},Kliënt het reeds 'n portaalgebruiker: {0}
+Client already has portal access,Kliënt het reeds portaaltoegang
+Client has no portal user to revoke,Kliënt het geen portaalgebruiker om te herroep nie
+Client link removed from project {0},Kliëntskakel verwyder van projek {0}
+Client Portal,Kliënteportaal
+Client {0} deleted successfully,Kliënt {0} suksesvol verwyder
+Close,Sluit
+Close (Esc),Sluit (Esc)
+Comment,Opmerking
+comment,opmerking
+Comment added,Opmerking bygevoeg
+Comment content is required,Die opmerkingsinhoud word vereis
+Comment name is required,Die opmerkingsnaam word vereis
+Comment not found,Opmerking nie gevind nie
+Comment removed,Opmerking verwyder
+Comment {0} not found in task,Opmerking {0} nie in taak gevind nie
+Comments,Opmerkings
+comments,opmerkings
+Community Edition,Community Edition
+Company,Maatskappy
+Company name...,Maatskappynaam...
+Complete,Voltooi
+Completed,Voltooi
+completed,voltooi
+Completed Tasks,Voltooide take
+Compliance,Nakoming
+Configure default values for new projects and tasks,Stel verstekwaardes in vir nuwe projekte en take
+Configure email notification settings,Stel e-poskennisgewinginstellings in
+Confirm,Bevestig
+Contact deleted,Kontak verwyder
+Contact Details,Kontakbesonderhede
+Contact Information,Kontakinligting
+Contact name is required,Die kontaknaam word vereis
+Contact Support,Kontak ondersteuning
+Contact your project manager for more information.,Kontak u projekbestuurder vir meer inligting.
+Contact:,Kontak:
+Contacts,Kontakte
+Context,Konteks
+Contractor,Kontrakteur
+Cost estimate cannot be negative,Kosteraming kan nie negatief wees nie
+Cost Impact,Koste-impak
+Cost Summary,Koste-opsomming
+Could not apply the template. Please try again.,Kon nie die sjabloon toepas nie. Probeer asseblief weer.
+Could not attach file to project,Kon nie lêer aan projek heg nie
+Could not change task priority,Kon nie taakprioriteit verander nie
+Could not change task status,Kon nie taakstatus verander nie
+Could not delete the project. Please try again.,Kon nie die projek verwyder nie. Probeer asseblief weer.
+Could not delete the task. Please try again.,Kon nie die taak verwyder nie. Probeer asseblief weer.
+Could not delete the template.,Kon nie die sjabloon verwyder nie.
+Could not duplicate the task. Please try again.,Kon nie die taak dupliseer nie. Probeer asseblief weer.
+Could not export the template.,Kon nie die sjabloon uitvoer nie.
+Could not import the template. Please check the file format.,Kon nie die sjabloon invoer nie. Kontroleer asseblief die lêerformaat.
+Could not link task to milestone,Kon nie taak aan mylpaal koppel nie
+Could not load document details.,Kon nie dokumentbesonderhede laai nie.
+Could not load task details,Kon nie taakbesonderhede laai nie
+Could not promote checklist item to task.,Kon nie kontrolelysitem tot taak bevorder nie.
+Could not remove task from milestone,Kon nie taak van mylpaal verwyder nie
+Could not save budget.,Kon nie begroting stoor nie.
+Could not save changes to the milestone,Kon nie veranderings aan die mylpaal stoor nie
+Could not save changes to the task,Kon nie veranderings aan die taak stoor nie
+Could not save description.,Kon nie beskrywing stoor nie.
+Could not save end date.,Kon nie einddatum stoor nie.
+Could not save milestone name.,Kon nie mylpaalnaam stoor nie.
+Could not save start date.,Kon nie begindatum stoor nie.
+Could not save the template. Please try again.,Kon nie die sjabloon stoor nie. Probeer asseblief weer.
+Could not save title.,Kon nie titel stoor nie.
+Could not update dependency mode.,Kon nie afhanklikheidsmodus bywerk nie.
+Could not update milestone date,Kon nie mylpaaldatum bywerk nie
+Could not update project status.,Kon nie projekstatus bywerk nie.
+Could not update project type.,Kon nie projektipe bywerk nie.
+Could not update setting.,Kon nie instelling bywerk nie.
+Could not update task dates,Kon nie taakdatums bywerk nie
+Could not update task status,Kon nie taakstatus bywerk nie
+Could not update the template.,Kon nie die sjabloon bywerk nie.
+Create a copy of this task,Skep 'n kopie van hierdie taak
+Create Contact,Skep kontak
+Create Event,Skep geleentheid
+Create Milestone,Skep mylpaal
+Create New Milestone,Skep nuwe mylpaal
+Create New Task,Skep nuwe taak
+Create Project,Skep projek
+Create Task,Skep taak
+Create tasks and milestones from a template,Skep take en mylpale uit 'n sjabloon
+Create your first project to get started.,Skep u eerste projek om te begin.
+Create your first task to start tracking work on this project.,Skep u eerste taak om die werk aan hierdie projek na te spoor.
+Created,Geskep
+Creating...,Besig om te skep...
+Critical,Kritiek
+Critical Path,Kritieke pad
+"Currency used for budgets, costs, and billing rates","Geldeenheid gebruik vir begrotings, koste en faktureringstariewe"
+Current,Huidig
+Current Assignments,Huidige toekennings
+Current scheduled time:,Huidige geskeduleerde tyd:
+Currently running version,Currently running version
+d lag,d vertraging
+Daily Availability,Daaglikse beskikbaarheid
+Daily Hours,Daaglikse ure
+Danger Zone,Gevaarsone
+Dark,Donker
+Dashboard,Kontroleskerm
+Date,Datum
+Date changes on this task will show cascade impact here,Datumveranderings op hierdie taak sal die kaskade-impak hier wys
+Date cleared,Datum skoongemaak
+Date of Joining,Datum van indiensneming
+Date updated,Datum bygewerk
+Dates,Datums
+Dates cascaded,Datums gekaskadeer
+Dates will be relative to the project's start date.,Datums sal relatief tot die projek se begindatum wees.
+Day,Dag
+day,dag
+days,dae
+Days before due date to send reminder,Dae voor sperdatum om herinnering te stuur
+Days Overdue,Dae agterstallig
+Days Remaining,Oorblywende dae
+Deadline,Sperdatum
+Deadlines,Sperdatums
+Decision,Besluit
+Decline,Wys af
+Declined,Afgewys
+Default Currency,Verstekgeldeenheid
+Default hours per week for contact capacity planning,Verstek ure per week vir kontakkapasiteitbeplanning
+Default Priority,Verstekprioriteit
+Default Project Status,Verstekprojekstatus
+Default Task Status,Verstektaakstatus
+Default task view,Verstek taakweergawe
+Default Values,Verstekwaardes
+Default Weekly Capacity,Verstek weeklikse kapasiteit
+Defaults,Verstekwaardes
+Defect Cost Impact,Koste-impak van gebrek
+Defect name is required,Die gebreknaam word vereis
+Defect Type,Gebrektipe
+Defect {0} not found,Gebrek {0} nie gevind nie
+Defects,Gebreke
+Defects & Issues,Gebreke en probleme
+Defects Resolved,Gebreke opgelos
+Delayed,Vertraag
+Delete,Verwyder
+Delete Activity Data,Verwyder aktiwiteitsdata
+Delete all read notifications?,Verwyder alle gelees kennisgewings?
+Delete comment,Verwyder opmerking
+Delete Contact,Verwyder kontak
+Delete Event,Verwyder geleentheid
+Delete Event?,Verwyder geleentheid?
+Delete failed,Verwydering het misluk
+Delete file,Verwyder lêer
+Delete item,Verwyder item
+Delete note,Verwyder nota
+Delete Project,Verwyder projek
+Delete Task,Verwyder taak
+Delete this project,Verwyder hierdie projek
+Deleted,Verwyder
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Projek ""{0}"" verwyder ({1} take, {2} mylpale)"
+Deletes notes and preferences. Source document is not affected.,Verwyder notas en voorkeure. Die brondokument word nie geraak nie.
+Deleting...,Besig om te verwyder...
+Department,Afdeling
+Dependencies,Afhanklikhede
+dependencies,afhanklikhede
+Dependencies are informational only,Afhanklikhede is slegs vir inligting
+dependency,afhanklikheid
+Dependency already exists,Afhanklikheid bestaan reeds
+Dependency Chain,Afhanklikheidsketting
+Dependency created,Afhanklikheid geskep
+Dependency mode updated,Afhanklikheidsmodus bygewerk
+Dependency name is required,Die afhanklikheidsnaam word vereis
+Dependency task {0} not found,Afhanklikheidstaak {0} nie gevind nie
+Dependency {0} not found,Afhanklikheid {0} nie gevind nie
+depends,is afhanklik
+Depends on Group,Afhanklik van groep
+Depends on task is required,Die afhanklike taak word vereis
+depends on...,is afhanklik van...
+Descending -- click to reverse,Dalende volgorde -- klik om om te keer
+Describe the defect in detail...,Beskryf die gebrek in detail...
+Description,Beskrywing
+Description updated,Beskrywing bygewerk
+Designation,Benaming
+"Detailed description of the defect, location, and impact","Gedetailleerde beskrywing van die gebrek, ligging en impak"
+Details,Besonderhede
+Discard timer,Gooi tydhouer weg
+Discussion,Bespreking
+Dismiss,Dismiss
+Display,Vertoon
+Document,Dokument
+Document attached to project,Dokument aan projek geheg
+Document final decision and rationale,Dokumenteer finale besluit en motivering
+Documentation Review,Dokumentasieoorsig
+Documents,Dokumente
+Done,Klaar
+Download,Aflaai
+Drag to create dependency,Sleep om afhanklikheid te skep
+Dry Run,Toetslopie
+Dry Run Complete,Toetslopie voltooi
+Due Date,Sperdatum
+Due date,Sperdatum
+Due Date (Earliest),Sperdatum (vroegste)
+Due date cannot be before start date,Die sperdatum kan nie voor die begindatum wees nie
+Due date is in the past,Die sperdatum is in die verlede
+Due Date Reminders,Sperdatumherinneringe
+Due Diligence,Omsigtigheidsondersoek
+Due Diligence Checklist,Kontrolelys vir omsigtigheidsondersoek
+Due This Week,Hierdie week verskuldig
+Due:,Sperdatum:
+Duplicate events are not allowed,Duplikaat-geleenthede word nie toegelaat nie
+Duplicate failed,Duplisering het misluk
+Duplicate Task,Dupliseer taak
+Duration,Duur
+Duration Summary,Duuropsomming
+Duration:,Duur:
+e.g. Cracked wall finish in bathroom...,bv. Gebarste muurafwerking in badkamer...
+"e.g. Electrical, Plumbing...","bv. Elektries, Loodgieterswerk..."
+Edit,Wysig
+Edit (E),Wysig (E)
+Edit dependency,Wysig afhanklikheid
+Edit Event,Wysig geleentheid
+Efficiency,Doeltreffendheid
+Either dependency_name or depends_on is required,dependency_name of depends_on word vereis
+Email,E-pos
+Email invitations to all attendees,E-posuitnodigings aan alle bywoners
+Email is required to create portal user,E-posadres word vereis om portaalgebruiker te skep
+Email notifications,E-poskennisgewings
+Employee,Werknemer
+Employee DocType not available,DocType Werknemer nie beskikbaar nie
+Employee not found,Werknemer nie gevind nie
+Enable or disable optional features,Aktiveer of deaktiveer opsionele kenmerke
+Enable Time Tracking,Aktiveer tydaantekening
+End,Einde
+End Date,Einddatum
+End date,Einddatum
+End Date cannot be before Start Date,Die einddatum kan nie voor die begindatum wees nie
+End date cannot be before start date,Die einddatum kan nie voor die begindatum wees nie
+End date updated,Einddatum bygewerk
+End time was before start time. Adjusted to 1 hour after start.,Die eindtyd was voor die begintyd. Aangepas na 1 uur na die begin.
+End:,Einde:
+Enter milestone name...,Voer mylpaalnaam in...
+Enter project name,Voer projeknaam in
+Enter task title...,Voer taaktitel in...
+Enter template name,Voer sjabloonnaam in
+Enter your note... Use @name to mention someone,Voer u nota in... Gebruik @naam om iemand te noem
+Error,Fout
+Error loading activity,Fout met die laai van aktiwiteit
+Error loading contacts,Fout met die laai van kontakte
+Error loading dashboard,Fout met die laai van die kontroleskerm
+Error loading project,Fout met die laai van die projek
+Error loading projects,Fout met die laai van projekte
+Error loading settings,Fout met die laai van instellings
+Error loading tasks,Fout met die laai van take
+Error loading templates,Fout met die laai van sjablone
+Est. Hours,Gesk. ure
+Estimated,Geskat
+Estimated Cost,Geskatte koste
+Estimated Cost (€),Geskatte koste (€)
+Estimated Hours,Geskatte ure
+Estimated:,Geskat:
+Evaluate potential risks and concerns,Evalueer moontlike risiko's en bekommernisse
+Event,Geleentheid
+Event is required for event context,Geleentheid word vereis vir geleentheidskonteks
+Event is required when tracking context is 'event',Geleentheid word vereis wanneer die spoorkonteks 'geleentheid' is
+Event Type,Geleentheidstipe
+Events,Geleenthede
+Events not available. Please run: bench --site orga.localhost migrate,Geleenthede nie beskikbaar nie. Voer asseblief uit: bench --site orga.localhost migrate
+Events:,Geleenthede:
+Expert,Kenner
+Explain why you are proposing a different time...,Verduidelik waarom u 'n ander tyd voorstel...
+Export,Voer uit
+Export failed,Uitvoer het misluk
+Export JSON,Voer uit as JSON
+Exported,Uitgevoer
+Exported to timesheet {0},Uitgevoer na tydstaat {0}
+External,Ekstern
+Failed to add item,Kon nie item byvoeg nie
+Failed to add note,Kon nie nota byvoeg nie
+Failed to add skill,Kon nie vaardigheid byvoeg nie
+Failed to apply cascade changes: {0},Kon nie kaskade-veranderings toepas nie: {0}
+Failed to create defect,Kon nie gebrek skep nie
+Failed to create dependency,Kon nie afhanklikheid skep nie
+Failed to create event,Kon nie geleentheid skep nie
+Failed to create milestone,Kon nie mylpaal skep nie
+Failed to create project,Kon nie projek skep nie
+Failed to create task,Kon nie taak skep nie
+Failed to create time log,Kon nie tydinskrywing skep nie
+Failed to delete,Kon nie verwyder nie
+Failed to delete comment,Kon nie opmerking verwyder nie
+Failed to delete contact,Kon nie kontak verwyder nie
+Failed to load,Kon nie laai nie
+Failed to load activity,Kon nie aktiwiteit laai nie
+Failed to load assignments,Kon nie toekennings laai nie
+Failed to load contact,Kon nie kontak laai nie
+Failed to load dashboard data,Kon nie kontroleskermdata laai nie
+Failed to load defects,Kon nie gebreke laai nie
+Failed to load events,Kon nie geleenthede laai nie
+Failed to load project,Kon nie projek laai nie
+Failed to load projects,Kon nie projekte laai nie
+Failed to load report data,Kon nie verslagdata laai nie
+Failed to load settings,Kon nie instellings laai nie
+Failed to load tasks,Kon nie take laai nie
+Failed to move task,Kon nie taak skuif nie
+Failed to post comment,Kon nie opmerking plaas nie
+Failed to propose new time,Kon nie nuwe tyd voorstel nie
+Failed to remove item,Kon nie item verwyder nie
+Failed to remove skill,Kon nie vaardigheid verwyder nie
+Failed to reorder milestones: {0},Kon nie mylpale herrangskik nie: {0}
+Failed to reorder tasks: {0},Kon nie take herrangskik nie: {0}
+Failed to reschedule dependent tasks: {0},Kon nie afhanklike take herskeduleer nie: {0}
+Failed to save,Kon nie stoor nie
+Failed to save preferences,Kon nie voorkeure stoor nie
+Failed to save settings,Kon nie instellings stoor nie
+Failed to submit request. Please try again.,Kon nie versoek indien nie. Probeer asseblief weer.
+Failed to update item,Kon nie item bywerk nie
+Failed to update priority,Kon nie prioriteit bywerk nie
+Failed to update task,Kon nie taak bywerk nie
+Failed to update tasks: {0},Kon nie take bywerk nie: {0}
+Failed to upload avatar,Kon nie avatar oplaai nie
+Feature,Kenmerk
+Features,Kenmerke
+FF (Finish-Finish),FF (Einde-Einde)
+FF - Finish-to-Finish,FF - Einde-na-Einde
+Field has been updated,Veld is bygewerk
+Field name is required for 'Set Field Value' action,Veldnaam word vereis vir die 'Stel veldwaarde in'-aksie
+Field {0} is not a Link field,Veld {0} is nie 'n koppelveld nie
+Field {0} not found in {1},Veld {0} nie in {1} gevind nie
+File,Lêer
+file,lêer
+File does not belong to this task,Lêer behoort nie aan hierdie taak nie
+File name is required,Die lêernaam word vereis
+File uploaded,Lêer opgelaai
+File {0} not found,Lêer {0} nie gevind nie
+Files,Lêers
+files,lêers
+Filter,Filter
+Final Decision,Finale besluit
+Finance,Finansies
+Financial,Finansieel
+Finish-to-Finish,Einde-na-Einde
+Finish-to-Start,Einde-na-Begin
+Flag,Merk
+Flag for attention,Merk vir aandag
+Flagged,Gemerk
+Focus Panel,Fokuspaneel
+Follows your system preference. Currently:,Volg u stelselvoorkeur. Tans:
+Frappe Project {0} not found,Frappe-projek {0} nie gevind nie
+Frappe Projects Migration,Frappe Projects-migrasie
+Frappe Projects module not available,Frappe Projects-module nie beskikbaar nie
+Frappe Projects module not installed,Frappe Projects-module nie geïnstalleer nie
+Frappe Projects sync is not enabled,Frappe Projects-sinkronisasie is nie geaktiveer nie
+Frappe Task DocType not found,Frappe-taak-DocType nie gevind nie
+Frappe Task has no project,Frappe-taak het geen projek nie
+Frappe Task {0} not found,Frappe-taak {0} nie gevind nie
+Fri,Vr
+From,Van
+From Template,Uit sjabloon
+FS (Finish-Start),FS (Einde-Begin)
+FS - Finish-to-Start (default),FS - Einde-na-Begin (verstek)
+Full form view with audit trail,Volle vormweergawe met ouditspoor
+Full name,Volle naam
+Gantt,Gantt
+Gantt Chart,Gantt-grafiek
+Gantt View,Gantt-weergawe
+General Note,Algemene nota
+Get started,Begin
+Go back,Gaan terug
+Go Back,Go Back
+Group by,Groepeer volgens
+Group dependency removed,Groepafhanklikheid verwyder
+Group dependency set,Groepafhanklikheid ingestel
+Group removed,Groep verwyder
+Group updated,Groep bygewerk
+Hammock task dates are auto-calculated and cannot be changed manually,Hangmat-taakdatums word outomaties bereken en kan nie handmatig verander word nie
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Het u 'n vraag of hulp nodig? Vul die vorm hieronder in en ons span sal u kontak.
+Health,Gesondheid
+Healthy,Gesond
+Hello {0},Hallo {0}
+Here's what's happening with your projects today.,Hier is wat vandag met u projekte gebeur.
+Hide,Versteek
+High,Hoog
+History,Geskiedenis
+Home,Tuis
+Hourly Cost,Koste per uur
+Hours,Ure
+hours,ure
+Hours Logged,Ure aangeteken
+ID,ID
+Image must be smaller than 5 MB,Beeld moet kleiner as 5 MB wees
+Import,Voer in
+Import existing projects and tasks from Frappe Projects module,Voer bestaande projekte en take in uit die Frappe Projects-module
+Import failed,Invoer het misluk
+Import Template,Voer sjabloon in
+Imported,Ingevoer
+in,in
+In Progress,Aan die gang
+In Review,Onder oorsig
+In-app notifications,Kennisgewings binne die toepassing
+Inactive,Onaktief
+Initial Review,Aanvanklike oorsig
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Onvoldoende regte om alle take te bekyk
+Intermediate,Intermediêr
+Internal,Intern
+Invalid DocType,Ongeldige DocType
+Invalid DocType for import,Ongeldige DocType vir invoer
+Invalid item type: {0},Ongeldige itemtipe: {0}
+Invalid JSON data,Ongeldige JSON-data
+Invalid note type. Must be one of: {0},Ongeldige notatipe. Moet een van die volgende wees: {0}
+Invalid project reference,Ongeldige projekverwysing
+Invalid reaction type. Must be one of: {0},Ongeldige reaksietipe. Moet een van die volgende wees: {0}
+Invalid RSVP status,Ongeldige RSVP-status
+Invalid status. Must be one of: {0},Ongeldige status. Moet een van die volgende wees: {0}
+Invalid status: {0},Ongeldige status: {0}
+Invalid status: {0}. Must be one of: {1},Ongeldige status: {0}. Moet een van die volgende wees: {1}
+Invalid tracking context: {0},Ongeldige spoorkonteks: {0}
+Invalid visibility. Must be one of: {0},Ongeldige sigbaarheid. Moet een van die volgende wees: {0}
+Invitation: {0} - {1} at {2},Uitnodiging: {0} - {1} om {2}
+Invite People,Nooi mense uit
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Item bygevoeg
+Item ID is required,Item-ID word vereis
+Item removed,Item verwyder
+Item type is required,Itemtipe word vereis
+Item {0} not found,Item {0} nie gevind nie
+Job title or role,Postitel of rol
+Join Meeting,Sluit by vergadering aan
+Just now,Sopas
+just now,sopas
+Kanban,Kanban
+Kanban Board,Kanban-bord
+Kanban View,Kanban-weergawe
+Keyboard Shortcuts,Sleutelbordkortpaaie
+Keyboard shortcuts (?),Sleutelbordkortpaaie (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Laas bygewerk
+Last updated:,Laas bygewerk:
+Last Week,Verlede week
+Latest Version,Latest Version
+Light,Lig
+Link failed,Koppeling het misluk
+Link Task,Koppel taak
+Linked,Gekoppel
+Linked employee not found,Gekoppelde werknemer nie gevind nie
+Linked Tasks,Gekoppelde take
+List,Lys
+List View,Lysweergawe
+Load failed,Laai het misluk
+Load More,Laai meer
+Load more comments,Laai meer opmerkings
+Loading activity...,Besig om aktiwiteit te laai...
+Loading changes...,Besig om veranderings te laai...
+Loading checklist...,Besig om kontrolelys te laai...
+Loading comments...,Besig om opmerkings te laai...
+Loading contact...,Besig om kontak te laai...
+Loading contacts...,Besig om kontakte te laai...
+Loading dependencies...,Besig om afhanklikhede te laai...
+Loading details...,Besig om besonderhede te laai...
+Loading discussion...,Besig om bespreking te laai...
+Loading events...,Besig om geleenthede te laai...
+Loading files...,Besig om lêers te laai...
+Loading notes...,Besig om notas te laai...
+Loading preferences...,Besig om voorkeure te laai...
+Loading project...,Besig om projek te laai...
+Loading projects...,Besig om projekte te laai...
+Loading replies...,Besig om antwoorde te laai...
+Loading report data...,Besig om verslagdata te laai...
+Loading settings...,Besig om instellings te laai...
+Loading task...,Besig om taak te laai...
+Loading templates...,Besig om sjablone te laai...
+Loading time logs...,Besig om tydinskrywings te laai...
+Loading your portal...,Besig om u portaal te laai...
+Loading...,Besig om te laai...
+Location,Ligging
+Log Time,Teken tyd aan
+Logout,Teken uit
+Low,Laag
+Make Offer,Maak aanbod
+Manager,Bestuurder
+Manual Entry,Handmatige inskrywing
+Margin,Marge
+Mark all as read,Merk alles as gelees
+Mark all read,Merk alles as gelees
+Mark as read,Merk as gelees
+Mark as unread,Merk as ongelees
+Mark read,Merk as gelees
+Marking...,Besig om te merk...
+Material,Materiaal
+Maybe,Miskien
+Medium,Medium
+Meeting,Vergadering
+Meeting Link,Vergaderingskakel
+Meeting title,Vergaderingtitel
+Meeting URL,Vergadering-URL
+Meetings,Vergaderings
+Mention,Noem
+Message,Boodskap
+Message is required,Boodskap word vereis
+Message is required for '{0}' action,Boodskap word vereis vir die '{0}'-aksie
+Migrate,Migreer
+Migration Complete,Migrasie voltooi
+Migration ID:,Migrasie-ID:
+Migration log not found: {0},Migrasielogboek nie gevind nie: {0}
+Milestone,Mylpaal
+milestone,mylpaal
+Milestone created,Mylpaal geskep
+Milestone description has been saved.,Mylpaalbeskrywing is gestoor.
+Milestone ID is required,Mylpaal-ID word vereis
+Milestone marked as Missed (past due date),Mylpaal gemerk as gemis (sperdatum verby)
+Milestone moved,Mylpaal geskuif
+Milestone Name,Mylpaalnaam
+Milestone name has been saved.,Mylpaalnaam is gestoor.
+Milestone name is required,Die mylpaalnaam word vereis
+Milestone updated,Mylpaal bygewerk
+Milestone {0} not found,Mylpaal {0} nie gevind nie
+Milestone {0} not in project {1},Mylpaal {0} nie in projek {1} nie
+Milestones,Mylpale
+milestones,mylpale
+Milestones:,Mylpale:
+Minutes,Minute
+Missed,Gemis
+Mixed,Gemengd
+Mobile,Mobiel
+Moderate,Matig
+Modified,Gewysig
+"Modify details, time, or attendees","Wysig besonderhede, tyd of bywoners"
+Mon,Ma
+Month,Maand
+Move failed,Skuif het misluk
+Must be a positive number,Moet 'n positiewe getal wees
+Must finish before this finishes,Moet klaarmaak voordat hierdie een klaarmaak
+Must finish before this starts,Moet klaarmaak voordat hierdie een begin
+Must start before this finishes,Moet begin voordat hierdie een klaarmaak
+Must start before this starts,Moet begin voordat hierdie een begin
+My Assignments,My toekennings
+My Projects,My projekte
+My Schedule,My skedule
+My Tasks,My take
+N/A,N.v.t.
+Name,Naam
+Name (A-Z),Naam (A-Z)
+Name (Z-A),Naam (Z-A)
+Name cannot exceed 255 characters,Naam kan nie 255 karakters oorskry nie
+Need help?,Hulp nodig?
+Needs Attention,Vereis aandag
+Never,Never
+new activities,nuwe aktiwiteite
+New Activity,Nuwe aktiwiteit
+New activity,Nuwe aktiwiteit
+New Event,Nuwe geleentheid
+New index is required,Nuwe indeks word vereis
+New Project,Nuwe projek
+New tasks will auto-trail by default.,Nuwe take sal by verstek outomaties opskuif.
+Newest First,Nuutste eerste
+Next,Volgende
+Next 14 days,Volgende 14 dae
+Next 30 days,Volgende 30 dae
+Next 60 days,Volgende 60 dae
+Next 7 days,Volgende 7 dae
+Next 90 days,Volgende 90 dae
+Next Week,Volgende week
+Next:,Volgende:
+No,Nee
+No active assignments,Geen aktiewe toekennings nie
+No active projects,Geen aktiewe projekte nie
+No active timer found,Geen aktiewe tydhouer gevind nie
+No activity selected,Geen aktiwiteit gekies nie
+No assignments found,Geen toekennings gevind nie
+No attendees,Geen bywoners nie
+no change,geen verandering
+No changes for this field.,Geen veranderings vir hierdie veld nie.
+No changes recorded for this activity.,Geen veranderings aangeteken vir hierdie aktiwiteit nie.
+No checklist items yet,Nog geen kontrolelysitems nie
+No checklist items yet.,Nog geen kontrolelysitems nie.
+No comments yet,Nog geen opmerkings nie
+No comments yet.,Nog geen opmerkings nie.
+No contacts available,Geen kontakte beskikbaar nie
+No content for this tab,Geen inhoud vir hierdie oortjie nie
+No data available,Geen data beskikbaar nie
+No data available for the selected filters,Geen data beskikbaar vir die gekose filters nie
+No data to export,Geen data om uit te voer nie
+No dates set,Geen datums ingestel nie
+No defects reported,Geen gebreke aangemeld nie
+No dependencies defined,Geen afhanklikhede gedefinieer nie
+No description,Geen beskrywing nie
+No discussion yet.,Nog geen bespreking nie.
+No documents attached,Geen dokumente aangeheg nie
+No due date,Geen sperdatum nie
+No employee linked to this resource,Geen werknemer aan hierdie kontakpersoon gekoppel nie
+No ERPNext employee linked to resource,Geen ERPNext-werknemer aan kontakpersoon gekoppel nie
+No events found,Geen geleenthede gevind nie
+No files attached yet.,Nog geen lêers aangeheg nie.
+No Frappe Project linked,Geen Frappe-projek gekoppel nie
+No Grouping,Geen groepering
+No items,Geen items nie
+No matching tasks,Geen ooreenstemmende take nie
+No matching tasks found,Geen ooreenstemmende take gevind nie
+No migration history,Geen migrasiegeskiedenis nie
+No Milestone,Geen mylpaal
+No milestones,Geen mylpale nie
+No milestones defined for this project.,Geen mylpale vir hierdie projek gedefinieer nie.
+No notes yet.,Nog geen notas nie.
+No notes yet. Add a due diligence note to track progress.,Nog geen notas nie. Voeg 'n omsigtigheidsondersoek-nota by om vordering na te spoor.
+No notifications,Geen kennisgewings nie
+No Orga Project linked to Frappe Project {0},Geen Orga-projek aan Frappe-projek {0} gekoppel nie
+No overdue tasks,Geen agterstallige take nie
+No pending cascade changes,Geen hangende kaskade-veranderings nie
+No predecessors - this task can start independently,Geen voorgangers nie — hierdie taak kan onafhanklik begin
+No project,Geen projek nie
+No projects found,Geen projekte gevind nie
+No Projects Yet,Nog geen projekte nie
+No recent activity,Geen onlangse aktiwiteit nie
+No related documents,Geen verwante dokumente nie
+No resolved threads.,Geen opgelope besprekingsdrade nie.
+No resources found,Geen kontakpersone gevind nie
+No results found,Geen resultate gevind nie
+No skills listed,Geen vaardighede gelys nie
+No skills recorded yet,Nog geen vaardighede aangeteken nie
+No successors - no tasks are waiting for this one,Geen opvolgers nie — geen take wag vir hierdie een nie
+No task selected,Geen taak gekies nie
+No tasks assigned to you,Geen take aan u toegeken nie
+No tasks available to add,Geen take beskikbaar om by te voeg nie
+No tasks found,Geen take gevind nie
+No tasks linked to this milestone,Geen take aan hierdie mylpaal gekoppel nie
+No tasks with dates to display,Geen take met datums om te vertoon nie
+No tasks yet,Nog geen take nie
+No team members,Geen spanlede nie
+No template,Geen sjabloon nie
+No templates yet,Nog geen sjablone nie
+No time data found,Geen tyddata gevind nie
+No time logged today,Vandag geen tyd aangeteken nie
+No time logged yet,Nog geen tyd aangeteken nie
+No time logs for this period,Geen tydinskrywings vir hierdie tydperk nie
+No time logs found,Geen tydinskrywings gevind nie
+No unread notifications,Geen ongelees kennisgewings nie
+No update information available yet.,No update information available yet.
+None,Geen
+Not found,Nie gevind nie
+Not permitted,Nie toegelaat nie
+Not permitted to access this project,Nie toegelaat om hierdie projek te benader nie
+Not permitted to access this task,Nie toegelaat om hierdie taak te benader nie
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,U word nie toegelaat om op hierdie dokument kommentaar te lewer nie
+Not permitted to create clients,U word nie toegelaat om kliënte te skep nie
+Not permitted to delete this client,U word nie toegelaat om hierdie kliënt te verwyder nie
+Not permitted to delete this defect,U word nie toegelaat om hierdie gebrek te verwyder nie
+Not permitted to delete this note,U word nie toegelaat om hierdie nota te verwyder nie
+Not permitted to delete this project,U word nie toegelaat om hierdie projek te verwyder nie
+Not permitted to delete this task,U word nie toegelaat om hierdie taak te verwyder nie
+Not permitted to delete this time log,U word nie toegelaat om hierdie tydinskrywing te verwyder nie
+Not permitted to invite clients,U word nie toegelaat om kliënte uit te nooi nie
+Not permitted to modify client access,U word nie toegelaat om kliënttoegang te wysig nie
+Not permitted to modify this project,U word nie toegelaat om hierdie projek te wysig nie
+Not permitted to update settings,U word nie toegelaat om instellings by te werk nie
+Not permitted to update this client,U word nie toegelaat om hierdie kliënt by te werk nie
+Not permitted to view this client,U word nie toegelaat om hierdie kliënt te bekyk nie
+not sent,nie gestuur nie
+Not set,Nie ingestel nie
+Not specified,Nie gespesifiseer nie
+Note,Nota
+Note (optional),Nota (opsioneel)
+Note Content,Nota-inhoud
+Note content is required,Nota-inhoud word vereis
+Note name is required,Die notanaam word vereis
+Note not found,Nota nie gevind nie
+Note Type,Notatipe
+Notes,Notas
+Notification,Kennisgewings
+Notification not found,Kennisgewing nie gevind nie
+Notifications,Kennisgewings
+Off Track,Van die spoor af
+Offer,Aanbod
+Offer Prepared,Aanbod voorberei
+Oldest First,Oudste eerste
+On Hold,In die wag
+On Leave,Met verlof
+On Track,Op koers
+On-Time Rate,Tydigheidsyfer
+Only administrators can delete activities,Slegs administrateurs kan aktiwiteite verwyder
+Only the comment author or administrators can delete comments,Slegs die opmerkingskrywer of administrateurs kan opmerkings verwyder
+Only you and admins,Slegs u en administrateurs
+Open,Oop
+Open in Desk,Maak in Desk oop
+Open Task Log,Maak taaklogboek oop
+Open Tasks,Oop take
+Optional,Opsioneel
+optional,opsioneel
+Or email us directly at,Of stuur ons direk 'n e-pos by
+Orga Project {0} from Frappe Projects,Orga-projek {0} uit Frappe Projects
+Orga Task {0} from Frappe,Orga-taak {0} uit Frappe
+Organizer,Organiseerder
+Other,Ander
+Over Budget,Oor begroting
+Overall Progress,Algehele vordering
+Overall Utilization,Algehele benutting
+Overallocated,Oortoegeken
+Overdue,Agterstallig
+overdue,agterstallig
+Overdue Tasks,Agterstallige take
+Overview,Oorsig
+Owner,Eienaar
+Page Not Found,Bladsy nie gevind nie
+Parent,Ouer
+Parent comment must belong to the same document,Ouerlyskommentaar moet aan dieselfde dokument behoort
+Parent comment not found,Ouer-opmerking nie gevind nie
+Parent project not synced to Frappe yet,Ouerprojek nog nie met Frappe gesinkroniseer nie
+Parent project sync not enabled,Ouerprojeksinkronisasie nie geaktiveer nie
+Partner,Vennoot
+Pending,Hangende
+per page,per bladsy
+Perform initial assessment and background check,Voer aanvanklike assessering en agtergrondondersoek uit
+Permanently remove this event,Verwyder hierdie geleentheid permanent
+Permanently remove this task,Verwyder hierdie taak permanent
+Phone,Telefoon
+Pin,Speld vas
+Pin Activity,Speld aktiwiteit vas
+Pin to top,Speld bo-aan vas
+Pinned,Vasgespeld
+Planned budget for this task,Beplande begroting vir hierdie taak
+Planning,Beplanning
+Please describe your question or issue in detail...,Beskryf asseblief u vraag of probleem in detail...
+Please login to access Orga,Teken asseblief in om toegang tot Orga te kry
+Please login to access the client portal,Teken asseblief in om toegang tot die kliënteportaal te kry
+Please respond to this invitation in Orga,Reageer asseblief op hierdie uitnodiging in Orga
+Please select an image file,Kies asseblief 'n beeldlêer
+Please try again,Probeer asseblief weer
+Please type,Tik asseblief
+Portal,Portaal
+Portal access revoked for {0},Portaaltoegang herroep vir {0}
+Portal user created successfully. Welcome email {0},Portaalgebruiker suksesvol geskep. Welkoms-e-pos {0}
+Post,Plaas
+Powered by,Aangedryf deur
+Powered by Tonic,Aangedryf deur Tonic
+Predecessors (Blocked By),Voorgangers (geblokkeer deur)
+Preferences,Voorkeure
+Preferences saved successfully,Voorkeure suksesvol gestoor
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Voorvoegsel vir outomaties-gegenereerde projekkodes (bv. ORG-2026-0001)
+Prepare and document offer terms,Berei aanbodvoorwaardes voor en dokumenteer dit
+Press,Druk
+Preview,Voorskou
+Preview cascade before applying,Voorskou kaskade voor toepassing
+Previous,Vorige
+Priority,Prioriteit
+Priority assigned to new tasks,Prioriteit toegeken aan nuwe take
+Priority updated,Prioriteit bygewerk
+Proficiency,Vaardigheidsvlak
+Profile,Profiel
+Progress,Vordering
+Progress (High-Low),Vordering (hoog-laag)
+Progress (Low-High),Vordering (laag-hoog)
+Progress Overview,Vorderingsoorsig
+Progress updated,Vordering bygewerk
+Project,Projek
+Project budget has been saved.,Projekbegroting is gestoor.
+Project code (e.g. ORG-2026-0001),Projekkode (bv. ORG-2026-0001)
+Project Code Prefix,Projekkodevoorvoegsel
+Project created,Projek geskep
+Project deleted,Projek verwyder
+Project description has been saved.,Projekbeskrywing is gestoor.
+Project Details,Projekbesonderhede
+Project end date has been saved.,Projek-einddatum is gestoor.
+Project Files,Projeklêers
+Project has no linked client,Projek het geen gekoppelde kliënt nie
+Project Health,Projekgesondheid
+Project Info,Projekinligting
+Project is required,Projek word vereis
+Project is required for project context,Projek word vereis vir projekkonteks
+Project is required when tracking context is 'project',Projek word vereis wanneer die spoorkonteks 'projek' is
+Project Manager,Projekbestuurder
+Project Name,Projeknaam
+Project name and template name are required,Projeknaam en sjabloonnaam word vereis
+Project name is required,Projeknaam word vereis
+Project not found,Projek nie gevind nie
+Project not found or you do not have access,Projek nie gevind nie of u het nie toegang nie
+Project settings,Projekinstellings
+Project start date has been saved.,Projekbegindatum is gestoor.
+Project title has been saved.,Projektitel is gestoor.
+Project Type,Projektipe
+Project updated,Projek bygewerk
+Project {0} linked to client {1},Projek {0} gekoppel aan kliënt {1}
+Project {0} not found,Projek {0} nie gevind nie
+Project {0} to Frappe Projects,Projek {0} na Frappe Projects
+Project:,Projek:
+Projects,Projekte
+projects,projekte
+Projects created:,Projekte geskep:
+Projects Overview,Projekte-oorsig
+Projects skipped:,Projekte oorgeslaan:
+Projects updated:,Projekte bygewerk:
+Promote failed,Bevordering het misluk
+Promote to task,Bevorder tot taak
+Promoted to task,Bevorder tot taak
+Propose,Stel voor
+Propose New Time,Stel nuwe tyd voor
+Propose Time,Stel tyd voor
+Proposed End,Voorgestelde einde
+Proposed Start,Voorgestelde begin
+Public,Openbaar
+Quick Action,Vinnige aksie
+Quick Actions,Vinnige aksies
+Quick Stats,Vinnige statistieke
+Rates,Tariewe
+Receive notifications via email,Ontvang kennisgewings via e-pos
+Receive notifications within the application,Ontvang kennisgewings binne die toepassing
+Recent Activity,Onlangse aktiwiteit
+Recipient {0} is not a valid user,Ontvanger {0} is nie 'n geldige gebruiker nie
+Reference,Verwysing
+Refresh,Verfris
+Related,Verwant
+Related Company (optional),Verwante maatskappy (opsioneel)
+Related Documents,Verwante dokumente
+Related Project,Verwante projek
+Remaining,Oorblywend
+Reminder,Herinnering
+Reminder Lead Time,Herinnering-voorleityd
+Reminder: {0} - {1} at {2},Herinnering: {0} - {1} om {2}
+Remove,Verwyder
+Remove dependency,Verwyder afhanklikheid
+Remove dependency on,Verwyder afhanklikheid op
+Remove from group,Verwyder uit groep
+Remove group dependency,Verwyder groepafhanklikheid
+Remove skill,Verwyder vaardigheid
+Reopen,Heropen
+Reopen thread,Heropen besprekingsdraad
+reopened,heropen
+replies,antwoorde
+Reply,Antwoord
+reply,antwoord
+Replying to,Antwoord op
+Replying to comment,Antwoord op opmerking
+Report Defect,Meld gebrek aan
+Reported Date,Aanmelddatum
+Reports,Verslae
+Reports To,Rapporteer aan
+Request Submitted!,Versoek ingedien!
+Required,Verpligtend
+required,verpligtend
+Research,Navorsing
+Reset to Defaults,Herstel na verstekwaardes
+Resolve,Los op
+Resolve thread,Los besprekingsdraad op
+Resolved,Opgelos
+Resolved date cannot be before reported date,Die oplossingsdatum kan nie voor die aanmelddatum wees nie
+Resource,Kontakpersoon
+Resource and skill name are required,Kontakpersoon en vaardigheidsnaam word vereis
+Resource is already an attendee,Kontakpersoon is reeds 'n bywoner
+Resource name is required,Die kontakpersoonnaam word vereis
+Resource not found,Kontakpersoon nie gevind nie
+Resource synced from employee {0},Kontakpersoon gesinkroniseer uit werknemer {0}
+Resource {0} is already assigned to this task ({1}),Kontakpersoon {0} is reeds aan hierdie taak ({1}) toegeken
+Resource {0} not found,Kontakpersoon {0} nie gevind nie
+Resources,Kontakpersone
+Retry,Probeer weer
+Review,Oorsig
+Review all relevant documents and contracts,Oorsig alle relevante dokumente en kontrakte
+Reviews,Oorsigtes
+Risk Assessment,Risiko-assessering
+Rollback,Rol terug
+Rolled back,Teruggerol
+Room or address,Kamer of adres
+RSVP,RSVP
+Safety,Veiligheid
+Sat,Sa
+Save,Stoor
+"Save a project as a template, or import one from a JSON file.","Stoor 'n projek as 'n sjabloon, of voer een uit 'n JSON-lêer in."
+Save as Template,Stoor as sjabloon
+Save Changes,Stoor veranderings
+Save failed,Stoor het misluk
+Save Preferences,Stoor voorkeure
+Save Template,Stoor sjabloon
+Saving...,Besig om te stoor...
+Schedule,Skedule
+Schedule type is required for scheduled triggers,Skeduletipe word vereis vir geskeduleerde snellers
+Scheduled,Geskeduleer
+Search,Soek
+"Search by name, email, or skill...","Soek op naam, e-pos of vaardigheid..."
+Search for a project...,Soek 'n projek...
+Search for a task...,Soek 'n taak...
+Search for an event...,Soek 'n geleentheid...
+Search for people to invite...,Soek mense om uit te nooi...
+Search tasks to link...,Soek take om te koppel...
+Search tasks...,Soek take...
+Search...,Soek...
+Searching...,Besig om te soek...
+Seen,Gesien
+Select a project if your request is related to a specific project.,Kies 'n projek as u versoek met 'n spesifieke projek verband hou.
+Select a project...,Kies 'n projek...
+Select a task from the Gantt chart to view and manage its details.,Kies 'n taak uit die Gantt-grafiek om die besonderhede te bekyk en te bestuur.
+Select a task from the list or Kanban board to view and manage its details.,Kies 'n taak uit die lys of Kanban-bord om die besonderhede te bekyk en te bestuur.
+Select a template...,Kies 'n sjabloon...
+Select priority...,Kies prioriteit...
+Select status...,Kies status...
+Select task...,Kies taak...
+Select type...,Kies tipe...
+Selection,Seleksie
+Send,Stuur
+Send comment,Stuur opmerking
+Send email invitations to attendees,Stuur e-posuitnodigings aan bywoners
+Send Invitations,Stuur uitnodigings
+Send notification when a task is assigned to a user,Stuur kennisgewing wanneer 'n taak aan 'n gebruiker toegeken word
+Send notification when task status changes,Stuur kennisgewing wanneer taakstatus verander
+Send reminder before task due date,Stuur herinnering voor taak se sperdatum
+sent,gestuur
+Set rate,Stel tarief in
+Settings,Instellings
+Settings saved successfully,Instellings suksesvol gestoor
+Severity,Erns
+SF (Start-Finish),SF (Begin-Einde)
+SF - Start-to-Finish,SF - Begin-na-Einde
+Show,Wys
+Show all,Wys alles
+Show all changes,Wys alle veranderings
+Show Archived,Wys geargiveerdes
+Show full diff,Wys volle verskil
+Show less,Wys minder
+Show more,Wys meer
+Skill added,Vaardigheid bygevoeg
+Skill is required,Vaardigheid word vereis
+Skill Name,Vaardigheidsnaam
+Skill removed,Vaardigheid verwyder
+Skill {0} already exists for this resource,Vaardigheid {0} bestaan reeds vir hierdie kontakpersoon
+Skills,Vaardighede
+Skills & Competencies,Vaardighede en bevoegdhede
+Skip already migrated projects,Slaan reeds gemigreerde projekte oor
+Sort by,Sorteer volgens
+Sort: Due Date,Sorteer: Sperdatum
+Sort: Priority,Sorteer: Prioriteit
+Sort: Project,Sorteer: Projek
+Sort: Status,Sorteer: Status
+Sort: Task,Sorteer: Taak
+Source Code,Bronkode
+Spent,Bestee
+Spent:,Bestee:
+SS (Start-Start),SS (Begin-Begin)
+SS - Start-to-Start,SS - Begin-na-Begin
+Standalone,Alleenstaande
+Start,Begin
+Start a discussion below,Begin 'n bespreking hieronder
+Start Date,Begindatum
+Start date,Begindatum
+Start Date (Earliest),Begindatum (vroegste)
+Start date updated,Begindatum bygewerk
+Start date/time is required,Begindatum/-tyd word vereis
+Start Migration,Begin migrasie
+Start the conversation below.,Begin die gesprek hieronder.
+Start Timer,Begin tydhouer
+Start typing to search...,Begin tik om te soek...
+Start-to-Finish,Begin-na-Einde
+Start-to-Start,Begin-na-Begin
+Start:,Begin:
+Statistics reset,Statistieke teruggestel
+Status,Status
+Status assigned to new projects,Status toegeken aan nuwe projekte
+Status assigned to new tasks,Status toegeken aan nuwe take
+Status Changes,Statusveranderings
+Status updated,Status bygewerk
+Status:,Status:
+Stop,Stop
+Stop & Save,Stop en stoor
+Stop Timer,Stop tydhouer
+Stops current timer and starts for this event,Stop huidige tydhouer en begin vir hierdie geleentheid
+Stops current timer and starts for this task,Stop huidige tydhouer en begin vir hierdie taak
+Subject,Onderwerp
+Subject cannot exceed 255 characters,Onderwerp kan nie 255 karakters oorskry nie
+Subject is required,Onderwerp word vereis
+Submit,Dien in
+Submit Another Request,Dien nog 'n versoek in
+Submit Request,Dien versoek in
+Submitting...,Besig om in te dien...
+Successfully saved,Suksesvol gestoor
+Successors (Blocking),Opvolgers (blokkerend)
+Sun,So
+Supplier,Verskaffer
+Support,Ondersteuning
+Switch to this event,Skakel na hierdie geleentheid
+Switch to this task,Skakel na hierdie taak
+Sync direction is set to Frappe to Orga only,Sinkroniseringsrigting is ingestel op slegs Frappe na Orga
+Sync direction is set to Orga to Frappe only,Sinkroniseringsrigting is ingestel op slegs Orga na Frappe
+Sync not enabled for this project,Sinkronisering nie geaktiveer vir hierdie projek nie
+System,Stelsel
+Table,Tabel
+Take ownership of this task,Neem hierdie taak oor
+Target Date,Teikendatum
+Target End,Teikeneinddatum
+Target Project,Teikenprojek
+Target user is required for '{0}' action,Teikengebruiker word vereis vir die '{0}'-aksie
+Task,Taak
+task,taak
+Task '{0}' is due on {1}.,Taak '{0}' is op {1} verskuldig.
+Task and resource are required,Taak en kontakpersoon word vereis
+Task Assignment,Taaktoekenning
+Task cannot be its own parent,''n Taak kan nie sy eie ouer wees nie
+Task cannot depend on itself,''n Taak kan nie van homself afhanklik wees nie
+Task cannot depend on the group it belongs to,''n Taak kan nie afhanklik wees van die groep waaraan dit behoort nie
+Task created,Taak geskep
+Task deleted,Taak verwyder
+Task description has been saved.,Taakbeskrywing is gestoor.
+Task Details,Taakbesonderhede
+Task due in {0} days: {1},Taak verskuldig oor {0} dae: {1}
+Task due today: {0},Taak vandag verskuldig: {0}
+Task due tomorrow: {0},Taak môre verskuldig: {0}
+Task duplicated,Taak gedupliseer
+Task Group,Taakgroep
+Task ID is required,Taak-ID word vereis
+Task is blocked by incomplete dependencies,Taak word geblokkeer deur onvoltooide afhanklikhede
+Task is cancelled,Taak is gekanselleer
+Task is completed,Taak is voltooi
+Task is no longer blocked by a group,Taak word nie meer deur 'n groep geblokkeer nie
+Task is required for task context,Taak word vereis vir taakkonteks
+Task is required when tracking context is 'task',Taak word vereis wanneer die spoorkonteks 'taak' is
+Task linked,Taak gekoppel
+Task moved,Taak geskuif
+Task name,Taaknaam
+Task name is required,Taaknaam word vereis
+Task removed from group,Taak uit groep verwyder
+Task Subject,Taakonderwerp
+Task subject is required,Taakonderwerp word vereis
+Task Type,Taaktipe
+Task unblocked: {0},Taak ontblokkeer: {0}
+Task unlinked,Taak ontkoppel
+Task updated,Taak bygewerk
+Task {0} not found,Taak {0} nie gevind nie
+Task {0} not in project {1},Taak {0} nie in projek {1} nie
+Task {0} to Frappe,Taak {0} na Frappe
+Tasks,Take
+tasks,take
+Tasks and milestones will be created with dates relative to the project start date.,Take en mylpale sal geskep word met datums relatief tot die projek se begindatum.
+Tasks assigned to you across all projects.,Take aan u toegeken oor alle projekte.
+Tasks created:,Take geskep:
+Tasks from projects you manage.,Take uit projekte wat u bestuur.
+Tasks updated:,Take bygewerk:
+"Tasks, milestones, and dependencies have been created.","Take, mylpale en afhanklikhede is geskep."
+Tasks:,Take:
+TBD,Nog te bepaal
+Team,Span
+Team Members,Spanlede
+Template,Sjabloon
+Template applied,Sjabloon toegepas
+Template data is required in import data,Sjabloondata word vereis in invoerdata
+Template has no data,Sjabloon het geen data nie
+Template Name,Sjabloonnaam
+Template name,Sjabloonnaam
+Template name is required,Sjabloonnaam word vereis
+Template name is required in import data,Sjabloonnaam word vereis in invoerdata
+Template saved,Sjabloon gestoor
+Template updated successfully.,Sjabloon suksesvol bygewerk.
+Template {0} not found,Sjabloon {0} nie gevind nie
+Templates,Sjablone
+Tentative,Voorlopig
+The comment has been deleted,Die opmerking is verwyder
+The project,Die projek
+The source document may have been deleted.,Die brondokument is moontlik verwyder.
+The source document will not be affected.,Die brondokument sal nie geraak word nie.
+The status of '{0}' was changed from {1} to {2}.,Die status van '{0}' is verander van {1} na {2}.
+Theme,Tema
+Theme preference,Temavoorkeur
+This action,Hierdie aksie
+This action cannot be undone.,Hierdie aksie kan nie ongedaan gemaak word nie.
+This activity has been flagged for attention,Hierdie aktiwiteit is gemerk vir aandag
+This is a reminder for your upcoming appointment,Dit is 'n herinnering vir u komende afspraak
+This method is only meant for developer mode,Hierdie metode is slegs vir ontwikkelaarsmodus bedoel
+This page wandered off,This page wandered off
+This Week,Hierdie week
+This will delete all notes and preferences associated with this activity.,Dit sal alle notas en voorkeure wat met hierdie aktiwiteit verband hou verwyder.
+This will import all Frappe Projects into Orga. Continue?,Dit sal alle Frappe-projekte in Orga invoer. Gaan voort?
+This will permanently delete,Dit sal permanent verwyder
+This will permanently delete:,Dit sal permanent verwyder:
+Thu,Do
+Time,Tyd
+Time & Billing,Tyd en fakturering
+Time & Revenue,Tyd en inkomste
+Time Entries,Tydinskrywings
+Time log name is required,Die tydinskrywingsnaam word vereis
+Time Log not found,Tydinskrywing nie gevind nie
+Time log {0} not found,Tydinskrywing {0} nie gevind nie
+Time Logs,Tydinskrywings
+Time Summary,Tydopsomming
+Time Tracking,Tydaantekening
+Timeline,Tydlyn
+Timer active on,Tydhouer aktief op
+Timer is not running,Tydhouer loop nie
+Timer Running,Tydhouer loop
+Timer running,Tydhouer loop
+Timesheet DocType not available,DocType Tydstaat nie beskikbaar nie
+Timesheets,Tydstate
+Timezone,Tydsone
+Timezone is detected from your browser,Tydsone word uit u blaaier bespeur
+Title,Titel
+Title cannot exceed 255 characters,Titel kan nie 255 karakters oorskry nie
+Title is required,Titel word vereis
+Title updated,Titel bygewerk
+To,Na
+to,na
+to cancel,om te kanselleer
+to close,om te sluit
+to confirm:,om te bevestig:
+to edit,om te wysig
+"to save,","om te stoor,"
+To Time cannot be before From Time,Die eindtyd kan nie voor die begintyd wees nie
+Today,Vandag
+today,vandag
+Toggle billable,Skakel faktureerbaar aan/af
+Toggle Details Panel,Skakel besonderhedepaneel aan/af
+Toggle Manager Panel,Skakel bestuurderspaneel aan/af
+Toggle Sidebar,Skakel sybalk aan/af
+Tomorrow,Môre
+tomorrow,môre
+Total,Totaal
+Total Budget,Totale begroting
+Total Contacts,Totale kontakte
+Total Cost,Totale koste
+Total Cost to Org,Totale koste vir die organisasie
+Total Defect Cost,Totale gebrekkkoste
+Total Hours,Totale ure
+Total Hours Logged,Totale ure aangeteken
+Total Projects,Totale projekte
+Total Spent,Totaal bestee
+Total Tasks,Totale take
+Total:,Totaal:
+Tracked,Nagespoor
+trails to today while Open at 0%,skuif op na vandag terwyl Oop op 0%
+Tried:,Tried:
+Try adjusting your filter criteria,Probeer om u filterkriteria aan te pas
+Try adjusting your filters.,Probeer om u filters aan te pas.
+Try Again,Probeer weer
+Tue,Di
+Type,Tipe
+Type updated,Tipe bygewerk
+Type:,Tipe:
+Typical response time: 1-2 business days,Tipiese reaksietyd: 1-2 werksdae
+Unarchive,Ontargiveer
+Unarchive Activity,Ontargiveer aktiwiteit
+Unassign,Onttoekenning
+Unassigned,Nie toegeken nie
+Under Budget,Onder begroting
+Ungrouped,Ongegroepeer
+Unknown,Onbekend
+Unknown error,Onbekende fout
+Unlink failed,Ontkoppeling het misluk
+Unlink task from milestone,Ontkoppel taak van mylpaal
+Unpin,Ontspeld
+Unpin Activity,Ontspeld aktiwiteit
+Unread,Ongelees
+Unread only,Slegs ongelees
+Until,Tot
+Up to Date,Up to Date
+Upcoming,Komende
+upcoming,komende
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Bywerking het misluk
+Updated,Bygewerk
+Updated successfully,Suksesvol bygewerk
+Updates,Updates
+Upload,Laai op
+Upload failed,Oplaai het misluk
+Upload files below to attach them to this task.,Laai lêers hieronder op om hulle aan hierdie taak te heg.
+Upload to project,Laai na projek op
+Uploading...,Besig om op te laai...
+Urgent,Dringend
+User {0} is already linked to client {1},Gebruiker {0} is reeds aan kliënt {1} gekoppel
+User {0} is already linked to resource {1},Gebruiker {0} is reeds aan kontakpersoon {1} gekoppel
+Utilization,Benutting
+Valid,Geldig
+Value:,Waarde:
+Variance,Afwyking
+Variance:,Afwyking:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Bekyk
+View All,Bekyk alles
+View all active projects,Bekyk alle aktiewe projekte
+View all open tasks,Bekyk alle oop take
+View overdue tasks,Bekyk agterstallige take
+View Release,View Release
+Visibility,Sigbaarheid
+Waiting for this task,Wag vir hierdie taak
+Waits for:,Wag vir:
+Warning: Resource {0} status is {1},Waarskuwing: Kontakpersoon {0} se status is {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Waarskuwing: HTTP word gebruik in plaas van HTTPS. Webhook-data is moontlik nie veilig nie.
+Watch budget closely,Hou begroting fyn dop
+We'll respond to:,Ons sal reageer op:
+Webhook deleted,Webhook verwyder
+Webhook name is required,Webhooknaam word vereis
+Webhook not found,Webhook nie gevind nie
+Webhook URL is required,Webhook-URL word vereis
+Webhook URL must start with http:// or https://,Webhook-URL moet met http:// of https:// begin
+Wed,Wo
+Week,Week
+Weekend,Naweek
+Weekly Capacity,Weeklikse kapasiteit
+weekly capacity,weeklikse kapasiteit
+Weekly Capacity (h),Weeklikse kapasiteit (u)
+Welcome,Welkom
+Welcome back!,Welkom terug!
+Welcome to Orga,Welkom by Orga
+What are you working on?,Waaraan werk u?
+What did you work on?,Waaraan het u gewerk?
+When,Wanneer
+When work begins,Wanneer die werk begin
+When work is due,Wanneer die werk verskuldig is
+Where,Waar
+Will capture:,Sal vasvang:
+Will create:,Sal skep:
+with checklist items,met kontrolelysitems
+Working,Aan die gang
+Workload,Werklas
+Workmanship,Vakmanskap
+Write a comment...,Skryf 'n opmerking...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Skryf 'n opmerking... Gebruik @naam om te noem (Ctrl+Enter om te stuur)
+Year,Jaar
+Yes,Ja
+Yesterday,Gister
+yesterday,gister
+You are not an attendee of this appointment,U is nie 'n bywoner van hierdie afspraak nie
+You are not linked to any resource,U is nie aan enige kontakpersoon gekoppel nie
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,U kan slegs u eie opmerkings verwyder
+You can only delete your own reactions,U kan slegs u eie reaksies verwyder
+You do not have access to the client portal. Please contact support.,U het nie toegang tot die kliënteportaal nie. Kontak asseblief ondersteuning.
+You have already reacted with '{0}',U het reeds met '{0}' gereageer
+You have been assigned to task '{0}' in project '{1}'.,U is aan taak '{0}' in projek '{1}' toegeken.
+You have been assigned to: {0},U is toegeken aan: {0}
+You have been invited to the following appointment,U is na die volgende afspraak genooi
+You have no tasks assigned to you right now.,U het tans geen take aan u toegeken nie.
+You were mentioned in {0},U is in {0} genoem
+Your attendance,U bywoning
+Your comment has been posted,U opmerking is geplaas
+Your Projects,U projekte
+Your projects will appear here once they're assigned to you.,U projekte sal hier verskyn sodra hulle aan u toegeken word.
+Your Response,U antwoord
+Your RSVP,U RSVP
+Your support request has been submitted successfully.,U ondersteuningsversoek is suksesvol ingedien.
+Your support request has been submitted successfully. We'll get back to you shortly.,U ondersteuningsversoek is suksesvol ingedien. Ons sal binnekort met u in verbinding tree.
+"Your task ""{0}"" is no longer blocked and can now be started.","U taak ""{0}"" word nie meer geblokkeer nie en kan nou begin word."
+{0} is required,{0} word vereis
+{0} new activities,{0} nuwe aktiwiteite
+{0} of {1} completed,{0} van {1} voltooi
+{0} projects already migrated (will be skipped or updated),{0} projekte reeds gemigreer (sal oorgeslaan of bygewerk word)
+{0} status changed to {1},{0} se status is na {1} verander
+{0} tasks remaining,{0} take oor
+{0} tasks without projects will be skipped,{0} take sonder projekte sal oorgeslaan word
+{0} {1} not found,{0} {1} nie gevind nie

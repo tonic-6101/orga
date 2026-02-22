@@ -1,0 +1,1492 @@
++ Add Milestone,+ مایلسټون اضافه کړئ
++ Create Task,+ دنده جوړه کړئ
++ Log Time,+ وخت ثبت کړئ
+-- Select a project --,-- یو پروژه غوره کړئ --
+0m,0m
+1 day,1 ورځ
+1 day ago,1 ورځ مخکې
+1 dependency,1 انحصار
+1 entry,1 ننوتنه
+1 file,1 دوتنه
+1 hour ago,1 ساعت مخکې
+1 member,1 غړی
+1 milestone,1 مایلسټون
+1 month,1 میاشت
+1 task,1 دنده
+< 1m,< 1m
+"A clear, actionable title for the task",د دندې لپاره یو روښانه او د عمل وړ سرلیک
+A client with email {0} already exists: {1},د {0} بریښنالیک سره یو پیرودونکی لا دمخه شتون لري: {1}
+A key deliverable or checkpoint for the project,د پروژې لپاره یو مهم تحویلي یا کنټرول ټکی
+Accept,ومنئ
+Accepted,منل شوی
+Acknowledge,تایید کړئ
+across,په اوږدو کې
+Action,عمل
+Actions,عملونه
+Active,فعال
+Active Assignments,فعالې دندې
+Active Projects,فعالې پروژې
+Activity,فعالیت
+Activity data deleted successfully,د فعالیت معلومات په بریالیتوب سره حذف شول
+Activity Info,د فعالیت معلومات
+Activity Stats,د فعالیت احصایې
+Activity will appear here as you work on tasks and projects.,فعالیتونه به دلته ښکاره شي کله چې تاسو په دندو او پروژو کار کوئ.
+Actual,واقعي
+Actual Cost,واقعي لګښت
+Actual cost cannot be negative,واقعي لګښت نشي کولی منفي وي
+Actual end date cannot be before actual start date,واقعي پای نیټه نشي کولی د واقعي پیل نیټې څخه مخکې وي
+Actual Hours,واقعي ساعتونه
+Add,اضافه کړئ
+Add a checklist item...,د کتنې لیست توکی اضافه کړئ...
+Add a comment...,نظر اضافه کړئ...
+Add a comment... (Ctrl+Enter to send),نظر اضافه کړئ... (د لیږلو لپاره Ctrl+Enter)
+Add a description...,تشریح اضافه کړئ...
+Add a milestone description...,د مایلسټون تشریح اضافه کړئ...
+Add a note below to annotate this activity.,د دې فعالیت تشریح لپاره لاندې یادښت اضافه کړئ.
+Add a note...,یادښت اضافه کړئ...
+Add a project description...,د پروژې تشریح اضافه کړئ...
+Add a task description...,د دندې تشریح اضافه کړئ...
+Add checklist item...,د کتنې لیست توکی اضافه کړئ...
+Add Contact,اړیکه اضافه کړئ
+Add contacts via the Desk interface or clear filters,د ډیسک انټرفیس له لارې اړیکې اضافه کړئ یا فلټرونه پاک کړئ
+Add Dependency,انحصار اضافه کړئ
+Add details about this event...,د دې پیښې په اړه توضیحات اضافه کړئ...
+Add details about this milestone...,د دې مایلسټون په اړه توضیحات اضافه کړئ...
+Add details about this task...,د دې دندې په اړه توضیحات اضافه کړئ...
+Add details or acceptance criteria for this milestone,د دې مایلسټون لپاره توضیحات یا د منلو معیارونه اضافه کړئ
+"Add details, context, or acceptance criteria",توضیحات، شرایط، یا د منلو معیارونه اضافه کړئ
+Add first dependency,لومړی انحصار اضافه کړئ
+Add item,توکی اضافه کړئ
+Add items below to track progress.,د پرمختګ تعقیب لپاره لاندې توکي اضافه کړئ.
+Add items below to track subtasks,د فرعي دندو تعقیب لپاره لاندې توکي اضافه کړئ
+Add Milestone,مایلسټون اضافه کړئ
+Add Milestone (Shift+M),مایلسټون اضافه کړئ (Shift+M)
+Add milestones to track key deliverables.,د مهمو تحویلاتو تعقیب لپاره مایلسټونونه اضافه کړئ.
+Add New Contact,نوې اړیکه اضافه کړئ
+Add Note,یادښت اضافه کړئ
+Add note,یادښت اضافه کړئ
+Add notes about this contact...,د دې اړیکې په اړه یادښتونه اضافه کړئ...
+Add reaction,غبرګون اضافه کړئ
+Add Skill,مهارت اضافه کړئ
+Add start and due dates to tasks to see them on the Gantt chart,د ګانټ چارټ کې د لیدو لپاره دندو ته د پیل او د وعدې نیټې اضافه کړئ
+Add Task,دنده اضافه کړئ
+Add Task (Shift+T),دنده اضافه کړئ (Shift+T)
+Added Finish-to-Start dependency,د پای-څخه-پیل انحصار اضافه شو
+Adding this dependency would create a circular reference: {0},د دې انحصار اضافه کول به یو دوراني حواله رامنځته کړي: {0}
+Adding...,اضافه کیږي...
+Address,پته
+Advanced,پرمختللی
+All,ټول
+All Active,ټول فعال
+All Assignees,ټول ټاکل شوي
+All Categories,ټولې کتګورۍ
+All caught up!,ټول بشپړ شول!
+All Contexts,ټول شرایط
+All day,ټوله ورځ
+All day event,د ټولې ورځې پیښه
+All fields,ټول ساحې
+All Priorities,ټولې لومړیتوبونه
+All Projects,ټولې پروژې
+All Status,ټول حالتونه
+All Statuses,ټول حالتونه
+All task dependencies & relative dates,د ټولو دندو انحصارونه او نسبي نیټې
+All Tasks,ټولې دندې
+All tasks across all projects.,د ټولو پروژو په اوږدو کې ټولې دندې.
+All tasks are already linked,ټولې دندې لا دمخه تړل شوي دي
+All team members,ټول ټیم غړي
+All Types,ټول ډولونه
+All Users,ټول کارونکي
+Allocated,تخصیص شوی
+allocated,تخصیص شوی
+Allow users to log time against tasks,کارونکو ته اجازه ورکړئ چې د دندو پر وړاندې وخت ثبت کړي
+Already exported to timesheet {0},لا دمخه د وخت پاڼې {0} ته صادر شوی
+Already Migrated,لا دمخه لیږدول شوی
+Anyone with access,هرڅوک چې لاسرسی ولري
+anytime to show this help,هر وخت د دې لارښود ښودلو لپاره
+App Updates,App Updates
+Appearance,بڼه
+Apply,پلي کړئ
+Apply cascade?,آبشار پلي کړئ؟
+Apply Changes,بدلونونه پلي کړئ
+Apply failed,پلي کول ناکام شو
+Apply Template,کینډۍ پلي کړئ
+Applying...,پلي کیږي...
+Appointment,لیدنه
+Appointment and resource are required,لیدنه او سرچینه اړین دي
+Appointment name is required,د لیدنې نوم اړین دی
+Appointment not found,لیدنه ونه موندل شوه
+Appointment {0} not found,لیدنه {0} ونه موندل شوه
+Apps,اپلیکیشنونه
+Archive,آرشیف کړئ
+Archive Activity,فعالیت آرشیف کړئ
+Archived,آرشیف شوی
+Are you sure you want to delete this activity data? This cannot be undone.,ایا تاسو ډاډه یاست چې غواړئ د دې فعالیت معلومات حذف کړئ؟ دا نشي کولی بیرته راوړل شي.
+Are you sure you want to delete this comment?,ایا تاسو ډاډه یاست چې غواړئ دا نظر حذف کړئ؟
+Are you sure you want to delete this project?,ایا تاسو ډاډه یاست چې غواړئ دا پروژه حذف کړئ؟
+Are you sure?,ایا تاسو ډاډه یاست؟
+Ascending -- click to reverse,صعودي -- د بدلولو لپاره کلیک وکړئ
+Assign To,وټاکئ
+Assign to Me,ماته وټاکئ
+Assigned Contact,ټاکل شوې اړیکه
+Assigned To,ته ټاکل شوی
+Assigned to,ته ټاکل شوی
+Assigned to Me,ماته ټاکل شوی
+Assignee,ټاکل شوی کس
+Assignment,دنده ورکونه
+Assignment History,د دندې ورکونې تاریخچه
+Assignment name is required,د دندې ورکونې نوم اړین دی
+Assignment {0} not found,دنده ورکونه {0} ونه موندل شوه
+Assignments,دندې ورکونې
+At least one action is required,لږ تر لږه یو عمل اړین دی
+At least one event is required,لږ تر لږه یوه پیښه اړینه ده
+At least one event must be selected,لږ تر لږه یوه پیښه باید وټاکل شي
+Attachment,ضمیمه
+Attachments,ضمیمې
+Attendees,ګډون کوونکي
+"Audit trail, assignments, version history",د پلټنې سلسله، دندې ورکونې، د نسخې تاریخچه
+Auto,اتوماتیک
+Auto Calculate Progress,اتوماتیک پرمختګ محاسبه کړئ
+Auto Set Missed Milestones,اتوماتیک له لاسه تللي مایلسټونونه وټاکئ
+Auto-shift dependents when dates change,کله چې نیټې بدلیږي، تابع دندې اتوماتیک بدل کړئ
+Auto-Trail Start,اتوماتیک تعقیب پیل
+Auto-Trail updated,اتوماتیک تعقیب تازه شو
+Automatically calculate project progress from task completion,د دندو د بشپړیدو څخه د پروژې پرمختګ اتوماتیک محاسبه کړئ
+Automatically mark milestones as missed when overdue,کله چې ناوخته شي، مایلسټونونه اتوماتیک د له لاسه تللو په توګه نښه کړئ
+Automation rule {0} not found,د اتوماتیک قاعده {0} ونه موندل شوه
+Automation: {0},اتوماتیک: {0}
+Availability,شتون
+Available,شته
+Avatar updated successfully,انځور په بریالیتوب سره تازه شو
+Avg Progress,اوسط پرمختګ
+Back,شاته
+Back to Portal,پورټل ته بیرته
+Back to Projects,پروژو ته بیرته
+Beginner,پیل کوونکی
+Best regards,په درناوي
+Billable,د حساب وړ
+Billable Amount,د حساب وړ مبلغ
+Billable Hours,د حساب وړ ساعتونه
+Billable Rate,د حساب وړ نرخ
+Billing Rate,د حساب نرخ
+Blocked,بند شوی
+Both dates are needed to display task as a bar in Gantt chart,د ګانټ چارټ کې د دندې د بار په توګه ښودلو لپاره دواړه نیټې اړینې دي
+Both doctype and docname are required,دواړه DocType او DocName اړین دي
+Both proposed start and end times are required,دواړه وړاندیز شوي پیل او پای وختونه اړین دي
+Both task_name and depends_on are required,دواړه task_name او depends_on اړین دي
+Breadcrumb,لارښوونې
+Brief description of the defect or damage,د نیمګړتیا یا زیان لنډ تشریح
+Brief description of this template,د دې کینډۍ لنډ تشریح
+Brief description of your request,ستاسو د غوښتنې لنډ تشریح
+Brief project description,د پروژې لنډ تشریح
+Budget,بودجه
+Budget at risk,بودجه په خطر کې ده
+Budget Burn Rate,د بودجې مصرف نرخ
+Budget Status,د بودجې حالت
+Budget updated,بودجه تازه شوه
+Budget:,بودجه:
+Bug,تېروتنه
+Burn Rate,د مصرف نرخ
+Busy,بوخت
+By,له خوا
+By Assignee,د ټاکل شوي کس له مخې
+By Group,د ګروپ له مخې
+By Milestone,د مایلسټون له مخې
+By Priority,د لومړیتوب له مخې
+By Status,د حالت له مخې
+Cancel,لغوه کړئ
+Cancelled,لغوه شوی
+cannot be undone,نشي بیرته راوړل کیدی
+Cannot delete client with {0} linked projects. Unlink projects first.,پیرودونکی د {0} تړل شوو پروژو سره نشي حذف کیدی. لومړی پروژې جلا کړئ.
+Cannot delete project with {0} linked tasks. Delete tasks first.,پروژه د {0} تړل شوو دندو سره نشي حذف کیدی. لومړی دندې حذف کړئ.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,سرچینه د {0} فعالو دندو ورکونو سره نشي حذف کیدی. لومړی یې بشپړ یا لغوه کړئ.
+Cannot delete task with {0} subtasks. Delete subtasks first.,دنده د {0} فرعي دندو سره نشي حذف کیدی. لومړی فرعي دندې حذف کړئ.
+Capacity,ظرفیت
+capacity,ظرفیت
+Capacity & Rates,ظرفیت او نرخونه
+Capture project structure for reuse,د بیا کارونې لپاره د پروژې جوړښت ثبت کړئ
+Cascade,آبشار
+Cascade Preview,د آبشار مخلید
+Category,کتګوري
+Celebrate,ولمانځئ
+Change,بدل کړئ
+Change History,د بدلون تاریخچه
+Change Priority,لومړیتوب بدل کړئ
+Change Status,حالت بدل کړئ
+Changes,بدلونونه
+Changes appear when fields are modified.,بدلونونه ښکاره کیږي کله چې ساحې تعدیل شي.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,کتنې لیست
+Checklist item name is required,د کتنې لیست د توکي نوم اړین دی
+Checklist item not found,د کتنې لیست توکی ونه موندل شو
+Checklist item title is required,د کتنې لیست د توکي سرلیک اړین دی
+Checklist item {0} not found,د کتنې لیست توکی {0} ونه موندل شو
+Checklist item {0} not found in task,د کتنې لیست توکی {0} په دنده کې ونه موندل شو
+Child,فرعي
+Choose file to upload,د پورته کولو لپاره دوتنه غوره کړئ
+Circular dependency detected: {0},دوراني انحصار وموندل شو: {0}
+Circular parent-child relationship detected,دوراني مور-ماشوم اړیکه وموندل شوه
+Clear,پاک کړئ
+Clear all read,ټول لوستل شوي پاک کړئ
+Clear date,نیټه پاکه کړئ
+Click on an activity from the list to view and manage its details.,د جزئیاتو لیدلو او مدیریت لپاره له لیست څخه یو فعالیت باندې کلیک وکړئ.
+Click the avatar to upload a new photo,د نوي انځور پورته کولو لپاره په انځور باندې کلیک وکړئ
+Click to add description...,د تشریح اضافه کولو لپاره کلیک وکړئ...
+Click to add notes...,د یادښتونو اضافه کولو لپاره کلیک وکړئ...
+Click to assign contact,د اړیکې ټاکلو لپاره کلیک وکړئ
+Click to change status,د حالت بدلولو لپاره کلیک وکړئ
+Click to change type,د ډول بدلولو لپاره کلیک وکړئ
+Click to edit,د سمون لپاره کلیک وکړئ
+Click to edit budget,د بودجې سمون لپاره کلیک وکړئ
+Click to edit description,د تشریح سمون لپاره کلیک وکړئ
+Click to edit end date,د پای نیټې سمون لپاره کلیک وکړئ
+Click to edit milestone name,د مایلسټون نوم سمون لپاره کلیک وکړئ
+Click to edit rate,د نرخ سمون لپاره کلیک وکړئ
+Click to edit start date,د پیل نیټې سمون لپاره کلیک وکړئ
+Click to edit title,د سرلیک سمون لپاره کلیک وکړئ
+Click to load,د بارولو لپاره کلیک وکړئ
+Click to set group dependency...,د ګروپ انحصار ټاکلو لپاره کلیک وکړئ...
+Click to set group...,د ګروپ ټاکلو لپاره کلیک وکړئ...
+Click to view,د لیدلو لپاره کلیک وکړئ
+Click to view at-risk projects,په خطر کې پروژې لیدلو لپاره کلیک وکړئ
+Click to view critical projects,مهمې پروژې لیدلو لپاره کلیک وکړئ
+Click to view healthy projects,سالمې پروژې لیدلو لپاره کلیک وکړئ
+Client,پیرودونکی
+Client already has a portal user: {0},پیرودونکی لا دمخه د پورټل کارونکی لري: {0}
+Client already has portal access,پیرودونکی لا دمخه پورټل ته لاسرسی لري
+Client has no portal user to revoke,پیرودونکی د لغوه کولو لپاره هیڅ پورټل کارونکی نلري
+Client link removed from project {0},د پیرودونکي تړنه له پروژې {0} څخه لرې شوه
+Client Portal,د پیرودونکي پورټل
+Client {0} deleted successfully,پیرودونکی {0} په بریالیتوب سره حذف شو
+Close,وتړئ
+Close (Esc),وتړئ (Esc)
+Comment,نظر
+comment,نظر
+Comment added,نظر اضافه شو
+Comment content is required,د نظر منځپانګه اړینه ده
+Comment name is required,د نظر نوم اړین دی
+Comment not found,نظر ونه موندل شو
+Comment removed,نظر لرې شو
+Comment {0} not found in task,نظر {0} په دنده کې ونه موندل شو
+Comments,نظرونه
+comments,نظرونه
+Community Edition,Community Edition
+Company,شرکت
+Company name...,د شرکت نوم...
+Complete,بشپړ کړئ
+Completed,بشپړ شوی
+completed,بشپړ شوی
+Completed Tasks,بشپړ شوې دندې
+Compliance,انطباق
+Configure default values for new projects and tasks,د نویو پروژو او دندو لپاره اصلي ارزښتونه تنظیم کړئ
+Configure email notification settings,د بریښنالیک خبرتیا تنظیمات تنظیم کړئ
+Confirm,تایید کړئ
+Contact deleted,اړیکه حذف شوه
+Contact Details,د اړیکې جزئیات
+Contact Information,د اړیکې معلومات
+Contact name is required,د اړیکې نوم اړین دی
+Contact Support,د ملاتړ سره اړیکه
+Contact your project manager for more information.,د نورو معلوماتو لپاره خپل پروژه مدیر سره اړیکه ونیسئ.
+Contact:,اړیکه:
+Contacts,اړیکې
+Context,شرایط
+Contractor,قراردادی
+Cost estimate cannot be negative,د لګښت اټکل نشي کولی منفي وي
+Cost Impact,د لګښت اغیز
+Cost Summary,د لګښت لنډیز
+Could not apply the template. Please try again.,کینډۍ نشي پلي کیدی. مهرباني وکړئ بیا هڅه وکړئ.
+Could not attach file to project,دوتنه پروژې ته نشي ضمیمه کیدی
+Could not change task priority,د دندې لومړیتوب نشي بدلیدی
+Could not change task status,د دندې حالت نشي بدلیدی
+Could not delete the project. Please try again.,پروژه نشي حذف کیدی. مهرباني وکړئ بیا هڅه وکړئ.
+Could not delete the task. Please try again.,دنده نشي حذف کیدی. مهرباني وکړئ بیا هڅه وکړئ.
+Could not delete the template.,کینډۍ نشي حذف کیدی.
+Could not duplicate the task. Please try again.,دنده نشي نقل کیدی. مهرباني وکړئ بیا هڅه وکړئ.
+Could not export the template.,کینډۍ نشي صادر کیدی.
+Could not import the template. Please check the file format.,کینډۍ نشي واردیدی. مهرباني وکړئ د دوتنې بڼه وکتلئ.
+Could not link task to milestone,دنده مایلسټون ته نشي تړل کیدی
+Could not load document details.,د سند جزئیات نشي بارول کیدی.
+Could not load task details,د دندې جزئیات نشي بارول کیدی
+Could not promote checklist item to task.,د کتنې لیست توکی دندې ته نشي ارتقا کیدی.
+Could not remove task from milestone,دنده له مایلسټون څخه نشي لرې کیدی
+Could not save budget.,بودجه نشي خوندي کیدی.
+Could not save changes to the milestone,مایلسټون ته بدلونونه نشي خوندي کیدی
+Could not save changes to the task,دندې ته بدلونونه نشي خوندي کیدی
+Could not save description.,تشریح نشي خوندي کیدی.
+Could not save end date.,د پای نیټه نشي خوندي کیدی.
+Could not save milestone name.,د مایلسټون نوم نشي خوندي کیدی.
+Could not save start date.,د پیل نیټه نشي خوندي کیدی.
+Could not save the template. Please try again.,کینډۍ نشي خوندي کیدی. مهرباني وکړئ بیا هڅه وکړئ.
+Could not save title.,سرلیک نشي خوندي کیدی.
+Could not update dependency mode.,د انحصار حالت نشي تازه کیدی.
+Could not update milestone date,د مایلسټون نیټه نشي تازه کیدی
+Could not update project status.,د پروژې حالت نشي تازه کیدی.
+Could not update project type.,د پروژې ډول نشي تازه کیدی.
+Could not update setting.,تنظیم نشي تازه کیدی.
+Could not update task dates,د دندې نیټې نشي تازه کیدی
+Could not update task status,د دندې حالت نشي تازه کیدی
+Could not update the template.,کینډۍ نشي تازه کیدی.
+Create a copy of this task,د دې دندې یوه کاپي جوړه کړئ
+Create Contact,اړیکه جوړه کړئ
+Create Event,پیښه جوړه کړئ
+Create Milestone,مایلسټون جوړ کړئ
+Create New Milestone,نوی مایلسټون جوړ کړئ
+Create New Task,نوې دنده جوړه کړئ
+Create Project,پروژه جوړه کړئ
+Create Task,دنده جوړه کړئ
+Create tasks and milestones from a template,له کینډۍ څخه دندې او مایلسټونونه جوړ کړئ
+Create your first project to get started.,د پیل لپاره خپله لومړۍ پروژه جوړه کړئ.
+Create your first task to start tracking work on this project.,د دې پروژې د کار تعقیب پیلولو لپاره خپله لومړۍ دنده جوړه کړئ.
+Created,جوړ شوی
+Creating...,جوړیږي...
+Critical,مهم
+Critical Path,مهمه لاره
+"Currency used for budgets, costs, and billing rates",د بودجو، لګښتونو، او د حساب نرخونو لپاره کارول شوې اسعار
+Current,اوسنی
+Current Assignments,اوسنۍ دندې ورکونې
+Current scheduled time:,اوسنی مقرر شوی وخت:
+Currently running version,Currently running version
+d lag,ورځ ځنډ
+Daily Availability,ورځنی شتون
+Daily Hours,ورځنی ساعتونه
+Danger Zone,خطرناکه ساحه
+Dark,تیاره
+Dashboard,ډشبورډ
+Date,نیټه
+Date changes on this task will show cascade impact here,په دې دنده کې د نیټې بدلونونه به دلته د آبشار اغیز وښیي
+Date cleared,نیټه پاکه شوه
+Date of Joining,د یوځای کیدو نیټه
+Date updated,نیټه تازه شوه
+Dates,نیټې
+Dates cascaded,نیټې آبشار شوې
+Dates will be relative to the project's start date.,نیټې به د پروژې د پیل نیټې په نسبت وي.
+Day,ورځ
+day,ورځ
+days,ورځې
+Days before due date to send reminder,د یادونې لیږلو لپاره د وعدې نیټې څخه مخکې ورځې
+Days Overdue,ناوخته ورځې
+Days Remaining,پاتې ورځې
+Deadline,وروستۍ نیټه
+Deadlines,وروستۍ نیټې
+Decision,پریکړه
+Decline,رد کړئ
+Declined,رد شوی
+Default Currency,اصلي اسعار
+Default hours per week for contact capacity planning,د اړیکې ظرفیت پلان لپاره په اونۍ کې اصلي ساعتونه
+Default Priority,اصلي لومړیتوب
+Default Project Status,اصلي د پروژې حالت
+Default Task Status,اصلي د دندې حالت
+Default task view,اصلي د دندې لید
+Default Values,اصلي ارزښتونه
+Default Weekly Capacity,اصلي اونیز ظرفیت
+Defaults,اصلي ارزښتونه
+Defect Cost Impact,د نیمګړتیا لګښت اغیز
+Defect name is required,د نیمګړتیا نوم اړین دی
+Defect Type,د نیمګړتیا ډول
+Defect {0} not found,نیمګړتیا {0} ونه موندل شوه
+Defects,نیمګړتیاوې
+Defects & Issues,نیمګړتیاوې او ستونزې
+Defects Resolved,حل شوې نیمګړتیاوې
+Delayed,ځنډ شوی
+Delete,حذف کړئ
+Delete Activity Data,د فعالیت معلومات حذف کړئ
+Delete all read notifications?,ټولې لوستل شوې خبرتیاوې حذف کړئ؟
+Delete comment,نظر حذف کړئ
+Delete Contact,اړیکه حذف کړئ
+Delete Event,پیښه حذف کړئ
+Delete Event?,پیښه حذف کړئ؟
+Delete failed,حذف کول ناکام شو
+Delete file,دوتنه حذف کړئ
+Delete item,توکی حذف کړئ
+Delete note,یادښت حذف کړئ
+Delete Project,پروژه حذف کړئ
+Delete Task,دنده حذف کړئ
+Delete this project,دا پروژه حذف کړئ
+Deleted,حذف شوی
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","پروژه ""{0}"" حذف شوه ({1} دندې، {2} مایلسټونونه)"
+Deletes notes and preferences. Source document is not affected.,یادښتونه او غوره توبونه حذفوي. اصلي سند متاثر نه کیږي.
+Deleting...,حذف کیږي...
+Department,څانګه
+Dependencies,انحصارونه
+dependencies,انحصارونه
+Dependencies are informational only,انحصارونه یوازې معلوماتي دي
+dependency,انحصار
+Dependency already exists,انحصار لا دمخه شتون لري
+Dependency Chain,د انحصار سلسله
+Dependency created,انحصار جوړ شو
+Dependency mode updated,د انحصار حالت تازه شو
+Dependency name is required,د انحصار نوم اړین دی
+Dependency task {0} not found,د انحصار دنده {0} ونه موندل شوه
+Dependency {0} not found,انحصار {0} ونه موندل شو
+depends,انحصار لري
+Depends on Group,په ګروپ انحصار لري
+Depends on task is required,انحصاري دنده اړینه ده
+depends on...,انحصار لري...
+Descending -- click to reverse,نزولي -- د بدلولو لپاره کلیک وکړئ
+Describe the defect in detail...,نیمګړتیا په تفصیل سره تشریح کړئ...
+Description,تشریح
+Description updated,تشریح تازه شوه
+Designation,عنوان
+"Detailed description of the defect, location, and impact",د نیمګړتیا، ځای، او اغیز تفصیلي تشریح
+Details,جزئیات
+Discard timer,ټایمر رد کړئ
+Discussion,بحث
+Dismiss,Dismiss
+Display,نندارتون
+Document,سند
+Document attached to project,سند پروژې ته ضمیمه شو
+Document final decision and rationale,وروستۍ پریکړه او دلیل مستند کړئ
+Documentation Review,د اسنادو بیاکتنه
+Documents,اسناد
+Done,بشپړ
+Download,ښکته کړئ
+Drag to create dependency,د انحصار جوړولو لپاره راکش کړئ
+Dry Run,ازمایشي چلول
+Dry Run Complete,ازمایشي چلول بشپړ شو
+Due Date,د وعدې نیټه
+Due date,د وعدې نیټه
+Due Date (Earliest),د وعدې نیټه (تر ټولو وړومبۍ)
+Due date cannot be before start date,د وعدې نیټه نشي کولی د پیل نیټې څخه مخکې وي
+Due date is in the past,د وعدې نیټه تیره شوې ده
+Due Date Reminders,د وعدې نیټې یادونې
+Due Diligence,بشپړه پلټنه
+Due Diligence Checklist,د بشپړې پلټنې کتنې لیست
+Due This Week,دا اونۍ باید وشي
+Due:,وعده:
+Duplicate events are not allowed,نقلي پیښې اجازه نلري
+Duplicate failed,نقل ناکام شو
+Duplicate Task,دنده نقل کړئ
+Duration,موده
+Duration Summary,د مودې لنډیز
+Duration:,موده:
+e.g. Cracked wall finish in bathroom...,لکه: په تشناب کې د دیوال چاودنه...
+"e.g. Electrical, Plumbing...",لکه: بریښنایي، نلدواني...
+Edit,سم کړئ
+Edit (E),سم کړئ (E)
+Edit dependency,انحصار سم کړئ
+Edit Event,پیښه سمه کړئ
+Efficiency,موثریت
+Either dependency_name or depends_on is required,یا dependency_name یا depends_on اړین دی
+Email,بریښنالیک
+Email invitations to all attendees,ټولو ګډون کوونکو ته د بریښنالیک بلنې
+Email is required to create portal user,د پورټل کارونکي جوړولو لپاره بریښنالیک اړین دی
+Email notifications,د بریښنالیک خبرتیاوې
+Employee,کارمند
+Employee DocType not available,د کارمند DocType شته نه دی
+Employee not found,کارمند ونه موندل شو
+Enable or disable optional features,اختیاري ځانګړتیاوې فعالې یا غیرفعالې کړئ
+Enable Time Tracking,د وخت تعقیب فعال کړئ
+End,پای
+End Date,د پای نیټه
+End date,د پای نیټه
+End Date cannot be before Start Date,د پای نیټه نشي کولی د پیل نیټې څخه مخکې وي
+End date cannot be before start date,د پای نیټه نشي کولی د پیل نیټې څخه مخکې وي
+End date updated,د پای نیټه تازه شوه
+End time was before start time. Adjusted to 1 hour after start.,د پای وخت د پیل وخت څخه مخکې وو. د پیل وروسته 1 ساعت ته تنظیم شو.
+End:,پای:
+Enter milestone name...,د مایلسټون نوم ولیکئ...
+Enter project name,د پروژې نوم ولیکئ
+Enter task title...,د دندې سرلیک ولیکئ...
+Enter template name,د کینډۍ نوم ولیکئ
+Enter your note... Use @name to mention someone,خپل یادښت ولیکئ... د یادونې لپاره @نوم وکاروئ
+Error,تېروتنه
+Error loading activity,د فعالیت بارولو تېروتنه
+Error loading contacts,د اړیکو بارولو تېروتنه
+Error loading dashboard,د ډشبورډ بارولو تېروتنه
+Error loading project,د پروژې بارولو تېروتنه
+Error loading projects,د پروژو بارولو تېروتنه
+Error loading settings,د تنظیماتو بارولو تېروتنه
+Error loading tasks,د دندو بارولو تېروتنه
+Error loading templates,د کینډیو بارولو تېروتنه
+Est. Hours,اټکل شوي ساعتونه
+Estimated,اټکل شوی
+Estimated Cost,اټکل شوی لګښت
+Estimated Cost (€),اټکل شوی لګښت (€)
+Estimated Hours,اټکل شوي ساعتونه
+Estimated:,اټکل شوی:
+Evaluate potential risks and concerns,احتمالي خطرونه او اندیښنې ارزولئ
+Event,پیښه
+Event is required for event context,د پیښې شرایطو لپاره پیښه اړینه ده
+Event is required when tracking context is 'event',کله چې د تعقیب شرایط 'پیښه' وي نو پیښه اړینه ده
+Event Type,د پیښې ډول
+Events,پیښې
+Events not available. Please run: bench --site orga.localhost migrate,پیښې شتون نلري. مهرباني وکړئ دا چل کړئ: bench --site orga.localhost migrate
+Events:,پیښې:
+Expert,متخصص
+Explain why you are proposing a different time...,تشریح کړئ چې ولې تاسو بل وخت وړاندیز کوئ...
+Export,صادر کړئ
+Export failed,صادرول ناکام شو
+Export JSON,JSON صادر کړئ
+Exported,صادر شوی
+Exported to timesheet {0},د وخت پاڼې {0} ته صادر شو
+External,بهرنی
+Failed to add item,توکی اضافه کول ناکام شو
+Failed to add note,یادښت اضافه کول ناکام شو
+Failed to add skill,مهارت اضافه کول ناکام شو
+Failed to apply cascade changes: {0},د آبشار بدلونونه پلي کول ناکام شو: {0}
+Failed to create defect,نیمګړتیا جوړول ناکام شو
+Failed to create dependency,انحصار جوړول ناکام شو
+Failed to create event,پیښه جوړول ناکام شو
+Failed to create milestone,مایلسټون جوړول ناکام شو
+Failed to create project,پروژه جوړول ناکام شو
+Failed to create task,دنده جوړول ناکام شو
+Failed to create time log,د وخت ثبت جوړول ناکام شو
+Failed to delete,حذف کول ناکام شو
+Failed to delete comment,نظر حذف کول ناکام شو
+Failed to delete contact,اړیکه حذف کول ناکام شو
+Failed to load,بارول ناکام شو
+Failed to load activity,فعالیت بارول ناکام شو
+Failed to load assignments,دندې ورکونې بارول ناکام شو
+Failed to load contact,اړیکه بارول ناکام شو
+Failed to load dashboard data,د ډشبورډ معلومات بارول ناکام شو
+Failed to load defects,نیمګړتیاوې بارول ناکام شو
+Failed to load events,پیښې بارول ناکام شو
+Failed to load project,پروژه بارول ناکام شو
+Failed to load projects,پروژې بارول ناکام شو
+Failed to load report data,د راپور معلومات بارول ناکام شو
+Failed to load settings,تنظیمات بارول ناکام شو
+Failed to load tasks,دندې بارول ناکام شو
+Failed to move task,دنده لیږدول ناکام شو
+Failed to post comment,نظر خپرول ناکام شو
+Failed to propose new time,نوی وخت وړاندیز کول ناکام شو
+Failed to remove item,توکی لرې کول ناکام شو
+Failed to remove skill,مهارت لرې کول ناکام شو
+Failed to reorder milestones: {0},مایلسټونونه بیا ترتیبول ناکام شو: {0}
+Failed to reorder tasks: {0},دندې بیا ترتیبول ناکام شو: {0}
+Failed to reschedule dependent tasks: {0},تابع دندې بیا مقررول ناکام شو: {0}
+Failed to save,خوندي کول ناکام شو
+Failed to save preferences,غوره توبونه خوندي کول ناکام شو
+Failed to save settings,تنظیمات خوندي کول ناکام شو
+Failed to submit request. Please try again.,غوښتنه لیږل ناکام شو. مهرباني وکړئ بیا هڅه وکړئ.
+Failed to update item,توکی تازه کول ناکام شو
+Failed to update priority,لومړیتوب تازه کول ناکام شو
+Failed to update task,دنده تازه کول ناکام شو
+Failed to update tasks: {0},دندې تازه کول ناکام شو: {0}
+Failed to upload avatar,انځور پورته کول ناکام شو
+Feature,ځانګړتیا
+Features,ځانګړتیاوې
+FF (Finish-Finish),پپ (پای-پای)
+FF - Finish-to-Finish,پپ - پای-ته-پای
+Field has been updated,ساحه تازه شوه
+Field name is required for 'Set Field Value' action,د 'ساحه ارزښت ټاکل' عمل لپاره د ساحې نوم اړین دی
+Field {0} is not a Link field,ساحه {0} د تړنې ساحه نه ده
+Field {0} not found in {1},ساحه {0} په {1} کې ونه موندل شوه
+file,دوتنه
+File,دوتنه
+File does not belong to this task,دوتنه دې دندې ته تعلق نلري
+File name is required,د دوتنې نوم اړین دی
+File uploaded,دوتنه پورته شوه
+File {0} not found,دوتنه {0} ونه موندل شوه
+files,دوتنې
+Files,دوتنې
+Filter,فلټر
+Final Decision,وروستۍ پریکړه
+Finance,مالي چارې
+Financial,مالي
+Finish-to-Finish,پای-ته-پای
+Finish-to-Start,پای-ته-پیل
+Flag,نښه کړئ
+Flag for attention,د پاملرنې لپاره نښه کړئ
+Flagged,نښه شوی
+Focus Panel,تمرکز پینل
+Follows your system preference. Currently:,ستاسو د سیسټم غوره توب تعقیبوي. اوسمهال:
+Frappe Project {0} not found,Frappe پروژه {0} ونه موندل شوه
+Frappe Projects Migration,د Frappe پروژو لیږدونه
+Frappe Projects module not available,د Frappe پروژو ماډل شته نه دی
+Frappe Projects module not installed,د Frappe پروژو ماډل نصب شوی نه دی
+Frappe Projects sync is not enabled,د Frappe پروژو همغږي فعاله نه ده
+Frappe Task DocType not found,د Frappe دندې DocType ونه موندل شو
+Frappe Task has no project,Frappe دنده هیڅ پروژه نلري
+Frappe Task {0} not found,Frappe دنده {0} ونه موندل شوه
+Fri,جمعه
+From,له
+From Template,له کینډۍ څخه
+FS (Finish-Start),پ‌پ (پای-پیل)
+FS - Finish-to-Start (default),پ‌پ - پای-ته-پیل (اصلي)
+Full form view with audit trail,بشپړ فورمه لید د پلټنې سلسلې سره
+Full name,بشپړ نوم
+Gantt,ګانټ
+Gantt Chart,ګانټ چارټ
+Gantt View,ګانټ لید
+General Note,عمومي یادښت
+Get started,پیل وکړئ
+Go back,شاته لاړ شئ
+Go Back,Go Back
+Group by,ګروپ بندي
+Group dependency removed,د ګروپ انحصار لرې شو
+Group dependency set,د ګروپ انحصار ټاکل شو
+Group removed,ګروپ لرې شو
+Group updated,ګروپ تازه شو
+Hammock task dates are auto-calculated and cannot be changed manually,د هموک دندې نیټې اتوماتیک محاسبه کیږي او لاسي نشي بدلیدی
+Have a question or need assistance? Fill out the form below and our team will get back to you.,پوښتنه لرئ یا مرستې ته اړتیا لرئ؟ لاندې فورمه ډکه کړئ او زموږ ټیم به تاسو سره اړیکه ونیسي.
+Health,روغتیا
+Healthy,سالم
+Hello {0},سلام {0}
+Here's what's happening with your projects today.,دلته هغه څه دي چې نن ستاسو د پروژو سره تیریږي.
+Hide,پټ کړئ
+High,لوړ
+History,تاریخچه
+Home,کور
+Hourly Cost,ساعتني لګښت
+Hours,ساعتونه
+hours,ساعتونه
+Hours Logged,ثبت شوي ساعتونه
+ID,پیژندنه
+Image must be smaller than 5 MB,انځور باید له 5 MB څخه کم وي
+Import,وارد کړئ
+Import existing projects and tasks from Frappe Projects module,د Frappe پروژو ماډل څخه موجودې پروژې او دندې وارد کړئ
+Import failed,واردول ناکام شو
+Import Template,کینډۍ وارد کړئ
+Imported,وارد شوی
+in,په
+In Progress,روان دی
+In Review,بیاکتنه کې
+In-app notifications,د اپلیکیشن دننه خبرتیاوې
+Inactive,غیرفعال
+Initial Review,لومړنۍ بیاکتنه
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,د ټولو دندو لیدلو لپاره ناکافي اجازې
+Intermediate,منځنی
+Internal,داخلي
+Invalid DocType,ناسم DocType
+Invalid DocType for import,د واردولو لپاره ناسم DocType
+Invalid item type: {0},ناسم توکي ډول: {0}
+Invalid JSON data,ناسم JSON معلومات
+Invalid note type. Must be one of: {0},ناسم یادښت ډول. باید له دې څخه یو وي: {0}
+Invalid project reference,ناسمه پروژه حواله
+Invalid reaction type. Must be one of: {0},ناسم غبرګون ډول. باید له دې څخه یو وي: {0}
+Invalid RSVP status,ناسم RSVP حالت
+Invalid status. Must be one of: {0},ناسم حالت. باید له دې څخه یو وي: {0}
+Invalid status: {0},ناسم حالت: {0}
+Invalid status: {0}. Must be one of: {1},ناسم حالت: {0}. باید له دې څخه یو وي: {1}
+Invalid tracking context: {0},ناسم تعقیب شرایط: {0}
+Invalid visibility. Must be one of: {0},ناسمه لیدنه. باید له دې څخه یو وي: {0}
+Invitation: {0} - {1} at {2},بلنه: {0} - {1} په {2}
+Invite People,خلک بلنه ورکړئ
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,توکی اضافه شو
+Item ID is required,د توکي پیژندنه اړینه ده
+Item removed,توکی لرې شو
+Item type is required,د توکي ډول اړین دی
+Item {0} not found,توکی {0} ونه موندل شو
+Job title or role,د دندې سرلیک یا رول
+Join Meeting,غونډې ته ورشئ
+Just now,همدا اوس
+just now,همدا اوس
+Kanban,کانبان
+Kanban Board,کانبان بورډ
+Kanban View,کانبان لید
+Keyboard Shortcuts,د کیبورډ شارټکټونه
+Keyboard shortcuts (?),د کیبورډ شارټکټونه (?)
+Last checked: {0},Last checked: {0}
+Last Updated,وروستی ځل تازه شوی
+Last updated:,وروستی ځل تازه شوی:
+Last Week,تیره اونۍ
+Latest Version,Latest Version
+Light,روښانه
+Link failed,تړل ناکام شو
+Link Task,دنده وتړئ
+Linked,تړل شوی
+Linked employee not found,تړل شوی کارمند ونه موندل شو
+Linked Tasks,تړل شوې دندې
+List,لیست
+List View,لیست لید
+Load failed,بارول ناکام شو
+Load More,نور بار کړئ
+Load more comments,نور نظرونه بار کړئ
+Loading activity...,فعالیت بارولو کې...
+Loading changes...,بدلونونه بارولو کې...
+Loading checklist...,کتنې لیست بارولو کې...
+Loading comments...,نظرونه بارولو کې...
+Loading contact...,اړیکه بارولو کې...
+Loading contacts...,اړیکې بارولو کې...
+Loading dependencies...,انحصارونه بارولو کې...
+Loading details...,جزئیات بارولو کې...
+Loading discussion...,بحث بارولو کې...
+Loading events...,پیښې بارولو کې...
+Loading files...,دوتنې بارولو کې...
+Loading notes...,یادښتونه بارولو کې...
+Loading preferences...,غوره توبونه بارولو کې...
+Loading project...,پروژه بارولو کې...
+Loading projects...,پروژې بارولو کې...
+Loading replies...,ځوابونه بارولو کې...
+Loading report data...,د راپور معلومات بارولو کې...
+Loading settings...,تنظیمات بارولو کې...
+Loading task...,دنده بارولو کې...
+Loading templates...,کینډۍ بارولو کې...
+Loading time logs...,وخت ثبتونه بارولو کې...
+Loading your portal...,ستاسو پورټل بارولو کې...
+Loading...,بارول کیږي...
+Location,ځای
+Log Time,وخت ثبت کړئ
+Logout,وتل
+Low,ټیټ
+Make Offer,وړاندیز وکړئ
+Manager,مدیر
+Manual Entry,لاسي ننوتنه
+Margin,حاشیه
+Mark all as read,ټول د لوستل شوو په توګه نښه کړئ
+Mark all read,ټول لوستل شوي نښه کړئ
+Mark as read,د لوستل شوي په توګه نښه کړئ
+Mark as unread,د نالوستل شوي په توګه نښه کړئ
+Mark read,لوستل شوی نښه کړئ
+Marking...,نښه کیږي...
+Material,مواد
+Maybe,شاید
+Medium,منځنی
+Meeting,غونډه
+Meeting Link,د غونډې لینک
+Meeting title,د غونډې سرلیک
+Meeting URL,د غونډې URL
+Meetings,غونډې
+Mention,یادونه
+Message,پیغام
+Message is required,پیغام اړین دی
+Message is required for '{0}' action,د '{0}' عمل لپاره پیغام اړین دی
+Migrate,لیږدول
+Migration Complete,لیږدونه بشپړه شوه
+Migration ID:,د لیږدونې پیژندنه:
+Migration log not found: {0},د لیږدونې ثبت ونه موندل شو: {0}
+milestone,مایلسټون
+Milestone,مایلسټون
+Milestone created,مایلسټون جوړ شو
+Milestone description has been saved.,د مایلسټون تشریح خوندي شوه.
+Milestone ID is required,د مایلسټون پیژندنه اړینه ده
+Milestone marked as Missed (past due date),مایلسټون د له لاسه تللي په توګه نښه شو (د وعدې نیټه تیره شوې)
+Milestone moved,مایلسټون لیږدول شو
+Milestone Name,د مایلسټون نوم
+Milestone name has been saved.,د مایلسټون نوم خوندي شو.
+Milestone name is required,د مایلسټون نوم اړین دی
+Milestone updated,مایلسټون تازه شو
+Milestone {0} not found,مایلسټون {0} ونه موندل شو
+Milestone {0} not in project {1},مایلسټون {0} په پروژه {1} کې نشته
+milestones,مایلسټونونه
+Milestones,مایلسټونونه
+Milestones:,مایلسټونونه:
+Minutes,دقیقې
+Missed,له لاسه تللی
+Mixed,مخلوط
+Mobile,ګرځنده
+Moderate,متوسط
+Modified,تعدیل شوی
+"Modify details, time, or attendees",جزئیات، وخت، یا ګډون کوونکي تعدیل کړئ
+Mon,دوشنبه
+Month,میاشت
+Move failed,لیږدول ناکام شو
+Must be a positive number,باید مثبت عدد وي
+Must finish before this finishes,باید مخکې له دې چې دا پای ته ورسیږي بشپړ شي
+Must finish before this starts,باید مخکې له دې چې دا پیل شي بشپړ شي
+Must start before this finishes,باید مخکې له دې چې دا پای ته ورسیږي پیل شي
+Must start before this starts,باید مخکې له دې چې دا پیل شي پیل شي
+My Assignments,زما دندې ورکونې
+My Projects,زما پروژې
+My Schedule,زما مهال ویش
+My Tasks,زما دندې
+N/A,نامعلوم
+Name,نوم
+Name (A-Z),نوم (الف-ی)
+Name (Z-A),نوم (ی-الف)
+Name cannot exceed 255 characters,نوم نشي کولی له 255 حرفونو څخه زیات وي
+Need help?,مرستې ته اړتیا لرئ؟
+Needs Attention,پاملرنې ته اړتیا لري
+Never,Never
+new activities,نوي فعالیتونه
+New Activity,نوی فعالیت
+New activity,نوی فعالیت
+New Event,نوې پیښه
+New index is required,نوی شاخص اړین دی
+New Project,نوې پروژه
+New tasks will auto-trail by default.,نوې دندې به په اصلي توګه اتوماتیک تعقیب شي.
+Newest First,تر ټولو نوی لومړی
+Next,راتلونکی
+Next 14 days,راتلونکې 14 ورځې
+Next 30 days,راتلونکې 30 ورځې
+Next 60 days,راتلونکې 60 ورځې
+Next 7 days,راتلونکې 7 ورځې
+Next 90 days,راتلونکې 90 ورځې
+Next Week,راتلونکې اونۍ
+Next:,راتلونکی:
+No,نه
+No active assignments,هیڅ فعالې دندې ورکونې نشته
+No active projects,هیڅ فعالې پروژې نشته
+No active timer found,هیڅ فعال ټایمر ونه موندل شو
+No activity selected,هیڅ فعالیت ندی ټاکل شوی
+No assignments found,هیڅ دندې ورکونې ونه موندل شوې
+No attendees,هیڅ ګډون کوونکي نشته
+no change,هیڅ بدلون نشته
+No changes for this field.,د دې ساحې لپاره هیڅ بدلون نشته.
+No changes recorded for this activity.,د دې فعالیت لپاره هیڅ بدلون ثبت شوی نه دی.
+No checklist items yet,تر اوسه هیڅ د کتنې لیست توکي نشته
+No checklist items yet.,تر اوسه هیڅ د کتنې لیست توکي نشته.
+No comments yet,تر اوسه هیڅ نظرونه نشته
+No comments yet.,تر اوسه هیڅ نظرونه نشته.
+No contacts available,هیڅ اړیکې شته نه دي
+No content for this tab,د دې ټب لپاره هیڅ منځپانګه نشته
+No data available,هیڅ معلومات شته نه دي
+No data available for the selected filters,د ټاکل شویو فلټرونو لپاره هیڅ معلومات شته نه دي
+No data to export,د صادرولو لپاره هیڅ معلومات نشته
+No dates set,هیڅ نیټې ندي ټاکل شوې
+No defects reported,هیڅ نیمګړتیاوې ندي راپور شوې
+No dependencies defined,هیڅ انحصارونه ندي ټاکل شوي
+No description,هیڅ تشریح نشته
+No discussion yet.,تر اوسه هیڅ بحث نشته.
+No documents attached,هیڅ اسناد ضمیمه ندي
+No due date,هیڅ د وعدې نیټه نشته
+No employee linked to this resource,هیڅ کارمند دې سرچینې ته تړلی نه دی
+No ERPNext employee linked to resource,هیڅ ERPNext کارمند سرچینې ته تړلی نه دی
+No events found,هیڅ پیښې ونه موندل شوې
+No files attached yet.,تر اوسه هیڅ دوتنې ضمیمه ندي شوې.
+No Frappe Project linked,هیڅ Frappe پروژه تړلې نه ده
+No Grouping,هیڅ ګروپ بندي نشته
+No items,هیڅ توکي نشته
+No matching tasks,هیڅ مطابقه لرونکې دندې نشته
+No matching tasks found,هیڅ مطابقه لرونکې دندې ونه موندل شوې
+No migration history,هیڅ د لیږدونې تاریخچه نشته
+No Milestone,هیڅ مایلسټون نشته
+No milestones,هیڅ مایلسټونونه نشته
+No milestones defined for this project.,د دې پروژې لپاره هیڅ مایلسټونونه ندي ټاکل شوي.
+No notes yet.,تر اوسه هیڅ یادښتونه نشته.
+No notes yet. Add a due diligence note to track progress.,تر اوسه هیڅ یادښتونه نشته. د پرمختګ تعقیب لپاره د بشپړې پلټنې یادښت اضافه کړئ.
+No notifications,هیڅ خبرتیاوې نشته
+No Orga Project linked to Frappe Project {0},هیڅ Orga پروژه د Frappe پروژې {0} سره تړلې نه ده
+No overdue tasks,هیڅ ناوخته دندې نشته
+No pending cascade changes,هیڅ پاتې آبشار بدلونونه نشته
+No predecessors - this task can start independently,هیڅ مخکني نشته - دا دنده په خپلواکه توګه پیل کیدی شي
+No project,هیڅ پروژه نشته
+No projects found,هیڅ پروژې ونه موندل شوې
+No Projects Yet,تر اوسه هیڅ پروژې نشته
+No recent activity,هیڅ اوسني فعالیت نشته
+No related documents,هیڅ اړوند اسناد نشته
+No resolved threads.,هیڅ حل شوي موضوعات نشته.
+No resources found,هیڅ سرچینې ونه موندل شوې
+No results found,هیڅ پایلې ونه موندل شوې
+No skills listed,هیڅ مهارتونه لیست شوي ندي
+No skills recorded yet,تر اوسه هیڅ مهارتونه ثبت شوي ندي
+No successors - no tasks are waiting for this one,هیڅ وروستي نشته - هیڅ دندې د دې لپاره انتظار نه کوي
+No task selected,هیڅ دنده ندي ټاکل شوې
+No tasks assigned to you,تاسو ته هیڅ دندې ندي ټاکل شوې
+No tasks available to add,د اضافه کولو لپاره هیڅ دندې شته نه دي
+No tasks found,هیڅ دندې ونه موندل شوې
+No tasks linked to this milestone,هیڅ دندې دې مایلسټون ته تړلې نه دي
+No tasks with dates to display,د ښودلو لپاره د نیټو سره هیڅ دندې نشته
+No tasks yet,تر اوسه هیڅ دندې نشته
+No team members,هیڅ ټیم غړي نشته
+No template,هیڅ کینډۍ نشته
+No templates yet,تر اوسه هیڅ کینډۍ نشته
+No time data found,هیڅ وخت معلومات ونه موندل شول
+No time logged today,نن هیڅ وخت ثبت شوی نه دی
+No time logged yet,تر اوسه هیڅ وخت ثبت شوی نه دی
+No time logs for this period,د دې دورې لپاره هیڅ وخت ثبتونه نشته
+No time logs found,هیڅ وخت ثبتونه ونه موندل شول
+No unread notifications,هیڅ نالوستلې خبرتیاوې نشته
+No update information available yet.,No update information available yet.
+None,هیڅ
+Not found,ونه موندل شو
+Not permitted,اجازه نلري
+Not permitted to access this project,دې پروژې ته لاسرسي اجازه نلري
+Not permitted to access this task,دې دندې ته لاسرسي اجازه نلري
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,په دې سند نظر ورکولو اجازه نلري
+Not permitted to create clients,پیرودونکي جوړولو اجازه نلري
+Not permitted to delete this client,دا پیرودونکی حذف کولو اجازه نلري
+Not permitted to delete this defect,دا نیمګړتیا حذف کولو اجازه نلري
+Not permitted to delete this note,دا یادښت حذف کولو اجازه نلري
+Not permitted to delete this project,دا پروژه حذف کولو اجازه نلري
+Not permitted to delete this task,دا دنده حذف کولو اجازه نلري
+Not permitted to delete this time log,دا وخت ثبت حذف کولو اجازه نلري
+Not permitted to invite clients,پیرودونکو ته بلنه ورکولو اجازه نلري
+Not permitted to modify client access,د پیرودونکي لاسرسي تعدیل اجازه نلري
+Not permitted to modify this project,دا پروژه تعدیل کولو اجازه نلري
+Not permitted to update settings,تنظیمات تازه کولو اجازه نلري
+Not permitted to update this client,دا پیرودونکی تازه کولو اجازه نلري
+Not permitted to view this client,دا پیرودونکی لیدلو اجازه نلري
+not sent,نه دی لیږل شوی
+Not set,ټاکل شوی نه دی
+Not specified,مشخص شوی نه دی
+Note,یادښت
+Note (optional),یادښت (اختیاري)
+Note Content,د یادښت منځپانګه
+Note content is required,د یادښت منځپانګه اړینه ده
+Note name is required,د یادښت نوم اړین دی
+Note not found,یادښت ونه موندل شو
+Note Type,د یادښت ډول
+Notes,یادښتونه
+Notification,خبرتیا
+Notification not found,خبرتیا ونه موندل شوه
+Notifications,خبرتیاوې
+Off Track,له لارې وتلی
+Offer,وړاندیز
+Offer Prepared,وړاندیز چمتو شو
+Oldest First,تر ټولو زوړ لومړی
+On Hold,ودرول شوی
+On Leave,رخصتي
+On Track,په سمه لاره
+On-Time Rate,په وخت سره نرخ
+Only administrators can delete activities,یوازې مدیران کولی شي فعالیتونه حذف کړي
+Only the comment author or administrators can delete comments,یوازې د نظر لیکوال یا مدیران کولی شي نظرونه حذف کړي
+Only you and admins,یوازې تاسو او مدیران
+Open,خلاص
+Open in Desk,په ډیسک کې خلاص کړئ
+Open Task Log,د دندې ثبت خلاص کړئ
+Open Tasks,خلاصې دندې
+Optional,اختیاري
+optional,اختیاري
+Or email us directly at,یا موږ ته مستقیم بریښنالیک ولیکئ
+Orga Project {0} from Frappe Projects,د Frappe پروژو څخه Orga پروژه {0}
+Orga Task {0} from Frappe,له Frappe څخه Orga دنده {0}
+Organizer,تنظیم کوونکی
+Other,نور
+Over Budget,له بودجې زیات
+Overall Progress,ټولیز پرمختګ
+Overall Utilization,ټولیزه ګټه اخیستنه
+Overallocated,ډیر تخصیص شوی
+Overdue,ناوخته
+overdue,ناوخته
+Overdue Tasks,ناوخته دندې
+Overview,کتنه
+Owner,مالک
+Page Not Found,پاڼه ونه موندل شوه
+Parent,اصلي
+Parent comment must belong to the same document,اصلي نظر باید ورته سند ته تعلق ولري
+Parent comment not found,اصلي نظر ونه موندل شو
+Parent project not synced to Frappe yet,اصلي پروژه تر اوسه Frappe ته همغږي شوې نه ده
+Parent project sync not enabled,د اصلي پروژې همغږي فعاله نه ده
+Partner,شریک
+Pending,انتظار
+per page,په پاڼه
+Perform initial assessment and background check,لومړنۍ ارزونه او شالید کتنه ترسره کړئ
+Permanently remove this event,دا پیښه تل لپاره لرې کړئ
+Permanently remove this task,دا دنده تل لپاره لرې کړئ
+Phone,تلیفون
+Pin,پین کړئ
+Pin Activity,فعالیت پین کړئ
+Pin to top,پورته پین کړئ
+Pinned,پین شوی
+Planned budget for this task,د دې دندې لپاره پلان شوې بودجه
+Planning,پلان جوړونه
+Please describe your question or issue in detail...,مهرباني وکړئ خپله پوښتنه یا ستونزه په تفصیل سره تشریح کړئ...
+Please login to access Orga,مهرباني وکړئ Orga ته د لاسرسي لپاره ننوزئ
+Please login to access the client portal,مهرباني وکړئ د پیرودونکي پورټل ته لاسرسي لپاره ننوزئ
+Please respond to this invitation in Orga,مهرباني وکړئ Orga کې دې بلنې ته ځواب ورکړئ
+Please select an image file,مهرباني وکړئ د انځور دوتنه وټاکئ
+Please try again,مهرباني وکړئ بیا هڅه وکړئ
+Please type,مهرباني وکړئ ولیکئ
+Portal,پورټل
+Portal access revoked for {0},د {0} لپاره د پورټل لاسرسي لغوه شو
+Portal user created successfully. Welcome email {0},د پورټل کارونکی په بریالیتوب سره جوړ شو. د ښه راغلاست بریښنالیک {0}
+Post,خپره کړئ
+Powered by,چلول کیږي له خوا
+Powered by Tonic,د Tonic له خوا چلول کیږي
+Predecessors (Blocked By),مخکني (بند شوی له خوا)
+Preferences,غوره توبونه
+Preferences saved successfully,غوره توبونه په بریالیتوب سره خوندي شول
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",د اتوماتیک تولید شویو پروژه کوډونو مختاړی (لکه ORG-2026-0001)
+Prepare and document offer terms,د وړاندیز شرایط چمتو او مستند کړئ
+Press,فشار ورکړئ
+Preview,مخلید
+Preview cascade before applying,د پلي کولو مخکې آبشار مخلید
+Previous,مخکنی
+Priority,لومړیتوب
+Priority assigned to new tasks,نویو دندو ته ټاکل شوی لومړیتوب
+Priority updated,لومړیتوب تازه شو
+Proficiency,مهارتوالی
+Profile,پروفایل
+Progress,پرمختګ
+Progress (High-Low),پرمختګ (لوړ-ټیټ)
+Progress (Low-High),پرمختګ (ټیټ-لوړ)
+Progress Overview,د پرمختګ کتنه
+Progress updated,پرمختګ تازه شو
+Project,پروژه
+Project budget has been saved.,د پروژې بودجه خوندي شوه.
+Project code (e.g. ORG-2026-0001),د پروژې کوډ (لکه ORG-2026-0001)
+Project Code Prefix,د پروژې کوډ مختاړی
+Project created,پروژه جوړه شوه
+Project deleted,پروژه حذف شوه
+Project description has been saved.,د پروژې تشریح خوندي شوه.
+Project Details,د پروژې جزئیات
+Project end date has been saved.,د پروژې د پای نیټه خوندي شوه.
+Project Files,د پروژې دوتنې
+Project has no linked client,پروژه هیڅ تړلی پیرودونکی نلري
+Project Health,د پروژې روغتیا
+Project Info,د پروژې معلومات
+Project is required,پروژه اړینه ده
+Project is required for project context,د پروژې شرایطو لپاره پروژه اړینه ده
+Project is required when tracking context is 'project',کله چې د تعقیب شرایط 'پروژه' وي نو پروژه اړینه ده
+Project Manager,د پروژې مدیر
+Project Name,د پروژې نوم
+Project name and template name are required,د پروژې نوم او د کینډۍ نوم اړین دي
+Project name is required,د پروژې نوم اړین دی
+Project not found,پروژه ونه موندل شوه
+Project not found or you do not have access,پروژه ونه موندل شوه یا تاسو لاسرسی نلرئ
+Project settings,د پروژې تنظیمات
+Project start date has been saved.,د پروژې د پیل نیټه خوندي شوه.
+Project title has been saved.,د پروژې سرلیک خوندي شو.
+Project Type,د پروژې ډول
+Project updated,پروژه تازه شوه
+Project {0} linked to client {1},پروژه {0} د پیرودونکي {1} سره وتړل شوه
+Project {0} not found,پروژه {0} ونه موندل شوه
+Project {0} to Frappe Projects,پروژه {0} Frappe پروژو ته
+Project:,پروژه:
+projects,پروژې
+Projects,پروژې
+Projects created:,جوړ شوې پروژې:
+Projects Overview,د پروژو کتنه
+Projects skipped:,پریښودل شوې پروژې:
+Projects updated:,تازه شوې پروژې:
+Promote failed,ارتقا ناکام شو
+Promote to task,دندې ته ارتقا ورکړئ
+Promoted to task,دندې ته ارتقا ورکړل شو
+Propose,وړاندیز وکړئ
+Propose New Time,نوی وخت وړاندیز کړئ
+Propose Time,وخت وړاندیز کړئ
+Proposed End,وړاندیز شوی پای
+Proposed Start,وړاندیز شوی پیل
+Public,عامه
+Quick Action,چټک عمل
+Quick Actions,چټک عملونه
+Quick Stats,چټکې احصایې
+Rates,نرخونه
+Receive notifications via email,د بریښنالیک له لارې خبرتیاوې ترلاسه کړئ
+Receive notifications within the application,د اپلیکیشن دننه خبرتیاوې ترلاسه کړئ
+Recent Activity,اوسنی فعالیت
+Recipient {0} is not a valid user,ترلاسه کوونکی {0} یو باوري کارونکی نه دی
+Reference,حواله
+Refresh,تازه کړئ
+Related,اړوند
+Related Company (optional),اړوند شرکت (اختیاري)
+Related Documents,اړوند اسناد
+Related Project,اړونده پروژه
+Remaining,پاتې
+Reminder,یادونه
+Reminder Lead Time,د یادونې مخکنی وخت
+Reminder: {0} - {1} at {2},یادونه: {0} - {1} په {2}
+Remove,لرې کړئ
+Remove dependency,انحصار لرې کړئ
+Remove dependency on,انحصار لرې کړئ
+Remove from group,له ګروپ څخه لرې کړئ
+Remove group dependency,د ګروپ انحصار لرې کړئ
+Remove skill,مهارت لرې کړئ
+Reopen,بیا خلاص کړئ
+Reopen thread,موضوع بیا خلاصه کړئ
+reopened,بیا خلاص شو
+replies,ځوابونه
+Reply,ځواب
+reply,ځواب
+Replying to,ته ځواب ورکول
+Replying to comment,نظر ته ځواب ورکول
+Report Defect,نیمګړتیا راپور کړئ
+Reported Date,د راپور نیټه
+Reports,راپورونه
+Reports To,راپور ورکوي
+Request Submitted!,غوښتنه وسپارل شوه!
+Required,اړین
+required,اړین
+Research,څیړنه
+Reset to Defaults,اصلي ارزښتونو ته بیرته تنظیم کړئ
+Resolve,حل کړئ
+Resolve thread,موضوع حل کړئ
+Resolved,حل شوی
+Resolved date cannot be before reported date,د حل نیټه نشي کولی د راپور نیټې څخه مخکې وي
+Resource,سرچینه
+Resource and skill name are required,سرچینه او د مهارت نوم اړین دي
+Resource is already an attendee,سرچینه لا دمخه ګډون کوونکی دی
+Resource name is required,د سرچینې نوم اړین دی
+Resource not found,سرچینه ونه موندل شوه
+Resource synced from employee {0},سرچینه د کارمند {0} څخه همغږي شوه
+Resource {0} is already assigned to this task ({1}),سرچینه {0} لا دمخه دې دندې ته ټاکل شوې ده ({1})
+Resource {0} not found,سرچینه {0} ونه موندل شوه
+Resources,سرچینې
+Retry,بیا هڅه وکړئ
+Review,بیاکتنه
+Review all relevant documents and contracts,ټول اړوند اسناد او تړونونه بیاکتنه کړئ
+Reviews,بیاکتنې
+Risk Assessment,د خطر ارزونه
+Rollback,بیرته راستنیدل
+Rolled back,بیرته راستون شو
+Room or address,خونه یا پته
+RSVP,RSVP
+Safety,خوندیتوب
+Sat,شنبه
+Save,خوندي کړئ
+"Save a project as a template, or import one from a JSON file.",پروژه د کینډۍ په توګه خوندي کړئ، یا د JSON دوتنې څخه یوه وارد کړئ.
+Save as Template,د کینډۍ په توګه خوندي کړئ
+Save Changes,بدلونونه خوندي کړئ
+Save failed,خوندي کول ناکام شو
+Save Preferences,غوره توبونه خوندي کړئ
+Save Template,کینډۍ خوندي کړئ
+Saving...,خوندي کیږي...
+Schedule,مهال ویش
+Schedule type is required for scheduled triggers,د مقرر شویو محرکونو لپاره د مهال ویش ډول اړین دی
+Scheduled,مقرر شوی
+Search,لټون
+"Search by name, email, or skill...",د نوم، بریښنالیک، یا مهارت له مخې لټون...
+Search for a project...,پروژه ولټوئ...
+Search for a task...,دنده ولټوئ...
+Search for an event...,پیښه ولټوئ...
+Search for people to invite...,د بلنې لپاره خلک ولټوئ...
+Search tasks to link...,د تړلو لپاره دندې ولټوئ...
+Search tasks...,دندې ولټوئ...
+Search...,لټون...
+Searching...,لټون کیږي...
+Seen,لیدل شوی
+Select a project if your request is related to a specific project.,که ستاسو غوښتنه یوې ځانګړې پروژې سره تړاو لري نو پروژه وټاکئ.
+Select a project...,پروژه وټاکئ...
+Select a task from the Gantt chart to view and manage its details.,د جزئیاتو لیدلو او مدیریت لپاره د ګانټ چارټ څخه دنده وټاکئ.
+Select a task from the list or Kanban board to view and manage its details.,د جزئیاتو لیدلو او مدیریت لپاره د لیست یا کانبان بورډ څخه دنده وټاکئ.
+Select a template...,کینډۍ وټاکئ...
+Select priority...,لومړیتوب وټاکئ...
+Select status...,حالت وټاکئ...
+Select task...,دنده وټاکئ...
+Select type...,ډول وټاکئ...
+Selection,انتخاب
+Send,ولیږئ
+Send comment,نظر ولیږئ
+Send email invitations to attendees,ګډون کوونکو ته د بریښنالیک بلنې ولیږئ
+Send Invitations,بلنې ولیږئ
+Send notification when a task is assigned to a user,کله چې دنده کارونکي ته ټاکل کیږي خبرتیا ولیږئ
+Send notification when task status changes,کله چې د دندې حالت بدلیږي خبرتیا ولیږئ
+Send reminder before task due date,د دندې د وعدې نیټې مخکې یادونه ولیږئ
+sent,لیږل شوی
+Set rate,نرخ وټاکئ
+Settings,تنظیمات
+Settings saved successfully,تنظیمات په بریالیتوب سره خوندي شول
+Severity,شدت
+SF (Start-Finish),پ‌پ (پیل-پای)
+SF - Start-to-Finish,پ‌پ - پیل-ته-پای
+Show,وښایئ
+Show all,ټول وښایئ
+Show all changes,ټول بدلونونه وښایئ
+Show Archived,آرشیف شوي وښایئ
+Show full diff,بشپړ توپیر وښایئ
+Show less,لږ وښایئ
+Show more,نور وښایئ
+Skill added,مهارت اضافه شو
+Skill is required,مهارت اړین دی
+Skill Name,د مهارت نوم
+Skill removed,مهارت لرې شو
+Skill {0} already exists for this resource,مهارت {0} لا دمخه د دې سرچینې لپاره شتون لري
+Skills,مهارتونه
+Skills & Competencies,مهارتونه او وړتیاوې
+Skip already migrated projects,لا دمخه لیږدول شوې پروژې پریښوئ
+Sort by,ترتیب ورکړئ
+Sort: Due Date,ترتیب: د وعدې نیټه
+Sort: Priority,ترتیب: لومړیتوب
+Sort: Project,ترتیب: پروژه
+Sort: Status,ترتیب: حالت
+Sort: Task,ترتیب: دنده
+Source Code,سرچینه کوډ
+Spent,مصرف شوی
+Spent:,مصرف شوی:
+SS (Start-Start),پپ (پیل-پیل)
+SS - Start-to-Start,پپ - پیل-ته-پیل
+Standalone,خپلواک
+Start,پیل
+Start a discussion below,لاندې بحث پیل کړئ
+Start Date,د پیل نیټه
+Start date,د پیل نیټه
+Start Date (Earliest),د پیل نیټه (تر ټولو وړومبۍ)
+Start date updated,د پیل نیټه تازه شوه
+Start date/time is required,د پیل نیټه/وخت اړین دی
+Start Migration,لیږدونه پیل کړئ
+Start the conversation below.,لاندې خبرې اترې پیل کړئ.
+Start Timer,ټایمر پیل کړئ
+Start typing to search...,د لټون لپاره لیکل پیل کړئ...
+Start-to-Finish,پیل-ته-پای
+Start-to-Start,پیل-ته-پیل
+Start:,پیل:
+Statistics reset,احصایې بیا تنظیم شوې
+Status,حالت
+Status assigned to new projects,نویو پروژو ته ټاکل شوی حالت
+Status assigned to new tasks,نویو دندو ته ټاکل شوی حالت
+Status Changes,د حالت بدلونونه
+Status updated,حالت تازه شو
+Status:,حالت:
+Stop,ودروئ
+Stop & Save,ودروئ او خوندي کړئ
+Stop Timer,ټایمر ودروئ
+Stops current timer and starts for this event,اوسنی ټایمر ودروي او د دې پیښې لپاره پیل کوي
+Stops current timer and starts for this task,اوسنی ټایمر ودروي او د دې دندې لپاره پیل کوي
+Subject,موضوع
+Subject cannot exceed 255 characters,موضوع نشي کولی له 255 حرفونو څخه زیاته وي
+Subject is required,موضوع اړینه ده
+Submit,وسپارئ
+Submit Another Request,بله غوښتنه وسپارئ
+Submit Request,غوښتنه وسپارئ
+Submitting...,سپارل کیږي...
+Successfully saved,په بریالیتوب سره خوندي شو
+Successors (Blocking),وروستي (بندول)
+Sun,یکشنبه
+Supplier,عرضه کوونکی
+Support,ملاتړ
+Switch to this event,دې پیښې ته لاړ شئ
+Switch to this task,دې دندې ته لاړ شئ
+Sync direction is set to Frappe to Orga only,د همغږي لور یوازې له Frappe څخه Orga ته ټاکل شوی
+Sync direction is set to Orga to Frappe only,د همغږي لور یوازې له Orga څخه Frappe ته ټاکل شوی
+Sync not enabled for this project,د دې پروژې لپاره همغږي فعاله نه ده
+System,سیسټم
+Table,جدول
+Take ownership of this task,د دې دندې مالکیت واخلئ
+Target Date,هدف نیټه
+Target End,هدف پای
+Target Project,هدف پروژه
+Target user is required for '{0}' action,د '{0}' عمل لپاره هدف کارونکی اړین دی
+task,دنده
+Task,دنده
+Task '{0}' is due on {1}.,دنده '{0}' د {1} نیټه لري.
+Task and resource are required,دنده او سرچینه اړین دي
+Task Assignment,د دندې ورکونه
+Task cannot be its own parent,دنده نشي کولی د ځان اصلي وي
+Task cannot depend on itself,دنده نشي کولی پر ځان انحصار ولري
+Task cannot depend on the group it belongs to,دنده نشي کولی په هغه ګروپ انحصار ولري چې ورته تعلق لري
+Task created,دنده جوړه شوه
+Task deleted,دنده حذف شوه
+Task description has been saved.,د دندې تشریح خوندي شوه.
+Task Details,د دندې جزئیات
+Task due in {0} days: {1},دنده په {0} ورځو کې وعده لري: {1}
+Task due today: {0},دنده نن وعده لري: {0}
+Task due tomorrow: {0},دنده سبا وعده لري: {0}
+Task duplicated,دنده نقل شوه
+Task Group,د دندې ګروپ
+Task ID is required,د دندې پیژندنه اړینه ده
+Task is blocked by incomplete dependencies,دنده د نابشپړو انحصارونو له امله بنده ده
+Task is cancelled,دنده لغوه شوه
+Task is completed,دنده بشپړه شوه
+Task is no longer blocked by a group,دنده نور د ګروپ له خوا بنده نه ده
+Task is required for task context,د دندې شرایطو لپاره دنده اړینه ده
+Task is required when tracking context is 'task',کله چې د تعقیب شرایط 'دنده' وي نو دنده اړینه ده
+Task linked,دنده وتړل شوه
+Task moved,دنده لیږدول شوه
+Task name,د دندې نوم
+Task name is required,د دندې نوم اړین دی
+Task removed from group,دنده له ګروپ څخه لرې شوه
+Task Subject,د دندې موضوع
+Task subject is required,د دندې موضوع اړینه ده
+Task Type,د دندې ډول
+Task unblocked: {0},دنده خلاصه شوه: {0}
+Task unlinked,دنده جلا شوه
+Task updated,دنده تازه شوه
+Task {0} not found,دنده {0} ونه موندل شوه
+Task {0} not in project {1},دنده {0} په پروژه {1} کې نشته
+Task {0} to Frappe,دنده {0} Frappe ته
+Tasks,دندې
+tasks,دندې
+Tasks and milestones will be created with dates relative to the project start date.,دندې او سنګ‌میلونه به د پروژې د پیل نیټې سره تړاو لرونکو نیټو سره جوړ شي.
+Tasks assigned to you across all projects.,ستاسو ته د ټولو پروژو په اوږدو کې ځانګړل شوې دندې.
+Tasks created:,جوړې شوې دندې:
+Tasks from projects you manage.,د هغو پروژو دندې چې تاسو یې اداره کوئ.
+Tasks updated:,تازه شوې دندې:
+"Tasks, milestones, and dependencies have been created.",دندې، سنګ‌میلونه، او تړاوونه جوړ شوي.
+Tasks:,دندې:
+TBD,ټاکل شوی نه دی
+Team,ټیم
+Team Members,د ډلې غړي
+Template,کينډۍ
+Template applied,کالب پلي شو
+Template data is required in import data,د واردولو ډاټا کې د کالب ډاټا اړینه ده
+Template has no data,کالب هیڅ ډاټا نلري
+Template Name,د کالب نوم
+Template name,د کالب نوم
+Template name is required,د کالب نوم اړین دی
+Template name is required in import data,د واردولو ډاټا کې د کالب نوم اړین دی
+Template saved,کالب خوندي شو
+Template updated successfully.,کالب په بریالیتوب سره تازه شو.
+Template {0} not found,کالب {0} ونه موندل شو
+Templates,کالبونه
+Tentative,لومړنی
+The comment has been deleted,تبصره حذف شوه
+The project,پروژه
+The source document may have been deleted.,سرچینه سند ښايي حذف شوی وي.
+The source document will not be affected.,سرچینه سند به اغیزمن نشي.
+The status of '{0}' was changed from {1} to {2}.,د '{0}' حالت له {1} څخه {2} ته بدل شو.
+Theme,موضوع
+Theme preference,د تم غوره توب
+This action,دا عمل
+This action cannot be undone.,دا عمل نشي بیرته راګرځول کیدی.
+This activity has been flagged for attention,دا فعالیت د پاملرنې لپاره نښه شوی
+This is a reminder for your upcoming appointment,دا ستاسو راتلونکی لیدنې لپاره یادونه ده
+This method is only meant for developer mode,دا طریقه یوازې د پراختیا کونکي حالت لپاره ده
+This page wandered off,This page wandered off
+This Week,دغه هفته
+This will delete all notes and preferences associated with this activity.,دا به د دې فعالیت سره تړلې ټولې یادونې او غوره توبونه حذف کړي.
+This will import all Frappe Projects into Orga. Continue?,دا به ټول فریپ پروژې په اورګا کې واردوي. دوام ورکئ؟
+This will permanently delete,دا به په تل‌پاتې ډول حذف کړي
+This will permanently delete:,دا به په تل‌پاتې ډول حذف کړي:
+Thu,پنج
+Time,وخت
+Time & Billing,وخت او بیل
+Time & Revenue,وخت او عاید
+Time Entries,د وخت ننوتنې
+Time log name is required,د وخت لاګ نوم اړین دی
+Time Log not found,د وخت لاګ ونه موندل شو
+Time log {0} not found,د وخت لاګ {0} ونه موندل شو
+Time Logs,د وخت لاګونه
+Time Summary,د وخت لنډیز
+Time Tracking,د وخت تعقیب
+Timeline,مهال ویش
+Timer active on,ټایمر فعال دی په
+Timer is not running,ټایمر روان نه دی
+Timer Running,ټایمر روان دی
+Timer running,ټایمر روان دی
+Timesheet DocType not available,د وخت پاڼې ډاک ټایپ شتون نلري
+Timesheets,د وخت پاڼې
+Timezone,وخت سیمه
+Timezone is detected from your browser,وخت سیمه ستاسو له براوزر څخه کشف شوه
+Title,نوم
+Title cannot exceed 255 characters,سرلیک نشي کولی له 255 تورو زیات وي
+Title is required,سرلیک اړین دی
+Title updated,سرلیک تازه شو
+To,ته
+to,ته
+to cancel,لغوه کولو لپاره
+to close,بندولو لپاره
+to confirm:,تایید لپاره:
+to edit,سمولو لپاره
+"to save,",خوندي کولو لپاره،
+To Time cannot be before From Time,تر وخت نشي کولی د له وخت څخه مخکې وي
+Today,نن
+today,نن
+Toggle billable,بل‌وړ بدلول
+Toggle Details Panel,د تفصیلاتو پینل بدلول
+Toggle Manager Panel,د مدیر پینل بدلول
+Toggle Sidebar,د سایډ بار ټګول
+Tomorrow,سبا
+tomorrow,سبا
+Total,Total
+Total Budget,ټول بودیجه
+Total Contacts,ټول اړیکې
+Total Cost,ټوله لګښت
+Total Cost to Org,سازمان ته ټوله لګښت
+Total Defect Cost,د نیمګړتیا ټوله لګښت
+Total Hours,ټول ساعتونه
+Total Hours Logged,ثبت شوي ټول ساعتونه
+Total Projects,ټولې پروژې
+Total Spent,ټول مصرف
+Total Tasks,ټولې دندې
+Total:,ټول:
+Tracked,تعقیب شوی
+trails to today while Open at 0%,تر نن پورې پرانیستی په 0%
+Tried:,Tried:
+Try adjusting your filter criteria,خپل فلټر معیارونه تنظیم کولو هڅه وکړئ
+Try adjusting your filters.,خپل فلټرونه تنظیم کولو هڅه وکړئ.
+Try Again,بیا هڅه وکړئ
+Tue,سه‌ش
+Type,ډول
+Type updated,ډول تازه شو
+Type:,ډول:
+Typical response time: 1-2 business days,معمولي ځواب ورکولو وخت: 1-2 کاري ورځې
+Unarchive,له آرشیف څخه بیرته
+Unarchive Activity,فعالیت له آرشیف څخه بیرته راوړل
+Unassign,تفویض لرې کول
+Unassigned,نا تفویض شوی
+Under Budget,د بودیجې لاندې
+Ungrouped,بې ډلې
+Unknown,ناپیژندل شوی
+Unknown error,ناپیژندله تېروتنه
+Unlink failed,د لینک لرې کول ناکام شو
+Unlink task from milestone,دنده له سنګ‌میل څخه جلا کول
+Unpin,پاک یې کړئ
+Unpin Activity,فعالیت خلاصول
+Unread,نوې
+Unread only,یوازې نالوستل شوي
+Until,تر
+Up to Date,Up to Date
+Upcoming,راتلونکی
+upcoming,راتلونکی
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,تازه کول ناکام شو
+Updated,روز
+Updated successfully,په بریالیتوب سره تازه شوی
+Updates,Updates
+Upload,پورته کول
+Upload failed,اپارتمان ناکام شو
+Upload files below to attach them to this task.,فایلونه لاندې اپلوډ کړئ ترڅو دې دندې سره ضمیمه یې کړئ.
+Upload to project,پروژې ته اپلوډ
+Uploading...,اپلوډ کیږي...
+Urgent,عاجل
+User {0} is already linked to client {1},کارن {0} دمخه له پیرودونکي {1} سره تړلی دی
+User {0} is already linked to resource {1},کارن {0} دمخه له سرچینې {1} سره تړلی دی
+Utilization,کارونه
+Valid,د اعتبار وړ
+Value:,ارزښت:
+Variance,توپیر
+Variance:,توپیر:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,لید
+View All,ټول وګوری
+View all active projects,ټولې فعالې پروژې وګورئ
+View all open tasks,ټولې خلاصې دندې وګورئ
+View overdue tasks,ناوخته دندې وګورئ
+View Release,View Release
+Visibility,لیدنه
+Waiting for this task,د دې دندې انتظار
+Waits for:,انتظار لري:
+Warning: Resource {0} status is {1},خبرداری: د سرچینې {0} حالت {1} دی
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,خبرداری: د HTTPS پرځای HTTP کارول کیږي. ویب‌هوک پیلوډونه ښايي خوندي نه وي.
+Watch budget closely,بودیجه له نږدې وڅارئ
+We'll respond to:,موږ به ځواب ورکو:
+Webhook deleted,ویب‌هوک حذف شو
+Webhook name is required,د ویب‌هوک نوم اړین دی
+Webhook not found,ویب‌هوک ونه موندل شو
+Webhook URL is required,د ویب‌هوک URL اړین دی
+Webhook URL must start with http:// or https://,د ویب‌هوک URL باید له http:// یا https:// سره پیل شي
+Wed,چهارش
+Week,اونۍ
+Weekend,اونۍ وزګار
+Weekly Capacity,اونیزه ظرفیت
+weekly capacity,اونیزه ظرفیت
+Weekly Capacity (h),اونیزه ظرفیت (س)
+Welcome,ښه راغلاست
+Welcome back!,بیرته ښه راغلاست!
+Welcome to Orga,Orga ته ښه راغلاست
+What are you working on?,تاسو په څه کار کوئ؟
+What did you work on?,تاسو په څه کار کاوه؟
+When,کله
+When work begins,کله چې کار پیل شي
+When work is due,کله چې کار مقرر وي
+Where,چیرته
+Will capture:,ونیسي:
+Will create:,جوړ کړي:
+with checklist items,د چیک‌لست توکو سره
+Working,کار کوي
+Workload,د کار بار
+Workmanship,هنرمندي
+Write a comment...,تبصره ولیکئ...
+Write a comment... Use @name to mention (Ctrl+Enter to send),تبصره ولیکئ... د یادونې لپاره @نوم وکاروئ (لیږلو لپاره Ctrl+Enter)
+Year,کال
+Yes,هو
+Yesterday,پرون
+yesterday,پرون
+You are not an attendee of this appointment,تاسو د دې لیدنې ګډونوال نه یاست
+You are not linked to any resource,تاسو له هیڅ سرچینې سره تړلي نه یاست
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,تاسو یوازې خپلې تبصرې حذف کولی شئ
+You can only delete your own reactions,تاسو یوازې خپل عکس‌العملونه حذف کولی شئ
+You do not have access to the client portal. Please contact support.,تاسو د پیرودونکي پورټل ته لاسرسی نلرئ. مهرباني وکړئ د ملاتړ سره اړیکه ونیسئ.
+You have already reacted with '{0}',تاسو دمخه په '{0}' عکس‌العمل ښودلی دی
+You have been assigned to task '{0}' in project '{1}'.,تاسو ته د '{1}' پروژې کې دنده '{0}' ځانګړې شوه.
+You have been assigned to: {0},تاسو ته ځانګړه شوه: {0}
+You have been invited to the following appointment,تاسو لاندې لیدنې ته بلل شوي یاست
+You have no tasks assigned to you right now.,دم مهال تاسو ته هیڅ دنده ځانګړې شوې نه ده.
+You were mentioned in {0},تاسو په {0} کې یاد شوي یاست
+Your attendance,ستاسو حاضري
+Your comment has been posted,ستاسو تبصره خپره شوه
+Your Projects,ستاسو پروژې
+Your projects will appear here once they're assigned to you.,ستاسو پروژې به دلته ښکاره شي کله چې تاسو ته ځانګړې شي.
+Your Response,ستاسو ځواب
+Your RSVP,ستاسو RSVP
+Your support request has been submitted successfully.,ستاسو د ملاتړ غوښتنه په بریالیتوب سره وسپارل شوه.
+Your support request has been submitted successfully. We'll get back to you shortly.,ستاسو د ملاتړ غوښتنه په بریالیتوب سره وسپارل شوه. موږ به ډیر ژر تاسو سره اړیکه ونیسو.
+"Your task ""{0}"" is no longer blocked and can now be started.","ستاسو دنده ""{0}"" نور بنده نه ده او اوس پیل کیدی شي."
+{0} is required,{0} ته اړتيا ده
+{0} new activities,{0} نوي فعالیتونه
+{0} of {1} completed,د {1} څخه {0} بشپړ شو
+{0} projects already migrated (will be skipped or updated),{0} پروژې دمخه لیږدول شوي (پریښودل یا تازه کیږي)
+{0} status changed to {1},د {0} حالت {1} ته بدل شو
+{0} tasks remaining,{0} دندې پاتې دي
+{0} tasks without projects will be skipped,{0} بې‌پروژې دندې به پریښودل شي
+{0} {1} not found,{0} د {1} ونه موندل شو

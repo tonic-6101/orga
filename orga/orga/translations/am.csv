@@ -1,0 +1,1492 @@
++ Add Milestone,+ ምዕራፍ ጨምር
++ Create Task,+ ተግባር ፍጠር
++ Log Time,+ ጊዜ መዝግብ
+-- Select a project --,-- ፕሮጀክት ይምረጡ --
+0m,0ደ
+1 day,1 ቀን
+1 day ago,ከ1 ቀን በፊት
+1 dependency,1 ጥገኛ
+1 entry,1 ግቤት
+1 file,1 ፋይል
+1 hour ago,ከ1 ሰዓት በፊት
+1 member,1 አባል
+1 milestone,1 ምዕራፍ
+1 month,1 ወር
+1 task,1 ተግባር
+< 1m,< 1ደ
+"A clear, actionable title for the task",ለተግባሩ ግልጽና ተግባራዊ ርዕስ
+A client with email {0} already exists: {1},ኢሜይል {0} ያለው ደንበኛ ቀድሞ አለ: {1}
+A key deliverable or checkpoint for the project,ለፕሮጀክቱ ቁልፍ ውጤት ወይም ማረጋገጫ ነጥብ
+Accept,ተቀበል
+Accepted,ተቀባይነት አግኝቷል
+Acknowledge,አረጋግጥ
+across,በሁሉም
+Action,ተግባር
+Actions,ተግባራት
+Active,ንቁ
+Active Assignments,ንቁ ምድባዎች
+Active Projects,ንቁ ፕሮጀክቶች
+Activity,እንቅስቃሴ
+Activity data deleted successfully,የእንቅስቃሴ ውሂብ በተሳካ ሁኔታ ተሰርዟል
+Activity Info,የእንቅስቃሴ መረጃ
+Activity Stats,የእንቅስቃሴ ስታቲስቲክስ
+Activity will appear here as you work on tasks and projects.,በተግባራትና ፕሮጀክቶች ላይ ሲሰሩ እንቅስቃሴ እዚህ ይታያል።
+Actual,ትክክለኛ
+Actual Cost,ትክክለኛ ወጪ
+Actual cost cannot be negative,ትክክለኛ ወጪ አሉታዊ ሊሆን አይችልም
+Actual end date cannot be before actual start date,ትክክለኛ የማጠናቀቂያ ቀን ከትክክለኛ የመጀመሪያ ቀን በፊት ሊሆን አይችልም
+Actual Hours,ትክክለኛ ሰዓታት
+Add,ጨምር
+Add a checklist item...,የማረጋገጫ ዝርዝር ንጥል ጨምር...
+Add a comment...,አስተያየት ጨምር...
+Add a comment... (Ctrl+Enter to send),አስተያየት ጨምር... (Ctrl+Enter ለመላክ)
+Add a description...,መግለጫ ጨምር...
+Add a milestone description...,የምዕራፍ መግለጫ ጨምር...
+Add a note below to annotate this activity.,ይህን እንቅስቃሴ ለማብራራት ከታች ማስታወሻ ጨምር።
+Add a note...,ማስታወሻ ጨምር...
+Add a project description...,የፕሮጀክት መግለጫ ጨምር...
+Add a task description...,የተግባር መግለጫ ጨምር...
+Add checklist item...,የማረጋገጫ ዝርዝር ንጥል ጨምር...
+Add Contact,ግንኙነት ጨምር
+Add contacts via the Desk interface or clear filters,ግንኙነቶችን በDesk በኩል ጨምሩ ወይም ማጣሪያዎችን ያጽዱ
+Add Dependency,ጥገኝነት ጨምር
+Add details about this event...,ስለዚህ ክስተት ዝርዝሮችን ጨምር...
+Add details about this milestone...,ስለዚህ ምዕራፍ ዝርዝሮችን ጨምር...
+Add details about this task...,ስለዚህ ተግባር ዝርዝሮችን ጨምር...
+Add details or acceptance criteria for this milestone,ለዚህ ምዕራፍ ዝርዝሮች ወይም የተቀባይነት መስፈርቶች ጨምር
+"Add details, context, or acceptance criteria",ዝርዝሮች፣ አውድ ወይም የተቀባይነት መስፈርቶች ጨምር
+Add first dependency,የመጀመሪያ ጥገኝነት ጨምር
+Add item,ንጥል ጨምር
+Add items below to track progress.,ሂደትን ለመከታተል ከታች ንጥሎችን ጨምር።
+Add items below to track subtasks,ንዑስ ተግባራትን ለመከታተል ከታች ንጥሎችን ጨምር
+Add Milestone,ምዕራፍ ጨምር
+Add Milestone (Shift+M),ምዕራፍ ጨምር (Shift+M)
+Add milestones to track key deliverables.,ቁልፍ ውጤቶችን ለመከታተል ምዕራፎችን ጨምር።
+Add New Contact,አዲስ ግንኙነት ጨምር
+Add Note,ማስታወሻ ጨምር
+Add note,ማስታወሻ ጨምር
+Add notes about this contact...,ስለዚህ ግንኙነት ማስታወሻዎችን ጨምር...
+Add reaction,ምላሽ ጨምር
+Add Skill,ክህሎት ጨምር
+Add start and due dates to tasks to see them on the Gantt chart,ተግባራትን በGantt ሰንጠረዥ ላይ ለማየት የመጀመሪያና የመጨረሻ ቀናትን ጨምር
+Add Task,ተግባር ጨምር
+Add Task (Shift+T),ተግባር ጨምር (Shift+T)
+Added Finish-to-Start dependency,ከመጨረሻ-ወደ-መጀመሪያ ጥገኝነት ተጨምሯል
+Adding this dependency would create a circular reference: {0},ይህን ጥገኝነት መጨመር ክብ ማጣቀሻ ይፈጥራል: {0}
+Adding...,በመጨመር ላይ...
+Address,አድራሻ
+Advanced,የላቀ
+All,ሁሉም
+All Active,ሁሉም ንቁ
+All Assignees,ሁሉም ተመዳቢዎች
+All Categories,ሁሉም ምድቦች
+All caught up!,ሁሉም ተከታትለሃል!
+All Contexts,ሁሉም አውዶች
+All day,ሙሉ ቀን
+All day event,የሙሉ ቀን ክስተት
+All fields,ሁሉም መስኮች
+All Priorities,ሁሉም ቅድሚያዎች
+All Projects,ሁሉም ፕሮጀክቶች
+All Status,ሁሉም ሁኔታዎች
+All Statuses,ሁሉም ሁኔታዎች
+All task dependencies & relative dates,ሁሉም የተግባር ጥገኝነቶች እና አንጻራዊ ቀናት
+All Tasks,ሁሉም ተግባራት
+All tasks across all projects.,በሁሉም ፕሮጀክቶች ውስጥ ያሉ ሁሉም ተግባራት።
+All tasks are already linked,ሁሉም ተግባራት ቀድሞ ተገናኝተዋል
+All team members,ሁሉም የቡድን አባላት
+All Types,ሁሉም ዓይነቶች
+All Users,ሁሉም ተጠቃሚዎች
+Allocated,ተመድቧል
+allocated,ተመድቧል
+Allow users to log time against tasks,ተጠቃሚዎች ለተግባራት ጊዜ እንዲመዘግቡ ፍቀድ
+Already exported to timesheet {0},ቀድሞ ወደ የጊዜ ሰንጠረዥ {0} ተልኳል
+Already Migrated,ቀድሞ ተዛውሯል
+Anyone with access,መዳረሻ ያለው ማንኛውም ሰው
+anytime to show this help,ይህን እርዳታ ለማሳየት በማንኛውም ጊዜ
+App Updates,App Updates
+Appearance,መልክ
+Apply,ተግብር
+Apply cascade?,ተከታታይ ለውጥ ተግብር?
+Apply Changes,ለውጦችን ተግብር
+Apply failed,ማተግበር አልተሳካም
+Apply Template,አብነት ተግብር
+Applying...,በማተግበር ላይ...
+Appointment,ቀጠሮ
+Appointment and resource are required,ቀጠሮ እና ሰው ያስፈልጋሉ
+Appointment name is required,የቀጠሮ ስም ያስፈልጋል
+Appointment not found,ቀጠሮ አልተገኘም
+Appointment {0} not found,ቀጠሮ {0} አልተገኘም
+Apps,መተግበሪያዎች
+Archive,ማህደር
+Archive Activity,እንቅስቃሴ ወደ ማህደር ላክ
+Archived,ወደ ማህደር ተልኳል
+Are you sure you want to delete this activity data? This cannot be undone.,ይህን የእንቅስቃሴ ውሂብ መሰረዝ ይፈልጋሉ? ይህ ሊቀለበስ አይችልም።
+Are you sure you want to delete this comment?,ይህን አስተያየት መሰረዝ ይፈልጋሉ?
+Are you sure you want to delete this project?,ይህን ፕሮጀክት መሰረዝ ይፈልጋሉ?
+Are you sure?,እርግጠኛ ነዎት?
+Ascending -- click to reverse,ከትንሽ ወደ ትልቅ -- ለመቀልበስ ጠቅ ያድርጉ
+Assign To,መድብ ለ
+Assign to Me,ለኔ መድብ
+Assigned Contact,የተመደበ ግንኙነት
+Assigned To,ለ ተመድቧል
+Assigned to,ለ ተመድቧል
+Assigned to Me,ለኔ ተመድቧል
+Assignee,ተመዳቢ
+Assignment,ምድባ
+Assignment History,የምድባ ታሪክ
+Assignment name is required,የምድባ ስም ያስፈልጋል
+Assignment {0} not found,ምድባ {0} አልተገኘም
+Assignments,ምድባዎች
+At least one action is required,ቢያንስ አንድ ተግባር ያስፈልጋል
+At least one event is required,ቢያንስ አንድ ክስተት ያስፈልጋል
+At least one event must be selected,ቢያንስ አንድ ክስተት መመረጥ አለበት
+Attachment,አባሪ
+Attachments,አባሪዎች
+Attendees,ተሳታፊዎች
+"Audit trail, assignments, version history",የክትትል መዝገብ፣ ምድባዎች፣ የስሪት ታሪክ
+Auto,ራስ-ሰር
+Auto Calculate Progress,ሂደትን ራስ-ሰር አስላ
+Auto Set Missed Milestones,የጠፉ ምዕራፎችን ራስ-ሰር አስቀምጥ
+Auto-shift dependents when dates change,ቀናት ሲለወጡ ጥገኞችን ራስ-ሰር አዛውር
+Auto-Trail Start,ራስ-ሰር መንሸራተት
+Auto-Trail updated,ራስ-ሰር መንሸራተት ተዘምኗል
+Automatically calculate project progress from task completion,ከተግባር ማጠናቀቅ የፕሮጀክት ሂደትን ራስ-ሰር አስላ
+Automatically mark milestones as missed when overdue,ሲዘገዩ ምዕራፎችን ራስ-ሰር እንደ ያመለጡ ምልክት አድርግ
+Automation rule {0} not found,የራስ-ሰር ህግ {0} አልተገኘም
+Automation: {0},ራስ-ሰር: {0}
+Availability,ዝግጁነት
+Available,ዝግጁ
+Avatar updated successfully,ምስል በተሳካ ሁኔታ ተዘምኗል
+Avg Progress,አማካይ ሂደት
+Back,ተመለስ
+Back to Portal,ወደ መግቢያ ተመለስ
+Back to Projects,ወደ ፕሮጀክቶች ተመለስ
+Beginner,ጀማሪ
+Best regards,ከአክብሮት ጋር
+Billable,ሊከፈልበት የሚችል
+Billable Amount,ሊከፈል የሚችል መጠን
+Billable Hours,ሊከፈልባቸው የሚችሉ ሰዓታት
+Billable Rate,ሊከፈልበት የሚችል ተመን
+Billing Rate,የክፍያ ተመን
+Blocked,ታግዷል
+Both dates are needed to display task as a bar in Gantt chart,ተግባሩን በGantt ሰንጠረዥ ላይ እንደ አሞሌ ለማሳየት ሁለቱም ቀናት ያስፈልጋሉ
+Both doctype and docname are required,doctype እና docname ሁለቱም ያስፈልጋሉ
+Both proposed start and end times are required,የቀረቡ የመጀመሪያ እና የመጨረሻ ሰዓታት ሁለቱም ያስፈልጋሉ
+Both task_name and depends_on are required,task_name እና depends_on ሁለቱም ያስፈልጋሉ
+Breadcrumb,መንገድ አመልካች
+Brief description of the defect or damage,ስለ ጉድለቱ ወይም ጉዳቱ አጭር መግለጫ
+Brief description of this template,ስለዚህ አብነት አጭር መግለጫ
+Brief description of your request,ስለ ጥያቄዎ አጭር መግለጫ
+Brief project description,አጭር የፕሮጀክት መግለጫ
+Budget,በጀት
+Budget at risk,በጀት አደጋ ላይ ነው
+Budget Burn Rate,የበጀት ፍጆታ ፍጥነት
+Budget Status,የበጀት ሁኔታ
+Budget updated,በጀት ተዘምኗል
+Budget:,በጀት:
+Bug,ስህተት
+Burn Rate,የፍጆታ ፍጥነት
+Busy,ተጠምዷል
+By,በ
+By Assignee,በተመዳቢ
+By Group,በቡድን
+By Milestone,በምዕራፍ
+By Priority,በቅድሚያ
+By Status,በሁኔታ
+Cancel,ሰርዝ
+Cancelled,ተሰርዟል
+cannot be undone,መልሶ ማግኘት አይቻልም
+Cannot delete client with {0} linked projects. Unlink projects first.,ከ{0} የተገናኙ ፕሮጀክቶች ጋር ያለ ደንበኛ ሊሰረዝ አይችልም። መጀመሪያ ፕሮጀክቶችን ንቀል።
+Cannot delete project with {0} linked tasks. Delete tasks first.,ከ{0} የተገናኙ ተግባራት ጋር ያለ ፕሮጀክት ሊሰረዝ አይችልም። መጀመሪያ ተግባራትን ሰርዝ።
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,ከ{0} ንቁ ምድባዎች ጋር ያለ ሰው ሊሰረዝ አይችልም። መጀመሪያ ጨርሳቸው ወይም ሰርዛቸው።
+Cannot delete task with {0} subtasks. Delete subtasks first.,ከ{0} ንዑስ ተግባራት ጋር ያለ ተግባር ሊሰረዝ አይችልም። መጀመሪያ ንዑስ ተግባራትን ሰርዝ።
+Capacity,አቅም
+capacity,አቅም
+Capacity & Rates,አቅም እና ተመኖች
+Capture project structure for reuse,የፕሮጀክት መዋቅርን ለድጋሜ አጠቃቀም ቅዳ
+Cascade,ተከታታይ ለውጥ
+Cascade Preview,የተከታታይ ለውጥ ቅድመ-ዕይታ
+Category,ምድብ
+Celebrate,አክብር
+Change,ቀይር
+Change History,የለውጥ ታሪክ
+Change Priority,ቅድሚያ ቀይር
+Change Status,ሁኔታ ቀይር
+Changes,ለውጦች
+Changes appear when fields are modified.,መስኮች ሲቀየሩ ለውጦች ይታያሉ።
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,የማረጋገጫ ዝርዝር
+Checklist item name is required,የማረጋገጫ ዝርዝር ንጥል ስም ያስፈልጋል
+Checklist item not found,የማረጋገጫ ዝርዝር ንጥል አልተገኘም
+Checklist item title is required,የማረጋገጫ ዝርዝር ንጥል ርዕስ ያስፈልጋል
+Checklist item {0} not found,የማረጋገጫ ዝርዝር ንጥል {0} አልተገኘም
+Checklist item {0} not found in task,የማረጋገጫ ዝርዝር ንጥል {0} በተግባሩ ውስጥ አልተገኘም
+Child,ልጅ
+Choose file to upload,ለመስቀል ፋይል ይምረጡ
+Circular dependency detected: {0},ክብ ጥገኝነት ተገኝቷል: {0}
+Circular parent-child relationship detected,ክብ ወላጅ-ልጅ ግንኙነት ተገኝቷል
+Clear,አጽዳ
+Clear all read,ሁሉንም የተነበቡ አጽዳ
+Clear date,ቀን አጽዳ
+Click on an activity from the list to view and manage its details.,ዝርዝሮቹን ለማየት እና ለማስተዳደር ከዝርዝሩ ውስጥ እንቅስቃሴ ላይ ጠቅ ያድርጉ።
+Click the avatar to upload a new photo,አዲስ ፎቶ ለመስቀል ምስሉ ላይ ጠቅ ያድርጉ
+Click to add description...,መግለጫ ለመጨመር ጠቅ ያድርጉ...
+Click to add notes...,ማስታወሻ ለመጨመር ጠቅ ያድርጉ...
+Click to assign contact,ግንኙነት ለመመደብ ጠቅ ያድርጉ
+Click to change status,ሁኔታ ለመቀየር ጠቅ ያድርጉ
+Click to change type,ዓይነት ለመቀየር ጠቅ ያድርጉ
+Click to edit,ለማረም ጠቅ ያድርጉ
+Click to edit budget,በጀት ለማረም ጠቅ ያድርጉ
+Click to edit description,መግለጫ ለማረም ጠቅ ያድርጉ
+Click to edit end date,የማጠናቀቂያ ቀን ለማረም ጠቅ ያድርጉ
+Click to edit milestone name,የምዕራፍ ስም ለማረም ጠቅ ያድርጉ
+Click to edit rate,ተመን ለማረም ጠቅ ያድርጉ
+Click to edit start date,የመጀመሪያ ቀን ለማረም ጠቅ ያድርጉ
+Click to edit title,ርዕስ ለማረም ጠቅ ያድርጉ
+Click to load,ለመጫን ጠቅ ያድርጉ
+Click to set group dependency...,የቡድን ጥገኝነት ለማዘጋጀት ጠቅ ያድርጉ...
+Click to set group...,ቡድን ለማዘጋጀት ጠቅ ያድርጉ...
+Click to view,ለማየት ጠቅ ያድርጉ
+Click to view at-risk projects,አደጋ ላይ ያሉ ፕሮጀክቶችን ለማየት ጠቅ ያድርጉ
+Click to view critical projects,ወሳኝ ፕሮጀክቶችን ለማየት ጠቅ ያድርጉ
+Click to view healthy projects,ጤናማ ፕሮጀክቶችን ለማየት ጠቅ ያድርጉ
+Client,ደንበኛ
+Client already has a portal user: {0},ደንበኛው ቀድሞ የመግቢያ ተጠቃሚ አለው: {0}
+Client already has portal access,ደንበኛው ቀድሞ የመግቢያ መዳረሻ አለው
+Client has no portal user to revoke,ደንበኛው ሊሻር የሚችል የመግቢያ ተጠቃሚ የለውም
+Client link removed from project {0},ከፕሮጀክት {0} የደንበኛ ግንኙነት ተወግዷል
+Client Portal,የደንበኛ መግቢያ
+Client {0} deleted successfully,ደንበኛ {0} በተሳካ ሁኔታ ተሰርዟል
+Close,ዝጋ
+Close (Esc),ዝጋ (Esc)
+Comment,አስተያየት
+comment,አስተያየት
+Comment added,አስተያየት ተጨምሯል
+Comment content is required,የአስተያየት ይዘት ያስፈልጋል
+Comment name is required,የአስተያየት ስም ያስፈልጋል
+Comment not found,አስተያየት አልተገኘም
+Comment removed,አስተያየት ተወግዷል
+Comment {0} not found in task,አስተያየት {0} በተግባሩ ውስጥ አልተገኘም
+Comments,አስተያየቶች
+comments,አስተያየቶች
+Community Edition,Community Edition
+Company,ድርጅት
+Company name...,የድርጅት ስም...
+Complete,ጨርስ
+Completed,ተጠናቅቋል
+completed,ተጠናቅቋል
+Completed Tasks,የተጠናቀቁ ተግባራት
+Compliance,ተገዢነት
+Configure default values for new projects and tasks,ለአዲስ ፕሮጀክቶች እና ተግባራት ነባሪ ዋጋዎችን ያዋቅሩ
+Configure email notification settings,የኢሜይል ማሳወቂያ ቅንብሮችን ያዋቅሩ
+Confirm,አረጋግጥ
+Contact deleted,ግንኙነት ተሰርዟል
+Contact Details,የግንኙነት ዝርዝሮች
+Contact Information,የግንኙነት መረጃ
+Contact name is required,የግንኙነት ስም ያስፈልጋል
+Contact Support,ድጋፍ ያግኙ
+Contact your project manager for more information.,ለተጨማሪ መረጃ የፕሮጀክት ሃላፊዎን ያግኙ።
+Contact:,ግንኙነት:
+Contacts,ግንኙነቶች
+Context,አውድ
+Contractor,ተቋራጭ
+Cost estimate cannot be negative,የወጪ ግምት አሉታዊ ሊሆን አይችልም
+Cost Impact,የወጪ ተጽእኖ
+Cost Summary,የወጪ ማጠቃለያ
+Could not apply the template. Please try again.,አብነቱን ማተግበር አልተቻለም። እባክዎ እንደገና ይሞክሩ።
+Could not attach file to project,ፋይሉን ከፕሮጀክቱ ጋር ማያያዝ አልተቻለም
+Could not change task priority,የተግባር ቅድሚያ መቀየር አልተቻለም
+Could not change task status,የተግባር ሁኔታ መቀየር አልተቻለም
+Could not delete the project. Please try again.,ፕሮጀክቱን መሰረዝ አልተቻለም። እባክዎ እንደገና ይሞክሩ።
+Could not delete the task. Please try again.,ተግባሩን መሰረዝ አልተቻለም። እባክዎ እንደገና ይሞክሩ።
+Could not delete the template.,አብነቱን መሰረዝ አልተቻለም።
+Could not duplicate the task. Please try again.,ተግባሩን ማባዛት አልተቻለም። እባክዎ እንደገና ይሞክሩ።
+Could not export the template.,አብነቱን መላክ አልተቻለም።
+Could not import the template. Please check the file format.,አብነቱን ማስገባት አልተቻለም። እባክዎ የፋይሉን ቅርጸት ያረጋግጡ።
+Could not link task to milestone,ተግባሩን ከምዕራፉ ጋር ማገናኘት አልተቻለም
+Could not load document details.,የሰነድ ዝርዝሮችን መጫን አልተቻለም።
+Could not load task details,የተግባር ዝርዝሮችን መጫን አልተቻለም
+Could not promote checklist item to task.,የማረጋገጫ ዝርዝር ንጥልን ወደ ተግባር ማሳደግ አልተቻለም።
+Could not remove task from milestone,ተግባሩን ከምዕራፉ ማስወገድ አልተቻለም
+Could not save budget.,በጀቱን ማስቀመጥ አልተቻለም።
+Could not save changes to the milestone,ለምዕራፉ የተደረጉ ለውጦችን ማስቀመጥ አልተቻለም
+Could not save changes to the task,ለተግባሩ የተደረጉ ለውጦችን ማስቀመጥ አልተቻለም
+Could not save description.,መግለጫውን ማስቀመጥ አልተቻለም።
+Could not save end date.,የማጠናቀቂያ ቀን ማስቀመጥ አልተቻለም።
+Could not save milestone name.,የምዕራፍ ስም ማስቀመጥ አልተቻለም።
+Could not save start date.,የመጀመሪያ ቀን ማስቀመጥ አልተቻለም።
+Could not save the template. Please try again.,አብነቱን ማስቀመጥ አልተቻለም። እባክዎ እንደገና ይሞክሩ።
+Could not save title.,ርዕሱን ማስቀመጥ አልተቻለም።
+Could not update dependency mode.,የጥገኝነት ሁነታ ማዘመን አልተቻለም።
+Could not update milestone date,የምዕራፍ ቀን ማዘመን አልተቻለም
+Could not update project status.,የፕሮጀክት ሁኔታ ማዘመን አልተቻለም።
+Could not update project type.,የፕሮጀክት ዓይነት ማዘመን አልተቻለም።
+Could not update setting.,ቅንብር ማዘመን አልተቻለም።
+Could not update task dates,የተግባር ቀናት ማዘመን አልተቻለም
+Could not update task status,የተግባር ሁኔታ ማዘመን አልተቻለም
+Could not update the template.,አብነቱን ማዘመን አልተቻለም።
+Create a copy of this task,የዚህን ተግባር ቅጂ ፍጠር
+Create Contact,ግንኙነት ፍጠር
+Create Event,ክስተት ፍጠር
+Create Milestone,ምዕራፍ ፍጠር
+Create New Milestone,አዲስ ምዕራፍ ፍጠር
+Create New Task,አዲስ ተግባር ፍጠር
+Create Project,ፕሮጀክት ፍጠር
+Create Task,ተግባር ፍጠር
+Create tasks and milestones from a template,ከአብነት ተግባራት እና ምዕራፎችን ፍጠር
+Create your first project to get started.,ለመጀመር የመጀመሪያ ፕሮጀክትዎን ይፍጠሩ።
+Create your first task to start tracking work on this project.,በዚህ ፕሮጀክት ላይ ስራን መከታተል ለመጀመር የመጀመሪያ ተግባርዎን ይፍጠሩ።
+Created,ተፈጥሯል
+Creating...,በመፍጠር ላይ...
+Critical,ወሳኝ
+Critical Path,ወሳኝ መንገድ
+"Currency used for budgets, costs, and billing rates",ለበጀቶች፣ ወጪዎች እና የክፍያ ተመኖች ጥቅም ላይ የሚውል ገንዘብ
+Current,አሁን ያለ
+Current Assignments,የአሁን ምድባዎች
+Current scheduled time:,አሁን የተያዘ ጊዜ:
+Currently running version,Currently running version
+d lag,ቀን ዘግይት
+Daily Availability,የዕለት ዝግጁነት
+Daily Hours,የዕለት ሰዓታት
+Danger Zone,አደገኛ ቦታ
+Dark,ጨለማ
+Dashboard,ዳሽቦርድ
+Date,ቀን
+Date changes on this task will show cascade impact here,በዚህ ተግባር ላይ ያሉ የቀን ለውጦች የተከታታይ ተጽእኖ እዚህ ይታያሉ
+Date cleared,ቀን ተጽድቷል
+Date of Joining,የመቀላቀያ ቀን
+Date updated,ቀን ተዘምኗል
+Dates,ቀናት
+Dates cascaded,ቀናት በተከታታይ ተለውጠዋል
+Dates will be relative to the project's start date.,ቀናት ከፕሮጀክቱ የመጀመሪያ ቀን ጋር አንጻራዊ ይሆናሉ።
+Day,ቀን
+day,ቀን
+days,ቀናት
+Days before due date to send reminder,ማሳሰቢያ ለመላክ ከመጨረሻ ቀን በፊት ያሉ ቀናት
+Days Overdue,የዘገዩ ቀናት
+Days Remaining,የቀሩ ቀናት
+Deadline,የመጨረሻ ቀን
+Deadlines,የመጨረሻ ቀናት
+Decision,ውሳኔ
+Decline,ውድቅ አድርግ
+Declined,ውድቅ ተደርጓል
+Default Currency,ነባሪ ገንዘብ
+Default hours per week for contact capacity planning,ለግንኙነት አቅም ዕቅድ ነባሪ ሳምንታዊ ሰዓታት
+Default Priority,ነባሪ ቅድሚያ
+Default Project Status,ነባሪ የፕሮጀክት ሁኔታ
+Default Task Status,ነባሪ የተግባር ሁኔታ
+Default task view,ነባሪ የተግባር ዕይታ
+Default Values,ነባሪ ዋጋዎች
+Default Weekly Capacity,ነባሪ ሳምንታዊ አቅም
+Defaults,ነባሪዎች
+Defect Cost Impact,የጉድለት ወጪ ተጽእኖ
+Defect name is required,የጉድለት ስም ያስፈልጋል
+Defect Type,የጉድለት ዓይነት
+Defect {0} not found,ጉድለት {0} አልተገኘም
+Defects,ጉድለቶች
+Defects & Issues,ጉድለቶች እና ችግሮች
+Defects Resolved,የተፈቱ ጉድለቶች
+Delayed,ዘግይቷል
+Delete,ሰርዝ
+Delete Activity Data,የእንቅስቃሴ ውሂብ ሰርዝ
+Delete all read notifications?,ሁሉንም የተነበቡ ማሳወቂያዎች ይሰረዙ?
+Delete comment,አስተያየት ሰርዝ
+Delete Contact,ግንኙነት ሰርዝ
+Delete Event,ክስተት ሰርዝ
+Delete Event?,ክስተቱ ይሰረዝ?
+Delete failed,መሰረዝ አልተሳካም
+Delete file,ፋይል ሰርዝ
+Delete item,ንጥል ሰርዝ
+Delete note,ማስታወሻ ሰርዝ
+Delete Project,ፕሮጀክት ሰርዝ
+Delete Task,ተግባር ሰርዝ
+Delete this project,ይህን ፕሮጀክት ሰርዝ
+Deleted,ተሰርዟል
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","ፕሮጀክት ""{0}"" ተሰርዟል ({1} ተግባራት፣ {2} ምዕራፎች)"
+Deletes notes and preferences. Source document is not affected.,ማስታወሻዎችን እና ምርጫዎችን ይሰርዛል። ዋናው ሰነድ አይነካም።
+Deleting...,በመሰረዝ ላይ...
+Department,ክፍል
+Dependencies,ጥገኝነቶች
+dependencies,ጥገኝነቶች
+Dependencies are informational only,ጥገኝነቶች ለመረጃ ብቻ ናቸው
+dependency,ጥገኝነት
+Dependency already exists,ጥገኝነቱ ቀድሞ አለ
+Dependency Chain,የጥገኝነት ሰንሰለት
+Dependency created,ጥገኝነት ተፈጥሯል
+Dependency mode updated,የጥገኝነት ሁነታ ተዘምኗል
+Dependency name is required,የጥገኝነት ስም ያስፈልጋል
+Dependency task {0} not found,ጥገኛ ተግባር {0} አልተገኘም
+Dependency {0} not found,ጥገኝነት {0} አልተገኘም
+depends,ይመካል
+Depends on Group,በቡድን ላይ ይወሰናል
+Depends on task is required,ጥገኛ ተግባር ያስፈልጋል
+depends on...,ይመካል ከ...
+Descending -- click to reverse,ከትልቅ ወደ ትንሽ -- ለመቀልበስ ጠቅ ያድርጉ
+Describe the defect in detail...,ጉድለቱን በዝርዝር ይግለጹ...
+Description,መግለጫ
+Description updated,መግለጫ ተዘምኗል
+Designation,ማዕረግ
+"Detailed description of the defect, location, and impact",ስለ ጉድለቱ፣ ቦታው እና ተጽእኖው ዝርዝር መግለጫ
+Details,ዝርዝሮች
+Discard timer,ሰዓት ቆጣሪ ውድቅ አድርግ
+Discussion,ውይይት
+Dismiss,Dismiss
+Display,ማሳያ
+Document,ሰነድ
+Document attached to project,ሰነድ ከፕሮጀክቱ ጋር ተያይዟል
+Document final decision and rationale,የመጨረሻ ውሳኔና ምክንያት ይመዝግቡ
+Documentation Review,ሰነድ ግምገማ
+Documents,ሰነዶች
+Done,ተከናውኗል
+Download,አውርድ
+Drag to create dependency,ጥገኝነት ለመፍጠር ጎትት
+Dry Run,ሙከራ
+Dry Run Complete,ሙከራ ተጠናቅቋል
+Due Date,የመጨረሻ ቀን
+Due date,የመጨረሻ ቀን
+Due Date (Earliest),የመጨረሻ ቀን (ቅርብ)
+Due date cannot be before start date,የመጨረሻ ቀን ከመጀመሪያ ቀን በፊት ሊሆን አይችልም
+Due date is in the past,የመጨረሻ ቀን ያለፈ ነው
+Due Date Reminders,የመጨረሻ ቀን ማሳሰቢያዎች
+Due Diligence,ቅድመ-ምርመራ
+Due Diligence Checklist,የቅድመ-ምርመራ ማረጋገጫ ዝርዝር
+Due This Week,በዚህ ሳምንት የሚደርሱ
+Due:,ቀነ ገደብ:
+Duplicate events are not allowed,ተደጋጋሚ ክስተቶች አይፈቀዱም
+Duplicate failed,ማባዛት አልተሳካም
+Duplicate Task,ተግባር ቅዳ
+Duration,ቆይታ
+Duration Summary,የቆይታ ማጠቃለያ
+Duration:,ቆይታ:
+e.g. Cracked wall finish in bathroom...,ለምሳሌ በመታጠቢያ ቤት ውስጥ የተሰነጠቀ ግድግዳ ፊኒሽ...
+"e.g. Electrical, Plumbing...",ለምሳሌ ኤሌክትሪክ፣ ቧንቧ...
+Edit,አርም
+Edit (E),አርም (E)
+Edit dependency,ጥገኝነት አርም
+Edit Event,ክስተት አርም
+Efficiency,ቅልጥፍና
+Either dependency_name or depends_on is required,dependency_name ወይም depends_on ያስፈልጋል
+Email,ኢሜይል
+Email invitations to all attendees,ለሁሉም ተሳታፊዎች የኢሜይል ግብዣዎች
+Email is required to create portal user,የመግቢያ ተጠቃሚ ለመፍጠር ኢሜይል ያስፈልጋል
+Email notifications,የኢሜይል ማሳወቂያዎች
+Employee,ሰራተኛ
+Employee DocType not available,የሰራተኛ DocType አይገኝም
+Employee not found,ሰራተኛ አልተገኘም
+Enable or disable optional features,አማራጭ ባህሪያትን አንቃ ወይም አጥፋ
+Enable Time Tracking,የጊዜ መከታተል አንቃ
+End,መጨረሻ
+End Date,የማጠናቀቂያ ቀን
+End date,የማጠናቀቂያ ቀን
+End Date cannot be before Start Date,የማጠናቀቂያ ቀን ከመጀመሪያ ቀን በፊት ሊሆን አይችልም
+End date cannot be before start date,የማጠናቀቂያ ቀን ከመጀመሪያ ቀን በፊት ሊሆን አይችልም
+End date updated,የማጠናቀቂያ ቀን ተዘምኗል
+End time was before start time. Adjusted to 1 hour after start.,የመጨረሻ ሰዓት ከመጀመሪያ ሰዓት በፊት ነበር። ከመጀመሪያ 1 ሰዓት በኋላ ተስተካክሏል።
+End:,መጨረሻ:
+Enter milestone name...,የምዕራፍ ስም ያስገቡ...
+Enter project name,የፕሮጀክት ስም ያስገቡ
+Enter task title...,የተግባር ርዕስ ያስገቡ...
+Enter template name,የአብነት ስም ያስገቡ
+Enter your note... Use @name to mention someone,ማስታወሻዎን ያስገቡ... አንድ ሰው ለመጥቀስ @ስም ይጠቀሙ
+Error,ስህተት
+Error loading activity,እንቅስቃሴ መጫን ላይ ስህተት
+Error loading contacts,ግንኙነቶች መጫን ላይ ስህተት
+Error loading dashboard,ዳሽቦርድ መጫን ላይ ስህተት
+Error loading project,ፕሮጀክት መጫን ላይ ስህተት
+Error loading projects,ፕሮጀክቶች መጫን ላይ ስህተት
+Error loading settings,ቅንብሮች መጫን ላይ ስህተት
+Error loading tasks,ተግባራት መጫን ላይ ስህተት
+Error loading templates,አብነቶች መጫን ላይ ስህተት
+Est. Hours,የሚገመቱ ሰዓታት
+Estimated,የተገመተ
+Estimated Cost,የተገመተ ወጪ
+Estimated Cost (€),የተገመተ ወጪ (€)
+Estimated Hours,የተገመቱ ሰዓታት
+Estimated:,የተገመተ:
+Evaluate potential risks and concerns,ሊሆኑ የሚችሉ አደጋዎችን እና ስጋቶችን ይገምግሙ
+Event,ክስተት
+Event is required for event context,ለክስተት አውድ ክስተት ያስፈልጋል
+Event is required when tracking context is 'event',የክትትል አውድ 'ክስተት' ሲሆን ክስተት ያስፈልጋል
+Event Type,የክስተት ዓይነት
+Events,ክስተቶች
+Events not available. Please run: bench --site orga.localhost migrate,ክስተቶች አይገኙም። እባክዎ ያሂዱ: bench --site orga.localhost migrate
+Events:,ክስተቶች:
+Expert,ባለሙያ
+Explain why you are proposing a different time...,ለምን የተለየ ጊዜ እንደሚያቀርቡ ያብራሩ...
+Export,ላክ
+Export failed,መላክ አልተሳካም
+Export JSON,JSON ላክ
+Exported,ተልኳል
+Exported to timesheet {0},ወደ የጊዜ ሰንጠረዥ {0} ተልኳል
+External,ውጫዊ
+Failed to add item,ንጥል ማከል አልተሳካም
+Failed to add note,ማስታወሻ ማከል አልተሳካም
+Failed to add skill,ክህሎት ማከል አልተሳካም
+Failed to apply cascade changes: {0},ተከታታይ ለውጦችን መተግበር አልተሳካም: {0}
+Failed to create defect,ጉድለት መፍጠር አልተሳካም
+Failed to create dependency,ጥገኝነት መፍጠር አልተሳካም
+Failed to create event,ክስተት መፍጠር አልተሳካም
+Failed to create milestone,ምዕራፍ መፍጠር አልተሳካም
+Failed to create project,ፕሮጀክት መፍጠር አልተሳካም
+Failed to create task,ተግባር መፍጠር አልተሳካም
+Failed to create time log,የሰዓት መዝገብ መፍጠር አልተሳካም
+Failed to delete,መሰረዝ አልተሳካም
+Failed to delete comment,አስተያየት መሰረዝ አልተሳካም
+Failed to delete contact,እውቂያ መሰረዝ አልተሳካም
+Failed to load,መጫን አልተሳካም
+Failed to load activity,እንቅስቃሴ መጫን አልተሳካም
+Failed to load assignments,ምደባዎችን መጫን አልተሳካም
+Failed to load contact,እውቂያ መጫን አልተሳካም
+Failed to load dashboard data,ዳሽቦርድ ውሂብ መጫን አልተሳካም
+Failed to load defects,ጉድለቶችን መጫን አልተሳካም
+Failed to load events,ክስተቶችን መጫን አልተሳካም
+Failed to load project,ፕሮጀክት መጫን አልተሳካም
+Failed to load projects,ፕሮጀክቶችን መጫን አልተሳካም
+Failed to load report data,ሪፖርት ውሂብ መጫን አልተሳካም
+Failed to load settings,ቅንብሮችን መጫን አልተሳካም
+Failed to load tasks,ተግባራትን መጫን አልተሳካም
+Failed to move task,ተግባር ማንቀሳቀስ አልተሳካም
+Failed to post comment,አስተያየት መለጠፍ አልተሳካም
+Failed to propose new time,አዲስ ሰዓት ማቅረብ አልተሳካም
+Failed to remove item,ንጥል ማስወገድ አልተሳካም
+Failed to remove skill,ክህሎት ማስወገድ አልተሳካም
+Failed to reorder milestones: {0},ምዕራፎችን እንደገና ማስተካከል አልተሳካም: {0}
+Failed to reorder tasks: {0},ተግባራትን እንደገና ማስተካከል አልተሳካም: {0}
+Failed to reschedule dependent tasks: {0},ጥገኛ ተግባራትን እንደገና ማቀድ አልተሳካም: {0}
+Failed to save,ማስቀመጥ አልተሳካም
+Failed to save preferences,ምርጫዎችን ማስቀመጥ አልተሳካም
+Failed to save settings,ቅንብሮችን ማስቀመጥ አልተሳካም
+Failed to submit request. Please try again.,ጥያቄ ማቅረብ አልተሳካም። እባክዎ እንደገና ይሞክሩ።
+Failed to update item,ንጥል ማዘመን አልተሳካም
+Failed to update priority,ቅድሚያ ማዘመን አልተሳካም
+Failed to update task,ተግባር ማዘመን አልተሳካም
+Failed to update tasks: {0},ተግባራትን ማዘመን አልተሳካም: {0}
+Failed to upload avatar,አምሳያ መስቀል አልተሳካም
+Feature,ባህሪ
+Features,ባህሪያት
+FF (Finish-Finish),FF (ማጠናቀቂያ-ማጠናቀቂያ)
+FF - Finish-to-Finish,FF - ማጠናቀቂያ ወደ ማጠናቀቂያ
+Field has been updated,መስክ ተዘምኗል
+Field name is required for 'Set Field Value' action,'Set Field Value' ድርጊት ለመስክ ስም ያስፈልጋል
+Field {0} is not a Link field,መስክ {0} የአገናኝ መስክ አይደለም
+Field {0} not found in {1},መስክ {0} በ{1} ውስጥ አልተገኘም
+File,ፋይል
+file,ፋይል
+File does not belong to this task,ፋይል ለዚህ ተግባር አይደለም
+File name is required,የፋይል ስም ያስፈልጋል
+File uploaded,ፋይል ተሰቅሏል
+File {0} not found,ፋይል {0} አልተገኘም
+Files,ፋይሎች
+files,ፋይሎች
+Filter,ማጣሪያ
+Final Decision,የመጨረሻ ውሳኔ
+Finance,ፋይናንስ
+Financial,ፋይናንሻል
+Finish-to-Finish,ማጠናቀቂያ ወደ ማጠናቀቂያ
+Finish-to-Start,ማጠናቀቂያ ወደ ጅምር
+Flag,ሰንደቅ
+Flag for attention,ለትኩረት ምልክት አድርግ
+Flagged,ምልክት ተደርጓል
+Focus Panel,የትኩረት ፓነል
+Follows your system preference. Currently:,የስርዓት ምርጫዎን ይከተላል። አሁን:
+Frappe Project {0} not found,Frappe ፕሮጀክት {0} አልተገኘም
+Frappe Projects Migration,Frappe ፕሮጀክቶች ዝውውር
+Frappe Projects module not available,Frappe ፕሮጀክቶች ሞጁል አይገኝም
+Frappe Projects module not installed,Frappe ፕሮጀክቶች ሞጁል አልተጫነም
+Frappe Projects sync is not enabled,Frappe ፕሮጀክቶች ማመሳሰል አልተነቃም
+Frappe Task DocType not found,Frappe ተግባር DocType አልተገኘም
+Frappe Task has no project,Frappe ተግባር ፕሮጀክት የለውም
+Frappe Task {0} not found,Frappe ተግባር {0} አልተገኘም
+Fri,ዓርብ
+From,ከ
+From Template,ከአብነት
+FS (Finish-Start),FS (ማጠናቀቂያ-ጅምር)
+FS - Finish-to-Start (default),FS - ማጠናቀቂያ ወደ ጅምር (ነባሪ)
+Full form view with audit trail,ከኦዲት ዱካ ጋር ሙሉ ቅጽ ዕይታ
+Full name,ሙሉ ስም
+Gantt,ጋንት
+Gantt Chart,የጋንት ቻርት
+Gantt View,የጋንት ዕይታ
+General Note,አጠቃላይ ማስታወሻ
+Get started,ጀምር
+Go back,ተመለስ
+Go Back,Go Back
+Group by,ቡድን በ
+Group dependency removed,የቡድን ጥገኝነት ተወግዷል
+Group dependency set,የቡድን ጥገኝነት ተቀናብሯል
+Group removed,ቡድን ተወግዷል
+Group updated,ቡድን ተዘምኗል
+Hammock task dates are auto-calculated and cannot be changed manually,የሃሞክ ተግባር ቀናት በራስ-ሰር ይሰላሉ እና በእጅ ሊቀየሩ አይችሉም
+Have a question or need assistance? Fill out the form below and our team will get back to you.,ጥያቄ አለዎት ወይም እርዳታ ይፈልጋሉ? ከዚህ በታች ያለውን ቅጽ ይሙሉ እና ቡድናችን ይመልሱልዎታል።
+Health,ጤና
+Healthy,ጤናማ
+Hello {0},ሰላም {0}
+Here's what's happening with your projects today.,ዛሬ በፕሮጀክቶችዎ ላይ እየተከሰተ ያለው ይህ ነው።
+Hide,ደብቅ
+High,ከፍተኛ
+History,ታሪክ
+Home,መነሻ
+Hourly Cost,የሰዓት ወጪ
+Hours,ሰዓታት
+hours,ሰዓታት
+Hours Logged,የተመዘገቡ ሰዓታት
+ID,መታወቂያ
+Image must be smaller than 5 MB,ምስል ከ5 ሜባ ያነሰ መሆን አለበት
+Import,አስመጣ
+Import existing projects and tasks from Frappe Projects module,ከFrappe ፕሮጀክቶች ሞጁል ነባር ፕሮጀክቶችን እና ተግባራትን አስመጣ
+Import failed,ማስመጣት አልተሳካም
+Import Template,አብነት አስመጣ
+Imported,ተስመጥቷል
+in,ውስጥ
+In Progress,በሂደት ላይ
+In Review,በግምገማ ላይ
+In-app notifications,በመተግበሪያ ውስጥ ማሳወቂያዎች
+Inactive,ንቁ ያልሆነ
+Initial Review,የመጀመሪያ ግምገማ
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,ሁሉንም ተግባራት ለማየት በቂ ፈቃዶች የሉም
+Intermediate,መካከለኛ
+Internal,ውስጣዊ
+Invalid DocType,ልክ ያልሆነ DocType
+Invalid DocType for import,ለማስመጣት ልክ ያልሆነ DocType
+Invalid item type: {0},ልክ ያልሆነ የንጥል ዓይነት: {0}
+Invalid JSON data,ልክ ያልሆነ JSON ውሂብ
+Invalid note type. Must be one of: {0},ልክ ያልሆነ የማስታወሻ ዓይነት። ከእነዚህ አንዱ መሆን አለበት: {0}
+Invalid project reference,ልክ ያልሆነ የፕሮጀክት ማጣቀሻ
+Invalid reaction type. Must be one of: {0},ልክ ያልሆነ የምላሽ ዓይነት። ከእነዚህ አንዱ መሆን አለበት: {0}
+Invalid RSVP status,ልክ ያልሆነ RSVP ሁኔታ
+Invalid status. Must be one of: {0},ልክ ያልሆነ ሁኔታ። ከእነዚህ አንዱ መሆን አለበት: {0}
+Invalid status: {0},ልክ ያልሆነ ሁኔታ: {0}
+Invalid status: {0}. Must be one of: {1},ልክ ያልሆነ ሁኔታ: {0}። ከእነዚህ አንዱ መሆን አለበት: {1}
+Invalid tracking context: {0},ልክ ያልሆነ የክትትል አውድ: {0}
+Invalid visibility. Must be one of: {0},ልክ ያልሆነ ታይነት። ከእነዚህ አንዱ መሆን አለበት: {0}
+Invitation: {0} - {1} at {2},ግብዣ: {0} - {1} በ{2}
+Invite People,ሰዎችን ጋብዝ
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,ንጥል ተጨምሯል
+Item ID is required,የንጥል መታወቂያ ያስፈልጋል
+Item removed,ንጥል ተወግዷል
+Item type is required,የንጥል ዓይነት ያስፈልጋል
+Item {0} not found,ንጥል {0} አልተገኘም
+Job title or role,የሥራ ማዕረግ ወይም ሚና
+Join Meeting,ስብሰባ ተቀላቀል
+Just now,አሁን
+just now,አሁን
+Kanban,ካንባን
+Kanban Board,ካንባን ቦርድ
+Kanban View,የካንባን ዕይታ
+Keyboard Shortcuts,የቁልፍ ሰሌዳ አቋራጮች
+Keyboard shortcuts (?),የቁልፍ ሰሌዳ አቋራጮች (?)
+Last checked: {0},Last checked: {0}
+Last Updated,የመጨረሻ ማዘመኛ
+Last updated:,የመጨረሻ ማዘመኛ:
+Last Week,ያለፈው ሳምንት
+Latest Version,Latest Version
+Light,ብርሃን
+Link failed,ማገናኘት አልተሳካም
+Link Task,ተግባር አገናኝ
+Linked,ተገናኝቷል
+Linked employee not found,የተገናኘ ሰራተኛ አልተገኘም
+Linked Tasks,የተገናኙ ተግባራት
+List,ዝርዝር
+List View,የዝርዝር ዕይታ
+Load failed,መጫን አልተሳካም
+Load More,ተጨማሪ ጫን
+Load more comments,ተጨማሪ አስተያየቶችን ጫን
+Loading activity...,እንቅስቃሴ በመጫን ላይ...
+Loading changes...,ለውጦችን በመጫን ላይ...
+Loading checklist...,ማረጋገጫ ዝርዝር በመጫን ላይ...
+Loading comments...,አስተያየቶችን በመጫን ላይ...
+Loading contact...,እውቂያ በመጫን ላይ...
+Loading contacts...,እውቂያዎችን በመጫን ላይ...
+Loading dependencies...,ጥገኝነቶችን በመጫን ላይ...
+Loading details...,ዝርዝሮችን በመጫን ላይ...
+Loading discussion...,ውይይት በመጫን ላይ...
+Loading events...,ክስተቶችን በመጫን ላይ...
+Loading files...,ፋይሎችን በመጫን ላይ...
+Loading notes...,ማስታወሻዎችን በመጫን ላይ...
+Loading preferences...,ምርጫዎችን በመጫን ላይ...
+Loading project...,ፕሮጀክት በመጫን ላይ...
+Loading projects...,ፕሮጀክቶችን በመጫን ላይ...
+Loading replies...,ምላሾችን በመጫን ላይ...
+Loading report data...,ሪፖርት ውሂብ በመጫን ላይ...
+Loading settings...,ቅንብሮችን በመጫን ላይ...
+Loading task...,ተግባር በመጫን ላይ...
+Loading templates...,አብነቶችን በመጫን ላይ...
+Loading time logs...,የሰዓት መዝገቦችን በመጫን ላይ...
+Loading your portal...,ፖርታልዎን በመጫን ላይ...
+Loading...,በመጫን ላይ...
+Location,ቦታ
+Log Time,ሰዓት መዝግብ
+Logout,ውጣ
+Low,ዝቅተኛ
+Make Offer,ቅናሽ አቅርብ
+Manager,አስተዳዳሪ
+Manual Entry,በእጅ ማስገባት
+Margin,ዳርቻ
+Mark all as read,ሁሉንም እንደተነበበ ምልክት አድርግ
+Mark all read,ሁሉንም ያነብ ምልክት አድርግ
+Mark as read,እንደተነበበ ምልክት አድርግ
+Mark as unread,ያልተነበበ ምልክት አድርግ
+Mark read,ተነብቧል ምልክት አድርግ
+Marking...,ምልክት በማድረግ ላይ...
+Material,ቁሳቁስ
+Maybe,ምናልባት
+Medium,መካከለኛ
+Meeting,ስብሰባ
+Meeting Link,የስብሰባ ማገናኛ
+Meeting title,የስብሰባ ርዕስ
+Meeting URL,የስብሰባ URL
+Meetings,ስብሰባዎች
+Mention,ጥቀስ
+Message,መልዕክት
+Message is required,መልዕክት ያስፈልጋል
+Message is required for '{0}' action,ለ'{0}' ድርጊት መልዕክት ያስፈልጋል
+Migrate,አዛውር
+Migration Complete,ዝውውር ተጠናቋል
+Migration ID:,የዝውውር መታወቂያ:
+Migration log not found: {0},የዝውውር መዝገብ አልተገኘም: {0}
+Milestone,ምዕራፍ
+milestone,ምዕራፍ
+Milestone created,ምዕራፍ ተፈጥሯል
+Milestone description has been saved.,የምዕራፍ መግለጫ ተቀምጧል።
+Milestone ID is required,የምዕራፍ መታወቂያ ያስፈልጋል
+Milestone marked as Missed (past due date),ምዕራፍ ያለፈበት ተብሎ ምልክት ተደርጓል (የመጨረሻ ቀን አልፏል)
+Milestone moved,ምዕራፍ ተንቀሳቅሷል
+Milestone Name,የምዕራፍ ስም
+Milestone name has been saved.,የምዕራፍ ስም ተቀምጧል።
+Milestone name is required,የምዕራፍ ስም ያስፈልጋል
+Milestone updated,ምዕራፍ ተዘምኗል
+Milestone {0} not found,ምዕራፍ {0} አልተገኘም
+Milestone {0} not in project {1},ምዕራፍ {0} በፕሮጀክት {1} ውስጥ የለም
+Milestones,ምዕራፎች
+milestones,ምዕራፎች
+Milestones:,ምዕራፎች:
+Minutes,ደቂቃዎች
+Missed,ያለፈ
+Mixed,ድብልቅ
+Mobile,ሞባይል
+Moderate,መጠነኛ
+Modified,ተስተካክሏል
+"Modify details, time, or attendees",ዝርዝሮችን፣ ሰዓትን ወይም ተሳታፊዎችን ቀይር
+Mon,ሰኞ
+Month,ወር
+Move failed,ማንቀሳቀስ አልተሳካም
+Must be a positive number,ቁልፍ ቁጥር መሆን አለበት
+Must finish before this finishes,ይህ ከመጠናቀቁ በፊት መጠናቀቅ አለበት
+Must finish before this starts,ይህ ከመጀመሩ በፊት መጠናቀቅ አለበት
+Must start before this finishes,ይህ ከመጠናቀቁ በፊት መጀመር አለበት
+Must start before this starts,ይህ ከመጀመሩ በፊት መጀመር አለበት
+My Assignments,ምደባዎቼ
+My Projects,ፕሮጀክቶቼ
+My Schedule,የሰዓት ሰሌዳዬ
+My Tasks,ተግባራቶቼ
+N/A,ተፈጻሚ አይደለም
+Name,ስም
+Name (A-Z),ስም (A-Z)
+Name (Z-A),ስም (Z-A)
+Name cannot exceed 255 characters,ስም ከ255 ቁምፊዎች መብለጥ አይችልም
+Need help?,እርዳታ ይፈልጋሉ?
+Needs Attention,ትኩረት ያስፈልጋል
+Never,Never
+new activities,አዲስ እንቅስቃሴዎች
+New Activity,አዲስ እንቅስቃሴ
+New activity,አዲስ እንቅስቃሴ
+New Event,አዲስ ክስተት
+New index is required,አዲስ መረጃ ጠቋሚ ያስፈልጋል
+New Project,አዲስ ፕሮጀክት
+New tasks will auto-trail by default.,አዲስ ተግባራት በነባሪ በራስ-ሰር ይከታተላሉ።
+Newest First,አዲሱ በመጀመሪያ
+Next,ቀጣይ
+Next 14 days,ቀጣይ 14 ቀናት
+Next 30 days,ቀጣይ 30 ቀናት
+Next 60 days,ቀጣይ 60 ቀናት
+Next 7 days,ቀጣይ 7 ቀናት
+Next 90 days,ቀጣይ 90 ቀናት
+Next Week,ቀጣይ ሳምንት
+Next:,ቀጣይ:
+No,አይ
+No active assignments,ንቁ ምደባዎች የሉም
+No active projects,ንቁ ፕሮጀክቶች የሉም
+No active timer found,ንቁ ሰዓት ቆጣሪ አልተገኘም
+No activity selected,እንቅስቃሴ አልተመረጠም
+No assignments found,ምደባዎች አልተገኙም
+No attendees,ተሳታፊዎች የሉም
+no change,ለውጥ የለም
+No changes for this field.,ለዚህ መስክ ለውጦች የሉም።
+No changes recorded for this activity.,ለዚህ እንቅስቃሴ ለውጦች አልተመዘገቡም።
+No checklist items yet,እስካሁን ማረጋገጫ ዝርዝር ንጥሎች የሉም
+No checklist items yet.,እስካሁን ማረጋገጫ ዝርዝር ንጥሎች የሉም።
+No comments yet,እስካሁን አስተያየቶች የሉም
+No comments yet.,እስካሁን አስተያየቶች የሉም።
+No contacts available,ዝግጁ እውቂያዎች የሉም
+No content for this tab,ለዚህ ትር ይዘት የለም
+No data available,ውሂብ አይገኝም
+No data available for the selected filters,ለተመረጡት ማጣሪያዎች ውሂብ አይገኝም
+No data to export,ለመላክ ውሂብ የለም
+No dates set,ቀናት አልተቀናበሩም
+No defects reported,ጉድለቶች አልተዘገቡም
+No dependencies defined,ጥገኝነቶች አልተገለጹም
+No description,መግለጫ የለም
+No discussion yet.,እስካሁን ውይይት የለም።
+No documents attached,የተያያዙ ሰነዶች የሉም
+No due date,የመጨረሻ ቀን የለም
+No employee linked to this resource,ለዚህ ሀብት የተገናኘ ሰራተኛ የለም
+No ERPNext employee linked to resource,ለሀብት የተገናኘ ERPNext ሰራተኛ የለም
+No events found,ክስተቶች አልተገኙም
+No files attached yet.,እስካሁን ፋይሎች አልተያያዙም።
+No Frappe Project linked,የተገናኘ Frappe ፕሮጀክት የለም
+No Grouping,ቡድን ማድረግ የለም
+No items,ንጥሎች የሉም
+No matching tasks,ተዛማጅ ተግባራት የሉም
+No matching tasks found,ተዛማጅ ተግባራት አልተገኙም
+No migration history,የዝውውር ታሪክ የለም
+No Milestone,ምዕራፍ የለም
+No milestones,ምዕራፎች የሉም
+No milestones defined for this project.,ለዚህ ፕሮጀክት ምዕራፎች አልተገለጹም።
+No notes yet.,እስካሁን ማስታወሻዎች የሉም።
+No notes yet. Add a due diligence note to track progress.,እስካሁን ማስታወሻዎች የሉም። ለሂደት ክትትል የጥንቃቄ ማስታወሻ ያክሉ።
+No notifications,ማሳወቂያዎች የሉም
+No Orga Project linked to Frappe Project {0},ከFrappe ፕሮጀክት {0} ጋር የተገናኘ Orga ፕሮጀክት የለም
+No overdue tasks,ያለፉ ተግባራት የሉም
+No pending cascade changes,በመጠባበቅ ላይ ያሉ ተከታታይ ለውጦች የሉም
+No predecessors - this task can start independently,ቀድመው የሚሄዱ የሉም - ይህ ተግባር በራሱ ሊጀምር ይችላል
+No project,ፕሮጀክት የለም
+No projects found,ፕሮጀክቶች አልተገኙም
+No Projects Yet,እስካሁን ፕሮጀክቶች የሉም
+No recent activity,ቅርብ ጊዜ እንቅስቃሴ የለም
+No related documents,ተዛማጅ ሰነዶች የሉም
+No resolved threads.,የተፈቱ ክሮች የሉም።
+No resources found,ሀብቶች አልተገኙም
+No results found,ውጤቶች አልተገኙም
+No skills listed,ክህሎቶች አልተዘረዘሩም
+No skills recorded yet,እስካሁን ክህሎቶች አልተመዘገቡም
+No successors - no tasks are waiting for this one,ተከታዮች የሉም - ለዚህ ተግባር ምንም ተግባራት እየጠበቁ አይደሉም
+No task selected,ተግባር አልተመረጠም
+No tasks assigned to you,ለእርስዎ የተመደቡ ተግባራት የሉም
+No tasks available to add,ለማከል ዝግጁ ተግባራት የሉም
+No tasks found,ተግባራት አልተገኙም
+No tasks linked to this milestone,ከዚህ ምዕራፍ ጋር የተገናኙ ተግባራት የሉም
+No tasks with dates to display,ለማሳየት ቀናት ያላቸው ተግባራት የሉም
+No tasks yet,እስካሁን ተግባራት የሉም
+No team members,የቡድን አባላት የሉም
+No template,አብነት የለም
+No templates yet,እስካሁን አብነቶች የሉም
+No time data found,የሰዓት ውሂብ አልተገኘም
+No time logged today,ዛሬ ሰዓት አልተመዘገበም
+No time logged yet,እስካሁን ሰዓት አልተመዘገበም
+No time logs for this period,ለዚህ ጊዜ የሰዓት መዝገቦች የሉም
+No time logs found,የሰዓት መዝገቦች አልተገኙም
+No unread notifications,ያልተነበቡ ማሳወቂያዎች የሉም
+No update information available yet.,No update information available yet.
+None,ምንም
+Not found,አልተገኘም
+Not permitted,ፈቃድ የለም
+Not permitted to access this project,ይህን ፕሮጀክት ለማግኘት ፈቃድ የለም
+Not permitted to access this task,ይህን ተግባር ለማግኘት ፈቃድ የለም
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,በዚህ ሰነድ ላይ ለማስተያየት ፈቃድ የለም
+Not permitted to create clients,ደንበኞችን ለመፍጠር ፈቃድ የለም
+Not permitted to delete this client,ይህን ደንበኛ ለመሰረዝ ፈቃድ የለም
+Not permitted to delete this defect,ይህን ጉድለት ለመሰረዝ ፈቃድ የለም
+Not permitted to delete this note,ይህን ማስታወሻ ለመሰረዝ ፈቃድ የለም
+Not permitted to delete this project,ይህን ፕሮጀክት ለመሰረዝ ፈቃድ የለም
+Not permitted to delete this task,ይህን ተግባር ለመሰረዝ ፈቃድ የለም
+Not permitted to delete this time log,ይህን የሰዓት መዝገብ ለመሰረዝ ፈቃድ የለም
+Not permitted to invite clients,ደንበኞችን ለመጋበዝ ፈቃድ የለም
+Not permitted to modify client access,የደንበኛ መዳረሻ ለመቀየር ፈቃድ የለም
+Not permitted to modify this project,ይህን ፕሮጀክት ለመቀየር ፈቃድ የለም
+Not permitted to update settings,ቅንብሮችን ለማዘመን ፈቃድ የለም
+Not permitted to update this client,ይህን ደንበኛ ለማዘመን ፈቃድ የለም
+Not permitted to view this client,ይህን ደንበኛ ለማየት ፈቃድ የለም
+not sent,አልተላከም
+Not set,አልተቀናበረም
+Not specified,አልተገለጸም
+Note,ማስታወሻ
+Note (optional),ማስታወሻ (ምርጫ)
+Note Content,የማስታወሻ ይዘት
+Note content is required,የማስታወሻ ይዘት ያስፈልጋል
+Note name is required,የማስታወሻ ስም ያስፈልጋል
+Note not found,ማስታወሻ አልተገኘም
+Note Type,የማስታወሻ ዓይነት
+Notes,ማስታወሻዎች
+Notification,ማሳወቂያ
+Notification not found,ማሳወቂያ አልተገኘም
+Notifications,ማሳወቂያዎች
+Off Track,ከመንገድ ውጪ
+Offer,ቅናሽ
+Offer Prepared,ቅናሽ ተዘጋጅቷል
+Oldest First,የድሮው በመጀመሪያ
+On Hold,በማቆያ ላይ
+On Leave,በፈቃድ ላይ
+On Track,በመንገድ ላይ
+On-Time Rate,በሰዓት መጠን
+Only administrators can delete activities,አስተዳዳሪዎች ብቻ እንቅስቃሴዎችን መሰረዝ ይችላሉ
+Only the comment author or administrators can delete comments,የአስተያየት ጸሐፊ ወይም አስተዳዳሪዎች ብቻ አስተያየቶችን መሰረዝ ይችላሉ
+Only you and admins,እርስዎ እና አስተዳዳሪዎች ብቻ
+Open,ክፍት
+Open in Desk,በዴስክ ውስጥ ክፈት
+Open Task Log,የተግባር መዝገብ ክፈት
+Open Tasks,ክፍት ተግባራት
+Optional,ምርጫ
+optional,ምርጫ
+Or email us directly at,ወይም በቀጥታ ኢሜይል ያድርጉልን
+Orga Project {0} from Frappe Projects,ከFrappe ፕሮጀክቶች Orga ፕሮጀክት {0}
+Orga Task {0} from Frappe,ከFrappe Orga ተግባር {0}
+Organizer,አዘጋጅ
+Other,ሌላ
+Over Budget,ከበጀት በላይ
+Overall Progress,አጠቃላይ ሂደት
+Overall Utilization,አጠቃላይ አጠቃቀም
+Overallocated,ከልክ በላይ ተመድቧል
+Overdue,ያለፈ
+overdue,ያለፈ
+Overdue Tasks,ያለፉ ተግባራት
+Overview,አጠቃላይ ዕይታ
+Owner,ባለቤት
+Page Not Found,ገጽ አልተገኘም
+Parent,ወላጅ
+Parent comment must belong to the same document,ወላጅ አስተያየት ለተመሳሳይ ሰነድ መሆን አለበት
+Parent comment not found,ወላጅ አስተያየት አልተገኘም
+Parent project not synced to Frappe yet,ወላጅ ፕሮጀክት ገና ወደ Frappe አልተመሳሰለም
+Parent project sync not enabled,ወላጅ ፕሮጀክት ማመሳሰል አልተነቃም
+Partner,አጋር
+Pending,በመጠባበቅ ላይ
+per page,በገጽ
+Perform initial assessment and background check,የመጀመሪያ ግምገማ እና ዳራ ማረጋገጫ ያድርጉ
+Permanently remove this event,ይህን ክስተት ቋሚ ሰርዝ
+Permanently remove this task,ይህን ተግባር ቋሚ ሰርዝ
+Phone,ስልክ
+Pin,ሰካ
+Pin Activity,እንቅስቃሴ ሰካ
+Pin to top,ወደ ላይ ሰካ
+Pinned,ተሰክቷል
+Planned budget for this task,ለዚህ ተግባር የታቀደ በጀት
+Planning,ዕቅድ
+Please describe your question or issue in detail...,እባክዎ ጥያቄዎን ወይም ችግርዎን በዝርዝር ያስረዱ...
+Please login to access Orga,Orgaን ለማግኘት እባክዎ ይግቡ
+Please login to access the client portal,የደንበኛ ፖርታልን ለማግኘት እባክዎ ይግቡ
+Please respond to this invitation in Orga,እባክዎ በOrga ውስጥ ለዚህ ግብዣ ይመልሱ
+Please select an image file,እባክዎ የምስል ፋይል ይምረጡ
+Please try again,እባክዎ እንደገና ይሞክሩ
+Please type,እባክዎ ይተይቡ
+Portal,ፖርታል
+Portal access revoked for {0},ለ{0} የፖርታል መዳረሻ ተሰርዟል
+Portal user created successfully. Welcome email {0},የፖርታል ተጠቃሚ በተሳካ ሁኔታ ተፈጥሯል። የእንኳን ደህና መጡ ኢሜይል {0}
+Post,ለጥፍ
+Powered by,የተደገፈ በ
+Powered by Tonic,የተደገፈ በTonic
+Predecessors (Blocked By),ቀዳሚዎች (የታገዱ በ)
+Preferences,ምርጫዎች
+Preferences saved successfully,ምርጫዎች በተሳካ ሁኔታ ተቀምጠዋል
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",በራስ-ሰር ለሚፈጠሩ የፕሮጀክት ኮዶች ቅድመ-ቅጥያ (ለምሳሌ ORG-2026-0001)
+Prepare and document offer terms,የቅናሽ ውሎችን ያዘጋጁ እና ያስመዝግቡ
+Press,ይጫኑ
+Preview,ቅድመ-ዕይታ
+Preview cascade before applying,ከመተግበር በፊት ተከታታይን ቅድመ-ዕይታ ያድርጉ
+Previous,ቀዳሚ
+Priority,ቅድሚያ
+Priority assigned to new tasks,ለአዲስ ተግባራት የተመደበ ቅድሚያ
+Priority updated,ቅድሚያ ተዘምኗል
+Proficiency,ብቃት
+Profile,መገለጫ
+Progress,ሂደት
+Progress (High-Low),ሂደት (ከፍተኛ-ዝቅተኛ)
+Progress (Low-High),ሂደት (ዝቅተኛ-ከፍተኛ)
+Progress Overview,የሂደት አጠቃላይ ዕይታ
+Progress updated,ሂደት ተዘምኗል
+Project,ፕሮጀክት
+Project budget has been saved.,የፕሮጀክት በጀት ተቀምጧል።
+Project code (e.g. ORG-2026-0001),የፕሮጀክት ኮድ (ለምሳሌ ORG-2026-0001)
+Project Code Prefix,የፕሮጀክት ኮድ ቅድመ-ቅጥያ
+Project created,ፕሮጀክት ተፈጥሯል
+Project deleted,ፕሮጀክት ተሰርዟል
+Project description has been saved.,የፕሮጀክት መግለጫ ተቀምጧል።
+Project Details,የፕሮጀክት ዝርዝሮች
+Project end date has been saved.,የፕሮጀክት ማብቂያ ቀን ተቀምጧል።
+Project Files,የፕሮጀክት ፋይሎች
+Project has no linked client,ፕሮጀክት የተገናኘ ደንበኛ የለውም
+Project Health,የፕሮጀክት ጤና
+Project Info,የፕሮጀክት መረጃ
+Project is required,ፕሮጀክት ያስፈልጋል
+Project is required for project context,ለፕሮጀክት አውድ ፕሮጀክት ያስፈልጋል
+Project is required when tracking context is 'project',የክትትል አውድ 'project' ሲሆን ፕሮጀክት ያስፈልጋል
+Project Manager,የፕሮጀክት አስተዳዳሪ
+Project Name,የፕሮጀክት ስም
+Project name and template name are required,የፕሮጀክት ስም እና የአብነት ስም ያስፈልጋል
+Project name is required,የፕሮጀክት ስም ያስፈልጋል
+Project not found,ፕሮጀክት አልተገኘም
+Project not found or you do not have access,ፕሮጀክት አልተገኘም ወይም መዳረሻ የለዎትም
+Project settings,የፕሮጀክት ቅንብሮች
+Project start date has been saved.,የፕሮጀክት ጅምር ቀን ተቀምጧል።
+Project title has been saved.,የፕሮጀክት ርዕስ ተቀምጧል።
+Project Type,የፕሮጀክት ዓይነት
+Project updated,ፕሮጀክት ተዘምኗል
+Project {0} linked to client {1},ፕሮጀክት {0} ከደንበኛ {1} ጋር ተገናኝቷል
+Project {0} not found,ፕሮጀክት {0} አልተገኘም
+Project {0} to Frappe Projects,ፕሮጀክት {0} ወደ Frappe ፕሮጀክቶች
+Project:,ፕሮጀክት:
+Projects,ፕሮጀክቶች
+projects,ፕሮጀክቶች
+Projects created:,የተፈጠሩ ፕሮጀክቶች:
+Projects Overview,የፕሮጀክቶች አጠቃላይ ዕይታ
+Projects skipped:,የተዘለሉ ፕሮጀክቶች:
+Projects updated:,የተዘመኑ ፕሮጀክቶች:
+Promote failed,ማሳደግ አልተሳካም
+Promote to task,ወደ ተግባር አሳድግ
+Promoted to task,ወደ ተግባር ተሳድጓል
+Propose,አቅርብ
+Propose New Time,አዲስ ሰዓት አቅርብ
+Propose Time,ሰዓት አቅርብ
+Proposed End,የቀረበ ማብቂያ
+Proposed Start,የቀረበ ጅምር
+Public,ይፋ
+Quick Action,ፈጣን ድርጊት
+Quick Actions,ፈጣን ድርጊቶች
+Quick Stats,ፈጣን ስታቲስቲክስ
+Rates,ተመኖች
+Receive notifications via email,ማሳወቂያዎችን በኢሜይል ይቀበሉ
+Receive notifications within the application,በመተግበሪያ ውስጥ ማሳወቂያዎችን ይቀበሉ
+Recent Activity,ቅርብ ጊዜ እንቅስቃሴ
+Recipient {0} is not a valid user,ተቀባይ {0} ልክ ያልሆነ ተጠቃሚ ነው
+Reference,ማጣቀሻ
+Refresh,አድስ
+Related,ተዛማጅ
+Related Company (optional),ተዛማጅ ኩባንያ (ምርጫ)
+Related Documents,ተዛማጅ ሰነዶች
+Related Project,ተዛማጅ ፕሮጀክት
+Remaining,የቀረ
+Reminder,ማስታወሻ
+Reminder Lead Time,የማስታወሻ ቅድመ ሰዓት
+Reminder: {0} - {1} at {2},ማስታወሻ: {0} - {1} በ{2}
+Remove,አስወግድ
+Remove dependency,ጥገኝነት አስወግድ
+Remove dependency on,ጥገኝነት አስወግድ ከ
+Remove from group,ከቡድን አስወግድ
+Remove group dependency,የቡድን ጥገኝነት አስወግድ
+Remove skill,ክህሎት አስወግድ
+Reopen,እንደገና ክፈት
+Reopen thread,ክር እንደገና ክፈት
+reopened,እንደገና ተከፍቷል
+replies,ምላሾች
+Reply,መልስ
+reply,ምላሽ
+Replying to,ለ ምላሽ
+Replying to comment,ለአስተያየት ምላሽ
+Report Defect,ጉድለት ዘግብ
+Reported Date,የተዘገበ ቀን
+Reports,ሪፖርቶች
+Reports To,ሪፖርት ይደረጋል ለ
+Request Submitted!,ጥያቄ ቀርቧል!
+Required,ያስፈልጋል
+required,ያስፈልጋል
+Research,ጥናት
+Reset to Defaults,ወደ ነባሪ መልስ
+Resolve,ፍታ
+Resolve thread,ክር ፍታ
+Resolved,ተፈትቷል
+Resolved date cannot be before reported date,የመፍትሄ ቀን ከተዘገበ ቀን በፊት ሊሆን አይችልም
+Resource,ሀብት
+Resource and skill name are required,ሀብት እና የክህሎት ስም ያስፈልጋል
+Resource is already an attendee,ሀብት ቀድሞውንም ተሳታፊ ነው
+Resource name is required,የሀብት ስም ያስፈልጋል
+Resource not found,ሀብት አልተገኘም
+Resource synced from employee {0},ሀብት ከሰራተኛ {0} ተመሳስሏል
+Resource {0} is already assigned to this task ({1}),ሀብት {0} ቀድሞውንም ለዚህ ተግባር ({1}) ተመድቧል
+Resource {0} not found,ሀብት {0} አልተገኘም
+Resources,ሀብቶች
+Retry,እንደገና ሞክር
+Review,ግምገማ
+Review all relevant documents and contracts,ሁሉንም ተዛማጅ ሰነዶች እና ውሎችን ገምግም
+Reviews,ግምገማዎች
+Risk Assessment,የአደጋ ግምገማ
+Rollback,ወደ ኋላ መልስ
+Rolled back,ወደ ኋላ ተመልሷል
+Room or address,ክፍል ወይም አድራሻ
+RSVP,RSVP
+Safety,ደህንነት
+Sat,ቅዳሜ
+Save,አስቀምጥ
+"Save a project as a template, or import one from a JSON file.",ፕሮጀክትን እንደ አብነት አስቀምጥ ወይም ከJSON ፋይል አስመጣ።
+Save as Template,እንደ አብነት አስቀምጥ
+Save Changes,ለውጦችን አስቀምጥ
+Save failed,ማስቀመጥ አልተሳካም
+Save Preferences,ምርጫዎችን አስቀምጥ
+Save Template,አብነት አስቀምጥ
+Saving...,በማስቀመጥ ላይ...
+Schedule,የሰዓት ሰሌዳ
+Schedule type is required for scheduled triggers,ለታቀዱ ማስጀመሪያዎች የሰዓት ሰሌዳ ዓይነት ያስፈልጋል
+Scheduled,ታቅዷል
+Search,ፈልግ
+"Search by name, email, or skill...",በስም፣ ኢሜይል ወይም ክህሎት ፈልግ...
+Search for a project...,ፕሮጀክት ፈልግ...
+Search for a task...,ተግባር ፈልግ...
+Search for an event...,ክስተት ፈልግ...
+Search for people to invite...,ለመጋበዝ ሰዎችን ፈልግ...
+Search tasks to link...,ለማገናኘት ተግባራትን ፈልግ...
+Search tasks...,ተግባራትን ፈልግ...
+Search...,ፈልግ...
+Searching...,በመፈለግ ላይ...
+Seen,ታይቷል
+Select a project if your request is related to a specific project.,ጥያቄዎ ከተወሰነ ፕሮጀክት ጋር የተዛመደ ከሆነ ፕሮጀክት ይምረጡ።
+Select a project...,ፕሮጀክት ይምረጡ...
+Select a task from the Gantt chart to view and manage its details.,ዝርዝሮቹን ለማየት እና ለማስተዳደር ከጋንት ቻርት ተግባር ይምረጡ።
+Select a task from the list or Kanban board to view and manage its details.,ዝርዝሮቹን ለማየት እና ለማስተዳደር ከዝርዝር ወይም ካንባን ቦርድ ተግባር ይምረጡ።
+Select a template...,አብነት ይምረጡ...
+Select priority...,ቅድሚያ ይምረጡ...
+Select status...,ሁኔታ ይምረጡ...
+Select task...,ተግባር ይምረጡ...
+Select type...,ዓይነት ይምረጡ...
+Selection,ምርጫ
+Send,ላክ
+Send comment,አስተያየት ላክ
+Send email invitations to attendees,ለተሳታፊዎች የኢሜይል ግብዣዎችን ላክ
+Send Invitations,ግብዣዎችን ላክ
+Send notification when a task is assigned to a user,ተግባር ለተጠቃሚ ሲመደብ ማሳወቂያ ላክ
+Send notification when task status changes,የተግባር ሁኔታ ሲቀየር ማሳወቂያ ላክ
+Send reminder before task due date,ከተግባር መጨረሻ ቀን በፊት ማስታወሻ ላክ
+sent,ተልኳል
+Set rate,ተመን ያዘጋጁ
+Settings,ቅንብሮች
+Settings saved successfully,ቅንብሮች በተሳካ ሁኔታ ተቀምጠዋል
+Severity,ክብደት
+SF (Start-Finish),SF (ጅምር-ማጠናቀቂያ)
+SF - Start-to-Finish,SF - ጅምር ወደ ማጠናቀቂያ
+Show,አሳይ
+Show all,ሁሉንም አሳይ
+Show all changes,ሁሉንም ለውጦች አሳይ
+Show Archived,የተመዘገቡትን አሳይ
+Show full diff,ሙሉ ልዩነት አሳይ
+Show less,ያነሰ አሳይ
+Show more,ተጨማሪ አሳይ
+Skill added,ክህሎት ተጨምሯል
+Skill is required,ክህሎት ያስፈልጋል
+Skill Name,የክህሎት ስም
+Skill removed,ክህሎት ተወግዷል
+Skill {0} already exists for this resource,ክህሎት {0} ለዚህ ሀብት ቀድሞውንም አለ
+Skills,ክህሎቶች
+Skills & Competencies,ክህሎቶች እና ብቃቶች
+Skip already migrated projects,ቀድሞ የተዛወሩ ፕሮጀክቶችን ዘለል
+Sort by,አስተካክል በ
+Sort: Due Date,ቅደም ተከተል: የመጨረሻ ቀን
+Sort: Priority,ቅደም ተከተል: ቅድሚያ
+Sort: Project,ቅደም ተከተል: ፕሮጀክት
+Sort: Status,ቅደም ተከተል: ሁኔታ
+Sort: Task,ቅደም ተከተል: ተግባር
+Source Code,ምንጭ ኮድ
+Spent,የተወጣ
+Spent:,ወጪ:
+SS (Start-Start),SS (ጅምር-ጅምር)
+SS - Start-to-Start,SS - ጅምር ወደ ጅምር
+Standalone,ራሱን የቻለ
+Start,ጅምር
+Start a discussion below,ከዚህ በታች ውይይት ጀምር
+Start Date,የጅምር ቀን
+Start date,የጅምር ቀን
+Start Date (Earliest),የጅምር ቀን (ቀደምት)
+Start date updated,የጅምር ቀን ተዘምኗል
+Start date/time is required,የጅምር ቀን/ሰዓት ያስፈልጋል
+Start Migration,ዝውውር ጀምር
+Start the conversation below.,ከዚህ በታች ውይይትን ጀምር።
+Start Timer,ሰዓት ቆጣሪ ጀምር
+Start typing to search...,ለመፈለግ መተየብ ጀምር...
+Start-to-Finish,ጅምር ወደ ማጠናቀቂያ
+Start-to-Start,ጅምር ወደ ጅምር
+Start:,ጅምር:
+Statistics reset,ስታቲስቲክስ ዳግም ተቀናብሯል
+Status,ሁኔታ
+Status assigned to new projects,ለአዲስ ፕሮጀክቶች የተመደበ ሁኔታ
+Status assigned to new tasks,ለአዲስ ተግባራት የተመደበ ሁኔታ
+Status Changes,የሁኔታ ለውጦች
+Status updated,ሁኔታ ተዘምኗል
+Status:,ሁኔታ:
+Stop,አቁም
+Stop & Save,አቁም እና አስቀምጥ
+Stop Timer,ሰዓት ቆጣሪ አቁም
+Stops current timer and starts for this event,የአሁኑን ሰዓት ቆጣሪ አቁም እና ለዚህ ክስተት ጀምር
+Stops current timer and starts for this task,የአሁኑን ሰዓት ቆጣሪ አቁም እና ለዚህ ተግባር ጀምር
+Subject,ርዕሰ ጉዳይ
+Subject cannot exceed 255 characters,ርዕሰ ጉዳይ ከ255 ቁምፊዎች መብለጥ አይችልም
+Subject is required,ርዕሰ ጉዳይ ያስፈልጋል
+Submit,አቅርብ
+Submit Another Request,ሌላ ጥያቄ አቅርብ
+Submit Request,ጥያቄ አቅርብ
+Submitting...,በማቅረብ ላይ...
+Successfully saved,በተሳካ ሁኔታ ተቀምጧል
+Successors (Blocking),ተከታዮች (ማገድ)
+Sun,እሑድ
+Supplier,አቅራቢ
+Support,ድጋፍ
+Switch to this event,ወደ ይህ ክስተት ቀይር
+Switch to this task,ወደ ይህ ተግባር ቀይር
+Sync direction is set to Frappe to Orga only,የማመሳሰል አቅጣጫ ከFrappe ወደ Orga ብቻ ተቀናብሯል
+Sync direction is set to Orga to Frappe only,የማመሳሰል አቅጣጫ ከOrga ወደ Frappe ብቻ ተቀናብሯል
+Sync not enabled for this project,ለዚህ ፕሮጀክት ማመሳሰል አልተነቃም
+System,ስርዓት
+Table,ሠንጠረዥ
+Take ownership of this task,የዚህን ተግባር ባለቤትነት ያዝ
+Target Date,የዒላማ ቀን
+Target End,የዒላማ ማብቂያ
+Target Project,የዒላማ ፕሮጀክት
+Target user is required for '{0}' action,ለ'{0}' ድርጊት የዒላማ ተጠቃሚ ያስፈልጋል
+Task,ተግባር
+task,ተግባር
+Task '{0}' is due on {1}.,ተግባር '{0}' የመጨረሻ ቀን {1} ነው።
+Task and resource are required,ተግባር እና ሀብት ያስፈልጋል
+Task Assignment,የተግባር ምደባ
+Task cannot be its own parent,ተግባር የራሱ ወላጅ ሊሆን አይችልም
+Task cannot depend on itself,ተግባር በራሱ ሊመካ አይችልም
+Task cannot depend on the group it belongs to,ተግባር የሚገኝበት ቡድን ላይ ሊመካ አይችልም
+Task created,ተግባር ተፈጥሯል
+Task deleted,ተግባር ተሰርዟል
+Task description has been saved.,የተግባር መግለጫ ተቀምጧል።
+Task Details,የተግባር ዝርዝሮች
+Task due in {0} days: {1},ተግባር በ{0} ቀናት ውስጥ ይጠናቀቃል: {1}
+Task due today: {0},ዛሬ ያበቃል ተግባር: {0}
+Task due tomorrow: {0},ነገ ያበቃል ተግባር: {0}
+Task duplicated,ተግባር ተባዝቷል
+Task Group,የተግባር ቡድን
+Task ID is required,የተግባር መታወቂያ ያስፈልጋል
+Task is blocked by incomplete dependencies,ተግባር ባልተጠናቀቁ ጥገኝነቶች ታግዷል
+Task is cancelled,ተግባር ተሰርዟል
+Task is completed,ተግባር ተጠናቅቋል
+Task is no longer blocked by a group,ተግባር ከአሁን በኋላ በቡድን አልታገደም
+Task is required for task context,ለተግባር አውድ ተግባር ያስፈልጋል
+Task is required when tracking context is 'task',የክትትል አውድ 'task' ሲሆን ተግባር ያስፈልጋል
+Task linked,ተግባር ተገናኝቷል
+Task moved,ተግባር ተንቀሳቅሷል
+Task name,የተግባር ስም
+Task name is required,የተግባር ስም ያስፈልጋል
+Task removed from group,ተግባር ከቡድን ተወግዷል
+Task Subject,የተግባር ርዕሰ ጉዳይ
+Task subject is required,የተግባር ርዕሰ ጉዳይ ያስፈልጋል
+Task Type,የተግባር ዓይነት
+Task unblocked: {0},ተግባር ያልታገደ: {0}
+Task unlinked,ተግባር ተለያይቷል
+Task updated,ተግባር ተዘምኗል
+Task {0} not found,ተግባር {0} አልተገኘም
+Task {0} not in project {1},ተግባር {0} በፕሮጀክት {1} ውስጥ የለም
+Task {0} to Frappe,ተግባር {0} ወደ Frappe
+Tasks,ተግባራት
+tasks,ተግባራት
+Tasks and milestones will be created with dates relative to the project start date.,ተግባራት እና ምዕራፎች ከፕሮጀክት ጅምር ቀን ጋር ተዛማጅ ቀናት ይፈጠራሉ።
+Tasks assigned to you across all projects.,በሁሉም ፕሮጀክቶች ውስጥ ለእርስዎ የተመደቡ ተግባራት።
+Tasks created:,የተፈጠሩ ተግባራት:
+Tasks from projects you manage.,ከሚያስተዳድሩት ፕሮጀክቶች ተግባራት።
+Tasks updated:,የተዘመኑ ተግባራት:
+"Tasks, milestones, and dependencies have been created.",ተግባራት፣ ምዕራፎች እና ጥገኝነቶች ተፈጥረዋል።
+Tasks:,ተግባራት:
+TBD,ሊወሰን ያልሆነ
+Team,ቡድን
+Team Members,የቡድን አባላት
+Template,አብነት
+Template applied,አብነት ተተግብሯል
+Template data is required in import data,በማስመጣት ውሂብ ውስጥ የአብነት ውሂብ ያስፈልጋል
+Template has no data,አብነት ውሂብ የለውም
+Template Name,የአብነት ስም
+Template name,የአብነት ስም
+Template name is required,የአብነት ስም ያስፈልጋል
+Template name is required in import data,በማስመጣት ውሂብ ውስጥ የአብነት ስም ያስፈልጋል
+Template saved,አብነት ተቀምጧል
+Template updated successfully.,አብነት በተሳካ ሁኔታ ተዘምኗል።
+Template {0} not found,አብነት {0} አልተገኘም
+Templates,አብነቶች
+Tentative,ጊዜያዊ
+The comment has been deleted,አስተያየቱ ተሰርዟል
+The project,ፕሮጀክቱ
+The source document may have been deleted.,ምንጭ ሰነዱ ተሰርዞ ሊሆን ይችላል።
+The source document will not be affected.,ምንጭ ሰነዱ ላይ ተጽዕኖ አይኖረውም።
+The status of '{0}' was changed from {1} to {2}.,የ'{0}' ሁኔታ ከ{1} ወደ {2} ተቀይሯል።
+Theme,ገጽታ
+Theme preference,የገጽታ ምርጫ
+This action,ይህ ድርጊት
+This action cannot be undone.,ይህ ድርጊት መልሶ ማግኘት አይቻልም።
+This activity has been flagged for attention,ይህ እንቅስቃሴ ለትኩረት ምልክት ተደርጓል
+This is a reminder for your upcoming appointment,ይህ ለቀጣዩ ቀጠሮዎ ማስታወሻ ነው
+This method is only meant for developer mode,ይህ ዘዴ ለገንቢ ሁነታ ብቻ ነው
+This page wandered off,This page wandered off
+This Week,ይህ ሳምንት
+This will delete all notes and preferences associated with this activity.,ይህ ከዚህ እንቅስቃሴ ጋር የተዛመዱ ሁሉንም ማስታወሻዎች እና ምርጫዎች ይሰርዛል።
+This will import all Frappe Projects into Orga. Continue?,ይህ ሁሉንም Frappe ፕሮጀክቶች ወደ Orga ያስመጣል። ይቀጥል?
+This will permanently delete,ይህ ቋሚ ይሰርዛል
+This will permanently delete:,ይህ ቋሚ ይሰርዛል:
+Thu,ሐሙስ
+Time,ሰዓት
+Time & Billing,ሰዓት እና ክፍያ
+Time & Revenue,ሰዓት እና ገቢ
+Time Entries,የሰዓት ግቤቶች
+Time log name is required,የሰዓት መዝገብ ስም ያስፈልጋል
+Time Log not found,የሰዓት መዝገብ አልተገኘም
+Time log {0} not found,የሰዓት መዝገብ {0} አልተገኘም
+Time Logs,የሰዓት መዝገቦች
+Time Summary,የሰዓት ማጠቃለያ
+Time Tracking,የሰዓት ክትትል
+Timeline,የጊዜ መስመር
+Timer active on,ሰዓት ቆጣሪ ንቁ ነው
+Timer is not running,ሰዓት ቆጣሪ እየሰራ አይደለም
+Timer Running,ሰዓት ቆጣሪ እየሰራ ነው
+Timer running,ሰዓት ቆጣሪ እየሰራ ነው
+Timesheet DocType not available,Timesheet DocType አይገኝም
+Timesheets,የሰዓት ወረቀቶች
+Timezone,የሰዓት ዞን
+Timezone is detected from your browser,የሰዓት ዞን ከአሳሽዎ ተገኝቷል
+Title,ርዕስ
+Title cannot exceed 255 characters,ርዕስ ከ255 ቁምፊዎች መብለጥ አይችልም
+Title is required,ርዕስ ያስፈልጋል
+Title updated,ርዕስ ተዘምኗል
+To,ወደ
+to,ወደ
+to cancel,ለመሰረዝ
+to close,ለመዝጋት
+to confirm:,ለማረጋገጥ:
+to edit,ለማስተካከል
+"to save,",ለማስቀመጥ፣
+To Time cannot be before From Time,ማብቂያ ሰዓት ከጅምር ሰዓት በፊት ሊሆን አይችልም
+Today,ዛሬ
+today,ዛሬ
+Toggle billable,ሊከፈል የሚችል ቀያይር
+Toggle Details Panel,ዝርዝሮች ፓነል ቀያይር
+Toggle Manager Panel,አስተዳዳሪ ፓነል ቀያይር
+Toggle Sidebar,ጎን አሞሌ ቀያይር
+Tomorrow,ነገ
+tomorrow,ነገ
+Total,ጠቅላላ
+Total Budget,ጠቅላላ በጀት
+Total Contacts,ጠቅላላ እውቂያዎች
+Total Cost,ጠቅላላ ወጪ
+Total Cost to Org,ለድርጅቱ ጠቅላላ ወጪ
+Total Defect Cost,ጠቅላላ የጉድለት ወጪ
+Total Hours,ጠቅላላ ሰዓታት
+Total Hours Logged,ጠቅላላ የተመዘገቡ ሰዓታት
+Total Projects,ጠቅላላ ፕሮጀክቶች
+Total Spent,ጠቅላላ ወጪ
+Total Tasks,ጠቅላላ ተግባራት
+Total:,ጠቅላላ:
+Tracked,ተከታትሏል
+trails to today while Open at 0%,0% ላይ ክፍት ሆኖ ዛሬ ድረስ ይከታተላል
+Tried:,Tried:
+Try adjusting your filter criteria,የማጣሪያ መስፈርቶችዎን ማስተካከል ይሞክሩ
+Try adjusting your filters.,ማጣሪያዎችዎን ማስተካከል ይሞክሩ።
+Try Again,እንደገና ሞክር
+Tue,ማክሰኞ
+Type,ዓይነት
+Type updated,ዓይነት ተዘምኗል
+Type:,ዓይነት:
+Typical response time: 1-2 business days,ተለምዶ የምላሽ ሰዓት: 1-2 የስራ ቀናት
+Unarchive,ከመዝገብ አውጣ
+Unarchive Activity,የእንቅስቃሴ ማዝገብ ሰርዝ
+Unassign,ምደባ ሰርዝ
+Unassigned,ያልተመደበ
+Under Budget,ከበጀት በታች
+Ungrouped,ያልተቧደነ
+Unknown,ያልታወቀ
+Unknown error,ያልታወቀ ስህተት
+Unlink failed,ማለያየት አልተሳካም
+Unlink task from milestone,ተግባርን ከምዕራፍ ለይ
+Unpin,ሰካ ላክ
+Unpin Activity,ያልተሰካ እንቅስቃሴ
+Unread,ያልተነበበ
+Unread only,ያልተነበቡ ብቻ
+Until,እስከ
+Up to Date,Up to Date
+Upcoming,ቀጣይ
+upcoming,ቀጣይ
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,ማዘመን አልተሳካም
+Updated,ተዘምኗል
+Updated successfully,በተሳካ ሁኔታ ተዘምኗል
+Updates,Updates
+Upload,ስቀል
+Upload failed,መስቀል አልተሳካም
+Upload files below to attach them to this task.,ከዚህ በታች ፋይሎችን ስቀል ለዚህ ተግባር ለማያያዝ።
+Upload to project,ወደ ፕሮጀክት ስቀል
+Uploading...,በመስቀል ላይ...
+Urgent,አስቸኳይ
+User {0} is already linked to client {1},ተጠቃሚ {0} ቀድሞውንም ከደንበኛ {1} ጋር ተገናኝቷል
+User {0} is already linked to resource {1},ተጠቃሚ {0} ቀድሞውንም ከሀብት {1} ጋር ተገናኝቷል
+Utilization,አጠቃቀም
+Valid,ልክ
+Value:,ዋጋ:
+Variance,ልዩነት
+Variance:,ልዩነት:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,ዕይታ
+View All,ሁሉንም ይመልከቱ
+View all active projects,ሁሉንም ንቁ ፕሮጀክቶች ይመልከቱ
+View all open tasks,ሁሉንም ክፍት ተግባራት ይመልከቱ
+View overdue tasks,ያለፉ ተግባራትን ይመልከቱ
+View Release,View Release
+Visibility,ታይነት
+Waiting for this task,ይህን ተግባር በመጠበቅ ላይ
+Waits for:,ይጠብቃል:
+Warning: Resource {0} status is {1},ማስጠንቀቂያ: ሀብት {0} ሁኔታ {1} ነው
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,ማስጠንቀቂያ: ከHTTPS ፋንታ HTTP እየተጠቀሙ ነው። Webhook ጭነቶች ደህንነታቸው የተጠበቀ ላይሆን ይችላል።
+Watch budget closely,በጀትን በቅርበት ተከታተል
+We'll respond to:,እንመልሳለን ለ:
+Webhook deleted,Webhook ተሰርዟል
+Webhook name is required,የWebhook ስም ያስፈልጋል
+Webhook not found,Webhook አልተገኘም
+Webhook URL is required,Webhook URL ያስፈልጋል
+Webhook URL must start with http:// or https://,Webhook URL በhttp:// ወይም https:// መጀመር አለበት
+Wed,ረቡዕ
+Week,ሳምንት
+Weekend,ቅዳሜ እና እሑድ
+Weekly Capacity,ሳምንታዊ አቅም
+weekly capacity,ሳምንታዊ አቅም
+Weekly Capacity (h),ሳምንታዊ አቅም (ሰ)
+Welcome,እንኳን ደህና መጡ
+Welcome back!,እንኳን ደህና ተመለሱ!
+Welcome to Orga,ወደ Orga እንኳን ደህና መጡ
+What are you working on?,ምን እየሰሩ ነው?
+What did you work on?,ምን ሰሩ?
+When,መቼ
+When work begins,ስራ ሲጀመር
+When work is due,ስራ ሲያበቃ
+Where,የት
+Will capture:,ይይዛል:
+Will create:,ይፈጥራል:
+with checklist items,ከማረጋገጫ ዝርዝር ንጥሎች ጋር
+Working,እየሰራ ነው
+Workload,የስራ ጫና
+Workmanship,የእጅ ሙያ
+Write a comment...,አስተያየት ፃፍ...
+Write a comment... Use @name to mention (Ctrl+Enter to send),አስተያየት ፃፍ... ለማጣቀስ @name ተጠቀም (ለመላክ Ctrl+Enter)
+Year,ዓመት
+Yes,አዎ
+Yesterday,ትናንት
+yesterday,ትናንት
+You are not an attendee of this appointment,እርስዎ የዚህ ቀጠሮ ተሳታፊ አይደሉም
+You are not linked to any resource,ከየትኛውም ሀብት ጋር አልተገናኙም
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,የራስዎን አስተያየቶች ብቻ መሰረዝ ይችላሉ
+You can only delete your own reactions,የራስዎን ምላሾች ብቻ መሰረዝ ይችላሉ
+You do not have access to the client portal. Please contact support.,የደንበኛ ፖርታል መዳረሻ የለዎትም። እባክዎ ድጋፍ ያግኙ።
+You have already reacted with '{0}',ቀድሞውንም በ'{0}' ምላሽ ሰጥተዋል
+You have been assigned to task '{0}' in project '{1}'.,በፕሮጀክት '{1}' ውስጥ ለተግባር '{0}' ተመድበዋል።
+You have been assigned to: {0},ለ{0} ተመድበዋል
+You have been invited to the following appointment,ለሚከተለው ቀጠሮ ተጋብዘዋል
+You have no tasks assigned to you right now.,በአሁኑ ጊዜ ለእርስዎ የተመደቡ ተግባራት የሉም።
+You were mentioned in {0},በ{0} ውስጥ ተጠቅሰዋል
+Your attendance,ተገኝነትዎ
+Your comment has been posted,አስተያየትዎ ተለጥፏል
+Your Projects,ፕሮጀክቶችዎ
+Your projects will appear here once they're assigned to you.,ፕሮጀክቶችዎ ለእርስዎ ሲመደቡ እዚህ ይታያሉ።
+Your Response,ምላሽዎ
+Your RSVP,RSVP ዎ
+Your support request has been submitted successfully.,የድጋፍ ጥያቄዎ በተሳካ ሁኔታ ቀርቧል።
+Your support request has been submitted successfully. We'll get back to you shortly.,የድጋፍ ጥያቄዎ በተሳካ ሁኔታ ቀርቧል። በአጭር ጊዜ ውስጥ እንመልሳለን።
+"Your task ""{0}"" is no longer blocked and can now be started.","ተግባርዎ ""{0}"" ከአሁን በኋላ አልታገደም እና አሁን ሊጀመር ይችላል።"
+{0} is required,{0} ያስፈልጋል
+{0} new activities,{0} አዲስ እንቅስቃሴዎች
+{0} of {1} completed,ከ{1} ውስጥ {0} ተጠናቅቋል
+{0} projects already migrated (will be skipped or updated),{0} ፕሮጀክቶች ቀድሞ ተዛውረዋል (ይዘለላሉ ወይም ይዘመናሉ)
+{0} status changed to {1},{0} ሁኔታ ወደ {1} ተቀይሯል
+{0} tasks remaining,{0} ተግባራት ቀርተዋል
+{0} tasks without projects will be skipped,ያለ ፕሮጀክቶች {0} ተግባራት ይዘለላሉ
+{0} {1} not found,{0} {1} አልተገኘም

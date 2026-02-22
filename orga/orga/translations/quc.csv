@@ -1,0 +1,1492 @@
++ Add Milestone,+ Tzijonik jun k'ak' rajilal
++ Create Task,+ B'anik jun k'ak' samaj
++ Log Time,+ Tz'ib'anik ri ramaj
+-- Select a project --,-- Chaqa' jun nuk'samaj --
+0m,0ch
+1 day,1 q'ij
+1 day ago,1 q'ij kan
+1 dependency,1 tob'al
+1 entry,1 tz'ib'anik
+1 file,1 yakb'al
+1 hour ago,1 ramaj kan
+1 member,1 rajpopil
+1 milestone,1 rajilal
+1 month,1 ik'
+1 task,1 samaj
+< 1m,< 1ch
+"A clear, actionable title for the task","Jun jikil, etamatal b'i'aj re ri samaj"
+A client with email {0} already exists: {1},Jun aqanel ruk' ri taqotzij {0} k'o chik: {1}
+A key deliverable or checkpoint for the project,Jun nimalaj ya'tal o ruchojmil ri nuk'samaj
+Accept,Uk'ulaj
+Accepted,K'ulun
+Acknowledge,Retamaj
+across,pa
+Action,B'anoj
+Actions,Taq b'anoj
+Active,K'aslik
+Active Assignments,Taq k'aslik ya'oj samaj
+Active Projects,Taq k'aslik nuk'samaj
+Activity,B'anob'al
+Activity data deleted successfully,Ri taq tzij re b'anob'al xsachik rumal utz
+Activity Info,Retamab'al ri b'anob'al
+Activity Stats,Rajilabal ri b'anob'al
+Activity will appear here as you work on tasks and projects.,Ri b'anob'al xk'ut waral toq kasamajik pa taq samaj xuquje' taq nuk'samaj.
+Actual,Qitzij
+Actual Cost,Qitzij rajil
+Actual cost cannot be negative,Ri qitzij rajil man tikirel ta jun itzel ajilab'al
+Actual end date cannot be before actual start date,Ri qitzij q'ij rik'isik man tikirel ta nab'e chuwach ri qitzij q'ij rutikirib'al
+Actual Hours,Qitzij taq ramaj
+Add,Tzijonik
+Add a checklist item...,Tzijonik jun ruch'ob'al...
+Add a comment...,Tzijonik jun tzij...
+Add a comment... (Ctrl+Enter to send),Tzijonik jun tzij... (Ctrl+Enter richin nataq)
+Add a description...,Tzijonik jun uchuq'ab'ixik...
+Add a milestone description...,Tzijonik jun uchuq'ab'ixik re ri rajilal...
+Add a note below to annotate this activity.,Tzijonik jun tz'ib' ikim re richin tz'ib'axik re ri b'anob'al.
+Add a note...,Tzijonik jun tz'ib'...
+Add a project description...,Tzijonik jun uchuq'ab'ixik re ri nuk'samaj...
+Add a task description...,Tzijonik jun uchuq'ab'ixik re ri samaj...
+Add checklist item...,Tzijonik jun ruch'ob'al...
+Add Contact,Tzijonik jun winaq
+Add contacts via the Desk interface or clear filters,Tzijonik taq winaq pa ri Desk o sachaj ri taq chayub'al
+Add Dependency,Tzijonik jun tob'al
+Add details about this event...,Tzijonik taq retal re ri nimaq'ij...
+Add details about this milestone...,Tzijonik taq retal re ri rajilal...
+Add details about this task...,Tzijonik taq retal re ri samaj...
+Add details or acceptance criteria for this milestone,Tzijonik taq retal o ruk'u'x uk'ulaxik re ri rajilal
+"Add details, context, or acceptance criteria","Tzijonik taq retal, ucholaj o ruk'u'x uk'ulaxik"
+Add first dependency,Tzijonik ri nab'e tob'al
+Add item,Tzijonik jun jastaq
+Add items below to track progress.,Tzijonik taq jastaq ikim re richin reta'maxik ri b'enam.
+Add items below to track subtasks,Tzijonik taq jastaq ikim re richin reta'maxik ri ch'uti taq samaj
+Add Milestone,Tzijonik jun rajilal
+Add Milestone (Shift+M),Tzijonik jun rajilal (Shift+M)
+Add milestones to track key deliverables.,Tzijonik taq rajilal richin reta'maxik ri nimalaj taq ya'tal.
+Add New Contact,Tzijonik jun k'ak' winaq
+Add Note,Tzijonik jun tz'ib'
+Add note,Tzijonik jun tz'ib'
+Add notes about this contact...,Tzijonik taq tz'ib' chirij ri winaq...
+Add reaction,Tzijonik jun na'oj
+Add Skill,Tzijonik jun etamab'al
+Add start and due dates to tasks to see them on the Gantt chart,Tzijonik taq q'ij rutikirib'al xuquje' ruk'isib'al pa taq samaj richin kil pa ri Gantt
+Add Task,Tzijonik jun samaj
+Add Task (Shift+T),Tzijonik jun samaj (Shift+T)
+Added Finish-to-Start dependency,Xtzijonik Rik'isik-pa-Rutikirib'al tob'al
+Adding this dependency would create a circular reference: {0},Ri tzijonik re ri tob'al xub'an jun sutin tzij: {0}
+Adding...,Katzijonik...
+Address,Rochoch
+Advanced,Q'axinaq
+All,Ronojel
+All Active,Ronojel k'aslik
+All Assignees,Ronojel ya'on kichi'
+All Categories,Ronojel ruwach
+All caught up!,Ronojel tz'aqat chik!
+All Contexts,Ronojel ucholaj
+All day,Ronojel q'ij
+All day event,Nimaq'ij ronojel q'ij
+All fields,Ronojel k'ojlib'al
+All Priorities,Ronojel nab'eal
+All Projects,Ronojel nuk'samaj
+All Status,Ronojel rub'anikil
+All Statuses,Ronojel taq rub'anikil
+All task dependencies & relative dates,Ronojel taq tob'al re samaj xuquje' taq q'ij k'utunik
+All Tasks,Ronojel samaj
+All tasks across all projects.,Ronojel taq samaj pa ronojel nuk'samaj.
+All tasks are already linked,Ronojel taq samaj e ximon chik
+All team members,Ronojel rajpopil ri molaj
+All Types,Ronojel ruwach
+All Users,Ronojel okisanel
+Allocated,Ya'on
+allocated,ya'on
+Allow users to log time against tasks,Kuya' q'ij chi ke ri okisanel richin ketz'ib'an ri ramaj pa taq samaj
+Already exported to timesheet {0},Q'axon chik pa ri ruwujil ramaj {0}
+Already Migrated,Q'axon chik
+Anyone with access,Xapowi' achi'el k'o rokem
+anytime to show this help,xapachike ramaj richin rik'utik re ri tob'anik
+App Updates,App Updates
+Appearance,Ruwachulew
+Apply,Chapoj
+Apply cascade?,Chapoj ri q'axanik?
+Apply Changes,Chapoj ri taq jaloj
+Apply failed,Man xutzir ta ri chapoj
+Apply Template,Chapoj jun ruwachib'al
+Applying...,Kachapoj...
+Appointment,Tz'onoj
+Appointment and resource are required,Ri tz'onoj xuquje' ri tob'anel e rajawaxik
+Appointment name is required,Ri ub'i' ri tz'onoj rajawaxik
+Appointment not found,Man xriqitaj ta ri tz'onoj
+Appointment {0} not found,Man xriqitaj ta ri tz'onoj {0}
+Apps,Taq samajib'al
+Archive,Yakb'al
+Archive Activity,Yakb'al ri b'anob'al
+Archived,Ya'on pa yakb'al
+Are you sure you want to delete this activity data? This cannot be undone.,La at jikil kawaj kasach re ri taq tzij re b'anob'al? Man tikirel ta utzuquxik.
+Are you sure you want to delete this comment?,La at jikil kawaj kasach re ri tzij?
+Are you sure you want to delete this project?,La at jikil kawaj kasach re ri nuk'samaj?
+Are you sure?,La at jikil?
+Ascending -- click to reverse,Ajilak -- chapoj richin ujalanik
+Assign To,Ya'oj chi re
+Assign to Me,Kiya' chi we
+Assigned Contact,Ya'on winaq
+Assigned To,Ya'on chi re
+Assigned to,Ya'on chi re
+Assigned to Me,Ya'on chi we
+Assignee,Ya'on chi re
+Assignment,Ya'oj samaj
+Assignment History,Ojer taq ya'oj samaj
+Assignment name is required,Ri ub'i' ri ya'oj samaj rajawaxik
+Assignment {0} not found,Man xriqitaj ta ri ya'oj samaj {0}
+Assignments,Taq ya'oj samaj
+At least one action is required,Rajawaxik man jun ta b'anoj
+At least one event is required,Rajawaxik man jun ta nimaq'ij
+At least one event must be selected,Rajawaxik kachaq' man jun ta nimaq'ij
+Attachment,Ximtal
+Attachments,Taq ximtal
+Attendees,E okinaq
+"Audit trail, assignments, version history","Rub'eyal uchajixik, taq ya'oj samaj, ojer taq jaloj"
+Auto,Utukel
+Auto Calculate Progress,Utukel rajilab'exik ri b'enam
+Auto Set Missed Milestones,Utukel ub'ixik ri sachon taq rajilal
+Auto-shift dependents when dates change,Utukel usilob'ixik taq tob'an toq kejal ri taq q'ij
+Auto-Trail Start,Utukel uq'axik rutikirib'al
+Auto-Trail updated,Utukel uq'axik k'exon chik
+Automatically calculate project progress from task completion,Utukel rajilab'exik ri ub'enam ri nuk'samaj pa ri utz'aqatisaxik ri samaj
+Automatically mark milestones as missed when overdue,Utukel ub'ixik ri taq rajilal achi'el sachon toq e b'enaq chik
+Automation rule {0} not found,Man xriqitaj ta ri utukel b'anoj {0}
+Automation: {0},Utukel b'anoj: {0}
+Availability,K'olib'al
+Available,K'o
+Avatar updated successfully,Ri wachib'al k'exon chik rumal utz
+Avg Progress,Nik'aj b'enam
+Back,Tzulik
+Back to Portal,Tzulik pa ri okib'al
+Back to Projects,Tzulik pa taq nuk'samaj
+Beginner,K'ak'
+Best regards,Utz taq tzij
+Billable,Tojb'al
+Billable Amount,Rajil tojb'al
+Billable Hours,Taq ramaj tojb'al
+Billable Rate,Rajil tojb'al
+Billing Rate,Rajil tojik
+Blocked,K'aton
+Both dates are needed to display task as a bar in Gantt chart,Ri ka'ib' taq q'ij e rajawaxik richin rik'utik ri samaj pa ri Gantt
+Both doctype and docname are required,Ri doctype xuquje' ri docname e rajawaxik
+Both proposed start and end times are required,Ri taq ramaj rutikirib'al xuquje' rik'isik ya'on kanoq e rajawaxik
+Both task_name and depends_on are required,Ri task_name xuquje' ri depends_on e rajawaxik
+Breadcrumb,Rub'eyal
+Brief description of the defect or damage,Jun ko'l uchuq'ab'ixik ri itzelal o ri sach
+Brief description of this template,Jun ko'l uchuq'ab'ixik re ri ruwachib'al
+Brief description of your request,Jun ko'l uchuq'ab'ixik re ri atz'onoj
+Brief project description,Jun ko'l uchuq'ab'ixik re ri nuk'samaj
+Budget,Rajil pwaq
+Budget at risk,Ri pwaq pa k'ax
+Budget Burn Rate,Ruchojmil rokisaxik ri pwaq
+Budget Status,Rub'anikil ri pwaq
+Budget updated,Ri pwaq k'exon chik
+Budget:,Pwaq:
+Bug,Itzelal
+Burn Rate,Ruchojmil rokisaxik
+Busy,Nim samaj
+By,Rumal
+By Assignee,Rumal ya'on chi re
+By Group,Rumal molaj
+By Milestone,Rumal rajilal
+By Priority,Rumal nab'eal
+By Status,Rumal rub'anikil
+Cancel,Q'atoj
+Cancelled,Q'aton
+cannot be undone,man tikirel ta utzuquxik
+Cannot delete client with {0} linked projects. Unlink projects first.,Man tikirel ta usachik ri aqanel ruk' {0} ximon taq nuk'samaj. Nab'e kaq'at ri taq ximoj.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Man tikirel ta usachik ri nuk'samaj ruk' {0} ximon taq samaj. Nab'e kasach ri taq samaj.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Man tikirel ta usachik ri tob'anel ruk' {0} k'aslik taq ya'oj samaj. Nab'e katz'aqatisaj o kaq'atoj.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Man tikirel ta usachik ri samaj ruk' {0} ch'uti taq samaj. Nab'e kasach ri ch'uti taq samaj.
+Capacity,Uchuq'ab'
+capacity,uchuq'ab'
+Capacity & Rates,Uchuq'ab' xuquje' taq rajil
+Capture project structure for reuse,Chapoj ri ruch'ob'al ri nuk'samaj richin rokisaxik chik
+Cascade,Q'axanik
+Cascade Preview,Ruwach ri q'axanik
+Category,Ruwach
+Celebrate,Kikotemaj
+Change,Jaloj
+Change History,Ojer taq jaloj
+Change Priority,Jaloj ri nab'eal
+Change Status,Jaloj ri rub'anikil
+Changes,Taq jaloj
+Changes appear when fields are modified.,Ri taq jaloj kek'ut toq kejal ri taq k'ojlib'al.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Ruch'ob'al
+Checklist item name is required,Ri ub'i' ri jastaq re ri ruch'ob'al rajawaxik
+Checklist item not found,Man xriqitaj ta ri jastaq re ri ruch'ob'al
+Checklist item title is required,Ri ub'i'aj ri jastaq re ri ruch'ob'al rajawaxik
+Checklist item {0} not found,Man xriqitaj ta ri jastaq re ri ruch'ob'al {0}
+Checklist item {0} not found in task,Man xriqitaj ta ri jastaq re ri ruch'ob'al {0} pa ri samaj
+Child,Ral
+Choose file to upload,Chaqa' jun yakb'al richin uteqib'axik
+Circular dependency detected: {0},Xriqitaj jun sutin tob'al: {0}
+Circular parent-child relationship detected,Xriqitaj jun sutin tata'-al k'utunisaxik
+Clear,Sachaj
+Clear all read,Sachaj ronojel sik'in
+Clear date,Sachaj ri q'ij
+Click on an activity from the list to view and manage its details.,Chapoj jun b'anob'al pa ri cholaj richin rilaxik xuquje' uchajixik.
+Click the avatar to upload a new photo,Chapoj ri wachib'al richin uteqib'axik jun k'ak' wachib'al
+Click to add description...,Chapoj richin utzijonik jun uchuq'ab'ixik...
+Click to add notes...,Chapoj richin utzijonik taq tz'ib'...
+Click to assign contact,Chapoj richin uya'ik chi re jun winaq
+Click to change status,Chapoj richin ujalik ri rub'anikil
+Click to change type,Chapoj richin ujalik ri ruwach
+Click to edit,Chapoj richin utz'ib'axik
+Click to edit budget,Chapoj richin utz'ib'axik ri pwaq
+Click to edit description,Chapoj richin utz'ib'axik ri uchuq'ab'ixik
+Click to edit end date,Chapoj richin utz'ib'axik ri q'ij rik'isik
+Click to edit milestone name,Chapoj richin utz'ib'axik ri ub'i' ri rajilal
+Click to edit rate,Chapoj richin utz'ib'axik ri rajil
+Click to edit start date,Chapoj richin utz'ib'axik ri q'ij rutikirib'al
+Click to edit title,Chapoj richin utz'ib'axik ri ub'i'aj
+Click to load,Chapoj richin uyakik
+Click to set group dependency...,Chapoj richin uya'ik ri tob'al re molaj...
+Click to set group...,Chapoj richin uya'ik ri molaj...
+Click to view,Chapoj richin rilaxik
+Click to view at-risk projects,Chapoj richin kilaxik ri taq nuk'samaj pa k'ax
+Click to view critical projects,Chapoj richin kilaxik ri nimalaj taq nuk'samaj
+Click to view healthy projects,Chapoj richin kilaxik ri utzilaj taq nuk'samaj
+Client,Aqanel
+Client already has a portal user: {0},Ri aqanel k'o chik jun okisanel pa ri okib'al: {0}
+Client already has portal access,Ri aqanel k'o chik rokem pa ri okib'al
+Client has no portal user to revoke,Ri aqanel man k'o ta jun okisanel pa ri okib'al richin uq'atik
+Client link removed from project {0},Ri ximoj re ri aqanel xelesaxik pa ri nuk'samaj {0}
+Client Portal,Rokib'al ri aqanel
+Client {0} deleted successfully,Ri aqanel {0} xsachik rumal utz
+Close,Tz'apij
+Close (Esc),Tz'apij (Esc)
+Comment,Tzij
+comment,tzij
+Comment added,Ri tzij xtzijonik
+Comment content is required,Ri ruk'u'x ri tzij rajawaxik
+Comment name is required,Ri ub'i' ri tzij rajawaxik
+Comment not found,Man xriqitaj ta ri tzij
+Comment removed,Ri tzij xelesaxik
+Comment {0} not found in task,Ri tzij {0} man xriqitaj ta pa ri samaj
+Comments,Taq tzij
+comments,taq tzij
+Community Edition,Community Edition
+Company,Nimaq molaj
+Company name...,Ub'i' ri nimaq molaj...
+Complete,Tz'aqatisaj
+Completed,Tz'aqat
+completed,tz'aqat
+Completed Tasks,Tz'aqat taq samaj
+Compliance,Uk'ulaxik
+Configure default values for new projects and tasks,Chajij ri rajil ya'on kanoq re taq k'ak' nuk'samaj xuquje' taq samaj
+Configure email notification settings,Chajij ri ruchajixik ri taqotzij
+Confirm,Jikilib'ej
+Contact deleted,Ri winaq xsachik
+Contact Details,Retal ri winaq
+Contact Information,Retamab'al ri winaq
+Contact name is required,Ri ub'i' ri winaq rajawaxik
+Contact Support,Tzijonik ruk' tob'anik
+Contact your project manager for more information.,Tzijonik ruk' ri ajchak re ri nuk'samaj richin ch'aqa' chik retamab'al.
+Contact:,Winaq:
+Contacts,Taq winaq
+Context,Ucholaj
+Contractor,Ajsamaj
+Cost estimate cannot be negative,Ri rajilab'exik man tikirel ta jun itzel ajilab'al
+Cost Impact,Rub'anikil ri rajil
+Cost Summary,Ruch'ob'al ri rajil
+Could not apply the template. Please try again.,Man xtikir ta uchapik ri ruwachib'al. Tab'ana' utzil tatijoj chik.
+Could not attach file to project,Man xtikir ta uximik ri yakb'al pa ri nuk'samaj
+Could not change task priority,Man xtikir ta ujalik ri nab'eal re ri samaj
+Could not change task status,Man xtikir ta ujalik ri rub'anikil re ri samaj
+Could not delete the project. Please try again.,Man xtikir ta usachik ri nuk'samaj. Tab'ana' utzil tatijoj chik.
+Could not delete the task. Please try again.,Man xtikir ta usachik ri samaj. Tab'ana' utzil tatijoj chik.
+Could not delete the template.,Man xtikir ta usachik ri ruwachib'al.
+Could not duplicate the task. Please try again.,Man xtikir ta ukopik ri samaj. Tab'ana' utzil tatijoj chik.
+Could not export the template.,Man xtikir ta uteqik ri ruwachib'al.
+Could not import the template. Please check the file format.,Man xtikir ta uyakik ri ruwachib'al. Tab'ana' utzil tanik'oj ri ruwach ri yakb'al.
+Could not link task to milestone,Man xtikir ta uximik ri samaj pa ri rajilal
+Could not load document details.,Man xtikir ta uyakik ri retal ri wuj.
+Could not load task details,Man xtikir ta uyakik ri retal ri samaj
+Could not promote checklist item to task.,Man xtikir ta uni'maxik ri jastaq re ri ruch'ob'al pa samaj.
+Could not remove task from milestone,Man xtikir ta uelesaxik ri samaj pa ri rajilal
+Could not save budget.,Man xtikir ta uyakik ri pwaq.
+Could not save changes to the milestone,Man xtikir ta uyakik ri taq jaloj re ri rajilal
+Could not save changes to the task,Man xtikir ta uyakik ri taq jaloj re ri samaj
+Could not save description.,Man xtikir ta uyakik ri uchuq'ab'ixik.
+Could not save end date.,Man xtikir ta uyakik ri q'ij rik'isik.
+Could not save milestone name.,Man xtikir ta uyakik ri ub'i' ri rajilal.
+Could not save start date.,Man xtikir ta uyakik ri q'ij rutikirib'al.
+Could not save the template. Please try again.,Man xtikir ta uyakik ri ruwachib'al. Tab'ana' utzil tatijoj chik.
+Could not save title.,Man xtikir ta uyakik ri ub'i'aj.
+Could not update dependency mode.,Man xtikir ta uk'exik ri rub'eyal ri tob'al.
+Could not update milestone date,Man xtikir ta uk'exik ri q'ij re ri rajilal
+Could not update project status.,Man xtikir ta uk'exik ri rub'anikil re ri nuk'samaj.
+Could not update project type.,Man xtikir ta uk'exik ri ruwach re ri nuk'samaj.
+Could not update setting.,Man xtikir ta uk'exik ri chajoj.
+Could not update task dates,Man xtikir ta uk'exik ri taq q'ij re ri samaj
+Could not update task status,Man xtikir ta uk'exik ri rub'anikil re ri samaj
+Could not update the template.,Man xtikir ta uk'exik ri ruwachib'al.
+Create a copy of this task,B'anik jun ukopil re ri samaj
+Create Contact,B'anik jun winaq
+Create Event,B'anik jun nimaq'ij
+Create Milestone,B'anik jun rajilal
+Create New Milestone,B'anik jun k'ak' rajilal
+Create New Task,B'anik jun k'ak' samaj
+Create Project,B'anik jun nuk'samaj
+Create Task,B'anik jun samaj
+Create tasks and milestones from a template,B'anik taq samaj xuquje' taq rajilal pa jun ruwachib'al
+Create your first project to get started.,Tab'ana' ri anab'e nuk'samaj richin atikirib'al.
+Create your first task to start tracking work on this project.,Tab'ana' ri anab'e samaj richin atikirib'al reta'maxik ri samaj pa re ri nuk'samaj.
+Created,B'an
+Creating...,Kab'anik...
+Critical,Nim retal
+Critical Path,Nim ub'eyal
+"Currency used for budgets, costs, and billing rates","Pwaq okisan richin taq pwaq, taq rajil xuquje' taq rajil tojik"
+Current,Wakami
+Current Assignments,Taq ya'oj samaj wakami
+Current scheduled time:,Ramaj ya'on kanoq wakami:
+Currently running version,Currently running version
+d lag,q'ij eqanik
+Daily Availability,K'olib'al jujun q'ij
+Daily Hours,Taq ramaj jujun q'ij
+Danger Zone,K'axk'olil
+Dark,Q'equ'm
+Dashboard,Ruwach ruchajixik
+Date,Q'ij
+Date changes on this task will show cascade impact here,Ri taq jaloj re q'ij pa re ri samaj xkik'ut ri rub'anikil ri q'axanik waral
+Date cleared,Ri q'ij xsachik
+Date of Joining,Ruq'ij uloq'ik
+Date updated,Ri q'ij k'exon chik
+Dates,Taq q'ij
+Dates cascaded,Taq q'ij xeq'ax
+Dates will be relative to the project's start date.,Ri taq q'ij xkib'an chi kiwach ri q'ij rutikirib'al re ri nuk'samaj.
+Day,Q'ij
+day,q'ij
+days,taq q'ij
+Days before due date to send reminder,Taq q'ij chuwach ri q'ij ruk'isib'al richin utaqik jun natab'al
+Days Overdue,Taq q'ij b'enaq
+Days Remaining,Taq q'ij k'o na
+Deadline,Ruk'isib'al q'ij
+Deadlines,Taq ruk'isib'al q'ij
+Decision,Ch'ob'oj
+Decline,Man kuk'ul ta
+Declined,Man xuk'ul ta
+Default Currency,Pwaq ya'on kanoq
+Default hours per week for contact capacity planning,Taq ramaj ya'on kanoq pa wuqq'ij richin ruchojmil uchuq'ab' re taq winaq
+Default Priority,Nab'eal ya'on kanoq
+Default Project Status,Rub'anikil re nuk'samaj ya'on kanoq
+Default Task Status,Rub'anikil re samaj ya'on kanoq
+Default task view,Ruwach samaj ya'on kanoq
+Default Values,Taq rajil ya'on kanoq
+Default Weekly Capacity,Uchuq'ab' re wuqq'ij ya'on kanoq
+Defaults,Ya'on kanoq
+Defect Cost Impact,Rub'anikil rajil re ri itzelal
+Defect name is required,Ri ub'i' ri itzelal rajawaxik
+Defect Type,Ruwach ri itzelal
+Defect {0} not found,Man xriqitaj ta ri itzelal {0}
+Defects,Taq itzelal
+Defects & Issues,Taq itzelal xuquje' taq k'ax
+Defects Resolved,Taq itzelal chojmirisam
+Delayed,Eqan
+Delete,Sachaj
+Delete Activity Data,Sachaj ri taq tzij re b'anob'al
+Delete all read notifications?,Sachaj ronojel ri sik'in taq natab'al?
+Delete comment,Sachaj ri tzij
+Delete Contact,Sachaj ri winaq
+Delete Event,Sachaj ri nimaq'ij
+Delete Event?,Sachaj ri nimaq'ij?
+Delete failed,Man xutzir ta ri sachik
+Delete file,Sachaj ri yakb'al
+Delete item,Sachaj ri jastaq
+Delete note,Sachaj ri tz'ib'
+Delete Project,Sachaj ri nuk'samaj
+Delete Task,Sachaj ri samaj
+Delete this project,Sachaj re ri nuk'samaj
+Deleted,Sachon
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Xsachik ri nuk'samaj ""{0}"" ({1} taq samaj, {2} taq rajilal)"
+Deletes notes and preferences. Source document is not affected.,Kusach ri taq tz'ib' xuquje' ri taq chaq'ab'. Ri qitzij wuj man kub'an ta chi re.
+Deleting...,Kasachik...
+Department,Tinamit
+Dependencies,Taq tob'al
+dependencies,taq tob'al
+Dependencies are informational only,Ri taq tob'al xa retamab'al
+dependency,tob'al
+Dependency already exists,Ri tob'al k'o chik
+Dependency Chain,Ruk'amaxik tob'al
+Dependency created,Ri tob'al xb'an
+Dependency mode updated,Ri rub'eyal ri tob'al k'exon chik
+Dependency name is required,Ri ub'i' ri tob'al rajawaxik
+Dependency task {0} not found,Man xriqitaj ta ri samaj tob'al {0}
+Dependency {0} not found,Man xriqitaj ta ri tob'al {0}
+depends,kutob'an
+Depends on Group,Kutob'an pa ri molaj
+Depends on task is required,Ri samaj tob'al rajawaxik
+depends on...,kutob'an pa...
+Descending -- click to reverse,Qajnaq -- chapoj richin ujalanik
+Describe the defect in detail...,Tachuq'ab'ij ri itzelal pa retal ronojel...
+Description,Uchuq'ab'ixik
+Description updated,Ri uchuq'ab'ixik k'exon chik
+Designation,Ruk'ojlib'al
+"Detailed description of the defect, location, and impact","Uchuq'ab'ixik pa retal ronojel re ri itzelal, ri k'ojlib'al xuquje' ri rub'anikil"
+Details,Taq retal
+Discard timer,Sachaj ri ajilanel ramaj
+Discussion,Tzijonik
+Dismiss,Dismiss
+Display,K'utub'al
+Document,Wuj
+Document attached to project,Wuj ximon pa ri nuk'samaj
+Document final decision and rationale,Tz'ib'aj ri ruk'isib'al ch'ob'oj xuquje' ri ruk'u'x
+Documentation Review,Uchajixik taq wuj
+Documents,Taq wuj
+Done,B'anon
+Download,Qasaj
+Drag to create dependency,Silob'ej richin ub'anik jun tob'al
+Dry Run,Tijonik
+Dry Run Complete,Tijonik tz'aqat
+Due Date,Ruq'ij ruk'isib'al
+Due date,Q'ij ruk'isib'al
+Due Date (Earliest),Ruq'ij ruk'isib'al (ri nab'e)
+Due date cannot be before start date,Ri q'ij ruk'isib'al man tikirel ta nab'e chuwach ri q'ij rutikirib'al
+Due date is in the past,Ri q'ij ruk'isib'al xb'e chik
+Due Date Reminders,Taq natab'al re q'ij ruk'isib'al
+Due Diligence,Uchajixik pa retal ronojel
+Due Diligence Checklist,Ruch'ob'al re uchajixik pa retal ronojel
+Due This Week,Pa re ri wuqq'ij
+Due:,Ruk'isib'al:
+Duplicate events are not allowed,Man tikirel ta ka'ib' nimaq'ij junam
+Duplicate failed,Man xutzir ta ri ukopik
+Duplicate Task,Kopij ri samaj
+Duration,Rejqalem
+Duration Summary,Ruch'ob'al ri rejqalem
+Duration:,Rejqalem:
+e.g. Cracked wall finish in bathroom...,achi'el: Q'aq'ob' pa ri ruchajab'al ri ja re ya'...
+"e.g. Electrical, Plumbing...","achi'el: Q'aq' ya', Tub'..."
+Edit,Tz'ib'aj
+Edit (E),Tz'ib'aj (E)
+Edit dependency,Tz'ib'aj ri tob'al
+Edit Event,Tz'ib'aj ri nimaq'ij
+Efficiency,Utzilal samaj
+Either dependency_name or depends_on is required,Rajawaxik ri dependency_name o ri depends_on
+Email,Taqotzij
+Email invitations to all attendees,Taqotzij tz'onoj chi ke ronojel e okinaq
+Email is required to create portal user,Ri taqotzij rajawaxik richin ub'anik jun okisanel re ri okib'al
+Email notifications,Taq natab'al pa taqotzij
+Employee,Ajsamaj
+Employee DocType not available,Ri DocType Ajsamaj man k'o ta
+Employee not found,Man xriqitaj ta ri ajsamaj
+Enable or disable optional features,Tzij o chupij ri taq chaq'ab'il
+Enable Time Tracking,Tzij ri reta'maxik ramaj
+End,Rik'isik
+End Date,Q'ij rik'isik
+End date,Q'ij rik'isik
+End Date cannot be before Start Date,Ri q'ij rik'isik man tikirel ta nab'e chuwach ri q'ij rutikirib'al
+End date cannot be before start date,Ri q'ij rik'isik man tikirel ta nab'e chuwach ri q'ij rutikirib'al
+End date updated,Ri q'ij rik'isik k'exon chik
+End time was before start time. Adjusted to 1 hour after start.,Ri ramaj rik'isik xk'oje' nab'e chuwach ri ramaj rutikirib'al. Xjalataj pa 1 ramaj chirij ri rutikirib'al.
+End:,Rik'isik:
+Enter milestone name...,Tatz'ib'aj ri ub'i' ri rajilal...
+Enter project name,Tatz'ib'aj ri ub'i' ri nuk'samaj
+Enter task title...,Tatz'ib'aj ri ub'i'aj ri samaj...
+Enter template name,Tatz'ib'aj ri ub'i' ri ruwachib'al
+Enter your note... Use @name to mention someone,Tatz'ib'aj ri atz'ib'... Tokisaj @b'i'aj richin ub'ixik jun winaq
+Error,Sachoj
+Error loading activity,Sachoj toq xuyak ri b'anob'al
+Error loading contacts,Sachoj toq xeyak ri taq winaq
+Error loading dashboard,Sachoj toq xuyak ri ruwach ruchajixik
+Error loading project,Sachoj toq xuyak ri nuk'samaj
+Error loading projects,Sachoj toq xeyak ri taq nuk'samaj
+Error loading settings,Sachoj toq xeyak ri taq chajoj
+Error loading tasks,Sachoj toq xeyak ri taq samaj
+Error loading templates,Sachoj toq xeyak ri taq ruwachib'al
+Est. Hours,Taq ramaj ajil.
+Estimated,Ajilab'en
+Estimated Cost,Rajil ajilab'en
+Estimated Cost (€),Rajil ajilab'en (€)
+Estimated Hours,Taq ramaj ajilab'en
+Estimated:,Ajilab'en:
+Evaluate potential risks and concerns,Tanik'oj ri taq k'ax xuquje' taq na'oj
+Event,Nimaq'ij
+Event is required for event context,Ri nimaq'ij rajawaxik re ri ucholaj nimaq'ij
+Event is required when tracking context is 'event',Ri nimaq'ij rajawaxik toq ri ucholaj reta'maxik ja ri 'nimaq'ij'
+Event Type,Ruwach nimaq'ij
+Events,Taq nimaq'ij
+Events not available. Please run: bench --site orga.localhost migrate,Ri taq nimaq'ij man e k'o ta. Tab'ana' utzil tachakuj: bench --site orga.localhost migrate
+Events:,Taq nimaq'ij:
+Expert,Nimalaj etamanel
+Explain why you are proposing a different time...,Tachuq'ab'ij achike ruma kawaj jun chik ramaj...
+Export,Teqij
+Export failed,Man xutzir ta ri uteqik
+Export JSON,Teqij pa JSON
+Exported,Teqin
+Exported to timesheet {0},Teqin pa ri ruwujil ramaj {0}
+External,Chupam
+Failed to add item,Man xutzir ta utzijonik ri jastaq
+Failed to add note,Man xutzir ta utzijonik ri tz'ib'
+Failed to add skill,Man xutzir ta utzijonik ri etamab'al
+Failed to apply cascade changes: {0},Man xutzir ta uchapik ri taq jaloj q'axanik: {0}
+Failed to create defect,Man xutzir ta ub'anik ri itzelal
+Failed to create dependency,Man xutzir ta ub'anik ri tob'al
+Failed to create event,Man xutzir ta ub'anik ri nimaq'ij
+Failed to create milestone,Man xutzir ta ub'anik ri rajilal
+Failed to create project,Man xutzir ta ub'anik ri nuk'samaj
+Failed to create task,Man xutzir ta ub'anik ri samaj
+Failed to create time log,Man xutzir ta ub'anik ri tz'ib'anik ramaj
+Failed to delete,Man xutzir ta ri sachik
+Failed to delete comment,Man xutzir ta usachik ri tzij
+Failed to delete contact,Man xutzir ta usachik ri winaq
+Failed to load,Man xutzir ta uyakik
+Failed to load activity,Man xutzir ta uyakik ri b'anob'al
+Failed to load assignments,Man xutzir ta uyakik ri taq ya'oj samaj
+Failed to load contact,Man xutzir ta uyakik ri winaq
+Failed to load dashboard data,Man xutzir ta uyakik ri taq tzij re ruwach ruchajixik
+Failed to load defects,Man xutzir ta uyakik ri taq itzelal
+Failed to load events,Man xutzir ta uyakik ri taq nimaq'ij
+Failed to load project,Man xutzir ta uyakik ri nuk'samaj
+Failed to load projects,Man xutzir ta uyakik ri taq nuk'samaj
+Failed to load report data,Man xutzir ta uyakik ri taq tzij re ri ruch'ob'al
+Failed to load settings,Man xutzir ta uyakik ri taq chajoj
+Failed to load tasks,Man xutzir ta uyakik ri taq samaj
+Failed to move task,Man xutzir ta usilob'ixik ri samaj
+Failed to post comment,Man xutzir ta utaqik ri tzij
+Failed to propose new time,Man xutzir ta uya'ik jun k'ak' ramaj
+Failed to remove item,Man xutzir ta uelesaxik ri jastaq
+Failed to remove skill,Man xutzir ta uelesaxik ri etamab'al
+Failed to reorder milestones: {0},Man xutzir ta uchojmirisaxik ri taq rajilal: {0}
+Failed to reorder tasks: {0},Man xutzir ta uchojmirisaxik ri taq samaj: {0}
+Failed to reschedule dependent tasks: {0},Man xutzir ta uk'exik taq q'ij re ri taq samaj tob'an: {0}
+Failed to save,Man xutzir ta uyakik
+Failed to save preferences,Man xutzir ta uyakik ri taq chaq'ab'
+Failed to save settings,Man xutzir ta uyakik ri taq chajoj
+Failed to submit request. Please try again.,Man xutzir ta utaqik ri tz'onoj. Tab'ana' utzil tatijoj chik.
+Failed to update item,Man xutzir ta uk'exik ri jastaq
+Failed to update priority,Man xutzir ta uk'exik ri nab'eal
+Failed to update task,Man xutzir ta uk'exik ri samaj
+Failed to update tasks: {0},Man xutzir ta uk'exik ri taq samaj: {0}
+Failed to upload avatar,Man xutzir ta uteqib'axik ri wachib'al
+Feature,Chaq'ab'il
+Features,Taq chaq'ab'il
+FF (Finish-Finish),FF (Rik'isik-Rik'isik)
+FF - Finish-to-Finish,FF - Rik'isik-pa-Rik'isik
+Field has been updated,Ri k'ojlib'al k'exon chik
+Field name is required for 'Set Field Value' action,Ri ub'i' ri k'ojlib'al rajawaxik re ri b'anoj 'Ya'oj rajil pa k'ojlib'al'
+Field {0} is not a Link field,Ri k'ojlib'al {0} man jun ximoj k'ojlib'al ta
+Field {0} not found in {1},Man xriqitaj ta ri k'ojlib'al {0} pa {1}
+File,Yakb'al
+file,yakb'al
+File does not belong to this task,Ri yakb'al man re ta re ri samaj
+File name is required,Ri ub'i' ri yakb'al rajawaxik
+File uploaded,Ri yakb'al xteqib'ax
+File {0} not found,Man xriqitaj ta ri yakb'al {0}
+Files,Taq yakb'al
+files,taq yakb'al
+Filter,Chayub'al
+Final Decision,Ruk'isib'al ch'ob'oj
+Finance,Pwaq
+Financial,Re pwaq
+Finish-to-Finish,Rik'isik-pa-Rik'isik
+Finish-to-Start,Rik'isik-pa-Rutikirib'al
+Flag,Etal
+Flag for attention,Etal richin rilaxik
+Flagged,Ya'on etal
+Focus Panel,Rupam rilaxik
+Follows your system preference. Currently:,Kuterene'j ri achaq'ab' re kematz'ib'. Wakami:
+Frappe Project {0} not found,Man xriqitaj ta ri Frappe nuk'samaj {0}
+Frappe Projects Migration,Uq'axik Frappe Projects
+Frappe Projects module not available,Ri Frappe Projects man k'o ta
+Frappe Projects module not installed,Ri Frappe Projects man ya'on ta
+Frappe Projects sync is not enabled,Ri ujunamaxik Frappe Projects man tzijon ta
+Frappe Task DocType not found,Man xriqitaj ta ri DocType Frappe samaj
+Frappe Task has no project,Ri Frappe samaj man k'o ta ri nuk'samaj
+Frappe Task {0} not found,Man xriqitaj ta ri Frappe samaj {0}
+Fri,Waq
+From,Pa
+From Template,Pa jun ruwachib'al
+FS (Finish-Start),FS (Rik'isik-Rutikirib'al)
+FS - Finish-to-Start (default),FS - Rik'isik-pa-Rutikirib'al (ya'on kanoq)
+Full form view with audit trail,Ruwach tz'aqat ruk' rub'eyal uchajixik
+Full name,Tz'aqat b'i'aj
+Gantt,Gantt
+Gantt Chart,Ruwachib'al Gantt
+Gantt View,Ruwach Gantt
+General Note,Jujunal tz'ib'
+Get started,Tatikiri'
+Go back,Tatzalij
+Go Back,Go Back
+Group by,Molaj rumal
+Group dependency removed,Ri tob'al re molaj xelesaxik
+Group dependency set,Ri tob'al re molaj xya'
+Group removed,Ri molaj xelesaxik
+Group updated,Ri molaj k'exon chik
+Hammock task dates are auto-calculated and cannot be changed manually,Ri taq q'ij re ri hamak samaj kirajilab'ej kiyon xuquje' man tikirel ta kejal ruk' q'ab'
+Have a question or need assistance? Fill out the form below and our team will get back to you.,K'o jun ak'utub'al o kawaj tob'anik? Tatz'ib'aj ri wuj ikim re xuquje' ri qamolaj xkatob'an awuk'.
+Health,Raxnaqil
+Healthy,Utz raxnaqil
+Hello {0},Utz apetik {0}
+Here's what's happening with your projects today.,Waral k'o ri kab'an pa ri taq anuk'samaj kamik.
+Hide,Ewaj
+High,Nimalaj
+History,Ojer taq tzij
+Home,Ja
+Hourly Cost,Rajil jujun ramaj
+Hours,Taq ramaj
+hours,taq ramaj
+Hours Logged,Taq ramaj tz'ib'an
+ID,ID
+Image must be smaller than 5 MB,Ri wachib'al rajawaxik man jun 5 MB
+Import,Yakoj
+Import existing projects and tasks from Frappe Projects module,Yakoj ri taq nuk'samaj xuquje' taq samaj k'o chik pa ri Frappe Projects
+Import failed,Man xutzir ta ri uyakik
+Import Template,Yakoj jun ruwachib'al
+Imported,Yakon
+in,pa
+In Progress,Pa rub'eyal
+In Review,Pa uchajixik
+In-app notifications,Taq natab'al pa ri samajib'al
+Inactive,Man k'aslik ta
+Initial Review,Nab'e uchajixik
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Man k'o ta ronojel okem richin kilaxik ronojel taq samaj
+Intermediate,Nik'aj
+Internal,Chipam
+Invalid DocType,Itzel DocType
+Invalid DocType for import,Itzel DocType richin yakik
+Invalid item type: {0},Itzel ruwach jastaq: {0}
+Invalid JSON data,Itzel JSON taq tzij
+Invalid note type. Must be one of: {0},Itzel ruwach tz'ib'. Rajawaxik jun chike re: {0}
+Invalid project reference,Itzel tzij re nuk'samaj
+Invalid reaction type. Must be one of: {0},Itzel ruwach na'oj. Rajawaxik jun chike re: {0}
+Invalid RSVP status,Itzel RSVP rub'anikil
+Invalid status. Must be one of: {0},Itzel rub'anikil. Rajawaxik jun chike re: {0}
+Invalid status: {0},Itzel rub'anikil: {0}
+Invalid status: {0}. Must be one of: {1},Itzel rub'anikil: {0}. Rajawaxik jun chike re: {1}
+Invalid tracking context: {0},Itzel ucholaj reta'maxik: {0}
+Invalid visibility. Must be one of: {0},Itzel k'utub'al. Rajawaxik jun chike re: {0}
+Invitation: {0} - {1} at {2},Tz'onoj: {0} - {1} pa {2}
+Invite People,Tz'onoj taq winaq
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Ri jastaq xtzijonik
+Item ID is required,Ri ID re ri jastaq rajawaxik
+Item removed,Ri jastaq xelesaxik
+Item type is required,Ri ruwach ri jastaq rajawaxik
+Item {0} not found,Man xriqitaj ta ri jastaq {0}
+Job title or role,Ub'i'aj samaj o ruk'ojlib'al
+Join Meeting,Okem pa ri moloj
+Just now,Wakami
+just now,wakami
+Kanban,Kanban
+Kanban Board,Ruwach Kanban
+Kanban View,Ruwach Kanban
+Keyboard Shortcuts,Ko'l taq b'eyal
+Keyboard shortcuts (?),Ko'l taq b'eyal (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Ruk'isib'al uk'exik
+Last updated:,Ruk'isib'al uk'exik:
+Last Week,Wuqq'ij xb'e
+Latest Version,Latest Version
+Light,Saq
+Link failed,Man xutzir ta ri ximoj
+Link Task,Ximoj samaj
+Linked,Ximon
+Linked employee not found,Man xriqitaj ta ri ximon ajsamaj
+Linked Tasks,Taq samaj ximon
+List,Cholaj
+List View,Ruwach cholaj
+Load failed,Man xutzir ta ri uyakik
+Load More,Yakoj ch'aqa' chik
+Load more comments,Yakoj ch'aqa' chik taq tzij
+Loading activity...,Kayak ri b'anob'al...
+Loading changes...,Keyak ri taq jaloj...
+Loading checklist...,Kayak ri ruch'ob'al...
+Loading comments...,Keyak ri taq tzij...
+Loading contact...,Kayak ri winaq...
+Loading contacts...,Keyak ri taq winaq...
+Loading dependencies...,Keyak ri taq tob'al...
+Loading details...,Keyak ri taq retal...
+Loading discussion...,Kayak ri tzijonik...
+Loading events...,Keyak ri taq nimaq'ij...
+Loading files...,Keyak ri taq yakb'al...
+Loading notes...,Keyak ri taq tz'ib'...
+Loading preferences...,Keyak ri taq chaq'ab'...
+Loading project...,Kayak ri nuk'samaj...
+Loading projects...,Keyak ri taq nuk'samaj...
+Loading replies...,Keyak ri taq tzalij tzij...
+Loading report data...,Keyak ri taq tzij re ri ruch'ob'al...
+Loading settings...,Keyak ri taq chajoj...
+Loading task...,Kayak ri samaj...
+Loading templates...,Keyak ri taq ruwachib'al...
+Loading time logs...,Keyak ri taq tz'ib'anik ramaj...
+Loading your portal...,Kayak ri aokib'al...
+Loading...,Kayak...
+Location,K'ojlib'al
+Log Time,Tz'ib'anik ramaj
+Logout,Elem
+Low,Ch'uti
+Make Offer,B'anik jun sipanib'al
+Manager,Ajchak
+Manual Entry,Q'ab'aj tz'ib'anik
+Margin,Ruchi'
+Mark all as read,B'ij ronojel achi'el sik'in
+Mark all read,B'ij ronojel sik'in
+Mark as read,B'ij achi'el sik'in
+Mark as unread,B'ij achi'el man sik'in ta
+Mark read,B'ij sik'in
+Marking...,Kab'ix...
+Material,Ch'akulal
+Maybe,Chwila
+Medium,Nik'aj
+Meeting,Moloj
+Meeting Link,Ximoj re moloj
+Meeting title,Ub'i'aj ri moloj
+Meeting URL,URL re moloj
+Meetings,Taq moloj
+Mention,B'ixik
+Message,Taqotzij
+Message is required,Ri taqotzij rajawaxik
+Message is required for '{0}' action,Ri taqotzij rajawaxik re ri b'anoj '{0}'
+Migrate,Q'axoj
+Migration Complete,Ri uq'axik tz'aqat
+Migration ID:,ID re uq'axik:
+Migration log not found: {0},Man xriqitaj ta ri ruwujil uq'axik: {0}
+Milestone,Rajilal
+milestone,rajilal
+Milestone created,Ri rajilal xb'an
+Milestone description has been saved.,Ri uchuq'ab'ixik re ri rajilal xyak.
+Milestone ID is required,Ri ID re ri rajilal rajawaxik
+Milestone marked as Missed (past due date),Ri rajilal xb'ix achi'el sachon (ri q'ij ruk'isib'al xb'e chik)
+Milestone moved,Ri rajilal xsilob'ix
+Milestone Name,Ub'i' ri rajilal
+Milestone name has been saved.,Ri ub'i' ri rajilal xyak.
+Milestone name is required,Ri ub'i' ri rajilal rajawaxik
+Milestone updated,Ri rajilal k'exon chik
+Milestone {0} not found,Man xriqitaj ta ri rajilal {0}
+Milestone {0} not in project {1},Ri rajilal {0} man k'o ta pa ri nuk'samaj {1}
+Milestones,Taq rajilal
+milestones,taq rajilal
+Milestones:,Taq rajilal:
+Minutes,Taq ch'uti ramaj
+Missed,Sachon
+Mixed,K'olon
+Mobile,Oyonik
+Moderate,Nik'aj nimalaj
+Modified,Jalon
+"Modify details, time, or attendees","Jalwachixik taq ub'anikil, ramaj, o ri e k'o chupam"
+Mon,Kaq
+Month,Ik'
+Move failed,Man xutzir ta ri usilob'ixik
+Must be a positive number,Rajawaxik jun utzilaj ajilab'al
+Must finish before this finishes,Rajawaxik kutz'aqatisaj chuwach ri rik'isik re ri'
+Must finish before this starts,Rajawaxik kutz'aqatisaj chuwach ri rutikirib'al re ri'
+Must start before this finishes,Rajawaxik kutikirib'ej chuwach ri rik'isik re ri'
+Must start before this starts,Rajawaxik kutikirib'ej chuwach ri rutikirib'al re ri'
+My Assignments,Ri nuya'oj samaj
+My Projects,Ri taq nunuk'samaj
+My Schedule,Ri nucholaj
+My Tasks,Ri taq nusamaj
+N/A,Man k'o ta
+Name,B'i'aj
+Name (A-Z),B'i'aj (A-Z)
+Name (Z-A),B'i'aj (Z-A)
+Name cannot exceed 255 characters,Ri b'i'aj man tikirel ta nimalaj chuwach 255 tz'ib'
+Need help?,Kawaj tob'anik?
+Needs Attention,Rajawaxik rilaxik
+Never,Never
+new activities,k'ak' taq b'anob'al
+New Activity,K'ak' b'anob'al
+New activity,K'ak' b'anob'al
+New Event,K'ak' nimaq'ij
+New index is required,Ri k'ak' rajilab'al rajawaxik
+New Project,K'ak' nuk'samaj
+New tasks will auto-trail by default.,Ri k'ak' taq samaj xkiq'ax kiyon ri rutikirib'al.
+Newest First,K'ak' nab'e
+Next,Jun chik
+Next 14 days,14 q'ij ri petinaq
+Next 30 days,30 q'ij ri petinaq
+Next 60 days,60 q'ij ri petinaq
+Next 7 days,7 q'ij ri petinaq
+Next 90 days,90 q'ij ri petinaq
+Next Week,Wuqq'ij ri petinaq
+Next:,Jun chik:
+No,Man
+No active assignments,Man k'o ta k'aslik taq ya'oj samaj
+No active projects,Man k'o ta k'aslik taq nuk'samaj
+No active timer found,Man xriqitaj ta jun k'aslik ajilanel ramaj
+No activity selected,Man xchaq' ta jun b'anob'al
+No assignments found,Man xriqitaj ta taq ya'oj samaj
+No attendees,Man k'o ta e okinaq
+no change,man k'o ta jaloj
+No changes for this field.,Man k'o ta taq jaloj re ri k'ojlib'al.
+No changes recorded for this activity.,Man k'o ta taq jaloj tz'ib'an re ri b'anob'al.
+No checklist items yet,Man k'o ta taq jastaq pa ri ruch'ob'al
+No checklist items yet.,Man k'o ta taq jastaq pa ri ruch'ob'al.
+No comments yet,Man k'o ta taq tzij
+No comments yet.,Man k'o ta taq tzij.
+No contacts available,Man k'o ta taq winaq
+No content for this tab,Man k'o ta ruk'u'x re ri ruxaq
+No data available,Man k'o ta taq tzij
+No data available for the selected filters,Man k'o ta taq tzij re ri chaq'on taq chayub'al
+No data to export,Man k'o ta taq tzij richin uteqik
+No dates set,Man ya'on ta taq q'ij
+No defects reported,Man k'o ta taq itzelal b'ixon
+No dependencies defined,Man k'o ta taq tob'al ya'on
+No description,Man k'o ta uchuq'ab'ixik
+No discussion yet.,Man k'o ta tzijonik.
+No documents attached,Man k'o ta taq wuj ximon
+No due date,Man k'o ta q'ij ruk'isib'al
+No employee linked to this resource,Man k'o ta jun ajsamaj ximon pa re ri tob'anel
+No ERPNext employee linked to resource,Man k'o ta jun ERPNext ajsamaj ximon pa ri tob'anel
+No events found,Man xriqitaj ta taq nimaq'ij
+No files attached yet.,Man k'o ta taq yakb'al ximon.
+No Frappe Project linked,Man k'o ta jun Frappe nuk'samaj ximon
+No Grouping,Man k'o ta molaj
+No items,Man k'o ta taq jastaq
+No matching tasks,Man k'o ta taq samaj junam
+No matching tasks found,Man xriqitaj ta taq samaj junam
+No migration history,Man k'o ta ojer taq tzij re uq'axik
+No Milestone,Man k'o ta rajilal
+No milestones,Man k'o ta taq rajilal
+No milestones defined for this project.,Man k'o ta taq rajilal ya'on re ri nuk'samaj.
+No notes yet.,Man k'o ta taq tz'ib'.
+No notes yet. Add a due diligence note to track progress.,Man k'o ta taq tz'ib'. Tzijonik jun tz'ib' re uchajixik richin reta'maxik ri b'enam.
+No notifications,Man k'o ta taq natab'al
+No Orga Project linked to Frappe Project {0},Man k'o ta jun Orga nuk'samaj ximon pa ri Frappe nuk'samaj {0}
+No overdue tasks,Man k'o ta taq samaj b'enaq
+No pending cascade changes,Man k'o ta taq jaloj q'axanik kayab'ej
+No predecessors - this task can start independently,Man k'o ta nab'e taq samaj - re ri samaj tikirel kutikirib'ej ruyon
+No project,Man k'o ta nuk'samaj
+No projects found,Man xriqitaj ta taq nuk'samaj
+No Projects Yet,Man k'o ta taq nuk'samaj
+No recent activity,Man k'o ta k'ak' b'anob'al
+No related documents,Man k'o ta taq wuj k'utunik
+No resolved threads.,Man k'o ta taq tzijonik chojmirisam.
+No resources found,Man xriqitaj ta taq tob'anel
+No results found,Man xriqitaj ta
+No skills listed,Man k'o ta taq etamab'al tz'ib'an
+No skills recorded yet,Man k'o ta taq etamab'al tz'ib'an
+No successors - no tasks are waiting for this one,Man k'o ta taq samaj chirij - man k'o ta samaj kayab'ej re ri'
+No task selected,Man xchaq' ta jun samaj
+No tasks assigned to you,Man k'o ta taq samaj ya'on chawe
+No tasks available to add,Man k'o ta taq samaj richin utzijonik
+No tasks found,Man xriqitaj ta taq samaj
+No tasks linked to this milestone,Man k'o ta taq samaj ximon pa re ri rajilal
+No tasks with dates to display,Man k'o ta taq samaj ruk' taq q'ij richin rik'utik
+No tasks yet,Man k'o ta taq samaj
+No team members,Man k'o ta rajpopil ri molaj
+No template,Man k'o ta ruwachib'al
+No templates yet,Man k'o ta taq ruwachib'al
+No time data found,Man xriqitaj ta taq tzij re ramaj
+No time logged today,Man k'o ta ramaj tz'ib'an kamik
+No time logged yet,Man k'o ta ramaj tz'ib'an
+No time logs for this period,Man k'o ta taq tz'ib'anik ramaj re ri q'ijul
+No time logs found,Man xriqitaj ta taq tz'ib'anik ramaj
+No unread notifications,Man k'o ta taq natab'al man sik'in ta
+No update information available yet.,No update information available yet.
+None,Man k'o ta
+Not found,Man xriqitaj ta
+Not permitted,Man ya'on ta okem
+Not permitted to access this project,Man ya'on ta okem pa re ri nuk'samaj
+Not permitted to access this task,Man ya'on ta okem pa re ri samaj
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Man ya'on ta okem richin utzijoxik pa re ri wuj
+Not permitted to create clients,Man ya'on ta okem richin kib'anik taq aqanel
+Not permitted to delete this client,Man ya'on ta okem richin usachik re ri aqanel
+Not permitted to delete this defect,Man ya'on ta okem richin usachik re ri itzelal
+Not permitted to delete this note,Man ya'on ta okem richin usachik re ri tz'ib'
+Not permitted to delete this project,Man ya'on ta okem richin usachik re ri nuk'samaj
+Not permitted to delete this task,Man ya'on ta okem richin usachik re ri samaj
+Not permitted to delete this time log,Man ya'on ta okem richin usachik re ri tz'ib'anik ramaj
+Not permitted to invite clients,Man ya'on ta okem richin kitz'onik taq aqanel
+Not permitted to modify client access,Man ya'on ta okem richin ujalik ri okem re ri aqanel
+Not permitted to modify this project,Man ya'on ta okem richin ujalik re ri nuk'samaj
+Not permitted to update settings,Man ya'on ta okem richin uk'exik ri taq chajoj
+Not permitted to update this client,Man ya'on ta okem richin uk'exik re ri aqanel
+Not permitted to view this client,Man ya'on ta okem richin rilaxik re ri aqanel
+not sent,man xtaq ta
+Not set,Man ya'on ta
+Not specified,Man b'ixon ta
+Note,Tz'ib'
+Note (optional),Tz'ib' (we kawaj)
+Note Content,Ruk'u'x ri tz'ib'
+Note content is required,Ri ruk'u'x ri tz'ib' rajawaxik
+Note name is required,Ri ub'i' ri tz'ib' rajawaxik
+Note not found,Man xriqitaj ta ri tz'ib'
+Note Type,Ruwach ri tz'ib'
+Notes,Taq tz'ib'
+Notification,Natab'al
+Notification not found,Man xriqitaj ta ri natab'al
+Notifications,Taq natab'al
+Off Track,Man pa rub'eyal ta
+Offer,Sipanib'al
+Offer Prepared,Sipanib'al chojmirisam
+Oldest First,Ojer nab'e
+On Hold,Pa uyab'ixik
+On Leave,Pa uxlanem
+On Track,Pa rub'eyal
+On-Time Rate,Ruchojmil pa ramaj
+Only administrators can delete activities,Xa xe ri ajchak tikirel kesach ri taq b'anob'al
+Only the comment author or administrators can delete comments,Xa xe ri atz'ib' o ri ajchak tikirel kesach ri taq tzij
+Only you and admins,Xa xe rat xuquje' ri ajchak
+Open,Jaqalik
+Open in Desk,Jaqaj pa ri Desk
+Open Task Log,Jaqaj ri ruwujil ri samaj
+Open Tasks,Taq samaj jaqalik
+Optional,We kawaj
+optional,we kawaj
+Or email us directly at,O kataq jun taqotzij chi qe pa
+Orga Project {0} from Frappe Projects,Orga nuk'samaj {0} pa Frappe Projects
+Orga Task {0} from Frappe,Orga samaj {0} pa Frappe
+Organizer,Ajchojmirisanel
+Other,Jun chik
+Over Budget,Nim chuwach ri pwaq
+Overall Progress,Ronojel ub'enam
+Overall Utilization,Ronojel rokisaxik
+Overallocated,Nim chuwach ya'on
+Overdue,B'enaq ri q'ij
+overdue,b'enaq ri q'ij
+Overdue Tasks,Taq samaj b'enaq
+Overview,Ruwach ronojel
+Owner,Rajaw
+Page Not Found,Man xriqitaj ta ri ruxaq
+Parent,Tata'
+Parent comment must belong to the same document,Ri tata' tzij rajawaxik ja re jun wuj
+Parent comment not found,Man xriqitaj ta ri tata' tzij
+Parent project not synced to Frappe yet,Ri tata' nuk'samaj man junamaxon ta ruk' Frappe
+Parent project sync not enabled,Ri ujunamaxik re ri tata' nuk'samaj man tzijon ta
+Partner,K'ulanel
+Pending,Kayab'ej
+per page,pa jujun ruxaq
+Perform initial assessment and background check,Tab'ana' ri nab'e rajilab'exik xuquje' ri uchajixik
+Permanently remove this event,Sachaj re ri nimaq'ij junab'e
+Permanently remove this task,Sachaj re ri samaj junab'e
+Phone,Ch'ab'al
+Pin,Chapoj
+Pin Activity,Chapoj ri b'anob'al
+Pin to top,Chapoj pa ruwi'
+Pinned,Chapon
+Planned budget for this task,Pwaq chojmirisam re ri samaj
+Planning,Ruchojmil
+Please describe your question or issue in detail...,Tab'ana' utzil tachuq'ab'ij ri ak'utub'al o ri ak'ax pa retal ronojel...
+Please login to access Orga,Tab'ana' utzil tawokoj richin at okinaq pa Orga
+Please login to access the client portal,Tab'ana' utzil tawokoj richin at okinaq pa ri okib'al re ri aqanel
+Please respond to this invitation in Orga,Tab'ana' utzil tatzalij tzij pa re ri tz'onoj pa Orga
+Please select an image file,Tab'ana' utzil tachaqa' jun wachib'al
+Please try again,Tab'ana' utzil tatijoj chik
+Please type,Tab'ana' utzil tatz'ib'aj
+Portal,Okib'al
+Portal access revoked for {0},Ri okem pa ri okib'al xq'at re {0}
+Portal user created successfully. Welcome email {0},Ri okisanel re ri okib'al xb'an rumal utz. Taqotzij ek'ulaxik {0}
+Post,Taqoj
+Powered by,B'an rumal
+Powered by Tonic,B'an rumal Tonic
+Predecessors (Blocked By),Nab'e taq samaj (k'aton rumal)
+Preferences,Taq chaq'ab'
+Preferences saved successfully,Ri taq chaq'ab' xeyak rumal utz
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Nab'e tz'ib' re ri utukel taq b'i'aj re nuk'samaj (achi'el ORG-2026-0001)
+Prepare and document offer terms,Chojmirisaj xuquje' tz'ib'aj ri taq tzij re ri sipanib'al
+Press,Chapoj
+Preview,Ruwach
+Preview cascade before applying,Ruwach ri q'axanik chuwach ri uchapik
+Previous,Kan
+Priority,Nab'eal
+Priority assigned to new tasks,Nab'eal ya'on chi ke ri k'ak' taq samaj
+Priority updated,Ri nab'eal k'exon chik
+Proficiency,Retamab'al
+Profile,Awachib'al
+Progress,B'enam
+Progress (High-Low),B'enam (nim-ch'uti)
+Progress (Low-High),B'enam (ch'uti-nim)
+Progress Overview,Ruwach ronojel ri b'enam
+Progress updated,Ri b'enam k'exon chik
+Project,Nuk'samaj
+Project budget has been saved.,Ri pwaq re ri nuk'samaj xyak.
+Project code (e.g. ORG-2026-0001),Ub'i'aj ri nuk'samaj (achi'el ORG-2026-0001)
+Project Code Prefix,Nab'e tz'ib' re b'i'aj nuk'samaj
+Project created,Ri nuk'samaj xb'an
+Project deleted,Ri nuk'samaj xsachik
+Project description has been saved.,Ri uchuq'ab'ixik re ri nuk'samaj xyak.
+Project Details,Retal ri nuk'samaj
+Project end date has been saved.,Ri q'ij rik'isik re ri nuk'samaj xyak.
+Project Files,Taq yakb'al re ri nuk'samaj
+Project has no linked client,Ri nuk'samaj man k'o ta jun ximon aqanel
+Project Health,Raxnaqil ri nuk'samaj
+Project Info,Retamab'al re ri nuk'samaj
+Project is required,Ri nuk'samaj rajawaxik
+Project is required for project context,Ri nuk'samaj rajawaxik re ri ucholaj nuk'samaj
+Project is required when tracking context is 'project',Ri nuk'samaj rajawaxik toq ri ucholaj reta'maxik ja ri 'nuk'samaj'
+Project Manager,Ajchak re ri nuk'samaj
+Project Name,Ub'i' ri nuk'samaj
+Project name and template name are required,Ri ub'i' ri nuk'samaj xuquje' ri ub'i' ri ruwachib'al e rajawaxik
+Project name is required,Ri ub'i' ri nuk'samaj rajawaxik
+Project not found,Man xriqitaj ta ri nuk'samaj
+Project not found or you do not have access,Man xriqitaj ta ri nuk'samaj o man k'o ta aokem
+Project settings,Taq chajoj re nuk'samaj
+Project start date has been saved.,Ri q'ij rutikirib'al re ri nuk'samaj xyak.
+Project title has been saved.,Ri ub'i'aj re ri nuk'samaj xyak.
+Project Type,Ruwach ri nuk'samaj
+Project updated,Ri nuk'samaj k'exon chik
+Project {0} linked to client {1},Ri nuk'samaj {0} ximon ruk' ri aqanel {1}
+Project {0} not found,Man xriqitaj ta ri nuk'samaj {0}
+Project {0} to Frappe Projects,Nuk'samaj {0} pa Frappe Projects
+Project:,Nuk'samaj:
+Projects,Taq nuk'samaj
+projects,taq nuk'samaj
+Projects created:,Taq nuk'samaj b'an:
+Projects Overview,Ruwach ronojel re taq nuk'samaj
+Projects skipped:,Taq nuk'samaj elan:
+Projects updated:,Taq nuk'samaj k'exon:
+Promote failed,Man xutzir ta ri uni'maxik
+Promote to task,Ni'maj pa samaj
+Promoted to task,Ni'maxon pa samaj
+Propose,Ya'oj kan
+Propose New Time,Ya'oj kan jun k'ak' ramaj
+Propose Time,Ya'oj kan ramaj
+Proposed End,Rik'isik ya'on kan
+Proposed Start,Rutikirib'al ya'on kan
+Public,Chi kiwach konojel
+Quick Action,Anim b'anoj
+Quick Actions,Anim taq b'anoj
+Quick Stats,Anim rajilab'al
+Rates,Taq rajil
+Receive notifications via email,Kuk'ul taq natab'al pa taqotzij
+Receive notifications within the application,Kuk'ul taq natab'al pa ri samajib'al
+Recent Activity,K'ak' b'anob'al
+Recipient {0} is not a valid user,Ri {0} man jun utzilaj okisanel ta
+Reference,Tzij
+Refresh,K'ak'arisaj
+Related,K'utunik
+Related Company (optional),Nimaq molaj k'utunik (we kawaj)
+Related Documents,Taq wuj k'utunik
+Related Project,Nuk'samaj k'utunik
+Remaining,K'o na
+Reminder,Natab'al
+Reminder Lead Time,Ramaj natab'al
+Reminder: {0} - {1} at {2},Natab'al: {0} - {1} pa {2}
+Remove,Elesaj
+Remove dependency,Elesaj ri tob'al
+Remove dependency on,Elesaj ri tob'al pa
+Remove from group,Elesaj pa ri molaj
+Remove group dependency,Elesaj ri tob'al re molaj
+Remove skill,Elesaj ri etamab'al
+Reopen,Jaqaj chik
+Reopen thread,Jaqaj chik ri tzijonik
+reopened,jaqon chik
+replies,taq tzalij tzij
+Reply,Tzalij tzij
+reply,tzalij tzij
+Replying to,Katzalij tzij chi re
+Replying to comment,Katzalij tzij chi re ri tzij
+Report Defect,B'ij jun itzelal
+Reported Date,Q'ij xb'ix
+Reports,Taq ruch'ob'al
+Reports To,Kuya' retal chi re
+Request Submitted!,Ri tz'onoj xtaq!
+Required,Rajawaxik
+required,rajawaxik
+Research,Tz'ukuxik
+Reset to Defaults,Tzalij pa taq rajil ya'on kanoq
+Resolve,Chojmirisaj
+Resolve thread,Chojmirisaj ri tzijonik
+Resolved,Chojmirisam
+Resolved date cannot be before reported date,Ri q'ij uchojmirisaxik man tikirel ta nab'e chuwach ri q'ij xb'ix
+Resource,Tob'anel
+Resource and skill name are required,Ri tob'anel xuquje' ri ub'i' ri etamab'al e rajawaxik
+Resource is already an attendee,Ri tob'anel k'o chik chi kixol ri e okinaq
+Resource name is required,Ri ub'i' ri tob'anel rajawaxik
+Resource not found,Man xriqitaj ta ri tob'anel
+Resource synced from employee {0},Ri tob'anel xjunamax pa ri ajsamaj {0}
+Resource {0} is already assigned to this task ({1}),Ri tob'anel {0} ya'on chik chi re re ri samaj ({1})
+Resource {0} not found,Man xriqitaj ta ri tob'anel {0}
+Resources,Taq winaq
+Retry,Tijoj chik
+Review,Chajixik
+Review all relevant documents and contracts,Tachajij ronojel ri taq wuj xuquje' taq uxe'al
+Reviews,Taq chajixik
+Risk Assessment,Rajilab'exik ri k'ax
+Rollback,Tzalij kan
+Rolled back,Xtzalij kan
+Room or address,Ja o ochoch
+RSVP,RSVP
+Safety,Jikomal
+Sat,Wuq
+Save,Yakoj
+"Save a project as a template, or import one from a JSON file.","Yakoj jun nuk'samaj achi'el ruwachib'al, o yakoj jun pa jun JSON yakb'al."
+Save as Template,Yakoj achi'el ruwachib'al
+Save Changes,Yakoj ri taq jaloj
+Save failed,Man xutzir ta ri uyakik
+Save Preferences,Yakoj ri taq chaq'ab'
+Save Template,Yakoj ri ruwachib'al
+Saving...,Kayak...
+Schedule,Cholaj
+Schedule type is required for scheduled triggers,Ri ruwach cholaj rajawaxik re ri taq b'anoj ya'on cholaj
+Scheduled,Ya'on pa cholaj
+Search,Tzukuj
+"Search by name, email, or skill...","Tzukuj rumal b'i'aj, taqotzij o etamab'al..."
+Search for a project...,Tzukuj jun nuk'samaj...
+Search for a task...,Tzukuj jun samaj...
+Search for an event...,Tzukuj jun nimaq'ij...
+Search for people to invite...,Tzukuj taq winaq richin kitz'onik...
+Search tasks to link...,Tzukuj taq samaj richin ximoj...
+Search tasks...,Tzukuj taq samaj...
+Search...,Tzukuj...
+Searching...,Katzukux...
+Seen,Ilon
+Select a project if your request is related to a specific project.,Tachaqa' jun nuk'samaj we ri atz'onoj chirij jun nuk'samaj.
+Select a project...,Chaqa' jun nuk'samaj...
+Select a task from the Gantt chart to view and manage its details.,Tachaqa' jun samaj pa ri Gantt richin rilaxik xuquje' uchajixik.
+Select a task from the list or Kanban board to view and manage its details.,Tachaqa' jun samaj pa ri cholaj o ri Kanban richin rilaxik xuquje' uchajixik.
+Select a template...,Chaqa' jun ruwachib'al...
+Select priority...,Chaqa' nab'eal...
+Select status...,Chaqa' rub'anikil...
+Select task...,Chaqa' samaj...
+Select type...,Chaqa' ruwach...
+Selection,Uchaqik
+Send,Taqoj
+Send comment,Taqoj ri tzij
+Send email invitations to attendees,Taqoj taq tz'onoj pa taqotzij chi ke ri e okinaq
+Send Invitations,Taqoj taq tz'onoj
+Send notification when a task is assigned to a user,Taqoj jun natab'al toq jun samaj kuya' chi re jun okisanel
+Send notification when task status changes,Taqoj jun natab'al toq kujal ri rub'anikil re ri samaj
+Send reminder before task due date,Taqoj jun natab'al chuwach ri q'ij ruk'isib'al re ri samaj
+sent,xtaq
+Set rate,Ya'oj rajil
+Settings,Taq chajoj
+Settings saved successfully,Ri taq chajoj xeyak rumal utz
+Severity,Uchuq'ab'
+SF (Start-Finish),SF (Rutikirib'al-Rik'isik)
+SF - Start-to-Finish,SF - Rutikirib'al-pa-Rik'isik
+Show,K'utuj
+Show all,K'utuj ronojel
+Show all changes,K'utuj ronojel taq jaloj
+Show Archived,K'utuj ri e pa yakb'al
+Show full diff,K'utuj ronojel ri jaloj
+Show less,K'utuj jub'iq'
+Show more,K'utuj ch'aqa' chik
+Skill added,Ri etamab'al xtzijonik
+Skill is required,Ri etamab'al rajawaxik
+Skill Name,Ub'i' ri etamab'al
+Skill removed,Ri etamab'al xelesaxik
+Skill {0} already exists for this resource,Ri etamab'al {0} k'o chik re ri tob'anel
+Skills,Taq etamab'al
+Skills & Competencies,Taq etamab'al xuquje' taq na'oj
+Skip already migrated projects,Elan ri taq nuk'samaj q'axon chik
+Sort by,Chojmirisaj rumal
+Sort: Due Date,Chojmirisaj: Q'ij ruk'isib'al
+Sort: Priority,Chojmirisaj: Nab'eal
+Sort: Project,Chojmirisaj: Nuk'samaj
+Sort: Status,Chojmirisaj: Rub'anikil
+Sort: Task,Chojmirisaj: Samaj
+Source Code,Ruxe'al tz'ib'anik
+Spent,Okisan
+Spent:,Okisan:
+SS (Start-Start),SS (Rutikirib'al-Rutikirib'al)
+SS - Start-to-Start,SS - Rutikirib'al-pa-Rutikirib'al
+Standalone,Juyon
+Start,Rutikirib'al
+Start a discussion below,Tatikiri'j jun tzijonik ikim re
+Start Date,Q'ij rutikirib'al
+Start date,Q'ij rutikirib'al
+Start Date (Earliest),Q'ij rutikirib'al (ri nab'e)
+Start date updated,Ri q'ij rutikirib'al k'exon chik
+Start date/time is required,Ri q'ij/ramaj rutikirib'al rajawaxik
+Start Migration,Tikiri'j ri uq'axik
+Start the conversation below.,Tatikiri'j ri tzijonik ikim re.
+Start Timer,Tikiri'j ri ajilanel ramaj
+Start typing to search...,Tatikiri'j atz'ib'axik richin atzukuxik...
+Start-to-Finish,Rutikirib'al-pa-Rik'isik
+Start-to-Start,Rutikirib'al-pa-Rutikirib'al
+Start:,Rutikirib'al:
+Statistics reset,Ri rajilab'al xtzalij kanoq
+Status,Rub'anikil
+Status assigned to new projects,Rub'anikil ya'on chi ke ri k'ak' taq nuk'samaj
+Status assigned to new tasks,Rub'anikil ya'on chi ke ri k'ak' taq samaj
+Status Changes,Taq jaloj re rub'anikil
+Status updated,Ri rub'anikil k'exon chik
+Status:,Rub'anikil:
+Stop,Ch'upij
+Stop & Save,Ch'upij xuquje' yakoj
+Stop Timer,Ch'upij ri ajilanel ramaj
+Stops current timer and starts for this event,Kuch'upij ri ajilanel ramaj xuquje' kutikirib'ej re ri nimaq'ij
+Stops current timer and starts for this task,Kuch'upij ri ajilanel ramaj xuquje' kutikirib'ej re ri samaj
+Subject,Ruk'u'x
+Subject cannot exceed 255 characters,Ri ruk'u'x man tikirel ta nimalaj chuwach 255 tz'ib'
+Subject is required,Ri ruk'u'x rajawaxik
+Submit,Taqoj
+Submit Another Request,Taqoj jun chik tz'onoj
+Submit Request,Taqoj ri tz'onoj
+Submitting...,Kataq...
+Successfully saved,Xyak rumal utz
+Successors (Blocking),Taq samaj chirij (k'aton)
+Sun,Q'ij
+Supplier,Ya'ol
+Support,Tob'anik
+Switch to this event,Jaloj pa re ri nimaq'ij
+Switch to this task,Jaloj pa re ri samaj
+Sync direction is set to Frappe to Orga only,Ri rub'eyal ujunamaxik ja xe pa Frappe pa Orga
+Sync direction is set to Orga to Frappe only,Ri rub'eyal ujunamaxik ja xe pa Orga pa Frappe
+Sync not enabled for this project,Ri ujunamaxik man tzijon ta re ri nuk'samaj
+System,Kematz'ib'
+Table,Kemb'al
+Take ownership of this task,Chapa' re ri samaj
+Target Date,Q'ij ruchojmil
+Target End,Rik'isik ruchojmil
+Target Project,Nuk'samaj ruchojmil
+Target user is required for '{0}' action,Ri okisanel ruchojmil rajawaxik re ri b'anoj '{0}'
+Task,Samaj
+task,samaj
+Task '{0}' is due on {1}.,Ri samaj '{0}' k'o pa {1}.
+Task and resource are required,Ri samaj xuquje' ri tob'anel e rajawaxik
+Task Assignment,Ya'oj samaj
+Task cannot be its own parent,Jun samaj man tikirel ta ja rija' ri utata'
+Task cannot depend on itself,Jun samaj man tikirel ta kutob'an pa rija'
+Task cannot depend on the group it belongs to,Jun samaj man tikirel ta kutob'an pa ri umolaj
+Task created,Ri samaj xb'an
+Task deleted,Ri samaj xsachik
+Task description has been saved.,Ri uchuq'ab'ixik re ri samaj xyak.
+Task Details,Retal ri samaj
+Task due in {0} days: {1},Ri samaj k'o pa {0} q'ij: {1}
+Task due today: {0},Ri samaj k'o kamik: {0}
+Task due tomorrow: {0},Ri samaj k'o chwa'q: {0}
+Task duplicated,Ri samaj xkopitaj
+Task Group,Molaj samaj
+Task ID is required,Ri ID re ri samaj rajawaxik
+Task is blocked by incomplete dependencies,Ri samaj k'aton rumal taq tob'al man tz'aqat ta
+Task is cancelled,Ri samaj q'aton
+Task is completed,Ri samaj tz'aqat
+Task is no longer blocked by a group,Ri samaj man k'aton ta chik rumal jun molaj
+Task is required for task context,Ri samaj rajawaxik re ri ucholaj samaj
+Task is required when tracking context is 'task',Ri samaj rajawaxik toq ri ucholaj reta'maxik ja ri 'samaj'
+Task linked,Ri samaj ximon
+Task moved,Ri samaj xsilob'ix
+Task name,Ub'i' ri samaj
+Task name is required,Ri ub'i' ri samaj rajawaxik
+Task removed from group,Ri samaj xelesaxik pa ri molaj
+Task Subject,Ruk'u'x ri samaj
+Task subject is required,Ri ruk'u'x re ri samaj rajawaxik
+Task Type,Ruwach ri samaj
+Task unblocked: {0},Ri samaj jaqon chik: {0}
+Task unlinked,Ri samaj xq'at ri ximoj
+Task updated,Ri samaj k'exon chik
+Task {0} not found,Man xriqitaj ta ri samaj {0}
+Task {0} not in project {1},Ri samaj {0} man k'o ta pa ri nuk'samaj {1}
+Task {0} to Frappe,Samaj {0} pa Frappe
+Tasks,Taq samaj
+tasks,taq samaj
+Tasks and milestones will be created with dates relative to the project start date.,Ri taq samaj xuquje' taq rajilal xkeb'an ruk' taq q'ij chi kiwach ri q'ij rutikirib'al re ri nuk'samaj.
+Tasks assigned to you across all projects.,Taq samaj ya'on chawe pa ronojel taq nuk'samaj.
+Tasks created:,Taq samaj b'an:
+Tasks from projects you manage.,Taq samaj pa taq nuk'samaj kachajij.
+Tasks updated:,Taq samaj k'exon:
+"Tasks, milestones, and dependencies have been created.","Ri taq samaj, taq rajilal xuquje' taq tob'al xeb'an."
+Tasks:,Taq samaj:
+TBD,Kamaj kab'ix
+Team,Molaj
+Team Members,Rajpopil ri molaj
+Template,Ruwachib'al
+Template applied,Ri ruwachib'al xchapataj
+Template data is required in import data,Ri taq tzij re ri ruwachib'al e rajawaxik pa ri taq tzij yakik
+Template has no data,Ri ruwachib'al man k'o ta taq tzij
+Template Name,Ub'i' ri ruwachib'al
+Template name,Ub'i' ri ruwachib'al
+Template name is required,Ri ub'i' ri ruwachib'al rajawaxik
+Template name is required in import data,Ri ub'i' ri ruwachib'al rajawaxik pa ri taq tzij yakik
+Template saved,Ri ruwachib'al xyak
+Template updated successfully.,Ri ruwachib'al k'exon chik rumal utz.
+Template {0} not found,Man xriqitaj ta ri ruwachib'al {0}
+Templates,Taq ruwachib'al
+Tentative,Chwila
+The comment has been deleted,Ri tzij xsachik
+The project,Ri nuk'samaj
+The source document may have been deleted.,Chwila ri qitzij wuj xsachik.
+The source document will not be affected.,Ri qitzij wuj man xkub'an ta chi re.
+The status of '{0}' was changed from {1} to {2}.,Ri rub'anikil re '{0}' xjalataj pa {1} pa {2}.
+Theme,Ruwachulew
+Theme preference,Chaq'ab' re ruwachulew
+This action,Re ri b'anoj
+This action cannot be undone.,Re ri b'anoj man tikirel ta utzuquxik.
+This activity has been flagged for attention,Re ri b'anob'al xya' etal richin rilaxik
+This is a reminder for your upcoming appointment,Re jun natab'al re ri atz'onoj ri petinaq
+This method is only meant for developer mode,Re ri b'eyal xa re ri b'anob'al re ajb'anol
+This page wandered off,This page wandered off
+This Week,Re ri wuqq'ij
+This will delete all notes and preferences associated with this activity.,Re kusach ronojel taq tz'ib' xuquje' taq chaq'ab' re ri b'anob'al.
+This will import all Frappe Projects into Orga. Continue?,Re kuyak ronojel taq Frappe nuk'samaj pa Orga. Kab'ij?
+This will permanently delete,Re kusach junab'e
+This will permanently delete:,Re kusach junab'e:
+Thu,Job'
+Time,Ramaj
+Time & Billing,Ramaj xuquje' tojik
+Time & Revenue,Ramaj xuquje' pwaq okinaq
+Time Entries,Taq tz'ib'anik ramaj
+Time log name is required,Ri ub'i' ri tz'ib'anik ramaj rajawaxik
+Time Log not found,Man xriqitaj ta ri tz'ib'anik ramaj
+Time log {0} not found,Man xriqitaj ta ri tz'ib'anik ramaj {0}
+Time Logs,Taq tz'ib'anik ramaj
+Time Summary,Ruch'ob'al ri ramaj
+Time Tracking,Reta'maxik ramaj
+Timeline,Rub'eyal ramaj
+Timer active on,Ri ajilanel ramaj k'aslik pa
+Timer is not running,Ri ajilanel ramaj man k'aslik ta
+Timer Running,Ri ajilanel ramaj k'aslik
+Timer running,Ri ajilanel ramaj k'aslik
+Timesheet DocType not available,Ri DocType ruwujil ramaj man k'o ta
+Timesheets,Taq ruwujil ramaj
+Timezone,Ruk'ojlib'al ramaj
+Timezone is detected from your browser,Ri ruk'ojlib'al ramaj xriqitaj pa ri asik'ib'al
+Title,Ub'i'aj
+Title cannot exceed 255 characters,Ri ub'i'aj man tikirel ta nimalaj chuwach 255 tz'ib'
+Title is required,Ri ub'i'aj rajawaxik
+Title updated,Ri ub'i'aj k'exon chik
+To,Pa
+to,pa
+to cancel,richin uq'atik
+to close,richin utz'apixik
+to confirm:,richin ujikilib'exik:
+to edit,richin utz'ib'axik
+"to save,","richin uyakik,"
+To Time cannot be before From Time,Ri ramaj rik'isik man tikirel ta nab'e chuwach ri ramaj rutikirib'al
+Today,Kamik
+today,kamik
+Toggle billable,Jaloj tojb'al
+Toggle Details Panel,K'utuj/ewaj ri rupam retal
+Toggle Manager Panel,K'utuj/ewaj ri rupam ajchak
+Toggle Sidebar,K'utuj/ewaj ri ruchi'
+Tomorrow,Chwa'q
+tomorrow,chwa'q
+Total,Ronojel
+Total Budget,Ronojel pwaq
+Total Contacts,Ronojel taq winaq
+Total Cost,Ronojel rajil
+Total Cost to Org,Ronojel rajil chi re ri molaj
+Total Defect Cost,Ronojel rajil re taq itzelal
+Total Hours,Ronojel taq ramaj
+Total Hours Logged,Ronojel taq ramaj tz'ib'an
+Total Projects,Ronojel taq nuk'samaj
+Total Spent,Ronojel okisan
+Total Tasks,Ronojel taq samaj
+Total:,Ronojel:
+Tracked,Eta'man
+trails to today while Open at 0%,kuq'ax kamik toq jaqalik pa 0%
+Tried:,Tried:
+Try adjusting your filter criteria,Tatijoj tajaloj ri taq chayub'al
+Try adjusting your filters.,Tatijoj tajaloj ri taq chayub'al.
+Try Again,Tatijoj chik
+Tue,Ka'
+Type,Ruwach
+Type updated,Ri ruwach k'exon chik
+Type:,Ruwach:
+Typical response time: 1-2 business days,Ramaj richin utzalij tzij: 1-2 q'ij samaj
+Unarchive,Elesaj pa yakb'al
+Unarchive Activity,Elesaj ri b'anob'al pa yakb'al
+Unassign,Elesaj ya'oj
+Unassigned,Man ya'on ta chi re
+Under Budget,Ikim re ri pwaq
+Ungrouped,Man pa molaj ta
+Unknown,Man etaman ta
+Unknown error,Sachoj man etaman ta
+Unlink failed,Man xutzir ta ri uq'atik ri ximoj
+Unlink task from milestone,Q'atoj ri ximoj re ri samaj pa ri rajilal
+Unpin,Elesaj ri chapoj
+Unpin Activity,Elesaj ri chapoj re b'anob'al
+Unread,Man sik'in ta
+Unread only,Xa ri man sik'in ta
+Until,Chanim
+Up to Date,Up to Date
+Upcoming,Ri petinaq
+upcoming,ri petinaq
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Man xutzir ta ri uk'exik
+Updated,K'exon
+Updated successfully,K'exon rumal utz
+Updates,Updates
+Upload,Teqib'aj
+Upload failed,Man xutzir ta ri uteqib'axik
+Upload files below to attach them to this task.,Teqib'aj taq yakb'al ikim re richin kiximik pa re ri samaj.
+Upload to project,Teqib'aj pa ri nuk'samaj
+Uploading...,Kateqib'ax...
+Urgent,Anim rajawaxik
+User {0} is already linked to client {1},Ri okisanel {0} ximon chik ruk' ri aqanel {1}
+User {0} is already linked to resource {1},Ri okisanel {0} ximon chik ruk' ri tob'anel {1}
+Utilization,Rokisaxik
+Valid,Jikil
+Value:,Rajil:
+Variance,Jalanik
+Variance:,Jalanik:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Ilaj
+View All,Ilaj ronojel
+View all active projects,Ilaj ronojel k'aslik taq nuk'samaj
+View all open tasks,Ilaj ronojel jaqalik taq samaj
+View overdue tasks,Ilaj ri taq samaj b'enaq
+View Release,View Release
+Visibility,K'utub'al
+Waiting for this task,Kayab'ej re ri samaj
+Waits for:,Kayab'ej:
+Warning: Resource {0} status is {1},Pixab': ri rub'anikil re ri tob'anel {0} ja ri {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Pixab': HTTP kokisan xuquje' man HTTPS ta. Ri taq tzij re webhook man e jikomal ta.
+Watch budget closely,Tachajij ri pwaq pa retal ronojel
+We'll respond to:,Xqatzalij tzij pa:
+Webhook deleted,Ri webhook xsachik
+Webhook name is required,Ri ub'i' ri webhook rajawaxik
+Webhook not found,Man xriqitaj ta ri webhook
+Webhook URL is required,Ri URL re ri webhook rajawaxik
+Webhook URL must start with http:// or https://,Ri URL re ri webhook rajawaxik kutikirib'ej ruk' http:// o https://
+Wed,Ox
+Week,Wuqq'ij
+Weekend,Uxlanem q'ij
+Weekly Capacity,Uchuq'ab' pa wuqq'ij
+weekly capacity,uchuq'ab' pa wuqq'ij
+Weekly Capacity (h),Uchuq'ab' pa wuqq'ij (r)
+Welcome,Ek'ulaxik
+Welcome back!,Utz apetik chik!
+Welcome to Orga,Ek'ulaxik pa Orga
+What are you working on?,Achike kasamajij?
+What did you work on?,Achike xasamajij?
+When,Jampe'
+When work begins,Toq kutikirib'ej ri samaj
+When work is due,Toq k'o ri samaj
+Where,Jawje'
+Will capture:,Xuchap:
+Will create:,Xub'an:
+with checklist items,ruk' taq jastaq re ri ruch'ob'al
+Working,Kasamajik
+Workload,Rejqalem samaj
+Workmanship,Utzilal ri samaj
+Write a comment...,Tatz'ib'aj jun tzij...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Tatz'ib'aj jun tzij... Tokisaj @b'i'aj richin ub'ixik (Ctrl+Enter richin utaqik)
+Year,Junab'
+Yes,Ja'
+Yesterday,Iwir
+yesterday,iwir
+You are not an attendee of this appointment,Man at okinaq ta pa re ri tz'onoj
+You are not linked to any resource,Man at ximon ta ruk' jun tob'anel
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Xa xe ri taq atzij tikirel kasach
+You can only delete your own reactions,Xa xe ri taq ana'oj tikirel kasach
+You do not have access to the client portal. Please contact support.,Man k'o ta aokem pa ri okib'al re ri aqanel. Tab'ana' utzil tzijonik ruk' tob'anik.
+You have already reacted with '{0}',K'o chik ri ana'oj ruk' '{0}'
+You have been assigned to task '{0}' in project '{1}'.,Xya' chawe ri samaj '{0}' pa ri nuk'samaj '{1}'.
+You have been assigned to: {0},Xya' chawe: {0}
+You have been invited to the following appointment,Xatz'on pa re ri tz'onoj
+You have no tasks assigned to you right now.,Man k'o ta samaj ya'on chawe wakami.
+You were mentioned in {0},Xab'ix pa {0}
+Your attendance,Ri aokem
+Your comment has been posted,Ri atzij xtaq
+Your Projects,Ri taq anuk'samaj
+Your projects will appear here once they're assigned to you.,Ri taq anuk'samaj xkek'ut waral toq xeya' chawe.
+Your Response,Ri atzalij tzij
+Your RSVP,Ri RSVP awech
+Your support request has been submitted successfully.,Ri atz'onoj re tob'anik xtaq rumal utz.
+Your support request has been submitted successfully. We'll get back to you shortly.,Ri atz'onoj re tob'anik xtaq rumal utz. Anim xqatzalij tzij chawe.
+"Your task ""{0}"" is no longer blocked and can now be started.","Ri asamaj ""{0}"" man k'aton ta chik xuquje' tikirel katikirib'ej wakami."
+{0} is required,{0} rajawaxik
+{0} new activities,{0} k'ak' taq b'anob'al
+{0} of {1} completed,{0} pa {1} tz'aqat
+{0} projects already migrated (will be skipped or updated),{0} taq nuk'samaj q'axon chik (xelan o xek'ex)
+{0} status changed to {1},Ri rub'anikil re {0} xjalataj pa {1}
+{0} tasks remaining,{0} taq samaj k'o na
+{0} tasks without projects will be skipped,{0} taq samaj man k'o ta kinuk'samaj xelan
+{0} {1} not found,{0} {1} man xriqitaj ta

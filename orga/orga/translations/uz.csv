@@ -1,0 +1,1492 @@
++ Add Milestone,+ Bosqich qo'shish
++ Create Task,+ Vazifa yaratish
++ Log Time,+ Vaqt yozish
+-- Select a project --,-- Loyiha tanlang --
+0m,0d
+1 day,1 kun
+1 day ago,1 kun oldin
+1 dependency,1 bog'liqlik
+1 entry,1 yozuv
+1 file,1 fayl
+1 hour ago,1 soat oldin
+1 member,1 a'zo
+1 milestone,1 bosqich
+1 month,1 oy
+1 task,1 vazifa
+< 1m,< 1d
+"A clear, actionable title for the task",Vazifa uchun aniq va tushunarli sarlavha
+A client with email {0} already exists: {1},{0} elektron pochtali mijoz allaqachon mavjud: {1}
+A key deliverable or checkpoint for the project,Loyihaning muhim natijasi yoki tekshiruv nuqtasi
+Accept,Qabul qilish
+Accepted,Qabul qilingan
+Acknowledge,Tasdiqlash
+across,bo'ylab
+Action,Harakat
+Actions,Harakatlar
+Active,Faol
+Active Assignments,Faol topshiriqlar
+Active Projects,Faol loyihalar
+Activity,Faoliyat
+Activity data deleted successfully,Faoliyat ma'lumotlari muvaffaqiyatli o'chirildi
+Activity Info,Faoliyat haqida
+Activity Stats,Faoliyat ko'rsatkichlari
+Activity will appear here as you work on tasks and projects.,Vazifalar va loyihalar ustida ishlagan sari faoliyat shu yerda ko'rinadi.
+Actual,Haqiqiy
+Actual Cost,Haqiqiy narx
+Actual cost cannot be negative,Haqiqiy narx manfiy bo'lishi mumkin emas
+Actual end date cannot be before actual start date,Haqiqiy tugash sanasi haqiqiy boshlanish sanasidan oldin bo'lishi mumkin emas
+Actual Hours,Haqiqiy soatlar
+Add,Qo'shish
+Add a checklist item...,Tekshiruv ro'yxatiga qo'shish...
+Add a comment...,Izoh qo'shish...
+Add a comment... (Ctrl+Enter to send),Izoh qo'shish... (Ctrl+Enter yuborish uchun)
+Add a description...,Tavsif qo'shish...
+Add a milestone description...,Bosqich tavsifini qo'shish...
+Add a note below to annotate this activity.,Ushbu faoliyatga izoh qo'shish uchun pastda eslatma yozing.
+Add a note...,Eslatma qo'shish...
+Add a project description...,Loyiha tavsifini qo'shish...
+Add a task description...,Vazifa tavsifini qo'shish...
+Add checklist item...,Tekshiruv ro'yxatiga qo'shish...
+Add Contact,Kontakt qo'shish
+Add contacts via the Desk interface or clear filters,Desk orqali kontaktlar qo'shing yoki filtrlarni tozalang
+Add Dependency,Bog'liqlik qo'shish
+Add details about this event...,Ushbu tadbir haqida batafsil yozing...
+Add details about this milestone...,Ushbu bosqich haqida batafsil yozing...
+Add details about this task...,Ushbu vazifa haqida batafsil yozing...
+Add details or acceptance criteria for this milestone,Ushbu bosqich uchun batafsil yoki qabul mezonlarini qo'shing
+"Add details, context, or acceptance criteria","Batafsil, kontekst yoki qabul mezonlarini qo'shing"
+Add first dependency,Birinchi bog'liqlikni qo'shish
+Add item,Element qo'shish
+Add items below to track progress.,Jarayonni kuzatish uchun pastda elementlar qo'shing.
+Add items below to track subtasks,Kichik vazifalarni kuzatish uchun pastda elementlar qo'shing
+Add Milestone,Bosqich qo'shish
+Add Milestone (Shift+M),Bosqich qo'shish (Shift+M)
+Add milestones to track key deliverables.,Muhim natijalarni kuzatish uchun bosqichlar qo'shing.
+Add New Contact,Yangi kontakt qo'shish
+Add Note,Eslatma qo'shish
+Add note,Eslatma qo'shish
+Add notes about this contact...,Ushbu kontakt haqida eslatmalar qo'shish...
+Add reaction,Munosabat bildirish
+Add Skill,Ko'nikma qo'shish
+Add start and due dates to tasks to see them on the Gantt chart,Vazifalarni Gantt jadvalida ko'rish uchun boshlanish va tugash sanalarini qo'shing
+Add Task,Vazifa qo'shish
+Add Task (Shift+T),Vazifa qo'shish (Shift+T)
+Added Finish-to-Start dependency,Tugash-Boshlanish bog'liqligi qo'shildi
+Adding this dependency would create a circular reference: {0},Ushbu bog'liqlikni qo'shish halqasimon havola hosil qiladi: {0}
+Adding...,Qo'shilmoqda...
+Address,Manzil
+Advanced,Kengaytirilgan
+All,Hammasi
+All Active,Barcha faollar
+All Assignees,Barcha mas'ullar
+All Categories,Barcha turkumlar
+All caught up!,Hammasi yangilangan!
+All Contexts,Barcha kontekstlar
+All day,Kun bo'yi
+All day event,Kun bo'yi tadbir
+All fields,Barcha maydonlar
+All Priorities,Barcha muhimliklar
+All Projects,Barcha loyihalar
+All Status,Barcha holatlar
+All Statuses,Barcha holatlar
+All task dependencies & relative dates,Barcha vazifa bog'liqliklari va nisbiy sanalar
+All Tasks,Barcha vazifalar
+All tasks across all projects.,Barcha loyihalardagi barcha vazifalar.
+All tasks are already linked,Barcha vazifalar allaqachon bog'langan
+All team members,Barcha jamoa a'zolari
+All Types,Barcha turlar
+All Users,Barcha foydalanuvchilar
+Allocated,Ajratilgan
+allocated,ajratilgan
+Allow users to log time against tasks,Foydalanuvchilarga vazifalar bo'yicha vaqt yozish imkonini berish
+Already exported to timesheet {0},Allaqachon {0} vaqt jadvaliga chiqarilgan
+Already Migrated,Allaqachon ko'chirilgan
+Anyone with access,Kirishga ega har kim
+anytime to show this help,ushbu yordamni ko'rsatish uchun istalgan vaqtda
+App Updates,App Updates
+Appearance,Tashqi ko'rinish
+Apply,Qo'llash
+Apply cascade?,Zanjirni qo'llash kerakmi?
+Apply Changes,O'zgarishlarni qo'llash
+Apply failed,Qo'llash muvaffaqiyatsiz
+Apply Template,Shablon qo'llash
+Applying...,Qo'llanilmoqda...
+Appointment,Uchrashuv
+Appointment and resource are required,Uchrashuv va resurs talab qilinadi
+Appointment name is required,Uchrashuv nomi talab qilinadi
+Appointment not found,Uchrashuv topilmadi
+Appointment {0} not found,{0} uchrashuv topilmadi
+Apps,Ilovalar
+Archive,Arxiv
+Archive Activity,Faoliyatni arxivlash
+Archived,Arxivlangan
+Are you sure you want to delete this activity data? This cannot be undone.,Ushbu faoliyat ma'lumotlarini o'chirishni xohlaysizmi? Bu qaytarib bo'lmaydi.
+Are you sure you want to delete this comment?,Ushbu izohni o'chirishni xohlaysizmi?
+Are you sure you want to delete this project?,Ushbu loyihani o'chirishni xohlaysizmi?
+Are you sure?,Ishonchingiz komilmi?
+Ascending -- click to reverse,O'sish tartibida -- teskari qilish uchun bosing
+Assign To,Topshirish
+Assign to Me,Menga topshirish
+Assigned Contact,Tayinlangan kontakt
+Assigned To,Topshirilgan
+Assigned to,Topshirilgan
+Assigned to Me,Menga topshirilgan
+Assignee,Mas'ul
+Assignment,Topshiriq
+Assignment History,Topshiriqlar tarixi
+Assignment name is required,Topshiriq nomi talab qilinadi
+Assignment {0} not found,{0} topshiriq topilmadi
+Assignments,Topshiriqlar
+At least one action is required,Kamida bitta harakat talab qilinadi
+At least one event is required,Kamida bitta tadbir talab qilinadi
+At least one event must be selected,Kamida bitta tadbir tanlanishi kerak
+Attachment,Biriktirma
+Attachments,Biriktirmalar
+Attendees,Ishtirokchilar
+"Audit trail, assignments, version history","Tekshiruv izi, topshiriqlar, versiyalar tarixi"
+Auto,Avtomatik
+Auto Calculate Progress,Jarayonni avtomatik hisoblash
+Auto Set Missed Milestones,O'tkazib yuborilgan bosqichlarni avtomatik belgilash
+Auto-shift dependents when dates change,Sanalar o'zgarganda bog'liqlarni avtomatik siljitish
+Auto-Trail Start,Avtomatik siljish boshlanishi
+Auto-Trail updated,Avtomatik siljish yangilandi
+Automatically calculate project progress from task completion,Vazifalar bajarilishi asosida loyiha jarayonini avtomatik hisoblash
+Automatically mark milestones as missed when overdue,Muddati o'tgan bosqichlarni avtomatik o'tkazib yuborilgan deb belgilash
+Automation rule {0} not found,{0} avtomatlashtirish qoidasi topilmadi
+Automation: {0},Avtomatlashtirish: {0}
+Availability,Mavjudlik
+Available,Mavjud
+Avatar updated successfully,Rasm muvaffaqiyatli yangilandi
+Avg Progress,O'rtacha jarayon
+Back,Orqaga
+Back to Portal,Portalga qaytish
+Back to Projects,Loyihalarga qaytish
+Beginner,Boshlang'ich
+Best regards,Hurmat bilan
+Billable,Hisob-kitob qilinadigan
+Billable Amount,Hisob-kitob summasi
+Billable Hours,Hisob-kitob soatlari
+Billable Rate,Hisob-kitob stavkasi
+Billing Rate,Hisob-kitob stavkasi
+Blocked,Bloklangan
+Both dates are needed to display task as a bar in Gantt chart,Vazifani Gantt jadvalida chiziq sifatida ko'rsatish uchun ikkala sana ham kerak
+Both doctype and docname are required,doctype va docname ikkalasi ham talab qilinadi
+Both proposed start and end times are required,Taklif etilgan boshlanish va tugash vaqtlari talab qilinadi
+Both task_name and depends_on are required,task_name va depends_on ikkalasi ham talab qilinadi
+Breadcrumb,Yo'l ko'rsatkich
+Brief description of the defect or damage,Nuqson yoki shikastlanishning qisqacha tavsifi
+Brief description of this template,Ushbu shablonning qisqacha tavsifi
+Brief description of your request,So'rovingizning qisqacha tavsifi
+Brief project description,Loyihaning qisqacha tavsifi
+Budget,Byudjet
+Budget at risk,Byudjet xavf ostida
+Budget Burn Rate,Byudjet sarflanish tezligi
+Budget Status,Byudjet holati
+Budget updated,Byudjet yangilandi
+Budget:,Byudjet:
+Bug,Xatolik
+Burn Rate,Sarflanish tezligi
+Busy,Band
+By,Tomonidan
+By Assignee,Mas'ul bo'yicha
+By Group,Guruh bo'yicha
+By Milestone,Bosqich bo'yicha
+By Priority,Muhimlik bo'yicha
+By Status,Holat bo'yicha
+Cancel,Bekor qilish
+Cancelled,Bekor qilingan
+cannot be undone,qaytarib bo'lmaydi
+Cannot delete client with {0} linked projects. Unlink projects first.,Bog'langan {0} loyihasi bor mijozni o'chirib bo'lmaydi. Avval loyihalarni ajrating.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Bog'langan {0} vazifasi bor loyihani o'chirib bo'lmaydi. Avval vazifalarni o'chiring.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Faol {0} topshirig'i bor resursni o'chirib bo'lmaydi. Avval ularni yakunlang yoki bekor qiling.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Kichik {0} vazifasi bor vazifani o'chirib bo'lmaydi. Avval kichik vazifalarni o'chiring.
+Capacity,Sig'im
+capacity,sig'im
+Capacity & Rates,Sig'im va stavkalar
+Capture project structure for reuse,Loyiha tuzilmasini qayta foydalanish uchun saqlash
+Cascade,Zanjir
+Cascade Preview,Zanjir ko'rinishi
+Category,Turkum
+Celebrate,Tabriklamoq
+Change,O'zgartirish
+Change History,O'zgarishlar tarixi
+Change Priority,Muhimlikni o'zgartirish
+Change Status,Holatni o'zgartirish
+Changes,O'zgarishlar
+Changes appear when fields are modified.,Maydonlar o'zgartirilganda o'zgarishlar ko'rinadi.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Tekshiruv ro'yxati
+Checklist item name is required,Tekshiruv ro'yxati elementi nomi talab qilinadi
+Checklist item not found,Tekshiruv ro'yxati elementi topilmadi
+Checklist item title is required,Tekshiruv ro'yxati elementi sarlavhasi talab qilinadi
+Checklist item {0} not found,{0} tekshiruv ro'yxati elementi topilmadi
+Checklist item {0} not found in task,Vazifada {0} tekshiruv ro'yxati elementi topilmadi
+Child,Ichki
+Choose file to upload,Yuklash uchun fayl tanlang
+Circular dependency detected: {0},Halqasimon bog'liqlik aniqlandi: {0}
+Circular parent-child relationship detected,Halqasimon ota-bola bog'liqligi aniqlandi
+Clear,Tozalash
+Clear all read,O'qilganlarni tozalash
+Clear date,Sanani tozalash
+Click on an activity from the list to view and manage its details.,Batafsil ko'rish va boshqarish uchun ro'yxatdagi faoliyatni bosing.
+Click the avatar to upload a new photo,Yangi rasm yuklash uchun rasmni bosing
+Click to add description...,Tavsif qo'shish uchun bosing...
+Click to add notes...,Eslatma qo'shish uchun bosing...
+Click to assign contact,Kontakt tayinlash uchun bosing
+Click to change status,Holatni o'zgartirish uchun bosing
+Click to change type,Turni o'zgartirish uchun bosing
+Click to edit,Tahrirlash uchun bosing
+Click to edit budget,Byudjetni tahrirlash uchun bosing
+Click to edit description,Tavsifni tahrirlash uchun bosing
+Click to edit end date,Tugash sanasini tahrirlash uchun bosing
+Click to edit milestone name,Bosqich nomini tahrirlash uchun bosing
+Click to edit rate,Stavkani tahrirlash uchun bosing
+Click to edit start date,Boshlanish sanasini tahrirlash uchun bosing
+Click to edit title,Sarlavhani tahrirlash uchun bosing
+Click to load,Yuklash uchun bosing
+Click to set group dependency...,Guruh bog'liqligini o'rnatish uchun bosing...
+Click to set group...,Guruhni o'rnatish uchun bosing...
+Click to view,Ko'rish uchun bosing
+Click to view at-risk projects,Xavf ostidagi loyihalarni ko'rish uchun bosing
+Click to view critical projects,Muhim loyihalarni ko'rish uchun bosing
+Click to view healthy projects,Yaxshi holatdagi loyihalarni ko'rish uchun bosing
+Client,Mijoz
+Client already has a portal user: {0},Mijozning allaqachon portal foydalanuvchisi bor: {0}
+Client already has portal access,Mijoz allaqachon portalga kirish huquqiga ega
+Client has no portal user to revoke,Mijozning bekor qilinadigan portal foydalanuvchisi yo'q
+Client link removed from project {0},{0} loyihasidan mijoz bog'lanishi olib tashlandi
+Client Portal,Mijoz portali
+Client {0} deleted successfully,{0} mijoz muvaffaqiyatli o'chirildi
+Close,Yopish
+Close (Esc),Yopish (Esc)
+Comment,Izoh
+comment,izoh
+Comment added,Izoh qo'shildi
+Comment content is required,Izoh matni talab qilinadi
+Comment name is required,Izoh nomi talab qilinadi
+Comment not found,Izoh topilmadi
+Comment removed,Izoh olib tashlandi
+Comment {0} not found in task,Vazifada {0} izoh topilmadi
+Comments,Izohlar
+comments,izohlar
+Community Edition,Community Edition
+Company,Kompaniya
+Company name...,Kompaniya nomi...
+Complete,Yakunlash
+Completed,Yakunlangan
+completed,yakunlangan
+Completed Tasks,Yakunlangan vazifalar
+Compliance,Muvofiqlik
+Configure default values for new projects and tasks,Yangi loyihalar va vazifalar uchun boshlang'ich qiymatlarni sozlash
+Configure email notification settings,Elektron pochta bildirishnomasi sozlamalarini sozlash
+Confirm,Tasdiqlash
+Contact deleted,Kontakt o'chirildi
+Contact Details,Kontakt tafsilotlari
+Contact Information,Aloqa ma'lumotlari
+Contact name is required,Kontakt nomi talab qilinadi
+Contact Support,Yordam bilan bog'lanish
+Contact your project manager for more information.,Qo'shimcha ma'lumot uchun loyiha boshlig'ingiz bilan bog'laning.
+Contact:,Kontakt:
+Contacts,Kontaktlar
+Context,Kontekst
+Contractor,Pudratchi
+Cost estimate cannot be negative,Narx bahosi manfiy bo'lishi mumkin emas
+Cost Impact,Narxga ta'sir
+Cost Summary,Narx xulosasi
+Could not apply the template. Please try again.,Shablonni qo'llab bo'lmadi. Qaytadan urinib ko'ring.
+Could not attach file to project,Faylni loyihaga biriktirib bo'lmadi
+Could not change task priority,Vazifa muhimligini o'zgartirib bo'lmadi
+Could not change task status,Vazifa holatini o'zgartirib bo'lmadi
+Could not delete the project. Please try again.,Loyihani o'chirib bo'lmadi. Qaytadan urinib ko'ring.
+Could not delete the task. Please try again.,Vazifani o'chirib bo'lmadi. Qaytadan urinib ko'ring.
+Could not delete the template.,Shablonni o'chirib bo'lmadi.
+Could not duplicate the task. Please try again.,Vazifani nusxalab bo'lmadi. Qaytadan urinib ko'ring.
+Could not export the template.,Shablonni chiqarib bo'lmadi.
+Could not import the template. Please check the file format.,Shablonni yuklab bo'lmadi. Fayl formatini tekshiring.
+Could not link task to milestone,Vazifani bosqichga bog'lab bo'lmadi
+Could not load document details.,Hujjat tafsilotlarini yuklab bo'lmadi.
+Could not load task details,Vazifa tafsilotlarini yuklab bo'lmadi
+Could not promote checklist item to task.,Tekshiruv ro'yxati elementini vazifaga aylantirib bo'lmadi.
+Could not remove task from milestone,Vazifani bosqichdan olib tashlab bo'lmadi
+Could not save budget.,Byudjetni saqlab bo'lmadi.
+Could not save changes to the milestone,Bosqichga o'zgarishlarni saqlab bo'lmadi
+Could not save changes to the task,Vazifaga o'zgarishlarni saqlab bo'lmadi
+Could not save description.,Tavsifni saqlab bo'lmadi.
+Could not save end date.,Tugash sanasini saqlab bo'lmadi.
+Could not save milestone name.,Bosqich nomini saqlab bo'lmadi.
+Could not save start date.,Boshlanish sanasini saqlab bo'lmadi.
+Could not save the template. Please try again.,Shablonni saqlab bo'lmadi. Qaytadan urinib ko'ring.
+Could not save title.,Sarlavhani saqlab bo'lmadi.
+Could not update dependency mode.,Bog'liqlik rejimini yangilab bo'lmadi.
+Could not update milestone date,Bosqich sanasini yangilab bo'lmadi
+Could not update project status.,Loyiha holatini yangilab bo'lmadi.
+Could not update project type.,Loyiha turini yangilab bo'lmadi.
+Could not update setting.,Sozlamani yangilab bo'lmadi.
+Could not update task dates,Vazifa sanalarini yangilab bo'lmadi
+Could not update task status,Vazifa holatini yangilab bo'lmadi
+Could not update the template.,Shablonni yangilab bo'lmadi.
+Create a copy of this task,Ushbu vazifaning nusxasini yaratish
+Create Contact,Kontakt yaratish
+Create Event,Tadbir yaratish
+Create Milestone,Bosqich yaratish
+Create New Milestone,Yangi bosqich yaratish
+Create New Task,Yangi vazifa yaratish
+Create Project,Loyiha yaratish
+Create Task,Vazifa yaratish
+Create tasks and milestones from a template,Shablondan vazifalar va bosqichlar yaratish
+Create your first project to get started.,Boshlash uchun birinchi loyihangizni yarating.
+Create your first task to start tracking work on this project.,Ushbu loyihadagi ishni kuzatishni boshlash uchun birinchi vazifangizni yarating.
+Created,Yaratildi
+Creating...,Yaratilmoqda...
+Critical,Jiddiy
+Critical Path,Muhim yo'l
+"Currency used for budgets, costs, and billing rates","Byudjetlar, narxlar va hisob-kitob stavkalari uchun ishlatiladigan valyuta"
+Current,Joriy
+Current Assignments,Joriy topshiriqlar
+Current scheduled time:,Joriy rejalashtirilgan vaqt:
+Currently running version,Currently running version
+d lag,kun kechikish
+Daily Availability,Kunlik mavjudlik
+Daily Hours,Kunlik soatlar
+Danger Zone,Xavfli hudud
+Dark,Qorong'i
+Dashboard,Boshqaruv paneli
+Date,Sana
+Date changes on this task will show cascade impact here,Ushbu vazifadagi sana o'zgarishlari zanjir ta'sirini shu yerda ko'rsatadi
+Date cleared,Sana tozalandi
+Date of Joining,Qo'shilgan sana
+Date updated,Sana yangilandi
+Dates,Sanalar
+Dates cascaded,Sanalar zanjirlandi
+Dates will be relative to the project's start date.,Sanalar loyihaning boshlanish sanasiga nisbatan bo'ladi.
+Day,Kun
+day,kun
+days,kunlar
+Days before due date to send reminder,Eslatma yuborish uchun muddatdan oldingi kunlar
+Days Overdue,Kechikkan kunlar
+Days Remaining,Qolgan kunlar
+Deadline,Muddat
+Deadlines,Muddatlar
+Decision,Qaror
+Decline,Rad etish
+Declined,Rad etilgan
+Default Currency,Boshlang'ich valyuta
+Default hours per week for contact capacity planning,Kontakt sig'imini rejalashtirish uchun haftadagi boshlang'ich soatlar
+Default Priority,Boshlang'ich muhimlik
+Default Project Status,Boshlang'ich loyiha holati
+Default Task Status,Boshlang'ich vazifa holati
+Default task view,Boshlang'ich vazifa ko'rinishi
+Default Values,Boshlang'ich qiymatlar
+Default Weekly Capacity,Boshlang'ich haftalik sig'im
+Defaults,Boshlang'ich qiymatlar
+Defect Cost Impact,Nuqson narxiga ta'sir
+Defect name is required,Nuqson nomi talab qilinadi
+Defect Type,Nuqson turi
+Defect {0} not found,{0} nuqson topilmadi
+Defects,Nuqsonlar
+Defects & Issues,Nuqsonlar va muammolar
+Defects Resolved,Nuqsonlar bartaraf etildi
+Delayed,Kechiktirilgan
+Delete,O'chirish
+Delete Activity Data,Faoliyat ma'lumotlarini o'chirish
+Delete all read notifications?,Barcha o'qilgan bildirishnomalarni o'chirish kerakmi?
+Delete comment,Izohni o'chirish
+Delete Contact,Kontaktni o'chirish
+Delete Event,Tadbirni o'chirish
+Delete Event?,Tadbirni o'chirish kerakmi?
+Delete failed,O'chirish muvaffaqiyatsiz
+Delete file,Faylni o'chirish
+Delete item,Elementni o'chirish
+Delete note,Eslatmani o'chirish
+Delete Project,Loyihani o'chirish
+Delete Task,Vazifani o'chirish
+Delete this project,Ushbu loyihani o'chirish
+Deleted,O'chirildi
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Loyiha ""{0}"" o'chirildi ({1} vazifa, {2} bosqich)"
+Deletes notes and preferences. Source document is not affected.,Eslatmalar va sozlamalarni o'chiradi. Asl hujjatga ta'sir qilmaydi.
+Deleting...,O'chirilmoqda...
+Department,Bo'lim
+Dependencies,Bog'liqliklar
+dependencies,bog'liqliklar
+Dependencies are informational only,Bog'liqliklar faqat ma'lumot uchun
+dependency,bog'liqlik
+Dependency already exists,Bog'liqlik allaqachon mavjud
+Dependency Chain,Bog'liqlik zanjiri
+Dependency created,Bog'liqlik yaratildi
+Dependency mode updated,Bog'liqlik rejimi yangilandi
+Dependency name is required,Bog'liqlik nomi talab qilinadi
+Dependency task {0} not found,{0} bog'liq vazifa topilmadi
+Dependency {0} not found,{0} bog'liqlik topilmadi
+depends,bog'liq
+Depends on Group,Guruhga bog'liq
+Depends on task is required,Bog'liq vazifa talab qilinadi
+depends on...,bog'liq...
+Descending -- click to reverse,Kamayish tartibida -- teskari qilish uchun bosing
+Describe the defect in detail...,Nuqsonni batafsil tavsiflang...
+Description,Tavsif
+Description updated,Tavsif yangilandi
+Designation,Lavozim
+"Detailed description of the defect, location, and impact","Nuqsonning batafsil tavsifi, joylashuvi va ta'siri"
+Details,Tafsilotlar
+Discard timer,Taymerdan voz kechish
+Discussion,Muhokama
+Dismiss,Dismiss
+Display,Ko'rsatish
+Document,Hujjat
+Document attached to project,Hujjat loyihaga biriktirildi
+Document final decision and rationale,Yakuniy qaror va asosni hujjatlashtirish
+Documentation Review,Hujjatlarni ko'rib chiqish
+Documents,Hujjatlar
+Done,Bajarildi
+Download,Yuklab olish
+Drag to create dependency,Bog'liqlik yaratish uchun torting
+Dry Run,Sinov
+Dry Run Complete,Sinov yakunlandi
+Due Date,Muddat sanasi
+Due date,Muddat sanasi
+Due Date (Earliest),Muddat sanasi (eng yaqin)
+Due date cannot be before start date,Muddat sanasi boshlanish sanasidan oldin bo'lishi mumkin emas
+Due date is in the past,Muddat sanasi o'tib ketgan
+Due Date Reminders,Muddat eslatmalari
+Due Diligence,Tekshiruv
+Due Diligence Checklist,Tekshiruv ro'yxati
+Due This Week,Shu hafta muddati
+Due:,Muddat:
+Duplicate events are not allowed,Takroriy tadbirlar ruxsat etilmaydi
+Duplicate failed,Nusxalash muvaffaqiyatsiz
+Duplicate Task,Vazifani nusxalash
+Duration,Davomiylik
+Duration Summary,Davomiylik xulosasi
+Duration:,Davomiylik:
+e.g. Cracked wall finish in bathroom...,masalan: Hammomda devor qoplamasining yorilishi...
+"e.g. Electrical, Plumbing...","masalan: Elektr, Suv ta'minoti..."
+Edit,Tahrirlash
+Edit (E),Tahrirlash (E)
+Edit dependency,Bog'liqlikni tahrirlash
+Edit Event,Tadbirni tahrirlash
+Efficiency,Samaradorlik
+Either dependency_name or depends_on is required,dependency_name yoki depends_on talab qilinadi
+Email,Elektron pochta
+Email invitations to all attendees,Barcha ishtirokchilarga elektron pochta taklifnomalari
+Email is required to create portal user,Portal foydalanuvchisini yaratish uchun elektron pochta talab qilinadi
+Email notifications,Elektron pochta bildirishnomalari
+Employee,Xodim
+Employee DocType not available,Xodim DocType mavjud emas
+Employee not found,Xodim topilmadi
+Enable or disable optional features,Ixtiyoriy xususiyatlarni yoqish yoki o'chirish
+Enable Time Tracking,Vaqt kuzatuvini yoqish
+End,Tugash
+End Date,Tugash sanasi
+End date,Tugash sanasi
+End Date cannot be before Start Date,Tugash sanasi boshlanish sanasidan oldin bo'lishi mumkin emas
+End date cannot be before start date,Tugash sanasi boshlanish sanasidan oldin bo'lishi mumkin emas
+End date updated,Tugash sanasi yangilandi
+End time was before start time. Adjusted to 1 hour after start.,Tugash vaqti boshlanish vaqtidan oldin edi. Boshlanishdan 1 soat keyinga tuzatildi.
+End:,Tugash:
+Enter milestone name...,Bosqich nomini kiriting...
+Enter project name,Loyiha nomini kiriting
+Enter task title...,Vazifa sarlavhasini kiriting...
+Enter template name,Shablon nomini kiriting
+Enter your note... Use @name to mention someone,Eslatmangizni yozing... Birovni eslatish uchun @ism ishlating
+Error,Xatolik
+Error loading activity,Faoliyatni yuklashda xatolik
+Error loading contacts,Kontaktlarni yuklashda xatolik
+Error loading dashboard,Boshqaruv panelini yuklashda xatolik
+Error loading project,Loyihani yuklashda xatolik
+Error loading projects,Loyihalarni yuklashda xatolik
+Error loading settings,Sozlamalarni yuklashda xatolik
+Error loading tasks,Vazifalarni yuklashda xatolik
+Error loading templates,Shablonlarni yuklashda xatolik
+Est. Hours,Taxm. soatlar
+Estimated,Taxminiy
+Estimated Cost,Taxminiy narx
+Estimated Cost (€),Taxminiy narx (€)
+Estimated Hours,Taxminiy soatlar
+Estimated:,Taxminiy:
+Evaluate potential risks and concerns,Mumkin bo'lgan xavflar va tashvishlarni baholash
+Event,Tadbir
+Event is required for event context,Tadbir konteksti uchun tadbir talab qilinadi
+Event is required when tracking context is 'event',Kuzatuv konteksti 'tadbir' bo'lganda tadbir talab qilinadi
+Event Type,Tadbir turi
+Events,Tadbirlar
+Events not available. Please run: bench --site orga.localhost migrate,Tadbirlar mavjud emas. Iltimos ishga tushiring: bench --site orga.localhost migrate
+Events:,Tadbirlar:
+Expert,Mutaxassis
+Explain why you are proposing a different time...,Nima uchun boshqa vaqt taklif qilayotganingizni tushuntiring...
+Export,Chiqarish
+Export failed,Chiqarish muvaffaqiyatsiz
+Export JSON,JSON ga chiqarish
+Exported,Chiqarildi
+Exported to timesheet {0},{0} vaqt jadvaliga chiqarildi
+External,Tashqi
+Failed to add item,Element qo'shib bo'lmadi
+Failed to add note,Eslatma qo'shib bo'lmadi
+Failed to add skill,Ko'nikma qo'shib bo'lmadi
+Failed to apply cascade changes: {0},Zanjir o'zgarishlarini qo'llab bo'lmadi: {0}
+Failed to create defect,Nuqson yaratib bo'lmadi
+Failed to create dependency,Bog'liqlik yaratib bo'lmadi
+Failed to create event,Tadbir yaratib bo'lmadi
+Failed to create milestone,Bosqich yaratib bo'lmadi
+Failed to create project,Loyiha yaratib bo'lmadi
+Failed to create task,Vazifa yaratib bo'lmadi
+Failed to create time log,Vaqt yozuvi yaratib bo'lmadi
+Failed to delete,O'chirib bo'lmadi
+Failed to delete comment,Izohni o'chirib bo'lmadi
+Failed to delete contact,Kontaktni o'chirib bo'lmadi
+Failed to load,Yuklab bo'lmadi
+Failed to load activity,Faoliyatni yuklab bo'lmadi
+Failed to load assignments,Topshiriqlarni yuklab bo'lmadi
+Failed to load contact,Kontaktni yuklab bo'lmadi
+Failed to load dashboard data,Boshqaruv paneli ma'lumotlarini yuklab bo'lmadi
+Failed to load defects,Nuqsonlarni yuklab bo'lmadi
+Failed to load events,Tadbirlarni yuklab bo'lmadi
+Failed to load project,Loyihani yuklab bo'lmadi
+Failed to load projects,Loyihalarni yuklab bo'lmadi
+Failed to load report data,Hisobot ma'lumotlarini yuklab bo'lmadi
+Failed to load settings,Sozlamalarni yuklab bo'lmadi
+Failed to load tasks,Vazifalarni yuklab bo'lmadi
+Failed to move task,Vazifani ko'chirib bo'lmadi
+Failed to post comment,Izohni joylab bo'lmadi
+Failed to propose new time,Yangi vaqt taklif qilib bo'lmadi
+Failed to remove item,Elementni olib tashlab bo'lmadi
+Failed to remove skill,Ko'nikmani olib tashlab bo'lmadi
+Failed to reorder milestones: {0},Bosqichlarni qayta tartiblash muvaffaqiyatsiz: {0}
+Failed to reorder tasks: {0},Vazifalarni qayta tartiblash muvaffaqiyatsiz: {0}
+Failed to reschedule dependent tasks: {0},Bog'liq vazifalarni qayta rejalashtirish muvaffaqiyatsiz: {0}
+Failed to save,Saqlab bo'lmadi
+Failed to save preferences,Sozlamalarni saqlab bo'lmadi
+Failed to save settings,Sozlamalarni saqlab bo'lmadi
+Failed to submit request. Please try again.,So'rovni yuborib bo'lmadi. Qaytadan urinib ko'ring.
+Failed to update item,Elementni yangilab bo'lmadi
+Failed to update priority,Muhimlikni yangilab bo'lmadi
+Failed to update task,Vazifani yangilab bo'lmadi
+Failed to update tasks: {0},Vazifalarni yangilab bo'lmadi: {0}
+Failed to upload avatar,Rasmni yuklab bo'lmadi
+Feature,Xususiyat
+Features,Xususiyatlar
+FF (Finish-Finish),FF (Tugash-Tugash)
+FF - Finish-to-Finish,FF - Tugash-Tugashgacha
+Field has been updated,Maydon yangilandi
+Field name is required for 'Set Field Value' action,'Maydon qiymatini o'rnatish' harakati uchun maydon nomi talab qilinadi
+Field {0} is not a Link field,{0} maydoni Havola maydoni emas
+Field {0} not found in {1},{1} da {0} maydoni topilmadi
+File,Fayl
+file,fayl
+File does not belong to this task,Fayl ushbu vazifaga tegishli emas
+File name is required,Fayl nomi talab qilinadi
+File uploaded,Fayl yuklandi
+File {0} not found,{0} fayl topilmadi
+Files,Fayllar
+files,fayllar
+Filter,Filtr
+Final Decision,Yakuniy qaror
+Finance,Moliya
+Financial,Moliyaviy
+Finish-to-Finish,Tugash-Tugashgacha
+Finish-to-Start,Tugash-Boshlanishgacha
+Flag,Belgilash
+Flag for attention,E'tibor uchun belgilash
+Flagged,Belgilangan
+Focus Panel,Diqqat paneli
+Follows your system preference. Currently:,Tizim sozlamangizga amal qiladi. Hozirda:
+Frappe Project {0} not found,Frappe loyiha {0} topilmadi
+Frappe Projects Migration,Frappe Projects ko'chirish
+Frappe Projects module not available,Frappe Projects moduli mavjud emas
+Frappe Projects module not installed,Frappe Projects moduli o'rnatilmagan
+Frappe Projects sync is not enabled,Frappe Projects sinxronlash yoqilmagan
+Frappe Task DocType not found,Frappe Vazifa DocType topilmadi
+Frappe Task has no project,Frappe vazifasining loyihasi yo'q
+Frappe Task {0} not found,Frappe vazifa {0} topilmadi
+Fri,Juma
+From,Dan
+From Template,Shablondan
+FS (Finish-Start),FS (Tugash-Boshlanish)
+FS - Finish-to-Start (default),FS - Tugash-Boshlanishgacha (boshlang'ich)
+Full form view with audit trail,Tekshiruv izi bilan to'liq shakl ko'rinishi
+Full name,To'liq ism
+Gantt,Gantt
+Gantt Chart,Gantt jadvali
+Gantt View,Gantt ko'rinishi
+General Note,Umumiy eslatma
+Get started,Boshlash
+Go back,Orqaga qaytish
+Go Back,Go Back
+Group by,Guruhlash
+Group dependency removed,Guruh bog'liqligi olib tashlandi
+Group dependency set,Guruh bog'liqligi o'rnatildi
+Group removed,Guruh olib tashlandi
+Group updated,Guruh yangilandi
+Hammock task dates are auto-calculated and cannot be changed manually,Gamak vazifa sanalari avtomatik hisoblanadi va qo'lda o'zgartirib bo'lmaydi
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Savolingiz bormi yoki yordam kerakmi? Pastdagi shaklni to'ldiring va jamoamiz sizga javob beradi.
+Health,Salomatlik
+Healthy,Yaxshi holatda
+Hello {0},Salom {0}
+Here's what's happening with your projects today.,Bugun loyihalaringizda nima bo'layotganini ko'ring.
+Hide,Yashirish
+High,Yuqori
+History,Tarix
+Home,Bosh sahifa
+Hourly Cost,Soatlik narx
+Hours,Soatlar
+hours,soatlar
+Hours Logged,Yozilgan soatlar
+ID,ID
+Image must be smaller than 5 MB,Rasm 5 MB dan kichik bo'lishi kerak
+Import,Yuklash
+Import existing projects and tasks from Frappe Projects module,Mavjud loyihalar va vazifalarni Frappe Projects modulidan yuklash
+Import failed,Yuklash muvaffaqiyatsiz
+Import Template,Shablon yuklash
+Imported,Yuklandi
+in,da
+In Progress,Jarayonda
+In Review,Ko'rib chiqilmoqda
+In-app notifications,Ilova ichidagi bildirishnomalar
+Inactive,Faol emas
+Initial Review,Dastlabki ko'rib chiqish
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Barcha vazifalarni ko'rish uchun ruxsat yetarli emas
+Intermediate,O'rta
+Internal,Ichki
+Invalid DocType,Noto'g'ri DocType
+Invalid DocType for import,Yuklash uchun noto'g'ri DocType
+Invalid item type: {0},Noto'g'ri element turi: {0}
+Invalid JSON data,Noto'g'ri JSON ma'lumotlar
+Invalid note type. Must be one of: {0},Noto'g'ri eslatma turi. Quyidagilardan biri bo'lishi kerak: {0}
+Invalid project reference,Noto'g'ri loyiha havolasi
+Invalid reaction type. Must be one of: {0},Noto'g'ri munosabat turi. Quyidagilardan biri bo'lishi kerak: {0}
+Invalid RSVP status,Noto'g'ri RSVP holati
+Invalid status. Must be one of: {0},Noto'g'ri holat. Quyidagilardan biri bo'lishi kerak: {0}
+Invalid status: {0},Noto'g'ri holat: {0}
+Invalid status: {0}. Must be one of: {1},Noto'g'ri holat: {0}. Quyidagilardan biri bo'lishi kerak: {1}
+Invalid tracking context: {0},Noto'g'ri kuzatuv konteksti: {0}
+Invalid visibility. Must be one of: {0},Noto'g'ri ko'rinish. Quyidagilardan biri bo'lishi kerak: {0}
+Invitation: {0} - {1} at {2},Taklif: {0} - {1} da {2}
+Invite People,Odamlarni taklif qilish
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Element qo'shildi
+Item ID is required,Element IDsi talab qilinadi
+Item removed,Element olib tashlandi
+Item type is required,Element turi talab qilinadi
+Item {0} not found,{0} element topilmadi
+Job title or role,Lavozim nomi yoki rol
+Join Meeting,Uchrashuvga qo'shilish
+Just now,Hozir
+just now,hozir
+Kanban,Kanban
+Kanban Board,Kanban taxtasi
+Kanban View,Kanban ko'rinishi
+Keyboard Shortcuts,Klaviatura tugmalari
+Keyboard shortcuts (?),Klaviatura tugmalari (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Oxirgi yangilanish
+Last updated:,Oxirgi yangilanish:
+Last Week,O'tgan hafta
+Latest Version,Latest Version
+Light,Yorug'
+Link failed,Bog'lash muvaffaqiyatsiz
+Link Task,Vazifani bog'lash
+Linked,Bog'langan
+Linked employee not found,Bog'langan xodim topilmadi
+Linked Tasks,Bog'langan vazifalar
+List,Ro'yxat
+List View,Ro'yxat ko'rinishi
+Load failed,Yuklash muvaffaqiyatsiz
+Load More,Ko'proq yuklash
+Load more comments,Ko'proq izohlarni yuklash
+Loading activity...,Faoliyat yuklanmoqda...
+Loading changes...,O'zgarishlar yuklanmoqda...
+Loading checklist...,Tekshiruv ro'yxati yuklanmoqda...
+Loading comments...,Izohlar yuklanmoqda...
+Loading contact...,Kontakt yuklanmoqda...
+Loading contacts...,Kontaktlar yuklanmoqda...
+Loading dependencies...,Bog'liqliklar yuklanmoqda...
+Loading details...,Tafsilotlar yuklanmoqda...
+Loading discussion...,Muhokama yuklanmoqda...
+Loading events...,Tadbirlar yuklanmoqda...
+Loading files...,Fayllar yuklanmoqda...
+Loading notes...,Eslatmalar yuklanmoqda...
+Loading preferences...,Sozlamalar yuklanmoqda...
+Loading project...,Loyiha yuklanmoqda...
+Loading projects...,Loyihalar yuklanmoqda...
+Loading replies...,Javoblar yuklanmoqda...
+Loading report data...,Hisobot ma'lumotlari yuklanmoqda...
+Loading settings...,Sozlamalar yuklanmoqda...
+Loading task...,Vazifa yuklanmoqda...
+Loading templates...,Shablonlar yuklanmoqda...
+Loading time logs...,Vaqt yozuvlari yuklanmoqda...
+Loading your portal...,Portalingiz yuklanmoqda...
+Loading...,Yuklanmoqda...
+Location,Joylashuv
+Log Time,Vaqt yozish
+Logout,Chiqish
+Low,Past
+Make Offer,Taklif berish
+Manager,Boshqaruvchi
+Manual Entry,Qo'lda kiritish
+Margin,Ustama
+Mark all as read,Hammasini o'qilgan deb belgilash
+Mark all read,Hammasini o'qilgan belgilash
+Mark as read,O'qilgan deb belgilash
+Mark as unread,O'qilmagan deb belgilash
+Mark read,O'qilgan belgilash
+Marking...,Belgilanmoqda...
+Material,Material
+Maybe,Balki
+Medium,O'rta
+Meeting,Uchrashuv
+Meeting Link,Uchrashuv havolasi
+Meeting title,Uchrashuv sarlavhasi
+Meeting URL,Uchrashuv URLi
+Meetings,Uchrashuvlar
+Mention,Eslatish
+Message,Xabar
+Message is required,Xabar talab qilinadi
+Message is required for '{0}' action,'{0}' harakati uchun xabar talab qilinadi
+Migrate,Ko'chirish
+Migration Complete,Ko'chirish yakunlandi
+Migration ID:,Ko'chirish IDsi:
+Migration log not found: {0},Ko'chirish jurnali topilmadi: {0}
+Milestone,Bosqich
+milestone,bosqich
+Milestone created,Bosqich yaratildi
+Milestone description has been saved.,Bosqich tavsifi saqlandi.
+Milestone ID is required,Bosqich IDsi talab qilinadi
+Milestone marked as Missed (past due date),Bosqich o'tkazib yuborilgan deb belgilandi (muddati o'tgan)
+Milestone moved,Bosqich ko'chirildi
+Milestone Name,Bosqich nomi
+Milestone name has been saved.,Bosqich nomi saqlandi.
+Milestone name is required,Bosqich nomi talab qilinadi
+Milestone updated,Bosqich yangilandi
+Milestone {0} not found,{0} bosqich topilmadi
+Milestone {0} not in project {1},{1} loyihasida {0} bosqich topilmadi
+Milestones,Bosqichlar
+milestones,bosqichlar
+Milestones:,Bosqichlar:
+Minutes,Daqiqalar
+Missed,O'tkazib yuborilgan
+Mixed,Aralash
+Mobile,Mobil
+Moderate,O'rtacha
+Modified,O'zgartirilgan
+"Modify details, time, or attendees","Tafsilotlar, vaqt yoki ishtirokchilarni o'zgartirish"
+Mon,Dushanba
+Month,Oy
+Move failed,Ko'chirish muvaffaqiyatsiz
+Must be a positive number,Musbat son bo'lishi kerak
+Must finish before this finishes,Bu tugashidan oldin tugashi kerak
+Must finish before this starts,Bu boshlanishidan oldin tugashi kerak
+Must start before this finishes,Bu tugashidan oldin boshlanishi kerak
+Must start before this starts,Bu boshlanishidan oldin boshlanishi kerak
+My Assignments,Mening topshiriqlarim
+My Projects,Mening loyihalarim
+My Schedule,Mening jadvalim
+My Tasks,Mening vazifalarim
+N/A,Mavjud emas
+Name,Ism
+Name (A-Z),Ism (A-Z)
+Name (Z-A),Ism (Z-A)
+Name cannot exceed 255 characters,Ism 255 belgidan oshmasligi kerak
+Need help?,Yordam kerakmi?
+Needs Attention,E'tibor talab qiladi
+Never,Never
+new activities,yangi faoliyatlar
+New Activity,Yangi faoliyat
+New activity,Yangi faoliyat
+New Event,Yangi tadbir
+New index is required,Yangi tartib raqami talab qilinadi
+New Project,Yangi loyiha
+New tasks will auto-trail by default.,Yangi vazifalar boshlang'ich holatda avtomatik siljiydi.
+Newest First,Eng yangilari birinchi
+Next,Keyingi
+Next 14 days,Keyingi 14 kun
+Next 30 days,Keyingi 30 kun
+Next 60 days,Keyingi 60 kun
+Next 7 days,Keyingi 7 kun
+Next 90 days,Keyingi 90 kun
+Next Week,Keyingi hafta
+Next:,Keyingi:
+No,Yo'q
+No active assignments,Faol topshiriqlar yo'q
+No active projects,Faol loyihalar yo'q
+No active timer found,Faol taymer topilmadi
+No activity selected,Faoliyat tanlanmagan
+No assignments found,Topshiriqlar topilmadi
+No attendees,Ishtirokchilar yo'q
+no change,o'zgarish yo'q
+No changes for this field.,Ushbu maydon uchun o'zgarishlar yo'q.
+No changes recorded for this activity.,Ushbu faoliyat uchun o'zgarishlar yozilmagan.
+No checklist items yet,Tekshiruv ro'yxati elementlari hali yo'q
+No checklist items yet.,Tekshiruv ro'yxati elementlari hali yo'q.
+No comments yet,Izohlar hali yo'q
+No comments yet.,Izohlar hali yo'q.
+No contacts available,Mavjud kontaktlar yo'q
+No content for this tab,Ushbu yorliq uchun tarkib yo'q
+No data available,Ma'lumotlar mavjud emas
+No data available for the selected filters,Tanlangan filtrlar uchun ma'lumotlar mavjud emas
+No data to export,Chiqarish uchun ma'lumotlar yo'q
+No dates set,Sanalar belgilanmagan
+No defects reported,Nuqsonlar haqida xabar berilmagan
+No dependencies defined,Bog'liqliklar aniqlanmagan
+No description,Tavsif yo'q
+No discussion yet.,Hali muhokama yo'q.
+No documents attached,Biriktirilgan hujjatlar yo'q
+No due date,Muddat sanasi yo'q
+No employee linked to this resource,Ushbu resursga bog'langan xodim yo'q
+No ERPNext employee linked to resource,Resursga bog'langan ERPNext xodimi yo'q
+No events found,Tadbirlar topilmadi
+No files attached yet.,Hali biriktirilgan fayllar yo'q.
+No Frappe Project linked,Bog'langan Frappe loyihasi yo'q
+No Grouping,Guruhlash yo'q
+No items,Elementlar yo'q
+No matching tasks,Mos vazifalar yo'q
+No matching tasks found,Mos vazifalar topilmadi
+No migration history,Ko'chirish tarixi yo'q
+No Milestone,Bosqich yo'q
+No milestones,Bosqichlar yo'q
+No milestones defined for this project.,Ushbu loyiha uchun bosqichlar aniqlanmagan.
+No notes yet.,Eslatmalar hali yo'q.
+No notes yet. Add a due diligence note to track progress.,Eslatmalar hali yo'q. Jarayonni kuzatish uchun tekshiruv eslatmasini qo'shing.
+No notifications,Bildirishnomalar yo'q
+No Orga Project linked to Frappe Project {0},Frappe loyihasi {0} ga bog'langan Orga loyihasi yo'q
+No overdue tasks,Muddati o'tgan vazifalar yo'q
+No pending cascade changes,Kutilayotgan zanjir o'zgarishlari yo'q
+No predecessors - this task can start independently,Oldingi vazifalar yo'q - bu vazifa mustaqil boshlanishi mumkin
+No project,Loyiha yo'q
+No projects found,Loyihalar topilmadi
+No Projects Yet,Hali loyihalar yo'q
+No recent activity,Yaqinda faoliyat yo'q
+No related documents,Bog'liq hujjatlar yo'q
+No resolved threads.,Hal qilingan muhokamalar yo'q.
+No resources found,Resurslar topilmadi
+No results found,Natijalar topilmadi
+No skills listed,Ro'yxatdagi ko'nikmalar yo'q
+No skills recorded yet,Hali ko'nikmalar yozilmagan
+No successors - no tasks are waiting for this one,Keyingi vazifalar yo'q - hech qaysi vazifa buni kutmayapti
+No task selected,Vazifa tanlanmagan
+No tasks assigned to you,Sizga topshirilgan vazifalar yo'q
+No tasks available to add,Qo'shish uchun vazifalar mavjud emas
+No tasks found,Vazifalar topilmadi
+No tasks linked to this milestone,Ushbu bosqichga bog'langan vazifalar yo'q
+No tasks with dates to display,Ko'rsatish uchun sanali vazifalar yo'q
+No tasks yet,Hali vazifalar yo'q
+No team members,Jamoa a'zolari yo'q
+No template,Shablon yo'q
+No templates yet,Hali shablonlar yo'q
+No time data found,Vaqt ma'lumotlari topilmadi
+No time logged today,Bugun vaqt yozilmagan
+No time logged yet,Hali vaqt yozilmagan
+No time logs for this period,Ushbu davr uchun vaqt yozuvlari yo'q
+No time logs found,Vaqt yozuvlari topilmadi
+No unread notifications,O'qilmagan bildirishnomalar yo'q
+No update information available yet.,No update information available yet.
+None,Yo'q
+Not found,Topilmadi
+Not permitted,Ruxsat etilmagan
+Not permitted to access this project,Ushbu loyihaga kirish ruxsat etilmagan
+Not permitted to access this task,Ushbu vazifaga kirish ruxsat etilmagan
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Ushbu hujjatga izoh yozish ruxsat etilmagan
+Not permitted to create clients,Mijoz yaratish ruxsat etilmagan
+Not permitted to delete this client,Ushbu mijozni o'chirish ruxsat etilmagan
+Not permitted to delete this defect,Ushbu nuqsonni o'chirish ruxsat etilmagan
+Not permitted to delete this note,Ushbu eslatmani o'chirish ruxsat etilmagan
+Not permitted to delete this project,Ushbu loyihani o'chirish ruxsat etilmagan
+Not permitted to delete this task,Ushbu vazifani o'chirish ruxsat etilmagan
+Not permitted to delete this time log,Ushbu vaqt yozuvini o'chirish ruxsat etilmagan
+Not permitted to invite clients,Mijozlarni taklif qilish ruxsat etilmagan
+Not permitted to modify client access,Mijoz kirishini o'zgartirish ruxsat etilmagan
+Not permitted to modify this project,Ushbu loyihani o'zgartirish ruxsat etilmagan
+Not permitted to update settings,Sozlamalarni yangilash ruxsat etilmagan
+Not permitted to update this client,Ushbu mijozni yangilash ruxsat etilmagan
+Not permitted to view this client,Ushbu mijozni ko'rish ruxsat etilmagan
+not sent,yuborilmagan
+Not set,Belgilanmagan
+Not specified,Ko'rsatilmagan
+Note,Eslatma
+Note (optional),Eslatma (ixtiyoriy)
+Note Content,Eslatma matni
+Note content is required,Eslatma matni talab qilinadi
+Note name is required,Eslatma nomi talab qilinadi
+Note not found,Eslatma topilmadi
+Note Type,Eslatma turi
+Notes,Eslatmalar
+Notification,Bildirishnoma
+Notification not found,Bildirishnoma topilmadi
+Notifications,Bildirishnomalar
+Off Track,Yo'ldan chiqdi
+Offer,Taklif
+Offer Prepared,Taklif tayyorlandi
+Oldest First,Eng eskilari birinchi
+On Hold,Kutilmoqda
+On Leave,Ta'tilda
+On Track,Yo'lda
+On-Time Rate,O'z vaqtida bajarilish darajasi
+Only administrators can delete activities,Faqat boshqaruvchilar faoliyatlarni o'chira oladi
+Only the comment author or administrators can delete comments,Faqat izoh muallifi yoki boshqaruvchilar izohlarni o'chira oladi
+Only you and admins,Faqat siz va boshqaruvchilar
+Open,Ochiq
+Open in Desk,Deskda ochish
+Open Task Log,Vazifa jurnalini ochish
+Open Tasks,Ochiq vazifalar
+Optional,Ixtiyoriy
+optional,ixtiyoriy
+Or email us directly at,Yoki bizga to'g'ridan-to'g'ri elektron pochta yozing
+Orga Project {0} from Frappe Projects,Frappe Projects dan Orga loyiha {0}
+Orga Task {0} from Frappe,Frappe dan Orga vazifa {0}
+Organizer,Tashkilotchi
+Other,Boshqa
+Over Budget,Byudjetdan oshdi
+Overall Progress,Umumiy jarayon
+Overall Utilization,Umumiy foydalanish
+Overallocated,Ortiqcha ajratilgan
+Overdue,Muddati o'tgan
+overdue,muddati o'tgan
+Overdue Tasks,Muddati o'tgan vazifalar
+Overview,Umumiy ko'rinish
+Owner,Egasi
+Page Not Found,Sahifa topilmadi
+Parent,Asosiy
+Parent comment must belong to the same document,Asosiy izoh xuddi shu hujjatga tegishli bo'lishi kerak
+Parent comment not found,Asosiy izoh topilmadi
+Parent project not synced to Frappe yet,Asosiy loyiha hali Frappe bilan sinxronlanmagan
+Parent project sync not enabled,Asosiy loyiha sinxronlash yoqilmagan
+Partner,Hamkor
+Pending,Kutilmoqda
+per page,har sahifada
+Perform initial assessment and background check,Dastlabki baholash va tekshiruv o'tkazish
+Permanently remove this event,Ushbu tadbirni butunlay o'chirish
+Permanently remove this task,Ushbu vazifani butunlay o'chirish
+Phone,Telefon
+Pin,Mahkamlash
+Pin Activity,Faoliyatni mahkamlash
+Pin to top,Tepaga mahkamlash
+Pinned,Mahkamlangan
+Planned budget for this task,Ushbu vazifa uchun rejalashtirilgan byudjet
+Planning,Rejalashtirish
+Please describe your question or issue in detail...,Savolingiz yoki muammoingizni batafsil tavsiflang...
+Please login to access Orga,Orga ga kirish uchun tizimga kiring
+Please login to access the client portal,Mijoz portaliga kirish uchun tizimga kiring
+Please respond to this invitation in Orga,Ushbu taklifga Orga da javob bering
+Please select an image file,Rasm faylini tanlang
+Please try again,Qaytadan urinib ko'ring
+Please type,Yozing
+Portal,Portal
+Portal access revoked for {0},{0} uchun portal kirishi bekor qilindi
+Portal user created successfully. Welcome email {0},Portal foydalanuvchisi muvaffaqiyatli yaratildi. Xush kelibsiz elektron pochta {0}
+Post,Joylash
+Powered by,Tomonidan qo'llab-quvvatlanadi
+Powered by Tonic,Tonic tomonidan qo'llab-quvvatlanadi
+Predecessors (Blocked By),Oldingi vazifalar (bloklangan)
+Preferences,Sozlamalar
+Preferences saved successfully,Sozlamalar muvaffaqiyatli saqlandi
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)","Avtomatik loyiha kodlari uchun prefiks (masalan, ORG-2026-0001)"
+Prepare and document offer terms,Taklif shartlarini tayyorlash va hujjatlashtirish
+Press,Bosing
+Preview,Oldindan ko'rish
+Preview cascade before applying,Qo'llashdan oldin zanjirni ko'rish
+Previous,Oldingi
+Priority,Muhimlik
+Priority assigned to new tasks,Yangi vazifalarga tayinlangan muhimlik
+Priority updated,Muhimlik yangilandi
+Proficiency,Malaka
+Profile,Profil
+Progress,Jarayon
+Progress (High-Low),Jarayon (yuqoridan-pastga)
+Progress (Low-High),Jarayon (pastdan-yuqoriga)
+Progress Overview,Jarayon umumiy ko'rinishi
+Progress updated,Jarayon yangilandi
+Project,Loyiha
+Project budget has been saved.,Loyiha byudjeti saqlandi.
+Project code (e.g. ORG-2026-0001),Loyiha kodi (masalan ORG-2026-0001)
+Project Code Prefix,Loyiha kodi prefiksi
+Project created,Loyiha yaratildi
+Project deleted,Loyiha o'chirildi
+Project description has been saved.,Loyiha tavsifi saqlandi.
+Project Details,Loyiha tafsilotlari
+Project end date has been saved.,Loyiha tugash sanasi saqlandi.
+Project Files,Loyiha fayllari
+Project has no linked client,Loyihaga bog'langan mijoz yo'q
+Project Health,Loyiha salomatligi
+Project Info,Loyiha haqida
+Project is required,Loyiha talab qilinadi
+Project is required for project context,Loyiha konteksti uchun loyiha talab qilinadi
+Project is required when tracking context is 'project',Kuzatuv konteksti 'loyiha' bo'lganda loyiha talab qilinadi
+Project Manager,Loyiha boshlig'i
+Project Name,Loyiha nomi
+Project name and template name are required,Loyiha nomi va shablon nomi talab qilinadi
+Project name is required,Loyiha nomi talab qilinadi
+Project not found,Loyiha topilmadi
+Project not found or you do not have access,Loyiha topilmadi yoki kirish ruxsatingiz yo'q
+Project settings,Loyiha sozlamalari
+Project start date has been saved.,Loyiha boshlanish sanasi saqlandi.
+Project title has been saved.,Loyiha sarlavhasi saqlandi.
+Project Type,Loyiha turi
+Project updated,Loyiha yangilandi
+Project {0} linked to client {1},{0} loyiha {1} mijozga bog'landi
+Project {0} not found,{0} loyiha topilmadi
+Project {0} to Frappe Projects,{0} loyiha Frappe Projects ga
+Project:,Loyiha:
+Projects,Loyihalar
+projects,loyihalar
+Projects created:,Yaratilgan loyihalar:
+Projects Overview,Loyihalar umumiy ko'rinishi
+Projects skipped:,O'tkazib yuborilgan loyihalar:
+Projects updated:,Yangilangan loyihalar:
+Promote failed,Ko'tarish muvaffaqiyatsiz
+Promote to task,Vazifaga aylantirish
+Promoted to task,Vazifaga aylantirildi
+Propose,Taklif qilish
+Propose New Time,Yangi vaqt taklif qilish
+Propose Time,Vaqt taklif qilish
+Proposed End,Taklif etilgan tugash
+Proposed Start,Taklif etilgan boshlanish
+Public,Hammaga ochiq
+Quick Action,Tez harakat
+Quick Actions,Tez harakatlar
+Quick Stats,Tez ko'rsatkichlar
+Rates,Stavkalar
+Receive notifications via email,Elektron pochta orqali bildirishnomalar olish
+Receive notifications within the application,Ilova ichida bildirishnomalar olish
+Recent Activity,Yaqinda faoliyat
+Recipient {0} is not a valid user,{0} qabul qiluvchi haqiqiy foydalanuvchi emas
+Reference,Havola
+Refresh,Yangilash
+Related,Bog'liq
+Related Company (optional),Bog'liq kompaniya (ixtiyoriy)
+Related Documents,Bog'liq hujjatlar
+Related Project,Bog'liq loyiha
+Remaining,Qolgan
+Reminder,Eslatma
+Reminder Lead Time,Eslatma oldindan vaqti
+Reminder: {0} - {1} at {2},Eslatma: {0} - {1} da {2}
+Remove,Olib tashlash
+Remove dependency,Bog'liqlikni olib tashlash
+Remove dependency on,Bog'liqlikni olib tashlash
+Remove from group,Guruhdan olib tashlash
+Remove group dependency,Guruh bog'liqligini olib tashlash
+Remove skill,Ko'nikmani olib tashlash
+Reopen,Qayta ochish
+Reopen thread,Muhokamani qayta ochish
+reopened,qayta ochildi
+replies,javoblar
+Reply,Javob berish
+reply,javob
+Replying to,Javob berilmoqda
+Replying to comment,Izohga javob berilmoqda
+Report Defect,Nuqson haqida xabar berish
+Reported Date,Xabar berilgan sana
+Reports,Hisobotlar
+Reports To,Hisobot beradi
+Request Submitted!,So'rov yuborildi!
+Required,Talab qilinadi
+required,talab qilinadi
+Research,Tadqiqot
+Reset to Defaults,Boshlang'ich qiymatlarga qaytarish
+Resolve,Hal qilish
+Resolve thread,Muhokamani hal qilish
+Resolved,Hal qilindi
+Resolved date cannot be before reported date,Hal qilingan sana xabar berilgan sanadan oldin bo'lishi mumkin emas
+Resource,Resurs
+Resource and skill name are required,Resurs va ko'nikma nomi talab qilinadi
+Resource is already an attendee,Resurs allaqachon ishtirokchi
+Resource name is required,Resurs nomi talab qilinadi
+Resource not found,Resurs topilmadi
+Resource synced from employee {0},{0} xodimidan sinxronlangan resurs
+Resource {0} is already assigned to this task ({1}),{0} resurs allaqachon ushbu vazifaga ({1}) tayinlangan
+Resource {0} not found,{0} resurs topilmadi
+Resources,Kontaktlar
+Retry,Qayta urinish
+Review,Ko'rib chiqish
+Review all relevant documents and contracts,Barcha tegishli hujjatlar va shartnomalarni ko'rib chiqish
+Reviews,Ko'rib chiqishlar
+Risk Assessment,Xavfni baholash
+Rollback,Qaytarish
+Rolled back,Qaytarildi
+Room or address,Xona yoki manzil
+RSVP,RSVP
+Safety,Xavfsizlik
+Sat,Shanba
+Save,Saqlash
+"Save a project as a template, or import one from a JSON file.",Loyihani shablon sifatida saqlang yoki JSON faylidan yuklab oling.
+Save as Template,Shablon sifatida saqlash
+Save Changes,O'zgarishlarni saqlash
+Save failed,Saqlash muvaffaqiyatsiz
+Save Preferences,Sozlamalarni saqlash
+Save Template,Shablonni saqlash
+Saving...,Saqlanmoqda...
+Schedule,Jadval
+Schedule type is required for scheduled triggers,Rejalashtirilgan ishga tushirgichlar uchun jadval turi talab qilinadi
+Scheduled,Rejalashtirilgan
+Search,Qidirish
+"Search by name, email, or skill...","Ism, elektron pochta yoki ko'nikma bo'yicha qidirish..."
+Search for a project...,Loyiha qidirish...
+Search for a task...,Vazifa qidirish...
+Search for an event...,Tadbir qidirish...
+Search for people to invite...,Taklif qilish uchun odamlarni qidirish...
+Search tasks to link...,Bog'lash uchun vazifalarni qidirish...
+Search tasks...,Vazifalarni qidirish...
+Search...,Qidirish...
+Searching...,Qidirilmoqda...
+Seen,Ko'rilgan
+Select a project if your request is related to a specific project.,So'rovingiz muayyan loyihaga tegishli bo'lsa loyiha tanlang.
+Select a project...,Loyiha tanlang...
+Select a task from the Gantt chart to view and manage its details.,Tafsilotlarini ko'rish va boshqarish uchun Gantt jadvalidan vazifa tanlang.
+Select a task from the list or Kanban board to view and manage its details.,Tafsilotlarini ko'rish va boshqarish uchun ro'yxat yoki Kanban taxtasidan vazifa tanlang.
+Select a template...,Shablon tanlang...
+Select priority...,Muhimlik tanlang...
+Select status...,Holat tanlang...
+Select task...,Vazifa tanlang...
+Select type...,Tur tanlang...
+Selection,Tanlash
+Send,Yuborish
+Send comment,Izohni yuborish
+Send email invitations to attendees,Ishtirokchilarga elektron pochta taklifnomalari yuborish
+Send Invitations,Taklifnomalar yuborish
+Send notification when a task is assigned to a user,Vazifa foydalanuvchiga topshirilganda bildirishnoma yuborish
+Send notification when task status changes,Vazifa holati o'zgarganda bildirishnoma yuborish
+Send reminder before task due date,Vazifa muddat sanasidan oldin eslatma yuborish
+sent,yuborildi
+Set rate,Stavkani belgilash
+Settings,Sozlamalar
+Settings saved successfully,Sozlamalar muvaffaqiyatli saqlandi
+Severity,Jiddiylik
+SF (Start-Finish),SF (Boshlanish-Tugash)
+SF - Start-to-Finish,SF - Boshlanish-Tugashgacha
+Show,Ko'rsatish
+Show all,Hammasini ko'rsatish
+Show all changes,Barcha o'zgarishlarni ko'rsatish
+Show Archived,Arxivlanganlarni ko'rsatish
+Show full diff,To'liq farqni ko'rsatish
+Show less,Kamroq ko'rsatish
+Show more,Ko'proq ko'rsatish
+Skill added,Ko'nikma qo'shildi
+Skill is required,Ko'nikma talab qilinadi
+Skill Name,Ko'nikma nomi
+Skill removed,Ko'nikma olib tashlandi
+Skill {0} already exists for this resource,{0} ko'nikma ushbu resursda allaqachon mavjud
+Skills,Ko'nikmalar
+Skills & Competencies,Ko'nikmalar va malakalar
+Skip already migrated projects,Allaqachon ko'chirilgan loyihalarni o'tkazib yuborish
+Sort by,Tartiblash
+Sort: Due Date,Tartiblash: Muddat sanasi
+Sort: Priority,Tartiblash: Muhimlik
+Sort: Project,Tartiblash: Loyiha
+Sort: Status,Tartiblash: Holat
+Sort: Task,Tartiblash: Vazifa
+Source Code,Manba kodi
+Spent,Sarflangan
+Spent:,Sarflangan:
+SS (Start-Start),SS (Boshlanish-Boshlanish)
+SS - Start-to-Start,SS - Boshlanish-Boshlanishgacha
+Standalone,Mustaqil
+Start,Boshlanish
+Start a discussion below,Pastda muhokamani boshlang
+Start Date,Boshlanish sanasi
+Start date,Boshlanish sanasi
+Start Date (Earliest),Boshlanish sanasi (eng yaqin)
+Start date updated,Boshlanish sanasi yangilandi
+Start date/time is required,Boshlanish sanasi/vaqti talab qilinadi
+Start Migration,Ko'chirishni boshlash
+Start the conversation below.,Pastda suhbatni boshlang.
+Start Timer,Taymerni boshlash
+Start typing to search...,Qidirish uchun yozishni boshlang...
+Start-to-Finish,Boshlanish-Tugashgacha
+Start-to-Start,Boshlanish-Boshlanishgacha
+Start:,Boshlanish:
+Statistics reset,Statistika qaytarildi
+Status,Holat
+Status assigned to new projects,Yangi loyihalarga tayinlangan holat
+Status assigned to new tasks,Yangi vazifalarga tayinlangan holat
+Status Changes,Holat o'zgarishlari
+Status updated,Holat yangilandi
+Status:,Holat:
+Stop,To'xtatish
+Stop & Save,To'xtatish va saqlash
+Stop Timer,Taymerni to'xtatish
+Stops current timer and starts for this event,Joriy taymerni to'xtatadi va ushbu tadbir uchun boshlaydi
+Stops current timer and starts for this task,Joriy taymerni to'xtatadi va ushbu vazifa uchun boshlaydi
+Subject,Mavzu
+Subject cannot exceed 255 characters,Mavzu 255 belgidan oshmasligi kerak
+Subject is required,Mavzu talab qilinadi
+Submit,Yuborish
+Submit Another Request,Yana bir so'rov yuborish
+Submit Request,So'rov yuborish
+Submitting...,Yuborilmoqda...
+Successfully saved,Muvaffaqiyatli saqlandi
+Successors (Blocking),Keyingi vazifalar (bloklovchi)
+Sun,Yakshanba
+Supplier,Yetkazib beruvchi
+Support,Yordam
+Switch to this event,Ushbu tadbirga o'tish
+Switch to this task,Ushbu vazifaga o'tish
+Sync direction is set to Frappe to Orga only,Sinxronlash yo'nalishi faqat Frappe dan Orga ga
+Sync direction is set to Orga to Frappe only,Sinxronlash yo'nalishi faqat Orga dan Frappe ga
+Sync not enabled for this project,Ushbu loyiha uchun sinxronlash yoqilmagan
+System,Tizim
+Table,Jadval
+Take ownership of this task,Ushbu vazifani o'z zimmasiga olish
+Target Date,Maqsad sanasi
+Target End,Maqsad tugashi
+Target Project,Maqsad loyiha
+Target user is required for '{0}' action,'{0}' harakati uchun maqsad foydalanuvchi talab qilinadi
+Task,Vazifa
+task,vazifa
+Task '{0}' is due on {1}.,'{0}' vazifaning muddati {1}.
+Task and resource are required,Vazifa va resurs talab qilinadi
+Task Assignment,Vazifa topshirig'i
+Task cannot be its own parent,Vazifa o'zining asosiy vazifasi bo'lishi mumkin emas
+Task cannot depend on itself,Vazifa o'ziga bog'liq bo'lishi mumkin emas
+Task cannot depend on the group it belongs to,Vazifa o'zi tegishli guruhga bog'liq bo'lishi mumkin emas
+Task created,Vazifa yaratildi
+Task deleted,Vazifa o'chirildi
+Task description has been saved.,Vazifa tavsifi saqlandi.
+Task Details,Vazifa tafsilotlari
+Task due in {0} days: {1},{0} kunda muddati tugaydigan vazifa: {1}
+Task due today: {0},Bugun muddati tugaydigan vazifa: {0}
+Task due tomorrow: {0},Ertaga muddati tugaydigan vazifa: {0}
+Task duplicated,Vazifa nusxalandi
+Task Group,Vazifa guruhi
+Task ID is required,Vazifa IDsi talab qilinadi
+Task is blocked by incomplete dependencies,Vazifa tugallanmagan bog'liqliklar tomonidan bloklangan
+Task is cancelled,Vazifa bekor qilindi
+Task is completed,Vazifa yakunlandi
+Task is no longer blocked by a group,Vazifa endi guruh tomonidan bloklanmagan
+Task is required for task context,Vazifa konteksti uchun vazifa talab qilinadi
+Task is required when tracking context is 'task',Kuzatuv konteksti 'vazifa' bo'lganda vazifa talab qilinadi
+Task linked,Vazifa bog'landi
+Task moved,Vazifa ko'chirildi
+Task name,Vazifa nomi
+Task name is required,Vazifa nomi talab qilinadi
+Task removed from group,Vazifa guruhdan olib tashlandi
+Task Subject,Vazifa mavzusi
+Task subject is required,Vazifa mavzusi talab qilinadi
+Task Type,Vazifa turi
+Task unblocked: {0},Vazifa blokdan chiqarildi: {0}
+Task unlinked,Vazifa bog'lanishi uzildi
+Task updated,Vazifa yangilandi
+Task {0} not found,{0} vazifa topilmadi
+Task {0} not in project {1},{1} loyihasida {0} vazifa topilmadi
+Task {0} to Frappe,{0} vazifa Frappe ga
+Tasks,Vazifalar
+tasks,vazifalar
+Tasks and milestones will be created with dates relative to the project start date.,Vazifalar va bosqichlar loyihaning boshlanish sanasiga nisbatan sanalar bilan yaratiladi.
+Tasks assigned to you across all projects.,Barcha loyihalarda sizga topshirilgan vazifalar.
+Tasks created:,Yaratilgan vazifalar:
+Tasks from projects you manage.,Siz boshqaradigan loyihalardan vazifalar.
+Tasks updated:,Yangilangan vazifalar:
+"Tasks, milestones, and dependencies have been created.","Vazifalar, bosqichlar va bog'liqliklar yaratildi."
+Tasks:,Vazifalar:
+TBD,Keyinroq aniqlanadi
+Team,Jamoa
+Team Members,Jamoa a'zolari
+Template,Shablon
+Template applied,Shablon qo'llandi
+Template data is required in import data,Yuklash ma'lumotlarida shablon ma'lumotlari talab qilinadi
+Template has no data,Shablon ma'lumotlari yo'q
+Template Name,Shablon nomi
+Template name,Shablon nomi
+Template name is required,Shablon nomi talab qilinadi
+Template name is required in import data,Yuklash ma'lumotlarida shablon nomi talab qilinadi
+Template saved,Shablon saqlandi
+Template updated successfully.,Shablon muvaffaqiyatli yangilandi.
+Template {0} not found,{0} shablon topilmadi
+Templates,Shablonlar
+Tentative,Taxminiy
+The comment has been deleted,Izoh o'chirildi
+The project,Loyiha
+The source document may have been deleted.,Asl hujjat o'chirilgan bo'lishi mumkin.
+The source document will not be affected.,Asl hujjatga ta'sir qilmaydi.
+The status of '{0}' was changed from {1} to {2}.,{1} dan {2} ga '{0}' holati o'zgartirildi.
+Theme,Mavzu
+Theme preference,Mavzu sozlamasi
+This action,Ushbu harakat
+This action cannot be undone.,Ushbu harakatni qaytarib bo'lmaydi.
+This activity has been flagged for attention,Ushbu faoliyat e'tibor uchun belgilangan
+This is a reminder for your upcoming appointment,Bu sizning kelgusi uchrashuvingiz uchun eslatma
+This method is only meant for developer mode,Ushbu usul faqat dasturchi rejimi uchun
+This page wandered off,This page wandered off
+This Week,Shu hafta
+This will delete all notes and preferences associated with this activity.,Bu ushbu faoliyatga bog'liq barcha eslatmalar va sozlamalarni o'chiradi.
+This will import all Frappe Projects into Orga. Continue?,Bu barcha Frappe loyihalarini Orga ga yuklaydi. Davom etasizmi?
+This will permanently delete,Bu butunlay o'chiradi
+This will permanently delete:,Bu butunlay o'chiradi:
+Thu,Payshanba
+Time,Vaqt
+Time & Billing,Vaqt va hisob-kitob
+Time & Revenue,Vaqt va daromad
+Time Entries,Vaqt yozuvlari
+Time log name is required,Vaqt yozuvi nomi talab qilinadi
+Time Log not found,Vaqt yozuvi topilmadi
+Time log {0} not found,{0} vaqt yozuvi topilmadi
+Time Logs,Vaqt yozuvlari
+Time Summary,Vaqt xulosasi
+Time Tracking,Vaqt kuzatuvi
+Timeline,Vaqt chizig'i
+Timer active on,Taymer faol
+Timer is not running,Taymer ishlamayapti
+Timer Running,Taymer ishlayapti
+Timer running,Taymer ishlayapti
+Timesheet DocType not available,Vaqt jadvali DocType mavjud emas
+Timesheets,Vaqt jadvallari
+Timezone,Vaqt mintaqasi
+Timezone is detected from your browser,Vaqt mintaqasi brauzeringizdan aniqlandi
+Title,Sarlavha
+Title cannot exceed 255 characters,Sarlavha 255 belgidan oshmasligi kerak
+Title is required,Sarlavha talab qilinadi
+Title updated,Sarlavha yangilandi
+To,Ga
+to,ga
+to cancel,bekor qilish uchun
+to close,yopish uchun
+to confirm:,tasdiqlash uchun:
+to edit,tahrirlash uchun
+"to save,","saqlash uchun,"
+To Time cannot be before From Time,Tugash vaqti boshlanish vaqtidan oldin bo'lishi mumkin emas
+Today,Bugun
+today,bugun
+Toggle billable,Hisob-kitobni yoqish/o'chirish
+Toggle Details Panel,Tafsilotlar panelini yoqish/o'chirish
+Toggle Manager Panel,Boshqaruvchi panelini yoqish/o'chirish
+Toggle Sidebar,Yon panelni yoqish/o'chirish
+Tomorrow,Ertaga
+tomorrow,ertaga
+Total,Jami
+Total Budget,Jami byudjet
+Total Contacts,Jami kontaktlar
+Total Cost,Jami narx
+Total Cost to Org,Tashkilotga jami narx
+Total Defect Cost,Nuqsonlarning jami narxi
+Total Hours,Jami soatlar
+Total Hours Logged,Jami yozilgan soatlar
+Total Projects,Jami loyihalar
+Total Spent,Jami sarflangan
+Total Tasks,Jami vazifalar
+Total:,Jami:
+Tracked,Kuzatilgan
+trails to today while Open at 0%,Ochiq 0% holatida bugungacha siljiydi
+Tried:,Tried:
+Try adjusting your filter criteria,Filtr mezonlarini o'zgartirib ko'ring
+Try adjusting your filters.,Filtrlarni o'zgartirib ko'ring.
+Try Again,Qaytadan urinish
+Tue,Seshanba
+Type,Tur
+Type updated,Tur yangilandi
+Type:,Tur:
+Typical response time: 1-2 business days,Odatiy javob vaqti: 1-2 ish kuni
+Unarchive,Arxivdan chiqarish
+Unarchive Activity,Faoliyatni arxivdan chiqarish
+Unassign,Topshiriqni olib tashlash
+Unassigned,Topshirilmagan
+Under Budget,Byudjet doirasida
+Ungrouped,Guruhlanmagan
+Unknown,Noma'lum
+Unknown error,Noma'lum xatolik
+Unlink failed,Bog'lanishni uzish muvaffaqiyatsiz
+Unlink task from milestone,Vazifani bosqichdan ajratish
+Unpin,Mahkamlanishni olib tashlash
+Unpin Activity,Faoliyat mahkamlanishini olib tashlash
+Unread,O'qilmagan
+Unread only,Faqat o'qilmaganlar
+Until,Gacha
+Up to Date,Up to Date
+Upcoming,Kelgusi
+upcoming,kelgusi
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Yangilash muvaffaqiyatsiz
+Updated,Yangilandi
+Updated successfully,Muvaffaqiyatli yangilandi
+Updates,Updates
+Upload,Yuklash
+Upload failed,Yuklash muvaffaqiyatsiz
+Upload files below to attach them to this task.,Ushbu vazifaga biriktirish uchun pastda fayllarni yuklang.
+Upload to project,Loyihaga yuklash
+Uploading...,Yuklanmoqda...
+Urgent,Shoshilinch
+User {0} is already linked to client {1},{0} foydalanuvchi allaqachon {1} mijozga bog'langan
+User {0} is already linked to resource {1},{0} foydalanuvchi allaqachon {1} resursga bog'langan
+Utilization,Foydalanish
+Valid,Haqiqiy
+Value:,Qiymat:
+Variance,Farq
+Variance:,Farq:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Ko'rish
+View All,Hammasini ko'rish
+View all active projects,Barcha faol loyihalarni ko'rish
+View all open tasks,Barcha ochiq vazifalarni ko'rish
+View overdue tasks,Muddati o'tgan vazifalarni ko'rish
+View Release,View Release
+Visibility,Ko'rinish
+Waiting for this task,Ushbu vazifani kutmoqda
+Waits for:,Kutmoqda:
+Warning: Resource {0} status is {1},Ogohlantirish: {0} resurs holati {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Ogohlantirish: HTTPS o'rniga HTTP ishlatilmoqda. Webhook ma'lumotlari xavfsiz bo'lmasligi mumkin.
+Watch budget closely,Byudjetni yaqindan kuzating
+We'll respond to:,Biz javob beramiz:
+Webhook deleted,Webhook o'chirildi
+Webhook name is required,Webhook nomi talab qilinadi
+Webhook not found,Webhook topilmadi
+Webhook URL is required,Webhook URLi talab qilinadi
+Webhook URL must start with http:// or https://,Webhook URLi http:// yoki https:// bilan boshlanishi kerak
+Wed,Chorshanba
+Week,Hafta
+Weekend,Dam olish kunlari
+Weekly Capacity,Haftalik sig'im
+weekly capacity,haftalik sig'im
+Weekly Capacity (h),Haftalik sig'im (s)
+Welcome,Xush kelibsiz
+Welcome back!,Qaytganingiz bilan!
+Welcome to Orga,Orga ga xush kelibsiz
+What are you working on?,Nima ustida ishlayapsiz?
+What did you work on?,Nima ustida ishladingiz?
+When,Qachon
+When work begins,Ish boshlanganda
+When work is due,Ish muddati kelganda
+Where,Qayerda
+Will capture:,Qamrab oladi:
+Will create:,Yaratadi:
+with checklist items,tekshiruv ro'yxati elementlari bilan
+Working,Ishlayapti
+Workload,Ish yuki
+Workmanship,Ish sifati
+Write a comment...,Izoh yozing...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Izoh yozing... Eslatish uchun @ism ishlating (Ctrl+Enter yuborish uchun)
+Year,Yil
+Yes,Ha
+Yesterday,Kecha
+yesterday,kecha
+You are not an attendee of this appointment,Siz ushbu uchrashuvning ishtirokchisi emassiz
+You are not linked to any resource,Siz hech qaysi resursga bog'lanmagan emassiz
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Faqat o'z izohlaringizni o'chira olasiz
+You can only delete your own reactions,Faqat o'z munosabatlaringizni o'chira olasiz
+You do not have access to the client portal. Please contact support.,Mijoz portaliga kirishingiz yo'q. Yordam bilan bog'laning.
+You have already reacted with '{0}',Siz allaqachon '{0}' bilan munosabat bildirgansiz
+You have been assigned to task '{0}' in project '{1}'.,Sizga '{1}' loyihasidagi '{0}' vazifasi topshirildi.
+You have been assigned to: {0},Sizga topshirildi: {0}
+You have been invited to the following appointment,Siz quyidagi uchrashuvga taklif qilindingiz
+You have no tasks assigned to you right now.,Hozirda sizga topshirilgan vazifalar yo'q.
+You were mentioned in {0},Siz {0} da eslatildingiz
+Your attendance,Sizning ishtirokingiz
+Your comment has been posted,Izohingiz joylandi
+Your Projects,Sizning loyihalaringiz
+Your projects will appear here once they're assigned to you.,Loyihalaringiz sizga topshirilganidan keyin shu yerda ko'rinadi.
+Your Response,Sizning javobingiz
+Your RSVP,Sizning RSVPingiz
+Your support request has been submitted successfully.,Yordam so'rovingiz muvaffaqiyatli yuborildi.
+Your support request has been submitted successfully. We'll get back to you shortly.,Yordam so'rovingiz muvaffaqiyatli yuborildi. Tez orada sizga javob beramiz.
+"Your task ""{0}"" is no longer blocked and can now be started.","Sizning ""{0}"" vazifangiz endi bloklanmagan va boshlash mumkin."
+{0} is required,{0} talab qilinadi
+{0} new activities,{0} yangi faoliyat
+{0} of {1} completed,{1} dan {0} yakunlandi
+{0} projects already migrated (will be skipped or updated),{0} loyiha allaqachon ko'chirilgan (o'tkazib yuboriladi yoki yangilanadi)
+{0} status changed to {1},{0} holati {1} ga o'zgartirildi
+{0} tasks remaining,{0} vazifa qoldi
+{0} tasks without projects will be skipped,Loyihasiz {0} vazifa o'tkazib yuboriladi
+{0} {1} not found,{0} {1} topilmadi

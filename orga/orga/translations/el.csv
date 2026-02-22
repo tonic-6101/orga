@@ -1,0 +1,1492 @@
++ Add Milestone,+ Προσθήκη ορόσημου
++ Create Task,+ Δημιουργία εργασίας
++ Log Time,+ Καταγραφή χρόνου
+-- Select a project --,-- Επιλέξτε ένα έργο --
+0m,0λ
+1 day,1 ημέρα
+1 day ago,πριν 1 ημέρα
+1 dependency,1 εξάρτηση
+1 entry,1 καταχώρηση
+1 file,1 αρχείο
+1 hour ago,πριν 1 ώρα
+1 member,1 μέλος
+1 milestone,1 ορόσημο
+1 month,1 μήνας
+1 task,1 εργασία
+< 1m,< 1λ
+"A clear, actionable title for the task","Ένας σαφής, εφαρμόσιμος τίτλος για την εργασία"
+A client with email {0} already exists: {1},Υπάρχει ήδη πελάτης με email {0}: {1}
+A key deliverable or checkpoint for the project,Βασικό παραδοτέο ή σημείο ελέγχου για το έργο
+Accept,Αποδοχή
+Accepted,Αποδεκτό
+Acknowledge,Επιβεβαίωση λήψης
+across,σε
+Action,Ενέργεια
+Actions,Ενέργειες
+Active,Ενεργό
+Active Assignments,Ενεργές αναθέσεις
+Active Projects,Ενεργά έργα
+Activity,Δραστηριότητα
+Activity data deleted successfully,Τα δεδομένα δραστηριότητας διαγράφηκαν
+Activity Info,Πληροφορίες δραστηριότητας
+Activity Stats,Στατιστικά δραστηριότητας
+Activity will appear here as you work on tasks and projects.,Η δραστηριότητα θα εμφανίζεται εδώ καθώς εργάζεστε σε εργασίες και έργα.
+Actual,Πραγματικό
+Actual Cost,Πραγματικό κόστος
+Actual cost cannot be negative,Το πραγματικό κόστος δεν μπορεί να είναι αρνητικό
+Actual end date cannot be before actual start date,Η πραγματική ημερομηνία λήξης δεν μπορεί να είναι πριν την πραγματική ημερομηνία έναρξης
+Actual Hours,Πραγματικές ώρες
+Add,Προσθήκη
+Add a checklist item...,Προσθήκη στοιχείου λίστας ελέγχου...
+Add a comment...,Προσθήκη σχολίου...
+Add a comment... (Ctrl+Enter to send),Προσθήκη σχολίου... (Ctrl+Enter για αποστολή)
+Add a description...,Προσθήκη περιγραφής...
+Add a milestone description...,Προσθήκη περιγραφής ορόσημου...
+Add a note below to annotate this activity.,Προσθέστε μια σημείωση παρακάτω για να σχολιάσετε αυτή τη δραστηριότητα.
+Add a note...,Προσθήκη σημείωσης...
+Add a project description...,Προσθήκη περιγραφής έργου...
+Add a task description...,Προσθήκη περιγραφής εργασίας...
+Add checklist item...,Προσθήκη στοιχείου λίστας ελέγχου...
+Add Contact,Προσθήκη επαφής
+Add contacts via the Desk interface or clear filters,Προσθέστε επαφές μέσω του Desk ή καθαρίστε τα φίλτρα
+Add Dependency,Προσθήκη εξάρτησης
+Add details about this event...,Προσθήκη λεπτομερειών για αυτό το συμβάν...
+Add details about this milestone...,Προσθήκη λεπτομερειών για αυτό το ορόσημο...
+Add details about this task...,Προσθήκη λεπτομερειών για αυτή την εργασία...
+Add details or acceptance criteria for this milestone,Προσθήκη λεπτομερειών ή κριτηρίων αποδοχής για αυτό το ορόσημο
+"Add details, context, or acceptance criteria","Προσθήκη λεπτομερειών, πλαισίου ή κριτηρίων αποδοχής"
+Add first dependency,Προσθήκη πρώτης εξάρτησης
+Add item,Προσθήκη στοιχείου
+Add items below to track progress.,Προσθέστε στοιχεία παρακάτω για να παρακολουθείτε την πρόοδο.
+Add items below to track subtasks,Προσθέστε στοιχεία παρακάτω για να παρακολουθείτε τις υποεργασίες
+Add Milestone,Προσθήκη ορόσημου
+Add Milestone (Shift+M),Προσθήκη ορόσημου (Shift+M)
+Add milestones to track key deliverables.,Προσθέστε ορόσημα για να παρακολουθείτε τα βασικά παραδοτέα.
+Add New Contact,Προσθήκη νέας επαφής
+Add Note,Προσθήκη σημείωσης
+Add note,Προσθήκη σημείωσης
+Add notes about this contact...,Προσθήκη σημειώσεων για αυτή την επαφή...
+Add reaction,Προσθήκη αντίδρασης
+Add Skill,Προσθήκη δεξιότητας
+Add start and due dates to tasks to see them on the Gantt chart,Προσθέστε ημερομηνίες έναρξης και λήξης στις εργασίες για να τις δείτε στο Gantt
+Add Task,Προσθήκη εργασίας
+Add Task (Shift+T),Προσθήκη εργασίας (Shift+T)
+Added Finish-to-Start dependency,Προστέθηκε εξάρτηση Τέλος-προς-Αρχή
+Adding this dependency would create a circular reference: {0},Η προσθήκη αυτής της εξάρτησης θα δημιουργούσε κυκλική αναφορά: {0}
+Adding...,Προσθήκη...
+Address,Διεύθυνση
+Advanced,Για προχωρημένους
+All,Όλα
+All Active,Όλα τα ενεργά
+All Assignees,Όλοι οι ανατεθειμένοι
+All Categories,Όλες οι κατηγορίες
+All caught up!,Είστε ενημερωμένοι!
+All Contexts,Όλα τα πλαίσια
+All day,Ολοήμερο
+All day event,Ολοήμερο συμβάν
+All fields,Όλα τα πεδία
+All Priorities,Όλες οι προτεραιότητες
+All Projects,Όλα τα έργα
+All Status,Όλες οι καταστάσεις
+All Statuses,Όλες οι καταστάσεις
+All task dependencies & relative dates,Όλες οι εξαρτήσεις εργασιών και σχετικές ημερομηνίες
+All Tasks,Όλες οι εργασίες
+All tasks across all projects.,Όλες οι εργασίες σε όλα τα έργα.
+All tasks are already linked,Όλες οι εργασίες είναι ήδη συνδεδεμένες
+All team members,Όλα τα μέλη της ομάδας
+All Types,Όλοι οι τύποι
+All Users,Όλοι οι χρήστες
+Allocated,Κατανεμημένο
+allocated,κατανεμημένο
+Allow users to log time against tasks,Να επιτρέπεται στους χρήστες η καταγραφή χρόνου σε εργασίες
+Already exported to timesheet {0},Ήδη εξαγμένο στο φύλλο χρόνου {0}
+Already Migrated,Ήδη μεταφερμένο
+Anyone with access,Οποιοσδήποτε με πρόσβαση
+anytime to show this help,οποτεδήποτε για εμφάνιση αυτής της βοήθειας
+App Updates,App Updates
+Appearance,Εμφάνιση
+Apply,Εφαρμογή
+Apply cascade?,Εφαρμογή αλυσιδωτής αλλαγής;
+Apply Changes,Εφαρμογή αλλαγών
+Apply failed,Η εφαρμογή απέτυχε
+Apply Template,Εφαρμογή προτύπου
+Applying...,Εφαρμογή...
+Appointment,Ραντεβού
+Appointment and resource are required,Απαιτείται ραντεβού και πόρος
+Appointment name is required,Απαιτείται το όνομα του ραντεβού
+Appointment not found,Το ραντεβού δεν βρέθηκε
+Appointment {0} not found,Το ραντεβού {0} δεν βρέθηκε
+Apps,Εφαρμογές
+Archive,Αρχειοθέτηση
+Archive Activity,Αρχειοθέτηση δραστηριότητας
+Archived,Αρχειοθετημένο
+Are you sure you want to delete this activity data? This cannot be undone.,Είστε σίγουροι ότι θέλετε να διαγράψετε αυτά τα δεδομένα δραστηριότητας; Αυτό δεν μπορεί να αναιρεθεί.
+Are you sure you want to delete this comment?,Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το σχόλιο;
+Are you sure you want to delete this project?,Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το έργο;
+Are you sure?,Είστε σίγουροι;
+Ascending -- click to reverse,Αύξουσα -- κάντε κλικ για αντιστροφή
+Assign To,Ανάθεση σε
+Assign to Me,Ανάθεση σε εμένα
+Assigned Contact,Ανατεθειμένη επαφή
+Assigned To,Ανατέθηκε σε
+Assigned to,Ανατέθηκε σε
+Assigned to Me,Ανατέθηκε σε εμένα
+Assignee,Υπεύθυνος
+Assignment,Ανάθεση
+Assignment History,Ιστορικό αναθέσεων
+Assignment name is required,Απαιτείται το όνομα της ανάθεσης
+Assignment {0} not found,Η ανάθεση {0} δεν βρέθηκε
+Assignments,Αναθέσεις
+At least one action is required,Απαιτείται τουλάχιστον μία ενέργεια
+At least one event is required,Απαιτείται τουλάχιστον ένα συμβάν
+At least one event must be selected,Πρέπει να επιλεγεί τουλάχιστον ένα συμβάν
+Attachment,Συνημμένο
+Attachments,Συνημμένα
+Attendees,Συμμετέχοντες
+"Audit trail, assignments, version history","Ιστορικό ελέγχου, αναθέσεις, ιστορικό εκδόσεων"
+Auto,Αυτόματο
+Auto Calculate Progress,Αυτόματος υπολογισμός προόδου
+Auto Set Missed Milestones,Αυτόματη σήμανση χαμένων ορόσημων
+Auto-shift dependents when dates change,Αυτόματη μετατόπιση εξαρτώμενων όταν αλλάζουν οι ημερομηνίες
+Auto-Trail Start,Αυτόματη ολίσθηση έναρξης
+Auto-Trail updated,Η αυτόματη ολίσθηση ενημερώθηκε
+Automatically calculate project progress from task completion,Αυτόματος υπολογισμός προόδου έργου από την ολοκλήρωση εργασιών
+Automatically mark milestones as missed when overdue,Αυτόματη σήμανση ορόσημων ως χαμένων όταν είναι εκπρόθεσμα
+Automation rule {0} not found,Ο κανόνας αυτοματισμού {0} δεν βρέθηκε
+Automation: {0},Αυτοματισμός: {0}
+Availability,Διαθεσιμότητα
+Available,Διαθέσιμο
+Avatar updated successfully,Η φωτογραφία προφίλ ενημερώθηκε
+Avg Progress,Μέση πρόοδος
+Back,Πίσω
+Back to Portal,Πίσω στην πύλη
+Back to Projects,Πίσω στα έργα
+Beginner,Αρχάριος
+Best regards,Με εκτίμηση
+Billable,Χρεώσιμο
+Billable Amount,Χρεώσιμο ποσό
+Billable Hours,Χρεώσιμες ώρες
+Billable Rate,Χρεώσιμο τιμολόγιο
+Billing Rate,Τιμολόγιο χρέωσης
+Blocked,Αποκλεισμένο
+Both dates are needed to display task as a bar in Gantt chart,Χρειάζονται και οι δύο ημερομηνίες για να εμφανιστεί η εργασία ως μπάρα στο Gantt
+Both doctype and docname are required,Απαιτούνται και το doctype και το docname
+Both proposed start and end times are required,Απαιτούνται και οι προτεινόμενες ώρες έναρξης και λήξης
+Both task_name and depends_on are required,Απαιτούνται και το task_name και το depends_on
+Breadcrumb,Διαδρομή πλοήγησης
+Brief description of the defect or damage,Σύντομη περιγραφή του ελαττώματος ή της ζημιάς
+Brief description of this template,Σύντομη περιγραφή αυτού του προτύπου
+Brief description of your request,Σύντομη περιγραφή του αιτήματός σας
+Brief project description,Σύντομη περιγραφή έργου
+Budget,Προϋπολογισμός
+Budget at risk,Προϋπολογισμός σε κίνδυνο
+Budget Burn Rate,Ρυθμός κατανάλωσης προϋπολογισμού
+Budget Status,Κατάσταση προϋπολογισμού
+Budget updated,Ο προϋπολογισμός ενημερώθηκε
+Budget:,Προϋπολογισμός:
+Bug,Σφάλμα
+Burn Rate,Ρυθμός κατανάλωσης
+Busy,Απασχολημένος
+By,Από
+By Assignee,Ανά υπεύθυνο
+By Group,Ανά ομάδα
+By Milestone,Ανά ορόσημο
+By Priority,Ανά προτεραιότητα
+By Status,Ανά κατάσταση
+Cancel,Ακύρωση
+Cancelled,Ακυρωμένο
+cannot be undone,δεν μπορεί να αναιρεθεί
+Cannot delete client with {0} linked projects. Unlink projects first.,Δεν είναι δυνατή η διαγραφή πελάτη με {0} συνδεδεμένα έργα. Αποσυνδέστε πρώτα τα έργα.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Δεν είναι δυνατή η διαγραφή έργου με {0} συνδεδεμένες εργασίες. Διαγράψτε πρώτα τις εργασίες.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Δεν είναι δυνατή η διαγραφή πόρου με {0} ενεργές αναθέσεις. Ολοκληρώστε ή ακυρώστε τις πρώτα.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Δεν είναι δυνατή η διαγραφή εργασίας με {0} υποεργασίες. Διαγράψτε πρώτα τις υποεργασίες.
+Capacity,Χωρητικότητα
+capacity,χωρητικότητα
+Capacity & Rates,Χωρητικότητα και τιμές
+Capture project structure for reuse,Αποθήκευση δομής έργου για επαναχρησιμοποίηση
+Cascade,Αλυσιδωτή αλλαγή
+Cascade Preview,Προεπισκόπηση αλυσιδωτής αλλαγής
+Category,Κατηγορία
+Celebrate,Γιορτασμός
+Change,Αλλαγή
+Change History,Ιστορικό αλλαγών
+Change Priority,Αλλαγή προτεραιότητας
+Change Status,Αλλαγή κατάστασης
+Changes,Αλλαγές
+Changes appear when fields are modified.,Οι αλλαγές εμφανίζονται όταν τροποποιούνται πεδία.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Λίστα ελέγχου
+Checklist item name is required,Απαιτείται το όνομα του στοιχείου λίστας ελέγχου
+Checklist item not found,Το στοιχείο λίστας ελέγχου δεν βρέθηκε
+Checklist item title is required,Απαιτείται ο τίτλος του στοιχείου λίστας ελέγχου
+Checklist item {0} not found,Το στοιχείο λίστας ελέγχου {0} δεν βρέθηκε
+Checklist item {0} not found in task,Το στοιχείο λίστας ελέγχου {0} δεν βρέθηκε στην εργασία
+Child,Θυγατρικό
+Choose file to upload,Επιλέξτε αρχείο για μεταφόρτωση
+Circular dependency detected: {0},Εντοπίστηκε κυκλική εξάρτηση: {0}
+Circular parent-child relationship detected,Εντοπίστηκε κυκλική σχέση γονέα-παιδιού
+Clear,Καθαρισμός
+Clear all read,Καθαρισμός όλων των αναγνωσμένων
+Clear date,Καθαρισμός ημερομηνίας
+Click on an activity from the list to view and manage its details.,Κάντε κλικ σε μια δραστηριότητα από τη λίστα για να δείτε και να διαχειριστείτε τις λεπτομέρειές της.
+Click the avatar to upload a new photo,Κάντε κλικ στη φωτογραφία προφίλ για να ανεβάσετε νέα φωτογραφία
+Click to add description...,Κάντε κλικ για προσθήκη περιγραφής...
+Click to add notes...,Κάντε κλικ για προσθήκη σημειώσεων...
+Click to assign contact,Κάντε κλικ για ανάθεση επαφής
+Click to change status,Κάντε κλικ για αλλαγή κατάστασης
+Click to change type,Κάντε κλικ για αλλαγή τύπου
+Click to edit,Κάντε κλικ για επεξεργασία
+Click to edit budget,Κάντε κλικ για επεξεργασία προϋπολογισμού
+Click to edit description,Κάντε κλικ για επεξεργασία περιγραφής
+Click to edit end date,Κάντε κλικ για επεξεργασία ημερομηνίας λήξης
+Click to edit milestone name,Κάντε κλικ για επεξεργασία ονόματος ορόσημου
+Click to edit rate,Κάντε κλικ για επεξεργασία τιμής
+Click to edit start date,Κάντε κλικ για επεξεργασία ημερομηνίας έναρξης
+Click to edit title,Κάντε κλικ για επεξεργασία τίτλου
+Click to load,Κάντε κλικ για φόρτωση
+Click to set group dependency...,Κάντε κλικ για ορισμό εξάρτησης ομάδας...
+Click to set group...,Κάντε κλικ για ορισμό ομάδας...
+Click to view,Κάντε κλικ για προβολή
+Click to view at-risk projects,Κάντε κλικ για προβολή έργων σε κίνδυνο
+Click to view critical projects,Κάντε κλικ για προβολή κρίσιμων έργων
+Click to view healthy projects,Κάντε κλικ για προβολή έργων σε καλή κατάσταση
+Client,Πελάτης
+Client already has a portal user: {0},Ο πελάτης έχει ήδη χρήστη πύλης: {0}
+Client already has portal access,Ο πελάτης έχει ήδη πρόσβαση στην πύλη
+Client has no portal user to revoke,Ο πελάτης δεν έχει χρήστη πύλης για ανάκληση
+Client link removed from project {0},Ο σύνδεσμος πελάτη αφαιρέθηκε από το έργο {0}
+Client Portal,Πύλη πελάτη
+Client {0} deleted successfully,Ο πελάτης {0} διαγράφηκε
+Close,Κλείσιμο
+Close (Esc),Κλείσιμο (Esc)
+Comment,Σχόλιο
+comment,σχόλιο
+Comment added,Το σχόλιο προστέθηκε
+Comment content is required,Απαιτείται το περιεχόμενο του σχολίου
+Comment name is required,Απαιτείται το όνομα του σχολίου
+Comment not found,Το σχόλιο δεν βρέθηκε
+Comment removed,Το σχόλιο αφαιρέθηκε
+Comment {0} not found in task,Το σχόλιο {0} δεν βρέθηκε στην εργασία
+Comments,Σχόλια
+comments,σχόλια
+Community Edition,Community Edition
+Company,Εταιρεία
+Company name...,Όνομα εταιρείας...
+Complete,Ολοκλήρωση
+Completed,Ολοκληρωμένο
+completed,ολοκληρωμένο
+Completed Tasks,Ολοκληρωμένες εργασίες
+Compliance,Συμμόρφωση
+Configure default values for new projects and tasks,Ρύθμιση προεπιλεγμένων τιμών για νέα έργα και εργασίες
+Configure email notification settings,Ρύθμιση ειδοποιήσεων email
+Confirm,Επιβεβαίωση
+Contact deleted,Η επαφή διαγράφηκε
+Contact Details,Στοιχεία επαφής
+Contact Information,Πληροφορίες επικοινωνίας
+Contact name is required,Απαιτείται το όνομα της επαφής
+Contact Support,Επικοινωνία με υποστήριξη
+Contact your project manager for more information.,Επικοινωνήστε με τον υπεύθυνο έργου για περισσότερες πληροφορίες.
+Contact:,Επαφή:
+Contacts,Επαφές
+Context,Πλαίσιο
+Contractor,Εργολάβος
+Cost estimate cannot be negative,Η εκτίμηση κόστους δεν μπορεί να είναι αρνητική
+Cost Impact,Επίπτωση κόστους
+Cost Summary,Σύνοψη κόστους
+Could not apply the template. Please try again.,Δεν ήταν δυνατή η εφαρμογή του προτύπου. Δοκιμάστε ξανά.
+Could not attach file to project,Δεν ήταν δυνατή η επισύναψη αρχείου στο έργο
+Could not change task priority,Δεν ήταν δυνατή η αλλαγή προτεραιότητας εργασίας
+Could not change task status,Δεν ήταν δυνατή η αλλαγή κατάστασης εργασίας
+Could not delete the project. Please try again.,Δεν ήταν δυνατή η διαγραφή του έργου. Δοκιμάστε ξανά.
+Could not delete the task. Please try again.,Δεν ήταν δυνατή η διαγραφή της εργασίας. Δοκιμάστε ξανά.
+Could not delete the template.,Δεν ήταν δυνατή η διαγραφή του προτύπου.
+Could not duplicate the task. Please try again.,Δεν ήταν δυνατή η αντιγραφή της εργασίας. Δοκιμάστε ξανά.
+Could not export the template.,Δεν ήταν δυνατή η εξαγωγή του προτύπου.
+Could not import the template. Please check the file format.,Δεν ήταν δυνατή η εισαγωγή του προτύπου. Ελέγξτε τη μορφή αρχείου.
+Could not link task to milestone,Δεν ήταν δυνατή η σύνδεση εργασίας με ορόσημο
+Could not load document details.,Δεν ήταν δυνατή η φόρτωση λεπτομερειών εγγράφου.
+Could not load task details,Δεν ήταν δυνατή η φόρτωση λεπτομερειών εργασίας
+Could not promote checklist item to task.,Δεν ήταν δυνατή η προαγωγή στοιχείου λίστας ελέγχου σε εργασία.
+Could not remove task from milestone,Δεν ήταν δυνατή η αφαίρεση εργασίας από ορόσημο
+Could not save budget.,Δεν ήταν δυνατή η αποθήκευση του προϋπολογισμού.
+Could not save changes to the milestone,Δεν ήταν δυνατή η αποθήκευση αλλαγών στο ορόσημο
+Could not save changes to the task,Δεν ήταν δυνατή η αποθήκευση αλλαγών στην εργασία
+Could not save description.,Δεν ήταν δυνατή η αποθήκευση της περιγραφής.
+Could not save end date.,Δεν ήταν δυνατή η αποθήκευση της ημερομηνίας λήξης.
+Could not save milestone name.,Δεν ήταν δυνατή η αποθήκευση του ονόματος ορόσημου.
+Could not save start date.,Δεν ήταν δυνατή η αποθήκευση της ημερομηνίας έναρξης.
+Could not save the template. Please try again.,Δεν ήταν δυνατή η αποθήκευση του προτύπου. Δοκιμάστε ξανά.
+Could not save title.,Δεν ήταν δυνατή η αποθήκευση του τίτλου.
+Could not update dependency mode.,Δεν ήταν δυνατή η ενημέρωση της λειτουργίας εξάρτησης.
+Could not update milestone date,Δεν ήταν δυνατή η ενημέρωση της ημερομηνίας ορόσημου
+Could not update project status.,Δεν ήταν δυνατή η ενημέρωση κατάστασης έργου.
+Could not update project type.,Δεν ήταν δυνατή η ενημέρωση τύπου έργου.
+Could not update setting.,Δεν ήταν δυνατή η ενημέρωση ρύθμισης.
+Could not update task dates,Δεν ήταν δυνατή η ενημέρωση ημερομηνιών εργασίας
+Could not update task status,Δεν ήταν δυνατή η ενημέρωση κατάστασης εργασίας
+Could not update the template.,Δεν ήταν δυνατή η ενημέρωση του προτύπου.
+Create a copy of this task,Δημιουργία αντιγράφου αυτής της εργασίας
+Create Contact,Δημιουργία επαφής
+Create Event,Δημιουργία συμβάντος
+Create Milestone,Δημιουργία ορόσημου
+Create New Milestone,Δημιουργία νέου ορόσημου
+Create New Task,Δημιουργία νέας εργασίας
+Create Project,Δημιουργία έργου
+Create Task,Δημιουργία εργασίας
+Create tasks and milestones from a template,Δημιουργία εργασιών και ορόσημων από πρότυπο
+Create your first project to get started.,Δημιουργήστε το πρώτο σας έργο για να ξεκινήσετε.
+Create your first task to start tracking work on this project.,Δημιουργήστε την πρώτη σας εργασία για να αρχίσετε να παρακολουθείτε τη δουλειά σε αυτό το έργο.
+Created,Δημιουργήθηκε
+Creating...,Δημιουργία...
+Critical,Κρίσιμο
+Critical Path,Κρίσιμη διαδρομή
+"Currency used for budgets, costs, and billing rates","Νόμισμα που χρησιμοποιείται για προϋπολογισμούς, κόστη και τιμές χρέωσης"
+Current,Τρέχον
+Current Assignments,Τρέχουσες αναθέσεις
+Current scheduled time:,Τρέχων προγραμματισμένος χρόνος:
+Currently running version,Currently running version
+d lag,η καθυστέρηση
+Daily Availability,Ημερήσια διαθεσιμότητα
+Daily Hours,Ημερήσιες ώρες
+Danger Zone,Επικίνδυνη ζώνη
+Dark,Σκοτεινό
+Dashboard,Πίνακας ελέγχου
+Date,Ημερομηνία
+Date changes on this task will show cascade impact here,Οι αλλαγές ημερομηνιών σε αυτή την εργασία θα δείξουν τις αλυσιδωτές επιπτώσεις εδώ
+Date cleared,Η ημερομηνία καθαρίστηκε
+Date of Joining,Ημερομηνία ένταξης
+Date updated,Η ημερομηνία ενημερώθηκε
+Dates,Ημερομηνίες
+Dates cascaded,Οι ημερομηνίες μεταφέρθηκαν αλυσιδωτά
+Dates will be relative to the project's start date.,Οι ημερομηνίες θα είναι σχετικές με την ημερομηνία έναρξης του έργου.
+Day,Ημέρα
+day,ημέρα
+days,ημέρες
+Days before due date to send reminder,Ημέρες πριν τη λήξη για αποστολή υπενθύμισης
+Days Overdue,Ημέρες καθυστέρησης
+Days Remaining,Ημέρες που απομένουν
+Deadline,Προθεσμία
+Deadlines,Προθεσμίες
+Decision,Απόφαση
+Decline,Απόρριψη
+Declined,Απορρίφθηκε
+Default Currency,Προεπιλεγμένο νόμισμα
+Default hours per week for contact capacity planning,Προεπιλεγμένες ώρες ανά εβδομάδα για σχεδιασμό χωρητικότητας επαφών
+Default Priority,Προεπιλεγμένη προτεραιότητα
+Default Project Status,Προεπιλεγμένη κατάσταση έργου
+Default Task Status,Προεπιλεγμένη κατάσταση εργασίας
+Default task view,Προεπιλεγμένη προβολή εργασιών
+Default Values,Προεπιλεγμένες τιμές
+Default Weekly Capacity,Προεπιλεγμένη εβδομαδιαία χωρητικότητα
+Defaults,Προεπιλογές
+Defect Cost Impact,Κόστος επίπτωσης ελαττώματος
+Defect name is required,Απαιτείται το όνομα του ελαττώματος
+Defect Type,Τύπος ελαττώματος
+Defect {0} not found,Το ελάττωμα {0} δεν βρέθηκε
+Defects,Ελαττώματα
+Defects & Issues,Ελαττώματα και ζητήματα
+Defects Resolved,Ελαττώματα που επιλύθηκαν
+Delayed,Καθυστερημένο
+Delete,Διαγραφή
+Delete Activity Data,Διαγραφή δεδομένων δραστηριότητας
+Delete all read notifications?,Διαγραφή όλων των αναγνωσμένων ειδοποιήσεων;
+Delete comment,Διαγραφή σχολίου
+Delete Contact,Διαγραφή επαφής
+Delete Event,Διαγραφή συμβάντος
+Delete Event?,Διαγραφή συμβάντος;
+Delete failed,Η διαγραφή απέτυχε
+Delete file,Διαγραφή αρχείου
+Delete item,Διαγραφή στοιχείου
+Delete note,Διαγραφή σημείωσης
+Delete Project,Διαγραφή έργου
+Delete Task,Διαγραφή εργασίας
+Delete this project,Διαγραφή αυτού του έργου
+Deleted,Διαγράφηκε
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Το έργο ""{0}"" διαγράφηκε ({1} εργασίες, {2} ορόσημα)"
+Deletes notes and preferences. Source document is not affected.,Διαγράφει σημειώσεις και προτιμήσεις. Το αρχικό έγγραφο δεν επηρεάζεται.
+Deleting...,Διαγραφή...
+Department,Τμήμα
+Dependencies,Εξαρτήσεις
+dependencies,εξαρτήσεις
+Dependencies are informational only,Οι εξαρτήσεις είναι μόνο ενημερωτικές
+dependency,εξάρτηση
+Dependency already exists,Η εξάρτηση υπάρχει ήδη
+Dependency Chain,Αλυσίδα εξαρτήσεων
+Dependency created,Η εξάρτηση δημιουργήθηκε
+Dependency mode updated,Η λειτουργία εξάρτησης ενημερώθηκε
+Dependency name is required,Απαιτείται το όνομα της εξάρτησης
+Dependency task {0} not found,Η εργασία εξάρτησης {0} δεν βρέθηκε
+Dependency {0} not found,Η εξάρτηση {0} δεν βρέθηκε
+depends,εξαρτάται
+Depends on Group,Εξαρτάται από ομάδα
+Depends on task is required,Απαιτείται εργασία εξάρτησης
+depends on...,εξαρτάται από...
+Descending -- click to reverse,Φθίνουσα -- κάντε κλικ για αντιστροφή
+Describe the defect in detail...,Περιγράψτε το ελάττωμα αναλυτικά...
+Description,Περιγραφή
+Description updated,Η περιγραφή ενημερώθηκε
+Designation,Τίτλος θέσης
+"Detailed description of the defect, location, and impact","Λεπτομερής περιγραφή του ελαττώματος, της τοποθεσίας και των επιπτώσεων"
+Details,Λεπτομέρειες
+Discard timer,Απόρριψη χρονομέτρου
+Discussion,Συζήτηση
+Dismiss,Dismiss
+Display,Εμφάνιση
+Document,Έγγραφο
+Document attached to project,Το έγγραφο επισυνάφθηκε στο έργο
+Document final decision and rationale,Καταγραφή τελικής απόφασης και αιτιολόγησης
+Documentation Review,Ανασκόπηση εγγράφων
+Documents,Έγγραφα
+Done,Έτοιμο
+Download,Λήψη
+Drag to create dependency,Σύρετε για δημιουργία εξάρτησης
+Dry Run,Δοκιμαστική εκτέλεση
+Dry Run Complete,Η δοκιμαστική εκτέλεση ολοκληρώθηκε
+Due Date,Ημερομηνία λήξης
+Due date,Ημερομηνία λήξης
+Due Date (Earliest),Ημερομηνία λήξης (πρώτη)
+Due date cannot be before start date,Η ημερομηνία λήξης δεν μπορεί να είναι πριν την ημερομηνία έναρξης
+Due date is in the past,Η ημερομηνία λήξης έχει παρέλθει
+Due Date Reminders,Υπενθυμίσεις ημερομηνίας λήξης
+Due Diligence,Ενδελεχής έλεγχος
+Due Diligence Checklist,Λίστα ελέγχου ενδελεχούς ελέγχου
+Due This Week,Λήγει αυτή την εβδομάδα
+Due:,Λήξη:
+Duplicate events are not allowed,Δεν επιτρέπονται διπλά συμβάντα
+Duplicate failed,Η αντιγραφή απέτυχε
+Duplicate Task,Αντιγραφή εργασίας
+Duration,Διάρκεια
+Duration Summary,Σύνοψη διάρκειας
+Duration:,Διάρκεια:
+e.g. Cracked wall finish in bathroom...,π.χ. Ραγισμένο φινίρισμα τοίχου στο μπάνιο...
+"e.g. Electrical, Plumbing...","π.χ. Ηλεκτρικά, Υδραυλικά..."
+Edit,Επεξεργασία
+Edit (E),Επεξεργασία (E)
+Edit dependency,Επεξεργασία εξάρτησης
+Edit Event,Επεξεργασία συμβάντος
+Efficiency,Αποδοτικότητα
+Either dependency_name or depends_on is required,Απαιτείται είτε dependency_name είτε depends_on
+Email,Email
+Email invitations to all attendees,Αποστολή προσκλήσεων email σε όλους τους συμμετέχοντες
+Email is required to create portal user,Απαιτείται email για τη δημιουργία χρήστη πύλης
+Email notifications,Ειδοποιήσεις email
+Employee,Υπάλληλος
+Employee DocType not available,Το DocType υπαλλήλου δεν είναι διαθέσιμο
+Employee not found,Ο υπάλληλος δεν βρέθηκε
+Enable or disable optional features,Ενεργοποίηση ή απενεργοποίηση προαιρετικών λειτουργιών
+Enable Time Tracking,Ενεργοποίηση καταγραφής χρόνου
+End,Λήξη
+End Date,Ημερομηνία λήξης
+End date,Ημερομηνία λήξης
+End Date cannot be before Start Date,Η ημερομηνία λήξης δεν μπορεί να είναι πριν την ημερομηνία έναρξης
+End date cannot be before start date,Η ημερομηνία λήξης δεν μπορεί να είναι πριν την ημερομηνία έναρξης
+End date updated,Η ημερομηνία λήξης ενημερώθηκε
+End time was before start time. Adjusted to 1 hour after start.,Η ώρα λήξης ήταν πριν την ώρα έναρξης. Προσαρμόστηκε σε 1 ώρα μετά την έναρξη.
+End:,Λήξη:
+Enter milestone name...,Εισάγετε όνομα ορόσημου...
+Enter project name,Εισάγετε όνομα έργου
+Enter task title...,Εισάγετε τίτλο εργασίας...
+Enter template name,Εισάγετε όνομα προτύπου
+Enter your note... Use @name to mention someone,Γράψτε τη σημείωσή σας... Χρησιμοποιήστε @όνομα για αναφορά σε κάποιον
+Error,Σφάλμα
+Error loading activity,Σφάλμα φόρτωσης δραστηριότητας
+Error loading contacts,Σφάλμα φόρτωσης επαφών
+Error loading dashboard,Σφάλμα φόρτωσης πίνακα ελέγχου
+Error loading project,Σφάλμα φόρτωσης έργου
+Error loading projects,Σφάλμα φόρτωσης έργων
+Error loading settings,Σφάλμα φόρτωσης ρυθμίσεων
+Error loading tasks,Σφάλμα φόρτωσης εργασιών
+Error loading templates,Σφάλμα φόρτωσης προτύπων
+Est. Hours,Εκτ. ώρες
+Estimated,Εκτιμώμενο
+Estimated Cost,Εκτιμώμενο κόστος
+Estimated Cost (€),Εκτιμώμενο κόστος (€)
+Estimated Hours,Εκτιμώμενες ώρες
+Estimated:,Εκτίμηση:
+Evaluate potential risks and concerns,Αξιολόγηση πιθανών κινδύνων και ανησυχιών
+Event,Συμβάν
+Event is required for event context,Απαιτείται συμβάν για το πλαίσιο συμβάντος
+Event is required when tracking context is 'event',Απαιτείται συμβάν όταν το πλαίσιο παρακολούθησης είναι «συμβάν»
+Event Type,Τύπος συμβάντος
+Events,Συμβάντα
+Events not available. Please run: bench --site orga.localhost migrate,Τα συμβάντα δεν είναι διαθέσιμα. Εκτελέστε: bench --site orga.localhost migrate
+Events:,Συμβάντα:
+Expert,Ειδικός
+Explain why you are proposing a different time...,Εξηγήστε γιατί προτείνετε διαφορετικό χρόνο...
+Export,Εξαγωγή
+Export failed,Η εξαγωγή απέτυχε
+Export JSON,Εξαγωγή JSON
+Exported,Εξήχθη
+Exported to timesheet {0},Εξήχθη στο φύλλο χρόνου {0}
+External,Εξωτερικό
+Failed to add item,Αποτυχία προσθήκης στοιχείου
+Failed to add note,Αποτυχία προσθήκης σημείωσης
+Failed to add skill,Αποτυχία προσθήκης δεξιότητας
+Failed to apply cascade changes: {0},Αποτυχία εφαρμογής αλυσιδωτών αλλαγών: {0}
+Failed to create defect,Αποτυχία δημιουργίας ελαττώματος
+Failed to create dependency,Αποτυχία δημιουργίας εξάρτησης
+Failed to create event,Αποτυχία δημιουργίας συμβάντος
+Failed to create milestone,Αποτυχία δημιουργίας ορόσημου
+Failed to create project,Αποτυχία δημιουργίας έργου
+Failed to create task,Αποτυχία δημιουργίας εργασίας
+Failed to create time log,Αποτυχία δημιουργίας καταχώρησης χρόνου
+Failed to delete,Αποτυχία διαγραφής
+Failed to delete comment,Αποτυχία διαγραφής σχολίου
+Failed to delete contact,Αποτυχία διαγραφής επαφής
+Failed to load,Αποτυχία φόρτωσης
+Failed to load activity,Αποτυχία φόρτωσης δραστηριότητας
+Failed to load assignments,Αποτυχία φόρτωσης αναθέσεων
+Failed to load contact,Αποτυχία φόρτωσης επαφής
+Failed to load dashboard data,Αποτυχία φόρτωσης δεδομένων πίνακα ελέγχου
+Failed to load defects,Αποτυχία φόρτωσης ελαττωμάτων
+Failed to load events,Αποτυχία φόρτωσης συμβάντων
+Failed to load project,Αποτυχία φόρτωσης έργου
+Failed to load projects,Αποτυχία φόρτωσης έργων
+Failed to load report data,Αποτυχία φόρτωσης δεδομένων αναφοράς
+Failed to load settings,Αποτυχία φόρτωσης ρυθμίσεων
+Failed to load tasks,Αποτυχία φόρτωσης εργασιών
+Failed to move task,Αποτυχία μετακίνησης εργασίας
+Failed to post comment,Αποτυχία δημοσίευσης σχολίου
+Failed to propose new time,Αποτυχία πρότασης νέου χρόνου
+Failed to remove item,Αποτυχία αφαίρεσης στοιχείου
+Failed to remove skill,Αποτυχία αφαίρεσης δεξιότητας
+Failed to reorder milestones: {0},Αποτυχία αναδιάταξης ορόσημων: {0}
+Failed to reorder tasks: {0},Αποτυχία αναδιάταξης εργασιών: {0}
+Failed to reschedule dependent tasks: {0},Αποτυχία επαναπρογραμματισμού εξαρτώμενων εργασιών: {0}
+Failed to save,Αποτυχία αποθήκευσης
+Failed to save preferences,Αποτυχία αποθήκευσης προτιμήσεων
+Failed to save settings,Αποτυχία αποθήκευσης ρυθμίσεων
+Failed to submit request. Please try again.,Αποτυχία υποβολής αιτήματος. Δοκιμάστε ξανά.
+Failed to update item,Αποτυχία ενημέρωσης στοιχείου
+Failed to update priority,Αποτυχία ενημέρωσης προτεραιότητας
+Failed to update task,Αποτυχία ενημέρωσης εργασίας
+Failed to update tasks: {0},Αποτυχία ενημέρωσης εργασιών: {0}
+Failed to upload avatar,Αποτυχία μεταφόρτωσης φωτογραφίας προφίλ
+Feature,Λειτουργία
+Features,Λειτουργίες
+FF (Finish-Finish),FF (Τέλος-Τέλος)
+FF - Finish-to-Finish,FF - Τέλος-προς-Τέλος
+Field has been updated,Το πεδίο ενημερώθηκε
+Field name is required for 'Set Field Value' action,Απαιτείται όνομα πεδίου για την ενέργεια «Ορισμός τιμής πεδίου»
+Field {0} is not a Link field,Το πεδίο {0} δεν είναι πεδίο συνδέσμου
+Field {0} not found in {1},Το πεδίο {0} δεν βρέθηκε στο {1}
+File,Αρχείο
+file,αρχείο
+File does not belong to this task,Το αρχείο δεν ανήκει σε αυτή την εργασία
+File name is required,Απαιτείται το όνομα αρχείου
+File uploaded,Το αρχείο μεταφορτώθηκε
+File {0} not found,Το αρχείο {0} δεν βρέθηκε
+Files,Αρχεία
+files,αρχεία
+Filter,Φίλτρο
+Final Decision,Τελική απόφαση
+Finance,Οικονομικά
+Financial,Οικονομικό
+Finish-to-Finish,Τέλος-προς-Τέλος
+Finish-to-Start,Τέλος-προς-Αρχή
+Flag,Σημαία
+Flag for attention,Σημείωση για προσοχή
+Flagged,Σημειωμένο
+Focus Panel,Πάνελ εστίασης
+Follows your system preference. Currently:,Ακολουθεί την προτίμηση συστήματός σας. Τρέχουσα:
+Frappe Project {0} not found,Το Frappe έργο {0} δεν βρέθηκε
+Frappe Projects Migration,Μεταφορά Frappe Projects
+Frappe Projects module not available,Η ενότητα Frappe Projects δεν είναι διαθέσιμη
+Frappe Projects module not installed,Η ενότητα Frappe Projects δεν είναι εγκατεστημένη
+Frappe Projects sync is not enabled,Ο συγχρονισμός Frappe Projects δεν είναι ενεργός
+Frappe Task DocType not found,Το DocType εργασίας Frappe δεν βρέθηκε
+Frappe Task has no project,Η εργασία Frappe δεν έχει έργο
+Frappe Task {0} not found,Η εργασία Frappe {0} δεν βρέθηκε
+Fri,Παρ
+From,Από
+From Template,Από πρότυπο
+FS (Finish-Start),FS (Τέλος-Αρχή)
+FS - Finish-to-Start (default),FS - Τέλος-προς-Αρχή (προεπιλογή)
+Full form view with audit trail,Πλήρης προβολή φόρμας με ιστορικό ελέγχου
+Full name,Πλήρες όνομα
+Gantt,Gantt
+Gantt Chart,Γράφημα Gantt
+Gantt View,Προβολή Gantt
+General Note,Γενική σημείωση
+Get started,Ξεκινήστε
+Go back,Επιστροφή
+Go Back,Go Back
+Group by,Ομαδοποίηση κατά
+Group dependency removed,Η εξάρτηση ομάδας αφαιρέθηκε
+Group dependency set,Η εξάρτηση ομάδας ορίστηκε
+Group removed,Η ομάδα αφαιρέθηκε
+Group updated,Η ομάδα ενημερώθηκε
+Hammock task dates are auto-calculated and cannot be changed manually,Οι ημερομηνίες εργασιών τύπου αιώρας υπολογίζονται αυτόματα και δεν μπορούν να αλλαχθούν χειροκίνητα
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Έχετε ερώτηση ή χρειάζεστε βοήθεια; Συμπληρώστε τη φόρμα παρακάτω και η ομάδα μας θα επικοινωνήσει μαζί σας.
+Health,Υγεία
+Healthy,Σε καλή κατάσταση
+Hello {0},Γεια σας {0}
+Here's what's happening with your projects today.,Δείτε τι συμβαίνει με τα έργα σας σήμερα.
+Hide,Απόκρυψη
+High,Υψηλή
+History,Ιστορικό
+Home,Αρχική
+Hourly Cost,Ωριαίο κόστος
+Hours,Ώρες
+hours,ώρες
+Hours Logged,Ώρες καταγεγραμμένες
+ID,ID
+Image must be smaller than 5 MB,Η εικόνα πρέπει να είναι μικρότερη από 5 MB
+Import,Εισαγωγή
+Import existing projects and tasks from Frappe Projects module,Εισαγωγή υπαρχόντων έργων και εργασιών από την ενότητα Frappe Projects
+Import failed,Η εισαγωγή απέτυχε
+Import Template,Εισαγωγή προτύπου
+Imported,Εισήχθη
+in,σε
+In Progress,Σε εξέλιξη
+In Review,Υπό ανασκόπηση
+In-app notifications,Ειδοποιήσεις εντός εφαρμογής
+Inactive,Ανενεργό
+Initial Review,Αρχική ανασκόπηση
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Ανεπαρκή δικαιώματα για προβολή όλων των εργασιών
+Intermediate,Μεσαίο
+Internal,Εσωτερικό
+Invalid DocType,Μη έγκυρο DocType
+Invalid DocType for import,Μη έγκυρο DocType για εισαγωγή
+Invalid item type: {0},Μη έγκυρος τύπος στοιχείου: {0}
+Invalid JSON data,Μη έγκυρα δεδομένα JSON
+Invalid note type. Must be one of: {0},Μη έγκυρος τύπος σημείωσης. Πρέπει να είναι ένα από: {0}
+Invalid project reference,Μη έγκυρη αναφορά έργου
+Invalid reaction type. Must be one of: {0},Μη έγκυρος τύπος αντίδρασης. Πρέπει να είναι ένα από: {0}
+Invalid RSVP status,Μη έγκυρη κατάσταση RSVP
+Invalid status. Must be one of: {0},Μη έγκυρη κατάσταση. Πρέπει να είναι ένα από: {0}
+Invalid status: {0},Μη έγκυρη κατάσταση: {0}
+Invalid status: {0}. Must be one of: {1},Μη έγκυρη κατάσταση: {0}. Πρέπει να είναι ένα από: {1}
+Invalid tracking context: {0},Μη έγκυρο πλαίσιο παρακολούθησης: {0}
+Invalid visibility. Must be one of: {0},Μη έγκυρη ορατότητα. Πρέπει να είναι ένα από: {0}
+Invitation: {0} - {1} at {2},Πρόσκληση: {0} - {1} στις {2}
+Invite People,Πρόσκληση ατόμων
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Το στοιχείο προστέθηκε
+Item ID is required,Απαιτείται το αναγνωριστικό στοιχείου
+Item removed,Το στοιχείο αφαιρέθηκε
+Item type is required,Απαιτείται ο τύπος στοιχείου
+Item {0} not found,Το στοιχείο {0} δεν βρέθηκε
+Job title or role,Τίτλος εργασίας ή ρόλος
+Join Meeting,Συμμετοχή σε σύσκεψη
+Just now,Μόλις τώρα
+just now,μόλις τώρα
+Kanban,Kanban
+Kanban Board,Πίνακας Kanban
+Kanban View,Προβολή Kanban
+Keyboard Shortcuts,Συντομεύσεις πληκτρολογίου
+Keyboard shortcuts (?),Συντομεύσεις πληκτρολογίου (;)
+Last checked: {0},Last checked: {0}
+Last Updated,Τελευταία ενημέρωση
+Last updated:,Τελευταία ενημέρωση:
+Last Week,Προηγούμενη εβδομάδα
+Latest Version,Latest Version
+Light,Φωτεινό
+Link failed,Η σύνδεση απέτυχε
+Link Task,Σύνδεση εργασίας
+Linked,Συνδεδεμένο
+Linked employee not found,Ο συνδεδεμένος υπάλληλος δεν βρέθηκε
+Linked Tasks,Συνδεδεμένες εργασίες
+List,Λίστα
+List View,Προβολή λίστας
+Load failed,Η φόρτωση απέτυχε
+Load More,Φόρτωση περισσότερων
+Load more comments,Φόρτωση περισσότερων σχολίων
+Loading activity...,Φόρτωση δραστηριότητας...
+Loading changes...,Φόρτωση αλλαγών...
+Loading checklist...,Φόρτωση λίστας ελέγχου...
+Loading comments...,Φόρτωση σχολίων...
+Loading contact...,Φόρτωση επαφής...
+Loading contacts...,Φόρτωση επαφών...
+Loading dependencies...,Φόρτωση εξαρτήσεων...
+Loading details...,Φόρτωση λεπτομερειών...
+Loading discussion...,Φόρτωση συζήτησης...
+Loading events...,Φόρτωση συμβάντων...
+Loading files...,Φόρτωση αρχείων...
+Loading notes...,Φόρτωση σημειώσεων...
+Loading preferences...,Φόρτωση προτιμήσεων...
+Loading project...,Φόρτωση έργου...
+Loading projects...,Φόρτωση έργων...
+Loading replies...,Φόρτωση απαντήσεων...
+Loading report data...,Φόρτωση δεδομένων αναφοράς...
+Loading settings...,Φόρτωση ρυθμίσεων...
+Loading task...,Φόρτωση εργασίας...
+Loading templates...,Φόρτωση προτύπων...
+Loading time logs...,Φόρτωση καταχωρήσεων χρόνου...
+Loading your portal...,Φόρτωση της πύλης σας...
+Loading...,Φόρτωση...
+Location,Τοποθεσία
+Log Time,Καταγραφή χρόνου
+Logout,Αποσύνδεση
+Low,Χαμηλή
+Make Offer,Υποβολή προσφοράς
+Manager,Υπεύθυνος
+Manual Entry,Χειροκίνητη καταχώρηση
+Margin,Περιθώριο
+Mark all as read,Σήμανση όλων ως αναγνωσμένα
+Mark all read,Σήμανση όλων ως αναγνωσμένα
+Mark as read,Σήμανση ως αναγνωσμένο
+Mark as unread,Σήμανση ως μη αναγνωσμένο
+Mark read,Σήμανση αναγνωσμένο
+Marking...,Σήμανση...
+Material,Υλικό
+Maybe,Ίσως
+Medium,Μεσαία
+Meeting,Σύσκεψη
+Meeting Link,Σύνδεσμος σύσκεψης
+Meeting title,Τίτλος σύσκεψης
+Meeting URL,URL σύσκεψης
+Meetings,Συσκέψεις
+Mention,Αναφορά
+Message,Μήνυμα
+Message is required,Απαιτείται μήνυμα
+Message is required for '{0}' action,Απαιτείται μήνυμα για την ενέργεια «{0}»
+Migrate,Μεταφορά
+Migration Complete,Η μεταφορά ολοκληρώθηκε
+Migration ID:,Αναγνωριστικό μεταφοράς:
+Migration log not found: {0},Το αρχείο μεταφοράς δεν βρέθηκε: {0}
+Milestone,Ορόσημο
+milestone,ορόσημο
+Milestone created,Το ορόσημο δημιουργήθηκε
+Milestone description has been saved.,Η περιγραφή ορόσημου αποθηκεύτηκε.
+Milestone ID is required,Απαιτείται αναγνωριστικό ορόσημου
+Milestone marked as Missed (past due date),Το ορόσημο σημάνθηκε ως χαμένο (παρήλθε η προθεσμία)
+Milestone moved,Το ορόσημο μετακινήθηκε
+Milestone Name,Όνομα ορόσημου
+Milestone name has been saved.,Το όνομα ορόσημου αποθηκεύτηκε.
+Milestone name is required,Απαιτείται το όνομα του ορόσημου
+Milestone updated,Το ορόσημο ενημερώθηκε
+Milestone {0} not found,Το ορόσημο {0} δεν βρέθηκε
+Milestone {0} not in project {1},Το ορόσημο {0} δεν βρίσκεται στο έργο {1}
+Milestones,Ορόσημα
+milestones,ορόσημα
+Milestones:,Ορόσημα:
+Minutes,Λεπτά
+Missed,Χαμένο
+Mixed,Μεικτό
+Mobile,Κινητό
+Moderate,Μέτριο
+Modified,Τροποποιημένο
+"Modify details, time, or attendees","Τροποποίηση λεπτομερειών, ώρας ή συμμετεχόντων"
+Mon,Δευ
+Month,Μήνας
+Move failed,Η μετακίνηση απέτυχε
+Must be a positive number,Πρέπει να είναι θετικός αριθμός
+Must finish before this finishes,Πρέπει να ολοκληρωθεί πριν ολοκληρωθεί αυτό
+Must finish before this starts,Πρέπει να ολοκληρωθεί πριν ξεκινήσει αυτό
+Must start before this finishes,Πρέπει να ξεκινήσει πριν ολοκληρωθεί αυτό
+Must start before this starts,Πρέπει να ξεκινήσει πριν ξεκινήσει αυτό
+My Assignments,Οι αναθέσεις μου
+My Projects,Τα έργα μου
+My Schedule,Το πρόγραμμά μου
+My Tasks,Οι εργασίες μου
+N/A,Δ/Ε
+Name,Όνομα
+Name (A-Z),Όνομα (Α-Ω)
+Name (Z-A),Όνομα (Ω-Α)
+Name cannot exceed 255 characters,Το όνομα δεν μπορεί να υπερβαίνει τους 255 χαρακτήρες
+Need help?,Χρειάζεστε βοήθεια;
+Needs Attention,Χρειάζεται προσοχή
+Never,Never
+new activities,νέες δραστηριότητες
+New Activity,Νέα δραστηριότητα
+New activity,Νέα δραστηριότητα
+New Event,Νέο συμβάν
+New index is required,Απαιτείται νέος δείκτης
+New Project,Νέο έργο
+New tasks will auto-trail by default.,Οι νέες εργασίες θα έχουν αυτόματη ολίσθηση από προεπιλογή.
+Newest First,Νεότερα πρώτα
+Next,Επόμενο
+Next 14 days,Επόμενες 14 ημέρες
+Next 30 days,Επόμενες 30 ημέρες
+Next 60 days,Επόμενες 60 ημέρες
+Next 7 days,Επόμενες 7 ημέρες
+Next 90 days,Επόμενες 90 ημέρες
+Next Week,Επόμενη εβδομάδα
+Next:,Επόμενο:
+No,Όχι
+No active assignments,Δεν υπάρχουν ενεργές αναθέσεις
+No active projects,Δεν υπάρχουν ενεργά έργα
+No active timer found,Δεν βρέθηκε ενεργό χρονόμετρο
+No activity selected,Δεν έχει επιλεγεί δραστηριότητα
+No assignments found,Δεν βρέθηκαν αναθέσεις
+No attendees,Χωρίς συμμετέχοντες
+no change,καμία αλλαγή
+No changes for this field.,Δεν υπάρχουν αλλαγές για αυτό το πεδίο.
+No changes recorded for this activity.,Δεν καταγράφηκαν αλλαγές για αυτή τη δραστηριότητα.
+No checklist items yet,Δεν υπάρχουν ακόμα στοιχεία λίστας ελέγχου
+No checklist items yet.,Δεν υπάρχουν ακόμα στοιχεία λίστας ελέγχου.
+No comments yet,Δεν υπάρχουν ακόμα σχόλια
+No comments yet.,Δεν υπάρχουν ακόμα σχόλια.
+No contacts available,Δεν υπάρχουν διαθέσιμες επαφές
+No content for this tab,Δεν υπάρχει περιεχόμενο για αυτή την καρτέλα
+No data available,Δεν υπάρχουν διαθέσιμα δεδομένα
+No data available for the selected filters,Δεν υπάρχουν δεδομένα για τα επιλεγμένα φίλτρα
+No data to export,Δεν υπάρχουν δεδομένα για εξαγωγή
+No dates set,Δεν έχουν οριστεί ημερομηνίες
+No defects reported,Δεν αναφέρθηκαν ελαττώματα
+No dependencies defined,Δεν έχουν οριστεί εξαρτήσεις
+No description,Χωρίς περιγραφή
+No discussion yet.,Δεν υπάρχει ακόμα συζήτηση.
+No documents attached,Δεν υπάρχουν επισυναπτόμενα έγγραφα
+No due date,Χωρίς ημερομηνία λήξης
+No employee linked to this resource,Κανένας υπάλληλος δεν είναι συνδεδεμένος με αυτόν τον πόρο
+No ERPNext employee linked to resource,Κανένας υπάλληλος ERPNext δεν είναι συνδεδεμένος με τον πόρο
+No events found,Δεν βρέθηκαν συμβάντα
+No files attached yet.,Δεν υπάρχουν ακόμα επισυναπτόμενα αρχεία.
+No Frappe Project linked,Κανένα Frappe έργο δεν είναι συνδεδεμένο
+No Grouping,Χωρίς ομαδοποίηση
+No items,Κανένα στοιχείο
+No matching tasks,Δεν βρέθηκαν αντίστοιχες εργασίες
+No matching tasks found,Δεν βρέθηκαν αντίστοιχες εργασίες
+No migration history,Δεν υπάρχει ιστορικό μεταφοράς
+No Milestone,Κανένα ορόσημο
+No milestones,Κανένα ορόσημο
+No milestones defined for this project.,Δεν έχουν οριστεί ορόσημα για αυτό το έργο.
+No notes yet.,Δεν υπάρχουν ακόμα σημειώσεις.
+No notes yet. Add a due diligence note to track progress.,Δεν υπάρχουν ακόμα σημειώσεις. Προσθέστε μια σημείωση ελέγχου για να παρακολουθείτε την πρόοδο.
+No notifications,Δεν υπάρχουν ειδοποιήσεις
+No Orga Project linked to Frappe Project {0},Κανένα Orga έργο δεν είναι συνδεδεμένο με το Frappe έργο {0}
+No overdue tasks,Δεν υπάρχουν εκπρόθεσμες εργασίες
+No pending cascade changes,Δεν υπάρχουν εκκρεμείς αλυσιδωτές αλλαγές
+No predecessors - this task can start independently,Χωρίς προηγούμενα — αυτή η εργασία μπορεί να ξεκινήσει ανεξάρτητα
+No project,Κανένα έργο
+No projects found,Δεν βρέθηκαν έργα
+No Projects Yet,Δεν υπάρχουν ακόμα έργα
+No recent activity,Δεν υπάρχει πρόσφατη δραστηριότητα
+No related documents,Δεν υπάρχουν σχετικά έγγραφα
+No resolved threads.,Δεν υπάρχουν επιλυμένες συζητήσεις.
+No resources found,Δεν βρέθηκαν πόροι
+No results found,Δεν βρέθηκαν αποτελέσματα
+No skills listed,Δεν υπάρχουν καταχωρημένες δεξιότητες
+No skills recorded yet,Δεν έχουν καταγραφεί ακόμα δεξιότητες
+No successors - no tasks are waiting for this one,Χωρίς επόμενα — καμία εργασία δεν περιμένει αυτή
+No task selected,Δεν έχει επιλεγεί εργασία
+No tasks assigned to you,Δεν σας έχουν ανατεθεί εργασίες
+No tasks available to add,Δεν υπάρχουν διαθέσιμες εργασίες για προσθήκη
+No tasks found,Δεν βρέθηκαν εργασίες
+No tasks linked to this milestone,Δεν υπάρχουν εργασίες συνδεδεμένες με αυτό το ορόσημο
+No tasks with dates to display,Δεν υπάρχουν εργασίες με ημερομηνίες για εμφάνιση
+No tasks yet,Δεν υπάρχουν ακόμα εργασίες
+No team members,Χωρίς μέλη ομάδας
+No template,Κανένα πρότυπο
+No templates yet,Δεν υπάρχουν ακόμα πρότυπα
+No time data found,Δεν βρέθηκαν δεδομένα χρόνου
+No time logged today,Δεν καταγράφηκε χρόνος σήμερα
+No time logged yet,Δεν έχει καταγραφεί χρόνος ακόμα
+No time logs for this period,Δεν υπάρχουν καταχωρήσεις χρόνου για αυτή την περίοδο
+No time logs found,Δεν βρέθηκαν καταχωρήσεις χρόνου
+No unread notifications,Δεν υπάρχουν μη αναγνωσμένες ειδοποιήσεις
+No update information available yet.,No update information available yet.
+None,Κανένα
+Not found,Δεν βρέθηκε
+Not permitted,Δεν επιτρέπεται
+Not permitted to access this project,Δεν επιτρέπεται η πρόσβαση σε αυτό το έργο
+Not permitted to access this task,Δεν επιτρέπεται η πρόσβαση σε αυτή την εργασία
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Δεν επιτρέπεται ο σχολιασμός σε αυτό το έγγραφο
+Not permitted to create clients,Δεν επιτρέπεται η δημιουργία πελατών
+Not permitted to delete this client,Δεν επιτρέπεται η διαγραφή αυτού του πελάτη
+Not permitted to delete this defect,Δεν επιτρέπεται η διαγραφή αυτού του ελαττώματος
+Not permitted to delete this note,Δεν επιτρέπεται η διαγραφή αυτής της σημείωσης
+Not permitted to delete this project,Δεν επιτρέπεται η διαγραφή αυτού του έργου
+Not permitted to delete this task,Δεν επιτρέπεται η διαγραφή αυτής της εργασίας
+Not permitted to delete this time log,Δεν επιτρέπεται η διαγραφή αυτής της καταχώρησης χρόνου
+Not permitted to invite clients,Δεν επιτρέπεται η πρόσκληση πελατών
+Not permitted to modify client access,Δεν επιτρέπεται η τροποποίηση πρόσβασης πελάτη
+Not permitted to modify this project,Δεν επιτρέπεται η τροποποίηση αυτού του έργου
+Not permitted to update settings,Δεν επιτρέπεται η ενημέρωση ρυθμίσεων
+Not permitted to update this client,Δεν επιτρέπεται η ενημέρωση αυτού του πελάτη
+Not permitted to view this client,Δεν επιτρέπεται η προβολή αυτού του πελάτη
+not sent,δεν στάλθηκε
+Not set,Δεν έχει οριστεί
+Not specified,Δεν προσδιορίζεται
+Note,Σημείωση
+Note (optional),Σημείωση (προαιρετικό)
+Note Content,Περιεχόμενο σημείωσης
+Note content is required,Απαιτείται το περιεχόμενο της σημείωσης
+Note name is required,Απαιτείται το όνομα της σημείωσης
+Note not found,Η σημείωση δεν βρέθηκε
+Note Type,Τύπος σημείωσης
+Notes,Σημειώσεις
+Notification,Ειδοποίηση
+Notification not found,Η ειδοποίηση δεν βρέθηκε
+Notifications,Ειδοποιήσεις
+Off Track,Εκτός πορείας
+Offer,Προσφορά
+Offer Prepared,Προσφορά ετοιμάστηκε
+Oldest First,Παλαιότερα πρώτα
+On Hold,Σε αναμονή
+On Leave,Σε άδεια
+On Track,Σε πορεία
+On-Time Rate,Ποσοστό εμπρόθεσμων
+Only administrators can delete activities,Μόνο οι διαχειριστές μπορούν να διαγράψουν δραστηριότητες
+Only the comment author or administrators can delete comments,Μόνο ο συγγραφέας του σχολίου ή οι διαχειριστές μπορούν να διαγράψουν σχόλια
+Only you and admins,Μόνο εσείς και οι διαχειριστές
+Open,Ανοιχτό
+Open in Desk,Άνοιγμα στο Desk
+Open Task Log,Άνοιγμα αρχείου εργασίας
+Open Tasks,Ανοιχτές εργασίες
+Optional,Προαιρετικό
+optional,προαιρετικό
+Or email us directly at,Ή στείλτε μας email απευθείας στο
+Orga Project {0} from Frappe Projects,Orga έργο {0} από Frappe Projects
+Orga Task {0} from Frappe,Orga εργασία {0} από Frappe
+Organizer,Διοργανωτής
+Other,Άλλο
+Over Budget,Υπέρβαση προϋπολογισμού
+Overall Progress,Συνολική πρόοδος
+Overall Utilization,Συνολική αξιοποίηση
+Overallocated,Υπερκατανεμημένο
+Overdue,Εκπρόθεσμο
+overdue,εκπρόθεσμο
+Overdue Tasks,Εκπρόθεσμες εργασίες
+Overview,Επισκόπηση
+Owner,Ιδιοκτήτης
+Page Not Found,Η σελίδα δεν βρέθηκε
+Parent,Γονικό
+Parent comment must belong to the same document,Το γονικό σχόλιο πρέπει να ανήκει στο ίδιο έγγραφο
+Parent comment not found,Το γονικό σχόλιο δεν βρέθηκε
+Parent project not synced to Frappe yet,Το γονικό έργο δεν έχει συγχρονιστεί ακόμα με το Frappe
+Parent project sync not enabled,Ο συγχρονισμός γονικού έργου δεν είναι ενεργός
+Partner,Συνεργάτης
+Pending,Σε εκκρεμότητα
+per page,ανά σελίδα
+Perform initial assessment and background check,Εκτέλεση αρχικής αξιολόγησης και ελέγχου ιστορικού
+Permanently remove this event,Μόνιμη διαγραφή αυτού του συμβάντος
+Permanently remove this task,Μόνιμη διαγραφή αυτής της εργασίας
+Phone,Τηλέφωνο
+Pin,Καρφίτσωμα
+Pin Activity,Καρφίτσωμα δραστηριότητας
+Pin to top,Καρφίτσωμα στην κορυφή
+Pinned,Καρφιτσωμένο
+Planned budget for this task,Προγραμματισμένος προϋπολογισμός για αυτή την εργασία
+Planning,Σχεδιασμός
+Please describe your question or issue in detail...,Περιγράψτε την ερώτηση ή το πρόβλημά σας αναλυτικά...
+Please login to access Orga,Συνδεθείτε για πρόσβαση στο Orga
+Please login to access the client portal,Συνδεθείτε για πρόσβαση στην πύλη πελάτη
+Please respond to this invitation in Orga,Απαντήστε σε αυτή την πρόσκληση στο Orga
+Please select an image file,Επιλέξτε ένα αρχείο εικόνας
+Please try again,Δοκιμάστε ξανά
+Please type,Πληκτρολογήστε
+Portal,Πύλη
+Portal access revoked for {0},Η πρόσβαση στην πύλη ανακλήθηκε για {0}
+Portal user created successfully. Welcome email {0},Ο χρήστης πύλης δημιουργήθηκε. Email καλωσορίσματος {0}
+Post,Δημοσίευση
+Powered by,Με τεχνολογία
+Powered by Tonic,Με τεχνολογία Tonic
+Predecessors (Blocked By),Προηγούμενα (αποκλεισμένο από)
+Preferences,Προτιμήσεις
+Preferences saved successfully,Οι προτιμήσεις αποθηκεύτηκαν
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Πρόθεμα για αυτόματα δημιουργούμενους κωδικούς έργου (π.χ. ORG-2026-0001)
+Prepare and document offer terms,Προετοιμασία και τεκμηρίωση όρων προσφοράς
+Press,Πατήστε
+Preview,Προεπισκόπηση
+Preview cascade before applying,Προεπισκόπηση αλυσιδωτής αλλαγής πριν την εφαρμογή
+Previous,Προηγούμενο
+Priority,Προτεραιότητα
+Priority assigned to new tasks,Προτεραιότητα που ανατίθεται σε νέες εργασίες
+Priority updated,Η προτεραιότητα ενημερώθηκε
+Proficiency,Επάρκεια
+Profile,Προφίλ
+Progress,Πρόοδος
+Progress (High-Low),Πρόοδος (φθίνουσα)
+Progress (Low-High),Πρόοδος (αύξουσα)
+Progress Overview,Επισκόπηση προόδου
+Progress updated,Η πρόοδος ενημερώθηκε
+Project,Έργο
+Project budget has been saved.,Ο προϋπολογισμός του έργου αποθηκεύτηκε.
+Project code (e.g. ORG-2026-0001),Κωδικός έργου (π.χ. ORG-2026-0001)
+Project Code Prefix,Πρόθεμα κωδικού έργου
+Project created,Το έργο δημιουργήθηκε
+Project deleted,Το έργο διαγράφηκε
+Project description has been saved.,Η περιγραφή του έργου αποθηκεύτηκε.
+Project Details,Λεπτομέρειες έργου
+Project end date has been saved.,Η ημερομηνία λήξης του έργου αποθηκεύτηκε.
+Project Files,Αρχεία έργου
+Project has no linked client,Το έργο δεν έχει συνδεδεμένο πελάτη
+Project Health,Υγεία έργου
+Project Info,Πληροφορίες έργου
+Project is required,Απαιτείται έργο
+Project is required for project context,Απαιτείται έργο για το πλαίσιο έργου
+Project is required when tracking context is 'project',Απαιτείται έργο όταν το πλαίσιο παρακολούθησης είναι «έργο»
+Project Manager,Υπεύθυνος έργου
+Project Name,Όνομα έργου
+Project name and template name are required,Απαιτούνται το όνομα έργου και το όνομα προτύπου
+Project name is required,Απαιτείται το όνομα του έργου
+Project not found,Το έργο δεν βρέθηκε
+Project not found or you do not have access,Το έργο δεν βρέθηκε ή δεν έχετε πρόσβαση
+Project settings,Ρυθμίσεις έργου
+Project start date has been saved.,Η ημερομηνία έναρξης του έργου αποθηκεύτηκε.
+Project title has been saved.,Ο τίτλος του έργου αποθηκεύτηκε.
+Project Type,Τύπος έργου
+Project updated,Το έργο ενημερώθηκε
+Project {0} linked to client {1},Το έργο {0} συνδέθηκε με τον πελάτη {1}
+Project {0} not found,Το έργο {0} δεν βρέθηκε
+Project {0} to Frappe Projects,Έργο {0} προς Frappe Projects
+Project:,Έργο:
+Projects,Έργα
+projects,έργα
+Projects created:,Έργα που δημιουργήθηκαν:
+Projects Overview,Επισκόπηση έργων
+Projects skipped:,Έργα που παραλείφθηκαν:
+Projects updated:,Έργα που ενημερώθηκαν:
+Promote failed,Η προαγωγή απέτυχε
+Promote to task,Προαγωγή σε εργασία
+Promoted to task,Προάχθηκε σε εργασία
+Propose,Πρόταση
+Propose New Time,Πρόταση νέου χρόνου
+Propose Time,Πρόταση χρόνου
+Proposed End,Προτεινόμενη λήξη
+Proposed Start,Προτεινόμενη έναρξη
+Public,Δημόσιο
+Quick Action,Γρήγορη ενέργεια
+Quick Actions,Γρήγορες ενέργειες
+Quick Stats,Γρήγορα στατιστικά
+Rates,Τιμές
+Receive notifications via email,Λήψη ειδοποιήσεων μέσω email
+Receive notifications within the application,Λήψη ειδοποιήσεων εντός της εφαρμογής
+Recent Activity,Πρόσφατη δραστηριότητα
+Recipient {0} is not a valid user,Ο παραλήπτης {0} δεν είναι έγκυρος χρήστης
+Reference,Αναφορά
+Refresh,Ανανέωση
+Related,Σχετικό
+Related Company (optional),Σχετική εταιρεία (προαιρετικό)
+Related Documents,Σχετικά έγγραφα
+Related Project,Σχετικό έργο
+Remaining,Υπόλοιπο
+Reminder,Υπενθύμιση
+Reminder Lead Time,Χρόνος προειδοποίησης υπενθύμισης
+Reminder: {0} - {1} at {2},Υπενθύμιση: {0} - {1} στις {2}
+Remove,Αφαίρεση
+Remove dependency,Αφαίρεση εξάρτησης
+Remove dependency on,Αφαίρεση εξάρτησης από
+Remove from group,Αφαίρεση από ομάδα
+Remove group dependency,Αφαίρεση εξάρτησης ομάδας
+Remove skill,Αφαίρεση δεξιότητας
+Reopen,Επανάνοιγμα
+Reopen thread,Επανάνοιγμα συζήτησης
+reopened,ξανάνοιξε
+replies,απαντήσεις
+Reply,Απάντηση
+reply,απάντηση
+Replying to,Απάντηση σε
+Replying to comment,Απάντηση σε σχόλιο
+Report Defect,Αναφορά ελαττώματος
+Reported Date,Ημερομηνία αναφοράς
+Reports,Αναφορές
+Reports To,Αναφέρεται σε
+Request Submitted!,Το αίτημα υποβλήθηκε!
+Required,Απαιτούμενο
+required,απαιτούμενο
+Research,Έρευνα
+Reset to Defaults,Επαναφορά σε προεπιλογές
+Resolve,Επίλυση
+Resolve thread,Επίλυση συζήτησης
+Resolved,Επιλύθηκε
+Resolved date cannot be before reported date,Η ημερομηνία επίλυσης δεν μπορεί να είναι πριν την ημερομηνία αναφοράς
+Resource,Πόρος
+Resource and skill name are required,Απαιτούνται ο πόρος και το όνομα δεξιότητας
+Resource is already an attendee,Ο πόρος είναι ήδη συμμετέχων
+Resource name is required,Απαιτείται το όνομα του πόρου
+Resource not found,Ο πόρος δεν βρέθηκε
+Resource synced from employee {0},Ο πόρος συγχρονίστηκε από τον υπάλληλο {0}
+Resource {0} is already assigned to this task ({1}),Ο πόρος {0} είναι ήδη ανατεθειμένος σε αυτή την εργασία ({1})
+Resource {0} not found,Ο πόρος {0} δεν βρέθηκε
+Resources,Επαφές
+Retry,Επανάληψη
+Review,Ανασκόπηση
+Review all relevant documents and contracts,Ανασκόπηση όλων των σχετικών εγγράφων και συμβάσεων
+Reviews,Ανασκοπήσεις
+Risk Assessment,Αξιολόγηση κινδύνου
+Rollback,Αναίρεση
+Rolled back,Αναιρέθηκε
+Room or address,Αίθουσα ή διεύθυνση
+RSVP,RSVP
+Safety,Ασφάλεια
+Sat,Σάβ
+Save,Αποθήκευση
+"Save a project as a template, or import one from a JSON file.",Αποθηκεύστε ένα έργο ως πρότυπο ή εισαγάγετε ένα από αρχείο JSON.
+Save as Template,Αποθήκευση ως πρότυπο
+Save Changes,Αποθήκευση αλλαγών
+Save failed,Η αποθήκευση απέτυχε
+Save Preferences,Αποθήκευση προτιμήσεων
+Save Template,Αποθήκευση προτύπου
+Saving...,Αποθήκευση...
+Schedule,Πρόγραμμα
+Schedule type is required for scheduled triggers,Απαιτείται τύπος προγράμματος για προγραμματισμένες ενεργοποιήσεις
+Scheduled,Προγραμματισμένο
+Search,Αναζήτηση
+"Search by name, email, or skill...","Αναζήτηση με όνομα, email ή δεξιότητα..."
+Search for a project...,Αναζήτηση έργου...
+Search for a task...,Αναζήτηση εργασίας...
+Search for an event...,Αναζήτηση συμβάντος...
+Search for people to invite...,Αναζήτηση ατόμων για πρόσκληση...
+Search tasks to link...,Αναζήτηση εργασιών για σύνδεση...
+Search tasks...,Αναζήτηση εργασιών...
+Search...,Αναζήτηση...
+Searching...,Αναζήτηση...
+Seen,Εμφανίστηκε
+Select a project if your request is related to a specific project.,Επιλέξτε ένα έργο αν το αίτημά σας αφορά συγκεκριμένο έργο.
+Select a project...,Επιλέξτε έργο...
+Select a task from the Gantt chart to view and manage its details.,Επιλέξτε μια εργασία από το Gantt για να δείτε και να διαχειριστείτε τις λεπτομέρειές της.
+Select a task from the list or Kanban board to view and manage its details.,Επιλέξτε μια εργασία από τη λίστα ή τον πίνακα Kanban για να δείτε και να διαχειριστείτε τις λεπτομέρειές της.
+Select a template...,Επιλέξτε πρότυπο...
+Select priority...,Επιλέξτε προτεραιότητα...
+Select status...,Επιλέξτε κατάσταση...
+Select task...,Επιλέξτε εργασία...
+Select type...,Επιλέξτε τύπο...
+Selection,Επιλογή
+Send,Αποστολή
+Send comment,Αποστολή σχολίου
+Send email invitations to attendees,Αποστολή προσκλήσεων email στους συμμετέχοντες
+Send Invitations,Αποστολή προσκλήσεων
+Send notification when a task is assigned to a user,Αποστολή ειδοποίησης όταν ανατίθεται εργασία σε χρήστη
+Send notification when task status changes,Αποστολή ειδοποίησης όταν αλλάζει η κατάσταση εργασίας
+Send reminder before task due date,Αποστολή υπενθύμισης πριν τη λήξη εργασίας
+sent,στάλθηκε
+Set rate,Ορισμός τιμής
+Settings,Ρυθμίσεις
+Settings saved successfully,Οι ρυθμίσεις αποθηκεύτηκαν
+Severity,Σοβαρότητα
+SF (Start-Finish),SF (Αρχή-Τέλος)
+SF - Start-to-Finish,SF - Αρχή-προς-Τέλος
+Show,Εμφάνιση
+Show all,Εμφάνιση όλων
+Show all changes,Εμφάνιση όλων των αλλαγών
+Show Archived,Εμφάνιση αρχειοθετημένων
+Show full diff,Εμφάνιση πλήρους σύγκρισης
+Show less,Εμφάνιση λιγότερων
+Show more,Εμφάνιση περισσότερων
+Skill added,Η δεξιότητα προστέθηκε
+Skill is required,Απαιτείται δεξιότητα
+Skill Name,Όνομα δεξιότητας
+Skill removed,Η δεξιότητα αφαιρέθηκε
+Skill {0} already exists for this resource,Η δεξιότητα {0} υπάρχει ήδη για αυτόν τον πόρο
+Skills,Δεξιότητες
+Skills & Competencies,Δεξιότητες και ικανότητες
+Skip already migrated projects,Παράλειψη ήδη μεταφερμένων έργων
+Sort by,Ταξινόμηση κατά
+Sort: Due Date,Ταξινόμηση: Ημερομηνία λήξης
+Sort: Priority,Ταξινόμηση: Προτεραιότητα
+Sort: Project,Ταξινόμηση: Έργο
+Sort: Status,Ταξινόμηση: Κατάσταση
+Sort: Task,Ταξινόμηση: Εργασία
+Source Code,Πηγαίος κώδικας
+Spent,Δαπανήθηκε
+Spent:,Δαπανήθηκε:
+SS (Start-Start),SS (Αρχή-Αρχή)
+SS - Start-to-Start,SS - Αρχή-προς-Αρχή
+Standalone,Αυτόνομο
+Start,Έναρξη
+Start a discussion below,Ξεκινήστε μια συζήτηση παρακάτω
+Start Date,Ημερομηνία έναρξης
+Start date,Ημερομηνία έναρξης
+Start Date (Earliest),Ημερομηνία έναρξης (πρώτη)
+Start date updated,Η ημερομηνία έναρξης ενημερώθηκε
+Start date/time is required,Απαιτείται ημερομηνία/ώρα έναρξης
+Start Migration,Έναρξη μεταφοράς
+Start the conversation below.,Ξεκινήστε τη συζήτηση παρακάτω.
+Start Timer,Εκκίνηση χρονομέτρου
+Start typing to search...,Ξεκινήστε να πληκτρολογείτε για αναζήτηση...
+Start-to-Finish,Αρχή-προς-Τέλος
+Start-to-Start,Αρχή-προς-Αρχή
+Start:,Έναρξη:
+Statistics reset,Τα στατιστικά μηδενίστηκαν
+Status,Κατάσταση
+Status assigned to new projects,Κατάσταση που ανατίθεται σε νέα έργα
+Status assigned to new tasks,Κατάσταση που ανατίθεται σε νέες εργασίες
+Status Changes,Αλλαγές κατάστασης
+Status updated,Η κατάσταση ενημερώθηκε
+Status:,Κατάσταση:
+Stop,Διακοπή
+Stop & Save,Διακοπή και αποθήκευση
+Stop Timer,Διακοπή χρονομέτρου
+Stops current timer and starts for this event,Σταματά το τρέχον χρονόμετρο και ξεκινά για αυτό το συμβάν
+Stops current timer and starts for this task,Σταματά το τρέχον χρονόμετρο και ξεκινά για αυτή την εργασία
+Subject,Θέμα
+Subject cannot exceed 255 characters,Το θέμα δεν μπορεί να υπερβαίνει τους 255 χαρακτήρες
+Subject is required,Απαιτείται θέμα
+Submit,Υποβολή
+Submit Another Request,Υποβολή άλλου αιτήματος
+Submit Request,Υποβολή αιτήματος
+Submitting...,Υποβολή...
+Successfully saved,Αποθηκεύτηκε
+Successors (Blocking),Επόμενα (αποκλείει)
+Sun,Κυρ
+Supplier,Προμηθευτής
+Support,Υποστήριξη
+Switch to this event,Μετάβαση σε αυτό το συμβάν
+Switch to this task,Μετάβαση σε αυτή την εργασία
+Sync direction is set to Frappe to Orga only,Η κατεύθυνση συγχρονισμού είναι μόνο από Frappe σε Orga
+Sync direction is set to Orga to Frappe only,Η κατεύθυνση συγχρονισμού είναι μόνο από Orga σε Frappe
+Sync not enabled for this project,Ο συγχρονισμός δεν είναι ενεργός για αυτό το έργο
+System,Σύστημα
+Table,Πίνακας
+Take ownership of this task,Ανάληψη αυτής της εργασίας
+Target Date,Ημερομηνία στόχου
+Target End,Λήξη στόχου
+Target Project,Έργο στόχος
+Target user is required for '{0}' action,Απαιτείται χρήστης στόχος για την ενέργεια «{0}»
+Task,Εργασία
+task,εργασία
+Task '{0}' is due on {1}.,Η εργασία «{0}» λήγει στις {1}.
+Task and resource are required,Απαιτούνται εργασία και πόρος
+Task Assignment,Ανάθεση εργασίας
+Task cannot be its own parent,Η εργασία δεν μπορεί να είναι γονική στον εαυτό της
+Task cannot depend on itself,Η εργασία δεν μπορεί να εξαρτάται από τον εαυτό της
+Task cannot depend on the group it belongs to,Η εργασία δεν μπορεί να εξαρτάται από την ομάδα στην οποία ανήκει
+Task created,Η εργασία δημιουργήθηκε
+Task deleted,Η εργασία διαγράφηκε
+Task description has been saved.,Η περιγραφή εργασίας αποθηκεύτηκε.
+Task Details,Λεπτομέρειες εργασίας
+Task due in {0} days: {1},Η εργασία λήγει σε {0} ημέρες: {1}
+Task due today: {0},Η εργασία λήγει σήμερα: {0}
+Task due tomorrow: {0},Η εργασία λήγει αύριο: {0}
+Task duplicated,Η εργασία αντιγράφηκε
+Task Group,Ομάδα εργασιών
+Task ID is required,Απαιτείται αναγνωριστικό εργασίας
+Task is blocked by incomplete dependencies,Η εργασία είναι αποκλεισμένη από ημιτελείς εξαρτήσεις
+Task is cancelled,Η εργασία ακυρώθηκε
+Task is completed,Η εργασία ολοκληρώθηκε
+Task is no longer blocked by a group,Η εργασία δεν αποκλείεται πλέον από ομάδα
+Task is required for task context,Απαιτείται εργασία για το πλαίσιο εργασίας
+Task is required when tracking context is 'task',Απαιτείται εργασία όταν το πλαίσιο παρακολούθησης είναι «εργασία»
+Task linked,Η εργασία συνδέθηκε
+Task moved,Η εργασία μετακινήθηκε
+Task name,Όνομα εργασίας
+Task name is required,Απαιτείται το όνομα της εργασίας
+Task removed from group,Η εργασία αφαιρέθηκε από την ομάδα
+Task Subject,Θέμα εργασίας
+Task subject is required,Απαιτείται το θέμα της εργασίας
+Task Type,Τύπος εργασίας
+Task unblocked: {0},Η εργασία ξεμπλοκαρίστηκε: {0}
+Task unlinked,Η εργασία αποσυνδέθηκε
+Task updated,Η εργασία ενημερώθηκε
+Task {0} not found,Η εργασία {0} δεν βρέθηκε
+Task {0} not in project {1},Η εργασία {0} δεν βρίσκεται στο έργο {1}
+Task {0} to Frappe,Εργασία {0} προς Frappe
+Tasks,Εργασίες
+tasks,εργασίες
+Tasks and milestones will be created with dates relative to the project start date.,Οι εργασίες και τα ορόσημα θα δημιουργηθούν με ημερομηνίες σχετικές με την ημερομηνία έναρξης του έργου.
+Tasks assigned to you across all projects.,Εργασίες που σας έχουν ανατεθεί σε όλα τα έργα.
+Tasks created:,Εργασίες που δημιουργήθηκαν:
+Tasks from projects you manage.,Εργασίες από έργα που διαχειρίζεστε.
+Tasks updated:,Εργασίες που ενημερώθηκαν:
+"Tasks, milestones, and dependencies have been created.","Οι εργασίες, τα ορόσημα και οι εξαρτήσεις δημιουργήθηκαν."
+Tasks:,Εργασίες:
+TBD,Θα καθοριστεί
+Team,Ομάδα
+Team Members,Μέλη ομάδας
+Template,Πρότυπο
+Template applied,Το πρότυπο εφαρμόστηκε
+Template data is required in import data,Απαιτούνται δεδομένα προτύπου στα δεδομένα εισαγωγής
+Template has no data,Το πρότυπο δεν περιέχει δεδομένα
+Template Name,Όνομα προτύπου
+Template name,Όνομα προτύπου
+Template name is required,Απαιτείται το όνομα του προτύπου
+Template name is required in import data,Απαιτείται το όνομα προτύπου στα δεδομένα εισαγωγής
+Template saved,Το πρότυπο αποθηκεύτηκε
+Template updated successfully.,Το πρότυπο ενημερώθηκε.
+Template {0} not found,Το πρότυπο {0} δεν βρέθηκε
+Templates,Πρότυπα
+Tentative,Προσωρινό
+The comment has been deleted,Το σχόλιο διαγράφηκε
+The project,Το έργο
+The source document may have been deleted.,Το αρχικό έγγραφο μπορεί να έχει διαγραφεί.
+The source document will not be affected.,Το αρχικό έγγραφο δεν θα επηρεαστεί.
+The status of '{0}' was changed from {1} to {2}.,Η κατάσταση του «{0}» άλλαξε από {1} σε {2}.
+Theme,Θέμα
+Theme preference,Προτίμηση θέματος
+This action,Αυτή η ενέργεια
+This action cannot be undone.,Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.
+This activity has been flagged for attention,Αυτή η δραστηριότητα σημάνθηκε για προσοχή
+This is a reminder for your upcoming appointment,Αυτή είναι μια υπενθύμιση για το επερχόμενο ραντεβού σας
+This method is only meant for developer mode,Αυτή η μέθοδος προορίζεται μόνο για λειτουργία ανάπτυξης
+This page wandered off,This page wandered off
+This Week,Αυτή την εβδομάδα
+This will delete all notes and preferences associated with this activity.,Αυτό θα διαγράψει όλες τις σημειώσεις και τις προτιμήσεις που σχετίζονται με αυτή τη δραστηριότητα.
+This will import all Frappe Projects into Orga. Continue?,Αυτό θα εισαγάγει όλα τα Frappe έργα στο Orga. Συνέχεια;
+This will permanently delete,Αυτό θα διαγράψει μόνιμα
+This will permanently delete:,Αυτό θα διαγράψει μόνιμα:
+Thu,Πέμ
+Time,Χρόνος
+Time & Billing,Χρόνος και χρέωση
+Time & Revenue,Χρόνος και έσοδα
+Time Entries,Καταχωρήσεις χρόνου
+Time log name is required,Απαιτείται το όνομα της καταχώρησης χρόνου
+Time Log not found,Η καταχώρηση χρόνου δεν βρέθηκε
+Time log {0} not found,Η καταχώρηση χρόνου {0} δεν βρέθηκε
+Time Logs,Καταχωρήσεις χρόνου
+Time Summary,Σύνοψη χρόνου
+Time Tracking,Καταγραφή χρόνου
+Timeline,Χρονοδιάγραμμα
+Timer active on,Χρονόμετρο ενεργό σε
+Timer is not running,Το χρονόμετρο δεν τρέχει
+Timer Running,Το χρονόμετρο τρέχει
+Timer running,Χρονόμετρο σε λειτουργία
+Timesheet DocType not available,Το DocType φύλλου χρόνου δεν είναι διαθέσιμο
+Timesheets,Φύλλα χρόνου
+Timezone,Ζώνη ώρας
+Timezone is detected from your browser,Η ζώνη ώρας εντοπίζεται από τον φυλλομετρητή σας
+Title,Τίτλος
+Title cannot exceed 255 characters,Ο τίτλος δεν μπορεί να υπερβαίνει τους 255 χαρακτήρες
+Title is required,Απαιτείται τίτλος
+Title updated,Ο τίτλος ενημερώθηκε
+To,Προς
+to,προς
+to cancel,για ακύρωση
+to close,για κλείσιμο
+to confirm:,για επιβεβαίωση:
+to edit,για επεξεργασία
+"to save,","για αποθήκευση,"
+To Time cannot be before From Time,Η ώρα λήξης δεν μπορεί να είναι πριν την ώρα έναρξης
+Today,Σήμερα
+today,σήμερα
+Toggle billable,Εναλλαγή χρεώσιμου
+Toggle Details Panel,Εναλλαγή πάνελ λεπτομερειών
+Toggle Manager Panel,Εναλλαγή πάνελ διαχείρισης
+Toggle Sidebar,Εναλλαγή πλαϊνής μπάρας
+Tomorrow,Αύριο
+tomorrow,αύριο
+Total,Σύνολο
+Total Budget,Συνολικός προϋπολογισμός
+Total Contacts,Σύνολο επαφών
+Total Cost,Συνολικό κόστος
+Total Cost to Org,Συνολικό κόστος για τον οργανισμό
+Total Defect Cost,Συνολικό κόστος ελαττωμάτων
+Total Hours,Συνολικές ώρες
+Total Hours Logged,Συνολικές ώρες καταγεγραμμένες
+Total Projects,Σύνολο έργων
+Total Spent,Σύνολο δαπανών
+Total Tasks,Σύνολο εργασιών
+Total:,Σύνολο:
+Tracked,Παρακολουθούμενο
+trails to today while Open at 0%,ολισθαίνει μέχρι σήμερα ενώ είναι Ανοιχτό στο 0%
+Tried:,Tried:
+Try adjusting your filter criteria,Δοκιμάστε να αλλάξετε τα κριτήρια φίλτρων σας
+Try adjusting your filters.,Δοκιμάστε να αλλάξετε τα φίλτρα σας.
+Try Again,Δοκιμάστε ξανά
+Tue,Τρί
+Type,Τύπος
+Type updated,Ο τύπος ενημερώθηκε
+Type:,Τύπος:
+Typical response time: 1-2 business days,Τυπικός χρόνος απάντησης: 1-2 εργάσιμες ημέρες
+Unarchive,Αποαρχειοθέτηση
+Unarchive Activity,Αποαρχειοθέτηση δραστηριότητας
+Unassign,Ακύρωση ανάθεσης
+Unassigned,Χωρίς ανάθεση
+Under Budget,Εντός προϋπολογισμού
+Ungrouped,Χωρίς ομάδα
+Unknown,Άγνωστο
+Unknown error,Άγνωστο σφάλμα
+Unlink failed,Η αποσύνδεση απέτυχε
+Unlink task from milestone,Αποσύνδεση εργασίας από ορόσημο
+Unpin,Ξεκαρφίτσωμα
+Unpin Activity,Ξεκαρφίτσωμα δραστηριότητας
+Unread,Μη αναγνωσμένο
+Unread only,Μόνο μη αναγνωσμένα
+Until,Μέχρι
+Up to Date,Up to Date
+Upcoming,Επερχόμενο
+upcoming,επερχόμενο
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Η ενημέρωση απέτυχε
+Updated,Ενημερώθηκε
+Updated successfully,Ενημερώθηκε
+Updates,Updates
+Upload,Μεταφόρτωση
+Upload failed,Η μεταφόρτωση απέτυχε
+Upload files below to attach them to this task.,Ανεβάστε αρχεία παρακάτω για να τα επισυνάψετε σε αυτή την εργασία.
+Upload to project,Μεταφόρτωση στο έργο
+Uploading...,Μεταφόρτωση...
+Urgent,Επείγον
+User {0} is already linked to client {1},Ο χρήστης {0} είναι ήδη συνδεδεμένος με τον πελάτη {1}
+User {0} is already linked to resource {1},Ο χρήστης {0} είναι ήδη συνδεδεμένος με τον πόρο {1}
+Utilization,Αξιοποίηση
+Valid,Έγκυρο
+Value:,Τιμή:
+Variance,Απόκλιση
+Variance:,Απόκλιση:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Προβολή
+View All,Προβολή όλων
+View all active projects,Προβολή όλων των ενεργών έργων
+View all open tasks,Προβολή όλων των ανοιχτών εργασιών
+View overdue tasks,Προβολή εκπρόθεσμων εργασιών
+View Release,View Release
+Visibility,Ορατότητα
+Waiting for this task,Αναμονή για αυτή την εργασία
+Waits for:,Αναμένει:
+Warning: Resource {0} status is {1},Προειδοποίηση: Η κατάσταση του πόρου {0} είναι {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Προειδοποίηση: Χρησιμοποιείται HTTP αντί HTTPS. Τα δεδομένα webhook ενδέχεται να μην είναι ασφαλή.
+Watch budget closely,Παρακολουθήστε στενά τον προϋπολογισμό
+We'll respond to:,Θα απαντήσουμε στο:
+Webhook deleted,Το webhook διαγράφηκε
+Webhook name is required,Απαιτείται το όνομα του webhook
+Webhook not found,Το webhook δεν βρέθηκε
+Webhook URL is required,Απαιτείται URL webhook
+Webhook URL must start with http:// or https://,Το URL webhook πρέπει να αρχίζει με http:// ή https://
+Wed,Τετ
+Week,Εβδομάδα
+Weekend,Σαββατοκύριακο
+Weekly Capacity,Εβδομαδιαία χωρητικότητα
+weekly capacity,εβδομαδιαία χωρητικότητα
+Weekly Capacity (h),Εβδομαδιαία χωρητικότητα (ω)
+Welcome,Καλώς ήρθατε
+Welcome back!,Καλώς ήρθατε πίσω!
+Welcome to Orga,Καλώς ήρθατε στο Orga
+What are you working on?,Σε τι εργάζεστε;
+What did you work on?,Σε τι εργαστήκατε;
+When,Πότε
+When work begins,Όταν ξεκινά η εργασία
+When work is due,Όταν λήγει η εργασία
+Where,Πού
+Will capture:,Θα καταγράψει:
+Will create:,Θα δημιουργήσει:
+with checklist items,με στοιχεία λίστας ελέγχου
+Working,Σε εξέλιξη
+Workload,Φόρτος εργασίας
+Workmanship,Ποιότητα εργασίας
+Write a comment...,Γράψτε ένα σχόλιο...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Γράψτε ένα σχόλιο... Χρησιμοποιήστε @όνομα για αναφορά (Ctrl+Enter για αποστολή)
+Year,Έτος
+Yes,Ναι
+Yesterday,Χθες
+yesterday,χθες
+You are not an attendee of this appointment,Δεν είστε συμμετέχων σε αυτό το ραντεβού
+You are not linked to any resource,Δεν είστε συνδεδεμένος με κάποιον πόρο
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Μπορείτε να διαγράψετε μόνο τα δικά σας σχόλια
+You can only delete your own reactions,Μπορείτε να διαγράψετε μόνο τις δικές σας αντιδράσεις
+You do not have access to the client portal. Please contact support.,Δεν έχετε πρόσβαση στην πύλη πελάτη. Επικοινωνήστε με την υποστήριξη.
+You have already reacted with '{0}',Έχετε ήδη αντιδράσει με «{0}»
+You have been assigned to task '{0}' in project '{1}'.,Σας ανατέθηκε η εργασία «{0}» στο έργο «{1}».
+You have been assigned to: {0},Σας ανατέθηκε: {0}
+You have been invited to the following appointment,Έχετε προσκληθεί στο ακόλουθο ραντεβού
+You have no tasks assigned to you right now.,Δεν σας έχουν ανατεθεί εργασίες αυτή τη στιγμή.
+You were mentioned in {0},Αναφερθήκατε στο {0}
+Your attendance,Η συμμετοχή σας
+Your comment has been posted,Το σχόλιό σας δημοσιεύτηκε
+Your Projects,Τα έργα σας
+Your projects will appear here once they're assigned to you.,Τα έργα σας θα εμφανιστούν εδώ μόλις σας ανατεθούν.
+Your Response,Η απάντησή σας
+Your RSVP,Η απάντησή σας RSVP
+Your support request has been submitted successfully.,Το αίτημα υποστήριξής σας υποβλήθηκε.
+Your support request has been submitted successfully. We'll get back to you shortly.,Το αίτημα υποστήριξής σας υποβλήθηκε. Θα επικοινωνήσουμε μαζί σας σύντομα.
+"Your task ""{0}"" is no longer blocked and can now be started.",Η εργασία σας «{0}» δεν είναι πλέον αποκλεισμένη και μπορεί τώρα να ξεκινήσει.
+{0} is required,Απαιτείται {0}
+{0} new activities,{0} νέες δραστηριότητες
+{0} of {1} completed,{0} από {1} ολοκληρώθηκαν
+{0} projects already migrated (will be skipped or updated),{0} έργα ήδη μεταφέρθηκαν (θα παραλειφθούν ή θα ενημερωθούν)
+{0} status changed to {1},Η κατάσταση {0} άλλαξε σε {1}
+{0} tasks remaining,{0} εργασίες απομένουν
+{0} tasks without projects will be skipped,{0} εργασίες χωρίς έργα θα παραλειφθούν
+{0} {1} not found,{0} {1} δεν βρέθηκε

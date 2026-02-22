@@ -1,0 +1,1492 @@
++ Add Milestone,+ Afegir una fita
++ Create Task,+ Crear una tasca
++ Log Time,+ Registrar el temps
+-- Select a project --,-- Seleccioneu un projecte --
+0m,0m
+1 day,1 dia
+1 day ago,fa 1 dia
+1 dependency,1 dependència
+1 entry,1 entrada
+1 file,1 fitxer
+1 hour ago,fa 1 hora
+1 member,1 membre
+1 milestone,1 fita
+1 month,1 mes
+1 task,1 tasca
+< 1m,< 1m
+"A clear, actionable title for the task",Un títol clar i concret per a la tasca
+A client with email {0} already exists: {1},Ja existeix un client amb l'adreça electrònica {0}: {1}
+A key deliverable or checkpoint for the project,Un lliurable clau o punt de control del projecte
+Accept,Acceptar
+Accepted,Acceptat
+Acknowledge,Confirmar recepció
+across,en
+Action,Acció
+Actions,Accions
+Active,Actiu
+Active Assignments,Assignacions actives
+Active Projects,Projectes actius
+Activity,Activitat
+Activity data deleted successfully,Dades d'activitat suprimides correctament
+Activity Info,Informació de l'activitat
+Activity Stats,Estadístiques d'activitat
+Activity will appear here as you work on tasks and projects.,L'activitat apareixerà aquí a mesura que treballeu en tasques i projectes.
+Actual,Real
+Actual Cost,Cost real
+Actual cost cannot be negative,El cost real no pot ser negatiu
+Actual end date cannot be before actual start date,La data de finalització real no pot ser anterior a la data d'inici real
+Actual Hours,Hores reals
+Add,Afegir
+Add a checklist item...,Afegir un element a la llista de verificació...
+Add a comment...,Afegir un comentari...
+Add a comment... (Ctrl+Enter to send),Afegir un comentari... (Ctrl+Retorn per enviar)
+Add a description...,Afegir una descripció...
+Add a milestone description...,Afegir una descripció de la fita...
+Add a note below to annotate this activity.,Afegiu una nota a continuació per anotar aquesta activitat.
+Add a note...,Afegir una nota...
+Add a project description...,Afegir una descripció del projecte...
+Add a task description...,Afegir una descripció de la tasca...
+Add checklist item...,Afegir un element a la llista de verificació...
+Add Contact,Afegir un contacte
+Add contacts via the Desk interface or clear filters,Afegiu contactes mitjançant la interfície Desk o esborreu els filtres
+Add Dependency,Afegir una dependència
+Add details about this event...,Afegir detalls sobre aquest esdeveniment...
+Add details about this milestone...,Afegir detalls sobre aquesta fita...
+Add details about this task...,Afegir detalls sobre aquesta tasca...
+Add details or acceptance criteria for this milestone,Afegir detalls o criteris d'acceptació per a aquesta fita
+"Add details, context, or acceptance criteria","Afegir detalls, context o criteris d'acceptació"
+Add first dependency,Afegir la primera dependència
+Add item,Afegir un element
+Add items below to track progress.,Afegiu elements a continuació per fer el seguiment del progrés.
+Add items below to track subtasks,Afegiu elements a continuació per fer el seguiment de les subtasques
+Add Milestone,Afegir una fita
+Add Milestone (Shift+M),Afegir una fita (Shift+M)
+Add milestones to track key deliverables.,Afegiu fites per fer el seguiment dels lliurables clau.
+Add New Contact,Afegir un nou contacte
+Add Note,Afegir una nota
+Add note,Afegir una nota
+Add notes about this contact...,Afegir notes sobre aquest contacte...
+Add reaction,Afegir una reacció
+Add Skill,Afegir una habilitat
+Add start and due dates to tasks to see them on the Gantt chart,Afegiu dates d'inici i de venciment a les tasques per veure-les al diagrama de Gantt
+Add Task,Afegir una tasca
+Add Task (Shift+T),Afegir una tasca (Shift+T)
+Added Finish-to-Start dependency,Dependència Fi-a-Inici afegida
+Adding this dependency would create a circular reference: {0},Afegir aquesta dependència crearia una referència circular: {0}
+Adding...,Afegint...
+Address,Adreça
+Advanced,Avançat
+All,Tots
+All Active,Tots els actius
+All Assignees,Tots els assignats
+All Categories,Totes les categories
+All caught up!,Tot al dia!
+All Contexts,Tots els contextos
+All day,Tot el dia
+All day event,Esdeveniment de tot el dia
+All fields,Tots els camps
+All Priorities,Totes les prioritats
+All Projects,Tots els projectes
+All Status,Tots els estats
+All Statuses,Tots els estats
+All task dependencies & relative dates,Totes les dependències de tasques i dates relatives
+All Tasks,Totes les tasques
+All tasks across all projects.,Totes les tasques de tots els projectes.
+All tasks are already linked,Totes les tasques ja estan vinculades
+All team members,Tots els membres de l'equip
+All Types,Tots els tipus
+All Users,Tots els usuaris
+Allocated,Assignat
+allocated,assignat
+Allow users to log time against tasks,Permetre als usuaris registrar temps en les tasques
+Already exported to timesheet {0},Ja exportat al full de temps {0}
+Already Migrated,Ja migrat
+Anyone with access,Qualsevol persona amb accés
+anytime to show this help,en qualsevol moment per mostrar aquesta ajuda
+App Updates,App Updates
+Appearance,Aparença
+Apply,Aplicar
+Apply cascade?,Aplicar la cascada?
+Apply Changes,Aplicar els canvis
+Apply failed,Error en aplicar
+Apply Template,Aplicar una plantilla
+Applying...,Aplicant...
+Appointment,Cita
+Appointment and resource are required,La cita i el recurs són obligatoris
+Appointment name is required,El nom de la cita és obligatori
+Appointment not found,Cita no trobada
+Appointment {0} not found,Cita {0} no trobada
+Apps,Aplicacions
+Archive,Arxivar
+Archive Activity,Arxivar l'activitat
+Archived,Arxivat
+Are you sure you want to delete this activity data? This cannot be undone.,Esteu segur que voleu suprimir aquestes dades d'activitat? Aquesta acció és irreversible.
+Are you sure you want to delete this comment?,Esteu segur que voleu suprimir aquest comentari?
+Are you sure you want to delete this project?,Esteu segur que voleu suprimir aquest projecte?
+Are you sure?,Esteu segur?
+Ascending -- click to reverse,Ascendent -- feu clic per invertir
+Assign To,Assignar a
+Assign to Me,Assignar-me
+Assigned Contact,Contacte assignat
+Assigned To,Assignat a
+Assigned to,Assignat a
+Assigned to Me,Assignat a mi
+Assignee,Assignat
+Assignment,Assignació
+Assignment History,Historial d'assignacions
+Assignment name is required,El nom de l'assignació és obligatori
+Assignment {0} not found,Assignació {0} no trobada
+Assignments,Assignacions
+At least one action is required,Cal almenys una acció
+At least one event is required,Cal almenys un esdeveniment
+At least one event must be selected,Cal seleccionar almenys un esdeveniment
+Attachment,Fitxer adjunt
+Attachments,Fitxers adjunts
+Attendees,Assistents
+"Audit trail, assignments, version history","Traça d'auditoria, assignacions, historial de versions"
+Auto,Automàtic
+Auto Calculate Progress,Calcular el progrés automàticament
+Auto Set Missed Milestones,Marcar automàticament les fites perdudes
+Auto-shift dependents when dates change,Desplaçar automàticament els dependents quan canviïn les dates
+Auto-Trail Start,Inici automàtic per lliscament
+Auto-Trail updated,Inici automàtic per lliscament actualitzat
+Automatically calculate project progress from task completion,Calcular automàticament el progrés del projecte a partir de les tasques completades
+Automatically mark milestones as missed when overdue,Marcar automàticament les fites com a perdudes quan estiguin endarrerides
+Automation rule {0} not found,Regla d'automatització {0} no trobada
+Automation: {0},Automatització: {0}
+Availability,Disponibilitat
+Available,Disponible
+Avatar updated successfully,Avatar actualitzat correctament
+Avg Progress,Progrés mitjà
+Back,Enrere
+Back to Portal,Tornar al portal
+Back to Projects,Tornar als projectes
+Beginner,Principiant
+Best regards,Atentament
+Billable,Facturable
+Billable Amount,Import facturable
+Billable Hours,Hores facturables
+Billable Rate,Tarifa facturable
+Billing Rate,Tarifa de facturació
+Blocked,Bloquejat
+Both dates are needed to display task as a bar in Gantt chart,Calen ambdues dates per mostrar la tasca com a barra al diagrama de Gantt
+Both doctype and docname are required,Cal indicar tant el doctype com el docname
+Both proposed start and end times are required,Cal indicar tant l'hora d'inici com la de finalització proposades
+Both task_name and depends_on are required,Cal indicar tant task_name com depends_on
+Breadcrumb,Fil d'Ariadna
+Brief description of the defect or damage,Breu descripció del defecte o dany
+Brief description of this template,Breu descripció d'aquesta plantilla
+Brief description of your request,Breu descripció de la vostra sol·licitud
+Brief project description,Breu descripció del projecte
+Budget,Pressupost
+Budget at risk,Pressupost en risc
+Budget Burn Rate,Ritme de consum del pressupost
+Budget Status,Estat del pressupost
+Budget updated,Pressupost actualitzat
+Budget:,Pressupost:
+Bug,Error
+Burn Rate,Ritme de consum
+Busy,Ocupat
+By,Per
+By Assignee,Per assignat
+By Group,Per grup
+By Milestone,Per fita
+By Priority,Per prioritat
+By Status,Per estat
+Cancel,Cancel·lar
+Cancelled,Cancel·lat
+cannot be undone,irreversible
+Cannot delete client with {0} linked projects. Unlink projects first.,No es pot suprimir el client amb {0} projectes vinculats. Desvinculeu primer els projectes.
+Cannot delete project with {0} linked tasks. Delete tasks first.,No es pot suprimir el projecte amb {0} tasques vinculades. Suprimiu primer les tasques.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,No es pot suprimir el recurs amb {0} assignacions actives. Completeu-les o cancel·leu-les primer.
+Cannot delete task with {0} subtasks. Delete subtasks first.,No es pot suprimir la tasca amb {0} subtasques. Suprimiu primer les subtasques.
+Capacity,Capacitat
+capacity,capacitat
+Capacity & Rates,Capacitat i tarifes
+Capture project structure for reuse,Capturar l'estructura del projecte per reutilitzar-la
+Cascade,Cascada
+Cascade Preview,Previsualització en cascada
+Category,Categoria
+Celebrate,Celebrar
+Change,Canviar
+Change History,Historial de canvis
+Change Priority,Canviar la prioritat
+Change Status,Canviar l'estat
+Changes,Canvis
+Changes appear when fields are modified.,Els canvis apareixen quan es modifiquen els camps.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Llista de verificació
+Checklist item name is required,El nom de l'element de la llista de verificació és obligatori
+Checklist item not found,Element de la llista de verificació no trobat
+Checklist item title is required,El títol de l'element de la llista de verificació és obligatori
+Checklist item {0} not found,Element de la llista de verificació {0} no trobat
+Checklist item {0} not found in task,Element de la llista de verificació {0} no trobat a la tasca
+Child,Fill
+Choose file to upload,Trieu un fitxer per pujar
+Circular dependency detected: {0},Dependència circular detectada: {0}
+Circular parent-child relationship detected,Relació circular pare-fill detectada
+Clear,Esborrar
+Clear all read,Esborrar totes les llegides
+Clear date,Esborrar la data
+Click on an activity from the list to view and manage its details.,Feu clic en una activitat de la llista per veure'n i gestionar-ne els detalls.
+Click the avatar to upload a new photo,Feu clic a l'avatar per pujar una foto nova
+Click to add description...,Feu clic per afegir una descripció...
+Click to add notes...,Feu clic per afegir notes...
+Click to assign contact,Feu clic per assignar un contacte
+Click to change status,Feu clic per canviar l'estat
+Click to change type,Feu clic per canviar el tipus
+Click to edit,Feu clic per editar
+Click to edit budget,Feu clic per editar el pressupost
+Click to edit description,Feu clic per editar la descripció
+Click to edit end date,Feu clic per editar la data de finalització
+Click to edit milestone name,Feu clic per editar el nom de la fita
+Click to edit rate,Feu clic per editar la tarifa
+Click to edit start date,Feu clic per editar la data d'inici
+Click to edit title,Feu clic per editar el títol
+Click to load,Feu clic per carregar
+Click to set group dependency...,Feu clic per establir una dependència de grup...
+Click to set group...,Feu clic per establir el grup...
+Click to view,Feu clic per veure
+Click to view at-risk projects,Feu clic per veure els projectes en risc
+Click to view critical projects,Feu clic per veure els projectes crítics
+Click to view healthy projects,Feu clic per veure els projectes saludables
+Client,Client
+Client already has a portal user: {0},El client ja té un usuari del portal: {0}
+Client already has portal access,El client ja té accés al portal
+Client has no portal user to revoke,El client no té cap usuari del portal per revocar
+Client link removed from project {0},Enllaç del client eliminat del projecte {0}
+Client Portal,Portal del client
+Client {0} deleted successfully,Client {0} suprimit correctament
+Close,Tancar
+Close (Esc),Tancar (Esc)
+Comment,Comentari
+comment,comentari
+Comment added,Comentari afegit
+Comment content is required,El contingut del comentari és obligatori
+Comment name is required,El nom del comentari és obligatori
+Comment not found,Comentari no trobat
+Comment removed,Comentari eliminat
+Comment {0} not found in task,Comentari {0} no trobat a la tasca
+Comments,Comentaris
+comments,comentaris
+Community Edition,Community Edition
+Company,Empresa
+Company name...,Nom de l'empresa...
+Complete,Completar
+Completed,Completat
+completed,completat
+Completed Tasks,Tasques completades
+Compliance,Compliment
+Configure default values for new projects and tasks,Configurar els valors per defecte per als nous projectes i tasques
+Configure email notification settings,Configurar els paràmetres de notificació per correu electrònic
+Confirm,Confirmar
+Contact deleted,Contacte suprimit
+Contact Details,Detalls del contacte
+Contact Information,Informació de contacte
+Contact name is required,El nom del contacte és obligatori
+Contact Support,Contactar amb el suport
+Contact your project manager for more information.,Contacteu amb el responsable del projecte per obtenir més informació.
+Contact:,Contacte:
+Contacts,Contactes
+Context,Context
+Contractor,Contractista
+Cost estimate cannot be negative,L'estimació de cost no pot ser negativa
+Cost Impact,Impacte en el cost
+Cost Summary,Resum de costos
+Could not apply the template. Please try again.,No s'ha pogut aplicar la plantilla. Si us plau torneu-ho a provar.
+Could not attach file to project,No s'ha pogut adjuntar el fitxer al projecte
+Could not change task priority,No s'ha pogut canviar la prioritat de la tasca
+Could not change task status,No s'ha pogut canviar l'estat de la tasca
+Could not delete the project. Please try again.,No s'ha pogut suprimir el projecte. Si us plau torneu-ho a provar.
+Could not delete the task. Please try again.,No s'ha pogut suprimir la tasca. Si us plau torneu-ho a provar.
+Could not delete the template.,No s'ha pogut suprimir la plantilla.
+Could not duplicate the task. Please try again.,No s'ha pogut duplicar la tasca. Si us plau torneu-ho a provar.
+Could not export the template.,No s'ha pogut exportar la plantilla.
+Could not import the template. Please check the file format.,No s'ha pogut importar la plantilla. Si us plau comproveu el format del fitxer.
+Could not link task to milestone,No s'ha pogut vincular la tasca a la fita
+Could not load document details.,No s'han pogut carregar els detalls del document.
+Could not load task details,No s'han pogut carregar els detalls de la tasca
+Could not promote checklist item to task.,No s'ha pogut promoure l'element de la llista de verificació a tasca.
+Could not remove task from milestone,No s'ha pogut eliminar la tasca de la fita
+Could not save budget.,No s'ha pogut desar el pressupost.
+Could not save changes to the milestone,No s'han pogut desar els canvis de la fita
+Could not save changes to the task,No s'han pogut desar els canvis de la tasca
+Could not save description.,No s'ha pogut desar la descripció.
+Could not save end date.,No s'ha pogut desar la data de finalització.
+Could not save milestone name.,No s'ha pogut desar el nom de la fita.
+Could not save start date.,No s'ha pogut desar la data d'inici.
+Could not save the template. Please try again.,No s'ha pogut desar la plantilla. Si us plau torneu-ho a provar.
+Could not save title.,No s'ha pogut desar el títol.
+Could not update dependency mode.,No s'ha pogut actualitzar el mode de dependència.
+Could not update milestone date,No s'ha pogut actualitzar la data de la fita
+Could not update project status.,No s'ha pogut actualitzar l'estat del projecte.
+Could not update project type.,No s'ha pogut actualitzar el tipus de projecte.
+Could not update setting.,No s'ha pogut actualitzar el paràmetre.
+Could not update task dates,No s'han pogut actualitzar les dates de la tasca
+Could not update task status,No s'ha pogut actualitzar l'estat de la tasca
+Could not update the template.,No s'ha pogut actualitzar la plantilla.
+Create a copy of this task,Crear una còpia d'aquesta tasca
+Create Contact,Crear un contacte
+Create Event,Crear un esdeveniment
+Create Milestone,Crear una fita
+Create New Milestone,Crear una fita nova
+Create New Task,Crear una tasca nova
+Create Project,Crear un projecte
+Create Task,Crear una tasca
+Create tasks and milestones from a template,Crear tasques i fites a partir d'una plantilla
+Create your first project to get started.,Creeu el vostre primer projecte per començar.
+Create your first task to start tracking work on this project.,Creeu la vostra primera tasca per començar a fer el seguiment del treball en aquest projecte.
+Created,Creat
+Creating...,Creant...
+Critical,Crític
+Critical Path,Camí crític
+"Currency used for budgets, costs, and billing rates","Moneda utilitzada per a pressupostos, costos i tarifes de facturació"
+Current,Actual
+Current Assignments,Assignacions actuals
+Current scheduled time:,Horari programat actual:
+Currently running version,Currently running version
+d lag,d de retard
+Daily Availability,Disponibilitat diària
+Daily Hours,Hores diàries
+Danger Zone,Zona de perill
+Dark,Fosc
+Dashboard,Tauler
+Date,Data
+Date changes on this task will show cascade impact here,Els canvis de dates en aquesta tasca mostraran l'impacte en cascada aquí
+Date cleared,Data esborrada
+Date of Joining,Data d'incorporació
+Date updated,Data actualitzada
+Dates,Dates
+Dates cascaded,Dates posades en cascada
+Dates will be relative to the project's start date.,Les dates seran relatives a la data d'inici del projecte.
+Day,Dia
+day,dia
+days,dies
+Days before due date to send reminder,Dies abans de la data de venciment per enviar un recordatori
+Days Overdue,Dies d'endarreriment
+Days Remaining,Dies restants
+Deadline,Termini
+Deadlines,Terminis
+Decision,Decisió
+Decline,Rebutjar
+Declined,Rebutjat
+Default Currency,Moneda per defecte
+Default hours per week for contact capacity planning,Hores per defecte per setmana per a la planificació de capacitat dels contactes
+Default Priority,Prioritat per defecte
+Default Project Status,Estat de projecte per defecte
+Default Task Status,Estat de tasca per defecte
+Default task view,Vista de tasca per defecte
+Default Values,Valors per defecte
+Default Weekly Capacity,Capacitat setmanal per defecte
+Defaults,Valors per defecte
+Defect Cost Impact,Impacte econòmic del defecte
+Defect name is required,El nom del defecte és obligatori
+Defect Type,Tipus de defecte
+Defect {0} not found,Defecte {0} no trobat
+Defects,Defectes
+Defects & Issues,Defectes i problemes
+Defects Resolved,Defectes resolts
+Delayed,Endarrerit
+Delete,Suprimir
+Delete Activity Data,Suprimir les dades d'activitat
+Delete all read notifications?,Suprimir totes les notificacions llegides?
+Delete comment,Suprimir el comentari
+Delete Contact,Suprimir el contacte
+Delete Event,Suprimir l'esdeveniment
+Delete Event?,Suprimir l'esdeveniment?
+Delete failed,Error en suprimir
+Delete file,Suprimir el fitxer
+Delete item,Suprimir l'element
+Delete note,Suprimir la nota
+Delete Project,Suprimir el projecte
+Delete Task,Suprimir la tasca
+Delete this project,Suprimir aquest projecte
+Deleted,Suprimit
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Projecte ""{0}"" suprimit ({1} tasques, {2} fites)"
+Deletes notes and preferences. Source document is not affected.,Suprimeix les notes i les preferències. El document font no es veu afectat.
+Deleting...,Suprimint...
+Department,Departament
+Dependencies,Dependències
+dependencies,dependències
+Dependencies are informational only,Les dependències són només informatives
+dependency,dependència
+Dependency already exists,La dependència ja existeix
+Dependency Chain,Cadena de dependències
+Dependency created,Dependència creada
+Dependency mode updated,Mode de dependència actualitzat
+Dependency name is required,El nom de la dependència és obligatori
+Dependency task {0} not found,Tasca de dependència {0} no trobada
+Dependency {0} not found,Dependència {0} no trobada
+depends,depèn
+Depends on Group,Depèn del grup
+Depends on task is required,La tasca de dependència és obligatòria
+depends on...,depèn de...
+Descending -- click to reverse,Descendent -- feu clic per invertir
+Describe the defect in detail...,Descriviu el defecte amb detall...
+Description,Descripció
+Description updated,Descripció actualitzada
+Designation,Càrrec
+"Detailed description of the defect, location, and impact","Descripció detallada del defecte, la ubicació i l'impacte"
+Details,Detalls
+Discard timer,Descartar el cronòmetre
+Discussion,Discussió
+Dismiss,Dismiss
+Display,Visualització
+Document,Document
+Document attached to project,Document adjuntat al projecte
+Document final decision and rationale,Documentar la decisió final i la justificació
+Documentation Review,Revisió documental
+Documents,Documents
+Done,Fet
+Download,Baixar
+Drag to create dependency,Arrossegueu per crear una dependència
+Dry Run,Simulació
+Dry Run Complete,Simulació completada
+Due Date,Data de venciment
+Due date,Data de venciment
+Due Date (Earliest),Data de venciment (la més propera)
+Due date cannot be before start date,La data de venciment no pot ser anterior a la data d'inici
+Due date is in the past,La data de venciment és al passat
+Due Date Reminders,Recordatoris de data de venciment
+Due Diligence,Verificació prèvia
+Due Diligence Checklist,Llista de verificació prèvia
+Due This Week,Venciment aquesta setmana
+Due:,Venciment:
+Duplicate events are not allowed,No es permeten esdeveniments duplicats
+Duplicate failed,Error en duplicar
+Duplicate Task,Duplicar la tasca
+Duration,Durada
+Duration Summary,Resum de la durada
+Duration:,Durada:
+e.g. Cracked wall finish in bathroom...,p. ex. Esquerda en l'acabat de la paret del bany...
+"e.g. Electrical, Plumbing...","p. ex. Electricitat, Fontaneria..."
+Edit,Editar
+Edit (E),Editar (E)
+Edit dependency,Editar la dependència
+Edit Event,Editar l'esdeveniment
+Efficiency,Eficiència
+Either dependency_name or depends_on is required,Cal indicar dependency_name o depends_on
+Email,Correu electrònic
+Email invitations to all attendees,Invitacions per correu electrònic a tots els assistents
+Email is required to create portal user,Cal una adreça electrònica per crear un usuari del portal
+Email notifications,Notificacions per correu electrònic
+Employee,Empleat
+Employee DocType not available,DocType Empleat no disponible
+Employee not found,Empleat no trobat
+Enable or disable optional features,Activar o desactivar funcionalitats opcionals
+Enable Time Tracking,Activar el seguiment del temps
+End,Fi
+End Date,Data de finalització
+End date,Data de finalització
+End Date cannot be before Start Date,La data de finalització no pot ser anterior a la data d'inici
+End date cannot be before start date,La data de finalització no pot ser anterior a la data d'inici
+End date updated,Data de finalització actualitzada
+End time was before start time. Adjusted to 1 hour after start.,L'hora de finalització era anterior a l'hora d'inici. Ajustada a 1 hora després de l'inici.
+End:,Fi:
+Enter milestone name...,Introduïu el nom de la fita...
+Enter project name,Introduïu el nom del projecte
+Enter task title...,Introduïu el títol de la tasca...
+Enter template name,Introduïu el nom de la plantilla
+Enter your note... Use @name to mention someone,Introduïu la vostra nota... Utilitzeu @nom per esmentar algú
+Error,Error
+Error loading activity,Error en carregar l'activitat
+Error loading contacts,Error en carregar els contactes
+Error loading dashboard,Error en carregar el tauler
+Error loading project,Error en carregar el projecte
+Error loading projects,Error en carregar els projectes
+Error loading settings,Error en carregar els paràmetres
+Error loading tasks,Error en carregar les tasques
+Error loading templates,Error en carregar les plantilles
+Est. Hours,Hores est.
+Estimated,Estimat
+Estimated Cost,Cost estimat
+Estimated Cost (€),Cost estimat (€)
+Estimated Hours,Hores estimades
+Estimated:,Estimat:
+Evaluate potential risks and concerns,Avaluar els riscos i les preocupacions potencials
+Event,Esdeveniment
+Event is required for event context,L'esdeveniment és obligatori per al context d'esdeveniment
+Event is required when tracking context is 'event',L'esdeveniment és obligatori quan el context de seguiment és «esdeveniment»
+Event Type,Tipus d'esdeveniment
+Events,Esdeveniments
+Events not available. Please run: bench --site orga.localhost migrate,Esdeveniments no disponibles. Si us plau executeu: bench --site orga.localhost migrate
+Events:,Esdeveniments:
+Expert,Expert
+Explain why you are proposing a different time...,Expliqueu per què proposeu un horari diferent...
+Export,Exportar
+Export failed,Error en exportar
+Export JSON,Exportar en JSON
+Exported,Exportat
+Exported to timesheet {0},Exportat al full de temps {0}
+External,Extern
+Failed to add item,Error en afegir l'element
+Failed to add note,Error en afegir la nota
+Failed to add skill,Error en afegir l'habilitat
+Failed to apply cascade changes: {0},Error en aplicar els canvis en cascada: {0}
+Failed to create defect,Error en crear el defecte
+Failed to create dependency,Error en crear la dependència
+Failed to create event,Error en crear l'esdeveniment
+Failed to create milestone,Error en crear la fita
+Failed to create project,Error en crear el projecte
+Failed to create task,Error en crear la tasca
+Failed to create time log,Error en crear l'entrada de temps
+Failed to delete,Error en suprimir
+Failed to delete comment,Error en suprimir el comentari
+Failed to delete contact,Error en suprimir el contacte
+Failed to load,Error en carregar
+Failed to load activity,Error en carregar l'activitat
+Failed to load assignments,Error en carregar les assignacions
+Failed to load contact,Error en carregar el contacte
+Failed to load dashboard data,Error en carregar les dades del tauler
+Failed to load defects,Error en carregar els defectes
+Failed to load events,Error en carregar els esdeveniments
+Failed to load project,Error en carregar el projecte
+Failed to load projects,Error en carregar els projectes
+Failed to load report data,Error en carregar les dades de l'informe
+Failed to load settings,Error en carregar els paràmetres
+Failed to load tasks,Error en carregar les tasques
+Failed to move task,Error en moure la tasca
+Failed to post comment,Error en publicar el comentari
+Failed to propose new time,Error en proposar un nou horari
+Failed to remove item,Error en eliminar l'element
+Failed to remove skill,Error en eliminar l'habilitat
+Failed to reorder milestones: {0},Error en reordenar les fites: {0}
+Failed to reorder tasks: {0},Error en reordenar les tasques: {0}
+Failed to reschedule dependent tasks: {0},Error en reprogramar les tasques dependents: {0}
+Failed to save,Error en desar
+Failed to save preferences,Error en desar les preferències
+Failed to save settings,Error en desar els paràmetres
+Failed to submit request. Please try again.,Error en enviar la sol·licitud. Si us plau torneu-ho a provar.
+Failed to update item,Error en actualitzar l'element
+Failed to update priority,Error en actualitzar la prioritat
+Failed to update task,Error en actualitzar la tasca
+Failed to update tasks: {0},Error en actualitzar les tasques: {0}
+Failed to upload avatar,Error en pujar l'avatar
+Feature,Funcionalitat
+Features,Funcionalitats
+FF (Finish-Finish),FF (Fi-Fi)
+FF - Finish-to-Finish,FF - Fi-a-Fi
+Field has been updated,El camp s'ha actualitzat
+Field name is required for 'Set Field Value' action,El nom del camp és obligatori per a l'acció «Establir el valor del camp»
+Field {0} is not a Link field,El camp {0} no és un camp de tipus Enllaç
+Field {0} not found in {1},Camp {0} no trobat a {1}
+File,Fitxer
+file,fitxer
+File does not belong to this task,El fitxer no pertany a aquesta tasca
+File name is required,El nom del fitxer és obligatori
+File uploaded,Fitxer pujat
+File {0} not found,Fitxer {0} no trobat
+Files,Fitxers
+files,fitxers
+Filter,Filtre
+Final Decision,Decisió final
+Finance,Finances
+Financial,Financer
+Finish-to-Finish,Fi-a-Fi
+Finish-to-Start,Fi-a-Inici
+Flag,Senyalar
+Flag for attention,Senyalar per a atenció
+Flagged,Senyalat
+Focus Panel,Panell de focus
+Follows your system preference. Currently:,Segueix la preferència del sistema. Actualment:
+Frappe Project {0} not found,Projecte Frappe {0} no trobat
+Frappe Projects Migration,Migració de Frappe Projects
+Frappe Projects module not available,Mòdul Frappe Projects no disponible
+Frappe Projects module not installed,Mòdul Frappe Projects no instal·lat
+Frappe Projects sync is not enabled,La sincronització de Frappe Projects no està activada
+Frappe Task DocType not found,DocType Tasca de Frappe no trobat
+Frappe Task has no project,La tasca de Frappe no té cap projecte
+Frappe Task {0} not found,Tasca de Frappe {0} no trobada
+Fri,Dv
+From,De
+From Template,Des d'una plantilla
+FS (Finish-Start),FS (Fi-Inici)
+FS - Finish-to-Start (default),FS - Fi-a-Inici (per defecte)
+Full form view with audit trail,Vista completa del formulari amb traça d'auditoria
+Full name,Nom complet
+Gantt,Gantt
+Gantt Chart,Diagrama de Gantt
+Gantt View,Vista Gantt
+General Note,Nota general
+Get started,Comenceu
+Go back,Tornar enrere
+Go Back,Go Back
+Group by,Agrupar per
+Group dependency removed,Dependència de grup eliminada
+Group dependency set,Dependència de grup establerta
+Group removed,Grup eliminat
+Group updated,Grup actualitzat
+Hammock task dates are auto-calculated and cannot be changed manually,Les dates de les tasques hamac es calculen automàticament i no es poden canviar manualment
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Teniu alguna pregunta o necessiteu ajuda? Ompliu el formulari a continuació i el nostre equip us respondrà.
+Health,Salut
+Healthy,Saludable
+Hello {0},Hola {0}
+Here's what's happening with your projects today.,Això és el que passa avui amb els vostres projectes.
+Hide,Amagar
+High,Alta
+History,Historial
+Home,Inici
+Hourly Cost,Cost per hora
+Hours,Hores
+hours,hores
+Hours Logged,Hores registrades
+ID,ID
+Image must be smaller than 5 MB,La imatge ha de ser inferior a 5 MB
+Import,Importar
+Import existing projects and tasks from Frappe Projects module,Importar projectes i tasques existents des del mòdul Frappe Projects
+Import failed,Error en importar
+Import Template,Importar una plantilla
+Imported,Importat
+in,en
+In Progress,En curs
+In Review,En revisió
+In-app notifications,Notificacions dins l'aplicació
+Inactive,Inactiu
+Initial Review,Revisió inicial
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Permisos insuficients per veure totes les tasques
+Intermediate,Intermedi
+Internal,Intern
+Invalid DocType,DocType no vàlid
+Invalid DocType for import,DocType no vàlid per a la importació
+Invalid item type: {0},Tipus d'element no vàlid: {0}
+Invalid JSON data,Dades JSON no vàlides
+Invalid note type. Must be one of: {0},Tipus de nota no vàlid. Ha de ser un dels següents: {0}
+Invalid project reference,Referència de projecte no vàlida
+Invalid reaction type. Must be one of: {0},Tipus de reacció no vàlid. Ha de ser un dels següents: {0}
+Invalid RSVP status,Estat RSVP no vàlid
+Invalid status. Must be one of: {0},Estat no vàlid. Ha de ser un dels següents: {0}
+Invalid status: {0},Estat no vàlid: {0}
+Invalid status: {0}. Must be one of: {1},Estat no vàlid: {0}. Ha de ser un dels següents: {1}
+Invalid tracking context: {0},Context de seguiment no vàlid: {0}
+Invalid visibility. Must be one of: {0},Visibilitat no vàlida. Ha de ser una de les següents: {0}
+Invitation: {0} - {1} at {2},Invitació: {0} - {1} a {2}
+Invite People,Convidar persones
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Element afegit
+Item ID is required,L'identificador de l'element és obligatori
+Item removed,Element eliminat
+Item type is required,El tipus d'element és obligatori
+Item {0} not found,Element {0} no trobat
+Job title or role,Càrrec o rol
+Join Meeting,Unir-se a la reunió
+Just now,Ara mateix
+just now,ara mateix
+Kanban,Kanban
+Kanban Board,Tauler Kanban
+Kanban View,Vista Kanban
+Keyboard Shortcuts,Dreceres de teclat
+Keyboard shortcuts (?),Dreceres de teclat (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Darrera actualització
+Last updated:,Darrera actualització:
+Last Week,Setmana passada
+Latest Version,Latest Version
+Light,Clar
+Link failed,Error en vincular
+Link Task,Vincular una tasca
+Linked,Vinculat
+Linked employee not found,Empleat vinculat no trobat
+Linked Tasks,Tasques vinculades
+List,Llista
+List View,Vista de llista
+Load failed,Error en carregar
+Load More,Carregar més
+Load more comments,Carregar més comentaris
+Loading activity...,Carregant l'activitat...
+Loading changes...,Carregant els canvis...
+Loading checklist...,Carregant la llista de verificació...
+Loading comments...,Carregant els comentaris...
+Loading contact...,Carregant el contacte...
+Loading contacts...,Carregant els contactes...
+Loading dependencies...,Carregant les dependències...
+Loading details...,Carregant els detalls...
+Loading discussion...,Carregant la discussió...
+Loading events...,Carregant els esdeveniments...
+Loading files...,Carregant els fitxers...
+Loading notes...,Carregant les notes...
+Loading preferences...,Carregant les preferències...
+Loading project...,Carregant el projecte...
+Loading projects...,Carregant els projectes...
+Loading replies...,Carregant les respostes...
+Loading report data...,Carregant les dades de l'informe...
+Loading settings...,Carregant els paràmetres...
+Loading task...,Carregant la tasca...
+Loading templates...,Carregant les plantilles...
+Loading time logs...,Carregant les entrades de temps...
+Loading your portal...,Carregant el vostre portal...
+Loading...,Carregant...
+Location,Ubicació
+Log Time,Registrar el temps
+Logout,Tancar sessió
+Low,Baixa
+Make Offer,Fer una oferta
+Manager,Responsable
+Manual Entry,Entrada manual
+Margin,Marge
+Mark all as read,Marcar-ho tot com a llegit
+Mark all read,Marcar tot com a llegit
+Mark as read,Marcar com a llegit
+Mark as unread,Marcar com a no llegit
+Mark read,Marcar com a llegit
+Marking...,Marcant...
+Material,Material
+Maybe,Potser
+Medium,Mitjana
+Meeting,Reunió
+Meeting Link,Enllaç de la reunió
+Meeting title,Títol de la reunió
+Meeting URL,URL de la reunió
+Meetings,Reunions
+Mention,Esmentar
+Message,Missatge
+Message is required,El missatge és obligatori
+Message is required for '{0}' action,El missatge és obligatori per a l'acció «{0}»
+Migrate,Migrar
+Migration Complete,Migració completada
+Migration ID:,ID de migració:
+Migration log not found: {0},Registre de migració no trobat: {0}
+Milestone,Fita
+milestone,fita
+Milestone created,Fita creada
+Milestone description has been saved.,La descripció de la fita s'ha desat.
+Milestone ID is required,L'identificador de la fita és obligatori
+Milestone marked as Missed (past due date),Fita marcada com a perduda (data de venciment superada)
+Milestone moved,Fita moguda
+Milestone Name,Nom de la fita
+Milestone name has been saved.,El nom de la fita s'ha desat.
+Milestone name is required,El nom de la fita és obligatori
+Milestone updated,Fita actualitzada
+Milestone {0} not found,Fita {0} no trobada
+Milestone {0} not in project {1},Fita {0} absent del projecte {1}
+Milestones,Fites
+milestones,fites
+Milestones:,Fites:
+Minutes,Minuts
+Missed,Perduda
+Mixed,Mixt
+Mobile,Mòbil
+Moderate,Moderat
+Modified,Modificat
+"Modify details, time, or attendees","Modificar detalls, hora o assistents"
+Mon,Dl
+Month,Mes
+Move failed,Error en moure
+Must be a positive number,Ha de ser un nombre positiu
+Must finish before this finishes,Ha d'acabar abans que això acabi
+Must finish before this starts,Ha d'acabar abans que això comenci
+Must start before this finishes,Ha de començar abans que això acabi
+Must start before this starts,Ha de començar abans que això comenci
+My Assignments,Les meves assignacions
+My Projects,Els meus projectes
+My Schedule,El meu calendari
+My Tasks,Les meves tasques
+N/A,N/D
+Name,Nom
+Name (A-Z),Nom (A-Z)
+Name (Z-A),Nom (Z-A)
+Name cannot exceed 255 characters,El nom no pot superar els 255 caràcters
+Need help?,Necessiteu ajuda?
+Needs Attention,Necessita atenció
+Never,Never
+new activities,activitats noves
+New Activity,Activitat nova
+New activity,Activitat nova
+New Event,Esdeveniment nou
+New index is required,El nou índex és obligatori
+New Project,Projecte nou
+New tasks will auto-trail by default.,Les noves tasques tindran el lliscament automàtic per defecte.
+Newest First,Més recents primer
+Next,Següent
+Next 14 days,Propers 14 dies
+Next 30 days,Propers 30 dies
+Next 60 days,Propers 60 dies
+Next 7 days,Propers 7 dies
+Next 90 days,Propers 90 dies
+Next Week,Setmana vinent
+Next:,Següent:
+No,No
+No active assignments,Cap assignació activa
+No active projects,Cap projecte actiu
+No active timer found,Cap cronòmetre actiu trobat
+No activity selected,Cap activitat seleccionada
+No assignments found,Cap assignació trobada
+No attendees,Cap assistent
+no change,sense canvis
+No changes for this field.,Cap canvi per a aquest camp.
+No changes recorded for this activity.,Cap canvi registrat per a aquesta activitat.
+No checklist items yet,Encara no hi ha elements a la llista de verificació
+No checklist items yet.,Encara no hi ha elements a la llista de verificació.
+No comments yet,Encara no hi ha comentaris
+No comments yet.,Encara no hi ha comentaris.
+No contacts available,Cap contacte disponible
+No content for this tab,Cap contingut per a aquesta pestanya
+No data available,Cap dada disponible
+No data available for the selected filters,Cap dada disponible per als filtres seleccionats
+No data to export,Cap dada per exportar
+No dates set,Cap data establerta
+No defects reported,Cap defecte reportat
+No dependencies defined,Cap dependència definida
+No description,Sense descripció
+No discussion yet.,Encara no hi ha cap discussió.
+No documents attached,Cap document adjuntat
+No due date,Sense data de venciment
+No employee linked to this resource,Cap empleat vinculat a aquest recurs
+No ERPNext employee linked to resource,Cap empleat d'ERPNext vinculat al recurs
+No events found,Cap esdeveniment trobat
+No files attached yet.,Encara no hi ha fitxers adjunts.
+No Frappe Project linked,Cap projecte Frappe vinculat
+No Grouping,Sense agrupació
+No items,Cap element
+No matching tasks,Cap tasca coincident
+No matching tasks found,Cap tasca coincident trobada
+No migration history,Cap historial de migració
+No Milestone,Sense fita
+No milestones,Sense fites
+No milestones defined for this project.,Cap fita definida per a aquest projecte.
+No notes yet.,Encara no hi ha notes.
+No notes yet. Add a due diligence note to track progress.,Encara no hi ha notes. Afegiu una nota de verificació prèvia per fer el seguiment del progrés.
+No notifications,Cap notificació
+No Orga Project linked to Frappe Project {0},Cap projecte Orga vinculat al projecte Frappe {0}
+No overdue tasks,Cap tasca endarrerida
+No pending cascade changes,Cap canvi en cascada pendent
+No predecessors - this task can start independently,Sense predecessors: aquesta tasca pot començar de manera independent
+No project,Sense projecte
+No projects found,Cap projecte trobat
+No Projects Yet,Encara no hi ha projectes
+No recent activity,Cap activitat recent
+No related documents,Cap document relacionat
+No resolved threads.,Cap fil de discussió resolt.
+No resources found,Cap recurs trobat
+No results found,Cap resultat trobat
+No skills listed,Cap habilitat llistada
+No skills recorded yet,Encara no hi ha habilitats registrades
+No successors - no tasks are waiting for this one,Sense successors: cap tasca espera aquesta
+No task selected,Cap tasca seleccionada
+No tasks assigned to you,Cap tasca us ha estat assignada
+No tasks available to add,Cap tasca disponible per afegir
+No tasks found,Cap tasca trobada
+No tasks linked to this milestone,Cap tasca vinculada a aquesta fita
+No tasks with dates to display,Cap tasca amb dates per mostrar
+No tasks yet,Encara no hi ha tasques
+No team members,Cap membre de l'equip
+No template,Sense plantilla
+No templates yet,Encara no hi ha plantilles
+No time data found,Cap dada de temps trobada
+No time logged today,Cap temps registrat avui
+No time logged yet,Encara no hi ha temps registrat
+No time logs for this period,Cap entrada de temps per a aquest període
+No time logs found,Cap entrada de temps trobada
+No unread notifications,Cap notificació no llegida
+No update information available yet.,No update information available yet.
+None,Cap
+Not found,No trobat
+Not permitted,No autoritzat
+Not permitted to access this project,No autoritzat per accedir a aquest projecte
+Not permitted to access this task,No autoritzat per accedir a aquesta tasca
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,No esteu autoritzat per comentar aquest document
+Not permitted to create clients,No esteu autoritzat per crear clients
+Not permitted to delete this client,No esteu autoritzat per suprimir aquest client
+Not permitted to delete this defect,No esteu autoritzat per suprimir aquest defecte
+Not permitted to delete this note,No esteu autoritzat per suprimir aquesta nota
+Not permitted to delete this project,No esteu autoritzat per suprimir aquest projecte
+Not permitted to delete this task,No esteu autoritzat per suprimir aquesta tasca
+Not permitted to delete this time log,No esteu autoritzat per suprimir aquesta entrada de temps
+Not permitted to invite clients,No esteu autoritzat per convidar clients
+Not permitted to modify client access,No esteu autoritzat per modificar l'accés del client
+Not permitted to modify this project,No esteu autoritzat per modificar aquest projecte
+Not permitted to update settings,No esteu autoritzat per modificar els paràmetres
+Not permitted to update this client,No esteu autoritzat per modificar aquest client
+Not permitted to view this client,No esteu autoritzat per veure aquest client
+not sent,no enviat
+Not set,No establert
+Not specified,No especificat
+Note,Nota
+Note (optional),Nota (opcional)
+Note Content,Contingut de la nota
+Note content is required,El contingut de la nota és obligatori
+Note name is required,El nom de la nota és obligatori
+Note not found,Nota no trobada
+Note Type,Tipus de nota
+Notes,Notes
+Notification,Notificació
+Notification not found,Notificació no trobada
+Notifications,Notificacions
+Off Track,Fora de pista
+Offer,Oferta
+Offer Prepared,Oferta preparada
+Oldest First,Més antics primer
+On Hold,En pausa
+On Leave,De permís
+On Track,Dins el termini
+On-Time Rate,Taxa de puntualitat
+Only administrators can delete activities,Només els administradors poden suprimir activitats
+Only the comment author or administrators can delete comments,Només l'autor del comentari o els administradors poden suprimir comentaris
+Only you and admins,Només vós i els administradors
+Open,Obert
+Open in Desk,Obrir al Desk
+Open Task Log,Obrir el registre de la tasca
+Open Tasks,Tasques obertes
+Optional,Opcional
+optional,opcional
+Or email us directly at,O envieu-nos un correu electrònic directament a
+Orga Project {0} from Frappe Projects,Projecte Orga {0} des de Frappe Projects
+Orga Task {0} from Frappe,Tasca Orga {0} des de Frappe
+Organizer,Organitzador
+Other,Altre
+Over Budget,Per sobre del pressupost
+Overall Progress,Progrés global
+Overall Utilization,Utilització global
+Overallocated,Sobreassignat
+Overdue,Endarrerit
+overdue,endarrerit
+Overdue Tasks,Tasques endarrerides
+Overview,Vista general
+Owner,Propietari
+Page Not Found,Pàgina no trobada
+Parent,Pare
+Parent comment must belong to the same document,El comentari pare ha de pertànyer al mateix document
+Parent comment not found,Comentari pare no trobat
+Parent project not synced to Frappe yet,El projecte pare encara no s'ha sincronitzat amb Frappe
+Parent project sync not enabled,La sincronització del projecte pare no està activada
+Partner,Soci
+Pending,Pendent
+per page,per pàgina
+Perform initial assessment and background check,Realitzar l'avaluació inicial i la verificació d'antecedents
+Permanently remove this event,Suprimir definitivament aquest esdeveniment
+Permanently remove this task,Suprimir definitivament aquesta tasca
+Phone,Telèfon
+Pin,Fixar
+Pin Activity,Fixar l'activitat
+Pin to top,Fixar a dalt
+Pinned,Fixat
+Planned budget for this task,Pressupost previst per a aquesta tasca
+Planning,Planificació
+Please describe your question or issue in detail...,Si us plau descriviu la vostra pregunta o problema amb detall...
+Please login to access Orga,Si us plau inicieu sessió per accedir a Orga
+Please login to access the client portal,Si us plau inicieu sessió per accedir al portal del client
+Please respond to this invitation in Orga,Si us plau responeu a aquesta invitació a Orga
+Please select an image file,Si us plau seleccioneu un fitxer d'imatge
+Please try again,Si us plau torneu-ho a provar
+Please type,Si us plau escriviu
+Portal,Portal
+Portal access revoked for {0},Accés al portal revocat per a {0}
+Portal user created successfully. Welcome email {0},Usuari del portal creat correctament. Correu de benvinguda {0}
+Post,Publicar
+Powered by,Funciona amb
+Powered by Tonic,Funciona amb Tonic
+Predecessors (Blocked By),Predecessors (bloquejat per)
+Preferences,Preferències
+Preferences saved successfully,Preferències desades correctament
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)","Prefix per als codis de projecte generats automàticament (p. ex., ORG-2026-0001)"
+Prepare and document offer terms,Preparar i documentar les condicions de l'oferta
+Press,Premeu
+Preview,Previsualització
+Preview cascade before applying,Previsualitzar la cascada abans d'aplicar-la
+Previous,Anterior
+Priority,Prioritat
+Priority assigned to new tasks,Prioritat assignada a les noves tasques
+Priority updated,Prioritat actualitzada
+Proficiency,Competència
+Profile,Perfil
+Progress,Progrés
+Progress (High-Low),Progrés (decreixent)
+Progress (Low-High),Progrés (creixent)
+Progress Overview,Vista general del progrés
+Progress updated,Progrés actualitzat
+Project,Projecte
+Project budget has been saved.,El pressupost del projecte s'ha desat.
+Project code (e.g. ORG-2026-0001),Codi del projecte (p. ex. ORG-2026-0001)
+Project Code Prefix,Prefix de codi de projecte
+Project created,Projecte creat
+Project deleted,Projecte suprimit
+Project description has been saved.,La descripció del projecte s'ha desada.
+Project Details,Detalls del projecte
+Project end date has been saved.,La data de finalització del projecte s'ha desat.
+Project Files,Fitxers del projecte
+Project has no linked client,El projecte no té cap client associat
+Project Health,Salut del projecte
+Project Info,Informació del projecte
+Project is required,El projecte és obligatori
+Project is required for project context,El projecte és obligatori per al context de projecte
+Project is required when tracking context is 'project',El projecte és obligatori quan el context de seguiment és «projecte»
+Project Manager,Responsable del projecte
+Project Name,Nom del projecte
+Project name and template name are required,El nom del projecte i el nom de la plantilla són obligatoris
+Project name is required,El nom del projecte és obligatori
+Project not found,Projecte no trobat
+Project not found or you do not have access,Projecte no trobat o no teniu accés
+Project settings,Paràmetres del projecte
+Project start date has been saved.,La data d'inici del projecte s'ha desat.
+Project title has been saved.,El títol del projecte s'ha desat.
+Project Type,Tipus de projecte
+Project updated,Projecte actualitzat
+Project {0} linked to client {1},Projecte {0} associat al client {1}
+Project {0} not found,Projecte {0} no trobat
+Project {0} to Frappe Projects,Projecte {0} cap a Frappe Projects
+Project:,Projecte:
+Projects,Projectes
+projects,projectes
+Projects created:,Projectes creats:
+Projects Overview,Vista general dels projectes
+Projects skipped:,Projectes omesos:
+Projects updated:,Projectes actualitzats:
+Promote failed,Error en promoure
+Promote to task,Promoure a tasca
+Promoted to task,Promogut a tasca
+Propose,Proposar
+Propose New Time,Proposar un nou horari
+Propose Time,Proposar un horari
+Proposed End,Fi proposada
+Proposed Start,Inici proposat
+Public,Públic
+Quick Action,Acció ràpida
+Quick Actions,Accions ràpides
+Quick Stats,Estadístiques ràpides
+Rates,Tarifes
+Receive notifications via email,Rebre notificacions per correu electrònic
+Receive notifications within the application,Rebre notificacions dins l'aplicació
+Recent Activity,Activitat recent
+Recipient {0} is not a valid user,El destinatari {0} no és un usuari vàlid
+Reference,Referència
+Refresh,Actualitzar
+Related,Relacionat
+Related Company (optional),Empresa relacionada (opcional)
+Related Documents,Documents relacionats
+Related Project,Projecte relacionat
+Remaining,Restant
+Reminder,Recordatori
+Reminder Lead Time,Temps d'avís del recordatori
+Reminder: {0} - {1} at {2},Recordatori: {0} - {1} a {2}
+Remove,Eliminar
+Remove dependency,Eliminar la dependència
+Remove dependency on,Eliminar la dependència de
+Remove from group,Treure del grup
+Remove group dependency,Eliminar la dependència de grup
+Remove skill,Eliminar l'habilitat
+Reopen,Reobrir
+Reopen thread,Reobrir el fil de discussió
+reopened,reobert
+replies,respostes
+Reply,Respondre
+reply,resposta
+Replying to,En resposta a
+Replying to comment,En resposta al comentari
+Report Defect,Reportar un defecte
+Reported Date,Data del report
+Reports,Informes
+Reports To,Informa a
+Request Submitted!,Sol·licitud enviada!
+Required,Obligatori
+required,obligatori
+Research,Recerca
+Reset to Defaults,Restablir els valors per defecte
+Resolve,Resoldre
+Resolve thread,Resoldre el fil de discussió
+Resolved,Resolt
+Resolved date cannot be before reported date,La data de resolució no pot ser anterior a la data del report
+Resource,Recurs
+Resource and skill name are required,El recurs i el nom de l'habilitat són obligatoris
+Resource is already an attendee,El recurs ja és un assistent
+Resource name is required,El nom del recurs és obligatori
+Resource not found,Recurs no trobat
+Resource synced from employee {0},Recurs sincronitzat des de l'empleat {0}
+Resource {0} is already assigned to this task ({1}),El recurs {0} ja està assignat a aquesta tasca ({1})
+Resource {0} not found,Recurs {0} no trobat
+Resources,Contactes
+Retry,Tornar a provar
+Review,Revisió
+Review all relevant documents and contracts,Revisar tots els documents i contractes rellevants
+Reviews,Revisions
+Risk Assessment,Avaluació de riscos
+Rollback,Revertir
+Rolled back,Revertit
+Room or address,Sala o adreça
+RSVP,RSVP
+Safety,Seguretat
+Sat,Ds
+Save,Desar
+"Save a project as a template, or import one from a JSON file.","Deseu un projecte com a plantilla, o importeu-ne una des d'un fitxer JSON."
+Save as Template,Desar com a plantilla
+Save Changes,Desar els canvis
+Save failed,Error en desar
+Save Preferences,Desar les preferències
+Save Template,Desar la plantilla
+Saving...,Desant...
+Schedule,Calendari
+Schedule type is required for scheduled triggers,El tipus de programació és obligatori per als activadors programats
+Scheduled,Programat
+Search,Cercar
+"Search by name, email, or skill...","Cercar per nom, correu electrònic o habilitat..."
+Search for a project...,Cercar un projecte...
+Search for a task...,Cercar una tasca...
+Search for an event...,Cercar un esdeveniment...
+Search for people to invite...,Cercar persones per convidar...
+Search tasks to link...,Cercar tasques per vincular...
+Search tasks...,Cercar tasques...
+Search...,Cercar...
+Searching...,Cercant...
+Seen,Vist
+Select a project if your request is related to a specific project.,Seleccioneu un projecte si la vostra sol·licitud està relacionada amb un projecte concret.
+Select a project...,Seleccioneu un projecte...
+Select a task from the Gantt chart to view and manage its details.,Seleccioneu una tasca del diagrama de Gantt per veure'n i gestionar-ne els detalls.
+Select a task from the list or Kanban board to view and manage its details.,Seleccioneu una tasca de la llista o del tauler Kanban per veure'n i gestionar-ne els detalls.
+Select a template...,Seleccioneu una plantilla...
+Select priority...,Seleccioneu una prioritat...
+Select status...,Seleccioneu un estat...
+Select task...,Seleccioneu una tasca...
+Select type...,Seleccioneu un tipus...
+Selection,Selecció
+Send,Enviar
+Send comment,Enviar el comentari
+Send email invitations to attendees,Enviar les invitacions per correu electrònic als assistents
+Send Invitations,Enviar les invitacions
+Send notification when a task is assigned to a user,Enviar una notificació quan s'assigni una tasca a un usuari
+Send notification when task status changes,Enviar una notificació quan canviï l'estat d'una tasca
+Send reminder before task due date,Enviar un recordatori abans de la data de venciment de la tasca
+sent,enviat
+Set rate,Establir la tarifa
+Settings,Paràmetres
+Settings saved successfully,Paràmetres desats correctament
+Severity,Severitat
+SF (Start-Finish),SF (Inici-Fi)
+SF - Start-to-Finish,SF - Inici-a-Fi
+Show,Mostrar
+Show all,Mostrar-ho tot
+Show all changes,Mostrar tots els canvis
+Show Archived,Mostrar els arxivats
+Show full diff,Mostrar el diff complet
+Show less,Mostrar menys
+Show more,Mostrar més
+Skill added,Habilitat afegida
+Skill is required,L'habilitat és obligatòria
+Skill Name,Nom de l'habilitat
+Skill removed,Habilitat eliminada
+Skill {0} already exists for this resource,L'habilitat {0} ja existeix per a aquest recurs
+Skills,Habilitats
+Skills & Competencies,Habilitats i aptituds
+Skip already migrated projects,Ometre els projectes ja migrats
+Sort by,Ordenar per
+Sort: Due Date,Ordenar: Data de venciment
+Sort: Priority,Ordenar: Prioritat
+Sort: Project,Ordenar: Projecte
+Sort: Status,Ordenar: Estat
+Sort: Task,Ordenar: Tasca
+Source Code,Codi font
+Spent,Gastat
+Spent:,Gastat:
+SS (Start-Start),SS (Inici-Inici)
+SS - Start-to-Start,SS - Inici-a-Inici
+Standalone,Autònom
+Start,Inici
+Start a discussion below,Inicieu una discussió a continuació
+Start Date,Data d'inici
+Start date,Data d'inici
+Start Date (Earliest),Data d'inici (la més propera)
+Start date updated,Data d'inici actualitzada
+Start date/time is required,La data/hora d'inici és obligatòria
+Start Migration,Iniciar la migració
+Start the conversation below.,Comenceu la conversa a continuació.
+Start Timer,Iniciar el cronòmetre
+Start typing to search...,Comenceu a escriure per cercar...
+Start-to-Finish,Inici-a-Fi
+Start-to-Start,Inici-a-Inici
+Start:,Inici:
+Statistics reset,Estadístiques restablertes
+Status,Estat
+Status assigned to new projects,Estat assignat als nous projectes
+Status assigned to new tasks,Estat assignat a les noves tasques
+Status Changes,Canvis d'estat
+Status updated,Estat actualitzat
+Status:,Estat:
+Stop,Aturar
+Stop & Save,Aturar i desar
+Stop Timer,Aturar el cronòmetre
+Stops current timer and starts for this event,Atura el cronòmetre actual i l'inicia per a aquest esdeveniment
+Stops current timer and starts for this task,Atura el cronòmetre actual i l'inicia per a aquesta tasca
+Subject,Assumpte
+Subject cannot exceed 255 characters,L'assumpte no pot superar els 255 caràcters
+Subject is required,L'assumpte és obligatori
+Submit,Enviar
+Submit Another Request,Enviar una altra sol·licitud
+Submit Request,Enviar la sol·licitud
+Submitting...,Enviant...
+Successfully saved,Desat correctament
+Successors (Blocking),Successors (bloquejant)
+Sun,Dg
+Supplier,Proveïdor
+Support,Suport
+Switch to this event,Canviar a aquest esdeveniment
+Switch to this task,Canviar a aquesta tasca
+Sync direction is set to Frappe to Orga only,La direcció de sincronització està configurada només de Frappe cap a Orga
+Sync direction is set to Orga to Frappe only,La direcció de sincronització està configurada només d'Orga cap a Frappe
+Sync not enabled for this project,La sincronització no està activada per a aquest projecte
+System,Sistema
+Table,Taula
+Take ownership of this task,Prendre aquesta tasca a càrrec meu
+Target Date,Data objectiu
+Target End,Fi objectiu
+Target Project,Projecte objectiu
+Target user is required for '{0}' action,L'usuari objectiu és obligatori per a l'acció «{0}»
+Task,Tasca
+task,tasca
+Task '{0}' is due on {1}.,La tasca «{0}» venç el {1}.
+Task and resource are required,La tasca i el recurs són obligatoris
+Task Assignment,Assignació de tasca
+Task cannot be its own parent,Una tasca no pot ser el seu propi pare
+Task cannot depend on itself,Una tasca no pot dependre de si mateixa
+Task cannot depend on the group it belongs to,Una tasca no pot dependre del grup al qual pertany
+Task created,Tasca creada
+Task deleted,Tasca suprimida
+Task description has been saved.,La descripció de la tasca s'ha desat.
+Task Details,Detalls de la tasca
+Task due in {0} days: {1},Tasca amb venciment en {0} dies: {1}
+Task due today: {0},Tasca amb venciment avui: {0}
+Task due tomorrow: {0},Tasca amb venciment demà: {0}
+Task duplicated,Tasca duplicada
+Task Group,Grup de tasques
+Task ID is required,L'identificador de la tasca és obligatori
+Task is blocked by incomplete dependencies,La tasca està bloquejada per dependències incompletes
+Task is cancelled,La tasca està cancel·lada
+Task is completed,La tasca està completada
+Task is no longer blocked by a group,La tasca ja no està bloquejada per un grup
+Task is required for task context,La tasca és obligatòria per al context de tasca
+Task is required when tracking context is 'task',La tasca és obligatòria quan el context de seguiment és «tasca»
+Task linked,Tasca vinculada
+Task moved,Tasca moguda
+Task name,Nom de la tasca
+Task name is required,El nom de la tasca és obligatori
+Task removed from group,Tasca eliminada del grup
+Task Subject,Assumpte de la tasca
+Task subject is required,L'assumpte de la tasca és obligatori
+Task Type,Tipus de tasca
+Task unblocked: {0},Tasca desbloquejada: {0}
+Task unlinked,Tasca desvinculada
+Task updated,Tasca actualitzada
+Task {0} not found,Tasca {0} no trobada
+Task {0} not in project {1},Tasca {0} absent del projecte {1}
+Task {0} to Frappe,Tasca {0} cap a Frappe
+Tasks,Tasques
+tasks,tasques
+Tasks and milestones will be created with dates relative to the project start date.,Les tasques i fites es crearan amb dates relatives a la data d'inici del projecte.
+Tasks assigned to you across all projects.,Tasques que us han estat assignades en tots els projectes.
+Tasks created:,Tasques creades:
+Tasks from projects you manage.,Tasques dels projectes que gestioneu.
+Tasks updated:,Tasques actualitzades:
+"Tasks, milestones, and dependencies have been created.","Les tasques, fites i dependències s'han creat."
+Tasks:,Tasques:
+TBD,Per determinar
+Team,Equip
+Team Members,Membres de l'equip
+Template,Plantilla
+Template applied,Plantilla aplicada
+Template data is required in import data,Les dades de la plantilla són obligatòries en les dades d'importació
+Template has no data,La plantilla no conté dades
+Template Name,Nom de la plantilla
+Template name,Nom de la plantilla
+Template name is required,El nom de la plantilla és obligatori
+Template name is required in import data,El nom de la plantilla és obligatori en les dades d'importació
+Template saved,Plantilla desada
+Template updated successfully.,Plantilla actualitzada correctament.
+Template {0} not found,Plantilla {0} no trobada
+Templates,Plantilles
+Tentative,Provisional
+The comment has been deleted,El comentari s'ha suprimit
+The project,El projecte
+The source document may have been deleted.,El document font potser s'ha suprimit.
+The source document will not be affected.,El document font no es veurà afectat.
+The status of '{0}' was changed from {1} to {2}.,L'estat de «{0}» s'ha canviat de {1} a {2}.
+Theme,Tema
+Theme preference,Preferència de tema
+This action,Aquesta acció
+This action cannot be undone.,Aquesta acció és irreversible.
+This activity has been flagged for attention,Aquesta activitat s'ha senyalat per a atenció
+This is a reminder for your upcoming appointment,Aquest és un recordatori per a la vostra propera cita
+This method is only meant for developer mode,Aquest mètode és només per al mode de desenvolupador
+This page wandered off,This page wandered off
+This Week,Aquesta setmana
+This will delete all notes and preferences associated with this activity.,Això suprimirà totes les notes i preferències associades a aquesta activitat.
+This will import all Frappe Projects into Orga. Continue?,Això importarà tots els projectes de Frappe a Orga. Voleu continuar?
+This will permanently delete,Això suprimirà definitivament
+This will permanently delete:,Això suprimirà definitivament:
+Thu,Dj
+Time,Hora
+Time & Billing,Temps i facturació
+Time & Revenue,Temps i ingressos
+Time Entries,Entrades de temps
+Time log name is required,El nom de l'entrada de temps és obligatori
+Time Log not found,Entrada de temps no trobada
+Time log {0} not found,Entrada de temps {0} no trobada
+Time Logs,Entrades de temps
+Time Summary,Resum del temps
+Time Tracking,Seguiment del temps
+Timeline,Cronologia
+Timer active on,Cronòmetre actiu a
+Timer is not running,El cronòmetre no està en marxa
+Timer Running,Cronòmetre en marxa
+Timer running,Cronòmetre en marxa
+Timesheet DocType not available,DocType Full de temps no disponible
+Timesheets,Fulls de temps
+Timezone,Zona horària
+Timezone is detected from your browser,La zona horària es detecta des del vostre navegador
+Title,Títol
+Title cannot exceed 255 characters,El títol no pot superar els 255 caràcters
+Title is required,El títol és obligatori
+Title updated,Títol actualitzat
+To,A
+to,a
+to cancel,per cancel·lar
+to close,per tancar
+to confirm:,per confirmar:
+to edit,per editar
+"to save,","per desar,"
+To Time cannot be before From Time,L'hora de finalització no pot ser anterior a l'hora d'inici
+Today,Avui
+today,avui
+Toggle billable,Commutar facturable
+Toggle Details Panel,Mostrar/amagar el panell de detalls
+Toggle Manager Panel,Mostrar/amagar el panell de gestió
+Toggle Sidebar,Mostrar/amagar la barra lateral
+Tomorrow,Demà
+tomorrow,demà
+Total,Total
+Total Budget,Pressupost total
+Total Contacts,Total de contactes
+Total Cost,Cost total
+Total Cost to Org,Cost total per a l'organització
+Total Defect Cost,Cost total dels defectes
+Total Hours,Total d'hores
+Total Hours Logged,Total d'hores registrades
+Total Projects,Total de projectes
+Total Spent,Total gastat
+Total Tasks,Total de tasques
+Total:,Total:
+Tracked,Seguit
+trails to today while Open at 0%,llisca fins avui mentre està Obert al 0%
+Tried:,Tried:
+Try adjusting your filter criteria,Proveu d'ajustar els vostres criteris de filtre
+Try adjusting your filters.,Proveu d'ajustar els vostres filtres.
+Try Again,Tornar a provar
+Tue,Dm
+Type,Tipus
+Type updated,Tipus actualitzat
+Type:,Tipus:
+Typical response time: 1-2 business days,Temps de resposta habitual: 1-2 dies laborables
+Unarchive,Desarxivar
+Unarchive Activity,Desarxivar l'activitat
+Unassign,Desassignar
+Unassigned,No assignat
+Under Budget,Per sota del pressupost
+Ungrouped,Sense agrupar
+Unknown,Desconegut
+Unknown error,Error desconegut
+Unlink failed,Error en desvincular
+Unlink task from milestone,Desvincular la tasca de la fita
+Unpin,Desafixar
+Unpin Activity,Desafixar l'activitat
+Unread,No llegit
+Unread only,Només els no llegits
+Until,Fins a
+Up to Date,Up to Date
+Upcoming,Proper
+upcoming,proper
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Error en actualitzar
+Updated,Actualitzat
+Updated successfully,Actualitzat correctament
+Updates,Updates
+Upload,Pujar
+Upload failed,Error en pujar
+Upload files below to attach them to this task.,Pugeu fitxers a continuació per adjuntar-los a aquesta tasca.
+Upload to project,Pujar al projecte
+Uploading...,Pujant...
+Urgent,Urgent
+User {0} is already linked to client {1},L'usuari {0} ja està vinculat al client {1}
+User {0} is already linked to resource {1},L'usuari {0} ja està vinculat al recurs {1}
+Utilization,Utilització
+Valid,Vàlid
+Value:,Valor:
+Variance,Desviació
+Variance:,Desviació:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Veure
+View All,Veure-ho tot
+View all active projects,Veure tots els projectes actius
+View all open tasks,Veure totes les tasques obertes
+View overdue tasks,Veure les tasques endarrerides
+View Release,View Release
+Visibility,Visibilitat
+Waiting for this task,En espera d'aquesta tasca
+Waits for:,Espera:
+Warning: Resource {0} status is {1},Atenció: l'estat del recurs {0} és {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Atenció: s'utilitza HTTP en lloc d'HTTPS. Les dades del webhook podrien no ser segures.
+Watch budget closely,Vigilar el pressupost de prop
+We'll respond to:,Respondrem a:
+Webhook deleted,Webhook suprimit
+Webhook name is required,El nom del webhook és obligatori
+Webhook not found,Webhook no trobat
+Webhook URL is required,L'URL del webhook és obligatòria
+Webhook URL must start with http:// or https://,L'URL del webhook ha de començar per http:// o https://
+Wed,Dc
+Week,Setmana
+Weekend,Cap de setmana
+Weekly Capacity,Capacitat setmanal
+weekly capacity,capacitat setmanal
+Weekly Capacity (h),Capacitat setmanal (h)
+Welcome,Benvingut
+Welcome back!,Benvingut de nou!
+Welcome to Orga,Benvingut a Orga
+What are you working on?,En què esteu treballant?
+What did you work on?,En què heu treballat?
+When,Quan
+When work begins,Quan comença el treball
+When work is due,Quan venç el treball
+Where,On
+Will capture:,Capturarà:
+Will create:,Crearà:
+with checklist items,amb els elements de la llista de verificació
+Working,En curs
+Workload,Càrrega de treball
+Workmanship,Qualitat de l'obra
+Write a comment...,Escriviu un comentari...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Escriviu un comentari... Utilitzeu @nom per esmentar (Ctrl+Retorn per enviar)
+Year,Any
+Yes,Sí
+Yesterday,Ahir
+yesterday,ahir
+You are not an attendee of this appointment,No sou un assistent d'aquesta cita
+You are not linked to any resource,No esteu vinculat a cap recurs
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Només podeu suprimir els vostres propis comentaris
+You can only delete your own reactions,Només podeu suprimir les vostres pròpies reaccions
+You do not have access to the client portal. Please contact support.,No teniu accés al portal del client. Si us plau contacteu amb el suport.
+You have already reacted with '{0}',Ja heu reaccionat amb «{0}»
+You have been assigned to task '{0}' in project '{1}'.,Se us ha assignat la tasca «{0}» al projecte «{1}».
+You have been assigned to: {0},Se us ha assignat a: {0}
+You have been invited to the following appointment,Heu estat convidat a la cita següent
+You have no tasks assigned to you right now.,No teniu cap tasca assignada en aquest moment.
+You were mentioned in {0},Us han esmentat a {0}
+Your attendance,La vostra assistència
+Your comment has been posted,El vostre comentari s'ha publicat
+Your Projects,Els vostres projectes
+Your projects will appear here once they're assigned to you.,Els vostres projectes apareixeran aquí un cop us hagin estat assignats.
+Your Response,La vostra resposta
+Your RSVP,El vostre RSVP
+Your support request has been submitted successfully.,La vostra sol·licitud de suport s'ha enviat correctament.
+Your support request has been submitted successfully. We'll get back to you shortly.,La vostra sol·licitud de suport s'ha enviat correctament. Us respondrem el més aviat possible.
+"Your task ""{0}"" is no longer blocked and can now be started.",La vostra tasca «{0}» ja no està bloquejada i es pot començar.
+{0} is required,{0} és obligatori
+{0} new activities,{0} activitats noves
+{0} of {1} completed,{0} de {1} completat(s)
+{0} projects already migrated (will be skipped or updated),{0} projectes ja migrats (s'ometran o s'actualitzaran)
+{0} status changed to {1},L'estat de {0} s'ha canviat a {1}
+{0} tasks remaining,{0} tasques restants
+{0} tasks without projects will be skipped,{0} tasques sense projecte s'ometran
+{0} {1} not found,{0} {1} no trobat

@@ -1,0 +1,1492 @@
++ Add Milestone,+ 新增里程碑
++ Create Task,+ 建立工作
++ Log Time,+ 記錄時間
+-- Select a project --,-- 選擇專案 --
+0m,0 分
+1 day,1 天
+1 day ago,1 天前
+1 dependency,1 個相依項目
+1 entry,1 筆記錄
+1 file,1 個檔案
+1 hour ago,1 小時前
+1 member,1 位成員
+1 milestone,1 個里程碑
+1 month,1 個月
+1 task,1 項工作
+< 1m,< 1 分
+"A clear, actionable title for the task",為工作設定一個清楚、可執行的標題
+A client with email {0} already exists: {1},已存在使用電子郵件 {0} 的客戶：{1}
+A key deliverable or checkpoint for the project,專案的重要交付成果或檢核點
+Accept,接受
+Accepted,已接受
+Acknowledge,確認收到
+across,跨
+Action,動作
+Actions,動作
+Active,進行中
+Active Assignments,進行中的指派
+Active Projects,進行中的專案
+Activity,活動
+Activity data deleted successfully,活動資料已成功刪除
+Activity Info,活動資訊
+Activity Stats,活動統計
+Activity will appear here as you work on tasks and projects.,當您在工作和專案上活動時，記錄會顯示在這裡。
+Actual,實際
+Actual Cost,實際成本
+Actual cost cannot be negative,實際成本不能為負數
+Actual end date cannot be before actual start date,實際結束日期不能早於實際開始日期
+Actual Hours,實際時數
+Add,新增
+Add a checklist item...,新增檢核清單項目...
+Add a comment...,新增留言...
+Add a comment... (Ctrl+Enter to send),新增留言... (Ctrl+Enter 送出)
+Add a description...,新增說明...
+Add a milestone description...,新增里程碑說明...
+Add a note below to annotate this activity.,在下方新增備註來為此活動加上註解。
+Add a note...,新增備註...
+Add a project description...,新增專案說明...
+Add a task description...,新增工作說明...
+Add checklist item...,新增檢核清單項目...
+Add Contact,新增聯絡人
+Add contacts via the Desk interface or clear filters,透過 Desk 介面新增聯絡人或清除篩選條件
+Add Dependency,新增相依項目
+Add details about this event...,新增此活動的詳細資訊...
+Add details about this milestone...,新增此里程碑的詳細資訊...
+Add details about this task...,新增此工作的詳細資訊...
+Add details or acceptance criteria for this milestone,新增此里程碑的詳細資訊或驗收條件
+"Add details, context, or acceptance criteria",新增詳細資訊、背景說明或驗收條件
+Add first dependency,新增第一個相依項目
+Add item,新增項目
+Add items below to track progress.,在下方新增項目以追蹤進度。
+Add items below to track subtasks,在下方新增項目以追蹤子工作
+Add Milestone,新增里程碑
+Add Milestone (Shift+M),新增里程碑 (Shift+M)
+Add milestones to track key deliverables.,新增里程碑以追蹤重要交付成果。
+Add New Contact,新增聯絡人
+Add Note,新增備註
+Add note,新增備註
+Add notes about this contact...,新增此聯絡人的備註...
+Add reaction,新增回應
+Add Skill,新增技能
+Add start and due dates to tasks to see them on the Gantt chart,為工作新增開始日期和截止日期以在 Gantt 圖上顯示
+Add Task,新增工作
+Add Task (Shift+T),新增工作 (Shift+T)
+Added Finish-to-Start dependency,已新增完成-開始相依關係
+Adding this dependency would create a circular reference: {0},新增此相依項目會產生循環參照：{0}
+Adding...,新增中...
+Address,地址
+Advanced,進階
+All,全部
+All Active,全部進行中
+All Assignees,全部被指派者
+All Categories,全部類別
+All caught up!,全部已處理完畢！
+All Contexts,全部情境
+All day,全天
+All day event,全天活動
+All fields,全部欄位
+All Priorities,全部優先順序
+All Projects,全部專案
+All Status,全部狀態
+All Statuses,全部狀態
+All task dependencies & relative dates,全部工作相依項目和相對日期
+All Tasks,全部工作
+All tasks across all projects.,所有專案中的全部工作。
+All tasks are already linked,全部工作已經關聯
+All team members,全部團隊成員
+All Types,全部類型
+All Users,全部使用者
+Allocated,已分配
+allocated,已分配
+Allow users to log time against tasks,允許使用者記錄工作時間
+Already exported to timesheet {0},已匯出至時間表 {0}
+Already Migrated,已移轉
+Anyone with access,任何有存取權限的人
+anytime to show this help,隨時顯示此說明
+App Updates,App Updates
+Appearance,外觀
+Apply,套用
+Apply cascade?,套用連鎖效果？
+Apply Changes,套用變更
+Apply failed,套用失敗
+Apply Template,套用範本
+Applying...,套用中...
+Appointment,約會
+Appointment and resource are required,約會和資源為必填
+Appointment name is required,約會名稱為必填
+Appointment not found,找不到約會
+Appointment {0} not found,找不到約會 {0}
+Apps,應用程式
+Archive,封存
+Archive Activity,封存活動
+Archived,已封存
+Are you sure you want to delete this activity data? This cannot be undone.,您確定要刪除這些活動資料嗎？此操作無法復原。
+Are you sure you want to delete this comment?,您確定要刪除這則留言嗎？
+Are you sure you want to delete this project?,您確定要刪除這個專案嗎？
+Are you sure?,您確定嗎？
+Ascending -- click to reverse,升冪排列 -- 點擊以反轉
+Assign To,指派給
+Assign to Me,指派給我
+Assigned Contact,已指派的聯絡人
+Assigned To,指派給
+Assigned to,指派給
+Assigned to Me,指派給我
+Assignee,被指派者
+Assignment,指派
+Assignment History,指派紀錄
+Assignment name is required,指派名稱為必填
+Assignment {0} not found,找不到指派 {0}
+Assignments,指派
+At least one action is required,至少需要一個動作
+At least one event is required,至少需要一個事件
+At least one event must be selected,至少需要選擇一個事件
+Attachment,附件
+Attachments,附件
+Attendees,出席者
+"Audit trail, assignments, version history",稽核紀錄、指派、版本歷程
+Auto,自動
+Auto Calculate Progress,自動計算進度
+Auto Set Missed Milestones,自動標記錯過的里程碑
+Auto-shift dependents when dates change,日期變更時自動調整相依項目
+Auto-Trail Start,自動延伸開始日期
+Auto-Trail updated,自動延伸已更新
+Automatically calculate project progress from task completion,依據工作完成度自動計算專案進度
+Automatically mark milestones as missed when overdue,里程碑逾期時自動標記為錯過
+Automation rule {0} not found,找不到自動化規則 {0}
+Automation: {0},自動化：{0}
+Availability,可用性
+Available,可用
+Avatar updated successfully,頭像已成功更新
+Avg Progress,平均進度
+Back,返回
+Back to Portal,返回入口網站
+Back to Projects,返回專案列表
+Beginner,初學者
+Best regards,敬祝安好
+Billable,可計費
+Billable Amount,可計費金額
+Billable Hours,可計費時數
+Billable Rate,計費費率
+Billing Rate,帳單費率
+Blocked,已封鎖
+Both dates are needed to display task as a bar in Gantt chart,需要兩個日期才能在 Gantt 圖上將工作顯示為長條
+Both doctype and docname are required,doctype 和 docname 皆為必填
+Both proposed start and end times are required,建議的開始和結束時間皆為必填
+Both task_name and depends_on are required,task_name 和 depends_on 皆為必填
+Breadcrumb,導覽路徑
+Brief description of the defect or damage,缺陷或損壞的簡要說明
+Brief description of this template,此範本的簡要說明
+Brief description of your request,您的請求的簡要說明
+Brief project description,專案簡要說明
+Budget,預算
+Budget at risk,預算有風險
+Budget Burn Rate,預算消耗速率
+Budget Status,預算狀態
+Budget updated,預算已更新
+Budget:,預算：
+Bug,臭蟲
+Burn Rate,消耗速率
+Busy,忙碌
+By,依
+By Assignee,依被指派者
+By Group,依群組
+By Milestone,依里程碑
+By Priority,依優先順序
+By Status,依狀態
+Cancel,取消
+Cancelled,已取消
+cannot be undone,無法復原
+Cannot delete client with {0} linked projects. Unlink projects first.,無法刪除擁有 {0} 個關聯專案的客戶。請先取消關聯專案。
+Cannot delete project with {0} linked tasks. Delete tasks first.,無法刪除擁有 {0} 項關聯工作的專案。請先刪除工作。
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,無法刪除擁有 {0} 項進行中指派的資源。請先完成或取消這些指派。
+Cannot delete task with {0} subtasks. Delete subtasks first.,無法刪除擁有 {0} 項子工作的工作。請先刪除子工作。
+Capacity,容量
+capacity,容量
+Capacity & Rates,容量與費率
+Capture project structure for reuse,擷取專案結構以便重複使用
+Cascade,連鎖
+Cascade Preview,連鎖效果預覽
+Category,類別
+Celebrate,慶祝
+Change,變更
+Change History,變更紀錄
+Change Priority,變更優先順序
+Change Status,變更狀態
+Changes,變更
+Changes appear when fields are modified.,欄位被修改時會顯示變更記錄。
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,檢核清單
+Checklist item name is required,檢核清單項目名稱為必填
+Checklist item not found,找不到檢核清單項目
+Checklist item title is required,檢核清單項目標題為必填
+Checklist item {0} not found,找不到檢核清單項目 {0}
+Checklist item {0} not found in task,在工作中找不到檢核清單項目 {0}
+Child,子項目
+Choose file to upload,選擇要上傳的檔案
+Circular dependency detected: {0},偵測到循環相依：{0}
+Circular parent-child relationship detected,偵測到循環的父子關係
+Clear,清除
+Clear all read,清除所有已讀
+Clear date,清除日期
+Click on an activity from the list to view and manage its details.,從清單中點擊一項活動以檢視和管理其詳細資訊。
+Click the avatar to upload a new photo,點擊頭像以上傳新照片
+Click to add description...,點擊以新增說明...
+Click to add notes...,點擊以新增備註...
+Click to assign contact,點擊以指派聯絡人
+Click to change status,點擊以變更狀態
+Click to change type,點擊以變更類型
+Click to edit,點擊以編輯
+Click to edit budget,點擊以編輯預算
+Click to edit description,點擊以編輯說明
+Click to edit end date,點擊以編輯結束日期
+Click to edit milestone name,點擊以編輯里程碑名稱
+Click to edit rate,點擊以編輯費率
+Click to edit start date,點擊以編輯開始日期
+Click to edit title,點擊以編輯標題
+Click to load,點擊以載入
+Click to set group dependency...,點擊以設定群組相依...
+Click to set group...,點擊以設定群組...
+Click to view,點擊以檢視
+Click to view at-risk projects,點擊以檢視有風險的專案
+Click to view critical projects,點擊以檢視關鍵專案
+Click to view healthy projects,點擊以檢視健康的專案
+Client,客戶
+Client already has a portal user: {0},客戶已有入口網站使用者：{0}
+Client already has portal access,客戶已有入口網站存取權限
+Client has no portal user to revoke,此客戶沒有可撤銷的入口網站使用者
+Client link removed from project {0},已從專案 {0} 移除客戶關聯
+Client Portal,客戶入口網站
+Client {0} deleted successfully,客戶 {0} 已成功刪除
+Close,關閉
+Close (Esc),關閉 (Esc)
+Comment,留言
+comment,留言
+Comment added,留言已新增
+Comment content is required,留言內容為必填
+Comment name is required,留言名稱為必填
+Comment not found,找不到留言
+Comment removed,留言已移除
+Comment {0} not found in task,在工作中找不到留言 {0}
+Comments,留言
+comments,留言
+Community Edition,Community Edition
+Company,公司
+Company name...,公司名稱...
+Complete,完成
+Completed,已完成
+completed,已完成
+Completed Tasks,已完成的工作
+Compliance,合規
+Configure default values for new projects and tasks,設定新專案和工作的預設值
+Configure email notification settings,設定電子郵件通知設定
+Confirm,確認
+Contact deleted,聯絡人已刪除
+Contact Details,聯絡人詳細資訊
+Contact Information,聯絡資訊
+Contact name is required,聯絡人名稱為必填
+Contact Support,聯繫客服
+Contact your project manager for more information.,如需更多資訊，請聯繫您的專案負責人。
+Contact:,聯絡人：
+Contacts,聯絡人
+Context,情境
+Contractor,承包商
+Cost estimate cannot be negative,成本估算不能為負數
+Cost Impact,成本影響
+Cost Summary,成本摘要
+Could not apply the template. Please try again.,無法套用範本，請重試。
+Could not attach file to project,無法將檔案附加到專案
+Could not change task priority,無法變更工作優先順序
+Could not change task status,無法變更工作狀態
+Could not delete the project. Please try again.,無法刪除專案，請重試。
+Could not delete the task. Please try again.,無法刪除工作，請重試。
+Could not delete the template.,無法刪除範本。
+Could not duplicate the task. Please try again.,無法複製工作，請重試。
+Could not export the template.,無法匯出範本。
+Could not import the template. Please check the file format.,無法匯入範本，請檢查檔案格式。
+Could not link task to milestone,無法將工作關聯到里程碑
+Could not load document details.,無法載入文件詳細資訊。
+Could not load task details,無法載入工作詳細資訊
+Could not promote checklist item to task.,無法將檢核清單項目升級為工作。
+Could not remove task from milestone,無法從里程碑移除工作
+Could not save budget.,無法儲存預算。
+Could not save changes to the milestone,無法儲存里程碑的變更
+Could not save changes to the task,無法儲存工作的變更
+Could not save description.,無法儲存說明。
+Could not save end date.,無法儲存結束日期。
+Could not save milestone name.,無法儲存里程碑名稱。
+Could not save start date.,無法儲存開始日期。
+Could not save the template. Please try again.,無法儲存範本，請重試。
+Could not save title.,無法儲存標題。
+Could not update dependency mode.,無法更新相依模式。
+Could not update milestone date,無法更新里程碑日期
+Could not update project status.,無法更新專案狀態。
+Could not update project type.,無法更新專案類型。
+Could not update setting.,無法更新設定。
+Could not update task dates,無法更新工作日期
+Could not update task status,無法更新工作狀態
+Could not update the template.,無法更新範本。
+Create a copy of this task,建立此工作的副本
+Create Contact,建立聯絡人
+Create Event,建立活動
+Create Milestone,建立里程碑
+Create New Milestone,建立新里程碑
+Create New Task,建立新工作
+Create Project,建立專案
+Create Task,建立工作
+Create tasks and milestones from a template,從範本建立工作和里程碑
+Create your first project to get started.,建立您的第一個專案以開始使用。
+Create your first task to start tracking work on this project.,建立您的第一項工作以開始追蹤此專案的進度。
+Created,已建立
+Creating...,建立中...
+Critical,緊急
+Critical Path,關鍵路徑
+"Currency used for budgets, costs, and billing rates",用於預算、成本和計費費率的幣別
+Current,目前
+Current Assignments,目前的指派
+Current scheduled time:,目前排定的時間：
+Currently running version,Currently running version
+d lag,天延遲
+Daily Availability,每日可用時段
+Daily Hours,每日時數
+Danger Zone,危險區域
+Dark,深色
+Dashboard,儀表板
+Date,日期
+Date changes on this task will show cascade impact here,此工作的日期變更將在這裡顯示連鎖影響
+Date cleared,日期已清除
+Date of Joining,到職日期
+Date updated,日期已更新
+Dates,日期
+Dates cascaded,日期已連鎖更新
+Dates will be relative to the project's start date.,日期將相對於專案的開始日期。
+Day,日
+day,天
+days,天
+Days before due date to send reminder,截止日期前幾天發送提醒
+Days Overdue,逾期天數
+Days Remaining,剩餘天數
+Deadline,截止期限
+Deadlines,截止期限
+Decision,決定
+Decline,拒絕
+Declined,已拒絕
+Default Currency,預設幣別
+Default hours per week for contact capacity planning,聯絡人容量規劃的預設每週時數
+Default Priority,預設優先順序
+Default Project Status,預設專案狀態
+Default Task Status,預設工作狀態
+Default task view,預設工作檢視
+Default Values,預設值
+Default Weekly Capacity,預設每週容量
+Defaults,預設值
+Defect Cost Impact,缺陷的成本影響
+Defect name is required,缺陷名稱為必填
+Defect Type,缺陷類型
+Defect {0} not found,找不到缺陷 {0}
+Defects,缺陷
+Defects & Issues,缺陷與問題
+Defects Resolved,已解決的缺陷
+Delayed,延遲
+Delete,刪除
+Delete Activity Data,刪除活動資料
+Delete all read notifications?,刪除所有已讀通知？
+Delete comment,刪除留言
+Delete Contact,刪除聯絡人
+Delete Event,刪除活動
+Delete Event?,刪除活動？
+Delete failed,刪除失敗
+Delete file,刪除檔案
+Delete item,刪除項目
+Delete note,刪除備註
+Delete Project,刪除專案
+Delete Task,刪除工作
+Delete this project,刪除此專案
+Deleted,已刪除
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)",已刪除專案「{0}」（{1} 項工作，{2} 個里程碑）
+Deletes notes and preferences. Source document is not affected.,刪除備註和偏好設定。來源文件不受影響。
+Deleting...,刪除中...
+Department,部門
+Dependencies,相依項目
+dependencies,相依項目
+Dependencies are informational only,相依項目僅供參考
+dependency,相依項目
+Dependency already exists,相依項目已存在
+Dependency Chain,相依鏈
+Dependency created,相依項目已建立
+Dependency mode updated,相依模式已更新
+Dependency name is required,相依項目名稱為必填
+Dependency task {0} not found,找不到相依工作 {0}
+Dependency {0} not found,找不到相依項目 {0}
+depends,相依
+Depends on Group,相依於群組
+Depends on task is required,相依的工作為必填
+depends on...,相依於...
+Descending -- click to reverse,降冪排列 -- 點擊以反轉
+Describe the defect in detail...,請詳細描述缺陷...
+Description,說明
+Description updated,說明已更新
+Designation,職稱
+"Detailed description of the defect, location, and impact",缺陷、位置和影響的詳細說明
+Details,詳細資訊
+Discard timer,捨棄計時器
+Discussion,討論
+Dismiss,Dismiss
+Display,顯示
+Document,文件
+Document attached to project,文件已附加到專案
+Document final decision and rationale,記錄最終決定和理由
+Documentation Review,文件審查
+Documents,文件
+Done,完成
+Download,下載
+Drag to create dependency,拖曳以建立相依項目
+Dry Run,模擬執行
+Dry Run Complete,模擬執行完成
+Due Date,截止日期
+Due date,截止日期
+Due Date (Earliest),截止日期（最早）
+Due date cannot be before start date,截止日期不能早於開始日期
+Due date is in the past,截止日期已過
+Due Date Reminders,截止日期提醒
+Due Diligence,盡職調查
+Due Diligence Checklist,盡職調查檢核清單
+Due This Week,本週到期
+Due:,截止：
+Duplicate events are not allowed,不允許重複的事件
+Duplicate failed,複製失敗
+Duplicate Task,複製工作
+Duration,期間
+Duration Summary,期間摘要
+Duration:,期間：
+e.g. Cracked wall finish in bathroom...,例如：浴室牆面飾面裂縫...
+"e.g. Electrical, Plumbing...",例如：電氣、水管...
+Edit,編輯
+Edit (E),編輯 (E)
+Edit dependency,編輯相依項目
+Edit Event,編輯活動
+Efficiency,效率
+Either dependency_name or depends_on is required,需填寫 dependency_name 或 depends_on
+Email,電子郵件
+Email invitations to all attendees,以電子郵件邀請所有出席者
+Email is required to create portal user,建立入口網站使用者需要電子郵件
+Email notifications,電子郵件通知
+Employee,員工
+Employee DocType not available,員工 DocType 無法使用
+Employee not found,找不到員工
+Enable or disable optional features,啟用或停用選用功能
+Enable Time Tracking,啟用時間追蹤
+End,結束
+End Date,結束日期
+End date,結束日期
+End Date cannot be before Start Date,結束日期不能早於開始日期
+End date cannot be before start date,結束日期不能早於開始日期
+End date updated,結束日期已更新
+End time was before start time. Adjusted to 1 hour after start.,結束時間早於開始時間，已調整為開始後 1 小時。
+End:,結束：
+Enter milestone name...,輸入里程碑名稱...
+Enter project name,輸入專案名稱
+Enter task title...,輸入工作標題...
+Enter template name,輸入範本名稱
+Enter your note... Use @name to mention someone,輸入您的備註... 使用 @名稱 來提及某人
+Error,錯誤
+Error loading activity,載入活動時發生錯誤
+Error loading contacts,載入聯絡人時發生錯誤
+Error loading dashboard,載入儀表板時發生錯誤
+Error loading project,載入專案時發生錯誤
+Error loading projects,載入專案列表時發生錯誤
+Error loading settings,載入設定時發生錯誤
+Error loading tasks,載入工作時發生錯誤
+Error loading templates,載入範本時發生錯誤
+Est. Hours,預估時數
+Estimated,預估
+Estimated Cost,預估成本
+Estimated Cost (€),預估成本 (€)
+Estimated Hours,預估時數
+Estimated:,預估：
+Evaluate potential risks and concerns,評估潛在風險和疑慮
+Event,活動
+Event is required for event context,活動情境需要指定活動
+Event is required when tracking context is 'event',當追蹤情境為「活動」時，活動為必填
+Event Type,活動類型
+Events,活動
+Events not available. Please run: bench --site orga.localhost migrate,活動功能無法使用，請執行：bench --site orga.localhost migrate
+Events:,活動：
+Expert,專家
+Explain why you are proposing a different time...,請說明您提議不同時間的原因...
+Export,匯出
+Export failed,匯出失敗
+Export JSON,匯出 JSON
+Exported,已匯出
+Exported to timesheet {0},已匯出至時間表 {0}
+External,外部
+Failed to add item,新增項目失敗
+Failed to add note,新增備註失敗
+Failed to add skill,新增技能失敗
+Failed to apply cascade changes: {0},套用連鎖變更失敗：{0}
+Failed to create defect,建立缺陷失敗
+Failed to create dependency,建立相依項目失敗
+Failed to create event,建立活動失敗
+Failed to create milestone,建立里程碑失敗
+Failed to create project,建立專案失敗
+Failed to create task,建立工作失敗
+Failed to create time log,建立時間記錄失敗
+Failed to delete,刪除失敗
+Failed to delete comment,刪除留言失敗
+Failed to delete contact,刪除聯絡人失敗
+Failed to load,載入失敗
+Failed to load activity,載入活動失敗
+Failed to load assignments,載入指派失敗
+Failed to load contact,載入聯絡人失敗
+Failed to load dashboard data,載入儀表板資料失敗
+Failed to load defects,載入缺陷失敗
+Failed to load events,載入活動失敗
+Failed to load project,載入專案失敗
+Failed to load projects,載入專案列表失敗
+Failed to load report data,載入報表資料失敗
+Failed to load settings,載入設定失敗
+Failed to load tasks,載入工作失敗
+Failed to move task,移動工作失敗
+Failed to post comment,發表留言失敗
+Failed to propose new time,提議新時間失敗
+Failed to remove item,移除項目失敗
+Failed to remove skill,移除技能失敗
+Failed to reorder milestones: {0},重新排序里程碑失敗：{0}
+Failed to reorder tasks: {0},重新排序工作失敗：{0}
+Failed to reschedule dependent tasks: {0},重新排程相依工作失敗：{0}
+Failed to save,儲存失敗
+Failed to save preferences,儲存偏好設定失敗
+Failed to save settings,儲存設定失敗
+Failed to submit request. Please try again.,提交請求失敗，請重試。
+Failed to update item,更新項目失敗
+Failed to update priority,更新優先順序失敗
+Failed to update task,更新工作失敗
+Failed to update tasks: {0},更新工作失敗：{0}
+Failed to upload avatar,上傳頭像失敗
+Feature,功能
+Features,功能
+FF (Finish-Finish),FF（完成-完成）
+FF - Finish-to-Finish,FF - 完成到完成
+Field has been updated,欄位已更新
+Field name is required for 'Set Field Value' action,「設定欄位值」動作需要欄位名稱
+Field {0} is not a Link field,欄位 {0} 不是連結類型欄位
+Field {0} not found in {1},在 {1} 中找不到欄位 {0}
+File,檔案
+file,檔案
+File does not belong to this task,此檔案不屬於這項工作
+File name is required,檔案名稱為必填
+File uploaded,檔案已上傳
+File {0} not found,找不到檔案 {0}
+Files,檔案
+files,檔案
+Filter,篩選
+Final Decision,最終決定
+Finance,財務
+Financial,財務
+Finish-to-Finish,完成到完成
+Finish-to-Start,完成到開始
+Flag,標記
+Flag for attention,標記以引起注意
+Flagged,已標記
+Focus Panel,專注面板
+Follows your system preference. Currently:,依循您的系統偏好。目前：
+Frappe Project {0} not found,找不到 Frappe 專案 {0}
+Frappe Projects Migration,Frappe Projects 移轉
+Frappe Projects module not available,Frappe Projects 模組無法使用
+Frappe Projects module not installed,Frappe Projects 模組未安裝
+Frappe Projects sync is not enabled,Frappe Projects 同步未啟用
+Frappe Task DocType not found,找不到 Frappe 工作 DocType
+Frappe Task has no project,Frappe 工作沒有關聯專案
+Frappe Task {0} not found,找不到 Frappe 工作 {0}
+Fri,五
+From,從
+From Template,從範本
+FS (Finish-Start),FS（完成-開始）
+FS - Finish-to-Start (default),FS - 完成到開始（預設）
+Full form view with audit trail,含稽核紀錄的完整表單檢視
+Full name,全名
+Gantt,Gantt
+Gantt Chart,Gantt 圖
+Gantt View,Gantt 檢視
+General Note,一般備註
+Get started,開始使用
+Go back,返回
+Go Back,返回
+Group by,分組依據
+Group dependency removed,群組相依已移除
+Group dependency set,群組相依已設定
+Group removed,群組已移除
+Group updated,群組已更新
+Hammock task dates are auto-calculated and cannot be changed manually,吊床工作的日期是自動計算的，無法手動修改
+Have a question or need assistance? Fill out the form below and our team will get back to you.,有問題或需要協助嗎？請填寫下方表單，我們的團隊會盡快回覆您。
+Health,健康度
+Healthy,健康
+Hello {0},您好 {0}
+Here's what's happening with your projects today.,以下是您的專案今日動態。
+Hide,隱藏
+High,高
+History,歷程
+Home,首頁
+Hourly Cost,每小時成本
+Hours,小時
+hours,小時
+Hours Logged,已記錄時數
+ID,ID
+Image must be smaller than 5 MB,圖片大小須小於 5 MB
+Import,匯入
+Import existing projects and tasks from Frappe Projects module,從 Frappe Projects 模組匯入現有專案和工作
+Import failed,匯入失敗
+Import Template,匯入範本
+Imported,已匯入
+in,在
+In Progress,進行中
+In Review,審查中
+In-app notifications,應用程式內通知
+Inactive,未啟用
+Initial Review,初步審查
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,權限不足以檢視所有工作
+Intermediate,中級
+Internal,內部
+Invalid DocType,無效的 DocType
+Invalid DocType for import,匯入用的 DocType 無效
+Invalid item type: {0},無效的項目類型：{0}
+Invalid JSON data,JSON 資料無效
+Invalid note type. Must be one of: {0},無效的備註類型。必須為以下之一：{0}
+Invalid project reference,專案參照無效
+Invalid reaction type. Must be one of: {0},無效的回應類型。必須為以下之一：{0}
+Invalid RSVP status,RSVP 狀態無效
+Invalid status. Must be one of: {0},無效的狀態。必須為以下之一：{0}
+Invalid status: {0},無效的狀態：{0}
+Invalid status: {0}. Must be one of: {1},無效的狀態：{0}。必須為以下之一：{1}
+Invalid tracking context: {0},無效的追蹤情境：{0}
+Invalid visibility. Must be one of: {0},無效的可見性。必須為以下之一：{0}
+Invitation: {0} - {1} at {2},邀請：{0} - {1} 於 {2}
+Invite People,邀請人員
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.",不是你的問題，是連結的問題。您要找的頁面可能已被移動、重新命名，或正在享受應得的咖啡休息時間。您的專案和資料完全安全。
+Item added,項目已新增
+Item ID is required,項目 ID 為必填
+Item removed,項目已移除
+Item type is required,項目類型為必填
+Item {0} not found,找不到項目 {0}
+Job title or role,職稱或角色
+Join Meeting,加入會議
+Just now,剛才
+just now,剛才
+Kanban,Kanban
+Kanban Board,Kanban 看板
+Kanban View,Kanban 檢視
+Keyboard Shortcuts,鍵盤快捷鍵
+Keyboard shortcuts (?),鍵盤快捷鍵 (?)
+Last checked: {0},Last checked: {0}
+Last Updated,最後更新
+Last updated:,最後更新：
+Last Week,上週
+Latest Version,Latest Version
+Light,淺色
+Link failed,關聯失敗
+Link Task,關聯工作
+Linked,已關聯
+Linked employee not found,找不到關聯的員工
+Linked Tasks,關聯的工作
+List,清單
+List View,清單檢視
+Load failed,載入失敗
+Load More,載入更多
+Load more comments,載入更多留言
+Loading activity...,載入活動中...
+Loading changes...,載入變更中...
+Loading checklist...,載入檢核清單中...
+Loading comments...,載入留言中...
+Loading contact...,載入聯絡人中...
+Loading contacts...,載入聯絡人中...
+Loading dependencies...,載入相依項目中...
+Loading details...,載入詳細資訊中...
+Loading discussion...,載入討論中...
+Loading events...,載入活動中...
+Loading files...,載入檔案中...
+Loading notes...,載入備註中...
+Loading preferences...,載入偏好設定中...
+Loading project...,載入專案中...
+Loading projects...,載入專案列表中...
+Loading replies...,載入回覆中...
+Loading report data...,載入報表資料中...
+Loading settings...,載入設定中...
+Loading task...,載入工作中...
+Loading templates...,載入範本中...
+Loading time logs...,載入時間記錄中...
+Loading your portal...,載入您的入口網站中...
+Loading...,載入中...
+Location,地點
+Log Time,記錄時間
+Logout,登出
+Low,低
+Make Offer,提出報價
+Manager,主管
+Manual Entry,手動輸入
+Margin,利潤
+Mark all as read,全部標記為已讀
+Mark all read,全部標記為已讀
+Mark as read,標記為已讀
+Mark as unread,標記為未讀
+Mark read,標記為已讀
+Marking...,標記中...
+Material,材料
+Maybe,也許
+Medium,中
+Meeting,會議
+Meeting Link,會議連結
+Meeting title,會議標題
+Meeting URL,會議網址
+Meetings,會議
+Mention,提及
+Message,訊息
+Message is required,訊息為必填
+Message is required for '{0}' action,「{0}」動作需要訊息
+Migrate,移轉
+Migration Complete,移轉完成
+Migration ID:,移轉 ID：
+Migration log not found: {0},找不到移轉記錄：{0}
+Milestone,里程碑
+milestone,里程碑
+Milestone created,里程碑已建立
+Milestone description has been saved.,里程碑說明已儲存。
+Milestone ID is required,里程碑 ID 為必填
+Milestone marked as Missed (past due date),里程碑已標記為錯過（已逾截止日期）
+Milestone moved,里程碑已移動
+Milestone Name,里程碑名稱
+Milestone name has been saved.,里程碑名稱已儲存。
+Milestone name is required,里程碑名稱為必填
+Milestone updated,里程碑已更新
+Milestone {0} not found,找不到里程碑 {0}
+Milestone {0} not in project {1},里程碑 {0} 不在專案 {1} 中
+Milestones,里程碑
+milestones,里程碑
+Milestones:,里程碑：
+Minutes,分鐘
+Missed,已錯過
+Mixed,混合
+Mobile,行動裝置
+Moderate,中等
+Modified,已修改
+"Modify details, time, or attendees",修改詳情、時間或參與者
+Mon,一
+Month,月
+Move failed,移動失敗
+Must be a positive number,必須為正數
+Must finish before this finishes,必須在此項完成之前完成
+Must finish before this starts,必須在此項開始之前完成
+Must start before this finishes,必須在此項完成之前開始
+Must start before this starts,必須在此項開始之前開始
+My Assignments,我的指派
+My Projects,我的專案
+My Schedule,我的行程
+My Tasks,我的工作
+N/A,不適用
+Name,名稱
+Name (A-Z),名稱 (A-Z)
+Name (Z-A),名稱 (Z-A)
+Name cannot exceed 255 characters,名稱不能超過 255 個字元
+Need help?,需要協助嗎？
+Needs Attention,需要關注
+Never,Never
+new activities,新活動
+New Activity,新活動
+New activity,新活動
+New Event,新活動
+New index is required,新索引為必填
+New Project,新專案
+New tasks will auto-trail by default.,新工作預設將自動延伸。
+Newest First,最新的在前
+Next,下一個
+Next 14 days,未來 14 天
+Next 30 days,未來 30 天
+Next 60 days,未來 60 天
+Next 7 days,未來 7 天
+Next 90 days,未來 90 天
+Next Week,下週
+Next:,下一個：
+No,否
+No active assignments,沒有進行中的指派
+No active projects,沒有進行中的專案
+No active timer found,找不到進行中的計時器
+No activity selected,未選擇活動
+No assignments found,找不到指派
+No attendees,沒有出席者
+no change,無變更
+No changes for this field.,此欄位沒有變更。
+No changes recorded for this activity.,此活動沒有記錄的變更。
+No checklist items yet,尚無檢核清單項目
+No checklist items yet.,尚無檢核清單項目。
+No comments yet,尚無留言
+No comments yet.,尚無留言。
+No contacts available,沒有可用的聯絡人
+No content for this tab,此分頁沒有內容
+No data available,沒有可用的資料
+No data available for the selected filters,所選篩選條件沒有可用的資料
+No data to export,沒有可匯出的資料
+No dates set,未設定日期
+No defects reported,沒有回報的缺陷
+No dependencies defined,未定義相依項目
+No description,無說明
+No discussion yet.,尚無討論。
+No documents attached,沒有附加的文件
+No due date,無截止日期
+No employee linked to this resource,沒有員工關聯到此資源
+No ERPNext employee linked to resource,沒有 ERPNext 員工關聯到此資源
+No events found,找不到活動
+No files attached yet.,尚未附加任何檔案。
+No Frappe Project linked,沒有關聯的 Frappe 專案
+No Grouping,不分組
+No items,沒有項目
+No matching tasks,沒有符合的工作
+No matching tasks found,找不到符合的工作
+No migration history,沒有移轉紀錄
+No Milestone,無里程碑
+No milestones,無里程碑
+No milestones defined for this project.,此專案未定義里程碑。
+No notes yet.,尚無備註。
+No notes yet. Add a due diligence note to track progress.,尚無備註。新增一則盡職調查備註以追蹤進度。
+No notifications,沒有通知
+No Orga Project linked to Frappe Project {0},沒有 Orga 專案關聯到 Frappe 專案 {0}
+No overdue tasks,沒有逾期的工作
+No pending cascade changes,沒有待處理的連鎖變更
+No predecessors - this task can start independently,沒有前置工作 - 此工作可以獨立開始
+No project,無專案
+No projects found,找不到專案
+No Projects Yet,尚無專案
+No recent activity,沒有近期活動
+No related documents,沒有相關文件
+No resolved threads.,沒有已解決的討論串。
+No resources found,找不到資源
+No results found,找不到結果
+No skills listed,沒有列出技能
+No skills recorded yet,尚未記錄技能
+No successors - no tasks are waiting for this one,沒有後續工作 - 沒有工作在等待此項
+No task selected,未選擇工作
+No tasks assigned to you,沒有指派給您的工作
+No tasks available to add,沒有可新增的工作
+No tasks found,找不到工作
+No tasks linked to this milestone,沒有工作關聯到此里程碑
+No tasks with dates to display,沒有有日期的工作可顯示
+No tasks yet,尚無工作
+No team members,沒有團隊成員
+No template,無範本
+No templates yet,尚無範本
+No time data found,找不到時間資料
+No time logged today,今天沒有記錄時間
+No time logged yet,尚未記錄時間
+No time logs for this period,此期間沒有時間記錄
+No time logs found,找不到時間記錄
+No unread notifications,沒有未讀通知
+No update information available yet.,No update information available yet.
+None,無
+Not found,找不到
+Not permitted,未授權
+Not permitted to access this project,您未被授權存取此專案
+Not permitted to access this task,您未被授權存取此工作
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,您未被授權對此文件留言
+Not permitted to create clients,您未被授權建立客戶
+Not permitted to delete this client,您未被授權刪除此客戶
+Not permitted to delete this defect,您未被授權刪除此缺陷
+Not permitted to delete this note,您未被授權刪除此備註
+Not permitted to delete this project,您未被授權刪除此專案
+Not permitted to delete this task,您未被授權刪除此工作
+Not permitted to delete this time log,您未被授權刪除此時間記錄
+Not permitted to invite clients,您未被授權邀請客戶
+Not permitted to modify client access,您未被授權修改客戶存取權限
+Not permitted to modify this project,您未被授權修改此專案
+Not permitted to update settings,您未被授權修改設定
+Not permitted to update this client,您未被授權修改此客戶
+Not permitted to view this client,您未被授權檢視此客戶
+not sent,未送出
+Not set,未設定
+Not specified,未指定
+Note,備註
+Note (optional),備註（選填）
+Note Content,備註內容
+Note content is required,備註內容為必填
+Note name is required,備註名稱為必填
+Note not found,找不到備註
+Note Type,備註類型
+Notes,備註
+Notification,通知
+Notification not found,找不到通知
+Notifications,通知
+Off Track,偏離進度
+Offer,報價
+Offer Prepared,報價已準備
+Oldest First,最舊的在前
+On Hold,暫停
+On Leave,請假中
+On Track,進度正常
+On-Time Rate,準時率
+Only administrators can delete activities,只有管理員可以刪除活動
+Only the comment author or administrators can delete comments,只有留言作者或管理員可以刪除留言
+Only you and admins,僅您和管理員
+Open,開啟
+Open in Desk,在 Desk 中開啟
+Open Task Log,開啟工作記錄
+Open Tasks,待處理的工作
+Optional,選填
+optional,選填
+Or email us directly at,或直接寄信至
+Orga Project {0} from Frappe Projects,來自 Frappe Projects 的 Orga 專案 {0}
+Orga Task {0} from Frappe,來自 Frappe 的 Orga 工作 {0}
+Organizer,主辦人
+Other,其他
+Over Budget,超出預算
+Overall Progress,整體進度
+Overall Utilization,整體利用率
+Overallocated,過度分配
+Overdue,逾期
+overdue,逾期
+Overdue Tasks,逾期的工作
+Overview,概覽
+Owner,擁有者
+Page Not Found,找不到頁面
+Parent,父項目
+Parent comment must belong to the same document,父留言必須屬於同一文件
+Parent comment not found,找不到父留言
+Parent project not synced to Frappe yet,父專案尚未同步至 Frappe
+Parent project sync not enabled,父專案同步未啟用
+Partner,合作夥伴
+Pending,待處理
+per page,每頁
+Perform initial assessment and background check,執行初步評估和背景調查
+Permanently remove this event,永久移除此活動
+Permanently remove this task,永久移除此工作
+Phone,電話
+Pin,釘選
+Pin Activity,釘選活動
+Pin to top,釘選至頂部
+Pinned,已釘選
+Planned budget for this task,此工作的計劃預算
+Planning,規劃中
+Please describe your question or issue in detail...,請詳細描述您的問題...
+Please login to access Orga,請登入以存取 Orga
+Please login to access the client portal,請登入以存取客戶入口網站
+Please respond to this invitation in Orga,請在 Orga 中回覆此邀請
+Please select an image file,請選擇一個圖片檔案
+Please try again,請重試
+Please type,請輸入
+Portal,入口網站
+Portal access revoked for {0},已撤銷 {0} 的入口網站存取權限
+Portal user created successfully. Welcome email {0},入口網站使用者已成功建立。歡迎郵件 {0}
+Post,發表
+Powered by,技術提供
+Powered by Tonic,技術提供 Tonic
+Predecessors (Blocked By),前置工作（被阻擋於）
+Preferences,偏好設定
+Preferences saved successfully,偏好設定已成功儲存
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",自動產生專案代碼的前綴（例如 ORG-2026-0001）
+Prepare and document offer terms,準備並記錄報價條件
+Press,按
+Preview,預覽
+Preview cascade before applying,套用前預覽連鎖效果
+Previous,上一個
+Priority,優先順序
+Priority assigned to new tasks,指派給新工作的優先順序
+Priority updated,優先順序已更新
+Proficiency,熟練度
+Profile,個人檔案
+Progress,進度
+Progress (High-Low),進度（由高到低）
+Progress (Low-High),進度（由低到高）
+Progress Overview,進度概覽
+Progress updated,進度已更新
+Project,專案
+Project budget has been saved.,專案預算已儲存。
+Project code (e.g. ORG-2026-0001),專案代碼（例如 ORG-2026-0001）
+Project Code Prefix,專案代碼前綴
+Project created,專案已建立
+Project deleted,專案已刪除
+Project description has been saved.,專案說明已儲存。
+Project Details,專案詳細資訊
+Project end date has been saved.,專案結束日期已儲存。
+Project Files,專案檔案
+Project has no linked client,專案沒有關聯的客戶
+Project Health,專案健康度
+Project Info,專案資訊
+Project is required,專案為必填
+Project is required for project context,專案情境需要指定專案
+Project is required when tracking context is 'project',當追蹤情境為「專案」時，專案為必填
+Project Manager,專案負責人
+Project Name,專案名稱
+Project name and template name are required,專案名稱和範本名稱為必填
+Project name is required,專案名稱為必填
+Project not found,找不到專案
+Project not found or you do not have access,找不到專案或您沒有存取權限
+Project settings,專案設定
+Project start date has been saved.,專案開始日期已儲存。
+Project title has been saved.,專案標題已儲存。
+Project Type,專案類型
+Project updated,專案已更新
+Project {0} linked to client {1},專案 {0} 已關聯到客戶 {1}
+Project {0} not found,找不到專案 {0}
+Project {0} to Frappe Projects,專案 {0} 到 Frappe Projects
+Project:,專案：
+Projects,專案
+projects,專案
+Projects created:,已建立的專案：
+Projects Overview,專案概覽
+Projects skipped:,已略過的專案：
+Projects updated:,已更新的專案：
+Promote failed,升級失敗
+Promote to task,升級為工作
+Promoted to task,已升級為工作
+Propose,提議
+Propose New Time,提議新時間
+Propose Time,提議時間
+Proposed End,建議結束時間
+Proposed Start,建議開始時間
+Public,公開
+Quick Action,快速動作
+Quick Actions,快速動作
+Quick Stats,快速統計
+Rates,費率
+Receive notifications via email,透過電子郵件接收通知
+Receive notifications within the application,在應用程式內接收通知
+Recent Activity,近期活動
+Recipient {0} is not a valid user,收件者 {0} 不是有效的使用者
+Reference,參照
+Refresh,重新整理
+Related,相關
+Related Company (optional),相關公司（選填）
+Related Documents,相關文件
+Related Project,相關專案
+Remaining,剩餘
+Reminder,提醒
+Reminder Lead Time,提醒提前時間
+Reminder: {0} - {1} at {2},提醒：{0} - {1} 於 {2}
+Remove,移除
+Remove dependency,移除相依項目
+Remove dependency on,移除對以下項目的相依
+Remove from group,從群組中移除
+Remove group dependency,移除群組相依
+Remove skill,移除技能
+Reopen,重新開啟
+Reopen thread,重新開啟討論串
+reopened,已重新開啟
+replies,回覆
+Reply,回覆
+reply,回覆
+Replying to,回覆給
+Replying to comment,回覆留言
+Report Defect,回報缺陷
+Reported Date,回報日期
+Reports,報表
+Reports To,直屬主管
+Request Submitted!,請求已提交！
+Required,必填
+required,必填
+Research,研究
+Reset to Defaults,重設為預設值
+Resolve,解決
+Resolve thread,解決討論串
+Resolved,已解決
+Resolved date cannot be before reported date,解決日期不能早於回報日期
+Resource,資源
+Resource and skill name are required,資源和技能名稱為必填
+Resource is already an attendee,此資源已是出席者
+Resource name is required,資源名稱為必填
+Resource not found,找不到資源
+Resource synced from employee {0},資源已從員工 {0} 同步
+Resource {0} is already assigned to this task ({1}),資源 {0} 已指派到此工作 ({1})
+Resource {0} not found,找不到資源 {0}
+Resources,聯絡人
+Retry,重試
+Review,審查
+Review all relevant documents and contracts,審查所有相關文件和合約
+Reviews,審查
+Risk Assessment,風險評估
+Rollback,復原
+Rolled back,已復原
+Room or address,會議室或地址
+RSVP,RSVP
+Safety,安全
+Sat,六
+Save,儲存
+"Save a project as a template, or import one from a JSON file.",將專案儲存為範本，或從 JSON 檔案匯入範本。
+Save as Template,另存為範本
+Save Changes,儲存變更
+Save failed,儲存失敗
+Save Preferences,儲存偏好設定
+Save Template,儲存範本
+Saving...,儲存中...
+Schedule,行程
+Schedule type is required for scheduled triggers,排程觸發需要排程類型
+Scheduled,已排程
+Search,搜尋
+"Search by name, email, or skill...",依名稱、電子郵件或技能搜尋...
+Search for a project...,搜尋專案...
+Search for a task...,搜尋工作...
+Search for an event...,搜尋活動...
+Search for people to invite...,搜尋要邀請的人員...
+Search tasks to link...,搜尋要關聯的工作...
+Search tasks...,搜尋工作...
+Search...,搜尋...
+Searching...,搜尋中...
+Seen,已讀
+Select a project if your request is related to a specific project.,如果您的請求與特定專案相關，請選擇該專案。
+Select a project...,選擇專案...
+Select a task from the Gantt chart to view and manage its details.,從 Gantt 圖中選擇一項工作以檢視和管理其詳細資訊。
+Select a task from the list or Kanban board to view and manage its details.,從清單或 Kanban 看板中選擇一項工作以檢視和管理其詳細資訊。
+Select a template...,選擇範本...
+Select priority...,選擇優先順序...
+Select status...,選擇狀態...
+Select task...,選擇工作...
+Select type...,選擇類型...
+Selection,選取
+Send,送出
+Send comment,送出留言
+Send email invitations to attendees,以電子郵件送出邀請給出席者
+Send Invitations,送出邀請
+Send notification when a task is assigned to a user,當工作被指派給使用者時送出通知
+Send notification when task status changes,當工作狀態變更時送出通知
+Send reminder before task due date,在工作截止日期前送出提醒
+sent,已送出
+Set rate,設定費率
+Settings,設定
+Settings saved successfully,設定已成功儲存
+Severity,嚴重程度
+SF (Start-Finish),SF（開始-完成）
+SF - Start-to-Finish,SF - 開始到完成
+Show,顯示
+Show all,全部顯示
+Show all changes,顯示所有變更
+Show Archived,顯示已封存
+Show full diff,顯示完整差異
+Show less,顯示較少
+Show more,顯示更多
+Skill added,技能已新增
+Skill is required,技能為必填
+Skill Name,技能名稱
+Skill removed,技能已移除
+Skill {0} already exists for this resource,此資源已有技能 {0}
+Skills,技能
+Skills & Competencies,技能與專長
+Skip already migrated projects,略過已移轉的專案
+Sort by,排序依據
+Sort: Due Date,排序：截止日期
+Sort: Priority,排序：優先順序
+Sort: Project,排序：專案
+Sort: Status,排序：狀態
+Sort: Task,排序：工作
+Source Code,原始碼
+Spent,已花費
+Spent:,已花費：
+SS (Start-Start),SS（開始-開始）
+SS - Start-to-Start,SS - 開始到開始
+Standalone,獨立
+Start,開始
+Start a discussion below,在下方開始討論
+Start Date,開始日期
+Start date,開始日期
+Start Date (Earliest),開始日期（最早）
+Start date updated,開始日期已更新
+Start date/time is required,開始日期/時間為必填
+Start Migration,開始移轉
+Start the conversation below.,在下方開始對話。
+Start Timer,啟動計時器
+Start typing to search...,開始輸入以搜尋...
+Start-to-Finish,開始到完成
+Start-to-Start,開始到開始
+Start:,開始：
+Statistics reset,統計已重設
+Status,狀態
+Status assigned to new projects,指派給新專案的狀態
+Status assigned to new tasks,指派給新工作的狀態
+Status Changes,狀態變更
+Status updated,狀態已更新
+Status:,狀態：
+Stop,停止
+Stop & Save,停止並儲存
+Stop Timer,停止計時器
+Stops current timer and starts for this event,停止目前的計時器並為此活動啟動
+Stops current timer and starts for this task,停止目前的計時器並為此工作啟動
+Subject,主旨
+Subject cannot exceed 255 characters,主旨不能超過 255 個字元
+Subject is required,主旨為必填
+Submit,提交
+Submit Another Request,提交另一個請求
+Submit Request,提交請求
+Submitting...,提交中...
+Successfully saved,已成功儲存
+Successors (Blocking),後續工作（阻擋中）
+Sun,日
+Supplier,供應商
+Support,客服
+Switch to this event,切換到此活動
+Switch to this task,切換到此工作
+Sync direction is set to Frappe to Orga only,同步方向設定為僅從 Frappe 到 Orga
+Sync direction is set to Orga to Frappe only,同步方向設定為僅從 Orga 到 Frappe
+Sync not enabled for this project,此專案未啟用同步
+System,系統
+Table,表格
+Take ownership of this task,接手此工作
+Target Date,目標日期
+Target End,目標結束日期
+Target Project,目標專案
+Target user is required for '{0}' action,「{0}」動作需要目標使用者
+Task,工作
+task,工作
+Task '{0}' is due on {1}.,工作「{0}」的截止日期為 {1}。
+Task and resource are required,工作和資源為必填
+Task Assignment,工作指派
+Task cannot be its own parent,工作不能是自己的父項目
+Task cannot depend on itself,工作不能相依於自身
+Task cannot depend on the group it belongs to,工作不能相依於其所屬群組
+Task created,工作已建立
+Task deleted,工作已刪除
+Task description has been saved.,工作說明已儲存。
+Task Details,工作詳細資訊
+Task due in {0} days: {1},工作將在 {0} 天後到期：{1}
+Task due today: {0},今日到期的工作：{0}
+Task due tomorrow: {0},明日到期的工作：{0}
+Task duplicated,工作已複製
+Task Group,工作群組
+Task ID is required,工作 ID 為必填
+Task is blocked by incomplete dependencies,工作因未完成的相依項目而被阻擋
+Task is cancelled,工作已取消
+Task is completed,工作已完成
+Task is no longer blocked by a group,工作不再被群組阻擋
+Task is required for task context,工作情境需要指定工作
+Task is required when tracking context is 'task',當追蹤情境為「工作」時，工作為必填
+Task linked,工作已關聯
+Task moved,工作已移動
+Task name,工作名稱
+Task name is required,工作名稱為必填
+Task removed from group,工作已從群組移除
+Task Subject,工作主旨
+Task subject is required,工作主旨為必填
+Task Type,工作類型
+Task unblocked: {0},工作已解除阻擋：{0}
+Task unlinked,工作已取消關聯
+Task updated,工作已更新
+Task {0} not found,找不到工作 {0}
+Task {0} not in project {1},工作 {0} 不在專案 {1} 中
+Task {0} to Frappe,工作 {0} 到 Frappe
+Tasks,工作
+tasks,工作
+Tasks and milestones will be created with dates relative to the project start date.,工作和里程碑將以相對於專案開始日期的方式建立。
+Tasks assigned to you across all projects.,所有專案中指派給您的工作。
+Tasks created:,已建立的工作：
+Tasks from projects you manage.,您管理的專案中的工作。
+Tasks updated:,已更新的工作：
+"Tasks, milestones, and dependencies have been created.",工作、里程碑和相依項目已建立。
+Tasks:,工作：
+TBD,待定
+Team,團隊
+Team Members,團隊成員
+Template,範本
+Template applied,範本已套用
+Template data is required in import data,匯入資料中需要範本資料
+Template has no data,範本沒有資料
+Template Name,範本名稱
+Template name,範本名稱
+Template name is required,範本名稱為必填
+Template name is required in import data,匯入資料中需要範本名稱
+Template saved,範本已儲存
+Template updated successfully.,範本已成功更新。
+Template {0} not found,找不到範本 {0}
+Templates,範本
+Tentative,暫定
+The comment has been deleted,留言已刪除
+The project,此專案
+The source document may have been deleted.,來源文件可能已被刪除。
+The source document will not be affected.,來源文件不會受到影響。
+The status of '{0}' was changed from {1} to {2}.,「{0}」的狀態已從 {1} 變更為 {2}。
+Theme,佈景主題
+Theme preference,佈景主題偏好
+This action,此動作
+This action cannot be undone.,此操作無法復原。
+This activity has been flagged for attention,此活動已被標記以引起注意
+This is a reminder for your upcoming appointment,這是您即將到來的約會提醒
+This method is only meant for developer mode,此方法僅限開發者模式使用
+This page wandered off,此頁面走丟了
+This Week,本週
+This will delete all notes and preferences associated with this activity.,這將刪除與此活動相關的所有備註和偏好設定。
+This will import all Frappe Projects into Orga. Continue?,這將匯入所有 Frappe 專案到 Orga。是否繼續？
+This will permanently delete,這將永久刪除
+This will permanently delete:,這將永久刪除：
+Thu,四
+Time,時間
+Time & Billing,時間與帳務
+Time & Revenue,時間與收入
+Time Entries,時間記錄
+Time log name is required,時間記錄名稱為必填
+Time Log not found,找不到時間記錄
+Time log {0} not found,找不到時間記錄 {0}
+Time Logs,時間記錄
+Time Summary,時間摘要
+Time Tracking,時間追蹤
+Timeline,時間軸
+Timer active on,計時器啟動於
+Timer is not running,計時器未在運作
+Timer Running,計時器運作中
+Timer running,計時器運作中
+Timesheet DocType not available,時間表 DocType 無法使用
+Timesheets,時間表
+Timezone,時區
+Timezone is detected from your browser,時區已從您的瀏覽器偵測
+Title,標題
+Title cannot exceed 255 characters,標題不能超過 255 個字元
+Title is required,標題為必填
+Title updated,標題已更新
+To,至
+to,到
+to cancel,以取消
+to close,以關閉
+to confirm:,以確認：
+to edit,以編輯
+"to save,",以儲存，
+To Time cannot be before From Time,結束時間不能早於開始時間
+Today,今天
+today,今天
+Toggle billable,切換可計費狀態
+Toggle Details Panel,切換詳細資訊面板
+Toggle Manager Panel,切換管理面板
+Toggle Sidebar,切換側邊欄
+Tomorrow,明天
+tomorrow,明天
+Total,總計
+Total Budget,總預算
+Total Contacts,聯絡人總數
+Total Cost,總成本
+Total Cost to Org,組織總成本
+Total Defect Cost,缺陷總成本
+Total Hours,總時數
+Total Hours Logged,已記錄的總時數
+Total Projects,專案總數
+Total Spent,已花費總額
+Total Tasks,工作總數
+Total:,總計：
+Tracked,已追蹤
+trails to today while Open at 0%,在進度為 0% 且狀態為開啟時延伸至今天
+Tried:,嘗試：
+Try adjusting your filter criteria,請嘗試調整篩選條件
+Try adjusting your filters.,請嘗試調整篩選條件。
+Try Again,重試
+Tue,二
+Type,類型
+Type updated,類型已更新
+Type:,類型：
+Typical response time: 1-2 business days,一般回覆時間：1-2 個工作天
+Unarchive,取消封存
+Unarchive Activity,取消封存活動
+Unassign,取消指派
+Unassigned,未指派
+Under Budget,低於預算
+Ungrouped,未分組
+Unknown,未知
+Unknown error,未知錯誤
+Unlink failed,取消關聯失敗
+Unlink task from milestone,從里程碑取消關聯工作
+Unpin,取消釘選
+Unpin Activity,取消釘選活動
+Unread,未讀
+Unread only,僅顯示未讀
+Until,直到
+Up to Date,Up to Date
+Upcoming,即將到來
+upcoming,即將到來
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,更新失敗
+Updated,已更新
+Updated successfully,已成功更新
+Updates,Updates
+Upload,上傳
+Upload failed,上傳失敗
+Upload files below to attach them to this task.,在下方上傳檔案以附加到此工作。
+Upload to project,上傳到專案
+Uploading...,上傳中...
+Urgent,緊急
+User {0} is already linked to client {1},使用者 {0} 已關聯到客戶 {1}
+User {0} is already linked to resource {1},使用者 {0} 已關聯到資源 {1}
+Utilization,利用率
+Valid,有效
+Value:,值：
+Variance,差異
+Variance:,差異：
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,檢視
+View All,檢視全部
+View all active projects,檢視所有進行中的專案
+View all open tasks,檢視所有待處理的工作
+View overdue tasks,檢視逾期的工作
+View Release,View Release
+Visibility,可見性
+Waiting for this task,等待此工作
+Waits for:,等待：
+Warning: Resource {0} status is {1},警告：資源 {0} 的狀態為 {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,警告：使用 HTTP 而非 HTTPS。Webhook 資料可能不安全。
+Watch budget closely,密切注意預算
+We'll respond to:,我們將回覆至：
+Webhook deleted,Webhook 已刪除
+Webhook name is required,Webhook 名稱為必填
+Webhook not found,找不到 Webhook
+Webhook URL is required,Webhook 網址為必填
+Webhook URL must start with http:// or https://,Webhook 網址必須以 http:// 或 https:// 開頭
+Wed,三
+Week,週
+Weekend,週末
+Weekly Capacity,每週容量
+weekly capacity,每週容量
+Weekly Capacity (h),每週容量（小時）
+Welcome,歡迎
+Welcome back!,歡迎回來！
+Welcome to Orga,歡迎使用 Orga
+What are you working on?,您正在做什麼？
+What did you work on?,您做了什麼工作？
+When,何時
+When work begins,工作開始時
+When work is due,工作截止時
+Where,地點
+Will capture:,將擷取：
+Will create:,將建立：
+with checklist items,包含檢核清單項目
+Working,進行中
+Workload,工作量
+Workmanship,工藝品質
+Write a comment...,撰寫留言...
+Write a comment... Use @name to mention (Ctrl+Enter to send),撰寫留言... 使用 @名稱 來提及（Ctrl+Enter 送出）
+Year,年
+Yes,是
+Yesterday,昨天
+yesterday,昨天
+You are not an attendee of this appointment,您不是此約會的出席者
+You are not linked to any resource,您未關聯到任何資源
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,您只能刪除自己的留言
+You can only delete your own reactions,您只能刪除自己的回應
+You do not have access to the client portal. Please contact support.,您沒有客戶入口網站的存取權限。請聯繫客服。
+You have already reacted with '{0}',您已使用「{0}」回應過
+You have been assigned to task '{0}' in project '{1}'.,您已被指派到專案「{1}」中的工作「{0}」。
+You have been assigned to: {0},您已被指派至：{0}
+You have been invited to the following appointment,您已被邀請參加以下約會
+You have no tasks assigned to you right now.,您目前沒有被指派任何工作。
+You were mentioned in {0},您在 {0} 中被提及
+Your attendance,您的出席
+Your comment has been posted,您的留言已發表
+Your Projects,您的專案
+Your projects will appear here once they're assigned to you.,您的專案一旦指派給您後將顯示在這裡。
+Your Response,您的回覆
+Your RSVP,您的 RSVP
+Your support request has been submitted successfully.,您的客服請求已成功提交。
+Your support request has been submitted successfully. We'll get back to you shortly.,您的客服請求已成功提交。我們會盡快回覆您。
+"Your task ""{0}"" is no longer blocked and can now be started.",您的工作「{0}」不再被阻擋，現在可以開始了。
+{0} is required,{0} 為必填
+{0} new activities,{0} 項新活動
+{0} of {1} completed,{0} / {1} 已完成
+{0} projects already migrated (will be skipped or updated),{0} 個專案已移轉（將被略過或更新）
+{0} status changed to {1},{0} 的狀態已變更為 {1}
+{0} tasks remaining,剩餘 {0} 項工作
+{0} tasks without projects will be skipped,{0} 項沒有專案的工作將被略過
+{0} {1} not found,找不到 {0} {1}

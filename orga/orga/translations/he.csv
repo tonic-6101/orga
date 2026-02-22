@@ -1,0 +1,1492 @@
++ Add Milestone,+ הוסף אבן דרך
++ Create Task,+ צור משימה
++ Log Time,+ רשום זמן
+-- Select a project --,-- בחר פרויקט --
+0m,0ד
+1 day,יום 1
+1 day ago,לפני יום
+1 dependency,תלות 1
+1 entry,רשומה 1
+1 file,קובץ 1
+1 hour ago,לפני שעה
+1 member,חבר 1
+1 milestone,אבן דרך 1
+1 month,חודש 1
+1 task,משימה 1
+< 1m,< 1ד
+"A clear, actionable title for the task",כותרת ברורה וניתנת לביצוע עבור המשימה
+A client with email {0} already exists: {1},"לקוח עם דוא""ל {0} כבר קיים: {1}"
+A key deliverable or checkpoint for the project,תוצר מפתח או נקודת ביקורת עבור הפרויקט
+Accept,קבל
+Accepted,התקבל
+Acknowledge,אשר קבלה
+across,לאורך
+Action,פעולה
+Actions,פעולות
+Active,פעיל
+Active Assignments,הקצאות פעילות
+Active Projects,פרויקטים פעילים
+Activity,פעילות
+Activity data deleted successfully,נתוני הפעילות נמחקו בהצלחה
+Activity Info,מידע על פעילות
+Activity Stats,סטטיסטיקות פעילות
+Activity will appear here as you work on tasks and projects.,פעילות תופיע כאן בזמן שתעבוד על משימות ופרויקטים.
+Actual,בפועל
+Actual Cost,עלות בפועל
+Actual cost cannot be negative,העלות בפועל לא יכולה להיות שלילית
+Actual end date cannot be before actual start date,תאריך סיום בפועל לא יכול להיות לפני תאריך התחלה בפועל
+Actual Hours,שעות בפועל
+Add,הוסף
+Add a checklist item...,הוסף פריט לרשימת סימון...
+Add a comment...,הוסף תגובה...
+Add a comment... (Ctrl+Enter to send),הוסף תגובה... (Ctrl+Enter לשליחה)
+Add a description...,הוסף תיאור...
+Add a milestone description...,הוסף תיאור לאבן דרך...
+Add a note below to annotate this activity.,הוסף הערה למטה כדי לתעד פעילות זו.
+Add a note...,הוסף הערה...
+Add a project description...,הוסף תיאור פרויקט...
+Add a task description...,הוסף תיאור משימה...
+Add checklist item...,הוסף פריט לרשימת סימון...
+Add Contact,הוסף איש קשר
+Add contacts via the Desk interface or clear filters,הוסף אנשי קשר דרך ממשק הדסק או נקה מסננים
+Add Dependency,הוסף תלות
+Add details about this event...,הוסף פרטים על אירוע זה...
+Add details about this milestone...,הוסף פרטים על אבן דרך זו...
+Add details about this task...,הוסף פרטים על משימה זו...
+Add details or acceptance criteria for this milestone,הוסף פרטים או קריטריונים לקבלה עבור אבן דרך זו
+"Add details, context, or acceptance criteria","הוסף פרטים, הקשר או קריטריונים לקבלה"
+Add first dependency,הוסף תלות ראשונה
+Add item,הוסף פריט
+Add items below to track progress.,הוסף פריטים למטה כדי לעקוב אחר ההתקדמות.
+Add items below to track subtasks,הוסף פריטים למטה כדי לעקוב אחר משימות משנה
+Add Milestone,הוסף אבן דרך
+Add Milestone (Shift+M),הוסף אבן דרך (Shift+M)
+Add milestones to track key deliverables.,הוסף אבני דרך כדי לעקוב אחר תוצרים מפתח.
+Add New Contact,הוסף איש קשר חדש
+Add Note,הוסף הערה
+Add note,הוסף הערה
+Add notes about this contact...,הוסף הערות על איש קשר זה...
+Add reaction,הוסף תגובה רגשית
+Add Skill,הוסף מיומנות
+Add start and due dates to tasks to see them on the Gantt chart,הוסף תאריכי התחלה וסיום למשימות כדי לראות אותן בתרשים גנט
+Add Task,הוסף משימה
+Add Task (Shift+T),הוסף משימה (Shift+T)
+Added Finish-to-Start dependency,נוספה תלות סיום-להתחלה
+Adding this dependency would create a circular reference: {0},הוספת תלות זו תיצור הפניה מעגלית: {0}
+Adding...,מוסיף...
+Address,כתובת
+Advanced,מתקדם
+All,הכל
+All Active,כל הפעילים
+All Assignees,כל המוקצים
+All Categories,כל הקטגוריות
+All caught up!,הכל מעודכן!
+All Contexts,כל ההקשרים
+All day,כל היום
+All day event,אירוע יום שלם
+All fields,כל השדות
+All Priorities,כל העדיפויות
+All Projects,כל הפרויקטים
+All Status,כל הסטטוסים
+All Statuses,כל הסטטוסים
+All task dependencies & relative dates,כל תלויות המשימות ותאריכים יחסיים
+All Tasks,כל המשימות
+All tasks across all projects.,כל המשימות בכל הפרויקטים.
+All tasks are already linked,כל המשימות כבר מקושרות
+All team members,כל חברי הצוות
+All Types,כל הסוגים
+All Users,כל המשתמשים
+Allocated,הוקצה
+allocated,מוקצה
+Allow users to log time against tasks,אפשר למשתמשים לרשום זמן כנגד משימות
+Already exported to timesheet {0},כבר יוצא לגיליון זמנים {0}
+Already Migrated,כבר הועבר
+Anyone with access,כל מי שיש לו גישה
+anytime to show this help,בכל עת כדי להציג עזרה זו
+App Updates,App Updates
+Appearance,מראה
+Apply,החל
+Apply cascade?,להחיל מפל?
+Apply Changes,החל שינויים
+Apply failed,ההחלה נכשלה
+Apply Template,החל תבנית
+Applying...,מחיל...
+Appointment,פגישה
+Appointment and resource are required,פגישה ומשאב נדרשים
+Appointment name is required,שם הפגישה נדרש
+Appointment not found,הפגישה לא נמצאה
+Appointment {0} not found,פגישה {0} לא נמצאה
+Apps,אפליקציות
+Archive,ארכיון
+Archive Activity,העבר פעילות לארכיון
+Archived,בארכיון
+Are you sure you want to delete this activity data? This cannot be undone.,האם אתה בטוח שברצונך למחוק נתוני פעילות אלה? לא ניתן לבטל פעולה זו.
+Are you sure you want to delete this comment?,האם אתה בטוח שברצונך למחוק תגובה זו?
+Are you sure you want to delete this project?,האם אתה בטוח שברצונך למחוק פרויקט זה?
+Are you sure?,האם אתה בטוח?
+Ascending -- click to reverse,סדר עולה -- לחץ להיפוך
+Assign To,הקצה ל
+Assign to Me,הקצה לי
+Assigned Contact,איש קשר מוקצה
+Assigned To,מוקצה ל
+Assigned to,מוקצה ל
+Assigned to Me,מוקצה לי
+Assignee,מוקצה
+Assignment,הקצאה
+Assignment History,היסטוריית הקצאות
+Assignment name is required,שם ההקצאה נדרש
+Assignment {0} not found,הקצאה {0} לא נמצאה
+Assignments,הקצאות
+At least one action is required,נדרשת לפחות פעולה אחת
+At least one event is required,נדרש לפחות אירוע אחד
+At least one event must be selected,יש לבחור לפחות אירוע אחד
+Attachment,קובץ מצורף
+Attachments,קבצים מצורפים
+Attendees,משתתפים
+"Audit trail, assignments, version history","מסלול ביקורת, הקצאות, היסטוריית גרסאות"
+Auto,אוטומטי
+Auto Calculate Progress,חישוב התקדמות אוטומטי
+Auto Set Missed Milestones,סימון אוטומטי של אבני דרך שהוחמצו
+Auto-shift dependents when dates change,הזז תלויים אוטומטית כאשר תאריכים משתנים
+Auto-Trail Start,התחלת מסלול אוטומטית
+Auto-Trail updated,המסלול האוטומטי עודכן
+Automatically calculate project progress from task completion,חשב אוטומטית את התקדמות הפרויקט מהשלמת משימות
+Automatically mark milestones as missed when overdue,סמן אוטומטית אבני דרך כהוחמצו כאשר הן באיחור
+Automation rule {0} not found,כלל אוטומציה {0} לא נמצא
+Automation: {0},אוטומציה: {0}
+Availability,זמינות
+Available,זמין
+Avatar updated successfully,התמונה עודכנה בהצלחה
+Avg Progress,התקדמות ממוצעת
+Back,חזור
+Back to Portal,חזור לפורטל
+Back to Projects,חזור לפרויקטים
+Beginner,מתחיל
+Best regards,בברכה
+Billable,לחיוב
+Billable Amount,סכום לחיוב
+Billable Hours,שעות לחיוב
+Billable Rate,תעריף לחיוב
+Billing Rate,תעריף חיוב
+Blocked,חסום
+Both dates are needed to display task as a bar in Gantt chart,שני התאריכים נדרשים כדי להציג משימה כפס בתרשים גנט
+Both doctype and docname are required,סוג המסמך ושם המסמך נדרשים
+Both proposed start and end times are required,שעות התחלה וסיום מוצעות נדרשות
+Both task_name and depends_on are required,שם המשימה ותלות נדרשים
+Breadcrumb,נתיב ניווט
+Brief description of the defect or damage,תיאור קצר של הפגם או הנזק
+Brief description of this template,תיאור קצר של תבנית זו
+Brief description of your request,תיאור קצר של בקשתך
+Brief project description,תיאור קצר של הפרויקט
+Budget,תקציב
+Budget at risk,תקציב בסיכון
+Budget Burn Rate,קצב שריפת תקציב
+Budget Status,מצב תקציב
+Budget updated,התקציב עודכן
+Budget:,תקציב:
+Bug,באג
+Burn Rate,קצב שריפה
+Busy,עסוק
+By,לפי
+By Assignee,לפי מוקצה
+By Group,לפי קבוצה
+By Milestone,לפי אבן דרך
+By Priority,לפי עדיפות
+By Status,לפי סטטוס
+Cancel,בטל
+Cancelled,בוטל
+cannot be undone,לא ניתן לבטל
+Cannot delete client with {0} linked projects. Unlink projects first.,לא ניתן למחוק לקוח עם {0} פרויקטים מקושרים. בטל קישור פרויקטים תחילה.
+Cannot delete project with {0} linked tasks. Delete tasks first.,לא ניתן למחוק פרויקט עם {0} משימות מקושרות. מחק משימות תחילה.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,לא ניתן למחוק משאב עם {0} הקצאות פעילות. השלם או בטל אותן תחילה.
+Cannot delete task with {0} subtasks. Delete subtasks first.,לא ניתן למחוק משימה עם {0} משימות משנה. מחק משימות משנה תחילה.
+Capacity,קיבולת
+capacity,קיבולת
+Capacity & Rates,קיבולת ותעריפים
+Capture project structure for reuse,לכוד מבנה פרויקט לשימוש חוזר
+Cascade,מפל
+Cascade Preview,תצוגה מקדימה של מפל
+Category,קטגוריה
+Celebrate,חגוג
+Change,שנה
+Change History,היסטוריית שינויים
+Change Priority,שנה עדיפות
+Change Status,שנה סטטוס
+Changes,שינויים
+Changes appear when fields are modified.,שינויים מופיעים כאשר שדות משתנים.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,רשימת סימון
+Checklist item name is required,שם פריט רשימת הסימון נדרש
+Checklist item not found,פריט רשימת סימון לא נמצא
+Checklist item title is required,כותרת פריט רשימת הסימון נדרשת
+Checklist item {0} not found,פריט רשימת סימון {0} לא נמצא
+Checklist item {0} not found in task,פריט רשימת סימון {0} לא נמצא במשימה
+Child,צאצא
+Choose file to upload,בחר קובץ להעלאה
+Circular dependency detected: {0},זוהתה תלות מעגלית: {0}
+Circular parent-child relationship detected,זוהה קשר מעגלי בין הורה לצאצא
+Clear,נקה
+Clear all read,נקה הכל שנקרא
+Clear date,נקה תאריך
+Click on an activity from the list to view and manage its details.,לחץ על פעילות מהרשימה כדי לצפות ולנהל את פרטיה.
+Click the avatar to upload a new photo,לחץ על התמונה כדי להעלות תמונה חדשה
+Click to add description...,לחץ להוספת תיאור...
+Click to add notes...,לחץ להוספת הערות...
+Click to assign contact,לחץ להקצאת איש קשר
+Click to change status,לחץ לשינוי סטטוס
+Click to change type,לחץ לשינוי סוג
+Click to edit,לחץ לעריכה
+Click to edit budget,לחץ לעריכת תקציב
+Click to edit description,לחץ לעריכת תיאור
+Click to edit end date,לחץ לעריכת תאריך סיום
+Click to edit milestone name,לחץ לעריכת שם אבן דרך
+Click to edit rate,לחץ לעריכת תעריף
+Click to edit start date,לחץ לעריכת תאריך התחלה
+Click to edit title,לחץ לעריכת כותרת
+Click to load,לחץ לטעינה
+Click to set group dependency...,לחץ להגדרת תלות קבוצתית...
+Click to set group...,לחץ להגדרת קבוצה...
+Click to view,לחץ לצפייה
+Click to view at-risk projects,לחץ לצפייה בפרויקטים בסיכון
+Click to view critical projects,לחץ לצפייה בפרויקטים קריטיים
+Click to view healthy projects,לחץ לצפייה בפרויקטים תקינים
+Client,לקוח
+Client already has a portal user: {0},ללקוח כבר יש משתמש פורטל: {0}
+Client already has portal access,ללקוח כבר יש גישה לפורטל
+Client has no portal user to revoke,ללקוח אין משתמש פורטל לביטול
+Client link removed from project {0},קישור הלקוח הוסר מפרויקט {0}
+Client Portal,פורטל לקוחות
+Client {0} deleted successfully,לקוח {0} נמחק בהצלחה
+Close,סגור
+Close (Esc),סגור (Esc)
+Comment,תגובה
+comment,תגובה
+Comment added,התגובה נוספה
+Comment content is required,תוכן התגובה נדרש
+Comment name is required,שם התגובה נדרש
+Comment not found,התגובה לא נמצאה
+Comment removed,התגובה הוסרה
+Comment {0} not found in task,תגובה {0} לא נמצאה במשימה
+Comments,תגובות
+comments,תגובות
+Community Edition,Community Edition
+Company,חברה
+Company name...,שם חברה...
+Complete,השלם
+Completed,הושלם
+completed,הושלם
+Completed Tasks,משימות שהושלמו
+Compliance,תאימות
+Configure default values for new projects and tasks,הגדר ערכי ברירת מחדל עבור פרויקטים ומשימות חדשים
+Configure email notification settings,"הגדר הגדרות התראות דוא""ל"
+Confirm,אשר
+Contact deleted,איש הקשר נמחק
+Contact Details,פרטי איש קשר
+Contact Information,פרטי יצירת קשר
+Contact name is required,שם איש הקשר נדרש
+Contact Support,צור קשר עם התמיכה
+Contact your project manager for more information.,צור קשר עם מנהל הפרויקט שלך לקבלת מידע נוסף.
+Contact:,איש קשר:
+Contacts,אנשי קשר
+Context,הקשר
+Contractor,קבלן
+Cost estimate cannot be negative,הערכת עלות לא יכולה להיות שלילית
+Cost Impact,השפעת עלות
+Cost Summary,סיכום עלויות
+Could not apply the template. Please try again.,לא ניתן להחיל את התבנית. נסה שוב.
+Could not attach file to project,לא ניתן לצרף קובץ לפרויקט
+Could not change task priority,לא ניתן לשנות עדיפות משימה
+Could not change task status,לא ניתן לשנות סטטוס משימה
+Could not delete the project. Please try again.,לא ניתן למחוק את הפרויקט. נסה שוב.
+Could not delete the task. Please try again.,לא ניתן למחוק את המשימה. נסה שוב.
+Could not delete the template.,לא ניתן למחוק את התבנית.
+Could not duplicate the task. Please try again.,לא ניתן לשכפל את המשימה. נסה שוב.
+Could not export the template.,לא ניתן לייצא את התבנית.
+Could not import the template. Please check the file format.,לא ניתן לייבא את התבנית. בדוק את תבנית הקובץ.
+Could not link task to milestone,לא ניתן לקשר משימה לאבן דרך
+Could not load document details.,לא ניתן לטעון פרטי מסמך.
+Could not load task details,לא ניתן לטעון פרטי משימה
+Could not promote checklist item to task.,לא ניתן לקדם פריט רשימת סימון למשימה.
+Could not remove task from milestone,לא ניתן להסיר משימה מאבן דרך
+Could not save budget.,לא ניתן לשמור תקציב.
+Could not save changes to the milestone,לא ניתן לשמור שינויים באבן הדרך
+Could not save changes to the task,לא ניתן לשמור שינויים במשימה
+Could not save description.,לא ניתן לשמור תיאור.
+Could not save end date.,לא ניתן לשמור תאריך סיום.
+Could not save milestone name.,לא ניתן לשמור שם אבן דרך.
+Could not save start date.,לא ניתן לשמור תאריך התחלה.
+Could not save the template. Please try again.,לא ניתן לשמור את התבנית. נסה שוב.
+Could not save title.,לא ניתן לשמור כותרת.
+Could not update dependency mode.,לא ניתן לעדכן מצב תלות.
+Could not update milestone date,לא ניתן לעדכן תאריך אבן דרך
+Could not update project status.,לא ניתן לעדכן סטטוס פרויקט.
+Could not update project type.,לא ניתן לעדכן סוג פרויקט.
+Could not update setting.,לא ניתן לעדכן הגדרה.
+Could not update task dates,לא ניתן לעדכן תאריכי משימה
+Could not update task status,לא ניתן לעדכן סטטוס משימה
+Could not update the template.,לא ניתן לעדכן את התבנית.
+Create a copy of this task,צור עותק של משימה זו
+Create Contact,צור איש קשר
+Create Event,צור אירוע
+Create Milestone,צור אבן דרך
+Create New Milestone,צור אבן דרך חדשה
+Create New Task,צור משימה חדשה
+Create Project,צור פרויקט
+Create Task,צור משימה
+Create tasks and milestones from a template,צור משימות ואבני דרך מתבנית
+Create your first project to get started.,צור את הפרויקט הראשון שלך כדי להתחיל.
+Create your first task to start tracking work on this project.,צור את המשימה הראשונה שלך כדי להתחיל לעקוב אחר העבודה בפרויקט זה.
+Created,נוצר
+Creating...,יוצר...
+Critical,קריטי
+Critical Path,נתיב קריטי
+"Currency used for budgets, costs, and billing rates","מטבע המשמש לתקציבים, עלויות ותעריפי חיוב"
+Current,נוכחי
+Current Assignments,הקצאות נוכחיות
+Current scheduled time:,זמן מתוכנן נוכחי:
+Currently running version,Currently running version
+d lag,פיגור ימים
+Daily Availability,זמינות יומית
+Daily Hours,שעות יומיות
+Danger Zone,אזור מסוכן
+Dark,כהה
+Dashboard,לוח בקרה
+Date,תאריך
+Date changes on this task will show cascade impact here,שינויי תאריכים במשימה זו יציגו השפעת מפל כאן
+Date cleared,התאריך נוקה
+Date of Joining,תאריך הצטרפות
+Date updated,התאריך עודכן
+Dates,תאריכים
+Dates cascaded,התאריכים הושפעו במפל
+Dates will be relative to the project's start date.,התאריכים יהיו יחסיים לתאריך התחלת הפרויקט.
+Day,יום
+day,יום
+days,ימים
+Days before due date to send reminder,ימים לפני תאריך היעד לשליחת תזכורת
+Days Overdue,ימי איחור
+Days Remaining,ימים נותרים
+Deadline,מועד אחרון
+Deadlines,מועדים אחרונים
+Decision,החלטה
+Decline,דחה
+Declined,נדחה
+Default Currency,מטבע ברירת מחדל
+Default hours per week for contact capacity planning,שעות ברירת מחדל לשבוע עבור תכנון קיבולת אנשי קשר
+Default Priority,עדיפות ברירת מחדל
+Default Project Status,סטטוס פרויקט ברירת מחדל
+Default Task Status,סטטוס משימה ברירת מחדל
+Default task view,תצוגת משימה ברירת מחדל
+Default Values,ערכי ברירת מחדל
+Default Weekly Capacity,קיבולת שבועית ברירת מחדל
+Defaults,ברירות מחדל
+Defect Cost Impact,השפעת עלות פגם
+Defect name is required,שם הפגם נדרש
+Defect Type,סוג פגם
+Defect {0} not found,פגם {0} לא נמצא
+Defects,פגמים
+Defects & Issues,פגמים ובעיות
+Defects Resolved,פגמים שתוקנו
+Delayed,מעוכב
+Delete,מחק
+Delete Activity Data,מחק נתוני פעילות
+Delete all read notifications?,למחוק את כל ההתראות שנקראו?
+Delete comment,מחק תגובה
+Delete Contact,מחק איש קשר
+Delete Event,מחק אירוע
+Delete Event?,למחוק אירוע?
+Delete failed,המחיקה נכשלה
+Delete file,מחק קובץ
+Delete item,מחק פריט
+Delete note,מחק הערה
+Delete Project,מחק פרויקט
+Delete Task,מחק משימה
+Delete this project,מחק פרויקט זה
+Deleted,נמחק
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","פרויקט ""{0}"" נמחק ({1} משימות, {2} אבני דרך)"
+Deletes notes and preferences. Source document is not affected.,מוחק הערות והעדפות. המסמך המקורי אינו מושפע.
+Deleting...,מוחק...
+Department,מחלקה
+Dependencies,תלויות
+dependencies,תלויות
+Dependencies are informational only,התלויות הן מידעיות בלבד
+dependency,תלות
+Dependency already exists,התלות כבר קיימת
+Dependency Chain,שרשרת תלויות
+Dependency created,התלות נוצרה
+Dependency mode updated,מצב התלות עודכן
+Dependency name is required,שם התלות נדרש
+Dependency task {0} not found,משימת תלות {0} לא נמצאה
+Dependency {0} not found,תלות {0} לא נמצאה
+depends,תלוי
+Depends on Group,תלוי בקבוצה
+Depends on task is required,משימת תלות נדרשת
+depends on...,תלוי ב...
+Descending -- click to reverse,סדר יורד -- לחץ להיפוך
+Describe the defect in detail...,תאר את הפגם בפירוט...
+Description,תיאור
+Description updated,התיאור עודכן
+Designation,תפקיד
+"Detailed description of the defect, location, and impact","תיאור מפורט של הפגם, המיקום וההשפעה"
+Details,פרטים
+Discard timer,בטל טיימר
+Discussion,דיון
+Dismiss,Dismiss
+Display,תצוגה
+Document,מסמך
+Document attached to project,המסמך צורף לפרויקט
+Document final decision and rationale,תעד החלטה סופית ונימוקים
+Documentation Review,סקירת תיעוד
+Documents,מסמכים
+Done,בוצע
+Download,הורד
+Drag to create dependency,גרור ליצירת תלות
+Dry Run,הרצת ניסיון
+Dry Run Complete,הרצת הניסיון הושלמה
+Due Date,תאריך יעד
+Due date,תאריך יעד
+Due Date (Earliest),תאריך יעד (מוקדם ביותר)
+Due date cannot be before start date,תאריך יעד לא יכול להיות לפני תאריך התחלה
+Due date is in the past,תאריך היעד בעבר
+Due Date Reminders,תזכורות תאריך יעד
+Due Diligence,בדיקת נאותות
+Due Diligence Checklist,רשימת בדיקת נאותות
+Due This Week,מועד השבוע
+Due:,מועד:
+Duplicate events are not allowed,אירועים כפולים אינם מותרים
+Duplicate failed,השכפול נכשל
+Duplicate Task,שכפל משימה
+Duration,משך
+Duration Summary,סיכום משך
+Duration:,משך:
+e.g. Cracked wall finish in bathroom...,לדוגמה: סדק בטיח בחדר אמבטיה...
+"e.g. Electrical, Plumbing...","לדוגמה: חשמל, אינסטלציה..."
+Edit,ערוך
+Edit (E),ערוך (E)
+Edit dependency,ערוך תלות
+Edit Event,ערוך אירוע
+Efficiency,יעילות
+Either dependency_name or depends_on is required,נדרש שם תלות או תלוי ב
+Email,"דוא""ל"
+Email invitations to all attendees,"הזמנות דוא""ל לכל המשתתפים"
+Email is required to create portal user,"דוא""ל נדרש ליצירת משתמש פורטל"
+Email notifications,"התראות דוא""ל"
+Employee,עובד
+Employee DocType not available,סוג מסמך עובד אינו זמין
+Employee not found,העובד לא נמצא
+Enable or disable optional features,הפעל או השבת תכונות אופציונליות
+Enable Time Tracking,הפעל מעקב זמן
+End,סיום
+End Date,תאריך סיום
+End date,תאריך סיום
+End Date cannot be before Start Date,תאריך סיום לא יכול להיות לפני תאריך התחלה
+End date cannot be before start date,תאריך סיום לא יכול להיות לפני תאריך התחלה
+End date updated,תאריך הסיום עודכן
+End time was before start time. Adjusted to 1 hour after start.,שעת הסיום הייתה לפני שעת ההתחלה. הותאמה לשעה אחרי ההתחלה.
+End:,סיום:
+Enter milestone name...,הזן שם אבן דרך...
+Enter project name,הזן שם פרויקט
+Enter task title...,הזן כותרת משימה...
+Enter template name,הזן שם תבנית
+Enter your note... Use @name to mention someone,הזן את ההערה שלך... השתמש ב-@שם כדי לאזכר מישהו
+Error,שגיאה
+Error loading activity,שגיאה בטעינת פעילות
+Error loading contacts,שגיאה בטעינת אנשי קשר
+Error loading dashboard,שגיאה בטעינת לוח הבקרה
+Error loading project,שגיאה בטעינת פרויקט
+Error loading projects,שגיאה בטעינת פרויקטים
+Error loading settings,שגיאה בטעינת הגדרות
+Error loading tasks,שגיאה בטעינת משימות
+Error loading templates,שגיאה בטעינת תבניות
+Est. Hours,שעות משוערות
+Estimated,משוער
+Estimated Cost,עלות משוערת
+Estimated Cost (€),עלות משוערת (€)
+Estimated Hours,שעות משוערות
+Estimated:,משוער:
+Evaluate potential risks and concerns,הערך סיכונים וחששות פוטנציאליים
+Event,אירוע
+Event is required for event context,אירוע נדרש עבור הקשר אירוע
+Event is required when tracking context is 'event',אירוע נדרש כאשר הקשר המעקב הוא 'אירוע'
+Event Type,סוג אירוע
+Events,אירועים
+Events not available. Please run: bench --site orga.localhost migrate,אירועים אינם זמינים. הרץ: bench --site orga.localhost migrate
+Events:,אירועים:
+Expert,מומחה
+Explain why you are proposing a different time...,הסבר מדוע אתה מציע זמן אחר...
+Export,ייצוא
+Export failed,הייצוא נכשל
+Export JSON,ייצוא JSON
+Exported,יוצא
+Exported to timesheet {0},יוצא לגיליון זמנים {0}
+External,חיצוני
+Failed to add item,ההוספה נכשלה
+Failed to add note,הוספת ההערה נכשלה
+Failed to add skill,הוספת המיומנות נכשלה
+Failed to apply cascade changes: {0},החלת שינויי מפל נכשלה: {0}
+Failed to create defect,יצירת הפגם נכשלה
+Failed to create dependency,יצירת התלות נכשלה
+Failed to create event,יצירת האירוע נכשלה
+Failed to create milestone,יצירת אבן הדרך נכשלה
+Failed to create project,יצירת הפרויקט נכשלה
+Failed to create task,יצירת המשימה נכשלה
+Failed to create time log,יצירת רשומת הזמן נכשלה
+Failed to delete,המחיקה נכשלה
+Failed to delete comment,מחיקת התגובה נכשלה
+Failed to delete contact,מחיקת איש הקשר נכשלה
+Failed to load,הטעינה נכשלה
+Failed to load activity,טעינת הפעילות נכשלה
+Failed to load assignments,טעינת ההקצאות נכשלה
+Failed to load contact,טעינת איש הקשר נכשלה
+Failed to load dashboard data,טעינת נתוני לוח הבקרה נכשלה
+Failed to load defects,טעינת הפגמים נכשלה
+Failed to load events,טעינת האירועים נכשלה
+Failed to load project,טעינת הפרויקט נכשלה
+Failed to load projects,טעינת הפרויקטים נכשלה
+Failed to load report data,טעינת נתוני הדוח נכשלה
+Failed to load settings,טעינת ההגדרות נכשלה
+Failed to load tasks,טעינת המשימות נכשלה
+Failed to move task,העברת המשימה נכשלה
+Failed to post comment,פרסום התגובה נכשל
+Failed to propose new time,הצעת זמן חדש נכשלה
+Failed to remove item,הסרת הפריט נכשלה
+Failed to remove skill,הסרת המיומנות נכשלה
+Failed to reorder milestones: {0},סידור מחדש של אבני דרך נכשל: {0}
+Failed to reorder tasks: {0},סידור מחדש של משימות נכשל: {0}
+Failed to reschedule dependent tasks: {0},תזמון מחדש של משימות תלויות נכשל: {0}
+Failed to save,השמירה נכשלה
+Failed to save preferences,שמירת ההעדפות נכשלה
+Failed to save settings,שמירת ההגדרות נכשלה
+Failed to submit request. Please try again.,שליחת הבקשה נכשלה. נסה שוב.
+Failed to update item,עדכון הפריט נכשל
+Failed to update priority,עדכון העדיפות נכשל
+Failed to update task,עדכון המשימה נכשל
+Failed to update tasks: {0},עדכון המשימות נכשל: {0}
+Failed to upload avatar,העלאת התמונה נכשלה
+Feature,תכונה
+Features,תכונות
+FF (Finish-Finish),FF (סיום-סיום)
+FF - Finish-to-Finish,FF - סיום-לסיום
+Field has been updated,השדה עודכן
+Field name is required for 'Set Field Value' action,שם השדה נדרש עבור פעולת 'הגדר ערך שדה'
+Field {0} is not a Link field,שדה {0} אינו שדה קישור
+Field {0} not found in {1},שדה {0} לא נמצא ב-{1}
+file,קובץ
+File,קובץ
+File does not belong to this task,הקובץ אינו שייך למשימה זו
+File name is required,שם הקובץ נדרש
+File uploaded,הקובץ הועלה
+File {0} not found,קובץ {0} לא נמצא
+files,קבצים
+Files,קבצים
+Filter,סנן
+Final Decision,החלטה סופית
+Finance,כספים
+Financial,פיננסי
+Finish-to-Finish,סיום-לסיום
+Finish-to-Start,סיום-להתחלה
+Flag,סמן
+Flag for attention,סמן לתשומת לב
+Flagged,מסומן
+Focus Panel,לוח מיקוד
+Follows your system preference. Currently:,עוקב אחר העדפת המערכת שלך. כרגע:
+Frappe Project {0} not found,פרויקט Frappe {0} לא נמצא
+Frappe Projects Migration,העברת פרויקטים מ-Frappe
+Frappe Projects module not available,מודול Frappe Projects אינו זמין
+Frappe Projects module not installed,מודול Frappe Projects אינו מותקן
+Frappe Projects sync is not enabled,סנכרון Frappe Projects אינו מופעל
+Frappe Task DocType not found,סוג מסמך משימה של Frappe לא נמצא
+Frappe Task has no project,למשימת Frappe אין פרויקט
+Frappe Task {0} not found,משימת Frappe {0} לא נמצאה
+Fri,שישי
+From,מ
+From Template,מתבנית
+FS (Finish-Start),FS (סיום-התחלה)
+FS - Finish-to-Start (default),FS - סיום-להתחלה (ברירת מחדל)
+Full form view with audit trail,תצוגת טופס מלאה עם מסלול ביקורת
+Full name,שם מלא
+Gantt,גנט
+Gantt Chart,תרשים גנט
+Gantt View,תצוגת גנט
+General Note,הערה כללית
+Get started,התחל
+Go back,חזור
+Go Back,Go Back
+Group by,קבץ לפי
+Group dependency removed,תלות קבוצתית הוסרה
+Group dependency set,תלות קבוצתית הוגדרה
+Group removed,הקבוצה הוסרה
+Group updated,הקבוצה עודכנה
+Hammock task dates are auto-calculated and cannot be changed manually,תאריכי משימת ערסל מחושבים אוטומטית ולא ניתן לשנותם ידנית
+Have a question or need assistance? Fill out the form below and our team will get back to you.,יש לך שאלה או צריך סיוע? מלא את הטופס למטה והצוות שלנו יחזור אליך.
+Health,בריאות
+Healthy,תקין
+Hello {0},שלום {0}
+Here's what's happening with your projects today.,הנה מה שקורה בפרויקטים שלך היום.
+Hide,הסתר
+High,גבוה
+History,היסטוריה
+Home,דף הבית
+Hourly Cost,עלות שעתית
+Hours,שעות
+hours,שעות
+Hours Logged,שעות שנרשמו
+ID,מזהה
+Image must be smaller than 5 MB,התמונה חייבת להיות קטנה מ-5 MB
+Import,ייבוא
+Import existing projects and tasks from Frappe Projects module,ייבא פרויקטים ומשימות קיימים ממודול Frappe Projects
+Import failed,הייבוא נכשל
+Import Template,ייבא תבנית
+Imported,יובא
+in,ב
+In Progress,בתהליך
+In Review,בבדיקה
+In-app notifications,התראות באפליקציה
+Inactive,לא פעיל
+Initial Review,סקירה ראשונית
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,הרשאות לא מספיקות לצפייה בכל המשימות
+Intermediate,בינוני
+Internal,פנימי
+Invalid DocType,סוג מסמך לא תקין
+Invalid DocType for import,סוג מסמך לא תקין לייבוא
+Invalid item type: {0},סוג פריט לא תקין: {0}
+Invalid JSON data,נתוני JSON לא תקינים
+Invalid note type. Must be one of: {0},סוג הערה לא תקין. חייב להיות אחד מ: {0}
+Invalid project reference,הפניית פרויקט לא תקינה
+Invalid reaction type. Must be one of: {0},סוג תגובה רגשית לא תקין. חייב להיות אחד מ: {0}
+Invalid RSVP status,סטטוס RSVP לא תקין
+Invalid status. Must be one of: {0},סטטוס לא תקין. חייב להיות אחד מ: {0}
+Invalid status: {0},סטטוס לא תקין: {0}
+Invalid status: {0}. Must be one of: {1},סטטוס לא תקין: {0}. חייב להיות אחד מ: {1}
+Invalid tracking context: {0},הקשר מעקב לא תקין: {0}
+Invalid visibility. Must be one of: {0},נראות לא תקינה. חייבת להיות אחת מ: {0}
+Invitation: {0} - {1} at {2},הזמנה: {0} - {1} ב-{2}
+Invite People,הזמן אנשים
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,הפריט נוסף
+Item ID is required,מזהה הפריט נדרש
+Item removed,הפריט הוסר
+Item type is required,סוג הפריט נדרש
+Item {0} not found,פריט {0} לא נמצא
+Job title or role,תפקיד או תואר
+Join Meeting,הצטרף לפגישה
+Just now,עכשיו
+just now,עכשיו
+Kanban,קנבן
+Kanban Board,לוח קנבן
+Kanban View,תצוגת קנבן
+Keyboard Shortcuts,קיצורי מקלדת
+Keyboard shortcuts (?),קיצורי מקלדת (?)
+Last checked: {0},Last checked: {0}
+Last Updated,עודכן לאחרונה
+Last updated:,עודכן לאחרונה:
+Last Week,שבוע שעבר
+Latest Version,Latest Version
+Light,בהיר
+Link failed,הקישור נכשל
+Link Task,קשר משימה
+Linked,מקושר
+Linked employee not found,העובד המקושר לא נמצא
+Linked Tasks,משימות מקושרות
+List,רשימה
+List View,תצוגת רשימה
+Load failed,הטעינה נכשלה
+Load More,טען עוד
+Load more comments,טען עוד תגובות
+Loading activity...,טוען פעילות...
+Loading changes...,טוען שינויים...
+Loading checklist...,טוען רשימת סימון...
+Loading comments...,טוען תגובות...
+Loading contact...,טוען איש קשר...
+Loading contacts...,טוען אנשי קשר...
+Loading dependencies...,טוען תלויות...
+Loading details...,טוען פרטים...
+Loading discussion...,טוען דיון...
+Loading events...,טוען אירועים...
+Loading files...,טוען קבצים...
+Loading notes...,טוען הערות...
+Loading preferences...,טוען העדפות...
+Loading project...,טוען פרויקט...
+Loading projects...,טוען פרויקטים...
+Loading replies...,טוען תשובות...
+Loading report data...,טוען נתוני דוח...
+Loading settings...,טוען הגדרות...
+Loading task...,טוען משימה...
+Loading templates...,טוען תבניות...
+Loading time logs...,טוען רשומות זמן...
+Loading your portal...,טוען את הפורטל שלך...
+Loading...,טוען...
+Location,מיקום
+Log Time,רשום זמן
+Logout,התנתק
+Low,נמוך
+Make Offer,הגש הצעה
+Manager,מנהל
+Manual Entry,הזנה ידנית
+Margin,רווח
+Mark all as read,סמן הכל כנקרא
+Mark all read,סמן הכל כנקרא
+Mark as read,סמן כנקרא
+Mark as unread,סמן כלא נקרא
+Mark read,סמן כנקרא
+Marking...,מסמן...
+Material,חומר
+Maybe,אולי
+Medium,בינוני
+Meeting,פגישה
+Meeting Link,קישור לפגישה
+Meeting title,כותרת פגישה
+Meeting URL,כתובת URL של הפגישה
+Meetings,פגישות
+Mention,אזכור
+Message,הודעה
+Message is required,ההודעה נדרשת
+Message is required for '{0}' action,הודעה נדרשת עבור פעולת '{0}'
+Migrate,העבר
+Migration Complete,ההעברה הושלמה
+Migration ID:,מזהה העברה:
+Migration log not found: {0},יומן העברה לא נמצא: {0}
+milestone,אבן דרך
+Milestone,אבן דרך
+Milestone created,אבן הדרך נוצרה
+Milestone description has been saved.,תיאור אבן הדרך נשמר.
+Milestone ID is required,מזהה אבן הדרך נדרש
+Milestone marked as Missed (past due date),אבן הדרך סומנה כהוחמצה (עבר תאריך היעד)
+Milestone moved,אבן הדרך הועברה
+Milestone Name,שם אבן דרך
+Milestone name has been saved.,שם אבן הדרך נשמר.
+Milestone name is required,שם אבן הדרך נדרש
+Milestone updated,אבן הדרך עודכנה
+Milestone {0} not found,אבן דרך {0} לא נמצאה
+Milestone {0} not in project {1},אבן דרך {0} אינה בפרויקט {1}
+milestones,אבני דרך
+Milestones,אבני דרך
+Milestones:,אבני דרך:
+Minutes,דקות
+Missed,הוחמץ
+Mixed,מעורב
+Mobile,נייד
+Moderate,מתון
+Modified,שונה
+"Modify details, time, or attendees","שנה פרטים, זמן או משתתפים"
+Mon,שני
+Month,חודש
+Move failed,ההעברה נכשלה
+Must be a positive number,חייב להיות מספר חיובי
+Must finish before this finishes,חייב להסתיים לפני שזה מסתיים
+Must finish before this starts,חייב להסתיים לפני שזה מתחיל
+Must start before this finishes,חייב להתחיל לפני שזה מסתיים
+Must start before this starts,חייב להתחיל לפני שזה מתחיל
+My Assignments,ההקצאות שלי
+My Projects,הפרויקטים שלי
+My Schedule,לוח הזמנים שלי
+My Tasks,המשימות שלי
+N/A,לא רלוונטי
+Name,שם
+Name (A-Z),שם (א-ת)
+Name (Z-A),שם (ת-א)
+Name cannot exceed 255 characters,השם לא יכול לחרוג מ-255 תווים
+Need help?,צריך עזרה?
+Needs Attention,דורש תשומת לב
+Never,Never
+new activities,פעילויות חדשות
+New Activity,פעילות חדשה
+New activity,פעילות חדשה
+New Event,אירוע חדש
+New index is required,אינדקס חדש נדרש
+New Project,פרויקט חדש
+New tasks will auto-trail by default.,משימות חדשות יעברו למסלול אוטומטי כברירת מחדל.
+Newest First,החדש ביותר תחילה
+Next,הבא
+Next 14 days,14 הימים הבאים
+Next 30 days,30 הימים הבאים
+Next 60 days,60 הימים הבאים
+Next 7 days,7 הימים הבאים
+Next 90 days,90 הימים הבאים
+Next Week,שבוע הבא
+Next:,הבא:
+No,לא
+No active assignments,אין הקצאות פעילות
+No active projects,אין פרויקטים פעילים
+No active timer found,לא נמצא טיימר פעיל
+No activity selected,לא נבחרה פעילות
+No assignments found,לא נמצאו הקצאות
+No attendees,אין משתתפים
+no change,ללא שינוי
+No changes for this field.,אין שינויים לשדה זה.
+No changes recorded for this activity.,לא נרשמו שינויים לפעילות זו.
+No checklist items yet,אין עדיין פריטי רשימת סימון
+No checklist items yet.,אין עדיין פריטי רשימת סימון.
+No comments yet,אין עדיין תגובות
+No comments yet.,אין עדיין תגובות.
+No contacts available,אין אנשי קשר זמינים
+No content for this tab,אין תוכן בלשונית זו
+No data available,אין נתונים זמינים
+No data available for the selected filters,אין נתונים זמינים עבור המסננים שנבחרו
+No data to export,אין נתונים לייצוא
+No dates set,לא הוגדרו תאריכים
+No defects reported,לא דווחו פגמים
+No dependencies defined,לא הוגדרו תלויות
+No description,אין תיאור
+No discussion yet.,אין עדיין דיון.
+No documents attached,אין מסמכים מצורפים
+No due date,אין תאריך יעד
+No employee linked to this resource,אין עובד מקושר למשאב זה
+No ERPNext employee linked to resource,אין עובד ERPNext מקושר למשאב
+No events found,לא נמצאו אירועים
+No files attached yet.,אין עדיין קבצים מצורפים.
+No Frappe Project linked,אין פרויקט Frappe מקושר
+No Grouping,ללא קיבוץ
+No items,אין פריטים
+No matching tasks,אין משימות תואמות
+No matching tasks found,לא נמצאו משימות תואמות
+No migration history,אין היסטוריית העברה
+No Milestone,אין אבן דרך
+No milestones,אין אבני דרך
+No milestones defined for this project.,לא הוגדרו אבני דרך לפרויקט זה.
+No notes yet.,אין עדיין הערות.
+No notes yet. Add a due diligence note to track progress.,אין עדיין הערות. הוסף הערת בדיקת נאותות כדי לעקוב אחר ההתקדמות.
+No notifications,אין התראות
+No Orga Project linked to Frappe Project {0},אין פרויקט Orga מקושר לפרויקט Frappe {0}
+No overdue tasks,אין משימות באיחור
+No pending cascade changes,אין שינויי מפל ממתינים
+No predecessors - this task can start independently,אין קודמים - משימה זו יכולה להתחיל באופן עצמאי
+No project,אין פרויקט
+No projects found,לא נמצאו פרויקטים
+No Projects Yet,אין עדיין פרויקטים
+No recent activity,אין פעילות אחרונה
+No related documents,אין מסמכים קשורים
+No resolved threads.,אין שרשורים שנפתרו.
+No resources found,לא נמצאו משאבים
+No results found,לא נמצאו תוצאות
+No skills listed,אין מיומנויות רשומות
+No skills recorded yet,אין עדיין מיומנויות רשומות
+No successors - no tasks are waiting for this one,אין ממשיכים - אין משימות ממתינות לזו
+No task selected,לא נבחרה משימה
+No tasks assigned to you,אין משימות מוקצות לך
+No tasks available to add,אין משימות זמינות להוספה
+No tasks found,לא נמצאו משימות
+No tasks linked to this milestone,אין משימות מקושרות לאבן דרך זו
+No tasks with dates to display,אין משימות עם תאריכים להצגה
+No tasks yet,אין עדיין משימות
+No team members,אין חברי צוות
+No template,אין תבנית
+No templates yet,אין עדיין תבניות
+No time data found,לא נמצאו נתוני זמן
+No time logged today,לא נרשם זמן היום
+No time logged yet,לא נרשם זמן עדיין
+No time logs for this period,אין רשומות זמן לתקופה זו
+No time logs found,לא נמצאו רשומות זמן
+No unread notifications,אין התראות שלא נקראו
+No update information available yet.,No update information available yet.
+None,ללא
+Not found,לא נמצא
+Not permitted,אין הרשאה
+Not permitted to access this project,אין הרשאה לגשת לפרויקט זה
+Not permitted to access this task,אין הרשאה לגשת למשימה זו
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,אין הרשאה להגיב על מסמך זה
+Not permitted to create clients,אין הרשאה ליצור לקוחות
+Not permitted to delete this client,אין הרשאה למחוק לקוח זה
+Not permitted to delete this defect,אין הרשאה למחוק פגם זה
+Not permitted to delete this note,אין הרשאה למחוק הערה זו
+Not permitted to delete this project,אין הרשאה למחוק פרויקט זה
+Not permitted to delete this task,אין הרשאה למחוק משימה זו
+Not permitted to delete this time log,אין הרשאה למחוק רשומת זמן זו
+Not permitted to invite clients,אין הרשאה להזמין לקוחות
+Not permitted to modify client access,אין הרשאה לשנות גישת לקוח
+Not permitted to modify this project,אין הרשאה לשנות פרויקט זה
+Not permitted to update settings,אין הרשאה לעדכן הגדרות
+Not permitted to update this client,אין הרשאה לעדכן לקוח זה
+Not permitted to view this client,אין הרשאה לצפות בלקוח זה
+not sent,לא נשלח
+Not set,לא הוגדר
+Not specified,לא צוין
+Note,הערה
+Note (optional),הערה (אופציונלי)
+Note Content,תוכן הערה
+Note content is required,תוכן ההערה נדרש
+Note name is required,שם ההערה נדרש
+Note not found,ההערה לא נמצאה
+Note Type,סוג הערה
+Notes,הערות
+Notification,התראה
+Notification not found,ההתראה לא נמצאה
+Notifications,התראות
+Off Track,סוטה מהמסלול
+Offer,הצעה
+Offer Prepared,ההצעה הוכנה
+Oldest First,הישן ביותר תחילה
+On Hold,בהמתנה
+On Leave,בחופשה
+On Track,במסלול
+On-Time Rate,שיעור עמידה בזמנים
+Only administrators can delete activities,רק מנהלי מערכת יכולים למחוק פעילויות
+Only the comment author or administrators can delete comments,רק מחבר התגובה או מנהלי מערכת יכולים למחוק תגובות
+Only you and admins,רק אתה ומנהלי מערכת
+Open,פתוח
+Open in Desk,פתח בדסק
+Open Task Log,פתח יומן משימות
+Open Tasks,משימות פתוחות
+Optional,אופציונלי
+optional,אופציונלי
+Or email us directly at,"או שלח לנו דוא""ל ישירות אל"
+Orga Project {0} from Frappe Projects,פרויקט Orga {0} מ-Frappe Projects
+Orga Task {0} from Frappe,משימת Orga {0} מ-Frappe
+Organizer,מארגן
+Other,אחר
+Over Budget,חריגה מהתקציב
+Overall Progress,התקדמות כוללת
+Overall Utilization,ניצול כולל
+Overallocated,הוקצה יתר
+Overdue,באיחור
+overdue,באיחור
+Overdue Tasks,משימות באיחור
+Overview,סקירה כללית
+Owner,בעלים
+Page Not Found,הדף לא נמצא
+Parent,הורה
+Parent comment must belong to the same document,תגובת הורה חייבת להשתייך לאותו מסמך
+Parent comment not found,תגובת הורה לא נמצאה
+Parent project not synced to Frappe yet,פרויקט ההורה טרם סונכרן ל-Frappe
+Parent project sync not enabled,סנכרון פרויקט הורה אינו מופעל
+Partner,שותף
+Pending,ממתין
+per page,לעמוד
+Perform initial assessment and background check,בצע הערכה ראשונית ובדיקת רקע
+Permanently remove this event,הסר אירוע זה לצמיתות
+Permanently remove this task,הסר משימה זו לצמיתות
+Phone,טלפון
+Pin,הצמד
+Pin Activity,הצמד פעילות
+Pin to top,הצמד למעלה
+Pinned,מוצמד
+Planned budget for this task,תקציב מתוכנן למשימה זו
+Planning,תכנון
+Please describe your question or issue in detail...,תאר את השאלה או הבעיה שלך בפירוט...
+Please login to access Orga,התחבר כדי לגשת ל-Orga
+Please login to access the client portal,התחבר כדי לגשת לפורטל הלקוחות
+Please respond to this invitation in Orga,אנא השב להזמנה זו ב-Orga
+Please select an image file,בחר קובץ תמונה
+Please try again,נסה שוב
+Please type,הקלד
+Portal,פורטל
+Portal access revoked for {0},גישת הפורטל בוטלה עבור {0}
+Portal user created successfully. Welcome email {0},"משתמש פורטל נוצר בהצלחה. דוא""ל ברוכים הבאים {0}"
+Post,פרסם
+Powered by,מופעל על ידי
+Powered by Tonic,מופעל על ידי Tonic
+Predecessors (Blocked By),קודמים (חסום על ידי)
+Preferences,העדפות
+Preferences saved successfully,ההעדפות נשמרו בהצלחה
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)","קידומת לקודי פרויקט אוטומטיים (לדוגמה, ORG-2026-0001)"
+Prepare and document offer terms,הכן ותעד תנאי הצעה
+Press,לחץ
+Preview,תצוגה מקדימה
+Preview cascade before applying,צפה בתצוגה מקדימה של מפל לפני החלה
+Previous,הקודם
+Priority,עדיפות
+Priority assigned to new tasks,עדיפות שמוקצית למשימות חדשות
+Priority updated,העדיפות עודכנה
+Proficiency,מיומנות
+Profile,פרופיל
+Progress,התקדמות
+Progress (High-Low),התקדמות (גבוה-נמוך)
+Progress (Low-High),התקדמות (נמוך-גבוה)
+Progress Overview,סקירת התקדמות
+Progress updated,ההתקדמות עודכנה
+Project,פרויקט
+Project budget has been saved.,תקציב הפרויקט נשמר.
+Project code (e.g. ORG-2026-0001),קוד פרויקט (לדוגמה ORG-2026-0001)
+Project Code Prefix,קידומת קוד פרויקט
+Project created,הפרויקט נוצר
+Project deleted,הפרויקט נמחק
+Project description has been saved.,תיאור הפרויקט נשמר.
+Project Details,פרטי פרויקט
+Project end date has been saved.,תאריך סיום הפרויקט נשמר.
+Project Files,קבצי פרויקט
+Project has no linked client,לפרויקט אין לקוח מקושר
+Project Health,בריאות הפרויקט
+Project Info,מידע על הפרויקט
+Project is required,פרויקט נדרש
+Project is required for project context,פרויקט נדרש עבור הקשר פרויקט
+Project is required when tracking context is 'project',פרויקט נדרש כאשר הקשר המעקב הוא 'פרויקט'
+Project Manager,מנהל פרויקט
+Project Name,שם פרויקט
+Project name and template name are required,שם הפרויקט ושם התבנית נדרשים
+Project name is required,שם הפרויקט נדרש
+Project not found,הפרויקט לא נמצא
+Project not found or you do not have access,הפרויקט לא נמצא או שאין לך גישה
+Project settings,הגדרות פרויקט
+Project start date has been saved.,תאריך התחלת הפרויקט נשמר.
+Project title has been saved.,כותרת הפרויקט נשמרה.
+Project Type,סוג פרויקט
+Project updated,הפרויקט עודכן
+Project {0} linked to client {1},פרויקט {0} קושר ללקוח {1}
+Project {0} not found,פרויקט {0} לא נמצא
+Project {0} to Frappe Projects,פרויקט {0} ל-Frappe Projects
+Project:,פרויקט:
+projects,פרויקטים
+Projects,פרויקטים
+Projects created:,פרויקטים שנוצרו:
+Projects Overview,סקירת פרויקטים
+Projects skipped:,פרויקטים שדולגו:
+Projects updated:,פרויקטים שעודכנו:
+Promote failed,הקידום נכשל
+Promote to task,קדם למשימה
+Promoted to task,קודם למשימה
+Propose,הצע
+Propose New Time,הצע זמן חדש
+Propose Time,הצע זמן
+Proposed End,סיום מוצע
+Proposed Start,התחלה מוצעת
+Public,ציבורי
+Quick Action,פעולה מהירה
+Quick Actions,פעולות מהירות
+Quick Stats,סטטיסטיקות מהירות
+Rates,תעריפים
+Receive notifications via email,"קבל התראות בדוא""ל"
+Receive notifications within the application,קבל התראות בתוך האפליקציה
+Recent Activity,פעילות אחרונה
+Recipient {0} is not a valid user,נמען {0} אינו משתמש תקין
+Reference,הפניה
+Refresh,רענן
+Related,קשור
+Related Company (optional),חברה קשורה (אופציונלי)
+Related Documents,מסמכים קשורים
+Related Project,פרויקט קשור
+Remaining,נותר
+Reminder,תזכורת
+Reminder Lead Time,זמן הקדמת תזכורת
+Reminder: {0} - {1} at {2},תזכורת: {0} - {1} ב-{2}
+Remove,הסר
+Remove dependency,הסר תלות
+Remove dependency on,הסר תלות ב
+Remove from group,הסר מהקבוצה
+Remove group dependency,הסר תלות קבוצתית
+Remove skill,הסר מיומנות
+Reopen,פתח מחדש
+Reopen thread,פתח שרשור מחדש
+reopened,נפתח מחדש
+replies,תשובות
+Reply,השב
+reply,תשובה
+Replying to,משיב ל
+Replying to comment,משיב לתגובה
+Report Defect,דווח על פגם
+Reported Date,תאריך דיווח
+Reports,דוחות
+Reports To,מדווח ל
+Request Submitted!,הבקשה נשלחה!
+Required,נדרש
+required,נדרש
+Research,מחקר
+Reset to Defaults,אפס לברירת מחדל
+Resolve,פתור
+Resolve thread,פתור שרשור
+Resolved,נפתר
+Resolved date cannot be before reported date,תאריך הפתרון לא יכול להיות לפני תאריך הדיווח
+Resource,משאב
+Resource and skill name are required,שם המשאב והמיומנות נדרשים
+Resource is already an attendee,המשאב כבר משתתף
+Resource name is required,שם המשאב נדרש
+Resource not found,המשאב לא נמצא
+Resource synced from employee {0},המשאב סונכרן מעובד {0}
+Resource {0} is already assigned to this task ({1}),משאב {0} כבר מוקצה למשימה זו ({1})
+Resource {0} not found,משאב {0} לא נמצא
+Resources,משאבים
+Retry,נסה שוב
+Review,סקירה
+Review all relevant documents and contracts,סקור את כל המסמכים והחוזים הרלוונטיים
+Reviews,סקירות
+Risk Assessment,הערכת סיכונים
+Rollback,שחזור
+Rolled back,שוחזר
+Room or address,חדר או כתובת
+RSVP,RSVP
+Safety,בטיחות
+Sat,שבת
+Save,שמור
+"Save a project as a template, or import one from a JSON file.","שמור פרויקט כתבנית, או ייבא תבנית מקובץ JSON."
+Save as Template,שמור כתבנית
+Save Changes,שמור שינויים
+Save failed,השמירה נכשלה
+Save Preferences,שמור העדפות
+Save Template,שמור תבנית
+Saving...,שומר...
+Schedule,לוח זמנים
+Schedule type is required for scheduled triggers,סוג לוח זמנים נדרש עבור טריגרים מתוזמנים
+Scheduled,מתוזמן
+Search,חפש
+"Search by name, email, or skill...","חפש לפי שם, דוא""ל או מיומנות..."
+Search for a project...,חפש פרויקט...
+Search for a task...,חפש משימה...
+Search for an event...,חפש אירוע...
+Search for people to invite...,חפש אנשים להזמנה...
+Search tasks to link...,חפש משימות לקישור...
+Search tasks...,חפש משימות...
+Search...,חפש...
+Searching...,מחפש...
+Seen,נצפה
+Select a project if your request is related to a specific project.,בחר פרויקט אם הבקשה שלך קשורה לפרויקט ספציפי.
+Select a project...,בחר פרויקט...
+Select a task from the Gantt chart to view and manage its details.,בחר משימה מתרשים הגנט כדי לצפות ולנהל את פרטיה.
+Select a task from the list or Kanban board to view and manage its details.,בחר משימה מהרשימה או מלוח הקנבן כדי לצפות ולנהל את פרטיה.
+Select a template...,בחר תבנית...
+Select priority...,בחר עדיפות...
+Select status...,בחר סטטוס...
+Select task...,בחר משימה...
+Select type...,בחר סוג...
+Selection,בחירה
+Send,שלח
+Send comment,שלח תגובה
+Send email invitations to attendees,"שלח הזמנות דוא""ל למשתתפים"
+Send Invitations,שלח הזמנות
+Send notification when a task is assigned to a user,שלח התראה כאשר משימה מוקצית למשתמש
+Send notification when task status changes,שלח התראה כאשר סטטוס משימה משתנה
+Send reminder before task due date,שלח תזכורת לפני תאריך יעד המשימה
+sent,נשלח
+Set rate,הגדר תעריף
+Settings,הגדרות
+Settings saved successfully,ההגדרות נשמרו בהצלחה
+Severity,חומרה
+SF (Start-Finish),SF (התחלה-סיום)
+SF - Start-to-Finish,SF - התחלה-לסיום
+Show,הצג
+Show all,הצג הכל
+Show all changes,הצג את כל השינויים
+Show Archived,הצג ארכיון
+Show full diff,הצג הבדלים מלאים
+Show less,הצג פחות
+Show more,הצג עוד
+Skill added,המיומנות נוספה
+Skill is required,מיומנות נדרשת
+Skill Name,שם מיומנות
+Skill removed,המיומנות הוסרה
+Skill {0} already exists for this resource,מיומנות {0} כבר קיימת למשאב זה
+Skills,מיומנויות
+Skills & Competencies,מיומנויות וכשירויות
+Skip already migrated projects,דלג על פרויקטים שכבר הועברו
+Sort by,מיין לפי
+Sort: Due Date,מיון: תאריך יעד
+Sort: Priority,מיון: עדיפות
+Sort: Project,מיון: פרויקט
+Sort: Status,מיון: סטטוס
+Sort: Task,מיון: משימה
+Source Code,קוד מקור
+Spent,הושקע
+Spent:,הושקע:
+SS (Start-Start),SS (התחלה-התחלה)
+SS - Start-to-Start,SS - התחלה-להתחלה
+Standalone,עצמאי
+Start,התחל
+Start a discussion below,התחל דיון למטה
+Start Date,תאריך התחלה
+Start date,תאריך התחלה
+Start Date (Earliest),תאריך התחלה (מוקדם ביותר)
+Start date updated,תאריך ההתחלה עודכן
+Start date/time is required,תאריך/שעת התחלה נדרשים
+Start Migration,התחל העברה
+Start the conversation below.,התחל את השיחה למטה.
+Start Timer,התחל טיימר
+Start typing to search...,התחל להקליד כדי לחפש...
+Start-to-Finish,התחלה-לסיום
+Start-to-Start,התחלה-להתחלה
+Start:,התחלה:
+Statistics reset,הסטטיסטיקות אופסו
+Status,סטטוס
+Status assigned to new projects,סטטוס שמוקצה לפרויקטים חדשים
+Status assigned to new tasks,סטטוס שמוקצה למשימות חדשות
+Status Changes,שינויי סטטוס
+Status updated,הסטטוס עודכן
+Status:,סטטוס:
+Stop,עצור
+Stop & Save,עצור ושמור
+Stop Timer,עצור טיימר
+Stops current timer and starts for this event,עוצר את הטיימר הנוכחי ומתחיל עבור אירוע זה
+Stops current timer and starts for this task,עוצר את הטיימר הנוכחי ומתחיל עבור משימה זו
+Subject,נושא
+Subject cannot exceed 255 characters,הנושא לא יכול לחרוג מ-255 תווים
+Subject is required,הנושא נדרש
+Submit,שלח
+Submit Another Request,שלח בקשה נוספת
+Submit Request,שלח בקשה
+Submitting...,שולח...
+Successfully saved,נשמר בהצלחה
+Successors (Blocking),ממשיכים (חוסם)
+Sun,ראשון
+Supplier,ספק
+Support,תמיכה
+Switch to this event,עבור לאירוע זה
+Switch to this task,עבור למשימה זו
+Sync direction is set to Frappe to Orga only,כיוון הסנכרון מוגדר מ-Frappe ל-Orga בלבד
+Sync direction is set to Orga to Frappe only,כיוון הסנכרון מוגדר מ-Orga ל-Frappe בלבד
+Sync not enabled for this project,סנכרון אינו מופעל עבור פרויקט זה
+System,מערכת
+Table,טבלה
+Take ownership of this task,קח בעלות על משימה זו
+Target Date,תאריך יעד
+Target End,סיום יעד
+Target Project,פרויקט יעד
+Target user is required for '{0}' action,משתמש יעד נדרש עבור פעולת '{0}'
+task,משימה
+Task,משימה
+Task '{0}' is due on {1}.,משימה '{0}' מועד הגשתה ב-{1}.
+Task and resource are required,משימה ומשאב נדרשים
+Task Assignment,הקצאת משימה
+Task cannot be its own parent,משימה לא יכולה להיות ההורה של עצמה
+Task cannot depend on itself,משימה לא יכולה להיות תלויה בעצמה
+Task cannot depend on the group it belongs to,משימה לא יכולה להיות תלויה בקבוצה שאליה היא שייכת
+Task created,המשימה נוצרה
+Task deleted,המשימה נמחקה
+Task description has been saved.,תיאור המשימה נשמר.
+Task Details,פרטי משימה
+Task due in {0} days: {1},משימה בעוד {0} ימים: {1}
+Task due today: {0},משימה ליום: {0}
+Task due tomorrow: {0},משימה למחר: {0}
+Task duplicated,המשימה שוכפלה
+Task Group,קבוצת משימות
+Task ID is required,מזהה המשימה נדרש
+Task is blocked by incomplete dependencies,המשימה חסומה על ידי תלויות שלא הושלמו
+Task is cancelled,המשימה בוטלה
+Task is completed,המשימה הושלמה
+Task is no longer blocked by a group,המשימה אינה חסומה עוד על ידי קבוצה
+Task is required for task context,משימה נדרשת עבור הקשר משימה
+Task is required when tracking context is 'task',משימה נדרשת כאשר הקשר המעקב הוא 'משימה'
+Task linked,המשימה קושרה
+Task moved,המשימה הועברה
+Task name,שם משימה
+Task name is required,שם המשימה נדרש
+Task removed from group,המשימה הוסרה מהקבוצה
+Task Subject,נושא המשימה
+Task subject is required,נושא המשימה נדרש
+Task Type,סוג משימה
+Task unblocked: {0},משימה שוחררה מחסימה: {0}
+Task unlinked,הקישור למשימה בוטל
+Task updated,המשימה עודכנה
+Task {0} not found,משימה {0} לא נמצאה
+Task {0} not in project {1},משימה {0} אינה בפרויקט {1}
+Task {0} to Frappe,משימה {0} ל-Frappe
+Tasks,משימות
+tasks,משימות
+Tasks and milestones will be created with dates relative to the project start date.,משימות ואבני דרך ייווצרו עם תאריכים יחסיים לתאריך התחלת הפרויקט.
+Tasks assigned to you across all projects.,משימות שהוקצו לך בכל הפרויקטים.
+Tasks created:,משימות שנוצרו:
+Tasks from projects you manage.,משימות מפרויקטים שאתה מנהל.
+Tasks updated:,משימות שעודכנו:
+"Tasks, milestones, and dependencies have been created.","משימות, אבני דרך ותלויות נוצרו."
+Tasks:,משימות:
+TBD,ייקבע
+Team,צוות
+Team Members,חברי צוות
+Template,תבנית
+Template applied,התבנית הוחלה
+Template data is required in import data,נתוני תבנית נדרשים בנתוני הייבוא
+Template has no data,לתבנית אין נתונים
+Template Name,שם תבנית
+Template name,שם תבנית
+Template name is required,שם התבנית נדרש
+Template name is required in import data,שם התבנית נדרש בנתוני הייבוא
+Template saved,התבנית נשמרה
+Template updated successfully.,התבנית עודכנה בהצלחה.
+Template {0} not found,תבנית {0} לא נמצאה
+Templates,תבניות
+Tentative,טנטטיבי
+The comment has been deleted,התגובה נמחקה
+The project,הפרויקט
+The source document may have been deleted.,ייתכן שהמסמך המקורי נמחק.
+The source document will not be affected.,המסמך המקורי לא יושפע.
+The status of '{0}' was changed from {1} to {2}.,הסטטוס של '{0}' שונה מ-{1} ל-{2}.
+Theme,ערכת נושא
+Theme preference,העדפת ערכת נושא
+This action,פעולה זו
+This action cannot be undone.,לא ניתן לבטל פעולה זו.
+This activity has been flagged for attention,פעילות זו סומנה לתשומת לב
+This is a reminder for your upcoming appointment,זוהי תזכורת לפגישה הקרובה שלך
+This method is only meant for developer mode,שיטה זו מיועדת למצב מפתח בלבד
+This page wandered off,This page wandered off
+This Week,השבוע
+This will delete all notes and preferences associated with this activity.,פעולה זו תמחק את כל ההערות וההעדפות הקשורות לפעילות זו.
+This will import all Frappe Projects into Orga. Continue?,פעולה זו תייבא את כל פרויקטי Frappe ל-Orga. להמשיך?
+This will permanently delete,פעולה זו תמחק לצמיתות
+This will permanently delete:,פעולה זו תמחק לצמיתות:
+Thu,חמישי
+Time,זמן
+Time & Billing,זמן וחיוב
+Time & Revenue,זמן והכנסות
+Time Entries,רשומות זמן
+Time log name is required,שם רשומת הזמן נדרש
+Time Log not found,רשומת הזמן לא נמצאה
+Time log {0} not found,רשומת זמן {0} לא נמצאה
+Time Logs,רשומות זמן
+Time Summary,סיכום זמן
+Time Tracking,מעקב זמן
+Timeline,ציר זמן
+Timer active on,טיימר פעיל על
+Timer is not running,הטיימר לא פועל
+Timer Running,טיימר פועל
+Timer running,טיימר פועל
+Timesheet DocType not available,סוג מסמך גיליון זמנים אינו זמין
+Timesheets,גיליונות זמנים
+Timezone,אזור זמן
+Timezone is detected from your browser,אזור הזמן מזוהה מהדפדפן שלך
+Title,כותרת
+Title cannot exceed 255 characters,הכותרת לא יכולה לחרוג מ-255 תווים
+Title is required,הכותרת נדרשת
+Title updated,הכותרת עודכנה
+To,אל
+to,אל
+to cancel,לביטול
+to close,לסגירה
+to confirm:,לאישור:
+to edit,לעריכה
+"to save,","לשמירה,"
+To Time cannot be before From Time,שעת הסיום לא יכולה להיות לפני שעת ההתחלה
+Today,היום
+today,היום
+Toggle billable,החלף סטטוס חיוב
+Toggle Details Panel,החלף לוח פרטים
+Toggle Manager Panel,החלף לוח מנהל
+Toggle Sidebar,החלף סרגל צד
+Tomorrow,מחר
+tomorrow,מחר
+Total,"סה""כ"
+Total Budget,תקציב כולל
+Total Contacts,"סה""כ אנשי קשר"
+Total Cost,עלות כוללת
+Total Cost to Org,עלות כוללת לארגון
+Total Defect Cost,עלות פגמים כוללת
+Total Hours,"סה""כ שעות"
+Total Hours Logged,"סה""כ שעות שנרשמו"
+Total Projects,"סה""כ פרויקטים"
+Total Spent,"סה""כ הושקע"
+Total Tasks,"סה""כ משימות"
+Total:,"סה""כ:"
+Tracked,במעקב
+trails to today while Open at 0%,מתקדם עד היום בזמן שפתוח ב-0%
+Tried:,Tried:
+Try adjusting your filter criteria,נסה להתאים את קריטריוני הסינון שלך
+Try adjusting your filters.,נסה להתאים את המסננים שלך.
+Try Again,נסה שוב
+Tue,שלישי
+Type,סוג
+Type updated,הסוג עודכן
+Type:,סוג:
+Typical response time: 1-2 business days,זמן תגובה טיפוסי: 1-2 ימי עסקים
+Unarchive,הוצא מארכיון
+Unarchive Activity,הוצא פעילות מארכיון
+Unassign,בטל הקצאה
+Unassigned,לא מוקצה
+Under Budget,מתחת לתקציב
+Ungrouped,לא מקובץ
+Unknown,לא ידוע
+Unknown error,שגיאה לא ידועה
+Unlink failed,ביטול הקישור נכשל
+Unlink task from milestone,בטל קישור משימה מאבן דרך
+Unpin,בטל הצמדה
+Unpin Activity,בטל הצמדת פעילות
+Unread,לא נקרא
+Unread only,לא נקראו בלבד
+Until,עד
+Up to Date,Up to Date
+Upcoming,קרוב
+upcoming,קרוב
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,העדכון נכשל
+Updated,עודכן
+Updated successfully,עודכן בהצלחה
+Updates,Updates
+Upload,העלה
+Upload failed,ההעלאה נכשלה
+Upload files below to attach them to this task.,העלה קבצים למטה כדי לצרף אותם למשימה זו.
+Upload to project,העלה לפרויקט
+Uploading...,מעלה...
+Urgent,דחוף
+User {0} is already linked to client {1},משתמש {0} כבר מקושר ללקוח {1}
+User {0} is already linked to resource {1},משתמש {0} כבר מקושר למשאב {1}
+Utilization,ניצול
+Valid,תקין
+Value:,ערך:
+Variance,שונות
+Variance:,שונות:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,צפה
+View All,צפה בהכל
+View all active projects,צפה בכל הפרויקטים הפעילים
+View all open tasks,צפה בכל המשימות הפתוחות
+View overdue tasks,צפה במשימות באיחור
+View Release,View Release
+Visibility,נראות
+Waiting for this task,ממתין למשימה זו
+Waits for:,ממתין ל:
+Warning: Resource {0} status is {1},אזהרה: סטטוס משאב {0} הוא {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,אזהרה: שימוש ב-HTTP במקום HTTPS. מטענים של Webhook עשויים שלא להיות מאובטחים.
+Watch budget closely,עקוב אחר התקציב מקרוב
+We'll respond to:,נשיב אל:
+Webhook deleted,ה-Webhook נמחק
+Webhook name is required,שם ה-Webhook נדרש
+Webhook not found,ה-Webhook לא נמצא
+Webhook URL is required,כתובת URL של Webhook נדרשת
+Webhook URL must start with http:// or https://,כתובת URL של Webhook חייבת להתחיל ב-http:// או https://
+Wed,רביעי
+Week,שבוע
+Weekend,סוף שבוע
+Weekly Capacity,קיבולת שבועית
+weekly capacity,קיבולת שבועית
+Weekly Capacity (h),קיבולת שבועית (ש)
+Welcome,ברוך הבא
+Welcome back!,ברוך שובך!
+Welcome to Orga,ברוך הבא ל-Orga
+What are you working on?,על מה אתה עובד?
+What did you work on?,על מה עבדת?
+When,מתי
+When work begins,כשהעבודה מתחילה
+When work is due,כשהעבודה אמורה להסתיים
+Where,איפה
+Will capture:,ילכוד:
+Will create:,ייצור:
+with checklist items,עם פריטי רשימת סימון
+Working,עובד
+Workload,עומס עבודה
+Workmanship,מלאכה
+Write a comment...,כתוב תגובה...
+Write a comment... Use @name to mention (Ctrl+Enter to send),כתוב תגובה... השתמש ב-@שם לאזכור (Ctrl+Enter לשליחה)
+Year,שנה
+Yes,כן
+Yesterday,אתמול
+yesterday,אתמול
+You are not an attendee of this appointment,אינך משתתף בפגישה זו
+You are not linked to any resource,אינך מקושר לאף משאב
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,אתה יכול למחוק רק את התגובות שלך
+You can only delete your own reactions,אתה יכול למחוק רק את התגובות הרגשיות שלך
+You do not have access to the client portal. Please contact support.,אין לך גישה לפורטל הלקוחות. צור קשר עם התמיכה.
+You have already reacted with '{0}',כבר הגבת עם '{0}'
+You have been assigned to task '{0}' in project '{1}'.,הוקצית למשימה '{0}' בפרויקט '{1}'.
+You have been assigned to: {0},הוקצית ל: {0}
+You have been invited to the following appointment,הוזמנת לפגישה הבאה
+You have no tasks assigned to you right now.,אין לך משימות מוקצות כרגע.
+You were mentioned in {0},אוזכרת ב-{0}
+Your attendance,נוכחותך
+Your comment has been posted,התגובה שלך פורסמה
+Your Projects,הפרויקטים שלך
+Your projects will appear here once they're assigned to you.,הפרויקטים שלך יופיעו כאן ברגע שיוקצו לך.
+Your Response,תשובתך
+Your RSVP,ה-RSVP שלך
+Your support request has been submitted successfully.,בקשת התמיכה שלך נשלחה בהצלחה.
+Your support request has been submitted successfully. We'll get back to you shortly.,בקשת התמיכה שלך נשלחה בהצלחה. נחזור אליך בקרוב.
+"Your task ""{0}"" is no longer blocked and can now be started.","המשימה שלך ""{0}"" אינה חסומה עוד וניתן להתחיל אותה כעת."
+{0} is required,{0} נדרש
+{0} new activities,{0} פעילויות חדשות
+{0} of {1} completed,{0} מתוך {1} הושלמו
+{0} projects already migrated (will be skipped or updated),{0} פרויקטים כבר הועברו (ידולגו או יעודכנו)
+{0} status changed to {1},סטטוס {0} שונה ל-{1}
+{0} tasks remaining,{0} משימות נותרו
+{0} tasks without projects will be skipped,{0} משימות ללא פרויקטים ידולגו
+{0} {1} not found,{0} {1} לא נמצא

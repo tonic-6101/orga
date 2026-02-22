@@ -1,0 +1,1492 @@
++ Add Milestone,+ ເພີ່ມຈຸດໝາຍ
++ Create Task,+ ສ້າງໜ້າວຽກ
++ Log Time,+ ບັນທຶກເວລາ
+-- Select a project --,-- ເລືອກໂຄງການ --
+0m,0ນ
+1 day,1 ມື້
+1 day ago,1 ມື້ກ່ອນ
+1 dependency,1 ການເພິ່ງພາ
+1 entry,1 ລາຍການ
+1 file,1 ໄຟລ໌
+1 hour ago,1 ຊົ່ວໂມງກ່ອນ
+1 member,1 ສະມາຊິກ
+1 milestone,1 ຈຸດໝາຍ
+1 month,1 ເດືອນ
+1 task,1 ໜ້າວຽກ
+< 1m,< 1ນ
+"A clear, actionable title for the task",ຫົວຂໍ້ທີ່ຊັດເຈນ ແລະ ສາມາດປະຕິບັດໄດ້ສຳລັບໜ້າວຽກ
+A client with email {0} already exists: {1},ລູກຄ້າທີ່ມີອີເມວ {0} ມີຢູ່ແລ້ວ: {1}
+A key deliverable or checkpoint for the project,ຜົນງານສຳຄັນ ຫຼື ຈຸດກວດກາສຳລັບໂຄງການ
+Accept,ຍອมຮັບ
+Accepted,ຍອมຮັບແລ້ວ
+Acknowledge,ຮັບຮູ້
+across,ທົ່ວ
+Action,ການກະທຳ
+Actions,ການກະທຳ
+Active,ເປີດໃຊ້ງານ
+Active Assignments,ການມອບໝາຍທີ່ເປີດໃຊ້ງານ
+Active Projects,ໂຄງການທີ່ເປີດໃຊ້ງານ
+Activity,ກິດຈະກຳ
+Activity data deleted successfully,ລຶບຂໍ້ມູນກິດຈະກຳສຳເລັດແລ້ວ
+Activity Info,ຂໍ້ມູນກິດຈະກຳ
+Activity Stats,ສະຖິຕິກິດຈະກຳ
+Activity will appear here as you work on tasks and projects.,ກິດຈະກຳຈະປາກົດຢູ່ບ່ອນນີ້ເມື່ອທ່ານເຮັດວຽກກັບໜ້າວຽກ ແລະ ໂຄງການ.
+Actual,ຕົວຈິງ
+Actual Cost,ຄ່າໃຊ້ຈ່າຍຕົວຈິງ
+Actual cost cannot be negative,ຄ່າໃຊ້ຈ່າຍຕົວຈິງບໍ່ສາມາດເປັນຄ່າລົບ
+Actual end date cannot be before actual start date,ວັນທີສິ້ນສຸດຕົວຈິງບໍ່ສາມາດຢູ່ກ່ອນວັນທີເລີ່ມຕົ້ນຕົວຈິງ
+Actual Hours,ຊົ່ວໂມງຕົວຈິງ
+Add,ເພີ່ມ
+Add a checklist item...,ເພີ່ມລາຍການກວດກາ...
+Add a comment...,ເພີ່ມຄຳເຫັນ...
+Add a comment... (Ctrl+Enter to send),ເພີ່ມຄຳເຫັນ... (Ctrl+Enter ເພື່ອສົ່ງ)
+Add a description...,ເພີ່ມລາຍລະອຽດ...
+Add a milestone description...,ເພີ່ມລາຍລະອຽດຈຸດໝາຍ...
+Add a note below to annotate this activity.,ເພີ່ມບັນທຶກດ້ານລຸ່ມເພື່ອບັນທຶກກິດຈະກຳນີ້.
+Add a note...,ເພີ່ມບັນທຶກ...
+Add a project description...,ເພີ່ມລາຍລະອຽດໂຄງການ...
+Add a task description...,ເພີ່ມລາຍລະອຽດໜ້າວຽກ...
+Add checklist item...,ເພີ່ມລາຍການກວດກາ...
+Add Contact,ເພີ່ມຜູ້ຕິດຕໍ່
+Add contacts via the Desk interface or clear filters,ເພີ່ມຜູ້ຕິດຕໍ່ຜ່ານໜ້າ Desk ຫຼື ລຶບຕົວກອງ
+Add Dependency,ເພີ່ມການເພິ່ງພາ
+Add details about this event...,ເພີ່ມລາຍລະອຽດກ່ຽວກັບເຫດການນີ້...
+Add details about this milestone...,ເພີ່ມລາຍລະອຽດກ່ຽວກັບຈຸດໝາຍນີ້...
+Add details about this task...,ເພີ່ມລາຍລະອຽດກ່ຽວກັບໜ້າວຽກນີ້...
+Add details or acceptance criteria for this milestone,ເພີ່ມລາຍລະອຽດ ຫຼື ເງື່ອນໄຂການຍອມຮັບສຳລັບຈຸດໝາຍນີ້
+"Add details, context, or acceptance criteria","ເພີ່ມລາຍລະອຽດ, ບໍລິບົດ, ຫຼື ເງື່ອນໄຂການຍອມຮັບ"
+Add first dependency,ເພີ່ມການເພິ່ງພາທຳອິດ
+Add item,ເພີ່ມລາຍການ
+Add items below to track progress.,ເພີ່ມລາຍການດ້ານລຸ່ມເພື່ອຕິດຕາಮຄວາມຄືບໜ້າ.
+Add items below to track subtasks,ເພີ່ມລາຍການດ້ານລຸ່ມເພື່ອຕິດຕາມໜ້າວຽກຍ່ອຍ
+Add Milestone,ເພີ່ມຈຸດໝາຍ
+Add Milestone (Shift+M),ເພີ່ມຈຸດໝາຍ (Shift+M)
+Add milestones to track key deliverables.,ເພີ່ມຈຸດໝາຍເພື່ອຕິດຕາມຜົນງານສຳຄັນ.
+Add New Contact,ເພີ່ມຜູ້ຕິດຕໍ່ໃໝ່
+Add Note,ເພີ່ມບັນທຶກ
+Add note,ເພີ່ມບັນທຶກ
+Add notes about this contact...,ເພີ່ມບັນທຶກກ່ຽວກັບຜູ້ຕິດຕໍ່ນີ້...
+Add reaction,ເພີ່ມປະຕິກິລິຍາ
+Add Skill,ເພີ່ມທັກສະ
+Add start and due dates to tasks to see them on the Gantt chart,ເພີ່ມວັນທີເລີ່ມຕົ້ນ ແລະ ກຳນົດສຳລັບໜ້າວຽກເພື່ອເບິ່ງໃນແຜນภູມິ Gantt
+Add Task,ເພີ່ມໜ້າວຽກ
+Add Task (Shift+T),ເພີ່ມໜ້າວຽກ (Shift+T)
+Added Finish-to-Start dependency,ເພີ່ມການເພິ່ງພາແບບສິ້ນສຸດ-ຫາ-ເລີ່ມຕົ້ນແລ້ວ
+Adding this dependency would create a circular reference: {0},ການເພີ່ມການເພິ່ງພານີ້ຈະສ້າງການອ້າງອິງວົນຮອບ: {0}
+Adding...,ກຳລັງເພີ່ມ...
+Address,ທີ່ຢູ່
+Advanced,ຂັ້ນສູງ
+All,ທັງໝົດ
+All Active,ເປີດໃຊ້ງານທັງໝົດ
+All Assignees,ຜູ້ຮັບມອບໝາຍທັງໝົດ
+All Categories,ໝວດໝູ່ທັງໝົດ
+All caught up!,ອ່ານໝົດແລ້ວ!
+All Contexts,ບໍລິບົດທັງໝົດ
+All day,ຕະຫຼອດມື້
+All day event,ເຫດການຕະຫຼອດມື້
+All fields,ທຸກຊ່ອງ
+All Priorities,ລຳດັບຄວາມສຳຄັນທັງໝົດ
+All Projects,ໂຄງການທັງໝົດ
+All Status,ສະຖານະທັງໝົດ
+All Statuses,ສະຖານະທັງໝົດ
+All task dependencies & relative dates,ການເພິ່ງພາໜ້າວຽກທັງໝົດ ແລະ ວັນທີສຳພັນ
+All Tasks,ໜ້າວຽກທັງໝົດ
+All tasks across all projects.,ໜ້າວຽກທັງໝົດທົ່ວທຸກໂຄງການ.
+All tasks are already linked,ໜ້າວຽກທັງໝົດເຊື່ອມຕໍ່ແລ້ວ
+All team members,ສະມາຊິກທີມທັງໝົດ
+All Types,ປະເພດທັງໝົດ
+All Users,ຜູ້ໃຊ້ທັງໝົດ
+Allocated,ຈັດສັນແລ້ວ
+allocated,ຈັດສັນແລ້ວ
+Allow users to log time against tasks,ອະນຸຍາດໃຫ້ຜູ້ໃຊ້ບັນທຶກເວລາຕໍ່ໜ້າວຽກ
+Already exported to timesheet {0},ສົ່ງອອກໄປໃບບັນທຶກເວລາ {0} ແລ້ວ
+Already Migrated,ຍ້າຍຂໍ້ມູນແລ້ວ
+Anyone with access,ໃຜກໍ່ຕາມທີ່ມີສິດເຂົ້າເຖິງ
+anytime to show this help,ທຸກເວລາເພື່ອສະແດງຄຳຊ່ວຍເຫຼືອນີ້
+App Updates,App Updates
+Appearance,ຮູບລັກສະນະ
+Apply,ນຳໃຊ້
+Apply cascade?,ນຳໃຊ້ການສືບທອດ?
+Apply Changes,ນຳໃຊ້ການປ່ຽນແປງ
+Apply failed,ການນຳໃຊ້ລົ້ມເຫຼວ
+Apply Template,ນຳໃຊ້ແມ່ແບບ
+Applying...,ກຳລັງນຳໃຊ້...
+Appointment,ນັດໝາຍ
+Appointment and resource are required,ນັດໝາຍ ແລະ ຊັບພະຍາກອນຈຳເປັນ
+Appointment name is required,ຕ້ອງລະບຸຊື່ນັດໝາຍ
+Appointment not found,ບໍ່ພົບນັດໝາຍ
+Appointment {0} not found,ບໍ່ພົບນັດໝາຍ {0}
+Apps,ແອັບ
+Archive,ເກັບມ້ຽນ
+Archive Activity,ເກັບມ້ຽນກິດຈະກຳ
+Archived,ເກັບມ້ຽນແລ້ວ
+Are you sure you want to delete this activity data? This cannot be undone.,ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບຂໍ້ມູນກິດຈະກຳນີ້? ການດຳເນີນການນີ້ບໍ່ສາມາດຍ້ອນກັບໄດ້.
+Are you sure you want to delete this comment?,ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບຄຳເຫັນນີ້?
+Are you sure you want to delete this project?,ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບໂຄງການນີ້?
+Are you sure?,ທ່ານແນ່ໃຈບໍ່?
+Ascending -- click to reverse,ຈັດລຽງຈາກນ້ອຍຫາໃຫຍ່ -- ກົດເພື່ອປີ້ນກັບ
+Assign To,ມອບໝາຍໃຫ້
+Assign to Me,ມອບໝາຍໃຫ້ຂ້ອຍ
+Assigned Contact,ຜູ້ຕິດຕໍ່ທີ່ມອບໝາຍ
+Assigned To,ມອບໝາຍໃຫ້
+Assigned to,ມອບໝາຍໃຫ້
+Assigned to Me,ມອບໝາຍໃຫ້ຂ້ອຍ
+Assignee,ຜູ້ຮັບມອບໝາຍ
+Assignment,ການມອບໝາຍ
+Assignment History,ປະຫວັດການມອບໝາຍ
+Assignment name is required,ຕ້ອງລະບຸຊື່ການມອບໝາຍ
+Assignment {0} not found,ບໍ່ພົບການມອບໝາຍ {0}
+Assignments,ການມອບໝາຍ
+At least one action is required,ຕ້ອງມີການກະທຳຢ່າງໜ້ອຍໜຶ່ງອັນ
+At least one event is required,ຕ້ອງມີເຫດການຢ່າງໜ້ອຍໜຶ່ງອັນ
+At least one event must be selected,ຕ້ອງເລືອກເຫດການຢ່າງໜ້ອຍໜຶ່ງອັນ
+Attachment,ເອກະສານແນບ
+Attachments,ເອກະສານແນບ
+Attendees,ຜູ້ເຂົ້າຮ່ວມ
+"Audit trail, assignments, version history","ຮ່ອງຮອຍກວດສອບ, ການມອບໝາຍ, ປະຫວັດເວີຊັນ"
+Auto,ອັດຕະໂນມັດ
+Auto Calculate Progress,ຄິດໄລ່ຄວາມຄືບໜ້າອັດຕະໂນມັດ
+Auto Set Missed Milestones,ຕັ້ງຈຸດໝາຍທີ່ພາດອັດຕະໂນມັດ
+Auto-shift dependents when dates change,ເລື່ອນການເພິ່ງພາອັດຕະໂນມັດເມື່ອວັນທີປ່ຽນ
+Auto-Trail Start,ເລີ່ມຕິດຕາມອັດຕະໂນມັດ
+Auto-Trail updated,ການຕິດຕາມອັດຕະໂນມັດອັບເດດແລ້ວ
+Automatically calculate project progress from task completion,ຄິດໄລ່ຄວາມຄືບໜ້າໂຄງການອັດຕະໂນມັດຈາກການສຳເລັດໜ້າວຽກ
+Automatically mark milestones as missed when overdue,ໝາຍຈຸດໝາຍເປັນພາດອັດຕະໂນມັດເມື່ອເກີນກຳນົດ
+Automation rule {0} not found,ບໍ່ພົບກົດລະບຽບອັດຕະໂນມັດ {0}
+Automation: {0},ອັດຕະໂນມັດ: {0}
+Availability,ຄວາມພ້ອມ
+Available,ພ້ອມໃຊ້ງານ
+Avatar updated successfully,ອັບເດດຮູບແທນຕົວສຳເລັດແລ້ວ
+Avg Progress,ຄວາມຄືບໜ້າສະເລ່ຍ
+Back,ກັບຄືນ
+Back to Portal,ກັບຄືນໄປໜ້າຫຼັກ
+Back to Projects,ກັບຄືນໄປໂຄງການ
+Beginner,ເລີ່ມຕົ້ນ
+Best regards,ດ້ວຍຄວາມນັບຖື
+Billable,ຄິດຄ່າບໍລິການໄດ້
+Billable Amount,ຈຳນວນເງິນທີ່ຄິດຄ່າບໍລິການໄດ້
+Billable Hours,ຊົ່ວໂມງທີ່ຄິດຄ່າບໍລິການໄດ້
+Billable Rate,ອັດຕາຄິດຄ່າບໍລິການ
+Billing Rate,ອັດຕາການຄິດຄ່າບໍລິການ
+Blocked,ຖືກບລ໋ອກ
+Both dates are needed to display task as a bar in Gantt chart,ຕ້ອງມີທັງສອງວັນທີເພື່ອສະແດງໜ້າວຽກເປັນແຖບໃນແຜນภູມິ Gantt
+Both doctype and docname are required,ຕ້ອງລະບຸທັງ doctype ແລະ docname
+Both proposed start and end times are required,ຕ້ອງລະບຸທັງເວລາເລີ່ມຕົ້ນ ແລະ ສິ້ນສຸດທີ່ສະເໜີ
+Both task_name and depends_on are required,ຕ້ອງລະບຸທັງ task_name ແລະ depends_on
+Breadcrumb,ເສັ້ນທາງນຳທາງ
+Brief description of the defect or damage,ລາຍລະອຽດສັ້ນກ່ຽວກັບຂໍ້ບົກພ່ອງ ຫຼື ຄວາມເສຍຫາຍ
+Brief description of this template,ລາຍລະອຽດສັ້ນຂອງແມ່ແບບນີ້
+Brief description of your request,ລາຍລະອຽດສັ້ນຂອງຄຳຮ້ອງຂໍຂອງທ່ານ
+Brief project description,ລາຍລະອຽດສັ້ນຂອງໂຄງການ
+Budget,ງົບປະມານ
+Budget at risk,ງົບປະມານທີ່ມີຄວາມສ່ຽງ
+Budget Burn Rate,ອັດຕາການໃຊ້ງົບປະມານ
+Budget Status,ສະຖານະງົບປະມານ
+Budget updated,ອັບເດດງົບປະມານແລ້ວ
+Budget:,ງົບປະມານ:
+Bug,ຂໍ້ຜິດພາດ
+Burn Rate,ອັດຕາການໃຊ້
+Busy,ບໍ່ຫວ່າງ
+By,ໂດຍ
+By Assignee,ຕາມຜູ້ຮັບມອບໝາຍ
+By Group,ຕາມກຸ່ມ
+By Milestone,ຕາມຈຸດໝາຍ
+By Priority,ຕາມລຳດັບຄວາມສຳຄັນ
+By Status,ຕາມສະຖານະ
+Cancel,ຍົກເລີກ
+Cancelled,ຍົກເລີກແລ້ວ
+cannot be undone,ບໍ່ສາມາດຍ້ອນກັບໄດ້
+Cannot delete client with {0} linked projects. Unlink projects first.,ບໍ່ສາມາດລຶບລູກຄ້າທີ່ມີ {0} ໂຄງການເຊື່ອມຕໍ່. ຍົກເລີກການເຊື່ອມຕໍ່ໂຄງການກ່ອນ.
+Cannot delete project with {0} linked tasks. Delete tasks first.,ບໍ່ສາມາດລຶບໂຄງການທີ່ມີ {0} ໜ້າວຽກເຊື່ອມຕໍ່. ລຶບໜ້າວຽກກ່ອນ.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,ບໍ່ສາມາດລຶບຊັບພະຍາກອນທີ່ມີ {0} ການມອບໝາຍທີ່ເປີດໃຊ້ງານ. ສຳເລັດ ຫຼື ຍົກເລີກກ່ອນ.
+Cannot delete task with {0} subtasks. Delete subtasks first.,ບໍ່ສາມາດລຶບໜ້າວຽກທີ່ມີ {0} ໜ້າວຽກຍ່ອຍ. ລຶບໜ້າວຽກຍ່ອຍກ່ອນ.
+Capacity,ຄວາມສາມາດ
+capacity,ຄວາມສາມາດ
+Capacity & Rates,ຄວາມສາມາດ ແລະ ອັດຕາ
+Capture project structure for reuse,ບັນທຶກໂຄງສ້າງໂຄງການເພື່ອໃຊ້ຄືນ
+Cascade,ການສືບທອດ
+Cascade Preview,ເບິ່ງຕົວຢ່າງການສືບທອດ
+Category,ໝວດໝູ່
+Celebrate,ສະຫຼອງ
+Change,ປ່ຽນ
+Change History,ປະຫວັດການປ່ຽນແປງ
+Change Priority,ປ່ຽນລຳດັບຄວາມສຳຄັນ
+Change Status,ປ່ຽນສະຖານະ
+Changes,ການປ່ຽນແປງ
+Changes appear when fields are modified.,ການປ່ຽນແປງຈະປາກົດເມື່ອມີການແກ້ໄຂຊ່ອງ.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,ລາຍການກວດກາ
+Checklist item name is required,ຕ້ອງລະບຸຊື່ລາຍການກວດກາ
+Checklist item not found,ບໍ່ພົບລາຍການກວດກາ
+Checklist item title is required,ຕ້ອງລະບຸຫົວຂໍ້ລາຍການກວດກາ
+Checklist item {0} not found,ບໍ່ພົບລາຍການກວດກາ {0}
+Checklist item {0} not found in task,ບໍ່ພົບລາຍການກວດກາ {0} ໃນໜ້າວຽກ
+Child,ລູກ
+Choose file to upload,ເລືອກໄຟລ໌ເພື່ອອັບໂຫຼດ
+Circular dependency detected: {0},ກວດພົບການເພິ່ງພາວົນຮອບ: {0}
+Circular parent-child relationship detected,ກວດພົບຄວາມສຳພັນພໍ່ແມ່-ລູກວົນຮອບ
+Clear,ລຶບ
+Clear all read,ລຶບທີ່ອ່ານແລ້ວທັງໝົດ
+Clear date,ລຶບວັນທີ
+Click on an activity from the list to view and manage its details.,ກົດທີ່ກິດຈະກຳຈາກລາຍການເພື່ອເບິ່ງ ແລະ ຈັດການລາຍລະອຽດ.
+Click the avatar to upload a new photo,ກົດຮູບແທນຕົວເພື່ອອັບໂຫຼດຮູບໃໝ່
+Click to add description...,ກົດເພື່ອເພີ່ມລາຍລະອຽດ...
+Click to add notes...,ກົດເພື່ອເພີ່ມບັນທຶກ...
+Click to assign contact,ກົດເພື່ອມອບໝາຍຜູ້ຕິດຕໍ່
+Click to change status,ກົດເພື່ອປ່ຽນສະຖານະ
+Click to change type,ກົດເພື່ອປ່ຽນປະເພດ
+Click to edit,ກົດເພື່ອແກ້ໄຂ
+Click to edit budget,ກົດເພື່ອແກ້ໄຂງົບປະມານ
+Click to edit description,ກົດເພື່ອແກ້ໄຂລາຍລະອຽດ
+Click to edit end date,ກົດເພື່ອແກ້ໄຂວັນທີສິ້ນສຸດ
+Click to edit milestone name,ກົດເພື່ອແກ້ໄຂຊື່ຈຸດໝາຍ
+Click to edit rate,ກົດເພື່ອແກ້ໄຂອັດຕາ
+Click to edit start date,ກົດເພື່ອແກ້ໄຂວັນທີເລີ່ມຕົ້ນ
+Click to edit title,ກົດເພື່ອແກ້ໄຂຫົວຂໍ້
+Click to load,ກົດເພື່ອໂຫຼດ
+Click to set group dependency...,ກົດເພື່ອຕັ້ງການເພິ່ງພາກຸ່ມ...
+Click to set group...,ກົດເພື່ອຕັ້ງກຸ່ມ...
+Click to view,ກົດເພື່ອເບິ່ງ
+Click to view at-risk projects,ກົດເພື່ອເບິ່ງໂຄງການທີ່ມີຄວາມສ່ຽງ
+Click to view critical projects,ກົດເພື່ອເບິ່ງໂຄງການທີ່ສຳຄັນ
+Click to view healthy projects,ກົດເພື່ອເບິ່ງໂຄງການທີ່ດີ
+Client,ລູກຄ້າ
+Client already has a portal user: {0},ລູກຄ້າມີຜູ້ໃຊ້ພອລ໌ທອນແລ້ວ: {0}
+Client already has portal access,ລູກຄ້າມີສິດເຂົ້າເຖິງພອລ໌ທອນແລ້ວ
+Client has no portal user to revoke,ລູກຄ້າບໍ່ມີຜູ້ໃຊ້ພອລ໌ທອນເພື່ອຖອນສິດ
+Client link removed from project {0},ລຶບການເຊື່ອມຕໍ່ລູກຄ້າຈາກໂຄງການ {0} ແລ້ວ
+Client Portal,ພອລ໌ທອນລູກຄ້າ
+Client {0} deleted successfully,ລຶບລູກຄ້າ {0} ສຳເລັດແລ້ວ
+Close,ປິດ
+Close (Esc),ປິດ (Esc)
+Comment,ຄຳເຫັນ
+comment,ຄຳເຫັນ
+Comment added,ເພີ່ມຄຳເຫັນແລ້ວ
+Comment content is required,ຕ້ອງລະບຸເນື້ອໃນຄຳເຫັນ
+Comment name is required,ຕ້ອງລະບຸຊື່ຄຳເຫັນ
+Comment not found,ບໍ່ພົບຄຳເຫັນ
+Comment removed,ລຶບຄຳເຫັນແລ້ວ
+Comment {0} not found in task,ບໍ່ພົບຄຳເຫັນ {0} ໃນໜ້າວຽກ
+Comments,ຄຳເຫັນ
+comments,ຄຳເຫັນ
+Community Edition,Community Edition
+Company,ບໍລິສັດ
+Company name...,ຊື່ບໍລິສັດ...
+Complete,ສຳເລັດ
+Completed,ສຳເລັດແລ້ວ
+completed,ສຳເລັດແລ້ວ
+Completed Tasks,ໜ້າວຽກທີ່ສຳເລັດ
+Compliance,ການປະຕິບັດຕາມ
+Configure default values for new projects and tasks,ຕັ້ງຄ່າເລີ່ມຕົ້ນສຳລັບໂຄງການ ແລະ ໜ້າວຽກໃໝ່
+Configure email notification settings,ຕັ້ງຄ່າການແຈ້ງເຕືອນທາງອີເມວ
+Confirm,ຢືນຢັນ
+Contact deleted,ລຶບຜູ້ຕິດຕໍ່ແລ້ວ
+Contact Details,ລາຍລະອຽດຜູ້ຕິດຕໍ່
+Contact Information,ຂໍ້ມູນຜູ້ຕິດຕໍ່
+Contact name is required,ຕ້ອງລະບຸຊື່ຜູ້ຕິດຕໍ່
+Contact Support,ຕິດຕໍ່ຝ່າຍຊ່ວຍເຫຼືອ
+Contact your project manager for more information.,ຕິດຕໍ່ຜູ້ຈັດການໂຄງການຂອງທ່ານສຳລັບຂໍ້ມູນເພີ່ມເຕີມ.
+Contact:,ຜູ້ຕິດຕໍ່:
+Contacts,ຜູ້ຕິດຕໍ່
+Context,ບໍລິບົດ
+Contractor,ຜູ້ຮັບເໝົາ
+Cost estimate cannot be negative,ການປະມານການຄ່າໃຊ້ຈ່າຍບໍ່ສາມາດເປັນຄ່າລົບ
+Cost Impact,ຜົນກະທົບດ້ານຄ່າໃຊ້ຈ່າຍ
+Cost Summary,ສະຫຼຸບຄ່າໃຊ້ຈ່າຍ
+Could not apply the template. Please try again.,ບໍ່ສາມາດນຳໃຊ້ແມ່ແບບ. ກະລຸນາລອງໃໝ່.
+Could not attach file to project,ບໍ່ສາມາດແນບໄຟລ໌ກັບໂຄງການ
+Could not change task priority,ບໍ່ສາມາດປ່ຽນລຳດັບຄວາມສຳຄັນຂອງໜ້າວຽກ
+Could not change task status,ບໍ່ສາມາດປ່ຽນສະຖານະໜ້າວຽກ
+Could not delete the project. Please try again.,ບໍ່ສາມາດລຶບໂຄງການ. ກະລຸນາລອງໃໝ່.
+Could not delete the task. Please try again.,ບໍ່ສາມາດລຶບໜ້າວຽກ. ກະລຸນາລອງໃໝ່.
+Could not delete the template.,ບໍ່ສາມາດລຶບແມ່ແບບ.
+Could not duplicate the task. Please try again.,ບໍ່ສາມາດສຳເນົາໜ້າວຽກ. ກະລຸນາລອງໃໝ່.
+Could not export the template.,ບໍ່ສາມາດສົ່ງອອກແມ່ແບບ.
+Could not import the template. Please check the file format.,ບໍ່ສາມາດນຳເຂົ້າແມ່ແບບ. ກະລຸນາກວດສອບຮູບແບບໄຟລ໌.
+Could not link task to milestone,ບໍ່ສາມາດເຊື່ອມຕໍ່ໜ້າວຽກກັບຈຸດໝາຍ
+Could not load document details.,ບໍ່ສາມາດໂຫຼດລາຍລະອຽດເອກະສານ.
+Could not load task details,ບໍ່ສາມາດໂຫຼດລາຍລະອຽດໜ້າວຽກ
+Could not promote checklist item to task.,ບໍ່ສາມາດຍົກລະດັບລາຍການກວດກາເປັນໜ້າວຽກ.
+Could not remove task from milestone,ບໍ່ສາມາດລຶບໜ້າວຽກຈາກຈຸດໝາຍ
+Could not save budget.,ບໍ່ສາມາດບັນທຶກງົບປະມານ.
+Could not save changes to the milestone,ບໍ່ສາມາດບັນທຶກການປ່ຽນແປງຂອງຈຸດໝາຍ
+Could not save changes to the task,ບໍ່ສາມາດບັນທຶກການປ່ຽນແປງຂອງໜ້າວຽກ
+Could not save description.,ບໍ່ສາມາດບັນທຶກລາຍລະອຽດ.
+Could not save end date.,ບໍ່ສາມາດບັນທຶກວັນທີສິ້ນສຸດ.
+Could not save milestone name.,ບໍ່ສາມາດບັນທຶກຊື່ຈຸດໝາຍ.
+Could not save start date.,ບໍ່ສາມາດບັນທຶກວັນທີເລີ່ມຕົ້ນ.
+Could not save the template. Please try again.,ບໍ່ສາມາດບັນທຶກແມ່ແບບ. ກະລຸນາລອງໃໝ່.
+Could not save title.,ບໍ່ສາມາດບັນທຶກຫົວຂໍ້.
+Could not update dependency mode.,ບໍ່ສາມາດອັບເດດຮູບແບບການເພິ່ງພາ.
+Could not update milestone date,ບໍ່ສາມາດອັບເດດວັນທີຈຸດໝາຍ
+Could not update project status.,ບໍ່ສາມາດອັບເດດສະຖານະໂຄງການ.
+Could not update project type.,ບໍ່ສາມາດອັບເດດປະເພດໂຄງການ.
+Could not update setting.,ບໍ່ສາມາດອັບເດດການຕັ້ງຄ່າ.
+Could not update task dates,ບໍ່ສາມາດອັບເດດວັນທີໜ້າວຽກ
+Could not update task status,ບໍ່ສາມາດອັບເດດສະຖານະໜ້າວຽກ
+Could not update the template.,ບໍ່ສາມາດອັບເດດແມ່ແບບ.
+Create a copy of this task,ສ້າງສຳເນົາຂອງໜ້າວຽກນີ້
+Create Contact,ສ້າງຜູ້ຕິດຕໍ່
+Create Event,ສ້າງເຫດການ
+Create Milestone,ສ້າງຈຸດໝາຍ
+Create New Milestone,ສ້າງຈຸດໝາຍໃໝ່
+Create New Task,ສ້າງໜ້າວຽກໃໝ່
+Create Project,ສ້າງໂຄງການ
+Create Task,ສ້າງໜ້າວຽກ
+Create tasks and milestones from a template,ສ້າງໜ້າວຽກ ແລະ ຈຸດໝາຍຈາກແມ່ແບບ
+Create your first project to get started.,ສ້າງໂຄງການທຳອິດຂອງທ່ານເພື່ອເລີ່ມຕົ້ນ.
+Create your first task to start tracking work on this project.,ສ້າງໜ້າວຽກທຳອິດເພື່ອເລີ່ມຕິດຕາມວຽກໃນໂຄງການນີ້.
+Created,ສ້າງແລ້ວ
+Creating...,ກຳລັງສ້າງ...
+Critical,ວິກິດ
+Critical Path,ເສັ້ນທາງວິກິດ
+"Currency used for budgets, costs, and billing rates","ສະກຸນເງິນທີ່ໃຊ້ສຳລັບງົບປະມານ, ຄ່າໃຊ້ຈ່າຍ, ແລະ ອັດຕາການຄິດຄ່າບໍລິການ"
+Current,ປັດຈຸບັນ
+Current Assignments,ການມອບໝາຍປັດຈຸບັນ
+Current scheduled time:,ເວລາທີ່ກຳນົດປັດຈຸບັນ:
+Currently running version,Currently running version
+d lag,ມື້ຊ້າ
+Daily Availability,ຄວາມພ້ອມປະຈຳວັນ
+Daily Hours,ຊົ່ວໂມງປະຈຳວັນ
+Danger Zone,ເຂດອັນຕະລາຍ
+Dark,ມືດ
+Dashboard,ໜ້າຫຼັກ
+Date,ວັນທີ
+Date changes on this task will show cascade impact here,ການປ່ຽນແປງວັນທີຂອງໜ້າວຽກນີ້ຈະສະແດງຜົນກະທົບການສືບທອດຢູ່ນີ້
+Date cleared,ລຶບວັນທີແລ້ວ
+Date of Joining,ວັນທີເຂົ້າຮ່ວມ
+Date updated,ອັບເດດວັນທີແລ້ວ
+Dates,ວັນທີ
+Dates cascaded,ສືບທອດວັນທີແລ້ວ
+Dates will be relative to the project's start date.,ວັນທີຈະສຳພັນກັບວັນທີເລີ່ມຕົ້ນຂອງໂຄງການ.
+Day,ມື້
+day,ມື້
+days,ມື້
+Days before due date to send reminder,ຈຳນວນມື້ກ່ອນກຳນົດສົ່ງການເຕືອນ
+Days Overdue,ມື້ທີ່ເກີນກຳນົດ
+Days Remaining,ມື້ທີ່ເຫຼືອ
+Deadline,ກຳນົດສຸດທ້າຍ
+Deadlines,ກຳນົດສຸດທ້າຍ
+Decision,ການຕັດສິນໃຈ
+Decline,ປະຕິເສດ
+Declined,ປະຕິເສດແລ້ວ
+Default Currency,ສະກຸນເງິນເລີ່ມຕົ້ນ
+Default hours per week for contact capacity planning,ຊົ່ວໂມງເລີ່ມຕົ້ນຕໍ່ອາທິດສຳລັບການວາງແຜນຄວາມສາມາດຜູ້ຕິດຕໍ່
+Default Priority,ລຳດັບຄວາມສຳຄັນເລີ່ມຕົ້ນ
+Default Project Status,ສະຖານະໂຄງການເລີ່ມຕົ້ນ
+Default Task Status,ສະຖານະໜ້າວຽກເລີ່ມຕົ້ນ
+Default task view,ມຸມມອງໜ້າວຽກເລີ່ມຕົ້ນ
+Default Values,ຄ່າເລີ່ມຕົ້ນ
+Default Weekly Capacity,ຄວາມສາມາດຕໍ່ອາທິດເລີ່ມຕົ້ນ
+Defaults,ຄ່າເລີ່ມຕົ້ນ
+Defect Cost Impact,ຜົນກະທົບຄ່າໃຊ້ຈ່າຍຂໍ້ບົກພ່ອງ
+Defect name is required,ຕ້ອງລະບຸຊື່ຂໍ້ບົກພ່ອງ
+Defect Type,ປະເພດຂໍ້ບົກພ່ອງ
+Defect {0} not found,ບໍ່ພົບຂໍ້ບົກພ່ອງ {0}
+Defects,ຂໍ້ບົກພ່ອງ
+Defects & Issues,ຂໍ້ບົກພ່ອງ ແລະ ບັນຫາ
+Defects Resolved,ຂໍ້ບົກພ່ອງທີ່ແກ້ໄຂແລ້ວ
+Delayed,ລ່າຊ້າ
+Delete,ລຶບ
+Delete Activity Data,ລຶບຂໍ້ມູນກິດຈະກຳ
+Delete all read notifications?,ລຶບການແຈ້ງເຕືອນທີ່ອ່ານແລ້ວທັງໝົດ?
+Delete comment,ລຶບຄຳເຫັນ
+Delete Contact,ລຶບຜູ້ຕິດຕໍ່
+Delete Event,ລຶບເຫດການ
+Delete Event?,ລຶບເຫດການ?
+Delete failed,ການລຶບລົ້ມເຫຼວ
+Delete file,ລຶບໄຟລ໌
+Delete item,ລຶບລາຍການ
+Delete note,ລຶບບັນທຶກ
+Delete Project,ລຶບໂຄງການ
+Delete Task,ລຶບໜ້າວຽກ
+Delete this project,ລຶບໂຄງການນີ້
+Deleted,ລຶບແລ້ວ
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","ລຶບໂຄງການ ""{0}"" ({1} ໜ້າວຽກ, {2} ຈຸດໝາຍ) ແລ້ວ"
+Deletes notes and preferences. Source document is not affected.,ລຶບບັນທຶກ ແລະ ການຕັ້ງຄ່າ. ເອກະສານຕົ້ນສະບັບບໍ່ຖືກກະທົບ.
+Deleting...,ກຳລັງລຶບ...
+Department,ພະແນກ
+Dependencies,ການເພິ່ງພາ
+dependencies,ການເພິ່ງພາ
+Dependencies are informational only,ການເພິ່ງພາເປັນຂໍ້ມູນເທົ່ານັ້ນ
+dependency,ການເພິ່ງພາ
+Dependency already exists,ການເພິ່ງພາມີຢູ່ແລ້ວ
+Dependency Chain,ລະບົບຕ່ອງໂສ້ການເພິ່ງພາ
+Dependency created,ສ້າງການເພິ່ງພາແລ້ວ
+Dependency mode updated,ອັບເດດຮູບແບບການເພິ່ງພາແລ້ວ
+Dependency name is required,ຕ້ອງລະບຸຊື່ການເພິ່ງພາ
+Dependency task {0} not found,ບໍ່ພົບໜ້າວຽກການເພິ່ງພາ {0}
+Dependency {0} not found,ບໍ່ພົບການເພິ່ງພາ {0}
+depends,ຂຶ້ນກັບ
+Depends on Group,ຂຶ້ນກັບກຸ່ມ
+Depends on task is required,ຕ້ອງລະບຸໜ້າວຽກທີ່ຂຶ້ນກັບ
+depends on...,ຂຶ້ນກັບ...
+Descending -- click to reverse,ຈັດລຽງຈາກໃຫຍ່ຫານ້ອຍ -- ກົດເພື່ອປີ້ນກັບ
+Describe the defect in detail...,ອະທິບາຍຂໍ້ບົກພ່ອງຢ່າງລະອຽດ...
+Description,ລາຍລະອຽດ
+Description updated,ອັບເດດລາຍລະອຽດແລ້ວ
+Designation,ຕຳແໜ່ງ
+"Detailed description of the defect, location, and impact","ລາຍລະອຽດຂອງຂໍ້ບົກພ່ອງ, ສະຖານທີ່, ແລະ ຜົນກະທົບ"
+Details,ລາຍລະອຽດ
+Discard timer,ຍົກເລີກໂມງຈັບເວລາ
+Discussion,ການສົນທະນາ
+Dismiss,Dismiss
+Display,ສະແດງ
+Document,ເອກະສານ
+Document attached to project,ແນບເອກະສານກັບໂຄງການແລ້ວ
+Document final decision and rationale,ບັນທຶກການຕັດສິນໃຈສຸດທ້າຍ ແລະ ເຫດຜົນ
+Documentation Review,ການກວດສອບເອກະສານ
+Documents,ເອກະສານ
+Done,ສຳເລັດ
+Download,ດາວໂຫຼດ
+Drag to create dependency,ລາກເພື່ອສ້າງການເພິ່ງພາ
+Dry Run,ທົດລອງແລ່ນ
+Dry Run Complete,ທົດລອງແລ່ນສຳເລັດ
+Due Date,ວັນທີກຳນົດ
+Due date,ວັນທີກຳນົດ
+Due Date (Earliest),ວັນທີກຳນົດ (ໄວສຸດ)
+Due date cannot be before start date,ວັນທີກຳນົດບໍ່ສາມາດຢູ່ກ່ອນວັນທີເລີ່ມຕົ້ນ
+Due date is in the past,ວັນທີກຳນົດຢູ່ໃນອະດີດ
+Due Date Reminders,ການເຕືອນວັນທີກຳນົດ
+Due Diligence,ການກວດສອບຄວາມຮອບຄອບ
+Due Diligence Checklist,ລາຍການກວດສອບຄວາມຮອບຄອບ
+Due This Week,ກຳນົດສົ່ງອາທິດນີ້
+Due:,ກຳນົດ:
+Duplicate events are not allowed,ບໍ່ອະນຸຍາດເຫດການຊ້ຳກັນ
+Duplicate failed,ການສຳເນົາລົ້ມເຫຼວ
+Duplicate Task,ສຳເນົາໜ້າວຽກ
+Duration,ໄລຍະເວລາ
+Duration Summary,ສະຫຼຸບໄລຍະເວລາ
+Duration:,ໄລຍະເວລາ:
+e.g. Cracked wall finish in bathroom...,ເຊັ່ນ: ຝາຫ້ອງນ້ຳແຕກ...
+"e.g. Electrical, Plumbing...","ເຊັ່ນ: ໄຟຟ້າ, ປະປາ..."
+Edit,ແກ້ໄຂ
+Edit (E),ແກ້ໄຂ (E)
+Edit dependency,ແກ້ໄຂການເພິ່ງພາ
+Edit Event,ແກ້ໄຂເຫດການ
+Efficiency,ປະສິດທິພາບ
+Either dependency_name or depends_on is required,ຕ້ອງລະບຸ dependency_name ຫຼື depends_on
+Email,ອີເมວ
+Email invitations to all attendees,ສົ່ງຄຳເຊີນທາງອີເມວໃຫ້ຜູ້ເຂົ້າຮ່ວມທັງໝົດ
+Email is required to create portal user,ຕ້ອງມີອີເມວເພື່ອສ້າງຜູ້ໃຊ້ພອລ໌ທອນ
+Email notifications,ການແຈ້ງເຕືອນທາງອີເມວ
+Employee,ພະນັກງານ
+Employee DocType not available,DocType ພະນັກງານບໍ່ພ້ອມໃຊ້ງານ
+Employee not found,ບໍ່ພົບພະນັກງານ
+Enable or disable optional features,ເປີດ ຫຼື ປິດຄຸນສົມບັດເສີມ
+Enable Time Tracking,ເປີດການຕິດຕາມເວລາ
+End,ສິ້ນສຸດ
+End Date,ວັນທີສິ້ນສຸດ
+End date,ວັນທີສິ້ນສຸດ
+End Date cannot be before Start Date,ວັນທີສິ້ນສຸດບໍ່ສາມາດຢູ່ກ່ອນວັນທີເລີ່ມຕົ້ນ
+End date cannot be before start date,ວັນທີສິ້ນສຸດບໍ່ສາມາດຢູ່ກ່ອນວັນທີເລີ່ມຕົ້ນ
+End date updated,ອັບເດດວັນທີສິ້ນສຸດແລ້ວ
+End time was before start time. Adjusted to 1 hour after start.,ເວລາສິ້ນສຸດຢູ່ກ່ອນເວລາເລີ່ມຕົ້ນ. ປັບເປັນ 1 ຊົ່ວໂມງຫຼັງຈາກເລີ່ມຕົ້ນ.
+End:,ສິ້ນສຸດ:
+Enter milestone name...,ໃສ່ຊື່ຈຸດໝາຍ...
+Enter project name,ໃສ່ຊື່ໂຄງການ
+Enter task title...,ໃສ່ຫົວຂໍ້ໜ້າວຽກ...
+Enter template name,ໃສ່ຊື່ແມ່ແບບ
+Enter your note... Use @name to mention someone,ໃສ່ບັນທຶກຂອງທ່ານ... ໃຊ້ @ຊື່ ເພື່ອກ່າວເຖິງຜູ້ໃດຜູ້ໜຶ່ງ
+Error,ຂໍ້ຜິດພາດ
+Error loading activity,ຂໍ້ຜິດພາດໃນການໂຫຼດກິດຈະກຳ
+Error loading contacts,ຂໍ້ຜິດພາດໃນການໂຫຼດຜູ້ຕິດຕໍ່
+Error loading dashboard,ຂໍ້ຜິດພາດໃນການໂຫຼດໜ້າຫຼັກ
+Error loading project,ຂໍ້ຜິດພາດໃນການໂຫຼດໂຄງການ
+Error loading projects,ຂໍ້ຜິດພາດໃນການໂຫຼດໂຄງການ
+Error loading settings,ຂໍ້ຜິດພາດໃນການໂຫຼດການຕັ້ງຄ່າ
+Error loading tasks,ຂໍ້ຜິດພາດໃນການໂຫຼດໜ້າວຽກ
+Error loading templates,ຂໍ້ຜິດພາດໃນການໂຫຼດແມ່ແບບ
+Est. Hours,ຊມ. ປະມານ
+Estimated,ປະມານ
+Estimated Cost,ຄ່າໃຊ້ຈ່າຍປະມານ
+Estimated Cost (€),ຄ່າໃຊ້ຈ່າຍປະມານ (€)
+Estimated Hours,ຊົ່ວໂມງປະມານ
+Estimated:,ປະມານ:
+Evaluate potential risks and concerns,ປະເມີນຄວາມສ່ຽງ ແລະ ຄວາມກັງວົນທີ່ອາດເກີດຂຶ້ນ
+Event,ເຫດການ
+Event is required for event context,ຕ້ອງມີເຫດການສຳລັບບໍລິບົດເຫດການ
+Event is required when tracking context is 'event',ຕ້ອງມີເຫດການເມື່ອບໍລິບົດການຕິດຕາມເປັນ 'ເຫດການ'
+Event Type,ປະເພດເຫດການ
+Events,ເຫດການ
+Events not available. Please run: bench --site orga.localhost migrate,ເຫດການບໍ່ພ້ອມໃຊ້ງານ. ກະລຸນາແລ່ນ: bench --site orga.localhost migrate
+Events:,ເຫດການ:
+Expert,ຊ່ຽວຊານ
+Explain why you are proposing a different time...,ອະທິບາຍເຫດຜົນທີ່ທ່ານສະເໜີເວລາອື່ນ...
+Export,ສົ່ງອອກ
+Export failed,ການສົ່ງອອກລົ້ມເຫຼວ
+Export JSON,ສົ່ງອອກ JSON
+Exported,ສົ່ງອອກແລ້ວ
+Exported to timesheet {0},ສົ່ງອອກໄປໃບບັນທຶກເວລາ {0} ແລ້ວ
+External,ພາຍນອກ
+Failed to add item,ການເພີ່ມລາຍການລົ້ມເຫຼວ
+Failed to add note,ການເພີ່ມບັນທຶກລົ້ມເຫຼວ
+Failed to add skill,ການເພີ່ມທັກສະລົ້ມເຫຼວ
+Failed to apply cascade changes: {0},ການນຳໃຊ້ການປ່ຽນແປງການສືບທອດລົ້ມເຫຼວ: {0}
+Failed to create defect,ການສ້າງຂໍ້ບົກພ່ອງລົ້ມເຫຼວ
+Failed to create dependency,ການສ້າງການເພິ່ງພາລົ້ມເຫຼວ
+Failed to create event,ການສ້າງເຫດການລົ້ມເຫຼວ
+Failed to create milestone,ການສ້າງຈຸດໝາຍລົ້ມເຫຼວ
+Failed to create project,ການສ້າງໂຄງການລົ້ມເຫຼວ
+Failed to create task,ການສ້າງໜ້າວຽກລົ້ມເຫຼວ
+Failed to create time log,ການສ້າງບັນທຶກເວລາລົ້ມເຫຼວ
+Failed to delete,ການລຶບລົ້ມເຫຼວ
+Failed to delete comment,ການລຶບຄຳເຫັນລົ້ມເຫຼວ
+Failed to delete contact,ການລຶບຜູ້ຕິດຕໍ່ລົ້ມເຫຼວ
+Failed to load,ການໂຫຼດລົ້ມເຫຼວ
+Failed to load activity,ການໂຫຼດກິດຈະກຳລົ້ມເຫຼວ
+Failed to load assignments,ການໂຫຼດການມອບໝາຍລົ້ມເຫຼວ
+Failed to load contact,ການໂຫຼດຜູ້ຕິດຕໍ່ລົ້ມເຫຼວ
+Failed to load dashboard data,ການໂຫຼດຂໍ້ມູນໜ້າຫຼັກລົ້ມເຫຼວ
+Failed to load defects,ການໂຫຼດຂໍ້ບົກພ່ອງລົ້ມເຫຼວ
+Failed to load events,ການໂຫຼດເຫດການລົ້ມເຫຼວ
+Failed to load project,ການໂຫຼດໂຄງການລົ້ມເຫຼວ
+Failed to load projects,ການໂຫຼດໂຄງການລົ້ມເຫຼວ
+Failed to load report data,ການໂຫຼດຂໍ້ມູນລາຍງານລົ້ມເຫຼວ
+Failed to load settings,ການໂຫຼດການຕັ້ງຄ່າລົ້ມເຫຼວ
+Failed to load tasks,ການໂຫຼດໜ້າວຽກລົ້ມເຫຼວ
+Failed to move task,ການຍ້າຍໜ້າວຽກລົ້ມເຫຼວ
+Failed to post comment,ການໂພສຄຳເຫັນລົ້ມເຫຼວ
+Failed to propose new time,ການສະເໜີເວລາໃໝ່ລົ້ມເຫຼວ
+Failed to remove item,ການລຶບລາຍການລົ້ມເຫຼວ
+Failed to remove skill,ການລຶບທັກສະລົ້ມເຫຼວ
+Failed to reorder milestones: {0},ການຈັດລຽງຈຸດໝາຍໃໝ່ລົ້ມເຫຼວ: {0}
+Failed to reorder tasks: {0},ການຈັດລຽງໜ້າວຽກໃໝ່ລົ້ມເຫຼວ: {0}
+Failed to reschedule dependent tasks: {0},ການຈັດຕາຕະລາງໜ້າວຽກທີ່ເພິ່ງພາໃໝ່ລົ້ມເຫຼວ: {0}
+Failed to save,ການບັນທຶກລົ້ມເຫຼວ
+Failed to save preferences,ການບັນທຶກການຕັ້ງຄ່າລົ້ມເຫຼວ
+Failed to save settings,ການບັນທຶກການຕັ້ງຄ່າລົ້ມເຫຼວ
+Failed to submit request. Please try again.,ການສົ່ງຄຳຮ້ອງຂໍລົ້ມເຫຼວ. ກະລຸນາລອງໃໝ່.
+Failed to update item,ການອັບເດດລາຍການລົ້ມເຫຼວ
+Failed to update priority,ການອັບເດດລຳດັບຄວາມສຳຄັນລົ້ມເຫຼວ
+Failed to update task,ການອັບເດດໜ້າວຽກລົ້ມເຫຼວ
+Failed to update tasks: {0},ການອັບເດດໜ້າວຽກລົ້ມເຫຼວ: {0}
+Failed to upload avatar,ການອັບໂຫຼດຮູບແທນຕົວລົ້ມເຫຼວ
+Feature,ຄຸນສົມບັດ
+Features,ຄຸນສົມບັດ
+FF (Finish-Finish),FF (ສິ້ນສຸດ-ສິ້ນສຸດ)
+FF - Finish-to-Finish,FF - ສິ້ນສຸດ-ຫາ-ສິ້ນສຸດ
+Field has been updated,ອັບເດດຊ່ອງຂໍ້ມູນແລ້ວ
+Field name is required for 'Set Field Value' action,ຕ້ອງລະບຸຊື່ຊ່ອງຂໍ້ມູນສຳລັບການກະທຳ 'ຕັ້ງຄ່າຊ່ອງຂໍ້ມູນ'
+Field {0} is not a Link field,ຊ່ອງ {0} ບໍ່ແມ່ນຊ່ອງ Link
+Field {0} not found in {1},ບໍ່ພົບຊ່ອງ {0} ໃນ {1}
+file,ໄຟລ໌
+File,ໄຟລ໌
+File does not belong to this task,ໄຟລ໌ບໍ່ໄດ້ຢູ່ໃນໜ້າວຽກນີ້
+File name is required,ຕ້ອງລະບຸຊື່ໄຟລ໌
+File uploaded,ອັບໂຫຼດໄຟລ໌ແລ້ວ
+File {0} not found,ບໍ່ພົບໄຟລ໌ {0}
+files,ໄຟລ໌
+Files,ໄຟລ໌
+Filter,ຕົວກອງ
+Final Decision,ການຕັດສິນໃຈສຸດທ້າຍ
+Finance,ການເງິນ
+Financial,ດ້ານການເງິນ
+Finish-to-Finish,ສິ້ນສຸດ-ຫາ-ສິ້ນສຸດ
+Finish-to-Start,ສິ້ນສຸດ-ຫາ-ເລີ່ມຕົ້ນ
+Flag,ທຸງ
+Flag for attention,ໝາຍທຸງເພື່ອເອົາໃຈໃສ່
+Flagged,ໝາຍທຸງແລ້ວ
+Focus Panel,ແຜງຈຸດສຸມ
+Follows your system preference. Currently:,ຕາມການຕັ້ງຄ່າລະບົບຂອງທ່ານ. ປັດຈຸບັນ:
+Frappe Project {0} not found,ບໍ່ພົບ Frappe Project {0}
+Frappe Projects Migration,ການຍ້າຍຂໍ້ມູນ Frappe Projects
+Frappe Projects module not available,ໂມດູນ Frappe Projects ບໍ່ພ້ອມໃຊ້ງານ
+Frappe Projects module not installed,ໂມດູນ Frappe Projects ບໍ່ໄດ້ຕິດຕັ້ງ
+Frappe Projects sync is not enabled,ການຊິ້ງ Frappe Projects ບໍ່ໄດ້ເປີດໃຊ້ງານ
+Frappe Task DocType not found,ບໍ່ພົບ Frappe Task DocType
+Frappe Task has no project,Frappe Task ບໍ່ມີໂຄງການ
+Frappe Task {0} not found,ບໍ່ພົບ Frappe Task {0}
+Fri,ສຸກ
+From,ຈາກ
+From Template,ຈາກແມ່ແບບ
+FS (Finish-Start),FS (ສິ້ນສຸດ-ເລີ່ມຕົ້ນ)
+FS - Finish-to-Start (default),FS - ສິ້ນສຸດ-ຫາ-ເລີ່ມຕົ້ນ (ຄ່າເລີ່ມຕົ້ນ)
+Full form view with audit trail,ມຸມມອງແບບຟອມເຕັມກັບຮ່ອງຮອຍກວດສອບ
+Full name,ຊື່ເຕັມ
+Gantt,Gantt
+Gantt Chart,ແຜນภູມິ Gantt
+Gantt View,ມຸມມອງ Gantt
+General Note,ບັນທຶກທົ່ວໄປ
+Get started,ເລີ່ມຕົ້ນ
+Go back,ກັບຄືນ
+Go Back,Go Back
+Group by,ຈັດກຸ່ມຕາມ
+Group dependency removed,ລຶບການເພິ່ງພາກຸ່ມແລ້ວ
+Group dependency set,ຕັ້ງການເພິ່ງພາກຸ່ມແລ້ວ
+Group removed,ລຶບກຸ່ມແລ້ວ
+Group updated,ອັບເດດກຸ່ມແລ້ວ
+Hammock task dates are auto-calculated and cannot be changed manually,ວັນທີໜ້າວຽກ Hammock ຖືກຄິດໄລ່ອັດຕະໂນມັດ ແລະ ບໍ່ສາມາດປ່ຽນດ້ວຍມືໄດ້
+Have a question or need assistance? Fill out the form below and our team will get back to you.,ມີຄຳຖາມ ຫຼື ຕ້ອງການຄວາມຊ່ວຍເຫຼືອ? ຕື່ມຂໍ້ມູນໃນແບບຟອມດ້ານລຸ່ມ ແລະ ທີມງານຂອງພວກເຮົາຈະຕິດຕໍ່ກັບທ່ານ.
+Health,ສຸຂະພາບ
+Healthy,ດີ
+Hello {0},ສະບາຍດີ {0}
+Here's what's happening with your projects today.,ນີ້ແມ່ນສິ່ງທີ່ເກີດຂຶ້ນກັບໂຄງການຂອງທ່ານມື້ນີ້.
+Hide,ເຊື່ອງ
+High,ສູງ
+History,ປະຫວັດ
+Home,ໜ້າຫຼັກ
+Hourly Cost,ຄ່າໃຊ້ຈ່າຍຕໍ່ຊົ່ວໂມງ
+Hours,ຊົ່ວໂມງ
+hours,ຊົ່ວໂມງ
+Hours Logged,ຊົ່ວໂມງທີ່ບັນທຶກ
+ID,ID
+Image must be smaller than 5 MB,ຮູບພາບຕ້ອງນ້ອຍກວ່າ 5 MB
+Import,ນຳເຂົ້າ
+Import existing projects and tasks from Frappe Projects module,ນຳເຂົ້າໂຄງການ ແລະ ໜ້າວຽກທີ່ມີຢູ່ຈາກໂມດູນ Frappe Projects
+Import failed,ການນຳເຂົ້າລົ້ມເຫຼວ
+Import Template,ນຳເຂົ້າແມ່ແບບ
+Imported,ນຳເຂົ້າແລ້ວ
+in,ໃນ
+In Progress,ກຳລັງດຳເນີນ
+In Review,ກຳລັງກວດສອບ
+In-app notifications,ການແຈ້ງເຕືອນໃນແອັບ
+Inactive,ບໍ່ເປີດໃຊ້ງານ
+Initial Review,ການກວດສອບເບື້ອງຕົ້ນ
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,ສິດບໍ່ພຽງພໍເພື່ອເບິ່ງໜ້າວຽກທັງໝົດ
+Intermediate,ລະດັບກາງ
+Internal,ພາຍໃນ
+Invalid DocType,DocType ບໍ່ຖືກຕ້ອງ
+Invalid DocType for import,DocType ບໍ່ຖືກຕ້ອງສຳລັບການນຳເຂົ້າ
+Invalid item type: {0},ປະເພດລາຍການບໍ່ຖືກຕ້ອງ: {0}
+Invalid JSON data,ຂໍ້ມູນ JSON ບໍ່ຖືກຕ້ອງ
+Invalid note type. Must be one of: {0},ປະເພດບັນທຶກບໍ່ຖືກຕ້ອງ. ຕ້ອງເປັນໜຶ່ງໃນ: {0}
+Invalid project reference,ການອ້າງອິງໂຄງການບໍ່ຖືກຕ້ອງ
+Invalid reaction type. Must be one of: {0},ປະເພດປະຕິກິລິຍາບໍ່ຖືກຕ້ອງ. ຕ້ອງເປັນໜຶ່ງໃນ: {0}
+Invalid RSVP status,ສະຖານະ RSVP ບໍ່ຖືກຕ້ອງ
+Invalid status. Must be one of: {0},ສະຖານະບໍ່ຖືກຕ້ອງ. ຕ້ອງເປັນໜຶ່ງໃນ: {0}
+Invalid status: {0},ສະຖານະບໍ່ຖືກຕ້ອງ: {0}
+Invalid status: {0}. Must be one of: {1},ສະຖານະບໍ່ຖືກຕ້ອງ: {0}. ຕ້ອງເປັນໜຶ່ງໃນ: {1}
+Invalid tracking context: {0},ບໍລິບົດການຕິດຕາມບໍ່ຖືກຕ້ອງ: {0}
+Invalid visibility. Must be one of: {0},ການເບິ່ງເຫັນບໍ່ຖືກຕ້ອງ. ຕ້ອງເປັນໜຶ່ງໃນ: {0}
+Invitation: {0} - {1} at {2},ຄຳເຊີນ: {0} - {1} ທີ່ {2}
+Invite People,ເຊີນຄົນ
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,ເພີ່ມລາຍການແລ້ວ
+Item ID is required,ຕ້ອງລະບຸ ID ລາຍການ
+Item removed,ລຶບລາຍການແລ້ວ
+Item type is required,ຕ້ອງລະບຸປະເພດລາຍການ
+Item {0} not found,ບໍ່ພົບລາຍການ {0}
+Job title or role,ຕຳແໜ່ງ ຫຼື ບົດບາດ
+Join Meeting,ເຂົ້າຮ່ວມການປະຊຸມ
+Just now,ຫາກໍ
+just now,ຫາກໍ
+Kanban,Kanban
+Kanban Board,ກະດານ Kanban
+Kanban View,ມຸມມອງ Kanban
+Keyboard Shortcuts,ທາງລັດແປ້ນພິມ
+Keyboard shortcuts (?),ທາງລັດແປ້ນພິມ (?)
+Last checked: {0},Last checked: {0}
+Last Updated,ອັບເດດລ່າສຸດ
+Last updated:,ອັບເດດລ່າສຸດ:
+Last Week,ອາທິດທີ່ຜ່ານມາ
+Latest Version,Latest Version
+Light,ສະຫວ່າງ
+Link failed,ການເຊື່ອມຕໍ່ລົ້ມເຫຼວ
+Link Task,ເຊື່ອມຕໍ່ໜ້າວຽກ
+Linked,ເຊື່ອມຕໍ່ແລ້ວ
+Linked employee not found,ບໍ່ພົບພະນັກງານທີ່ເຊື່ອມຕໍ່
+Linked Tasks,ໜ້າວຽກທີ່ເຊື່ອມຕໍ່
+List,ລາຍການ
+List View,ມຸມມອງລາຍການ
+Load failed,ການໂຫຼດລົ້ມເຫຼວ
+Load More,ໂຫຼດເພີ່ມ
+Load more comments,ໂຫຼດຄຳເຫັນເພີ່ມ
+Loading activity...,ກຳລັງໂຫຼດກິດຈະກຳ...
+Loading changes...,ກຳລັງໂຫຼດການປ່ຽນແປງ...
+Loading checklist...,ກຳລັງໂຫຼດລາຍການກວດກາ...
+Loading comments...,ກຳລັງໂຫຼດຄຳເຫັນ...
+Loading contact...,ກຳລັງໂຫຼດຜູ້ຕິດຕໍ່...
+Loading contacts...,ກຳລັງໂຫຼດຜູ້ຕິດຕໍ່...
+Loading dependencies...,ກຳລັງໂຫຼດການເພິ່ງພາ...
+Loading details...,ກຳລັງໂຫຼດລາຍລະອຽດ...
+Loading discussion...,ກຳລັງໂຫຼດການສົນທະນາ...
+Loading events...,ກຳລັງໂຫຼດເຫດການ...
+Loading files...,ກຳລັງໂຫຼດໄຟລ໌...
+Loading notes...,ກຳລັງໂຫຼດບັນທຶກ...
+Loading preferences...,ກຳລັງໂຫຼດການຕັ້ງຄ່າ...
+Loading project...,ກຳລັງໂຫຼດໂຄງການ...
+Loading projects...,ກຳລັງໂຫຼດໂຄງການ...
+Loading replies...,ກຳລັງໂຫຼດການຕອບ...
+Loading report data...,ກຳລັງໂຫຼດຂໍ້ມູນລາຍງານ...
+Loading settings...,ກຳລັງໂຫຼດການຕັ້ງຄ່າ...
+Loading task...,ກຳລັງໂຫຼດໜ້າວຽກ...
+Loading templates...,ກຳລັງໂຫຼດແມ່ແບບ...
+Loading time logs...,ກຳລັງໂຫຼດບັນທຶກເວລາ...
+Loading your portal...,ກຳລັງໂຫຼດພອລ໌ທອນຂອງທ່ານ...
+Loading...,ກຳລັງໂຫຼດ...
+Location,ສະຖານທີ່
+Log Time,ບັນທຶກເວລາ
+Logout,ອອກຈາກລະບົບ
+Low,ຕ່ຳ
+Make Offer,ສ້າງຂໍ້ສະເໜີ
+Manager,ຜູ້ຈັດການ
+Manual Entry,ປ້ອນດ້ວຍມື
+Margin,ກຳໄລ
+Mark all as read,ໝາຍທັງໝົດວ່າອ່ານແລ້ວ
+Mark all read,ໝາຍອ່ານແລ້ວທັງໝົດ
+Mark as read,ໝາຍວ່າອ່ານແລ້ວ
+Mark as unread,ໝາຍວ່າຍັງບໍ່ໄດ້ອ່ານ
+Mark read,ໝາຍອ່ານແລ້ວ
+Marking...,ກຳລັງໝາຍ...
+Material,ວັດສະດຸ
+Maybe,ບາງທີ
+Medium,ປານກາງ
+Meeting,ການປະຊຸມ
+Meeting Link,ລິ້ງການປະຊຸມ
+Meeting title,ຫົວຂໍ້ການປະຊຸມ
+Meeting URL,URL ການປະຊຸມ
+Meetings,ການປະຊຸມ
+Mention,ກ່າວເຖິງ
+Message,ຂໍ້ຄວາມ
+Message is required,ຕ້ອງລະບຸຂໍ້ຄວາມ
+Message is required for '{0}' action,ຕ້ອງລະບຸຂໍ້ຄວາມສຳລັບການກະທຳ '{0}'
+Migrate,ຍ້າຍຂໍ້ມູນ
+Migration Complete,ການຍ້າຍຂໍ້ມູນສຳເລັດ
+Migration ID:,ID ການຍ້າຍຂໍ້ມູນ:
+Migration log not found: {0},ບໍ່ພົບບັນທຶກການຍ້າຍຂໍ້ມູນ: {0}
+milestone,ຈຸດໝາຍ
+Milestone,ຈຸດໝາຍ
+Milestone created,ສ້າງຈຸດໝາຍແລ້ວ
+Milestone description has been saved.,ບັນທຶກລາຍລະອຽດຈຸດໝາຍແລ້ວ.
+Milestone ID is required,ຕ້ອງລະບຸ ID ຈຸດໝາຍ
+Milestone marked as Missed (past due date),ໝາຍຈຸດໝາຍເປັນພາດ (ເກີນກຳນົດ)
+Milestone moved,ຍ້າຍຈຸດໝາຍແລ້ວ
+Milestone Name,ຊື່ຈຸດໝາຍ
+Milestone name has been saved.,ບັນທຶກຊື່ຈຸດໝາຍແລ້ວ.
+Milestone name is required,ຕ້ອງລະບຸຊື່ຈຸດໝາຍ
+Milestone updated,ອັບເດດຈຸດໝາຍແລ້ວ
+Milestone {0} not found,ບໍ່ພົບຈຸດໝາຍ {0}
+Milestone {0} not in project {1},ຈຸດໝາຍ {0} ບໍ່ຢູ່ໃນໂຄງການ {1}
+milestones,ຈຸດໝາຍ
+Milestones,ຈຸດໝາຍ
+Milestones:,ຈຸດໝາຍ:
+Minutes,ນາທີ
+Missed,ພາດ
+Mixed,ປະສົມ
+Mobile,ມືຖື
+Moderate,ປານກາງ
+Modified,ແກ້ໄຂແລ້ວ
+"Modify details, time, or attendees","ແກ້ໄຂລາຍລະອຽດ, ເວລາ, ຫຼື ຜູ້ເຂົ້າຮ່ວມ"
+Mon,ຈັນ
+Month,ເດືອນ
+Move failed,ການຍ້າຍລົ້ມເຫຼວ
+Must be a positive number,ຕ້ອງເປັນຈຳນວນບວກ
+Must finish before this finishes,ຕ້ອງສິ້ນສຸດກ່ອນທີ່ນີ້ຈະສິ້ນສຸດ
+Must finish before this starts,ຕ້ອງສິ້ນສຸດກ່ອນທີ່ນີ້ຈະເລີ່ມ
+Must start before this finishes,ຕ້ອງເລີ່ມກ່ອນທີ່ນີ້ຈະສິ້ນສຸດ
+Must start before this starts,ຕ້ອງເລີ່ມກ່ອນທີ່ນີ້ຈະເລີ່ມ
+My Assignments,ການມອບໝາຍຂອງຂ້ອຍ
+My Projects,ໂຄງການຂອງຂ້ອຍ
+My Schedule,ຕາຕະລາງຂອງຂ້ອຍ
+My Tasks,ໜ້າວຽກຂອງຂ້ອຍ
+N/A,ບໍ່ມີ
+Name,ຊື່
+Name (A-Z),ຊື່ (A-Z)
+Name (Z-A),ຊື່ (Z-A)
+Name cannot exceed 255 characters,ຊື່ບໍ່ສາມາດເກີນ 255 ຕົວອັກສອນ
+Need help?,ຕ້ອງການຄວາມຊ່ວຍເຫຼືອ?
+Needs Attention,ຕ້ອງການເອົາໃຈໃສ່
+Never,Never
+new activities,ກິດຈະກຳໃໝ່
+New Activity,ກິດຈະກຳໃໝ່
+New activity,ກິດຈະກຳໃໝ່
+New Event,ເຫດການໃໝ່
+New index is required,ຕ້ອງລະບຸດັດສະນີໃໝ່
+New Project,ໂຄງການໃໝ່
+New tasks will auto-trail by default.,ໜ້າວຽກໃໝ່ຈະຕິດຕາມອັດຕະໂນມັດຕາມຄ່າເລີ່ມຕົ້ນ.
+Newest First,ໃໝ່ສຸດກ່ອນ
+Next,ຖັດໄປ
+Next 14 days,14 ມື້ຖັດໄປ
+Next 30 days,30 ມື້ຖັດໄປ
+Next 60 days,60 ມື້ຖັດໄປ
+Next 7 days,7 ມື້ຖັດໄປ
+Next 90 days,90 ມື້ຖັດໄປ
+Next Week,ອາທິດໜ້າ
+Next:,ຖັດໄປ:
+No,ບໍ່
+No active assignments,ບໍ່ມີການມອບໝາຍທີ່ເປີດໃຊ້ງານ
+No active projects,ບໍ່ມີໂຄງການທີ່ເປີດໃຊ້ງານ
+No active timer found,ບໍ່ພົບໂມງຈັບເວລາທີ່ເປີດໃຊ້ງານ
+No activity selected,ບໍ່ໄດ້ເລືອກກິດຈະກຳ
+No assignments found,ບໍ່ພົບການມອບໝາຍ
+No attendees,ບໍ່ມີຜູ້ເຂົ້າຮ່ວມ
+no change,ບໍ່ມີການປ່ຽນແປງ
+No changes for this field.,ບໍ່ມີການປ່ຽນແປງສຳລັບຊ່ອງນີ້.
+No changes recorded for this activity.,ບໍ່ມີການປ່ຽນແປງທີ່ບັນທຶກໄວ້ສຳລັບກິດຈະກຳນີ້.
+No checklist items yet,ຍັງບໍ່ມີລາຍການກວດກາ
+No checklist items yet.,ຍັງບໍ່ມີລາຍການກວດກາ.
+No comments yet,ຍັງບໍ່ມີຄຳເຫັນ
+No comments yet.,ຍັງບໍ່ມີຄຳເຫັນ.
+No contacts available,ບໍ່ມີຜູ້ຕິດຕໍ່ທີ່ພ້ອມ
+No content for this tab,ບໍ່ມີເນື້ອໃນສຳລັບແຖບນີ້
+No data available,ບໍ່ມີຂໍ້ມູນ
+No data available for the selected filters,ບໍ່ມີຂໍ້ມູນສຳລັບຕົວກອງທີ່ເລືອກ
+No data to export,ບໍ່ມີຂໍ້ມູນສຳລັບສົ່ງອອກ
+No dates set,ຍັງບໍ່ໄດ້ຕັ້ງວັນທີ
+No defects reported,ບໍ່ມີຂໍ້ບົກພ່ອງທີ່ລາຍງານ
+No dependencies defined,ບໍ່ມີການເພິ່ງພາທີ່ກຳນົດ
+No description,ບໍ່ມີລາຍລະອຽດ
+No discussion yet.,ຍັງບໍ່ມີການສົນທະນາ.
+No documents attached,ບໍ່ມີເອກະສານແນບ
+No due date,ບໍ່ມີວັນທີກຳນົດ
+No employee linked to this resource,ບໍ່ມີພະນັກງານເຊື່ອມຕໍ່ກັບຊັບພະຍາກອນນີ້
+No ERPNext employee linked to resource,ບໍ່ມີພະນັກງານ ERPNext ເຊື່ອມຕໍ່ກັບຊັບພະຍາກອນ
+No events found,ບໍ່ພົບເຫດການ
+No files attached yet.,ຍັງບໍ່ໄດ້ແນບໄຟລ໌.
+No Frappe Project linked,ບໍ່ມີ Frappe Project ທີ່ເຊື່ອມຕໍ່
+No Grouping,ບໍ່ຈັດກຸ່ມ
+No items,ບໍ່ມີລາຍການ
+No matching tasks,ບໍ່ມີໜ້າວຽກທີ່ກົງກັນ
+No matching tasks found,ບໍ່ພົບໜ້າວຽກທີ່ກົງກັນ
+No migration history,ບໍ່ມີປະຫວັດການຍ້າຍຂໍ້ມູນ
+No Milestone,ບໍ່ມີຈຸດໝາຍ
+No milestones,ບໍ່ມີຈຸດໝາຍ
+No milestones defined for this project.,ບໍ່ມີຈຸດໝາຍທີ່ກຳນົດສຳລັບໂຄງການນີ້.
+No notes yet.,ຍັງບໍ່ມີບັນທຶກ.
+No notes yet. Add a due diligence note to track progress.,ຍັງບໍ່ມີບັນທຶກ. ເພີ່ມບັນທຶກກວດສອບຄວາມຮອບຄອບເພື່ອຕິດຕາມຄວາມຄືບໜ້າ.
+No notifications,ບໍ່ມີການແຈ້ງເຕືອນ
+No Orga Project linked to Frappe Project {0},ບໍ່ມີ Orga Project ເຊື່ອມຕໍ່ກັບ Frappe Project {0}
+No overdue tasks,ບໍ່ມີໜ້າວຽກທີ່ເກີນກຳນົດ
+No pending cascade changes,ບໍ່ມີການປ່ຽນແປງການສືບທອດທີ່ຄ້າງ
+No predecessors - this task can start independently,ບໍ່ມີໜ້າວຽກກ່ອນໜ້າ - ໜ້າວຽກນີ້ສາມາດເລີ່ມຕົ້ນໄດ້ດ້ວຍຕົນເອງ
+No project,ບໍ່ມີໂຄງການ
+No projects found,ບໍ່ພົບໂຄງການ
+No Projects Yet,ຍັງບໍ່ມີໂຄງການ
+No recent activity,ບໍ່ມີກິດຈະກຳຫຼ້າສຸດ
+No related documents,ບໍ່ມີເອກະສານທີ່ກ່ຽວຂ້ອງ
+No resolved threads.,ບໍ່ມີກະທູ້ທີ່ແກ້ໄຂແລ້ວ.
+No resources found,ບໍ່ພົບຊັບພະຍາກອນ
+No results found,ບໍ່ພົບຜົນຮັບ
+No skills listed,ບໍ່ມີທັກສະລະບຸ
+No skills recorded yet,ຍັງບໍ່ໄດ້ບັນທຶກທັກສະ
+No successors - no tasks are waiting for this one,ບໍ່ມີໜ້າວຽກຕໍ່ໄປ - ບໍ່ມີໜ້າວຽກລໍຖ້າໜ້າວຽກນີ້
+No task selected,ບໍ່ໄດ້ເລືອກໜ້າວຽກ
+No tasks assigned to you,ບໍ່ມີໜ້າວຽກທີ່ມອບໝາຍໃຫ້ທ່ານ
+No tasks available to add,ບໍ່ມີໜ້າວຽກທີ່ພ້ອມເພີ່ມ
+No tasks found,ບໍ່ພົບໜ້າວຽກ
+No tasks linked to this milestone,ບໍ່ມີໜ້າວຽກເຊື່ອມຕໍ່ກັບຈຸດໝາຍນີ້
+No tasks with dates to display,ບໍ່ມີໜ້າວຽກທີ່ມີວັນທີສະແດງ
+No tasks yet,ຍັງບໍ່ມີໜ້າວຽກ
+No team members,ບໍ່ມີສະມາຊິກທີມ
+No template,ບໍ່ມີແມ່ແບບ
+No templates yet,ຍັງບໍ່ມີແມ່ແບບ
+No time data found,ບໍ່ພົບຂໍ້ມູນເວລາ
+No time logged today,ບໍ່ມີການບັນທຶກເວລາມື້ນີ້
+No time logged yet,ຍັງບໍ່ມີການບັນທຶກເວລາ
+No time logs for this period,ບໍ່ມີບັນທຶກເວລາສຳລັບໄລຍະນີ້
+No time logs found,ບໍ່ພົບບັນທຶກເວລາ
+No unread notifications,ບໍ່ມີການແຈ້ງເຕືອນທີ່ຍັງບໍ່ໄດ້ອ່ານ
+No update information available yet.,No update information available yet.
+None,ບໍ່ມີ
+Not found,ບໍ່ພົບ
+Not permitted,ບໍ່ໄດ້ຮັບອະນຸຍາດ
+Not permitted to access this project,ບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ເຂົ້າເຖິງໂຄງການນີ້
+Not permitted to access this task,ບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ເຂົ້າເຖິງໜ້າວຽກນີ້
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,ບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ສະແດງຄວາມຄິດເຫັນໃນເອກະສານນີ້
+Not permitted to create clients,ບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ສ້າງລູກຄ້າ
+Not permitted to delete this client,ບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ລຶບລູກຄ້ານີ້
+Not permitted to delete this defect,ບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ລຶບຂໍ້ບົກພ່ອງນີ້
+Not permitted to delete this note,ບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ລຶບບັນທຶກນີ້
+Not permitted to delete this project,ບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ລຶບໂຄງການນີ້
+Not permitted to delete this task,ບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ລຶບໜ້າວຽກນີ້
+Not permitted to delete this time log,ບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ລຶບບັນທຶກເວລານີ້
+Not permitted to invite clients,ບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ເຊີນລູກຄ້າ
+Not permitted to modify client access,ບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ແກ້ໄຂສິດເຂົ້າເຖິງລູກຄ້າ
+Not permitted to modify this project,ບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ແກ້ໄຂໂຄງການນີ້
+Not permitted to update settings,ບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ອັບເດດການຕັ້ງຄ່າ
+Not permitted to update this client,ບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ອັບເດດລູກຄ້ານີ້
+Not permitted to view this client,ບໍ່ໄດ້ຮັບອະນຸຍາດໃຫ້ເບິ່ງລູກຄ້ານີ້
+not sent,ບໍ່ໄດ້ສົ່ງ
+Not set,ຍັງບໍ່ໄດ້ຕັ້ງ
+Not specified,ບໍ່ໄດ້ລະບຸ
+Note,ບັນທຶກ
+Note (optional),ບັນທຶກ (ບໍ່ບັງຄັບ)
+Note Content,ເນື້ອໃນບັນທຶກ
+Note content is required,ຕ້ອງລະບຸເນື້ອໃນບັນທຶກ
+Note name is required,ຕ້ອງລະບຸຊື່ບັນທຶກ
+Note not found,ບໍ່ພົບບັນທຶກ
+Note Type,ປະເພດບັນທຶກ
+Notes,ບັນທຶກ
+Notification,ການແຈ້ງເຕືອນ
+Notification not found,ບໍ່ພົບການແຈ້ງເຕືອນ
+Notifications,ການແຈ້ງເຕືອນ
+Off Track,ນອກເສັ້ນທາງ
+Offer,ຂໍ້ສະເໜີ
+Offer Prepared,ກະກຽມຂໍ້ສະເໜີແລ້ວ
+Oldest First,ເກົ່າສຸດກ່ອນ
+On Hold,ລໍຖ້າ
+On Leave,ລາພັກ
+On Track,ຕາມແຜນ
+On-Time Rate,ອັດຕາກົງເວລາ
+Only administrators can delete activities,ມີແຕ່ຜູ້ບໍລິຫານເທົ່ານັ້ນທີ່ສາມາດລຶບກິດຈະກຳ
+Only the comment author or administrators can delete comments,ມີແຕ່ຜູ້ຂຽນຄຳເຫັນ ຫຼື ຜູ້ບໍລິຫານເທົ່ານັ້ນທີ່ສາມາດລຶບຄຳເຫັນ
+Only you and admins,ມີແຕ່ທ່ານ ແລະ ຜູ້ບໍລິຫານ
+Open,ເປີດ
+Open in Desk,ເປີດໃນ Desk
+Open Task Log,ເປີດບັນທຶກໜ້າວຽກ
+Open Tasks,ໜ້າວຽກທີ່ເປີດ
+Optional,ບໍ່ບັງຄັບ
+optional,ບໍ່ບັງຄັບ
+Or email us directly at,ຫຼື ສົ່ງອີເມວຫາພວກເຮົາໂດຍກົງທີ່
+Orga Project {0} from Frappe Projects,Orga Project {0} ຈາກ Frappe Projects
+Orga Task {0} from Frappe,Orga Task {0} ຈາກ Frappe
+Organizer,ຜູ້ຈັດ
+Other,ອື່ນໆ
+Over Budget,ເກີນງົບປະມານ
+Overall Progress,ຄວາມຄືບໜ້າລວມ
+Overall Utilization,ການໃຊ້ງານລວມ
+Overallocated,ຈັດສັນເກີນ
+Overdue,ເກີນກຳນົດ
+overdue,ເກີນກຳນົດ
+Overdue Tasks,ໜ້າວຽກທີ່ເກີນກຳນົດ
+Overview,ພາບລວມ
+Owner,ເຈົ້າຂອງ
+Page Not Found,ບໍ່ພົບໜ້າ
+Parent,ພໍ່ແມ່
+Parent comment must belong to the same document,ຄຳເຫັນພໍ່ແມ່ຕ້ອງເປັນຂອງເອກະສານດຽວກັນ
+Parent comment not found,ບໍ່ພົບຄຳເຫັນພໍ່ແມ່
+Parent project not synced to Frappe yet,ໂຄງການພໍ່ແມ່ຍັງບໍ່ໄດ້ຊິ້ງກັບ Frappe
+Parent project sync not enabled,ການຊິ້ງໂຄງການພໍ່ແມ່ບໍ່ໄດ້ເປີດໃຊ້ງານ
+Partner,ຄູ່ຮ່ວມ
+Pending,ຄ້າງຢູ່
+per page,ຕໍ່ໜ້າ
+Perform initial assessment and background check,ດຳເນີນການປະເມີນເບື້ອງຕົ້ນ ແລະ ກວດສອບປະຫວັດ
+Permanently remove this event,ລຶບເຫດການນີ້ຖາວອນ
+Permanently remove this task,ລຶບໜ້າວຽກນີ້ຖາວອນ
+Phone,ໂທລະສັບ
+Pin,ປັກໝຸດ
+Pin Activity,ປັກໝຸດກິດຈະກຳ
+Pin to top,ປັກໝຸດຂຶ້ນເທິງ
+Pinned,ປັກໝຸດແລ້ວ
+Planned budget for this task,ງົບປະມານທີ່ວາງແຜນໄວ້ສຳລັບໜ້າວຽກນີ້
+Planning,ການວາງແຜນ
+Please describe your question or issue in detail...,ກະລຸນາອະທິບາຍຄຳຖາມ ຫຼື ບັນຫາຂອງທ່ານຢ່າງລະອຽດ...
+Please login to access Orga,ກະລຸນາເຂົ້າສູ່ລະບົບເພື່ອເຂົ້າເຖິງ Orga
+Please login to access the client portal,ກະລຸນາເຂົ້າສູ່ລະບົບເພື່ອເຂົ້າເຖິງພອລ໌ທອນລູກຄ້າ
+Please respond to this invitation in Orga,ກະລຸນາຕອບກັບຄຳເຊີນນີ້ໃນ Orga
+Please select an image file,ກະລຸນາເລືອກໄຟລ໌ຮູບພາບ
+Please try again,ກະລຸນາລອງໃໝ່
+Please type,ກະລຸນາພິມ
+Portal,ພອລ໌ທອນ
+Portal access revoked for {0},ຖອນສິດເຂົ້າເຖິງພອລ໌ທອນສຳລັບ {0} ແລ້ວ
+Portal user created successfully. Welcome email {0},ສ້າງຜູ້ໃຊ້ພອລ໌ທອນສຳເລັດ. ອີເມວຕ້ອນຮັບ {0}
+Post,ໂພສ
+Powered by,ຂັບເຄື່ອນໂດຍ
+Powered by Tonic,ຂັບເຄື່ອນໂດຍ Tonic
+Predecessors (Blocked By),ໜ້າວຽກກ່ອນໜ້າ (ຖືກບລ໋ອກໂດຍ)
+Preferences,ການຕັ້ງຄ່າ
+Preferences saved successfully,ບັນທຶກການຕັ້ງຄ່າສຳເລັດແລ້ວ
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",ຄຳນຳໜ້າສຳລັບລະຫັດໂຄງການອັດຕະໂນມັດ (ເຊັ່ນ: ORG-2026-0001)
+Prepare and document offer terms,ກະກຽມ ແລະ ບັນທຶກເງື່ອນໄຂຂໍ້ສະເໜີ
+Press,ກົດ
+Preview,ເບິ່ງຕົວຢ່າງ
+Preview cascade before applying,ເບິ່ງຕົວຢ່າງການສືບທອດກ່ອນນຳໃຊ້
+Previous,ກ່ອນໜ້າ
+Priority,ລຳດັບຄວາມສຳຄັນ
+Priority assigned to new tasks,ລຳດັບຄວາມສຳຄັນທີ່ມອບໝາຍໃຫ້ໜ້າວຽກໃໝ່
+Priority updated,ອັບເດດລຳດັບຄວາມສຳຄັນແລ້ວ
+Proficiency,ຄວາມຊ່ຽວຊານ
+Profile,ໂປຣໄຟລ໌
+Progress,ຄວາມຄືບໜ້າ
+Progress (High-Low),ຄວາມຄືບໜ້າ (ສູງ-ຕ່ຳ)
+Progress (Low-High),ຄວາມຄືບໜ້າ (ຕ່ຳ-ສູງ)
+Progress Overview,ພາບລວມຄວາມຄືບໜ້າ
+Progress updated,ອັບເດດຄວາມຄືບໜ້າແລ້ວ
+Project,ໂຄງການ
+Project budget has been saved.,ບັນທຶກງົບປະມານໂຄງການແລ້ວ.
+Project code (e.g. ORG-2026-0001),ລະຫັດໂຄງການ (ເຊັ່ນ: ORG-2026-0001)
+Project Code Prefix,ຄຳນຳໜ້າລະຫັດໂຄງການ
+Project created,ສ້າງໂຄງການແລ້ວ
+Project deleted,ລຶບໂຄງການແລ້ວ
+Project description has been saved.,ບັນທຶກລາຍລະອຽດໂຄງການແລ້ວ.
+Project Details,ລາຍລະອຽດໂຄງການ
+Project end date has been saved.,ບັນທຶກວັນທີສິ້ນສຸດໂຄງການແລ້ວ.
+Project Files,ໄຟລ໌ໂຄງການ
+Project has no linked client,ໂຄງການບໍ່ມີລູກຄ້າເຊື່ອມຕໍ່
+Project Health,ສຸຂະພາບໂຄງການ
+Project Info,ຂໍ້ມູນໂຄງການ
+Project is required,ຕ້ອງລະບຸໂຄງການ
+Project is required for project context,ຕ້ອງມີໂຄງການສຳລັບບໍລິບົດໂຄງການ
+Project is required when tracking context is 'project',ຕ້ອງມີໂຄງການເມື່ອບໍລິບົດການຕິດຕາມເປັນ 'ໂຄງການ'
+Project Manager,ຜູ້ຈັດການໂຄງການ
+Project Name,ຊື່ໂຄງການ
+Project name and template name are required,ຕ້ອງລະບຸຊື່ໂຄງການ ແລະ ຊື່ແມ່ແບບ
+Project name is required,ຕ້ອງລະບຸຊື່ໂຄງການ
+Project not found,ບໍ່ພົບໂຄງການ
+Project not found or you do not have access,ບໍ່ພົບໂຄງການ ຫຼື ທ່ານບໍ່ມີສິດເຂົ້າເຖິງ
+Project settings,ການຕັ້ງຄ່າໂຄງການ
+Project start date has been saved.,ບັນທຶກວັນທີເລີ່ມຕົ້ນໂຄງການແລ້ວ.
+Project title has been saved.,ບັນທຶກຫົວຂໍ້ໂຄງການແລ້ວ.
+Project Type,ປະເພດໂຄງການ
+Project updated,ອັບເດດໂຄງການແລ້ວ
+Project {0} linked to client {1},ເຊື່ອມຕໍ່ໂຄງການ {0} ກັບລູກຄ້າ {1} ແລ້ວ
+Project {0} not found,ບໍ່ພົບໂຄງການ {0}
+Project {0} to Frappe Projects,ໂຄງການ {0} ໄປ Frappe Projects
+Project:,ໂຄງການ:
+projects,ໂຄງການ
+Projects,ໂຄງການ
+Projects created:,ໂຄງການທີ່ສ້າງ:
+Projects Overview,ພາບລວມໂຄງການ
+Projects skipped:,ໂຄງການທີ່ຂ້າມ:
+Projects updated:,ໂຄງການທີ່ອັບເດດ:
+Promote failed,ການຍົກລະດັບລົ້ມເຫຼວ
+Promote to task,ຍົກລະດັບເປັນໜ້າວຽກ
+Promoted to task,ຍົກລະດັບເປັນໜ້າວຽກແລ້ວ
+Propose,ສະເໜີ
+Propose New Time,ສະເໜີເວລາໃໝ່
+Propose Time,ສະເໜີເວລາ
+Proposed End,ສິ້ນສຸດທີ່ສະເໜີ
+Proposed Start,ເລີ່ມຕົ້ນທີ່ສະເໜີ
+Public,ສາທາລະນະ
+Quick Action,ການກະທຳດ່ວນ
+Quick Actions,ການກະທຳດ່ວນ
+Quick Stats,ສະຖິຕິໂດຍຫຍໍ້
+Rates,ອັດຕາ
+Receive notifications via email,ຮັບການແຈ້ງເຕືອນຜ່ານອີເມວ
+Receive notifications within the application,ຮັບການແຈ້ງເຕືອນພາຍໃນແອັບ
+Recent Activity,ກິດຈະກຳຫຼ້າສຸດ
+Recipient {0} is not a valid user,ຜູ້ຮັບ {0} ບໍ່ແມ່ນຜູ້ໃຊ້ທີ່ຖືກຕ້ອງ
+Reference,ອ້າງອິງ
+Refresh,ໂຫຼດໃໝ່
+Related,ທີ່ກ່ຽວຂ້ອງ
+Related Company (optional),ບໍລິສັດທີ່ກ່ຽວຂ້ອງ (ບໍ່ບັງຄັບ)
+Related Documents,ເອກະສານທີ່ກ່ຽວຂ້ອງ
+Related Project,ໂຄງການທີ່ກ່ຽວຂ້ອງ
+Remaining,ເຫຼືອ
+Reminder,ການເຕືອນ
+Reminder Lead Time,ເວລານຳການເຕືອນ
+Reminder: {0} - {1} at {2},ການເຕືອນ: {0} - {1} ທີ່ {2}
+Remove,ລຶບອອກ
+Remove dependency,ລຶບການເພິ່ງພາ
+Remove dependency on,ລຶບການເພິ່ງພາຕໍ່
+Remove from group,ລຶບອອກຈາກກຸ່ມ
+Remove group dependency,ລຶບການເພິ່ງພາກຸ່ມ
+Remove skill,ລຶບທັກສະ
+Reopen,ເປີດໃໝ່
+Reopen thread,ເປີດກະທູ້ໃໝ່
+reopened,ເປີດໃໝ່ແລ້ວ
+replies,ການຕອບ
+Reply,ຕອບ
+reply,ຕອບ
+Replying to,ຕອບກັບ
+Replying to comment,ຕອບກັບຄຳເຫັນ
+Report Defect,ລາຍງານຂໍ້ບົກພ່ອງ
+Reported Date,ວັນທີລາຍງານ
+Reports,ລາຍງານ
+Reports To,ລາຍງານຕໍ່
+Request Submitted!,ສົ່ງຄຳຮ້ອງຂໍແລ້ວ!
+Required,ຈຳເປັນ
+required,ຈຳເປັນ
+Research,ການຄົ້ນຄວ້າ
+Reset to Defaults,ຕັ້ງຄ່າກັບຄືນເລີ່ມຕົ້ນ
+Resolve,ແກ້ໄຂ
+Resolve thread,ແກ້ໄຂກະທູ້
+Resolved,ແກ້ໄຂແລ້ວ
+Resolved date cannot be before reported date,ວັນທີແກ້ໄຂບໍ່ສາມາດຢູ່ກ່ອນວັນທີລາຍງານ
+Resource,ຊັບພະຍາກອນ
+Resource and skill name are required,ຕ້ອງລະບຸຊັບພະຍາກອນ ແລະ ຊື່ທັກສະ
+Resource is already an attendee,ຊັບພະຍາກອນເປັນຜູ້ເຂົ້າຮ່ວມແລ້ວ
+Resource name is required,ຕ້ອງລະບຸຊື່ຊັບພະຍາກອນ
+Resource not found,ບໍ່ພົບຊັບພະຍາກອນ
+Resource synced from employee {0},ຊິ້ງຊັບພະຍາກອນຈາກພະນັກງານ {0} ແລ້ວ
+Resource {0} is already assigned to this task ({1}),ຊັບພະຍາກອນ {0} ຖືກມອບໝາຍໃຫ້ໜ້າວຽກນີ້ແລ້ວ ({1})
+Resource {0} not found,ບໍ່ພົບຊັບພະຍາກອນ {0}
+Resources,ຊັບພະຍາກອນ
+Retry,ລອງໃໝ່
+Review,ກວດສອບ
+Review all relevant documents and contracts,ກວດສອບເອກະສານ ແລະ ສັນຍາທີ່ກ່ຽວຂ້ອງທັງໝົດ
+Reviews,ການກວດສອບ
+Risk Assessment,ການປະເມີນຄວາມສ່ຽງ
+Rollback,ຍ້ອນກັບ
+Rolled back,ຍ້ອນກັບແລ້ວ
+Room or address,ຫ້ອງ ຫຼື ທີ່ຢູ່
+RSVP,RSVP
+Safety,ຄວາມປອດໄພ
+Sat,ເສົາ
+Save,ບັນທຶກ
+"Save a project as a template, or import one from a JSON file.","ບັນທຶກໂຄງການເປັນແມ່ແບບ, ຫຼື ນຳເຂົ້າຈາກໄຟລ໌ JSON."
+Save as Template,ບັນທຶກເປັນແມ່ແບບ
+Save Changes,ບັນທຶກການປ່ຽນແປງ
+Save failed,ການບັນທຶກລົ້ມເຫຼວ
+Save Preferences,ບັນທຶກການຕັ້ງຄ່າ
+Save Template,ບັນທຶກແມ່ແບບ
+Saving...,ກຳລັງບັນທຶກ...
+Schedule,ຕາຕະລາງ
+Schedule type is required for scheduled triggers,ຕ້ອງລະບຸປະເພດຕາຕະລາງສຳລັບຕົວກະຕຸ້ນທີ່ກຳນົດ
+Scheduled,ກຳນົດແລ້ວ
+Search,ຄົ້ນຫາ
+"Search by name, email, or skill...","ຄົ້ນຫາຕາມຊື່, ອີເມວ, ຫຼື ທັກສະ..."
+Search for a project...,ຄົ້ນຫາໂຄງການ...
+Search for a task...,ຄົ້ນຫາໜ້າວຽກ...
+Search for an event...,ຄົ້ນຫາເຫດການ...
+Search for people to invite...,ຄົ້ນຫາຄົນເພື່ອເຊີນ...
+Search tasks to link...,ຄົ້ນຫາໜ້າວຽກເພື່ອເຊື່ອມຕໍ່...
+Search tasks...,ຄົ້ນຫາໜ້າວຽກ...
+Search...,ຄົ້ນຫາ...
+Searching...,ກຳລັງຄົ້ນຫາ...
+Seen,ເຫັນແລ້ວ
+Select a project if your request is related to a specific project.,ເລືອກໂຄງການຖ້າຄຳຮ້ອງຂໍຂອງທ່ານກ່ຽວຂ້ອງກັບໂຄງການສະເພາະ.
+Select a project...,ເລືອກໂຄງການ...
+Select a task from the Gantt chart to view and manage its details.,ເລືອກໜ້າວຽກຈາກແຜນภູມິ Gantt ເພື່ອເບິ່ງ ແລະ ຈັດການລາຍລະອຽດ.
+Select a task from the list or Kanban board to view and manage its details.,ເລືອກໜ້າວຽກຈາກລາຍການ ຫຼື ກະດານ Kanban ເພື່ອເບິ່ງ ແລະ ຈັດການລາຍລະອຽດ.
+Select a template...,ເລືອກແມ່ແບບ...
+Select priority...,ເລືອກລຳດັບຄວາມສຳຄັນ...
+Select status...,ເລືອກສະຖານະ...
+Select task...,ເລືອກໜ້າວຽກ...
+Select type...,ເລືອກປະເພດ...
+Selection,ການເລືອກ
+Send,ສົ່ງ
+Send comment,ສົ່ງຄຳເຫັນ
+Send email invitations to attendees,ສົ່ງຄຳເຊີນທາງອີເມວໃຫ້ຜູ້ເຂົ້າຮ່ວມ
+Send Invitations,ສົ່ງຄຳເຊີນ
+Send notification when a task is assigned to a user,ສົ່ງການແຈ້ງເຕືອນເມື່ອໜ້າວຽກຖືກມອບໝາຍໃຫ້ຜູ້ໃຊ້
+Send notification when task status changes,ສົ່ງການແຈ້ງເຕືອນເມື່ອສະຖານະໜ້າວຽກປ່ຽນ
+Send reminder before task due date,ສົ່ງການເຕືອນກ່ອນວັນທີກຳນົດໜ້າວຽກ
+sent,ສົ່ງແລ້ວ
+Set rate,ຕັ້ງອັດຕາ
+Settings,ການຕັ້ງຄ່າ
+Settings saved successfully,ບັນທຶກການຕັ້ງຄ່າສຳເລັດແລ້ວ
+Severity,ຄວາມຮ້າຍແຮງ
+SF (Start-Finish),SF (ເລີ່ມຕົ້ນ-ສິ້ນສຸດ)
+SF - Start-to-Finish,SF - ເລີ່ມຕົ້ນ-ຫາ-ສິ້ນສຸດ
+Show,ສະແດງ
+Show all,ສະແດງທັງໝົດ
+Show all changes,ສະແດງການປ່ຽນແປງທັງໝົດ
+Show Archived,ສະແດງທີ່ເກັບມ້ຽນ
+Show full diff,ສະແດງຄວາມແຕກຕ່າງທັງໝົດ
+Show less,ສະແດງໜ້ອຍລົງ
+Show more,ສະແດງເພີ່ມ
+Skill added,ເພີ່ມທັກສະແລ້ວ
+Skill is required,ຕ້ອງລະບຸທັກສະ
+Skill Name,ຊື່ທັກສະ
+Skill removed,ລຶບທັກສະແລ້ວ
+Skill {0} already exists for this resource,ທັກສະ {0} ມີຢູ່ແລ້ວສຳລັບຊັບພະຍາກອນນີ້
+Skills,ທັກສະ
+Skills & Competencies,ທັກສະ ແລະ ຄວາມສາມາດ
+Skip already migrated projects,ຂ້າມໂຄງການທີ່ຍ້າຍຂໍ້ມູນແລ້ວ
+Sort by,ຈັດລຽງຕາມ
+Sort: Due Date,ຈັດລຽງ: ວັນທີກຳນົດ
+Sort: Priority,ຈັດລຽງ: ລຳດັບຄວາມສຳຄັນ
+Sort: Project,ຈັດລຽງ: ໂຄງການ
+Sort: Status,ຈັດລຽງ: ສະຖານະ
+Sort: Task,ຈັດລຽງ: ໜ້າວຽກ
+Source Code,ລະຫັດແຫຼ່ງ
+Spent,ໃຊ້ໄປ
+Spent:,ໃຊ້ໄປ:
+SS (Start-Start),SS (ເລີ່ມຕົ້ນ-ເລີ່ມຕົ້ນ)
+SS - Start-to-Start,SS - ເລີ່ມຕົ້ນ-ຫາ-ເລີ່ມຕົ້ນ
+Standalone,ເອກະລາດ
+Start,ເລີ່ມຕົ້ນ
+Start a discussion below,ເລີ່ມການສົນທະນາດ້ານລຸ່ມ
+Start Date,ວັນທີເລີ່ມຕົ້ນ
+Start date,ວັນທີເລີ່ມຕົ້ນ
+Start Date (Earliest),ວັນທີເລີ່ມຕົ້ນ (ໄວສຸດ)
+Start date updated,ອັບເດດວັນທີເລີ່ມຕົ້ນແລ້ວ
+Start date/time is required,ຕ້ອງລະບຸວັນທີ/ເວລາເລີ່ມຕົ້ນ
+Start Migration,ເລີ່ມການຍ້າຍຂໍ້ມູນ
+Start the conversation below.,ເລີ່ມການສົນທະນາດ້ານລຸ່ມ.
+Start Timer,ເລີ່ມຈັບເວລາ
+Start typing to search...,ເລີ່ມພິມເພື່ອຄົ້ນຫາ...
+Start-to-Finish,ເລີ່ມຕົ້ນ-ຫາ-ສິ້ນສຸດ
+Start-to-Start,ເລີ່ມຕົ້ນ-ຫາ-ເລີ່ມຕົ້ນ
+Start:,ເລີ່ມຕົ້ນ:
+Statistics reset,ຕັ້ງສະຖິຕິໃໝ່ແລ້ວ
+Status,ສະຖານະ
+Status assigned to new projects,ສະຖານະທີ່ມອບໝາຍໃຫ້ໂຄງການໃໝ່
+Status assigned to new tasks,ສະຖານະທີ່ມອບໝາຍໃຫ້ໜ້າວຽກໃໝ່
+Status Changes,ການປ່ຽນແປງສະຖານະ
+Status updated,ອັບເດດສະຖານະແລ້ວ
+Status:,ສະຖານະ:
+Stop,ຢຸດ
+Stop & Save,ຢຸດ ແລະ ບັນທຶກ
+Stop Timer,ຢຸດຈັບເວລາ
+Stops current timer and starts for this event,ຢຸດໂມງຈັບເວລາປັດຈຸບັນ ແລະ ເລີ່ມສຳລັບເຫດການນີ້
+Stops current timer and starts for this task,ຢຸດໂມງຈັບເວລາປັດຈຸບັນ ແລະ ເລີ່ມສຳລັບໜ້າວຽກນີ້
+Subject,ຫົວຂໍ້
+Subject cannot exceed 255 characters,ຫົວຂໍ້ບໍ່ສາມາດເກີນ 255 ຕົວອັກສອນ
+Subject is required,ຕ້ອງລະບຸຫົວຂໍ້
+Submit,ສົ່ງ
+Submit Another Request,ສົ່ງຄຳຮ້ອງຂໍອື່ນ
+Submit Request,ສົ່ງຄຳຮ້ອງຂໍ
+Submitting...,ກຳລັງສົ່ງ...
+Successfully saved,ບັນທຶກສຳເລັດ
+Successors (Blocking),ໜ້າວຽກຕໍ່ໄປ (ກຳລັງບລ໋ອກ)
+Sun,ອາທິດ
+Supplier,ຜູ້ສະໜອງ
+Support,ການຊ່ວຍເຫຼືອ
+Switch to this event,ສະລັບໄປເຫດການນີ້
+Switch to this task,ສະລັບໄປໜ້າວຽກນີ້
+Sync direction is set to Frappe to Orga only,ທິດທາງການຊິ້ງຕັ້ງເປັນ Frappe ໄປ Orga ເທົ່ານັ້ນ
+Sync direction is set to Orga to Frappe only,ທິດທາງການຊິ້ງຕັ້ງເປັນ Orga ໄປ Frappe ເທົ່ານັ້ນ
+Sync not enabled for this project,ການຊິ້ງບໍ່ໄດ້ເປີດໃຊ້ງານສຳລັບໂຄງການນີ້
+System,ລະບົບ
+Table,ຕາຕະລາງ
+Take ownership of this task,ຮັບເອົາໜ້າວຽກນີ້
+Target Date,ວັນທີເປົ້າໝາຍ
+Target End,ສິ້ນສຸດເປົ້າໝາຍ
+Target Project,ໂຄງການເປົ້າໝາຍ
+Target user is required for '{0}' action,ຕ້ອງລະບຸຜູ້ໃຊ້ເປົ້າໝາຍສຳລັບການກະທຳ '{0}'
+task,ໜ້າວຽກ
+Task,ໜ້າວຽກ
+Task '{0}' is due on {1}.,ໜ້າວຽກ '{0}' ກຳນົດສົ່ງ {1}.
+Task and resource are required,ຕ້ອງລະບຸໜ້າວຽກ ແລະ ຊັບພະຍາກອນ
+Task Assignment,ການມອบໝາຍໜ້າວຽກ
+Task cannot be its own parent,ໜ້າວຽກບໍ່ສາມາດເປັນພໍ່ແມ່ຂອງຕົນເອງ
+Task cannot depend on itself,ໜ້າວຽກບໍ່ສາມາດເພິ່ງພາຕົນເອງ
+Task cannot depend on the group it belongs to,ໜ້າວຽກບໍ່ສາມາດເພິ່ງພາກຸ່ມທີ່ຕົນເອງຢູ່
+Task created,ສ້າງໜ້າວຽກແລ້ວ
+Task deleted,ລຶບໜ້າວຽກແລ້ວ
+Task description has been saved.,ບັນທຶກລາຍລະອຽດໜ້າວຽກແລ້ວ.
+Task Details,ລາຍລະອຽດໜ້າວຽກ
+Task due in {0} days: {1},ໜ້າວຽກກຳນົດສົ່ງໃນ {0} ມື້: {1}
+Task due today: {0},ໜ້າວຽກກຳນົດສົ່ງມື້ນີ້: {0}
+Task due tomorrow: {0},ໜ້າວຽກກຳນົດສົ່ງມື້ອື່ນ: {0}
+Task duplicated,ສຳເນົາໜ້າວຽກແລ້ວ
+Task Group,ກຸ່ມໜ້າວຽກ
+Task ID is required,ຕ້ອງລະບຸ ID ໜ້າວຽກ
+Task is blocked by incomplete dependencies,ໜ້າວຽກຖືກບລ໋ອກໂດຍການເພິ່ງພາທີ່ບໍ່ສົມບູນ
+Task is cancelled,ໜ້າວຽກຖືກຍົກເລີກ
+Task is completed,ໜ້າວຽກສຳເລັດແລ້ວ
+Task is no longer blocked by a group,ໜ້າວຽກບໍ່ຖືກບລ໋ອກໂດຍກຸ່ມອີກແລ້ວ
+Task is required for task context,ຕ້ອງມີໜ້າວຽກສຳລັບບໍລິບົດໜ້າວຽກ
+Task is required when tracking context is 'task',ຕ້ອງມີໜ້າວຽກເມື່ອບໍລິບົດການຕິດຕາມເປັນ 'ໜ້າວຽກ'
+Task linked,ເຊື່ອມຕໍ່ໜ້າວຽກແລ້ວ
+Task moved,ຍ້າຍໜ້າວຽກແລ້ວ
+Task name,ຊື່ໜ້າວຽກ
+Task name is required,ຕ້ອງລະບຸຊື່ໜ້າວຽກ
+Task removed from group,ລຶບໜ້າວຽກຈາກກຸ່ມແລ້ວ
+Task Subject,ຫົວຂໍ້ໜ້າວຽກ
+Task subject is required,ຕ້ອງລະບຸຫົວຂໍ້ໜ້າວຽກ
+Task Type,ປະເພດໜ້າວຽກ
+Task unblocked: {0},ປົດບລ໋ອກໜ້າວຽກ: {0}
+Task unlinked,ຍົກເລີກການເຊື່ອມຕໍ່ໜ້າວຽກແລ້ວ
+Task updated,ອັບເດດໜ້າວຽກແລ້ວ
+Task {0} not found,ບໍ່ພົບໜ້າວຽກ {0}
+Task {0} not in project {1},ໜ້າວຽກ {0} ບໍ່ຢູ່ໃນໂຄງການ {1}
+Task {0} to Frappe,ໜ້າວຽກ {0} ໄປ Frappe
+Tasks,ໜ້າວຽກ
+tasks,ໜ້າວຽກ
+Tasks and milestones will be created with dates relative to the project start date.,ໜ້າວຽກ ແລະ ຈຸດໝາຍຈະຖືກສ້າງດ້ວຍວັນທີສຳພັນກັບວັນທີເລີ່ມຕົ້ນໂຄງການ.
+Tasks assigned to you across all projects.,ໜ້າວຽກທີ່ມອບໝາຍໃຫ້ທ່ານທົ່ວທຸກໂຄງການ.
+Tasks created:,ໜ້າວຽກທີ່ສ້າງ:
+Tasks from projects you manage.,ໜ້າວຽກຈາກໂຄງການທີ່ທ່ານຈັດການ.
+Tasks updated:,ໜ້າວຽກທີ່ອັບເດດ:
+"Tasks, milestones, and dependencies have been created.","ໜ້າວຽກ, ຈຸດໝາຍ, ແລະ ການເພິ່ງພາຖືກສ້າງແລ້ວ."
+Tasks:,ໜ້າວຽກ:
+TBD,ຈະແຈ້ງພາຍຫຼັງ
+Team,ທີມ
+Team Members,ສະມາຊິກທີມ
+Template,ແມ່ແບບ
+Template applied,ນຳໃຊ້ແມ່ແບບແລ້ວ
+Template data is required in import data,ຕ້ອງມີຂໍ້ມູນແມ່ແບບໃນຂໍ້ມູນນຳເຂົ້າ
+Template has no data,ແມ່ແບບບໍ່ມີຂໍ້ມູນ
+Template Name,ຊື່ແມ່ແບບ
+Template name,ຊື່ແມ່ແບບ
+Template name is required,ຕ້ອງລະບຸຊື່ແມ່ແບບ
+Template name is required in import data,ຕ້ອງລະບຸຊື່ແມ່ແບບໃນຂໍ້ມູນນຳເຂົ້າ
+Template saved,ບັນທຶກແມ່ແບບແລ້ວ
+Template updated successfully.,ອັບເດດແມ່ແບບສຳເລັດແລ້ວ.
+Template {0} not found,ບໍ່ພົບແມ່ແບບ {0}
+Templates,ແມ່ແບບ
+Tentative,ຊົ່ວຄາວ
+The comment has been deleted,ລຶບຄຳເຫັນແລ້ວ
+The project,ໂຄງການ
+The source document may have been deleted.,ເອກະສານຕົ້ນສະບັບອາດຖືກລຶບແລ້ວ.
+The source document will not be affected.,ເອກະສານຕົ້ນສະບັບຈະບໍ່ຖືກກະທົບ.
+The status of '{0}' was changed from {1} to {2}.,ສະຖານະຂອງ '{0}' ຖືກປ່ຽນຈາກ {1} ເປັນ {2}.
+Theme,ຮູບແບບ
+Theme preference,ການຕັ້ງຄ່າຮູບແບບ
+This action,ການກະທຳນີ້
+This action cannot be undone.,ການກະທຳນີ້ບໍ່ສາມາດຍ້ອນກັບໄດ້.
+This activity has been flagged for attention,ກິດຈະກຳນີ້ຖືກໝາຍທຸງເພື່ອເອົາໃຈໃສ່
+This is a reminder for your upcoming appointment,ນີ້ແມ່ນການເຕືອນສຳລັບນັດໝາຍທີ່ຈະມາເຖິງຂອງທ່ານ
+This method is only meant for developer mode,ວິທີນີ້ໃຊ້ສຳລັບໂໝດນັກພັດທະນາເທົ່ານັ້ນ
+This page wandered off,This page wandered off
+This Week,ອາທິດນີ້
+This will delete all notes and preferences associated with this activity.,ນີ້ຈະລຶບບັນທຶກ ແລະ ການຕັ້ງຄ່າທັງໝົດທີ່ກ່ຽວຂ້ອງກັບກິດຈະກຳນີ້.
+This will import all Frappe Projects into Orga. Continue?,ນີ້ຈະນຳເຂົ້າ Frappe Projects ທັງໝົດເຂົ້າ Orga. ສືບຕໍ່?
+This will permanently delete,ນີ້ຈະລຶບຖາວອນ
+This will permanently delete:,ນີ້ຈະລຶບຖາວອນ:
+Thu,ພະຫັດ
+Time,ເວລາ
+Time & Billing,ເວລາ ແລະ ການຄິດຄ່າບໍລິການ
+Time & Revenue,ເວລາ ແລະ ລາຍຮັບ
+Time Entries,ລາຍການເວລາ
+Time log name is required,ຕ້ອງລະບຸຊື່ບັນທຶກເວລາ
+Time Log not found,ບໍ່ພົບບັນທຶກເວລາ
+Time log {0} not found,ບໍ່ພົບບັນທຶກເວລາ {0}
+Time Logs,ບັນທຶກເວລາ
+Time Summary,ສະຫຼຸບເວລາ
+Time Tracking,ການຕິດຕາມເວລາ
+Timeline,ໄລນ໌ເວລາ
+Timer active on,ໂມງຈັບເວລາເປີດໃຊ້ງານຢູ່
+Timer is not running,ໂມງຈັບເວລາບໍ່ໄດ້ແລ່ນ
+Timer Running,ໂມງຈັບເວລາກຳລັງແລ່ນ
+Timer running,ໂມງຈັບເວລາກຳລັງແລ່ນ
+Timesheet DocType not available,DocType ໃບບັນທຶກເວລາບໍ່ພ້ອມໃຊ້ງານ
+Timesheets,ໃບບັນທຶກເວລາ
+Timezone,ເຂດເວລາ
+Timezone is detected from your browser,ເຂດເວລາຖືກກວດຫາຈາກບຣາວເຊີຂອງທ່ານ
+Title,ຫົວຂໍ້
+Title cannot exceed 255 characters,ຫົວຂໍ້ບໍ່ສາມາດເກີນ 255 ຕົວອັກສອນ
+Title is required,ຕ້ອງລະບຸຫົວຂໍ້
+Title updated,ອັບເດດຫົວຂໍ້ແລ້ວ
+To,ຫາ
+to,ຫາ
+to cancel,ເພື່ອຍົກເລີກ
+to close,ເພື່ອປິດ
+to confirm:,ເພື່ອຢືນຢັນ:
+to edit,ເພື່ອແກ້ໄຂ
+"to save,","ເພື່ອບັນທຶກ,"
+To Time cannot be before From Time,ເວລາສິ້ນສຸດບໍ່ສາມາດຢູ່ກ່ອນເວລາເລີ່ມຕົ້ນ
+Today,ມື້ນີ້
+today,ມື້ນີ້
+Toggle billable,ສະລັບການຄິດຄ່າບໍລິການ
+Toggle Details Panel,ສະລັບແຜງລາຍລະອຽດ
+Toggle Manager Panel,ສະລັບແຜງຜູ້ຈັດການ
+Toggle Sidebar,ສະລັບແຖບຂ້າງ
+Tomorrow,ມື້ອື່ນ
+tomorrow,ມື້ອື່ນ
+Total,ລວມ
+Total Budget,ງົບປະມານລວມ
+Total Contacts,ຜູ້ຕິດຕໍ່ລວມ
+Total Cost,ຄ່າໃຊ້ຈ່າຍລວມ
+Total Cost to Org,ຄ່າໃຊ້ຈ່າຍລວมຂອງອົງກອນ
+Total Defect Cost,ຄ່າໃຊ້ຈ່າຍຂໍ້ບົກພ່ອງລວມ
+Total Hours,ຊົ່ວໂມງລວມ
+Total Hours Logged,ຊົ່ວໂມງທີ່ບັນທຶກລວມ
+Total Projects,ໂຄງການລວມ
+Total Spent,ໃຊ້ໄປລວມ
+Total Tasks,ໜ້າວຽກລວມ
+Total:,ລວມ:
+Tracked,ຕິດຕາມແລ້ວ
+trails to today while Open at 0%,ຕິດຕາມຈົນເຖິງມື້ນີ້ໃນຂະນະທີ່ເປີດຢູ່ທີ່ 0%
+Tried:,Tried:
+Try adjusting your filter criteria,ລອງປັບເງື່ອນໄຂຕົວກອງ
+Try adjusting your filters.,ລອງປັບຕົວກອງ.
+Try Again,ລອງໃໝ່
+Tue,ອັງຄານ
+Type,ປະເພດ
+Type updated,ອັບເດດປະເພດແລ້ວ
+Type:,ປະເພດ:
+Typical response time: 1-2 business days,ເວລາຕອບກັບປົກກະຕິ: 1-2 ມື້ລັດຖະການ
+Unarchive,ຍົກເລີກການເກັບມ້ຽນ
+Unarchive Activity,ຍົກເລີກການເກັບມ້ຽນກິດຈະກຳ
+Unassign,ຍົກເລີກການມອບໝາຍ
+Unassigned,ບໍ່ໄດ້ມອບໝາຍ
+Under Budget,ຕ່ຳກວ່າງົບປະມານ
+Ungrouped,ບໍ່ໄດ້ຈັດກຸ່ມ
+Unknown,ບໍ່ຮູ້
+Unknown error,ຂໍ້ຜິດພາດທີ່ບໍ່ຮູ້
+Unlink failed,ການຍົກເລີກການເຊື່ອມຕໍ່ລົ້ມເຫຼວ
+Unlink task from milestone,ຍົກເລີກການເຊື່ອມຕໍ່ໜ້າວຽກຈາກຈຸດໝາຍ
+Unpin,ຖອດປັກໝຸດ
+Unpin Activity,ຖອດປັກໝຸດກິດຈະກຳ
+Unread,ຍັງບໍ່ໄດ້ອ່ານ
+Unread only,ຍັງບໍ່ໄດ້ອ່ານເທົ່ານັ້ນ
+Until,ຈົນເຖິງ
+Up to Date,Up to Date
+Upcoming,ກຳລັງຈະມາ
+upcoming,ກຳລັງຈະມາ
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,ການອັບເດດລົ້ມເຫຼວ
+Updated,ອັບເດດແລ້ວ
+Updated successfully,ອັບເດດສຳເລັດແລ້ວ
+Updates,Updates
+Upload,ອັບໂຫຼດ
+Upload failed,ການອັບໂຫຼດລົ້ມເຫຼວ
+Upload files below to attach them to this task.,ອັບໂຫຼດໄຟລ໌ດ້ານລຸ່ມເພື່ອແນບກັບໜ້າວຽກນີ້.
+Upload to project,ອັບໂຫຼດໄປໂຄງການ
+Uploading...,ກຳລັງອັບໂຫຼດ...
+Urgent,ດ່ວນ
+User {0} is already linked to client {1},ຜູ້ໃຊ້ {0} ເຊື່ອມຕໍ່ກັບລູກຄ້າ {1} ແລ້ວ
+User {0} is already linked to resource {1},ຜູ້ໃຊ້ {0} ເຊື່ອມຕໍ່ກັບຊັບພະຍາກອນ {1} ແລ້ວ
+Utilization,ການນຳໃຊ້
+Valid,ຖືກຕ້ອງ
+Value:,ຄ່າ:
+Variance,ຄວາມແຕກຕ່າງ
+Variance:,ຄວາມແຕກຕ່າງ:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,ເບິ່ງ
+View All,ເບິ່ງທັງໝົດ
+View all active projects,ເບິ່ງໂຄງການທີ່ເປີດໃຊ້ງານທັງໝົດ
+View all open tasks,ເບິ່ງໜ້າວຽກທີ່ເປີດທັງໝົດ
+View overdue tasks,ເບິ່ງໜ້າວຽກທີ່ເກີນກຳນົດ
+View Release,View Release
+Visibility,ການເບິ່ງເຫັນ
+Waiting for this task,ລໍຖ້າໜ້າວຽກນີ້
+Waits for:,ລໍຖ້າ:
+Warning: Resource {0} status is {1},ຄຳເຕືອນ: ສະຖານະຊັບພະຍາກອນ {0} ເປັນ {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,ຄຳເຕືອນ: ໃຊ້ HTTP ແທນ HTTPS. ຂໍ້ມູນ Webhook ອາດບໍ່ປອດໄພ.
+Watch budget closely,ຕິດຕາມງົບປະມານຢ່າງໃກ້ຊິດ
+We'll respond to:,ພວກເຮົາຈະຕອບກັບ:
+Webhook deleted,ລຶບ Webhook ແລ້ວ
+Webhook name is required,ຕ້ອງລະບຸຊື່ Webhook
+Webhook not found,ບໍ່ພົບ Webhook
+Webhook URL is required,ຕ້ອງລະບຸ URL Webhook
+Webhook URL must start with http:// or https://,URL Webhook ຕ້ອງເລີ່ມຕົ້ນດ້ວຍ http:// ຫຼື https://
+Wed,ພຸດ
+Week,ອາທິດ
+Weekend,ທ້າຍອາທິດ
+Weekly Capacity,ຄວາມສາມາດຕໍ່ອາທິດ
+weekly capacity,ຄວາມສາມາດຕໍ່ອາທິດ
+Weekly Capacity (h),ຄວາມສາມາດຕໍ່ອາທິດ (ຊມ)
+Welcome,ຍິນດີຕ້ອນຮັບ
+Welcome back!,ຍິນດີຕ້ອນຮັບກັບຄືນ!
+Welcome to Orga,ຍິນດີຕ້ອນຮັບສູ່ Orga
+What are you working on?,ທ່ານກຳລັງເຮັດຫຍັງ?
+What did you work on?,ທ່ານເຮັດວຽກຫຍັງ?
+When,ເມື່ອ
+When work begins,ເມື່ອວຽກເລີ່ມ
+When work is due,ເມື່ອວຽກກຳນົດສົ່ງ
+Where,ບ່ອນໃດ
+Will capture:,ຈະບັນທຶກ:
+Will create:,ຈະສ້າງ:
+with checklist items,ພ້ອมລາຍການກວດກາ
+Working,ກຳລັງເຮັດ
+Workload,ປະລິມານວຽກ
+Workmanship,ຝີມືແຮງງານ
+Write a comment...,ຂຽນຄຳເຫັນ...
+Write a comment... Use @name to mention (Ctrl+Enter to send),ຂຽນຄຳເຫັນ... ໃຊ້ @ຊື່ ເພື່ອກ່າວເຖິງ (Ctrl+Enter ເພື່ອສົ່ງ)
+Year,ປີ
+Yes,ແມ່ນ
+Yesterday,ມື້ວານ
+yesterday,ມື້ວານ
+You are not an attendee of this appointment,ທ່ານບໍ່ແມ່ນຜູ້ເຂົ້າຮ່ວມຂອງນັດໝາຍນີ້
+You are not linked to any resource,ທ່ານບໍ່ໄດ້ເຊື່ອມຕໍ່ກັບຊັບພະຍາກອນໃດ
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,ທ່ານສາມາດລຶບໄດ້ແຕ່ຄຳເຫັນຂອງຕົນເອງ
+You can only delete your own reactions,ທ່ານສາມາດລຶບໄດ້ແຕ່ປະຕິກິລິຍາຂອງຕົນເອງ
+You do not have access to the client portal. Please contact support.,ທ່ານບໍ່ມີສິດເຂົ້າເຖິງພອລ໌ທອນລູກຄ້າ. ກະລຸນາຕິດຕໍ່ຝ່າຍຊ່ວຍເຫຼືອ.
+You have already reacted with '{0}',ທ່ານໄດ້ສະແດງປະຕິກິລິຍາ '{0}' ແລ້ວ
+You have been assigned to task '{0}' in project '{1}'.,ທ່ານໄດ້ຖືກມອບໝາຍໃຫ້ໜ້າວຽກ '{0}' ໃນໂຄງການ '{1}'.
+You have been assigned to: {0},ທ່ານໄດ້ຖືກມອບໝາຍໃຫ້: {0}
+You have been invited to the following appointment,ທ່ານໄດ້ຖືກເຊີນເຂົ້າຮ່ວມນັດໝາຍຕໍ່ໄປນີ້
+You have no tasks assigned to you right now.,ທ່ານບໍ່ມີໜ້າວຽກທີ່ມອບໝາຍໃຫ້ໃນຕອນນີ້.
+You were mentioned in {0},ທ່ານຖືກກ່າວເຖິງໃນ {0}
+Your attendance,ການເຂົ້າຮ່ວມຂອງທ່ານ
+Your comment has been posted,ໂພສຄຳເຫັນຂອງທ່ານແລ້ວ
+Your Projects,ໂຄງການຂອງທ່ານ
+Your projects will appear here once they're assigned to you.,ໂຄງການຂອງທ່ານຈະປາກົດຢູ່ນີ້ເມື່ອຖືກມອບໝາຍໃຫ້ທ່ານ.
+Your Response,ການຕອບຂອງທ່ານ
+Your RSVP,RSVP ຂອງທ່ານ
+Your support request has been submitted successfully.,ຄຳຮ້ອງຂໍການຊ່ວຍເຫຼືອຂອງທ່ານໄດ້ຖືກສົ່ງສຳເລັດແລ້ວ.
+Your support request has been submitted successfully. We'll get back to you shortly.,ຄຳຮ້ອງຂໍການຊ່ວຍເຫຼືອຂອງທ່ານໄດ້ຖືກສົ່ງສຳເລັດແລ້ວ. ພວກເຮົາຈະຕິດຕໍ່ກັບທ່ານໃນໄວໆນີ້.
+"Your task ""{0}"" is no longer blocked and can now be started.","ໜ້າວຽກ ""{0}"" ຂອງທ່ານບໍ່ຖືກບລ໋ອກອີກແລ້ວ ແລະ ສາມາດເລີ່ມໄດ້ແລ້ວ."
+{0} is required,{0} ຈຳເປັນ
+{0} new activities,{0} ກິດຈະກຳໃໝ່
+{0} of {1} completed,{0} ຈາກ {1} ສຳເລັດ
+{0} projects already migrated (will be skipped or updated),{0} ໂຄງການຍ້າຍຂໍ້ມູນແລ້ວ (ຈະຖືກຂ້າມ ຫຼື ອັບເດດ)
+{0} status changed to {1},ສະຖານະ {0} ປ່ຽນເປັນ {1}
+{0} tasks remaining,{0} ໜ້າວຽກເຫຼືອ
+{0} tasks without projects will be skipped,{0} ໜ້າວຽກທີ່ບໍ່ມີໂຄງການຈະຖືກຂ້າມ
+{0} {1} not found,ບໍ່ພົບ {0} {1}

@@ -1,0 +1,1492 @@
++ Add Milestone,+ Ongeza Hatua Muhimu
++ Create Task,+ Unda Kazi
++ Log Time,+ Rekodi Muda
+-- Select a project --,-- Chagua mradi --
+0m,0d
+1 day,siku 1
+1 day ago,siku 1 iliyopita
+1 dependency,tegemezi 1
+1 entry,ingizo 1
+1 file,faili 1
+1 hour ago,saa 1 iliyopita
+1 member,mwanachama 1
+1 milestone,hatua muhimu 1
+1 month,mwezi 1
+1 task,kazi 1
+< 1m,< 1d
+"A clear, actionable title for the task",Kichwa wazi na chenye hatua kwa kazi
+A client with email {0} already exists: {1},Mteja mwenye barua pepe {0} tayari yupo: {1}
+A key deliverable or checkpoint for the project,Matokeo muhimu au kituo cha ukaguzi kwa mradi
+Accept,Kubali
+Accepted,Imekubaliwa
+Acknowledge,Thibitisha
+across,katika
+Action,Hatua
+Actions,Hatua
+Active,Inafanya kazi
+Active Assignments,Mgawanyo unaofanya kazi
+Active Projects,Miradi inayofanya kazi
+Activity,Shughuli
+Activity data deleted successfully,Data ya shughuli imefutwa kwa mafanikio
+Activity Info,Taarifa za shughuli
+Activity Stats,Takwimu za shughuli
+Activity will appear here as you work on tasks and projects.,Shughuli zitaonekana hapa unapofanya kazi kwenye kazi na miradi.
+Actual,Halisi
+Actual Cost,Gharama halisi
+Actual cost cannot be negative,Gharama halisi haiwezi kuwa hasi
+Actual end date cannot be before actual start date,Tarehe ya mwisho halisi haiwezi kuwa kabla ya tarehe ya kuanza halisi
+Actual Hours,Masaa halisi
+Add,Ongeza
+Add a checklist item...,Ongeza kipengee cha orodha ya ukaguzi...
+Add a comment...,Ongeza maoni...
+Add a comment... (Ctrl+Enter to send),Ongeza maoni... (Ctrl+Enter kutuma)
+Add a description...,Ongeza maelezo...
+Add a milestone description...,Ongeza maelezo ya hatua muhimu...
+Add a note below to annotate this activity.,Ongeza dokezo hapa chini kuandikia shughuli hii.
+Add a note...,Ongeza dokezo...
+Add a project description...,Ongeza maelezo ya mradi...
+Add a task description...,Ongeza maelezo ya kazi...
+Add checklist item...,Ongeza kipengee cha orodha ya ukaguzi...
+Add Contact,Ongeza Mawasiliano
+Add contacts via the Desk interface or clear filters,Ongeza mawasiliano kupitia Desk au ondoa vichujio
+Add Dependency,Ongeza Tegemezi
+Add details about this event...,Ongeza maelezo kuhusu tukio hili...
+Add details about this milestone...,Ongeza maelezo kuhusu hatua hii muhimu...
+Add details about this task...,Ongeza maelezo kuhusu kazi hii...
+Add details or acceptance criteria for this milestone,Ongeza maelezo au vigezo vya kukubalika kwa hatua hii muhimu
+"Add details, context, or acceptance criteria","Ongeza maelezo, muktadha, au vigezo vya kukubalika"
+Add first dependency,Ongeza tegemezi ya kwanza
+Add item,Ongeza kipengee
+Add items below to track progress.,Ongeza vipengee hapa chini kufuatilia maendeleo.
+Add items below to track subtasks,Ongeza vipengee hapa chini kufuatilia kazi ndogo
+Add Milestone,Ongeza Hatua Muhimu
+Add Milestone (Shift+M),Ongeza Hatua Muhimu (Shift+M)
+Add milestones to track key deliverables.,Ongeza hatua muhimu kufuatilia matokeo muhimu.
+Add New Contact,Ongeza Mawasiliano Mapya
+Add Note,Ongeza Dokezo
+Add note,Ongeza dokezo
+Add notes about this contact...,Ongeza madokezo kuhusu mawasiliano haya...
+Add reaction,Ongeza mwitikio
+Add Skill,Ongeza Ujuzi
+Add start and due dates to tasks to see them on the Gantt chart,Ongeza tarehe za kuanza na za mwisho kwenye kazi kuziona kwenye chati ya Gantt
+Add Task,Ongeza Kazi
+Add Task (Shift+T),Ongeza Kazi (Shift+T)
+Added Finish-to-Start dependency,Tegemezi ya Mwisho-hadi-Mwanzo imeongezwa
+Adding this dependency would create a circular reference: {0},Kuongeza tegemezi hii kutaunda rejea ya mzunguko: {0}
+Adding...,Inaongeza...
+Address,Anwani
+Advanced,Kwa kina zaidi
+All,Zote
+All Active,Zote zinazofanya kazi
+All Assignees,Waliopewa wote
+All Categories,Kategoria zote
+All caught up!,Umesoma kila kitu!
+All Contexts,Muktadha wote
+All day,Siku nzima
+All day event,Tukio la siku nzima
+All fields,Sehemu zote
+All Priorities,Vipaumbele vyote
+All Projects,Miradi yote
+All Status,Hali zote
+All Statuses,Hali zote
+All task dependencies & relative dates,Tegemezi zote za kazi na tarehe husika
+All Tasks,Kazi zote
+All tasks across all projects.,Kazi zote katika miradi yote.
+All tasks are already linked,Kazi zote tayari zimeunganishwa
+All team members,Wanachama wote wa timu
+All Types,Aina zote
+All Users,Watumiaji wote
+Allocated,Imegawanywa
+allocated,imegawanywa
+Allow users to log time against tasks,Ruhusu watumiaji kurekodi muda kwenye kazi
+Already exported to timesheet {0},Tayari imehamishiwa kwenye karatasi ya muda {0}
+Already Migrated,Tayari imehamishwa
+Anyone with access,Yeyote mwenye ruhusa
+anytime to show this help,wakati wowote kuonyesha msaada huu
+App Updates,App Updates
+Appearance,Muonekano
+Apply,Tekeleza
+Apply cascade?,Tekeleza msururu?
+Apply Changes,Tekeleza Mabadiliko
+Apply failed,Utekelezaji umeshindikana
+Apply Template,Tekeleza Kiolezo
+Applying...,Inatekeleza...
+Appointment,Miadi
+Appointment and resource are required,Miadi na rasilimali zinahitajika
+Appointment name is required,Jina la miadi linahitajika
+Appointment not found,Miadi haijapatikana
+Appointment {0} not found,Miadi {0} haijapatikana
+Apps,Programu
+Archive,Hifadhi kumbukumbu
+Archive Activity,Hifadhi Shughuli
+Archived,Imehifadhiwa
+Are you sure you want to delete this activity data? This cannot be undone.,Una uhakika unataka kufuta data hii ya shughuli? Hii haiwezi kurudishwa.
+Are you sure you want to delete this comment?,Una uhakika unataka kufuta maoni haya?
+Are you sure you want to delete this project?,Una uhakika unataka kufuta mradi huu?
+Are you sure?,Una uhakika?
+Ascending -- click to reverse,Kupanda -- bofya kubadilisha
+Assign To,Gawia
+Assign to Me,Jigawie Mimi
+Assigned Contact,Mawasiliano yaliyogawiwa
+Assigned To,Imegawiwa kwa
+Assigned to,Imegawiwa kwa
+Assigned to Me,Imegawiwa kwangu
+Assignee,Aliyegawiwa
+Assignment,Mgawanyo
+Assignment History,Historia ya mgawanyo
+Assignment name is required,Jina la mgawanyo linahitajika
+Assignment {0} not found,Mgawanyo {0} haujapatikana
+Assignments,Migawanyo
+At least one action is required,Angalau hatua moja inahitajika
+At least one event is required,Angalau tukio moja linahitajika
+At least one event must be selected,Angalau tukio moja lazima lichaguliwe
+Attachment,Kiambatisho
+Attachments,Viambatisho
+Attendees,Washiriki
+"Audit trail, assignments, version history","Rekodi ya ukaguzi, migawanyo, historia ya toleo"
+Auto,Otomatiki
+Auto Calculate Progress,Hesabu Maendeleo Kiotomatiki
+Auto Set Missed Milestones,Weka Hatua Zilizokosa Kiotomatiki
+Auto-shift dependents when dates change,Sogeza wategemezi kiotomatiki tarehe zinapobadilika
+Auto-Trail Start,Kuanza Kuteleza Kiotomatiki
+Auto-Trail updated,Kuteleza kiotomatiki kumesasishwa
+Automatically calculate project progress from task completion,Hesabu maendeleo ya mradi kiotomatiki kutokana na kukamilika kwa kazi
+Automatically mark milestones as missed when overdue,Weka alama ya hatua muhimu kuwa zimekoswa zinapochelewa
+Automation rule {0} not found,Kanuni ya otomatiki {0} haijapatikana
+Automation: {0},Otomatiki: {0}
+Availability,Upatikanaji
+Available,Inapatikana
+Avatar updated successfully,Picha ya wasifu imesasishwa kwa mafanikio
+Avg Progress,Maendeleo ya wastani
+Back,Rudi
+Back to Portal,Rudi kwenye Lango
+Back to Projects,Rudi kwenye Miradi
+Beginner,Mwanzo
+Best regards,Salamu njema
+Billable,Inalipiwa
+Billable Amount,Kiasi kinacholipiwa
+Billable Hours,Masaa yanayolipiwa
+Billable Rate,Kiwango kinacholipiwa
+Billing Rate,Kiwango cha malipo
+Blocked,Imezuiwa
+Both dates are needed to display task as a bar in Gantt chart,Tarehe zote mbili zinahitajika kuonyesha kazi kama mstari kwenye chati ya Gantt
+Both doctype and docname are required,doctype na docname zote zinahitajika
+Both proposed start and end times are required,Nyakati za kuanza na mwisho zilizopendekezwa zote zinahitajika
+Both task_name and depends_on are required,task_name na depends_on zote zinahitajika
+Breadcrumb,Njia ya urambazaji
+Brief description of the defect or damage,Maelezo mafupi ya kasoro au uharibifu
+Brief description of this template,Maelezo mafupi ya kiolezo hiki
+Brief description of your request,Maelezo mafupi ya ombi lako
+Brief project description,Maelezo mafupi ya mradi
+Budget,Bajeti
+Budget at risk,Bajeti iko hatarini
+Budget Burn Rate,Kiwango cha matumizi ya bajeti
+Budget Status,Hali ya bajeti
+Budget updated,Bajeti imesasishwa
+Budget:,Bajeti:
+Bug,Hitilafu
+Burn Rate,Kiwango cha matumizi
+Busy,Shughuli nyingi
+By,Na
+By Assignee,Kwa aliyegawiwa
+By Group,Kwa kikundi
+By Milestone,Kwa hatua muhimu
+By Priority,Kwa kipaumbele
+By Status,Kwa hali
+Cancel,Ghairi
+Cancelled,Imeghairiwa
+cannot be undone,haiwezi kurudishwa
+Cannot delete client with {0} linked projects. Unlink projects first.,Huwezi kufuta mteja mwenye miradi {0} iliyounganishwa. Ondoa muunganisho wa miradi kwanza.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Huwezi kufuta mradi wenye kazi {0} zilizounganishwa. Futa kazi kwanza.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Huwezi kufuta rasilimali yenye migawanyo {0} inayofanya kazi. Kamilisha au ghairi kwanza.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Huwezi kufuta kazi yenye kazi ndogo {0}. Futa kazi ndogo kwanza.
+Capacity,Uwezo
+capacity,uwezo
+Capacity & Rates,Uwezo na Viwango
+Capture project structure for reuse,Hifadhi muundo wa mradi kwa matumizi tena
+Cascade,Msururu
+Cascade Preview,Muonekano wa msururu
+Category,Kategoria
+Celebrate,Sherehekea
+Change,Badilisha
+Change History,Historia ya mabadiliko
+Change Priority,Badilisha Kipaumbele
+Change Status,Badilisha Hali
+Changes,Mabadiliko
+Changes appear when fields are modified.,Mabadiliko yanaonekana sehemu zinapobadilishwa.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Orodha ya ukaguzi
+Checklist item name is required,Jina la kipengee cha orodha ya ukaguzi linahitajika
+Checklist item not found,Kipengee cha orodha ya ukaguzi hakijapatikana
+Checklist item title is required,Kichwa cha kipengee cha orodha ya ukaguzi kinahitajika
+Checklist item {0} not found,Kipengee cha orodha ya ukaguzi {0} hakijapatikana
+Checklist item {0} not found in task,Kipengee cha orodha ya ukaguzi {0} hakijapatikana katika kazi
+Child,Mtoto
+Choose file to upload,Chagua faili ya kupakia
+Circular dependency detected: {0},Tegemezi ya mzunguko imegunduliwa: {0}
+Circular parent-child relationship detected,Uhusiano wa mzunguko wa mzazi-mtoto umegunduliwa
+Clear,Futa
+Clear all read,Futa zilizosomwa zote
+Clear date,Futa tarehe
+Click on an activity from the list to view and manage its details.,Bofya shughuli kutoka orodha kuona na kudhibiti maelezo yake.
+Click the avatar to upload a new photo,Bofya picha ya wasifu kupakia picha mpya
+Click to add description...,Bofya kuongeza maelezo...
+Click to add notes...,Bofya kuongeza madokezo...
+Click to assign contact,Bofya kugawia mawasiliano
+Click to change status,Bofya kubadilisha hali
+Click to change type,Bofya kubadilisha aina
+Click to edit,Bofya kuhariri
+Click to edit budget,Bofya kuhariri bajeti
+Click to edit description,Bofya kuhariri maelezo
+Click to edit end date,Bofya kuhariri tarehe ya mwisho
+Click to edit milestone name,Bofya kuhariri jina la hatua muhimu
+Click to edit rate,Bofya kuhariri kiwango
+Click to edit start date,Bofya kuhariri tarehe ya kuanza
+Click to edit title,Bofya kuhariri kichwa
+Click to load,Bofya kupakia
+Click to set group dependency...,Bofya kuweka tegemezi ya kikundi...
+Click to set group...,Bofya kuweka kikundi...
+Click to view,Bofya kuona
+Click to view at-risk projects,Bofya kuona miradi iliyo hatarini
+Click to view critical projects,Bofya kuona miradi muhimu
+Click to view healthy projects,Bofya kuona miradi yenye afya njema
+Client,Mteja
+Client already has a portal user: {0},Mteja tayari ana mtumiaji wa lango: {0}
+Client already has portal access,Mteja tayari ana ruhusa ya lango
+Client has no portal user to revoke,Mteja hana mtumiaji wa lango wa kuondolewa
+Client link removed from project {0},Kiungo cha mteja kimeondolewa kutoka mradi {0}
+Client Portal,Lango la Mteja
+Client {0} deleted successfully,Mteja {0} amefutwa kwa mafanikio
+Close,Funga
+Close (Esc),Funga (Esc)
+Comment,Maoni
+comment,maoni
+Comment added,Maoni yameongezwa
+Comment content is required,Maudhui ya maoni yanahitajika
+Comment name is required,Jina la maoni linahitajika
+Comment not found,Maoni hayajapatikana
+Comment removed,Maoni yameondolewa
+Comment {0} not found in task,Maoni {0} hayajapatikana katika kazi
+Comments,Maoni
+comments,maoni
+Community Edition,Community Edition
+Company,Kampuni
+Company name...,Jina la kampuni...
+Complete,Kamilisha
+Completed,Imekamilika
+completed,imekamilika
+Completed Tasks,Kazi zilizokamilika
+Compliance,Uzingatiaji
+Configure default values for new projects and tasks,Sanidi thamani za awali kwa miradi na kazi mpya
+Configure email notification settings,Sanidi mipangilio ya arifa za barua pepe
+Confirm,Thibitisha
+Contact deleted,Mawasiliano yamefutwa
+Contact Details,Maelezo ya mawasiliano
+Contact Information,Taarifa za mawasiliano
+Contact name is required,Jina la mawasiliano linahitajika
+Contact Support,Wasiliana na Msaada
+Contact your project manager for more information.,Wasiliana na meneja wa mradi wako kwa taarifa zaidi.
+Contact:,Mawasiliano:
+Contacts,Mawasiliano
+Context,Muktadha
+Contractor,Mkandarasi
+Cost estimate cannot be negative,Makadirio ya gharama hayawezi kuwa hasi
+Cost Impact,Athari ya gharama
+Cost Summary,Muhtasari wa gharama
+Could not apply the template. Please try again.,Haikuweza kutekeleza kiolezo. Tafadhali jaribu tena.
+Could not attach file to project,Haikuweza kuambatisha faili kwenye mradi
+Could not change task priority,Haikuweza kubadilisha kipaumbele cha kazi
+Could not change task status,Haikuweza kubadilisha hali ya kazi
+Could not delete the project. Please try again.,Haikuweza kufuta mradi. Tafadhali jaribu tena.
+Could not delete the task. Please try again.,Haikuweza kufuta kazi. Tafadhali jaribu tena.
+Could not delete the template.,Haikuweza kufuta kiolezo.
+Could not duplicate the task. Please try again.,Haikuweza kunakili kazi. Tafadhali jaribu tena.
+Could not export the template.,Haikuweza kuhamisha kiolezo nje.
+Could not import the template. Please check the file format.,Haikuweza kuingiza kiolezo. Tafadhali angalia muundo wa faili.
+Could not link task to milestone,Haikuweza kuunganisha kazi na hatua muhimu
+Could not load document details.,Haikuweza kupakia maelezo ya hati.
+Could not load task details,Haikuweza kupakia maelezo ya kazi
+Could not promote checklist item to task.,Haikuweza kupandisha kipengee cha orodha ya ukaguzi kuwa kazi.
+Could not remove task from milestone,Haikuweza kuondoa kazi kutoka hatua muhimu
+Could not save budget.,Haikuweza kuhifadhi bajeti.
+Could not save changes to the milestone,Haikuweza kuhifadhi mabadiliko ya hatua muhimu
+Could not save changes to the task,Haikuweza kuhifadhi mabadiliko ya kazi
+Could not save description.,Haikuweza kuhifadhi maelezo.
+Could not save end date.,Haikuweza kuhifadhi tarehe ya mwisho.
+Could not save milestone name.,Haikuweza kuhifadhi jina la hatua muhimu.
+Could not save start date.,Haikuweza kuhifadhi tarehe ya kuanza.
+Could not save the template. Please try again.,Haikuweza kuhifadhi kiolezo. Tafadhali jaribu tena.
+Could not save title.,Haikuweza kuhifadhi kichwa.
+Could not update dependency mode.,Haikuweza kusasisha hali ya tegemezi.
+Could not update milestone date,Haikuweza kusasisha tarehe ya hatua muhimu
+Could not update project status.,Haikuweza kusasisha hali ya mradi.
+Could not update project type.,Haikuweza kusasisha aina ya mradi.
+Could not update setting.,Haikuweza kusasisha mpangilio.
+Could not update task dates,Haikuweza kusasisha tarehe za kazi
+Could not update task status,Haikuweza kusasisha hali ya kazi
+Could not update the template.,Haikuweza kusasisha kiolezo.
+Create a copy of this task,Unda nakala ya kazi hii
+Create Contact,Unda Mawasiliano
+Create Event,Unda Tukio
+Create Milestone,Unda Hatua Muhimu
+Create New Milestone,Unda Hatua Muhimu Mpya
+Create New Task,Unda Kazi Mpya
+Create Project,Unda Mradi
+Create Task,Unda Kazi
+Create tasks and milestones from a template,Unda kazi na hatua muhimu kutoka kwenye kiolezo
+Create your first project to get started.,Unda mradi wako wa kwanza kuanza.
+Create your first task to start tracking work on this project.,Unda kazi yako ya kwanza kuanza kufuatilia kazi kwenye mradi huu.
+Created,Imeundwa
+Creating...,Inaunda...
+Critical,Muhimu sana
+Critical Path,Njia Muhimu
+"Currency used for budgets, costs, and billing rates","Sarafu inayotumika kwa bajeti, gharama, na viwango vya malipo"
+Current,Sasa hivi
+Current Assignments,Migawanyo ya sasa
+Current scheduled time:,Muda uliopangwa sasa:
+Currently running version,Currently running version
+d lag,siku za kuchelewa
+Daily Availability,Upatikanaji wa kila siku
+Daily Hours,Masaa ya kila siku
+Danger Zone,Eneo hatari
+Dark,Giza
+Dashboard,Dashibodi
+Date,Tarehe
+Date changes on this task will show cascade impact here,Mabadiliko ya tarehe kwenye kazi hii yataonyesha athari ya msururu hapa
+Date cleared,Tarehe imefutwa
+Date of Joining,Tarehe ya kujiunga
+Date updated,Tarehe imesasishwa
+Dates,Tarehe
+Dates cascaded,Tarehe zimesururu
+Dates will be relative to the project's start date.,Tarehe zitakuwa kulingana na tarehe ya kuanza ya mradi.
+Day,Siku
+day,siku
+days,siku
+Days before due date to send reminder,Siku kabla ya tarehe ya mwisho kutuma kumbusho
+Days Overdue,Siku za ucheleweshaji
+Days Remaining,Siku zilizobaki
+Deadline,Muda wa mwisho
+Deadlines,Nyakati za mwisho
+Decision,Uamuzi
+Decline,Kataa
+Declined,Imekataliwa
+Default Currency,Sarafu ya awali
+Default hours per week for contact capacity planning,Masaa ya awali kwa wiki kwa mipango ya uwezo wa mawasiliano
+Default Priority,Kipaumbele cha awali
+Default Project Status,Hali ya awali ya mradi
+Default Task Status,Hali ya awali ya kazi
+Default task view,Muonekano wa kazi wa awali
+Default Values,Thamani za awali
+Default Weekly Capacity,Uwezo wa kila wiki wa awali
+Defaults,Thamani za awali
+Defect Cost Impact,Athari ya gharama ya kasoro
+Defect name is required,Jina la kasoro linahitajika
+Defect Type,Aina ya kasoro
+Defect {0} not found,Kasoro {0} haijapatikana
+Defects,Kasoro
+Defects & Issues,Kasoro na Matatizo
+Defects Resolved,Kasoro zilizorekebishwa
+Delayed,Imechelewa
+Delete,Futa
+Delete Activity Data,Futa Data ya Shughuli
+Delete all read notifications?,Futa arifa zote zilizosomwa?
+Delete comment,Futa maoni
+Delete Contact,Futa Mawasiliano
+Delete Event,Futa Tukio
+Delete Event?,Futa Tukio?
+Delete failed,Kufuta kumeshindikana
+Delete file,Futa faili
+Delete item,Futa kipengee
+Delete note,Futa dokezo
+Delete Project,Futa Mradi
+Delete Task,Futa Kazi
+Delete this project,Futa mradi huu
+Deleted,Imefutwa
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Mradi ""{0}"" umefutwa (kazi {1}, hatua muhimu {2})"
+Deletes notes and preferences. Source document is not affected.,Inafuta madokezo na mapendeleo. Hati chanzo haiathiriki.
+Deleting...,Inafuta...
+Department,Idara
+Dependencies,Tegemezi
+dependencies,tegemezi
+Dependencies are informational only,Tegemezi ni za taarifa tu
+dependency,tegemezi
+Dependency already exists,Tegemezi tayari ipo
+Dependency Chain,Mnyororo wa tegemezi
+Dependency created,Tegemezi imeundwa
+Dependency mode updated,Hali ya tegemezi imesasishwa
+Dependency name is required,Jina la tegemezi linahitajika
+Dependency task {0} not found,Kazi ya tegemezi {0} haijapatikana
+Dependency {0} not found,Tegemezi {0} haijapatikana
+depends,inategemea
+Depends on Group,Inategemea Kikundi
+Depends on task is required,Kazi ya kutegemea inahitajika
+depends on...,inategemea...
+Descending -- click to reverse,Kushuka -- bofya kubadilisha
+Describe the defect in detail...,Eleza kasoro kwa undani...
+Description,Maelezo
+Description updated,Maelezo yamesasishwa
+Designation,Cheo
+"Detailed description of the defect, location, and impact","Maelezo ya kina ya kasoro, eneo, na athari"
+Details,Maelezo
+Discard timer,Tupa kipima muda
+Discussion,Mazungumzo
+Dismiss,Dismiss
+Display,Onyesha
+Document,Hati
+Document attached to project,Hati imeambatishwa kwenye mradi
+Document final decision and rationale,Andika uamuzi wa mwisho na sababu
+Documentation Review,Ukaguzi wa nyaraka
+Documents,Hati
+Done,Imekamilika
+Download,Pakua
+Drag to create dependency,Buruta kuunda tegemezi
+Dry Run,Jaribio la mazoezi
+Dry Run Complete,Jaribio la mazoezi limekamilika
+Due Date,Tarehe ya mwisho
+Due date,Tarehe ya mwisho
+Due Date (Earliest),Tarehe ya mwisho (ya mapema zaidi)
+Due date cannot be before start date,Tarehe ya mwisho haiwezi kuwa kabla ya tarehe ya kuanza
+Due date is in the past,Tarehe ya mwisho imepita
+Due Date Reminders,Kumbusho za tarehe ya mwisho
+Due Diligence,Uchunguzi wa kina
+Due Diligence Checklist,Orodha ya ukaguzi wa uchunguzi wa kina
+Due This Week,Inatarajiwa wiki hii
+Due:,Inatarajiwa:
+Duplicate events are not allowed,Matukio yanayofanana hayaruhusiwi
+Duplicate failed,Kunakili kumeshindikana
+Duplicate Task,Nakili Kazi
+Duration,Muda
+Duration Summary,Muhtasari wa muda
+Duration:,Muda:
+e.g. Cracked wall finish in bathroom...,mfano: Ukuta wenye nyufa katika bafuni...
+"e.g. Electrical, Plumbing...","mfano: Umeme, Mabomba..."
+Edit,Hariri
+Edit (E),Hariri (E)
+Edit dependency,Hariri tegemezi
+Edit Event,Hariri Tukio
+Efficiency,Ufanisi
+Either dependency_name or depends_on is required,dependency_name au depends_on inahitajika
+Email,Barua pepe
+Email invitations to all attendees,Mialiko ya barua pepe kwa washiriki wote
+Email is required to create portal user,Barua pepe inahitajika kuunda mtumiaji wa lango
+Email notifications,Arifa za barua pepe
+Employee,Mfanyakazi
+Employee DocType not available,DocType ya Mfanyakazi haipatikani
+Employee not found,Mfanyakazi hajapatikana
+Enable or disable optional features,Washa au zima vipengele vya hiari
+Enable Time Tracking,Washa Ufuatiliaji wa Muda
+End,Mwisho
+End Date,Tarehe ya mwisho
+End date,Tarehe ya mwisho
+End Date cannot be before Start Date,Tarehe ya mwisho haiwezi kuwa kabla ya Tarehe ya kuanza
+End date cannot be before start date,Tarehe ya mwisho haiwezi kuwa kabla ya tarehe ya kuanza
+End date updated,Tarehe ya mwisho imesasishwa
+End time was before start time. Adjusted to 1 hour after start.,Saa ya mwisho ilikuwa kabla ya saa ya kuanza. Imerekebishwa kuwa saa 1 baada ya kuanza.
+End:,Mwisho:
+Enter milestone name...,Ingiza jina la hatua muhimu...
+Enter project name,Ingiza jina la mradi
+Enter task title...,Ingiza kichwa cha kazi...
+Enter template name,Ingiza jina la kiolezo
+Enter your note... Use @name to mention someone,Ingiza dokezo lako... Tumia @jina kumtaja mtu
+Error,Hitilafu
+Error loading activity,Hitilafu ya kupakia shughuli
+Error loading contacts,Hitilafu ya kupakia mawasiliano
+Error loading dashboard,Hitilafu ya kupakia dashibodi
+Error loading project,Hitilafu ya kupakia mradi
+Error loading projects,Hitilafu ya kupakia miradi
+Error loading settings,Hitilafu ya kupakia mipangilio
+Error loading tasks,Hitilafu ya kupakia kazi
+Error loading templates,Hitilafu ya kupakia violezo
+Est. Hours,Masaa yaliy.
+Estimated,Iliyokadiriwa
+Estimated Cost,Gharama iliyokadiriwa
+Estimated Cost (€),Gharama iliyokadiriwa (€)
+Estimated Hours,Masaa yaliyokadiriwa
+Estimated:,Iliyokadiriwa:
+Evaluate potential risks and concerns,Tathmini hatari na wasiwasi unaoweza kutokea
+Event,Tukio
+Event is required for event context,Tukio linahitajika kwa muktadha wa tukio
+Event is required when tracking context is 'event',Tukio linahitajika muktadha wa ufuatiliaji unapokuwa 'tukio'
+Event Type,Aina ya tukio
+Events,Matukio
+Events not available. Please run: bench --site orga.localhost migrate,Matukio hayapatikani. Tafadhali tekeleza: bench --site orga.localhost migrate
+Events:,Matukio:
+Expert,Mtaalamu
+Explain why you are proposing a different time...,Eleza kwa nini unapendekeza wakati tofauti...
+Export,Hamisha nje
+Export failed,Kuhamisha nje kumeshindikana
+Export JSON,Hamisha JSON nje
+Exported,Imehamishwa nje
+Exported to timesheet {0},Imehamishwa kwenye karatasi ya muda {0}
+External,Nje
+Failed to add item,Imeshindikana kuongeza kipengee
+Failed to add note,Imeshindikana kuongeza dokezo
+Failed to add skill,Imeshindikana kuongeza ujuzi
+Failed to apply cascade changes: {0},Imeshindikana kutekeleza mabadiliko ya msururu: {0}
+Failed to create defect,Imeshindikana kuunda kasoro
+Failed to create dependency,Imeshindikana kuunda tegemezi
+Failed to create event,Imeshindikana kuunda tukio
+Failed to create milestone,Imeshindikana kuunda hatua muhimu
+Failed to create project,Imeshindikana kuunda mradi
+Failed to create task,Imeshindikana kuunda kazi
+Failed to create time log,Imeshindikana kuunda ingizo la muda
+Failed to delete,Imeshindikana kufuta
+Failed to delete comment,Imeshindikana kufuta maoni
+Failed to delete contact,Imeshindikana kufuta mawasiliano
+Failed to load,Imeshindikana kupakia
+Failed to load activity,Imeshindikana kupakia shughuli
+Failed to load assignments,Imeshindikana kupakia migawanyo
+Failed to load contact,Imeshindikana kupakia mawasiliano
+Failed to load dashboard data,Imeshindikana kupakia data ya dashibodi
+Failed to load defects,Imeshindikana kupakia kasoro
+Failed to load events,Imeshindikana kupakia matukio
+Failed to load project,Imeshindikana kupakia mradi
+Failed to load projects,Imeshindikana kupakia miradi
+Failed to load report data,Imeshindikana kupakia data ya ripoti
+Failed to load settings,Imeshindikana kupakia mipangilio
+Failed to load tasks,Imeshindikana kupakia kazi
+Failed to move task,Imeshindikana kusogeza kazi
+Failed to post comment,Imeshindikana kuchapisha maoni
+Failed to propose new time,Imeshindikana kupendekeza wakati mpya
+Failed to remove item,Imeshindikana kuondoa kipengee
+Failed to remove skill,Imeshindikana kuondoa ujuzi
+Failed to reorder milestones: {0},Imeshindikana kupanga upya hatua muhimu: {0}
+Failed to reorder tasks: {0},Imeshindikana kupanga upya kazi: {0}
+Failed to reschedule dependent tasks: {0},Imeshindikana kupanga upya kazi tegemezi: {0}
+Failed to save,Imeshindikana kuhifadhi
+Failed to save preferences,Imeshindikana kuhifadhi mapendeleo
+Failed to save settings,Imeshindikana kuhifadhi mipangilio
+Failed to submit request. Please try again.,Imeshindikana kutuma ombi. Tafadhali jaribu tena.
+Failed to update item,Imeshindikana kusasisha kipengee
+Failed to update priority,Imeshindikana kusasisha kipaumbele
+Failed to update task,Imeshindikana kusasisha kazi
+Failed to update tasks: {0},Imeshindikana kusasisha kazi: {0}
+Failed to upload avatar,Imeshindikana kupakia picha ya wasifu
+Feature,Kipengele
+Features,Vipengele
+FF (Finish-Finish),FF (Mwisho-Mwisho)
+FF - Finish-to-Finish,FF - Mwisho-hadi-Mwisho
+Field has been updated,Sehemu imesasishwa
+Field name is required for 'Set Field Value' action,Jina la sehemu linahitajika kwa hatua ya 'Weka Thamani ya Sehemu'
+Field {0} is not a Link field,Sehemu {0} si sehemu ya Kiungo
+Field {0} not found in {1},Sehemu {0} haijapatikana katika {1}
+File,Faili
+file,faili
+File does not belong to this task,Faili si ya kazi hii
+File name is required,Jina la faili linahitajika
+File uploaded,Faili imepakiwa
+File {0} not found,Faili {0} haijapatikana
+Files,Faili
+files,faili
+Filter,Chujio
+Final Decision,Uamuzi wa Mwisho
+Finance,Fedha
+Financial,Kifedha
+Finish-to-Finish,Mwisho-hadi-Mwisho
+Finish-to-Start,Mwisho-hadi-Mwanzo
+Flag,Alama
+Flag for attention,Weka alama kwa umakini
+Flagged,Imewekwa alama
+Focus Panel,Paneli ya Umakini
+Follows your system preference. Currently:,Inafuata mapendeleo yako ya mfumo. Sasa hivi:
+Frappe Project {0} not found,Mradi wa Frappe {0} haujapatikana
+Frappe Projects Migration,Uhamishaji wa Frappe Projects
+Frappe Projects module not available,Moduli ya Frappe Projects haipatikani
+Frappe Projects module not installed,Moduli ya Frappe Projects haijawekwa
+Frappe Projects sync is not enabled,Usawazishaji wa Frappe Projects haujawashwa
+Frappe Task DocType not found,DocType ya Kazi ya Frappe haijapatikana
+Frappe Task has no project,Kazi ya Frappe haina mradi
+Frappe Task {0} not found,Kazi ya Frappe {0} haijapatikana
+Fri,Iju
+From,Kutoka
+From Template,Kutoka Kiolezo
+FS (Finish-Start),FS (Mwisho-Mwanzo)
+FS - Finish-to-Start (default),FS - Mwisho-hadi-Mwanzo (chaguo-msingi)
+Full form view with audit trail,Muonekano kamili wa fomu na rekodi ya ukaguzi
+Full name,Jina kamili
+Gantt,Gantt
+Gantt Chart,Chati ya Gantt
+Gantt View,Muonekano wa Gantt
+General Note,Dokezo la Jumla
+Get started,Anza
+Go back,Rudi nyuma
+Go Back,Go Back
+Group by,Panga kwa vikundi
+Group dependency removed,Tegemezi ya kikundi imeondolewa
+Group dependency set,Tegemezi ya kikundi imewekwa
+Group removed,Kikundi kimeondolewa
+Group updated,Kikundi kimesasishwa
+Hammock task dates are auto-calculated and cannot be changed manually,Tarehe za kazi ya hamoki huhesabiwa kiotomatiki na haziwezi kubadilishwa kwa mikono
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Una swali au unahitaji msaada? Jaza fomu hapa chini na timu yetu itakujibu.
+Health,Afya
+Healthy,Nzuri
+Hello {0},Habari {0}
+Here's what's happening with your projects today.,Hivi ndivyo inavyoendelea na miradi yako leo.
+Hide,Ficha
+High,Juu
+History,Historia
+Home,Nyumbani
+Hourly Cost,Gharama ya kila saa
+Hours,Masaa
+hours,masaa
+Hours Logged,Masaa yaliyorekodiwa
+ID,Kitambulisho
+Image must be smaller than 5 MB,Picha lazima iwe chini ya MB 5
+Import,Ingiza
+Import existing projects and tasks from Frappe Projects module,Ingiza miradi na kazi zilizopo kutoka moduli ya Frappe Projects
+Import failed,Kuingiza kumeshindikana
+Import Template,Ingiza Kiolezo
+Imported,Imeingizwa
+in,katika
+In Progress,Inaendelea
+In Review,Inakaguliwa
+In-app notifications,Arifa ndani ya programu
+Inactive,Haifanyi kazi
+Initial Review,Ukaguzi wa awali
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Ruhusa hazitoshi kuona kazi zote
+Intermediate,Kati
+Internal,Ndani
+Invalid DocType,DocType batili
+Invalid DocType for import,DocType batili kwa kuingiza
+Invalid item type: {0},Aina ya kipengee batili: {0}
+Invalid JSON data,Data ya JSON batili
+Invalid note type. Must be one of: {0},Aina ya dokezo batili. Lazima iwe moja ya: {0}
+Invalid project reference,Rejea ya mradi batili
+Invalid reaction type. Must be one of: {0},Aina ya mwitikio batili. Lazima iwe moja ya: {0}
+Invalid RSVP status,Hali ya RSVP batili
+Invalid status. Must be one of: {0},Hali batili. Lazima iwe moja ya: {0}
+Invalid status: {0},Hali batili: {0}
+Invalid status: {0}. Must be one of: {1},Hali batili: {0}. Lazima iwe moja ya: {1}
+Invalid tracking context: {0},Muktadha wa ufuatiliaji batili: {0}
+Invalid visibility. Must be one of: {0},Uonekano batili. Lazima uwe moja ya: {0}
+Invitation: {0} - {1} at {2},Mwaliko: {0} - {1} saa {2}
+Invite People,Alika Watu
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Kipengee kimeongezwa
+Item ID is required,Kitambulisho cha kipengee kinahitajika
+Item removed,Kipengee kimeondolewa
+Item type is required,Aina ya kipengee inahitajika
+Item {0} not found,Kipengee {0} hakijapatikana
+Job title or role,Cheo au jukumu
+Join Meeting,Jiunge na Mkutano
+Just now,Sasa hivi
+just now,sasa hivi
+Kanban,Kanban
+Kanban Board,Bodi ya Kanban
+Kanban View,Muonekano wa Kanban
+Keyboard Shortcuts,Njia za mkato za kibodi
+Keyboard shortcuts (?),Njia za mkato za kibodi (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Iliyosasishwa mwisho
+Last updated:,Iliyosasishwa mwisho:
+Last Week,Wiki iliyopita
+Latest Version,Latest Version
+Light,Angavu
+Link failed,Kuunganisha kumeshindikana
+Link Task,Unganisha Kazi
+Linked,Imeunganishwa
+Linked employee not found,Mfanyakazi aliyeunganishwa hajapatikana
+Linked Tasks,Kazi zilizounganishwa
+List,Orodha
+List View,Muonekano wa Orodha
+Load failed,Kupakia kumeshindikana
+Load More,Pakia Zaidi
+Load more comments,Pakia maoni zaidi
+Loading activity...,Inapakia shughuli...
+Loading changes...,Inapakia mabadiliko...
+Loading checklist...,Inapakia orodha ya ukaguzi...
+Loading comments...,Inapakia maoni...
+Loading contact...,Inapakia mawasiliano...
+Loading contacts...,Inapakia mawasiliano...
+Loading dependencies...,Inapakia tegemezi...
+Loading details...,Inapakia maelezo...
+Loading discussion...,Inapakia mazungumzo...
+Loading events...,Inapakia matukio...
+Loading files...,Inapakia faili...
+Loading notes...,Inapakia madokezo...
+Loading preferences...,Inapakia mapendeleo...
+Loading project...,Inapakia mradi...
+Loading projects...,Inapakia miradi...
+Loading replies...,Inapakia majibu...
+Loading report data...,Inapakia data ya ripoti...
+Loading settings...,Inapakia mipangilio...
+Loading task...,Inapakia kazi...
+Loading templates...,Inapakia violezo...
+Loading time logs...,Inapakia maingizo ya muda...
+Loading your portal...,Inapakia lango lako...
+Loading...,Inapakia...
+Location,Mahali
+Log Time,Rekodi Muda
+Logout,Ondoka
+Low,Chini
+Make Offer,Toa Pendekezo
+Manager,Meneja
+Manual Entry,Ingizo la mkono
+Margin,Faida
+Mark all as read,Weka zote kama zilizosomwa
+Mark all read,Weka zote zilizosomwa
+Mark as read,Weka kama imesomwa
+Mark as unread,Weka kama haijasomwa
+Mark read,Weka iliyosomwa
+Marking...,Inaweka alama...
+Material,Vifaa
+Maybe,Labda
+Medium,Kati
+Meeting,Mkutano
+Meeting Link,Kiungo cha mkutano
+Meeting title,Kichwa cha mkutano
+Meeting URL,URL ya mkutano
+Meetings,Mikutano
+Mention,Taja
+Message,Ujumbe
+Message is required,Ujumbe unahitajika
+Message is required for '{0}' action,Ujumbe unahitajika kwa hatua ya '{0}'
+Migrate,Hamisha
+Migration Complete,Uhamishaji umekamilika
+Migration ID:,Kitambulisho cha uhamishaji:
+Migration log not found: {0},Kumbukumbu ya uhamishaji haijapatikana: {0}
+Milestone,Hatua Muhimu
+milestone,hatua muhimu
+Milestone created,Hatua muhimu imeundwa
+Milestone description has been saved.,Maelezo ya hatua muhimu yamehifadhiwa.
+Milestone ID is required,Kitambulisho cha hatua muhimu kinahitajika
+Milestone marked as Missed (past due date),Hatua muhimu imewekwa alama kuwa Imekoswa (tarehe ya mwisho imepita)
+Milestone moved,Hatua muhimu imesogezwa
+Milestone Name,Jina la Hatua Muhimu
+Milestone name has been saved.,Jina la hatua muhimu limehifadhiwa.
+Milestone name is required,Jina la hatua muhimu linahitajika
+Milestone updated,Hatua muhimu imesasishwa
+Milestone {0} not found,Hatua muhimu {0} haijapatikana
+Milestone {0} not in project {1},Hatua muhimu {0} haimo katika mradi {1}
+Milestones,Hatua muhimu
+milestones,hatua muhimu
+Milestones:,Hatua muhimu:
+Minutes,Dakika
+Missed,Imekoswa
+Mixed,Mchanganyiko
+Mobile,Simu
+Moderate,Wastani
+Modified,Imebadilishwa
+"Modify details, time, or attendees","Badilisha maelezo, muda au washiriki"
+Mon,Jtt
+Month,Mwezi
+Move failed,Kusogeza kumeshindikana
+Must be a positive number,Lazima iwe nambari chanya
+Must finish before this finishes,Lazima ikamilike kabla hii haijakamilika
+Must finish before this starts,Lazima ikamilike kabla hii haijaanza
+Must start before this finishes,Lazima ianze kabla hii haijakamilika
+Must start before this starts,Lazima ianze kabla hii haijaanza
+My Assignments,Migawanyo Yangu
+My Projects,Miradi Yangu
+My Schedule,Ratiba Yangu
+My Tasks,Kazi Zangu
+N/A,Haihusiki
+Name,Jina
+Name (A-Z),Jina (A-Z)
+Name (Z-A),Jina (Z-A)
+Name cannot exceed 255 characters,Jina haliwezi kuzidi herufi 255
+Need help?,Unahitaji msaada?
+Needs Attention,Inahitaji Umakini
+Never,Never
+new activities,shughuli mpya
+New Activity,Shughuli Mpya
+New activity,Shughuli mpya
+New Event,Tukio Jipya
+New index is required,Orodha mpya inahitajika
+New Project,Mradi Mpya
+New tasks will auto-trail by default.,Kazi mpya zitateleza kiotomatiki kwa chaguo-msingi.
+Newest First,Mpya zaidi kwanza
+Next,Ifuatayo
+Next 14 days,Siku 14 zijazo
+Next 30 days,Siku 30 zijazo
+Next 60 days,Siku 60 zijazo
+Next 7 days,Siku 7 zijazo
+Next 90 days,Siku 90 zijazo
+Next Week,Wiki ijayo
+Next:,Ifuatayo:
+No,Hapana
+No active assignments,Hakuna migawanyo inayofanya kazi
+No active projects,Hakuna miradi inayofanya kazi
+No active timer found,Hakuna kipima muda kinachofanya kazi
+No activity selected,Hakuna shughuli iliyochaguliwa
+No assignments found,Hakuna migawanyo iliyopatikana
+No attendees,Hakuna washiriki
+no change,hakuna mabadiliko
+No changes for this field.,Hakuna mabadiliko kwa sehemu hii.
+No changes recorded for this activity.,Hakuna mabadiliko yaliyorekodiwa kwa shughuli hii.
+No checklist items yet,Hakuna vipengee vya orodha ya ukaguzi bado
+No checklist items yet.,Hakuna vipengee vya orodha ya ukaguzi bado.
+No comments yet,Hakuna maoni bado
+No comments yet.,Hakuna maoni bado.
+No contacts available,Hakuna mawasiliano yanayopatikana
+No content for this tab,Hakuna maudhui kwa kichupo hiki
+No data available,Hakuna data inayopatikana
+No data available for the selected filters,Hakuna data inayopatikana kwa vichujio vilivyochaguliwa
+No data to export,Hakuna data ya kuhamisha nje
+No dates set,Hakuna tarehe zilizowekwa
+No defects reported,Hakuna kasoro zilizoripotiwa
+No dependencies defined,Hakuna tegemezi zilizobainishwa
+No description,Hakuna maelezo
+No discussion yet.,Hakuna mazungumzo bado.
+No documents attached,Hakuna hati zilizoambatishwa
+No due date,Hakuna tarehe ya mwisho
+No employee linked to this resource,Hakuna mfanyakazi aliyeunganishwa na rasilimali hii
+No ERPNext employee linked to resource,Hakuna mfanyakazi wa ERPNext aliyeunganishwa na rasilimali
+No events found,Hakuna matukio yaliyopatikana
+No files attached yet.,Hakuna faili zilizoambatishwa bado.
+No Frappe Project linked,Hakuna mradi wa Frappe uliounganishwa
+No Grouping,Hakuna Upangaji
+No items,Hakuna vipengee
+No matching tasks,Hakuna kazi zinazolingana
+No matching tasks found,Hakuna kazi zinazolingana zilizopatikana
+No migration history,Hakuna historia ya uhamishaji
+No Milestone,Hakuna Hatua Muhimu
+No milestones,Hakuna hatua muhimu
+No milestones defined for this project.,Hakuna hatua muhimu zilizobainishwa kwa mradi huu.
+No notes yet.,Hakuna madokezo bado.
+No notes yet. Add a due diligence note to track progress.,Hakuna madokezo bado. Ongeza dokezo la uchunguzi wa kina kufuatilia maendeleo.
+No notifications,Hakuna arifa
+No Orga Project linked to Frappe Project {0},Hakuna mradi wa Orga uliounganishwa na mradi wa Frappe {0}
+No overdue tasks,Hakuna kazi zilizochelewa
+No pending cascade changes,Hakuna mabadiliko ya msururu yanayosubiri
+No predecessors - this task can start independently,Hakuna vitangulia — kazi hii inaweza kuanza kivyake
+No project,Hakuna mradi
+No projects found,Hakuna miradi iliyopatikana
+No Projects Yet,Hakuna Miradi Bado
+No recent activity,Hakuna shughuli za hivi karibuni
+No related documents,Hakuna hati zinazohusiana
+No resolved threads.,Hakuna mazungumzo yaliyotatuliwa.
+No resources found,Hakuna rasilimali zilizopatikana
+No results found,Hakuna matokeo yaliyopatikana
+No skills listed,Hakuna ujuzi ulioorodheshwa
+No skills recorded yet,Hakuna ujuzi uliorekodtiwa bado
+No successors - no tasks are waiting for this one,Hakuna wafuataji — hakuna kazi zinazongoja hii
+No task selected,Hakuna kazi iliyochaguliwa
+No tasks assigned to you,Hakuna kazi zilizogawiwa kwako
+No tasks available to add,Hakuna kazi zinazopatikana kuongeza
+No tasks found,Hakuna kazi zilizopatikana
+No tasks linked to this milestone,Hakuna kazi zilizounganishwa na hatua hii muhimu
+No tasks with dates to display,Hakuna kazi zenye tarehe za kuonyesha
+No tasks yet,Hakuna kazi bado
+No team members,Hakuna wanachama wa timu
+No template,Hakuna kiolezo
+No templates yet,Hakuna violezo bado
+No time data found,Hakuna data ya muda iliyopatikana
+No time logged today,Hakuna muda uliorekotiwa leo
+No time logged yet,Hakuna muda uliorekotiwa bado
+No time logs for this period,Hakuna maingizo ya muda kwa kipindi hiki
+No time logs found,Hakuna maingizo ya muda yaliyopatikana
+No unread notifications,Hakuna arifa ambazo hazijasomwa
+No update information available yet.,No update information available yet.
+None,Hakuna
+Not found,Haijapatikana
+Not permitted,Hairuhusiwi
+Not permitted to access this project,Hairuhusiwi kufikia mradi huu
+Not permitted to access this task,Hairuhusiwi kufikia kazi hii
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Huruhusiwi kutoa maoni kwenye hati hii
+Not permitted to create clients,Huruhusiwi kuunda wateja
+Not permitted to delete this client,Huruhusiwi kufuta mteja huyu
+Not permitted to delete this defect,Huruhusiwi kufuta kasoro hii
+Not permitted to delete this note,Huruhusiwi kufuta dokezo hili
+Not permitted to delete this project,Huruhusiwi kufuta mradi huu
+Not permitted to delete this task,Huruhusiwi kufuta kazi hii
+Not permitted to delete this time log,Huruhusiwi kufuta ingizo hili la muda
+Not permitted to invite clients,Huruhusiwi kualika wateja
+Not permitted to modify client access,Huruhusiwi kubadilisha ruhusa ya mteja
+Not permitted to modify this project,Huruhusiwi kubadilisha mradi huu
+Not permitted to update settings,Huruhusiwi kusasisha mipangilio
+Not permitted to update this client,Huruhusiwi kusasisha mteja huyu
+Not permitted to view this client,Huruhusiwi kuona mteja huyu
+not sent,haijatumwa
+Not set,Haijawekwa
+Not specified,Haijabainishwa
+Note,Dokezo
+Note (optional),Dokezo (si lazima)
+Note Content,Maudhui ya Dokezo
+Note content is required,Maudhui ya dokezo yanahitajika
+Note name is required,Jina la dokezo linahitajika
+Note not found,Dokezo halijapatikana
+Note Type,Aina ya Dokezo
+Notes,Madokezo
+Notification,Arifa
+Notification not found,Arifa haijapatikana
+Notifications,Arifa
+Off Track,Nje ya mpango
+Offer,Pendekezo
+Offer Prepared,Pendekezo Limetayarishwa
+Oldest First,Ya zamani zaidi kwanza
+On Hold,Imesimamishwa
+On Leave,Likizoni
+On Track,Katika mpango
+On-Time Rate,Kiwango cha wakati unaofaa
+Only administrators can delete activities,Wasimamizi pekee wanaweza kufuta shughuli
+Only the comment author or administrators can delete comments,Mwandishi wa maoni au wasimamizi pekee wanaweza kufuta maoni
+Only you and admins,Wewe na wasimamizi pekee
+Open,Wazi
+Open in Desk,Fungua katika Desk
+Open Task Log,Fungua Kumbukumbu ya Kazi
+Open Tasks,Kazi Zilizo Wazi
+Optional,Si lazima
+optional,si lazima
+Or email us directly at,Au tutumie barua pepe moja kwa moja kwa
+Orga Project {0} from Frappe Projects,Mradi wa Orga {0} kutoka Frappe Projects
+Orga Task {0} from Frappe,Kazi ya Orga {0} kutoka Frappe
+Organizer,Mpangaji
+Other,Nyingine
+Over Budget,Zaidi ya Bajeti
+Overall Progress,Maendeleo ya Jumla
+Overall Utilization,Matumizi ya Jumla
+Overallocated,Imegawanywa kupita kiasi
+Overdue,Imechelewa
+overdue,imechelewa
+Overdue Tasks,Kazi Zilizochelewa
+Overview,Muhtasari
+Owner,Mmiliki
+Page Not Found,Ukurasa Haujapatikana
+Parent,Mzazi
+Parent comment must belong to the same document,Maoni ya mzazi lazima yawe ya hati hiyo hiyo
+Parent comment not found,Maoni ya mzazi hayajapatikana
+Parent project not synced to Frappe yet,Mradi mkuu bado haujasawazishwa na Frappe
+Parent project sync not enabled,Usawazishaji wa mradi mkuu haujawashwa
+Partner,Mshirika
+Pending,Inasubiri
+per page,kwa ukurasa
+Perform initial assessment and background check,Fanya tathmini ya awali na ukaguzi wa usuli
+Permanently remove this event,Ondoa tukio hili kabisa
+Permanently remove this task,Ondoa kazi hii kabisa
+Phone,Simu
+Pin,Bandika
+Pin Activity,Bandika Shughuli
+Pin to top,Bandika juu
+Pinned,Imebandikwa
+Planned budget for this task,Bajeti iliyopangwa kwa kazi hii
+Planning,Mipango
+Please describe your question or issue in detail...,Tafadhali eleza swali au tatizo lako kwa undani...
+Please login to access Orga,Tafadhali ingia kufikia Orga
+Please login to access the client portal,Tafadhali ingia kufikia lango la mteja
+Please respond to this invitation in Orga,Tafadhali jibu mwaliko huu katika Orga
+Please select an image file,Tafadhali chagua faili ya picha
+Please try again,Tafadhali jaribu tena
+Please type,Tafadhali andika
+Portal,Lango
+Portal access revoked for {0},Ruhusa ya lango imeondolewa kwa {0}
+Portal user created successfully. Welcome email {0},Mtumiaji wa lango ameundwa kwa mafanikio. Barua pepe ya kukaribisha {0}
+Post,Chapisha
+Powered by,Imetengenezwa na
+Powered by Tonic,Imetengenezwa na Tonic
+Predecessors (Blocked By),Vitangulia (Imezuiwa na)
+Preferences,Mapendeleo
+Preferences saved successfully,Mapendeleo yamehifadhiwa kwa mafanikio
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Kiambishi awali kwa misimbo ya miradi inayozalishwa kiotomatiki (mfano: ORG-2026-0001)
+Prepare and document offer terms,Tayarisha na uandike masharti ya pendekezo
+Press,Bonyeza
+Preview,Muonekano
+Preview cascade before applying,Muonekano wa msururu kabla ya kutekeleza
+Previous,Iliyotangulia
+Priority,Kipaumbele
+Priority assigned to new tasks,Kipaumbele kilichowekwa kwa kazi mpya
+Priority updated,Kipaumbele kimesasishwa
+Proficiency,Ustadi
+Profile,Wasifu
+Progress,Maendeleo
+Progress (High-Low),Maendeleo (Juu-Chini)
+Progress (Low-High),Maendeleo (Chini-Juu)
+Progress Overview,Muhtasari wa Maendeleo
+Progress updated,Maendeleo yamesasishwa
+Project,Mradi
+Project budget has been saved.,Bajeti ya mradi imehifadhiwa.
+Project code (e.g. ORG-2026-0001),Msimbo wa mradi (mfano: ORG-2026-0001)
+Project Code Prefix,Kiambishi awali cha msimbo wa mradi
+Project created,Mradi umeundwa
+Project deleted,Mradi umefutwa
+Project description has been saved.,Maelezo ya mradi yamehifadhiwa.
+Project Details,Maelezo ya Mradi
+Project end date has been saved.,Tarehe ya mwisho ya mradi imehifadhiwa.
+Project Files,Faili za Mradi
+Project has no linked client,Mradi hauna mteja aliyeunganishwa
+Project Health,Afya ya Mradi
+Project Info,Taarifa za Mradi
+Project is required,Mradi unahitajika
+Project is required for project context,Mradi unahitajika kwa muktadha wa mradi
+Project is required when tracking context is 'project',Mradi unahitajika muktadha wa ufuatiliaji unapokuwa 'mradi'
+Project Manager,Meneja wa Mradi
+Project Name,Jina la Mradi
+Project name and template name are required,Jina la mradi na jina la kiolezo vinahitajika
+Project name is required,Jina la mradi linahitajika
+Project not found,Mradi haujapatikana
+Project not found or you do not have access,Mradi haujapatikana au huna ruhusa
+Project settings,Mipangilio ya mradi
+Project start date has been saved.,Tarehe ya kuanza ya mradi imehifadhiwa.
+Project title has been saved.,Kichwa cha mradi kimehifadhiwa.
+Project Type,Aina ya Mradi
+Project updated,Mradi umesasishwa
+Project {0} linked to client {1},Mradi {0} umeunganishwa na mteja {1}
+Project {0} not found,Mradi {0} haujapatikana
+Project {0} to Frappe Projects,Mradi {0} kwenda Frappe Projects
+Project:,Mradi:
+Projects,Miradi
+projects,miradi
+Projects created:,Miradi iliyoundwa:
+Projects Overview,Muhtasari wa Miradi
+Projects skipped:,Miradi iliyorukwa:
+Projects updated:,Miradi iliyosasishwa:
+Promote failed,Kupandisha kumeshindikana
+Promote to task,Pandisha kuwa kazi
+Promoted to task,Imepandishwa kuwa kazi
+Propose,Pendekeza
+Propose New Time,Pendekeza Wakati Mpya
+Propose Time,Pendekeza Wakati
+Proposed End,Mwisho Uliopendekezwa
+Proposed Start,Mwanzo Uliopendekezwa
+Public,Umma
+Quick Action,Hatua ya Haraka
+Quick Actions,Hatua za Haraka
+Quick Stats,Takwimu za Haraka
+Rates,Viwango
+Receive notifications via email,Pokea arifa kupitia barua pepe
+Receive notifications within the application,Pokea arifa ndani ya programu
+Recent Activity,Shughuli za Hivi Karibuni
+Recipient {0} is not a valid user,Mpokeaji {0} si mtumiaji halali
+Reference,Rejea
+Refresh,Onesha upya
+Related,Inayohusiana
+Related Company (optional),Kampuni inayohusiana (si lazima)
+Related Documents,Hati Zinazohusiana
+Related Project,Mradi Unaohusiana
+Remaining,Iliyobaki
+Reminder,Kumbusho
+Reminder Lead Time,Muda wa Kumbusho Kabla
+Reminder: {0} - {1} at {2},Kumbusho: {0} - {1} saa {2}
+Remove,Ondoa
+Remove dependency,Ondoa tegemezi
+Remove dependency on,Ondoa tegemezi kwa
+Remove from group,Ondoa kutoka kikundi
+Remove group dependency,Ondoa tegemezi ya kikundi
+Remove skill,Ondoa ujuzi
+Reopen,Fungua tena
+Reopen thread,Fungua tena mazungumzo
+reopened,imefunguliwa tena
+replies,majibu
+Reply,Jibu
+reply,jibu
+Replying to,Inajibu kwa
+Replying to comment,Inajibu maoni
+Report Defect,Ripoti Kasoro
+Reported Date,Tarehe ya Ripoti
+Reports,Ripoti
+Reports To,Anaripoti kwa
+Request Submitted!,Ombi Limetumwa!
+Required,Inahitajika
+required,inahitajika
+Research,Utafiti
+Reset to Defaults,Rudisha kwa Thamani za Awali
+Resolve,Tatua
+Resolve thread,Tatua mazungumzo
+Resolved,Imetatuliwa
+Resolved date cannot be before reported date,Tarehe ya kutatuliwa haiwezi kuwa kabla ya tarehe ya kuripotiwa
+Resource,Rasilimali
+Resource and skill name are required,Rasilimali na jina la ujuzi vinahitajika
+Resource is already an attendee,Rasilimali tayari ni mshiriki
+Resource name is required,Jina la rasilimali linahitajika
+Resource not found,Rasilimali haijapatikana
+Resource synced from employee {0},Rasilimali imesawazishwa kutoka mfanyakazi {0}
+Resource {0} is already assigned to this task ({1}),Rasilimali {0} tayari imegawiwa kazi hii ({1})
+Resource {0} not found,Rasilimali {0} haijapatikana
+Resources,Rasilimali
+Retry,Jaribu tena
+Review,Kagua
+Review all relevant documents and contracts,Kagua hati na mikataba yote husika
+Reviews,Ukaguzi
+Risk Assessment,Tathmini ya Hatari
+Rollback,Rudisha nyuma
+Rolled back,Imerudishwa nyuma
+Room or address,Chumba au anwani
+RSVP,RSVP
+Safety,Usalama
+Sat,Jmt
+Save,Hifadhi
+"Save a project as a template, or import one from a JSON file.","Hifadhi mradi kama kiolezo, au ingiza moja kutoka faili ya JSON."
+Save as Template,Hifadhi kama Kiolezo
+Save Changes,Hifadhi Mabadiliko
+Save failed,Kuhifadhi kumeshindikana
+Save Preferences,Hifadhi Mapendeleo
+Save Template,Hifadhi Kiolezo
+Saving...,Inahifadhi...
+Schedule,Ratiba
+Schedule type is required for scheduled triggers,Aina ya ratiba inahitajika kwa vichochezi vilivyopangwa
+Scheduled,Imepangwa
+Search,Tafuta
+"Search by name, email, or skill...","Tafuta kwa jina, barua pepe, au ujuzi..."
+Search for a project...,Tafuta mradi...
+Search for a task...,Tafuta kazi...
+Search for an event...,Tafuta tukio...
+Search for people to invite...,Tafuta watu wa kualika...
+Search tasks to link...,Tafuta kazi za kuunganisha...
+Search tasks...,Tafuta kazi...
+Search...,Tafuta...
+Searching...,Inatafuta...
+Seen,Imeonwa
+Select a project if your request is related to a specific project.,Chagua mradi ikiwa ombi lako linahusiana na mradi maalum.
+Select a project...,Chagua mradi...
+Select a task from the Gantt chart to view and manage its details.,Chagua kazi kutoka chati ya Gantt kuona na kudhibiti maelezo yake.
+Select a task from the list or Kanban board to view and manage its details.,Chagua kazi kutoka orodha au bodi ya Kanban kuona na kudhibiti maelezo yake.
+Select a template...,Chagua kiolezo...
+Select priority...,Chagua kipaumbele...
+Select status...,Chagua hali...
+Select task...,Chagua kazi...
+Select type...,Chagua aina...
+Selection,Uteuzi
+Send,Tuma
+Send comment,Tuma maoni
+Send email invitations to attendees,Tuma mialiko ya barua pepe kwa washiriki
+Send Invitations,Tuma Mialiko
+Send notification when a task is assigned to a user,Tuma arifa kazi inapogawiwa kwa mtumiaji
+Send notification when task status changes,Tuma arifa hali ya kazi inapobadilika
+Send reminder before task due date,Tuma kumbusho kabla ya tarehe ya mwisho ya kazi
+sent,imetumwa
+Set rate,Weka kiwango
+Settings,Mipangilio
+Settings saved successfully,Mipangilio imehifadhiwa kwa mafanikio
+Severity,Ukali
+SF (Start-Finish),SF (Mwanzo-Mwisho)
+SF - Start-to-Finish,SF - Mwanzo-hadi-Mwisho
+Show,Onyesha
+Show all,Onyesha zote
+Show all changes,Onyesha mabadiliko yote
+Show Archived,Onyesha Zilizohifadhiwa
+Show full diff,Onyesha tofauti kamili
+Show less,Onyesha kidogo
+Show more,Onyesha zaidi
+Skill added,Ujuzi umeongezwa
+Skill is required,Ujuzi unahitajika
+Skill Name,Jina la Ujuzi
+Skill removed,Ujuzi umeondolewa
+Skill {0} already exists for this resource,Ujuzi {0} tayari upo kwa rasilimali hii
+Skills,Ujuzi
+Skills & Competencies,Ujuzi na Uwezo
+Skip already migrated projects,Ruka miradi iliyohamishwa tayari
+Sort by,Panga kwa
+Sort: Due Date,Panga: Tarehe ya mwisho
+Sort: Priority,Panga: Kipaumbele
+Sort: Project,Panga: Mradi
+Sort: Status,Panga: Hali
+Sort: Task,Panga: Kazi
+Source Code,Msimbo wa Chanzo
+Spent,Imetumika
+Spent:,Imetumika:
+SS (Start-Start),SS (Mwanzo-Mwanzo)
+SS - Start-to-Start,SS - Mwanzo-hadi-Mwanzo
+Standalone,Inajitegemea
+Start,Anza
+Start a discussion below,Anza mazungumzo hapa chini
+Start Date,Tarehe ya Kuanza
+Start date,Tarehe ya kuanza
+Start Date (Earliest),Tarehe ya Kuanza (ya mapema zaidi)
+Start date updated,Tarehe ya kuanza imesasishwa
+Start date/time is required,Tarehe/saa ya kuanza inahitajika
+Start Migration,Anza Uhamishaji
+Start the conversation below.,Anza mazungumzo hapa chini.
+Start Timer,Anza Kipima Muda
+Start typing to search...,Anza kuandika kutafuta...
+Start-to-Finish,Mwanzo-hadi-Mwisho
+Start-to-Start,Mwanzo-hadi-Mwanzo
+Start:,Mwanzo:
+Statistics reset,Takwimu zimewekwa upya
+Status,Hali
+Status assigned to new projects,Hali iliyowekwa kwa miradi mipya
+Status assigned to new tasks,Hali iliyowekwa kwa kazi mpya
+Status Changes,Mabadiliko ya Hali
+Status updated,Hali imesasishwa
+Status:,Hali:
+Stop,Simamisha
+Stop & Save,Simamisha na Uhifadhi
+Stop Timer,Simamisha Kipima Muda
+Stops current timer and starts for this event,Inasimamisha kipima muda sasa na kuanza kwa tukio hili
+Stops current timer and starts for this task,Inasimamisha kipima muda sasa na kuanza kwa kazi hii
+Subject,Somo
+Subject cannot exceed 255 characters,Somo haliwezi kuzidi herufi 255
+Subject is required,Somo linahitajika
+Submit,Wasilisha
+Submit Another Request,Wasilisha Ombi Jingine
+Submit Request,Wasilisha Ombi
+Submitting...,Inawasilisha...
+Successfully saved,Imehifadhiwa kwa mafanikio
+Successors (Blocking),Wafuataji (Wanaozuia)
+Sun,Jpi
+Supplier,Muuzaji
+Support,Msaada
+Switch to this event,Hamia kwenye tukio hili
+Switch to this task,Hamia kwenye kazi hii
+Sync direction is set to Frappe to Orga only,Mwelekeo wa usawazishaji umewekwa kutoka Frappe kwenda Orga pekee
+Sync direction is set to Orga to Frappe only,Mwelekeo wa usawazishaji umewekwa kutoka Orga kwenda Frappe pekee
+Sync not enabled for this project,Usawazishaji haujawashwa kwa mradi huu
+System,Mfumo
+Table,Jedwali
+Take ownership of this task,Chukua umiliki wa kazi hii
+Target Date,Tarehe Lengwa
+Target End,Mwisho Lengwa
+Target Project,Mradi Lengwa
+Target user is required for '{0}' action,Mtumiaji lengwa anahitajika kwa hatua ya '{0}'
+Task,Kazi
+task,kazi
+Task '{0}' is due on {1}.,Kazi '{0}' inatarajiwa tarehe {1}.
+Task and resource are required,Kazi na rasilimali zinahitajika
+Task Assignment,Ugawaji wa Kazi
+Task cannot be its own parent,Kazi haiwezi kuwa mzazi wake yenyewe
+Task cannot depend on itself,Kazi haiwezi kutegemea yenyewe
+Task cannot depend on the group it belongs to,Kazi haiwezi kutegemea kikundi ambacho iko ndani yake
+Task created,Kazi imeundwa
+Task deleted,Kazi imefutwa
+Task description has been saved.,Maelezo ya kazi yamehifadhiwa.
+Task Details,Maelezo ya Kazi
+Task due in {0} days: {1},Kazi inatarajiwa baada ya siku {0}: {1}
+Task due today: {0},Kazi inatarajiwa leo: {0}
+Task due tomorrow: {0},Kazi inatarajiwa kesho: {0}
+Task duplicated,Kazi imenakiliwa
+Task Group,Kikundi cha Kazi
+Task ID is required,Kitambulisho cha kazi kinahitajika
+Task is blocked by incomplete dependencies,Kazi imezuiwa na tegemezi ambazo hazijakamilika
+Task is cancelled,Kazi imeghairiwa
+Task is completed,Kazi imekamilika
+Task is no longer blocked by a group,Kazi haizuiwi tena na kikundi
+Task is required for task context,Kazi inahitajika kwa muktadha wa kazi
+Task is required when tracking context is 'task',Kazi inahitajika muktadha wa ufuatiliaji unapokuwa 'kazi'
+Task linked,Kazi imeunganishwa
+Task moved,Kazi imesogezwa
+Task name,Jina la kazi
+Task name is required,Jina la kazi linahitajika
+Task removed from group,Kazi imeondolewa kutoka kikundi
+Task Subject,Somo la Kazi
+Task subject is required,Somo la kazi linahitajika
+Task Type,Aina ya Kazi
+Task unblocked: {0},Kazi imefunguliwa: {0}
+Task unlinked,Kazi imeondolewa muunganisho
+Task updated,Kazi imesasishwa
+Task {0} not found,Kazi {0} haijapatikana
+Task {0} not in project {1},Kazi {0} haimo katika mradi {1}
+Task {0} to Frappe,Kazi {0} kwenda Frappe
+Tasks,Kazi
+tasks,kazi
+Tasks and milestones will be created with dates relative to the project start date.,Kazi na hatua muhimu zitaundwa na tarehe kulingana na tarehe ya kuanza ya mradi.
+Tasks assigned to you across all projects.,Kazi zilizogawiwa kwako katika miradi yote.
+Tasks created:,Kazi zilizoundwa:
+Tasks from projects you manage.,Kazi kutoka miradi unayosimamia.
+Tasks updated:,Kazi zilizosasishwa:
+"Tasks, milestones, and dependencies have been created.","Kazi, hatua muhimu, na tegemezi zimeundwa."
+Tasks:,Kazi:
+TBD,Itaamuliwa
+Team,Timu
+Team Members,Wanachama wa Timu
+Template,Kiolezo
+Template applied,Kiolezo kimetumika
+Template data is required in import data,Data ya kiolezo inahitajika katika data ya kuingiza
+Template has no data,Kiolezo hakina data
+Template Name,Jina la Kiolezo
+Template name,Jina la kiolezo
+Template name is required,Jina la kiolezo linahitajika
+Template name is required in import data,Jina la kiolezo linahitajika katika data ya kuingiza
+Template saved,Kiolezo kimehifadhiwa
+Template updated successfully.,Kiolezo kimesasishwa kwa mafanikio.
+Template {0} not found,Kiolezo {0} hakijapatikana
+Templates,Violezo
+Tentative,Si uhakika
+The comment has been deleted,Maoni yamefutwa
+The project,Mradi
+The source document may have been deleted.,Hati chanzo huenda imefutwa.
+The source document will not be affected.,Hati chanzo haitaathiriwa.
+The status of '{0}' was changed from {1} to {2}.,Hali ya '{0}' imebadilishwa kutoka {1} kuwa {2}.
+Theme,Mandhari
+Theme preference,Pendeleo la mandhari
+This action,Hatua hii
+This action cannot be undone.,Hatua hii haiwezi kurudishwa.
+This activity has been flagged for attention,Shughuli hii imewekwa alama kwa umakini
+This is a reminder for your upcoming appointment,Hii ni kumbusho la miadi yako inayokuja
+This method is only meant for developer mode,Njia hii ni kwa hali ya watengenezaji pekee
+This page wandered off,This page wandered off
+This Week,Wiki Hii
+This will delete all notes and preferences associated with this activity.,Hii itafuta madokezo na mapendeleo yote yanayohusiana na shughuli hii.
+This will import all Frappe Projects into Orga. Continue?,Hii itaingiza miradi yote ya Frappe kwenye Orga. Endelea?
+This will permanently delete,Hii itafuta kabisa
+This will permanently delete:,Hii itafuta kabisa:
+Thu,Alh
+Time,Muda
+Time & Billing,Muda na Malipo
+Time & Revenue,Muda na Mapato
+Time Entries,Maingizo ya Muda
+Time log name is required,Jina la ingizo la muda linahitajika
+Time Log not found,Ingizo la muda halijapatikana
+Time log {0} not found,Ingizo la muda {0} halijapatikana
+Time Logs,Maingizo ya Muda
+Time Summary,Muhtasari wa Muda
+Time Tracking,Ufuatiliaji wa Muda
+Timeline,Ratiba ya matukio
+Timer active on,Kipima muda kinatumika kwenye
+Timer is not running,Kipima muda hakiendelei
+Timer Running,Kipima Muda Kinaendelea
+Timer running,Kipima muda kinaendelea
+Timesheet DocType not available,DocType ya Karatasi ya Muda haipatikani
+Timesheets,Karatasi za Muda
+Timezone,Eneo la saa
+Timezone is detected from your browser,Eneo la saa linagunduliwa kutoka kivinjari chako
+Title,Kichwa
+Title cannot exceed 255 characters,Kichwa hakiwezi kuzidi herufi 255
+Title is required,Kichwa kinahitajika
+Title updated,Kichwa kimesasishwa
+To,Kwenda
+to,kwenda
+to cancel,kughairi
+to close,kufunga
+to confirm:,kuthibitisha:
+to edit,kuhariri
+"to save,","kuhifadhi,"
+To Time cannot be before From Time,Saa ya mwisho haiwezi kuwa kabla ya Saa ya kuanza
+Today,Leo
+today,leo
+Toggle billable,Geuza malipo
+Toggle Details Panel,Onyesha/Ficha Paneli ya Maelezo
+Toggle Manager Panel,Onyesha/Ficha Paneli ya Meneja
+Toggle Sidebar,Onyesha/Ficha Kando
+Tomorrow,Kesho
+tomorrow,kesho
+Total,Jumla
+Total Budget,Bajeti ya Jumla
+Total Contacts,Jumla ya Mawasiliano
+Total Cost,Gharama ya Jumla
+Total Cost to Org,Gharama ya Jumla kwa Shirika
+Total Defect Cost,Gharama ya Jumla ya Kasoro
+Total Hours,Jumla ya Masaa
+Total Hours Logged,Jumla ya Masaa Yaliyorekodiwa
+Total Projects,Jumla ya Miradi
+Total Spent,Jumla Iliyotumika
+Total Tasks,Jumla ya Kazi
+Total:,Jumla:
+Tracked,Imefuatiliwa
+trails to today while Open at 0%,inateleza hadi leo ikibaki Wazi kwa 0%
+Tried:,Tried:
+Try adjusting your filter criteria,Jaribu kubadilisha vigezo vyako vya uchujaji
+Try adjusting your filters.,Jaribu kubadilisha vichujio vyako.
+Try Again,Jaribu Tena
+Tue,Jnn
+Type,Aina
+Type updated,Aina imesasishwa
+Type:,Aina:
+Typical response time: 1-2 business days,Muda wa kawaida wa kujibu: siku 1-2 za kazi
+Unarchive,Rejesha
+Unarchive Activity,Rejesha Shughuli
+Unassign,Ondoa mgawanyo
+Unassigned,Haijagawiwa
+Under Budget,Chini ya Bajeti
+Ungrouped,Haijapangwa
+Unknown,Haijulikani
+Unknown error,Hitilafu isiyojulikana
+Unlink failed,Kuondoa muunganisho kumeshindikana
+Unlink task from milestone,Ondoa muunganisho wa kazi kutoka hatua muhimu
+Unpin,Ondoa kibandiko
+Unpin Activity,Ondoa Kibandiko cha Shughuli
+Unread,Haijasomwa
+Unread only,Hazijasomwa pekee
+Until,Hadi
+Up to Date,Up to Date
+Upcoming,Inayokuja
+upcoming,inayokuja
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Kusasisha kumeshindikana
+Updated,Imesasishwa
+Updated successfully,Imesasishwa kwa mafanikio
+Updates,Updates
+Upload,Pakia
+Upload failed,Kupakia kumeshindikana
+Upload files below to attach them to this task.,Pakia faili hapa chini kuziambatisha kwenye kazi hii.
+Upload to project,Pakia kwenye mradi
+Uploading...,Inapakia...
+Urgent,Ya haraka
+User {0} is already linked to client {1},Mtumiaji {0} tayari ameunganishwa na mteja {1}
+User {0} is already linked to resource {1},Mtumiaji {0} tayari ameunganishwa na rasilimali {1}
+Utilization,Matumizi
+Valid,Halali
+Value:,Thamani:
+Variance,Tofauti
+Variance:,Tofauti:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Angalia
+View All,Angalia Zote
+View all active projects,Angalia miradi yote inayofanya kazi
+View all open tasks,Angalia kazi zote zilizo wazi
+View overdue tasks,Angalia kazi zilizochelewa
+View Release,View Release
+Visibility,Uonekano
+Waiting for this task,Inasubiri kazi hii
+Waits for:,Inasubiri:
+Warning: Resource {0} status is {1},Onyo: Hali ya rasilimali {0} ni {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Onyo: Inatumia HTTP badala ya HTTPS. Data za webhook huenda zisiwe salama.
+Watch budget closely,Fuatilia bajeti kwa makini
+We'll respond to:,Tutajibu kwenye:
+Webhook deleted,Webhook imefutwa
+Webhook name is required,Jina la webhook linahitajika
+Webhook not found,Webhook haijapatikana
+Webhook URL is required,URL ya webhook inahitajika
+Webhook URL must start with http:// or https://,URL ya webhook lazima ianze na http:// au https://
+Wed,Jtn
+Week,Wiki
+Weekend,Wikendi
+Weekly Capacity,Uwezo wa Kila Wiki
+weekly capacity,uwezo wa kila wiki
+Weekly Capacity (h),Uwezo wa Kila Wiki (s)
+Welcome,Karibu
+Welcome back!,Karibu tena!
+Welcome to Orga,Karibu kwenye Orga
+What are you working on?,Unafanya kazi gani?
+What did you work on?,Ulifanya kazi gani?
+When,Lini
+When work begins,Kazi inapoanza
+When work is due,Kazi inapotarajiwa
+Where,Wapi
+Will capture:,Itahifadhi:
+Will create:,Itaunda:
+with checklist items,pamoja na vipengee vya orodha ya ukaguzi
+Working,Inafanya kazi
+Workload,Mzigo wa kazi
+Workmanship,Ubora wa kazi
+Write a comment...,Andika maoni...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Andika maoni... Tumia @jina kutaja (Ctrl+Enter kutuma)
+Year,Mwaka
+Yes,Ndiyo
+Yesterday,Jana
+yesterday,jana
+You are not an attendee of this appointment,Wewe si mshiriki wa miadi hii
+You are not linked to any resource,Hujaungashwa na rasilimali yoyote
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Unaweza kufuta maoni yako pekee
+You can only delete your own reactions,Unaweza kufuta mwitikio wako pekee
+You do not have access to the client portal. Please contact support.,Huna ruhusa ya kufikia lango la mteja. Tafadhali wasiliana na msaada.
+You have already reacted with '{0}',Tayari umeitikia kwa '{0}'
+You have been assigned to task '{0}' in project '{1}'.,Umegawiwa kazi '{0}' katika mradi '{1}'.
+You have been assigned to: {0},Umegawiwa: {0}
+You have been invited to the following appointment,Umealikwa kwenye miadi ifuatayo
+You have no tasks assigned to you right now.,Huna kazi zilizogawiwa kwako sasa hivi.
+You were mentioned in {0},Umetajwa katika {0}
+Your attendance,Mahudhurio yako
+Your comment has been posted,Maoni yako yamechapishwa
+Your Projects,Miradi Yako
+Your projects will appear here once they're assigned to you.,Miradi yako itaonekana hapa itakapogawiwa kwako.
+Your Response,Jibu Lako
+Your RSVP,RSVP Yako
+Your support request has been submitted successfully.,Ombi lako la msaada limetumwa kwa mafanikio.
+Your support request has been submitted successfully. We'll get back to you shortly.,Ombi lako la msaada limetumwa kwa mafanikio. Tutakujibu hivi karibuni.
+"Your task ""{0}"" is no longer blocked and can now be started.","Kazi yako ""{0}"" haizuiwi tena na inaweza kuanzishwa sasa."
+{0} is required,{0} inahitajika
+{0} new activities,shughuli mpya {0}
+{0} of {1} completed,{0} kati ya {1} imekamilika
+{0} projects already migrated (will be skipped or updated),miradi {0} tayari imehamishwa (itarukwa au kusasishwa)
+{0} status changed to {1},Hali ya {0} imebadilishwa kuwa {1}
+{0} tasks remaining,kazi {0} zimebaki
+{0} tasks without projects will be skipped,kazi {0} zisizo na miradi zitarukwa
+{0} {1} not found,{0} {1} haijapatikana

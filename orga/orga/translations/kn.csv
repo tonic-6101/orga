@@ -1,0 +1,1492 @@
++ Add Milestone,+ ಮೈಲಿಗಲ್ಲು ಸೇರಿಸಿ
++ Create Task,+ ಕಾರ್ಯ ರಚಿಸಿ
++ Log Time,+ ಸಮಯ ದಾಖಲಿಸಿ
+-- Select a project --,-- ಒಂದು ಯೋಜನೆ ಆಯ್ಕೆಮಾಡಿ --
+0m,0ನಿ
+1 day,1 ದಿನ
+1 day ago,1 ದಿನದ ಹಿಂದೆ
+1 dependency,1 ಅವಲಂಬನೆ
+1 entry,1 ನಮೂದು
+1 file,1 ಕಡತ
+1 hour ago,1 ಗಂಟೆಯ ಹಿಂದೆ
+1 member,1 ಸದಸ್ಯ
+1 milestone,1 ಮೈಲಿಗಲ್ಲು
+1 month,1 ತಿಂಗಳು
+1 task,1 ಕಾರ್ಯ
+< 1m,< 1ನಿ
+"A clear, actionable title for the task","ಕಾರ್ಯಕ್ಕೆ ಸ್ಪಷ್ಟವಾದ, ಕ್ರಿಯಾಶೀಲ ಶೀರ್ಷಿಕೆ"
+A client with email {0} already exists: {1},{0} ಇಮೇಲ್ ಹೊಂದಿರುವ ಗ್ರಾಹಕ ಈಗಾಗಲೇ ಇದ್ದಾರೆ: {1}
+A key deliverable or checkpoint for the project,ಯೋಜನೆಗೆ ಒಂದು ಪ್ರಮುಖ ಫಲಿತಾಂಶ ಅಥವಾ ತಪಾಸಣೆ ಹಂತ
+Accept,ಒಪ್ಪಿಕೊಳ್ಳಿ
+Accepted,ಒಪ್ಪಿಕೊಂಡಿದ್ದಾರೆ
+Acknowledge,ಸ್ವೀಕೃತಿ ನೀಡಿ
+across,ಉದ್ದಕ್ಕೂ
+Action,ಕ್ರಿಯೆ
+Actions,ಕ್ರಿಯೆಗಳು
+Active,ಸಕ್ರಿಯ
+Active Assignments,ಸಕ್ರಿಯ ನಿಯೋಜನೆಗಳು
+Active Projects,ಸಕ್ರಿಯ ಯೋಜನೆಗಳು
+Activity,ಚಟುವಟಿಕೆ
+Activity data deleted successfully,ಚಟುವಟಿಕೆ ಡೇಟಾ ಯಶಸ್ವಿಯಾಗಿ ಅಳಿಸಲಾಗಿದೆ
+Activity Info,ಚಟುವಟಿಕೆ ಮಾಹಿತಿ
+Activity Stats,ಚಟುವಟಿಕೆ ಅಂಕಿಅಂಶಗಳು
+Activity will appear here as you work on tasks and projects.,ನೀವು ಕಾರ್ಯಗಳು ಮತ್ತು ಯೋಜನೆಗಳಲ್ಲಿ ಕೆಲಸ ಮಾಡಿದಂತೆ ಚಟುವಟಿಕೆ ಇಲ್ಲಿ ಕಾಣಿಸುತ್ತದೆ.
+Actual,ವಾಸ್ತವ
+Actual Cost,ವಾಸ್ತವ ವೆಚ್ಚ
+Actual cost cannot be negative,ವಾಸ್ತವ ವೆಚ್ಚ ಋಣಾತ್ಮಕವಾಗಿರಲು ಸಾಧ್ಯವಿಲ್ಲ
+Actual end date cannot be before actual start date,ವಾಸ್ತವ ಮುಕ್ತಾಯ ದಿನಾಂಕ ವಾಸ್ತವ ಪ್ರಾರಂಭ ದಿನಾಂಕಕ್ಕಿಂತ ಮೊದಲು ಇರಲು ಸಾಧ್ಯವಿಲ್ಲ
+Actual Hours,ವಾಸ್ತವ ಗಂಟೆಗಳು
+Add,ಸೇರಿಸಿ
+Add a checklist item...,ಪರಿಶೀಲನಾ ಪಟ್ಟಿಯ ಅಂಶ ಸೇರಿಸಿ...
+Add a comment...,ಕಾಮೆಂಟ್ ಸೇರಿಸಿ...
+Add a comment... (Ctrl+Enter to send),ಕಾಮೆಂಟ್ ಸೇರಿಸಿ... (ಕಳುಹಿಸಲು Ctrl+Enter)
+Add a description...,ವಿವರಣೆ ಸೇರಿಸಿ...
+Add a milestone description...,ಮೈಲಿಗಲ್ಲಿನ ವಿವರಣೆ ಸೇರಿಸಿ...
+Add a note below to annotate this activity.,ಈ ಚಟುವಟಿಕೆಗೆ ಟಿಪ್ಪಣಿ ಸೇರಿಸಲು ಕೆಳಗೆ ಬರೆಯಿರಿ.
+Add a note...,ಟಿಪ್ಪಣಿ ಸೇರಿಸಿ...
+Add a project description...,ಯೋಜನೆಯ ವಿವರಣೆ ಸೇರಿಸಿ...
+Add a task description...,ಕಾರ್ಯದ ವಿವರಣೆ ಸೇರಿಸಿ...
+Add checklist item...,ಪರಿಶೀಲನಾ ಪಟ್ಟಿಯ ಅಂಶ ಸೇರಿಸಿ...
+Add Contact,ಸಂಪರ್ಕ ಸೇರಿಸಿ
+Add contacts via the Desk interface or clear filters,Desk ಮೂಲಕ ಸಂಪರ್ಕಗಳನ್ನು ಸೇರಿಸಿ ಅಥವಾ ಫಿಲ್ಟರ್‌ಗಳನ್ನು ತೆರವುಗೊಳಿಸಿ
+Add Dependency,ಅವಲಂಬನೆ ಸೇರಿಸಿ
+Add details about this event...,ಈ ಕಾರ್ಯಕ್ರಮದ ವಿವರಗಳನ್ನು ಸೇರಿಸಿ...
+Add details about this milestone...,ಈ ಮೈಲಿಗಲ್ಲಿನ ವಿವರಗಳನ್ನು ಸೇರಿಸಿ...
+Add details about this task...,ಈ ಕಾರ್ಯದ ವಿವರಗಳನ್ನು ಸೇರಿಸಿ...
+Add details or acceptance criteria for this milestone,ಈ ಮೈಲಿಗಲ್ಲಿಗೆ ವಿವರಗಳು ಅಥವಾ ಸ್ವೀಕೃತಿ ಮಾನದಂಡಗಳನ್ನು ಸೇರಿಸಿ
+"Add details, context, or acceptance criteria","ವಿವರಗಳು, ಸಂದರ್ಭ, ಅಥವಾ ಸ್ವೀಕೃತಿ ಮಾನದಂಡಗಳನ್ನು ಸೇರಿಸಿ"
+Add first dependency,ಮೊದಲ ಅವಲಂಬನೆ ಸೇರಿಸಿ
+Add item,ಅಂಶ ಸೇರಿಸಿ
+Add items below to track progress.,ಪ್ರಗತಿ ಟ್ರ್ಯಾಕ್ ಮಾಡಲು ಕೆಳಗೆ ಅಂಶಗಳನ್ನು ಸೇರಿಸಿ.
+Add items below to track subtasks,ಉಪಕಾರ್ಯಗಳನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡಲು ಕೆಳಗೆ ಅಂಶಗಳನ್ನು ಸೇರಿಸಿ
+Add Milestone,ಮೈಲಿಗಲ್ಲು ಸೇರಿಸಿ
+Add Milestone (Shift+M),ಮೈಲಿಗಲ್ಲು ಸೇರಿಸಿ (Shift+M)
+Add milestones to track key deliverables.,ಪ್ರಮುಖ ಫಲಿತಾಂಶಗಳನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡಲು ಮೈಲಿಗಲ್ಲುಗಳನ್ನು ಸೇರಿಸಿ.
+Add New Contact,ಹೊಸ ಸಂಪರ್ಕ ಸೇರಿಸಿ
+Add Note,ಟಿಪ್ಪಣಿ ಸೇರಿಸಿ
+Add note,ಟಿಪ್ಪಣಿ ಸೇರಿಸಿ
+Add notes about this contact...,ಈ ಸಂಪರ್ಕದ ಬಗ್ಗೆ ಟಿಪ್ಪಣಿಗಳನ್ನು ಸೇರಿಸಿ...
+Add reaction,ಪ್ರತಿಕ್ರಿಯೆ ಸೇರಿಸಿ
+Add Skill,ಕೌಶಲ ಸೇರಿಸಿ
+Add start and due dates to tasks to see them on the Gantt chart,Gantt ಚಾರ್ಟ್‌ನಲ್ಲಿ ನೋಡಲು ಕಾರ್ಯಗಳಿಗೆ ಪ್ರಾರಂಭ ಮತ್ತು ಅಂತಿಮ ದಿನಾಂಕಗಳನ್ನು ಸೇರಿಸಿ
+Add Task,ಕಾರ್ಯ ಸೇರಿಸಿ
+Add Task (Shift+T),ಕಾರ್ಯ ಸೇರಿಸಿ (Shift+T)
+Added Finish-to-Start dependency,ಮುಕ್ತಾಯ-ಪ್ರಾರಂಭ ಅವಲಂಬನೆ ಸೇರಿಸಲಾಗಿದೆ
+Adding this dependency would create a circular reference: {0},ಈ ಅವಲಂಬನೆ ಸೇರಿಸಿದರೆ ವೃತ್ತಾಕಾರ ಉಲ್ಲೇಖ ರಚನೆಯಾಗುತ್ತದೆ: {0}
+Adding...,ಸೇರಿಸಲಾಗುತ್ತಿದೆ...
+Address,ವಿಳಾಸ
+Advanced,ಸುಧಾರಿತ
+All,ಎಲ್ಲಾ
+All Active,ಎಲ್ಲಾ ಸಕ್ರಿಯ
+All Assignees,ಎಲ್ಲಾ ನಿಯೋಜಿತರು
+All Categories,ಎಲ್ಲಾ ವರ್ಗಗಳು
+All caught up!,ಎಲ್ಲವೂ ನವೀಕೃತವಾಗಿದೆ!
+All Contexts,ಎಲ್ಲಾ ಸಂದರ್ಭಗಳು
+All day,ಇಡೀ ದಿನ
+All day event,ಇಡೀ ದಿನದ ಕಾರ್ಯಕ್ರಮ
+All fields,ಎಲ್ಲಾ ಕ್ಷೇತ್ರಗಳು
+All Priorities,ಎಲ್ಲಾ ಆದ್ಯತೆಗಳು
+All Projects,ಎಲ್ಲಾ ಯೋಜನೆಗಳು
+All Status,ಎಲ್ಲಾ ಸ್ಥಿತಿಗಳು
+All Statuses,ಎಲ್ಲಾ ಸ್ಥಿತಿಗಳು
+All task dependencies & relative dates,ಎಲ್ಲಾ ಕಾರ್ಯ ಅವಲಂಬನೆಗಳು ಮತ್ತು ಸಂಬಂಧಿತ ದಿನಾಂಕಗಳು
+All Tasks,ಎಲ್ಲಾ ಕಾರ್ಯಗಳು
+All tasks across all projects.,ಎಲ್ಲಾ ಯೋಜನೆಗಳಲ್ಲಿನ ಎಲ್ಲಾ ಕಾರ್ಯಗಳು.
+All tasks are already linked,ಎಲ್ಲಾ ಕಾರ್ಯಗಳು ಈಗಾಗಲೇ ಲಿಂಕ್ ಆಗಿವೆ
+All team members,ಎಲ್ಲಾ ತಂಡ ಸದಸ್ಯರು
+All Types,ಎಲ್ಲಾ ಪ್ರಕಾರಗಳು
+All Users,ಎಲ್ಲಾ ಬಳಕೆದಾರರು
+Allocated,ಹಂಚಲಾಗಿದೆ
+allocated,ಹಂಚಿಕೆ
+Allow users to log time against tasks,ಬಳಕೆದಾರರಿಗೆ ಕಾರ್ಯಗಳಿಗೆ ಸಮಯ ದಾಖಲಿಸಲು ಅನುಮತಿಸಿ
+Already exported to timesheet {0},ಈಗಾಗಲೇ ಸಮಯಪಟ್ಟಿ {0} ಗೆ ರಫ್ತು ಮಾಡಲಾಗಿದೆ
+Already Migrated,ಈಗಾಗಲೇ ವರ್ಗಾಯಿಸಲಾಗಿದೆ
+Anyone with access,ಪ್ರವೇಶ ಹೊಂದಿರುವ ಯಾರಾದರೂ
+anytime to show this help,ಈ ಸಹಾಯ ತೋರಿಸಲು ಯಾವಾಗ ಬೇಕಾದರೂ
+App Updates,App Updates
+Appearance,ನೋಟ
+Apply,ಅನ್ವಯಿಸಿ
+Apply cascade?,ಕ್ಯಾಸ್ಕೇಡ್ ಅನ್ವಯಿಸುವುದೇ?
+Apply Changes,ಬದಲಾವಣೆಗಳನ್ನು ಅನ್ವಯಿಸಿ
+Apply failed,ಅನ್ವಯಿಸುವಿಕೆ ವಿಫಲವಾಗಿದೆ
+Apply Template,ಟೆಂಪ್ಲೇಟ್ ಅನ್ವಯಿಸಿ
+Applying...,ಅನ್ವಯಿಸಲಾಗುತ್ತಿದೆ...
+Appointment,ಭೇಟಿ
+Appointment and resource are required,ಭೇಟಿ ಮತ್ತು ಸಂಪನ್ಮೂಲ ಅಗತ್ಯ
+Appointment name is required,ಭೇಟಿಯ ಹೆಸರು ಅಗತ್ಯ
+Appointment not found,ಭೇಟಿ ಕಂಡುಬಂದಿಲ್ಲ
+Appointment {0} not found,ಭೇಟಿ {0} ಕಂಡುಬಂದಿಲ್ಲ
+Apps,ಅಪ್ಲಿಕೇಶನ್‌ಗಳು
+Archive,ಆರ್ಕೈವ್ ಮಾಡಿ
+Archive Activity,ಚಟುವಟಿಕೆ ಆರ್ಕೈವ್ ಮಾಡಿ
+Archived,ಆರ್ಕೈವ್ ಮಾಡಲಾಗಿದೆ
+Are you sure you want to delete this activity data? This cannot be undone.,ಈ ಚಟುವಟಿಕೆ ಡೇಟಾವನ್ನು ಅಳಿಸಲು ಖಚಿತವಾಗಿದ್ದೀರಾ? ಇದನ್ನು ರದ್ದುಗೊಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.
+Are you sure you want to delete this comment?,ಈ ಕಾಮೆಂಟ್ ಅಳಿಸಲು ಖಚಿತವಾಗಿದ್ದೀರಾ?
+Are you sure you want to delete this project?,ಈ ಯೋಜನೆ ಅಳಿಸಲು ಖಚಿತವಾಗಿದ್ದೀರಾ?
+Are you sure?,ಖಚಿತವಾಗಿದ್ದೀರಾ?
+Ascending -- click to reverse,ಆರೋಹಣ -- ತಿರುಗಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+Assign To,ನಿಯೋಜಿಸಿ
+Assign to Me,ನನಗೆ ನಿಯೋಜಿಸಿ
+Assigned Contact,ನಿಯೋಜಿತ ಸಂಪರ್ಕ
+Assigned To,ನಿಯೋಜಿಸಲಾಗಿದೆ
+Assigned to,ನಿಯೋಜಿಸಲಾಗಿದೆ
+Assigned to Me,ನನಗೆ ನಿಯೋಜಿಸಲಾಗಿದೆ
+Assignee,ನಿಯೋಜಿತರು
+Assignment,ನಿಯೋಜನೆ
+Assignment History,ನಿಯೋಜನೆ ಇತಿಹಾಸ
+Assignment name is required,ನಿಯೋಜನೆಯ ಹೆಸರು ಅಗತ್ಯ
+Assignment {0} not found,ನಿಯೋಜನೆ {0} ಕಂಡುಬಂದಿಲ್ಲ
+Assignments,ನಿಯೋಜನೆಗಳು
+At least one action is required,ಕನಿಷ್ಠ ಒಂದು ಕ್ರಿಯೆ ಅಗತ್ಯ
+At least one event is required,ಕನಿಷ್ಠ ಒಂದು ಕಾರ್ಯಕ್ರಮ ಅಗತ್ಯ
+At least one event must be selected,ಕನಿಷ್ಠ ಒಂದು ಕಾರ್ಯಕ್ರಮ ಆಯ್ಕೆ ಮಾಡಬೇಕು
+Attachment,ಲಗತ್ತು
+Attachments,ಲಗತ್ತುಗಳು
+Attendees,ಹಾಜರಾತಿದಾರರು
+"Audit trail, assignments, version history","ಲೆಕ್ಕಪರಿಶೋಧನಾ ಜಾಡು, ನಿಯೋಜನೆಗಳು, ಆವೃತ್ತಿ ಇತಿಹಾಸ"
+Auto,ಸ್ವಯಂ
+Auto Calculate Progress,ಪ್ರಗತಿ ಸ್ವಯಂ ಲೆಕ್ಕಾಚಾರ
+Auto Set Missed Milestones,ತಪ್ಪಿಸಿಕೊಂಡ ಮೈಲಿಗಲ್ಲುಗಳನ್ನು ಸ್ವಯಂ ಗುರುತಿಸಿ
+Auto-shift dependents when dates change,ದಿನಾಂಕಗಳು ಬದಲಾದಾಗ ಅವಲಂಬಿತರನ್ನು ಸ್ವಯಂ-ಬದಲಿಸಿ
+Auto-Trail Start,ಸ್ವಯಂ-ಜಾರಿ ಪ್ರಾರಂಭ
+Auto-Trail updated,ಸ್ವಯಂ-ಜಾರಿ ನವೀಕರಿಸಲಾಗಿದೆ
+Automatically calculate project progress from task completion,ಕಾರ್ಯ ಪೂರ್ಣಗೊಳಿಸುವಿಕೆಯಿಂದ ಯೋಜನೆಯ ಪ್ರಗತಿಯನ್ನು ಸ್ವಯಂ ಲೆಕ್ಕಾಚಾರ ಮಾಡಿ
+Automatically mark milestones as missed when overdue,ಅವಧಿ ಮೀರಿದಾಗ ಮೈಲಿಗಲ್ಲುಗಳನ್ನು ಸ್ವಯಂ ತಪ್ಪಿಸಿಕೊಂಡಿದೆ ಎಂದು ಗುರುತಿಸಿ
+Automation rule {0} not found,ಸ್ವಯಂಚಾಲನೆ ನಿಯಮ {0} ಕಂಡುಬಂದಿಲ್ಲ
+Automation: {0},ಸ್ವಯಂಚಾಲನೆ: {0}
+Availability,ಲಭ್ಯತೆ
+Available,ಲಭ್ಯ
+Avatar updated successfully,ಅವತಾರ್ ಯಶಸ್ವಿಯಾಗಿ ನವೀಕರಿಸಲಾಗಿದೆ
+Avg Progress,ಸರಾಸರಿ ಪ್ರಗತಿ
+Back,ಹಿಂದೆ
+Back to Portal,ಪೋರ್ಟಲ್‌ಗೆ ಹಿಂತಿರುಗಿ
+Back to Projects,ಯೋಜನೆಗಳಿಗೆ ಹಿಂತಿರುಗಿ
+Beginner,ಆರಂಭಿಕ
+Best regards,ಶುಭಾಶಯಗಳೊಂದಿಗೆ
+Billable,ಬಿಲ್ ಮಾಡಬಹುದಾದ
+Billable Amount,ಬಿಲ್ ಮಾಡಬಹುದಾದ ಮೊತ್ತ
+Billable Hours,ಬಿಲ್ ಮಾಡಬಹುದಾದ ಗಂಟೆಗಳು
+Billable Rate,ಬಿಲ್ ಮಾಡಬಹುದಾದ ದರ
+Billing Rate,ಬಿಲ್ಲಿಂಗ್ ದರ
+Blocked,ತಡೆಹಿಡಿಯಲಾಗಿದೆ
+Both dates are needed to display task as a bar in Gantt chart,Gantt ಚಾರ್ಟ್‌ನಲ್ಲಿ ಕಾರ್ಯವನ್ನು ಪಟ್ಟಿಯಾಗಿ ತೋರಿಸಲು ಎರಡೂ ದಿನಾಂಕಗಳು ಅಗತ್ಯ
+Both doctype and docname are required,ಡಾಕ್‌ಟೈಪ್ ಮತ್ತು ಡಾಕ್‌ನೇಮ್ ಎರಡೂ ಅಗತ್ಯ
+Both proposed start and end times are required,ಪ್ರಸ್ತಾವಿತ ಪ್ರಾರಂಭ ಮತ್ತು ಅಂತಿಮ ಸಮಯಗಳೆರಡೂ ಅಗತ್ಯ
+Both task_name and depends_on are required,task_name ಮತ್ತು depends_on ಎರಡೂ ಅಗತ್ಯ
+Breadcrumb,ಬ್ರೆಡ್‌ಕ್ರಂಬ್
+Brief description of the defect or damage,ದೋಷ ಅಥವಾ ಹಾನಿಯ ಸಂಕ್ಷಿಪ್ತ ವಿವರಣೆ
+Brief description of this template,ಈ ಟೆಂಪ್ಲೇಟ್‌ನ ಸಂಕ್ಷಿಪ್ತ ವಿವರಣೆ
+Brief description of your request,ನಿಮ್ಮ ವಿನಂತಿಯ ಸಂಕ್ಷಿಪ್ತ ವಿವರಣೆ
+Brief project description,ಸಂಕ್ಷಿಪ್ತ ಯೋಜನೆ ವಿವರಣೆ
+Budget,ಬಜೆಟ್
+Budget at risk,ಬಜೆಟ್ ಅಪಾಯದಲ್ಲಿದೆ
+Budget Burn Rate,ಬಜೆಟ್ ಬಳಕೆ ದರ
+Budget Status,ಬಜೆಟ್ ಸ್ಥಿತಿ
+Budget updated,ಬಜೆಟ್ ನವೀಕರಿಸಲಾಗಿದೆ
+Budget:,ಬಜೆಟ್:
+Bug,ದೋಷ
+Burn Rate,ಬಳಕೆ ದರ
+Busy,ಕಾರ್ಯನಿರತ
+By,ಮೂಲಕ
+By Assignee,ನಿಯೋಜಿತರ ಪ್ರಕಾರ
+By Group,ಗುಂಪಿನ ಪ್ರಕಾರ
+By Milestone,ಮೈಲಿಗಲ್ಲಿನ ಪ್ರಕಾರ
+By Priority,ಆದ್ಯತೆಯ ಪ್ರಕಾರ
+By Status,ಸ್ಥಿತಿಯ ಪ್ರಕಾರ
+Cancel,ರದ್ದುಮಾಡಿ
+Cancelled,ರದ್ದುಮಾಡಲಾಗಿದೆ
+cannot be undone,ರದ್ದುಗೊಳಿಸಲಾಗುವುದಿಲ್ಲ
+Cannot delete client with {0} linked projects. Unlink projects first.,ಲಿಂಕ್ ಮಾಡಿದ {0} ಯೋಜನೆಗಳಿರುವ ಗ್ರಾಹಕನನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಮೊದಲು ಯೋಜನೆಗಳನ್ನು ಅನ್‌ಲಿಂಕ್ ಮಾಡಿ.
+Cannot delete project with {0} linked tasks. Delete tasks first.,ಲಿಂಕ್ ಮಾಡಿದ {0} ಕಾರ್ಯಗಳಿರುವ ಯೋಜನೆಯನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಮೊದಲು ಕಾರ್ಯಗಳನ್ನು ಅಳಿಸಿ.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,ಸಕ್ರಿಯ {0} ನಿಯೋಜನೆಗಳಿರುವ ಸಂಪನ್ಮೂಲವನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಮೊದಲು ಅವುಗಳನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ ಅಥವಾ ರದ್ದುಮಾಡಿ.
+Cannot delete task with {0} subtasks. Delete subtasks first.,ಉಪಕಾರ್ಯಗಳು {0} ಇರುವ ಕಾರ್ಯವನ್ನು ಅಳಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ. ಮೊದಲು ಉಪಕಾರ್ಯಗಳನ್ನು ಅಳಿಸಿ.
+Capacity,ಸಾಮರ್ಥ್ಯ
+capacity,ಸಾಮರ್ಥ್ಯ
+Capacity & Rates,ಸಾಮರ್ಥ್ಯ ಮತ್ತು ದರಗಳು
+Capture project structure for reuse,ಮರುಬಳಕೆಗಾಗಿ ಯೋಜನೆ ರಚನೆ ಸೆರೆಹಿಡಿಯಿರಿ
+Cascade,ಕ್ಯಾಸ್ಕೇಡ್
+Cascade Preview,ಕ್ಯಾಸ್ಕೇಡ್ ಪೂರ್ವವೀಕ್ಷಣೆ
+Category,ವರ್ಗ
+Celebrate,ಆಚರಿಸಿ
+Change,ಬದಲಾಯಿಸಿ
+Change History,ಬದಲಾವಣೆ ಇತಿಹಾಸ
+Change Priority,ಆದ್ಯತೆ ಬದಲಾಯಿಸಿ
+Change Status,ಸ್ಥಿತಿ ಬದಲಾಯಿಸಿ
+Changes,ಬದಲಾವಣೆಗಳು
+Changes appear when fields are modified.,ಕ್ಷೇತ್ರಗಳನ್ನು ಮಾರ್ಪಡಿಸಿದಾಗ ಬದಲಾವಣೆಗಳು ಕಾಣಿಸುತ್ತವೆ.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,ಪರಿಶೀಲನಾ ಪಟ್ಟಿ
+Checklist item name is required,ಪರಿಶೀಲನಾ ಪಟ್ಟಿಯ ಅಂಶದ ಹೆಸರು ಅಗತ್ಯ
+Checklist item not found,ಪರಿಶೀಲನಾ ಪಟ್ಟಿಯ ಅಂಶ ಕಂಡುಬಂದಿಲ್ಲ
+Checklist item title is required,ಪರಿಶೀಲನಾ ಪಟ್ಟಿಯ ಅಂಶದ ಶೀರ್ಷಿಕೆ ಅಗತ್ಯ
+Checklist item {0} not found,ಪರಿಶೀಲನಾ ಪಟ್ಟಿಯ ಅಂಶ {0} ಕಂಡುಬಂದಿಲ್ಲ
+Checklist item {0} not found in task,ಕಾರ್ಯದಲ್ಲಿ ಪರಿಶೀಲನಾ ಪಟ್ಟಿಯ ಅಂಶ {0} ಕಂಡುಬಂದಿಲ್ಲ
+Child,ಮಕ್ಕಳ
+Choose file to upload,ಅಪ್‌ಲೋಡ್ ಮಾಡಲು ಕಡತ ಆಯ್ಕೆಮಾಡಿ
+Circular dependency detected: {0},ವೃತ್ತಾಕಾರ ಅವಲಂಬನೆ ಪತ್ತೆಯಾಗಿದೆ: {0}
+Circular parent-child relationship detected,ವೃತ್ತಾಕಾರ ಪೋಷಕ-ಮಕ್ಕಳ ಸಂಬಂಧ ಪತ್ತೆಯಾಗಿದೆ
+Clear,ತೆರವುಗೊಳಿಸಿ
+Clear all read,ಓದಿದವನ್ನೆಲ್ಲ ತೆರವುಗೊಳಿಸಿ
+Clear date,ದಿನಾಂಕ ತೆರವುಗೊಳಿಸಿ
+Click on an activity from the list to view and manage its details.,ವಿವರಗಳನ್ನು ನೋಡಲು ಮತ್ತು ನಿರ್ವಹಿಸಲು ಪಟ್ಟಿಯಿಂದ ಚಟುವಟಿಕೆಯ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ.
+Click the avatar to upload a new photo,ಹೊಸ ಫೋಟೋ ಅಪ್‌ಲೋಡ್ ಮಾಡಲು ಅವತಾರ್ ಮೇಲೆ ಕ್ಲಿಕ್ ಮಾಡಿ
+Click to add description...,ವಿವರಣೆ ಸೇರಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ...
+Click to add notes...,ಟಿಪ್ಪಣಿಗಳನ್ನು ಸೇರಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ...
+Click to assign contact,ಸಂಪರ್ಕ ನಿಯೋಜಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+Click to change status,ಸ್ಥಿತಿ ಬದಲಾಯಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+Click to change type,ಪ್ರಕಾರ ಬದಲಾಯಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+Click to edit,ಸಂಪಾದಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+Click to edit budget,ಬಜೆಟ್ ಸಂಪಾದಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+Click to edit description,ವಿವರಣೆ ಸಂಪಾದಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+Click to edit end date,ಅಂತಿಮ ದಿನಾಂಕ ಸಂಪಾದಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+Click to edit milestone name,ಮೈಲಿಗಲ್ಲಿನ ಹೆಸರು ಸಂಪಾದಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+Click to edit rate,ದರ ಸಂಪಾದಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+Click to edit start date,ಪ್ರಾರಂಭ ದಿನಾಂಕ ಸಂಪಾದಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+Click to edit title,ಶೀರ್ಷಿಕೆ ಸಂಪಾದಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+Click to load,ಲೋಡ್ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+Click to set group dependency...,ಗುಂಪು ಅವಲಂಬನೆ ಹೊಂದಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ...
+Click to set group...,ಗುಂಪು ಹೊಂದಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ...
+Click to view,ನೋಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+Click to view at-risk projects,ಅಪಾಯದಲ್ಲಿರುವ ಯೋಜನೆಗಳನ್ನು ನೋಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+Click to view critical projects,ತುರ್ತು ಯೋಜನೆಗಳನ್ನು ನೋಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+Click to view healthy projects,ಆರೋಗ್ಯಕರ ಯೋಜನೆಗಳನ್ನು ನೋಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+Client,ಗ್ರಾಹಕ
+Client already has a portal user: {0},ಗ್ರಾಹಕರಿಗೆ ಈಗಾಗಲೇ ಪೋರ್ಟಲ್ ಬಳಕೆದಾರರಿದ್ದಾರೆ: {0}
+Client already has portal access,ಗ್ರಾಹಕರಿಗೆ ಈಗಾಗಲೇ ಪೋರ್ಟಲ್ ಪ್ರವೇಶವಿದೆ
+Client has no portal user to revoke,ಗ್ರಾಹಕರಿಗೆ ರದ್ದುಮಾಡಲು ಪೋರ್ಟಲ್ ಬಳಕೆದಾರರಿಲ್ಲ
+Client link removed from project {0},ಯೋಜನೆ {0} ಯಿಂದ ಗ್ರಾಹಕ ಲಿಂಕ್ ತೆಗೆದುಹಾಕಲಾಗಿದೆ
+Client Portal,ಗ್ರಾಹಕ ಪೋರ್ಟಲ್
+Client {0} deleted successfully,ಗ್ರಾಹಕ {0} ಯಶಸ್ವಿಯಾಗಿ ಅಳಿಸಲಾಗಿದೆ
+Close,ಮುಚ್ಚಿ
+Close (Esc),ಮುಚ್ಚಿ (Esc)
+Comment,ಕಾಮೆಂಟ್
+comment,ಕಾಮೆಂಟ್
+Comment added,ಕಾಮೆಂಟ್ ಸೇರಿಸಲಾಗಿದೆ
+Comment content is required,ಕಾಮೆಂಟ್ ವಿಷಯ ಅಗತ್ಯ
+Comment name is required,ಕಾಮೆಂಟ್ ಹೆಸರು ಅಗತ್ಯ
+Comment not found,ಕಾಮೆಂಟ್ ಕಂಡುಬಂದಿಲ್ಲ
+Comment removed,ಕಾಮೆಂಟ್ ತೆಗೆದುಹಾಕಲಾಗಿದೆ
+Comment {0} not found in task,ಕಾರ್ಯದಲ್ಲಿ ಕಾಮೆಂಟ್ {0} ಕಂಡುಬಂದಿಲ್ಲ
+Comments,ಕಾಮೆಂಟ್‌ಗಳು
+comments,ಕಾಮೆಂಟ್‌ಗಳು
+Community Edition,Community Edition
+Company,ಕಂಪನಿ
+Company name...,ಕಂಪನಿ ಹೆಸರು...
+Complete,ಪೂರ್ಣಗೊಳಿಸಿ
+Completed,ಪೂರ್ಣಗೊಂಡಿದೆ
+completed,ಪೂರ್ಣಗೊಂಡಿದೆ
+Completed Tasks,ಪೂರ್ಣಗೊಂಡ ಕಾರ್ಯಗಳು
+Compliance,ಅನುಸರಣೆ
+Configure default values for new projects and tasks,ಹೊಸ ಯೋಜನೆಗಳು ಮತ್ತು ಕಾರ್ಯಗಳಿಗೆ ಡೀಫಾಲ್ಟ್ ಮೌಲ್ಯಗಳನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಿ
+Configure email notification settings,ಇಮೇಲ್ ಅಧಿಸೂಚನೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಿ
+Confirm,ಖಚಿತಪಡಿಸಿ
+Contact deleted,ಸಂಪರ್ಕ ಅಳಿಸಲಾಗಿದೆ
+Contact Details,ಸಂಪರ್ಕ ವಿವರಗಳು
+Contact Information,ಸಂಪರ್ಕ ಮಾಹಿತಿ
+Contact name is required,ಸಂಪರ್ಕದ ಹೆಸರು ಅಗತ್ಯ
+Contact Support,ಬೆಂಬಲ ಸಂಪರ್ಕಿಸಿ
+Contact your project manager for more information.,ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ನಿಮ್ಮ ಯೋಜನೆ ನಿರ್ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ.
+Contact:,ಸಂಪರ್ಕ:
+Contacts,ಸಂಪರ್ಕಗಳು
+Context,ಸಂದರ್ಭ
+Contractor,ಗುತ್ತಿಗೆದಾರ
+Cost estimate cannot be negative,ವೆಚ್ಚದ ಅಂದಾಜು ಋಣಾತ್ಮಕವಾಗಿರಲು ಸಾಧ್ಯವಿಲ್ಲ
+Cost Impact,ವೆಚ್ಚದ ಪರಿಣಾಮ
+Cost Summary,ವೆಚ್ಚದ ಸಾರಾಂಶ
+Could not apply the template. Please try again.,ಟೆಂಪ್ಲೇಟ್ ಅನ್ವಯಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.
+Could not attach file to project,ಯೋಜನೆಗೆ ಕಡತ ಲಗತ್ತಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ
+Could not change task priority,ಕಾರ್ಯದ ಆದ್ಯತೆ ಬದಲಾಯಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ
+Could not change task status,ಕಾರ್ಯದ ಸ್ಥಿತಿ ಬದಲಾಯಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ
+Could not delete the project. Please try again.,ಯೋಜನೆ ಅಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.
+Could not delete the task. Please try again.,ಕಾರ್ಯ ಅಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.
+Could not delete the template.,ಟೆಂಪ್ಲೇಟ್ ಅಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.
+Could not duplicate the task. Please try again.,ಕಾರ್ಯ ನಕಲಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.
+Could not export the template.,ಟೆಂಪ್ಲೇಟ್ ರಫ್ತು ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.
+Could not import the template. Please check the file format.,ಟೆಂಪ್ಲೇಟ್ ಆಮದು ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಕಡತ ಸ್ವರೂಪ ಪರಿಶೀಲಿಸಿ.
+Could not link task to milestone,ಕಾರ್ಯವನ್ನು ಮೈಲಿಗಲ್ಲಿಗೆ ಲಿಂಕ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ
+Could not load document details.,ದಸ್ತಾವೇಜು ವಿವರಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.
+Could not load task details,ಕಾರ್ಯ ವಿವರಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ
+Could not promote checklist item to task.,ಪರಿಶೀಲನಾ ಪಟ್ಟಿಯ ಅಂಶವನ್ನು ಕಾರ್ಯವಾಗಿ ಬಡ್ತಿ ನೀಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.
+Could not remove task from milestone,ಮೈಲಿಗಲ್ಲಿನಿಂದ ಕಾರ್ಯ ತೆಗೆದುಹಾಕಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ
+Could not save budget.,ಬಜೆಟ್ ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.
+Could not save changes to the milestone,ಮೈಲಿಗಲ್ಲಿನ ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ
+Could not save changes to the task,ಕಾರ್ಯದ ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ
+Could not save description.,ವಿವರಣೆ ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.
+Could not save end date.,ಅಂತಿಮ ದಿನಾಂಕ ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.
+Could not save milestone name.,ಮೈಲಿಗಲ್ಲಿನ ಹೆಸರು ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.
+Could not save start date.,ಪ್ರಾರಂಭ ದಿನಾಂಕ ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.
+Could not save the template. Please try again.,ಟೆಂಪ್ಲೇಟ್ ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.
+Could not save title.,ಶೀರ್ಷಿಕೆ ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.
+Could not update dependency mode.,ಅವಲಂಬನೆ ಮೋಡ್ ನವೀಕರಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.
+Could not update milestone date,ಮೈಲಿಗಲ್ಲಿನ ದಿನಾಂಕ ನವೀಕರಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ
+Could not update project status.,ಯೋಜನೆ ಸ್ಥಿತಿ ನವೀಕರಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.
+Could not update project type.,ಯೋಜನೆ ಪ್ರಕಾರ ನವೀಕರಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.
+Could not update setting.,ಸೆಟ್ಟಿಂಗ್ ನವೀಕರಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.
+Could not update task dates,ಕಾರ್ಯದ ದಿನಾಂಕಗಳನ್ನು ನವೀಕರಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ
+Could not update task status,ಕಾರ್ಯದ ಸ್ಥಿತಿ ನವೀಕರಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ
+Could not update the template.,ಟೆಂಪ್ಲೇಟ್ ನವೀಕರಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.
+Create a copy of this task,ಈ ಕಾರ್ಯದ ನಕಲನ್ನು ರಚಿಸಿ
+Create Contact,ಸಂಪರ್ಕ ರಚಿಸಿ
+Create Event,ಕಾರ್ಯಕ್ರಮ ರಚಿಸಿ
+Create Milestone,ಮೈಲಿಗಲ್ಲು ರಚಿಸಿ
+Create New Milestone,ಹೊಸ ಮೈಲಿಗಲ್ಲು ರಚಿಸಿ
+Create New Task,ಹೊಸ ಕಾರ್ಯ ರಚಿಸಿ
+Create Project,ಯೋಜನೆ ರಚಿಸಿ
+Create Task,ಕಾರ್ಯ ರಚಿಸಿ
+Create tasks and milestones from a template,ಟೆಂಪ್ಲೇಟ್‌ನಿಂದ ಕಾರ್ಯಗಳು ಮತ್ತು ಮೈಲಿಗಲ್ಲುಗಳನ್ನು ರಚಿಸಿ
+Create your first project to get started.,ಪ್ರಾರಂಭಿಸಲು ನಿಮ್ಮ ಮೊದಲ ಯೋಜನೆಯನ್ನು ರಚಿಸಿ.
+Create your first task to start tracking work on this project.,ಈ ಯೋಜನೆಯಲ್ಲಿ ಕೆಲಸವನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡಲು ನಿಮ್ಮ ಮೊದಲ ಕಾರ್ಯವನ್ನು ರಚಿಸಿ.
+Created,ರಚಿಸಲಾಗಿದೆ
+Creating...,ರಚಿಸಲಾಗುತ್ತಿದೆ...
+Critical,ತುರ್ತು
+Critical Path,ತುರ್ತು ಮಾರ್ಗ
+"Currency used for budgets, costs, and billing rates","ಬಜೆಟ್‌ಗಳು, ವೆಚ್ಚಗಳು ಮತ್ತು ಬಿಲ್ಲಿಂಗ್ ದರಗಳಿಗೆ ಬಳಸುವ ಕರೆನ್ಸಿ"
+Current,ಪ್ರಸ್ತುತ
+Current Assignments,ಪ್ರಸ್ತುತ ನಿಯೋಜನೆಗಳು
+Current scheduled time:,ಪ್ರಸ್ತುತ ನಿಗದಿತ ಸಮಯ:
+Currently running version,Currently running version
+d lag,ದಿ ವಿಳಂಬ
+Daily Availability,ದೈನಿಕ ಲಭ್ಯತೆ
+Daily Hours,ದೈನಿಕ ಗಂಟೆಗಳು
+Danger Zone,ಅಪಾಯ ವಲಯ
+Dark,ಡಾರ್ಕ್
+Dashboard,ಡ್ಯಾಶ್‌ಬೋರ್ಡ್
+Date,ದಿನಾಂಕ
+Date changes on this task will show cascade impact here,ಈ ಕಾರ್ಯದ ದಿನಾಂಕ ಬದಲಾವಣೆಗಳು ಇಲ್ಲಿ ಕ್ಯಾಸ್ಕೇಡ್ ಪರಿಣಾಮವನ್ನು ತೋರಿಸುತ್ತವೆ
+Date cleared,ದಿನಾಂಕ ತೆರವುಗೊಳಿಸಲಾಗಿದೆ
+Date of Joining,ಸೇರ್ಪಡೆ ದಿನಾಂಕ
+Date updated,ದಿನಾಂಕ ನವೀಕರಿಸಲಾಗಿದೆ
+Dates,ದಿನಾಂಕಗಳು
+Dates cascaded,ದಿನಾಂಕಗಳು ಕ್ಯಾಸ್ಕೇಡ್ ಮಾಡಲಾಗಿದೆ
+Dates will be relative to the project's start date.,ದಿನಾಂಕಗಳು ಯೋಜನೆಯ ಪ್ರಾರಂಭ ದಿನಾಂಕಕ್ಕೆ ಸಂಬಂಧಿಸಿರುತ್ತವೆ.
+Day,ದಿನ
+day,ದಿನ
+days,ದಿನಗಳು
+Days before due date to send reminder,ಜ್ಞಾಪನೆ ಕಳುಹಿಸಲು ಅಂತಿಮ ದಿನಾಂಕದ ಮೊದಲು ದಿನಗಳು
+Days Overdue,ವಿಳಂಬ ದಿನಗಳು
+Days Remaining,ಉಳಿದ ದಿನಗಳು
+Deadline,ಅಂತಿಮ ಗಡುವು
+Deadlines,ಅಂತಿಮ ಗಡುವುಗಳು
+Decision,ನಿರ್ಧಾರ
+Decline,ನಿರಾಕರಿಸಿ
+Declined,ನಿರಾಕರಿಸಲಾಗಿದೆ
+Default Currency,ಡೀಫಾಲ್ಟ್ ಕರೆನ್ಸಿ
+Default hours per week for contact capacity planning,ಸಂಪರ್ಕ ಸಾಮರ್ಥ್ಯ ಯೋಜನೆಗಾಗಿ ಪ್ರತಿ ವಾರಕ್ಕೆ ಡೀಫಾಲ್ಟ್ ಗಂಟೆಗಳು
+Default Priority,ಡೀಫಾಲ್ಟ್ ಆದ್ಯತೆ
+Default Project Status,ಡೀಫಾಲ್ಟ್ ಯೋಜನೆ ಸ್ಥಿತಿ
+Default Task Status,ಡೀಫಾಲ್ಟ್ ಕಾರ್ಯ ಸ್ಥಿತಿ
+Default task view,ಡೀಫಾಲ್ಟ್ ಕಾರ್ಯ ನೋಟ
+Default Values,ಡೀಫಾಲ್ಟ್ ಮೌಲ್ಯಗಳು
+Default Weekly Capacity,ಡೀಫಾಲ್ಟ್ ಸಾಪ್ತಾಹಿಕ ಸಾಮರ್ಥ್ಯ
+Defaults,ಡೀಫಾಲ್ಟ್‌ಗಳು
+Defect Cost Impact,ದೋಷ ವೆಚ್ಚದ ಪರಿಣಾಮ
+Defect name is required,ದೋಷದ ಹೆಸರು ಅಗತ್ಯ
+Defect Type,ದೋಷ ಪ್ರಕಾರ
+Defect {0} not found,ದೋಷ {0} ಕಂಡುಬಂದಿಲ್ಲ
+Defects,ದೋಷಗಳು
+Defects & Issues,ದೋಷಗಳು ಮತ್ತು ಸಮಸ್ಯೆಗಳು
+Defects Resolved,ದೋಷಗಳು ಪರಿಹರಿಸಲಾಗಿದೆ
+Delayed,ವಿಳಂಬವಾಗಿದೆ
+Delete,ಅಳಿಸಿ
+Delete Activity Data,ಚಟುವಟಿಕೆ ಡೇಟಾ ಅಳಿಸಿ
+Delete all read notifications?,ಓದಿದ ಎಲ್ಲ ಅಧಿಸೂಚನೆಗಳನ್ನು ಅಳಿಸುವುದೇ?
+Delete comment,ಕಾಮೆಂಟ್ ಅಳಿಸಿ
+Delete Contact,ಸಂಪರ್ಕ ಅಳಿಸಿ
+Delete Event,ಕಾರ್ಯಕ್ರಮ ಅಳಿಸಿ
+Delete Event?,ಕಾರ್ಯಕ್ರಮ ಅಳಿಸುವುದೇ?
+Delete failed,ಅಳಿಸುವಿಕೆ ವಿಫಲವಾಗಿದೆ
+Delete file,ಕಡತ ಅಳಿಸಿ
+Delete item,ಅಂಶ ಅಳಿಸಿ
+Delete note,ಟಿಪ್ಪಣಿ ಅಳಿಸಿ
+Delete Project,ಯೋಜನೆ ಅಳಿಸಿ
+Delete Task,ಕಾರ್ಯ ಅಳಿಸಿ
+Delete this project,ಈ ಯೋಜನೆ ಅಳಿಸಿ
+Deleted,ಅಳಿಸಲಾಗಿದೆ
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","ಯೋಜನೆ ""{0}"" ಅಳಿಸಲಾಗಿದೆ ({1} ಕಾರ್ಯಗಳು, {2} ಮೈಲಿಗಲ್ಲುಗಳು)"
+Deletes notes and preferences. Source document is not affected.,ಟಿಪ್ಪಣಿಗಳು ಮತ್ತು ಆದ್ಯತೆಗಳನ್ನು ಅಳಿಸುತ್ತದೆ. ಮೂಲ ದಸ್ತಾವೇಜು ಪ್ರಭಾವಿತವಾಗುವುದಿಲ್ಲ.
+Deleting...,ಅಳಿಸಲಾಗುತ್ತಿದೆ...
+Department,ವಿಭಾಗ
+Dependencies,ಅವಲಂಬನೆಗಳು
+dependencies,ಅವಲಂಬನೆಗಳು
+Dependencies are informational only,ಅವಲಂಬನೆಗಳು ಮಾಹಿತಿ ಉದ್ದೇಶಕ್ಕೆ ಮಾತ್ರ
+dependency,ಅವಲಂಬನೆ
+Dependency already exists,ಅವಲಂಬನೆ ಈಗಾಗಲೇ ಇದೆ
+Dependency Chain,ಅವಲಂಬನೆ ಸರಪಳಿ
+Dependency created,ಅವಲಂಬನೆ ರಚಿಸಲಾಗಿದೆ
+Dependency mode updated,ಅವಲಂಬನೆ ಮೋಡ್ ನವೀಕರಿಸಲಾಗಿದೆ
+Dependency name is required,ಅವಲಂಬನೆ ಹೆಸರು ಅಗತ್ಯ
+Dependency task {0} not found,ಅವಲಂಬನೆ ಕಾರ್ಯ {0} ಕಂಡುಬಂದಿಲ್ಲ
+Dependency {0} not found,ಅವಲಂಬನೆ {0} ಕಂಡುಬಂದಿಲ್ಲ
+depends,ಅವಲಂಬಿಸುತ್ತದೆ
+Depends on Group,ಗುಂಪಿನ ಮೇಲೆ ಅವಲಂಬಿತ
+Depends on task is required,ಅವಲಂಬಿತ ಕಾರ್ಯ ಅಗತ್ಯ
+depends on...,ಅವಲಂಬಿಸುತ್ತದೆ...
+Descending -- click to reverse,ಅವರೋಹಣ -- ತಿರುಗಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+Describe the defect in detail...,ದೋಷವನ್ನು ವಿವರವಾಗಿ ವಿವರಿಸಿ...
+Description,ವಿವರಣೆ
+Description updated,ವಿವರಣೆ ನವೀಕರಿಸಲಾಗಿದೆ
+Designation,ಹುದ್ದೆ
+"Detailed description of the defect, location, and impact","ದೋಷ, ಸ್ಥಳ ಮತ್ತು ಪರಿಣಾಮದ ವಿವರವಾದ ವಿವರಣೆ"
+Details,ವಿವರಗಳು
+Discard timer,ಟೈಮರ್ ತ್ಯಜಿಸಿ
+Discussion,ಚರ್ಚೆ
+Dismiss,Dismiss
+Display,ಪ್ರದರ್ಶನ
+Document,ದಸ್ತಾವೇಜು
+Document attached to project,ಯೋಜನೆಗೆ ದಸ್ತಾವೇಜು ಲಗತ್ತಿಸಲಾಗಿದೆ
+Document final decision and rationale,ಅಂತಿಮ ನಿರ್ಧಾರ ಮತ್ತು ತಾರ್ಕಿಕತೆಯನ್ನು ದಾಖಲಿಸಿ
+Documentation Review,ದಸ್ತಾವೇಜು ಪರಿಶೀಲನೆ
+Documents,ದಸ್ತಾವೇಜುಗಳು
+Done,ಮುಗಿದಿದೆ
+Download,ಡೌನ್‌ಲೋಡ್
+Drag to create dependency,ಅವಲಂಬನೆ ರಚಿಸಲು ಡ್ರ್ಯಾಗ್ ಮಾಡಿ
+Dry Run,ಪ್ರಾಯೋಗಿಕ ಓಟ
+Dry Run Complete,ಪ್ರಾಯೋಗಿಕ ಓಟ ಪೂರ್ಣ
+Due Date,ಅಂತಿಮ ದಿನಾಂಕ
+Due date,ಅಂತಿಮ ದಿನಾಂಕ
+Due Date (Earliest),ಅಂತಿಮ ದಿನಾಂಕ (ಹತ್ತಿರದ)
+Due date cannot be before start date,ಅಂತಿಮ ದಿನಾಂಕ ಪ್ರಾರಂಭ ದಿನಾಂಕಕ್ಕಿಂತ ಮೊದಲು ಇರಲು ಸಾಧ್ಯವಿಲ್ಲ
+Due date is in the past,ಅಂತಿಮ ದಿನಾಂಕ ಹಿಂದಿನ ದಿನಾಂಕವಾಗಿದೆ
+Due Date Reminders,ಅಂತಿಮ ದಿನಾಂಕ ಜ್ಞಾಪನೆಗಳು
+Due Diligence,ಸಮಗ್ರ ಪರಿಶೀಲನೆ
+Due Diligence Checklist,ಸಮಗ್ರ ಪರಿಶೀಲನೆ ಪಟ್ಟಿ
+Due This Week,ಈ ವಾರ ಅಂತಿಮ
+Due:,ಅಂತಿಮ:
+Duplicate events are not allowed,ನಕಲು ಕಾರ್ಯಕ್ರಮಗಳಿಗೆ ಅನುಮತಿಯಿಲ್ಲ
+Duplicate failed,ನಕಲು ವಿಫಲವಾಗಿದೆ
+Duplicate Task,ಕಾರ್ಯ ನಕಲಿಸಿ
+Duration,ಅವಧಿ
+Duration Summary,ಅವಧಿ ಸಾರಾಂಶ
+Duration:,ಅವಧಿ:
+e.g. Cracked wall finish in bathroom...,ಉದಾ. ಸ್ನಾನಗೃಹದಲ್ಲಿ ಬಿರುಕು ಬಿಟ್ಟ ಗೋಡೆ ಮುಕ್ತಾಯ...
+"e.g. Electrical, Plumbing...","ಉದಾ. ವಿದ್ಯುತ್, ಪ್ಲಂಬಿಂಗ್..."
+Edit,ಸಂಪಾದಿಸಿ
+Edit (E),ಸಂಪಾದಿಸಿ (E)
+Edit dependency,ಅವಲಂಬನೆ ಸಂಪಾದಿಸಿ
+Edit Event,ಕಾರ್ಯಕ್ರಮ ಸಂಪಾದಿಸಿ
+Efficiency,ದಕ್ಷತೆ
+Either dependency_name or depends_on is required,dependency_name ಅಥವಾ depends_on ಅಗತ್ಯ
+Email,ಇಮೇಲ್
+Email invitations to all attendees,ಎಲ್ಲಾ ಹಾಜರಾತಿದಾರರಿಗೆ ಇಮೇಲ್ ಆಹ್ವಾನಗಳು
+Email is required to create portal user,ಪೋರ್ಟಲ್ ಬಳಕೆದಾರ ರಚಿಸಲು ಇಮೇಲ್ ಅಗತ್ಯ
+Email notifications,ಇಮೇಲ್ ಅಧಿಸೂಚನೆಗಳು
+Employee,ಉದ್ಯೋಗಿ
+Employee DocType not available,ಉದ್ಯೋಗಿ DocType ಲಭ್ಯವಿಲ್ಲ
+Employee not found,ಉದ್ಯೋಗಿ ಕಂಡುಬಂದಿಲ್ಲ
+Enable or disable optional features,ಐಚ್ಛಿಕ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಸಕ್ರಿಯ ಅಥವಾ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ
+Enable Time Tracking,ಸಮಯ ಟ್ರ್ಯಾಕಿಂಗ್ ಸಕ್ರಿಯಗೊಳಿಸಿ
+End,ಅಂತ್ಯ
+End Date,ಅಂತಿಮ ದಿನಾಂಕ
+End date,ಅಂತಿಮ ದಿನಾಂಕ
+End Date cannot be before Start Date,ಅಂತಿಮ ದಿನಾಂಕ ಪ್ರಾರಂಭ ದಿನಾಂಕಕ್ಕಿಂತ ಮೊದಲು ಇರಲು ಸಾಧ್ಯವಿಲ್ಲ
+End date cannot be before start date,ಅಂತಿಮ ದಿನಾಂಕ ಪ್ರಾರಂಭ ದಿನಾಂಕಕ್ಕಿಂತ ಮೊದಲು ಇರಲು ಸಾಧ್ಯವಿಲ್ಲ
+End date updated,ಅಂತಿಮ ದಿನಾಂಕ ನವೀಕರಿಸಲಾಗಿದೆ
+End time was before start time. Adjusted to 1 hour after start.,ಅಂತಿಮ ಸಮಯ ಪ್ರಾರಂಭ ಸಮಯಕ್ಕಿಂತ ಮೊದಲಿತ್ತು. ಪ್ರಾರಂಭದ ನಂತರ 1 ಗಂಟೆಗೆ ಹೊಂದಿಸಲಾಗಿದೆ.
+End:,ಅಂತ್ಯ:
+Enter milestone name...,ಮೈಲಿಗಲ್ಲಿನ ಹೆಸರು ನಮೂದಿಸಿ...
+Enter project name,ಯೋಜನೆ ಹೆಸರು ನಮೂದಿಸಿ
+Enter task title...,ಕಾರ್ಯದ ಶೀರ್ಷಿಕೆ ನಮೂದಿಸಿ...
+Enter template name,ಟೆಂಪ್ಲೇಟ್ ಹೆಸರು ನಮೂದಿಸಿ
+Enter your note... Use @name to mention someone,ನಿಮ್ಮ ಟಿಪ್ಪಣಿ ನಮೂದಿಸಿ... ಯಾರನ್ನಾದರೂ ಉಲ್ಲೇಖಿಸಲು @ಹೆಸರು ಬಳಸಿ
+Error,ದೋಷ
+Error loading activity,ಚಟುವಟಿಕೆ ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ
+Error loading contacts,ಸಂಪರ್ಕಗಳನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ
+Error loading dashboard,ಡ್ಯಾಶ್‌ಬೋರ್ಡ್ ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ
+Error loading project,ಯೋಜನೆ ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ
+Error loading projects,ಯೋಜನೆಗಳನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ
+Error loading settings,ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ
+Error loading tasks,ಕಾರ್ಯಗಳನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ
+Error loading templates,ಟೆಂಪ್ಲೇಟ್‌ಗಳನ್ನು ಲೋಡ್ ಮಾಡುವಲ್ಲಿ ದೋಷ
+Est. Hours,ಅಂ. ಗಂಟೆಗಳು
+Estimated,ಅಂದಾಜು
+Estimated Cost,ಅಂದಾಜು ವೆಚ್ಚ
+Estimated Cost (€),ಅಂದಾಜು ವೆಚ್ಚ (€)
+Estimated Hours,ಅಂದಾಜು ಗಂಟೆಗಳು
+Estimated:,ಅಂದಾಜು:
+Evaluate potential risks and concerns,ಸಂಭಾವ್ಯ ಅಪಾಯಗಳು ಮತ್ತು ಕಳವಳಗಳನ್ನು ಮೌಲ್ಯಮಾಪನ ಮಾಡಿ
+Event,ಕಾರ್ಯಕ್ರಮ
+Event is required for event context,ಕಾರ್ಯಕ್ರಮ ಸಂದರ್ಭಕ್ಕೆ ಕಾರ್ಯಕ್ರಮ ಅಗತ್ಯ
+Event is required when tracking context is 'event',ಟ್ರ್ಯಾಕಿಂಗ್ ಸಂದರ್ಭ 'event' ಆಗಿರುವಾಗ ಕಾರ್ಯಕ್ರಮ ಅಗತ್ಯ
+Event Type,ಕಾರ್ಯಕ್ರಮ ಪ್ರಕಾರ
+Events,ಕಾರ್ಯಕ್ರಮಗಳು
+Events not available. Please run: bench --site orga.localhost migrate,ಕಾರ್ಯಕ್ರಮಗಳು ಲಭ್ಯವಿಲ್ಲ. ದಯವಿಟ್ಟು ಚಲಾಯಿಸಿ: bench --site orga.localhost migrate
+Events:,ಕಾರ್ಯಕ್ರಮಗಳು:
+Expert,ಪರಿಣಿತ
+Explain why you are proposing a different time...,ಬೇರೆ ಸಮಯ ಏಕೆ ಪ್ರಸ್ತಾಪಿಸುತ್ತಿದ್ದೀರಿ ಎಂದು ವಿವರಿಸಿ...
+Export,ರಫ್ತು
+Export failed,ರಫ್ತು ವಿಫಲವಾಗಿದೆ
+Export JSON,JSON ರಫ್ತು
+Exported,ರಫ್ತು ಮಾಡಲಾಗಿದೆ
+Exported to timesheet {0},ಸಮಯಪಟ್ಟಿ {0} ಗೆ ರಫ್ತು ಮಾಡಲಾಗಿದೆ
+External,ಬಾಹ್ಯ
+Failed to add item,ಅಂಶ ಸೇರಿಸಲು ವಿಫಲ
+Failed to add note,ಟಿಪ್ಪಣಿ ಸೇರಿಸಲು ವಿಫಲ
+Failed to add skill,ಕೌಶಲ ಸೇರಿಸಲು ವಿಫಲ
+Failed to apply cascade changes: {0},ಕ್ಯಾಸ್ಕೇಡ್ ಬದಲಾವಣೆಗಳನ್ನು ಅನ್ವಯಿಸಲು ವಿಫಲ: {0}
+Failed to create defect,ದೋಷ ರಚಿಸಲು ವಿಫಲ
+Failed to create dependency,ಅವಲಂಬನೆ ರಚಿಸಲು ವಿಫಲ
+Failed to create event,ಕಾರ್ಯಕ್ರಮ ರಚಿಸಲು ವಿಫಲ
+Failed to create milestone,ಮೈಲಿಗಲ್ಲು ರಚಿಸಲು ವಿಫಲ
+Failed to create project,ಯೋಜನೆ ರಚಿಸಲು ವಿಫಲ
+Failed to create task,ಕಾರ್ಯ ರಚಿಸಲು ವಿಫಲ
+Failed to create time log,ಸಮಯ ನಮೂದು ರಚಿಸಲು ವಿಫಲ
+Failed to delete,ಅಳಿಸಲು ವಿಫಲ
+Failed to delete comment,ಕಾಮೆಂಟ್ ಅಳಿಸಲು ವಿಫಲ
+Failed to delete contact,ಸಂಪರ್ಕ ಅಳಿಸಲು ವಿಫಲ
+Failed to load,ಲೋಡ್ ಮಾಡಲು ವಿಫಲ
+Failed to load activity,ಚಟುವಟಿಕೆ ಲೋಡ್ ಮಾಡಲು ವಿಫಲ
+Failed to load assignments,ನಿಯೋಜನೆಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲ
+Failed to load contact,ಸಂಪರ್ಕ ಲೋಡ್ ಮಾಡಲು ವಿಫಲ
+Failed to load dashboard data,ಡ್ಯಾಶ್‌ಬೋರ್ಡ್ ಡೇಟಾ ಲೋಡ್ ಮಾಡಲು ವಿಫಲ
+Failed to load defects,ದೋಷಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲ
+Failed to load events,ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲ
+Failed to load project,ಯೋಜನೆ ಲೋಡ್ ಮಾಡಲು ವಿಫಲ
+Failed to load projects,ಯೋಜನೆಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲ
+Failed to load report data,ವರದಿ ಡೇಟಾ ಲೋಡ್ ಮಾಡಲು ವಿಫಲ
+Failed to load settings,ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲ
+Failed to load tasks,ಕಾರ್ಯಗಳನ್ನು ಲೋಡ್ ಮಾಡಲು ವಿಫಲ
+Failed to move task,ಕಾರ್ಯ ಸರಿಸಲು ವಿಫಲ
+Failed to post comment,ಕಾಮೆಂಟ್ ಪ್ರಕಟಿಸಲು ವಿಫಲ
+Failed to propose new time,ಹೊಸ ಸಮಯ ಪ್ರಸ್ತಾಪಿಸಲು ವಿಫಲ
+Failed to remove item,ಅಂಶ ತೆಗೆದುಹಾಕಲು ವಿಫಲ
+Failed to remove skill,ಕೌಶಲ ತೆಗೆದುಹಾಕಲು ವಿಫಲ
+Failed to reorder milestones: {0},ಮೈಲಿಗಲ್ಲುಗಳನ್ನು ಮರುಕ್ರಮಗೊಳಿಸಲು ವಿಫಲ: {0}
+Failed to reorder tasks: {0},ಕಾರ್ಯಗಳನ್ನು ಮರುಕ್ರಮಗೊಳಿಸಲು ವಿಫಲ: {0}
+Failed to reschedule dependent tasks: {0},ಅವಲಂಬಿತ ಕಾರ್ಯಗಳನ್ನು ಮರುನಿಗದಿ ಮಾಡಲು ವಿಫಲ: {0}
+Failed to save,ಉಳಿಸಲು ವಿಫಲ
+Failed to save preferences,ಆದ್ಯತೆಗಳನ್ನು ಉಳಿಸಲು ವಿಫಲ
+Failed to save settings,ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಉಳಿಸಲು ವಿಫಲ
+Failed to submit request. Please try again.,ವಿನಂತಿ ಸಲ್ಲಿಸಲು ವಿಫಲ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.
+Failed to update item,ಅಂಶ ನವೀಕರಿಸಲು ವಿಫಲ
+Failed to update priority,ಆದ್ಯತೆ ನವೀಕರಿಸಲು ವಿಫಲ
+Failed to update task,ಕಾರ್ಯ ನವೀಕರಿಸಲು ವಿಫಲ
+Failed to update tasks: {0},ಕಾರ್ಯಗಳನ್ನು ನವೀಕರಿಸಲು ವಿಫಲ: {0}
+Failed to upload avatar,ಅವತಾರ್ ಅಪ್‌ಲೋಡ್ ಮಾಡಲು ವಿಫಲ
+Feature,ವೈಶಿಷ್ಟ್ಯ
+Features,ವೈಶಿಷ್ಟ್ಯಗಳು
+FF (Finish-Finish),FF (ಮುಕ್ತಾಯ-ಮುಕ್ತಾಯ)
+FF - Finish-to-Finish,FF - ಮುಕ್ತಾಯ-ಮುಕ್ತಾಯ
+Field has been updated,ಕ್ಷೇತ್ರ ನವೀಕರಿಸಲಾಗಿದೆ
+Field name is required for 'Set Field Value' action,'Set Field Value' ಕ್ರಿಯೆಗೆ ಕ್ಷೇತ್ರ ಹೆಸರು ಅಗತ್ಯ
+Field {0} is not a Link field,ಕ್ಷೇತ್ರ {0} ಲಿಂಕ್ ಕ್ಷೇತ್ರವಲ್ಲ
+Field {0} not found in {1},{1} ಯಲ್ಲಿ ಕ್ಷೇತ್ರ {0} ಕಂಡುಬಂದಿಲ್ಲ
+File,ಕಡತ
+file,ಫೈಲ್
+File does not belong to this task,ಕಡತ ಈ ಕಾರ್ಯಕ್ಕೆ ಸೇರಿಲ್ಲ
+File name is required,ಕಡತದ ಹೆಸರು ಅಗತ್ಯ
+File uploaded,ಕಡತ ಅಪ್‌ಲೋಡ್ ಆಗಿದೆ
+File {0} not found,ಕಡತ {0} ಕಂಡುಬಂದಿಲ್ಲ
+Files,ಕಡತಗಳು
+files,ಫೈಲ್‌ಗಳು
+Filter,ಫಿಲ್ಟರ್
+Final Decision,ಅಂತಿಮ ನಿರ್ಧಾರ
+Finance,ಹಣಕಾಸು
+Financial,ಆರ್ಥಿಕ
+Finish-to-Finish,ಮುಕ್ತಾಯ-ಮುಕ್ತಾಯ
+Finish-to-Start,ಮುಕ್ತಾಯ-ಪ್ರಾರಂಭ
+Flag,ಫ್ಲ್ಯಾಗ್
+Flag for attention,ಗಮನಕ್ಕಾಗಿ ಫ್ಲ್ಯಾಗ್
+Flagged,ಫ್ಲ್ಯಾಗ್ ಮಾಡಲಾಗಿದೆ
+Focus Panel,ಫೋಕಸ್ ಪ್ಯಾನೆಲ್
+Follows your system preference. Currently:,ನಿಮ್ಮ ಸಿಸ್ಟಂ ಆದ್ಯತೆಯನ್ನು ಅನುಸರಿಸುತ್ತದೆ. ಪ್ರಸ್ತುತ:
+Frappe Project {0} not found,Frappe ಯೋಜನೆ {0} ಕಂಡುಬಂದಿಲ್ಲ
+Frappe Projects Migration,Frappe Projects ವರ್ಗಾವಣೆ
+Frappe Projects module not available,Frappe Projects ಮಾಡ್ಯೂಲ್ ಲಭ್ಯವಿಲ್ಲ
+Frappe Projects module not installed,Frappe Projects ಮಾಡ್ಯೂಲ್ ಸ್ಥಾಪಿಸಲಾಗಿಲ್ಲ
+Frappe Projects sync is not enabled,Frappe Projects ಸಿಂಕ್ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿಲ್ಲ
+Frappe Task DocType not found,Frappe ಕಾರ್ಯ DocType ಕಂಡುಬಂದಿಲ್ಲ
+Frappe Task has no project,Frappe ಕಾರ್ಯಕ್ಕೆ ಯೋಜನೆ ಇಲ್ಲ
+Frappe Task {0} not found,Frappe ಕಾರ್ಯ {0} ಕಂಡುಬಂದಿಲ್ಲ
+Fri,ಶುಕ್ರ
+From,ಇಂದ
+From Template,ಟೆಂಪ್ಲೇಟ್‌ನಿಂದ
+FS (Finish-Start),FS (ಮುಕ್ತಾಯ-ಪ್ರಾರಂಭ)
+FS - Finish-to-Start (default),FS - ಮುಕ್ತಾಯ-ಪ್ರಾರಂಭ (ಡೀಫಾಲ್ಟ್)
+Full form view with audit trail,ಲೆಕ್ಕಪರಿಶೋಧನಾ ಜಾಡಿನೊಂದಿಗೆ ಪೂರ್ಣ ಫಾರ್ಮ್ ನೋಟ
+Full name,ಪೂರ್ಣ ಹೆಸರು
+Gantt,Gantt
+Gantt Chart,Gantt ಚಾರ್ಟ್
+Gantt View,Gantt ನೋಟ
+General Note,ಸಾಮಾನ್ಯ ಟಿಪ್ಪಣಿ
+Get started,ಪ್ರಾರಂಭಿಸಿ
+Go back,ಹಿಂದೆ ಹೋಗಿ
+Go Back,Go Back
+Group by,ಗುಂಪು ಮಾಡಿ
+Group dependency removed,ಗುಂಪು ಅವಲಂಬನೆ ತೆಗೆದುಹಾಕಲಾಗಿದೆ
+Group dependency set,ಗುಂಪು ಅವಲಂಬನೆ ಹೊಂದಿಸಲಾಗಿದೆ
+Group removed,ಗುಂಪು ತೆಗೆದುಹಾಕಲಾಗಿದೆ
+Group updated,ಗುಂಪು ನವೀಕರಿಸಲಾಗಿದೆ
+Hammock task dates are auto-calculated and cannot be changed manually,ಹ್ಯಾಮಕ್ ಕಾರ್ಯ ದಿನಾಂಕಗಳು ಸ್ವಯಂ ಲೆಕ್ಕಾಚಾರವಾಗಿದ್ದು ಹಸ್ತಚಾಲಿತವಾಗಿ ಬದಲಾಯಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ
+Have a question or need assistance? Fill out the form below and our team will get back to you.,ಪ್ರಶ್ನೆ ಇದೆಯೇ ಅಥವಾ ಸಹಾಯ ಬೇಕೇ? ಕೆಳಗಿನ ಫಾರ್ಮ್ ಭರ್ತಿ ಮಾಡಿ ಮತ್ತು ನಮ್ಮ ತಂಡ ನಿಮಗೆ ಹಿಂತಿರುಗಿ ಬರುತ್ತದೆ.
+Health,ಆರೋಗ್ಯ
+Healthy,ಆರೋಗ್ಯಕರ
+Hello {0},ನಮಸ್ಕಾರ {0}
+Here's what's happening with your projects today.,ಇಂದು ನಿಮ್ಮ ಯೋಜನೆಗಳಲ್ಲಿ ಏನು ನಡೆಯುತ್ತಿದೆ ಎಂಬುದು ಇಲ್ಲಿದೆ.
+Hide,ಮರೆಮಾಡಿ
+High,ಹೆಚ್ಚು
+History,ಇತಿಹಾಸ
+Home,ಮುಖಪುಟ
+Hourly Cost,ಗಂಟೆಯ ವೆಚ್ಚ
+Hours,ಗಂಟೆಗಳು
+hours,ಗಂಟೆಗಳು
+Hours Logged,ದಾಖಲಿಸಿದ ಗಂಟೆಗಳು
+ID,ಐಡಿ
+Image must be smaller than 5 MB,ಚಿತ್ರ 5 MB ಗಿಂತ ಚಿಕ್ಕದಾಗಿರಬೇಕು
+Import,ಆಮದು
+Import existing projects and tasks from Frappe Projects module,Frappe Projects ಮಾಡ್ಯೂಲ್‌ನಿಂದ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಯೋಜನೆಗಳು ಮತ್ತು ಕಾರ್ಯಗಳನ್ನು ಆಮದು ಮಾಡಿ
+Import failed,ಆಮದು ವಿಫಲವಾಗಿದೆ
+Import Template,ಟೆಂಪ್ಲೇಟ್ ಆಮದು
+Imported,ಆಮದು ಮಾಡಲಾಗಿದೆ
+in,ನಲ್ಲಿ
+In Progress,ಪ್ರಗತಿಯಲ್ಲಿದೆ
+In Review,ಪರಿಶೀಲನೆಯಲ್ಲಿದೆ
+In-app notifications,ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ಅಧಿಸೂಚನೆಗಳು
+Inactive,ನಿಷ್ಕ್ರಿಯ
+Initial Review,ಆರಂಭಿಕ ಪರಿಶೀಲನೆ
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,ಎಲ್ಲಾ ಕಾರ್ಯಗಳನ್ನು ನೋಡಲು ಸಾಕಷ್ಟು ಅನುಮತಿಗಳಿಲ್ಲ
+Intermediate,ಮಧ್ಯಮ
+Internal,ಆಂತರಿಕ
+Invalid DocType,ಅಮಾನ್ಯ DocType
+Invalid DocType for import,ಆಮದಿಗಾಗಿ ಅಮಾನ್ಯ DocType
+Invalid item type: {0},ಅಮಾನ್ಯ ಅಂಶ ಪ್ರಕಾರ: {0}
+Invalid JSON data,ಅಮಾನ್ಯ JSON ಡೇಟಾ
+Invalid note type. Must be one of: {0},ಅಮಾನ್ಯ ಟಿಪ್ಪಣಿ ಪ್ರಕಾರ. ಇವುಗಳಲ್ಲಿ ಒಂದಾಗಿರಬೇಕು: {0}
+Invalid project reference,ಅಮಾನ್ಯ ಯೋಜನೆ ಉಲ್ಲೇಖ
+Invalid reaction type. Must be one of: {0},ಅಮಾನ್ಯ ಪ್ರತಿಕ್ರಿಯೆ ಪ್ರಕಾರ. ಇವುಗಳಲ್ಲಿ ಒಂದಾಗಿರಬೇಕು: {0}
+Invalid RSVP status,ಅಮಾನ್ಯ RSVP ಸ್ಥಿತಿ
+Invalid status. Must be one of: {0},ಅಮಾನ್ಯ ಸ್ಥಿತಿ. ಇವುಗಳಲ್ಲಿ ಒಂದಾಗಿರಬೇಕು: {0}
+Invalid status: {0},ಅಮಾನ್ಯ ಸ್ಥಿತಿ: {0}
+Invalid status: {0}. Must be one of: {1},ಅಮಾನ್ಯ ಸ್ಥಿತಿ: {0}. ಇವುಗಳಲ್ಲಿ ಒಂದಾಗಿರಬೇಕು: {1}
+Invalid tracking context: {0},ಅಮಾನ್ಯ ಟ್ರ್ಯಾಕಿಂಗ್ ಸಂದರ್ಭ: {0}
+Invalid visibility. Must be one of: {0},ಅಮಾನ್ಯ ಗೋಚರತೆ. ಇವುಗಳಲ್ಲಿ ಒಂದಾಗಿರಬೇಕು: {0}
+Invitation: {0} - {1} at {2},ಆಹ್ವಾನ: {0} - {1} ಸಮಯ {2}
+Invite People,ಜನರನ್ನು ಆಹ್ವಾನಿಸಿ
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,ಅಂಶ ಸೇರಿಸಲಾಗಿದೆ
+Item ID is required,ಅಂಶ ಐಡಿ ಅಗತ್ಯ
+Item removed,ಅಂಶ ತೆಗೆದುಹಾಕಲಾಗಿದೆ
+Item type is required,ಅಂಶ ಪ್ರಕಾರ ಅಗತ್ಯ
+Item {0} not found,ಅಂಶ {0} ಕಂಡುಬಂದಿಲ್ಲ
+Job title or role,ಹುದ್ದೆ ಅಥವಾ ಪಾತ್ರ
+Join Meeting,ಸಭೆಗೆ ಸೇರಿ
+Just now,ಈಗಷ್ಟೇ
+just now,ಈಗಷ್ಟೇ
+Kanban,Kanban
+Kanban Board,Kanban ಬೋರ್ಡ್
+Kanban View,Kanban ನೋಟ
+Keyboard Shortcuts,ಕೀಬೋರ್ಡ್ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು
+Keyboard shortcuts (?),ಕೀಬೋರ್ಡ್ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು (?)
+Last checked: {0},Last checked: {0}
+Last Updated,ಕೊನೆಯ ನವೀಕರಣ
+Last updated:,ಕೊನೆಯ ನವೀಕರಣ:
+Last Week,ಕಳೆದ ವಾರ
+Latest Version,Latest Version
+Light,ಲೈಟ್
+Link failed,ಲಿಂಕ್ ವಿಫಲವಾಗಿದೆ
+Link Task,ಕಾರ್ಯ ಲಿಂಕ್ ಮಾಡಿ
+Linked,ಲಿಂಕ್ ಮಾಡಲಾಗಿದೆ
+Linked employee not found,ಲಿಂಕ್ ಮಾಡಲಾದ ಉದ್ಯೋಗಿ ಕಂಡುಬಂದಿಲ್ಲ
+Linked Tasks,ಲಿಂಕ್ ಮಾಡಲಾದ ಕಾರ್ಯಗಳು
+List,ಪಟ್ಟಿ
+List View,ಪಟ್ಟಿ ನೋಟ
+Load failed,ಲೋಡ್ ವಿಫಲವಾಗಿದೆ
+Load More,ಇನ್ನಷ್ಟು ಲೋಡ್ ಮಾಡಿ
+Load more comments,ಇನ್ನಷ್ಟು ಕಾಮೆಂಟ್‌ಗಳನ್ನು ಲೋಡ್ ಮಾಡಿ
+Loading activity...,ಚಟುವಟಿಕೆ ಲೋಡ್ ಆಗುತ್ತಿದೆ...
+Loading changes...,ಬದಲಾವಣೆಗಳು ಲೋಡ್ ಆಗುತ್ತಿವೆ...
+Loading checklist...,ಪರಿಶೀಲನಾ ಪಟ್ಟಿ ಲೋಡ್ ಆಗುತ್ತಿದೆ...
+Loading comments...,ಕಾಮೆಂಟ್‌ಗಳು ಲೋಡ್ ಆಗುತ್ತಿವೆ...
+Loading contact...,ಸಂಪರ್ಕ ಲೋಡ್ ಆಗುತ್ತಿದೆ...
+Loading contacts...,ಸಂಪರ್ಕಗಳು ಲೋಡ್ ಆಗುತ್ತಿವೆ...
+Loading dependencies...,ಅವಲಂಬನೆಗಳು ಲೋಡ್ ಆಗುತ್ತಿವೆ...
+Loading details...,ವಿವರಗಳು ಲೋಡ್ ಆಗುತ್ತಿವೆ...
+Loading discussion...,ಚರ್ಚೆ ಲೋಡ್ ಆಗುತ್ತಿದೆ...
+Loading events...,ಕಾರ್ಯಕ್ರಮಗಳು ಲೋಡ್ ಆಗುತ್ತಿವೆ...
+Loading files...,ಕಡತಗಳು ಲೋಡ್ ಆಗುತ್ತಿವೆ...
+Loading notes...,ಟಿಪ್ಪಣಿಗಳು ಲೋಡ್ ಆಗುತ್ತಿವೆ...
+Loading preferences...,ಆದ್ಯತೆಗಳು ಲೋಡ್ ಆಗುತ್ತಿವೆ...
+Loading project...,ಯೋಜನೆ ಲೋಡ್ ಆಗುತ್ತಿದೆ...
+Loading projects...,ಯೋಜನೆಗಳು ಲೋಡ್ ಆಗುತ್ತಿವೆ...
+Loading replies...,ಪ್ರತ್ಯುತ್ತರಗಳು ಲೋಡ್ ಆಗುತ್ತಿವೆ...
+Loading report data...,ವರದಿ ಡೇಟಾ ಲೋಡ್ ಆಗುತ್ತಿದೆ...
+Loading settings...,ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಲೋಡ್ ಆಗುತ್ತಿವೆ...
+Loading task...,ಕಾರ್ಯ ಲೋಡ್ ಆಗುತ್ತಿದೆ...
+Loading templates...,ಟೆಂಪ್ಲೇಟ್‌ಗಳು ಲೋಡ್ ಆಗುತ್ತಿವೆ...
+Loading time logs...,ಸಮಯ ನಮೂದುಗಳು ಲೋಡ್ ಆಗುತ್ತಿವೆ...
+Loading your portal...,ನಿಮ್ಮ ಪೋರ್ಟಲ್ ಲೋಡ್ ಆಗುತ್ತಿದೆ...
+Loading...,ಲೋಡ್ ಆಗುತ್ತಿದೆ...
+Location,ಸ್ಥಳ
+Log Time,ಸಮಯ ದಾಖಲಿಸಿ
+Logout,ಲಾಗ್‌ಔಟ್
+Low,ಕಡಿಮೆ
+Make Offer,ಕೊಡುಗೆ ಮಾಡಿ
+Manager,ನಿರ್ವಾಹಕ
+Manual Entry,ಹಸ್ತಚಾಲಿತ ನಮೂದು
+Margin,ಅಂಚು
+Mark all as read,ಎಲ್ಲವನ್ನೂ ಓದಿದ ಎಂದು ಗುರುತಿಸಿ
+Mark all read,ಎಲ್ಲವನ್ನೂ ಓದಿದ ಎಂದು ಗುರುತಿಸಿ
+Mark as read,ಓದಿದ ಎಂದು ಗುರುತಿಸಿ
+Mark as unread,ಓದಿಲ್ಲ ಎಂದು ಗುರುತಿಸಿ
+Mark read,ಓದಿದ ಎಂದು ಗುರುತಿಸಿ
+Marking...,ಗುರುತಿಸಲಾಗುತ್ತಿದೆ...
+Material,ವಸ್ತು
+Maybe,ಬಹುಶಃ
+Medium,ಮಧ್ಯಮ
+Meeting,ಸಭೆ
+Meeting Link,ಸಭೆ ಲಿಂಕ್
+Meeting title,ಸಭೆ ಶೀರ್ಷಿಕೆ
+Meeting URL,ಸಭೆ URL
+Meetings,ಸಭೆಗಳು
+Mention,ಉಲ್ಲೇಖ
+Message,ಸಂದೇಶ
+Message is required,ಸಂದೇಶ ಅಗತ್ಯ
+Message is required for '{0}' action,'{0}' ಕ್ರಿಯೆಗೆ ಸಂದೇಶ ಅಗತ್ಯ
+Migrate,ವರ್ಗಾಯಿಸಿ
+Migration Complete,ವರ್ಗಾವಣೆ ಪೂರ್ಣ
+Migration ID:,ವರ್ಗಾವಣೆ ಐಡಿ:
+Migration log not found: {0},ವರ್ಗಾವಣೆ ಲಾಗ್ ಕಂಡುಬಂದಿಲ್ಲ: {0}
+Milestone,ಮೈಲಿಗಲ್ಲು
+milestone,ಮೈಲಿಗಲ್ಲು
+Milestone created,ಮೈಲಿಗಲ್ಲು ರಚಿಸಲಾಗಿದೆ
+Milestone description has been saved.,ಮೈಲಿಗಲ್ಲಿನ ವಿವರಣೆ ಉಳಿಸಲಾಗಿದೆ.
+Milestone ID is required,ಮೈಲಿಗಲ್ಲು ಐಡಿ ಅಗತ್ಯ
+Milestone marked as Missed (past due date),ಮೈಲಿಗಲ್ಲು ತಪ್ಪಿಸಿಕೊಂಡಿದೆ ಎಂದು ಗುರುತಿಸಲಾಗಿದೆ (ಅಂತಿಮ ದಿನಾಂಕ ಮೀರಿದೆ)
+Milestone moved,ಮೈಲಿಗಲ್ಲು ಸರಿಸಲಾಗಿದೆ
+Milestone Name,ಮೈಲಿಗಲ್ಲಿನ ಹೆಸರು
+Milestone name has been saved.,ಮೈಲಿಗಲ್ಲಿನ ಹೆಸರು ಉಳಿಸಲಾಗಿದೆ.
+Milestone name is required,ಮೈಲಿಗಲ್ಲಿನ ಹೆಸರು ಅಗತ್ಯ
+Milestone updated,ಮೈಲಿಗಲ್ಲು ನವೀಕರಿಸಲಾಗಿದೆ
+Milestone {0} not found,ಮೈಲಿಗಲ್ಲು {0} ಕಂಡುಬಂದಿಲ್ಲ
+Milestone {0} not in project {1},ಮೈಲಿಗಲ್ಲು {0} ಯೋಜನೆ {1} ಯಲ್ಲಿ ಇಲ್ಲ
+Milestones,ಮೈಲಿಗಲ್ಲುಗಳು
+milestones,ಮೈಲಿಗಲ್ಲುಗಳು
+Milestones:,ಮೈಲಿಗಲ್ಲುಗಳು:
+Minutes,ನಿಮಿಷಗಳು
+Missed,ತಪ್ಪಿಸಿಕೊಂಡಿದೆ
+Mixed,ಮಿಶ್ರ
+Mobile,ಮೊಬೈಲ್
+Moderate,ಮಧ್ಯಮ
+Modified,ಮಾರ್ಪಡಿಸಲಾಗಿದೆ
+"Modify details, time, or attendees","ವಿವರಗಳು, ಸಮಯ ಅಥವಾ ಹಾಜರಾತಿದಾರರನ್ನು ಮಾರ್ಪಡಿಸಿ"
+Mon,ಸೋಮ
+Month,ತಿಂಗಳು
+Move failed,ಸರಿಸುವಿಕೆ ವಿಫಲವಾಗಿದೆ
+Must be a positive number,ಧನಾತ್ಮಕ ಸಂಖ್ಯೆಯಾಗಿರಬೇಕು
+Must finish before this finishes,ಇದು ಮುಗಿಯುವ ಮೊದಲು ಮುಗಿಸಬೇಕು
+Must finish before this starts,ಇದು ಪ್ರಾರಂಭವಾಗುವ ಮೊದಲು ಮುಗಿಸಬೇಕು
+Must start before this finishes,ಇದು ಮುಗಿಯುವ ಮೊದಲು ಪ್ರಾರಂಭಿಸಬೇಕು
+Must start before this starts,ಇದು ಪ್ರಾರಂಭವಾಗುವ ಮೊದಲು ಪ್ರಾರಂಭಿಸಬೇಕು
+My Assignments,ನನ್ನ ನಿಯೋಜನೆಗಳು
+My Projects,ನನ್ನ ಯೋಜನೆಗಳು
+My Schedule,ನನ್ನ ವೇಳಾಪಟ್ಟಿ
+My Tasks,ನನ್ನ ಕಾರ್ಯಗಳು
+N/A,ಅನ್ವಯಿಸದು
+Name,ಹೆಸರು
+Name (A-Z),ಹೆಸರು (A-Z)
+Name (Z-A),ಹೆಸರು (Z-A)
+Name cannot exceed 255 characters,ಹೆಸರು 255 ಅಕ್ಷರಗಳನ್ನು ಮೀರಬಾರದು
+Need help?,ಸಹಾಯ ಬೇಕೇ?
+Needs Attention,ಗಮನ ಅಗತ್ಯ
+Never,Never
+new activities,ಹೊಸ ಚಟುವಟಿಕೆಗಳು
+New Activity,ಹೊಸ ಚಟುವಟಿಕೆ
+New activity,ಹೊಸ ಚಟುವಟಿಕೆ
+New Event,ಹೊಸ ಕಾರ್ಯಕ್ರಮ
+New index is required,ಹೊಸ ಸೂಚ್ಯಂಕ ಅಗತ್ಯ
+New Project,ಹೊಸ ಯೋಜನೆ
+New tasks will auto-trail by default.,ಹೊಸ ಕಾರ್ಯಗಳು ಡೀಫಾಲ್ಟ್ ಆಗಿ ಸ್ವಯಂ-ಜಾರಿಯಾಗುತ್ತವೆ.
+Newest First,ಹೊಸವು ಮೊದಲು
+Next,ಮುಂದೆ
+Next 14 days,ಮುಂದಿನ 14 ದಿನಗಳು
+Next 30 days,ಮುಂದಿನ 30 ದಿನಗಳು
+Next 60 days,ಮುಂದಿನ 60 ದಿನಗಳು
+Next 7 days,ಮುಂದಿನ 7 ದಿನಗಳು
+Next 90 days,ಮುಂದಿನ 90 ದಿನಗಳು
+Next Week,ಮುಂದಿನ ವಾರ
+Next:,ಮುಂದೆ:
+No,ಇಲ್ಲ
+No active assignments,ಸಕ್ರಿಯ ನಿಯೋಜನೆಗಳಿಲ್ಲ
+No active projects,ಸಕ್ರಿಯ ಯೋಜನೆಗಳಿಲ್ಲ
+No active timer found,ಸಕ್ರಿಯ ಟೈಮರ್ ಕಂಡುಬಂದಿಲ್ಲ
+No activity selected,ಯಾವುದೇ ಚಟುವಟಿಕೆ ಆಯ್ಕೆಯಾಗಿಲ್ಲ
+No assignments found,ನಿಯೋಜನೆಗಳು ಕಂಡುಬಂದಿಲ್ಲ
+No attendees,ಹಾಜರಾತಿದಾರರಿಲ್ಲ
+no change,ಬದಲಾವಣೆ ಇಲ್ಲ
+No changes for this field.,ಈ ಕ್ಷೇತ್ರಕ್ಕೆ ಬದಲಾವಣೆಗಳಿಲ್ಲ.
+No changes recorded for this activity.,ಈ ಚಟುವಟಿಕೆಗೆ ಬದಲಾವಣೆಗಳು ದಾಖಲಾಗಿಲ್ಲ.
+No checklist items yet,ಇನ್ನೂ ಪರಿಶೀಲನಾ ಪಟ್ಟಿಯ ಅಂಶಗಳಿಲ್ಲ
+No checklist items yet.,ಇನ್ನೂ ಪರಿಶೀಲನಾ ಪಟ್ಟಿಯ ಅಂಶಗಳಿಲ್ಲ.
+No comments yet,ಇನ್ನೂ ಕಾಮೆಂಟ್‌ಗಳಿಲ್ಲ
+No comments yet.,ಇನ್ನೂ ಕಾಮೆಂಟ್‌ಗಳಿಲ್ಲ.
+No contacts available,ಸಂಪರ್ಕಗಳು ಲಭ್ಯವಿಲ್ಲ
+No content for this tab,ಈ ಟ್ಯಾಬ್‌ಗೆ ವಿಷಯವಿಲ್ಲ
+No data available,ಡೇಟಾ ಲಭ್ಯವಿಲ್ಲ
+No data available for the selected filters,ಆಯ್ಕೆ ಮಾಡಿದ ಫಿಲ್ಟರ್‌ಗಳಿಗೆ ಡೇಟಾ ಲಭ್ಯವಿಲ್ಲ
+No data to export,ರಫ್ತು ಮಾಡಲು ಡೇಟಾ ಇಲ್ಲ
+No dates set,ದಿನಾಂಕಗಳು ಹೊಂದಿಸಲಾಗಿಲ್ಲ
+No defects reported,ದೋಷಗಳು ವರದಿಯಾಗಿಲ್ಲ
+No dependencies defined,ಅವಲಂಬನೆಗಳು ವ್ಯಾಖ್ಯಾನಿಸಲಾಗಿಲ್ಲ
+No description,ವಿವರಣೆ ಇಲ್ಲ
+No discussion yet.,ಇನ್ನೂ ಚರ್ಚೆ ಇಲ್ಲ.
+No documents attached,ದಸ್ತಾವೇಜುಗಳು ಲಗತ್ತಿಸಲಾಗಿಲ್ಲ
+No due date,ಅಂತಿಮ ದಿನಾಂಕ ಇಲ್ಲ
+No employee linked to this resource,ಈ ಸಂಪನ್ಮೂಲಕ್ಕೆ ಉದ್ಯೋಗಿ ಲಿಂಕ್ ಆಗಿಲ್ಲ
+No ERPNext employee linked to resource,ಸಂಪನ್ಮೂಲಕ್ಕೆ ERPNext ಉದ್ಯೋಗಿ ಲಿಂಕ್ ಆಗಿಲ್ಲ
+No events found,ಕಾರ್ಯಕ್ರಮಗಳು ಕಂಡುಬಂದಿಲ್ಲ
+No files attached yet.,ಇನ್ನೂ ಕಡತಗಳು ಲಗತ್ತಿಸಲಾಗಿಲ್ಲ.
+No Frappe Project linked,Frappe ಯೋಜನೆ ಲಿಂಕ್ ಆಗಿಲ್ಲ
+No Grouping,ಗುಂಪಿಲ್ಲ
+No items,ಅಂಶಗಳಿಲ್ಲ
+No matching tasks,ಹೊಂದಾಣಿಕೆಯ ಕಾರ್ಯಗಳಿಲ್ಲ
+No matching tasks found,ಹೊಂದಾಣಿಕೆಯ ಕಾರ್ಯಗಳು ಕಂಡುಬಂದಿಲ್ಲ
+No migration history,ವರ್ಗಾವಣೆ ಇತಿಹಾಸ ಇಲ್ಲ
+No Milestone,ಮೈಲಿಗಲ್ಲಿಲ್ಲ
+No milestones,ಮೈಲಿಗಲ್ಲುಗಳಿಲ್ಲ
+No milestones defined for this project.,ಈ ಯೋಜನೆಗೆ ಮೈಲಿಗಲ್ಲುಗಳು ವ್ಯಾಖ್ಯಾನಿಸಲಾಗಿಲ್ಲ.
+No notes yet.,ಇನ್ನೂ ಟಿಪ್ಪಣಿಗಳಿಲ್ಲ.
+No notes yet. Add a due diligence note to track progress.,ಇನ್ನೂ ಟಿಪ್ಪಣಿಗಳಿಲ್ಲ. ಪ್ರಗತಿ ಟ್ರ್ಯಾಕ್ ಮಾಡಲು ಸಮಗ್ರ ಪರಿಶೀಲನೆ ಟಿಪ್ಪಣಿ ಸೇರಿಸಿ.
+No notifications,ಅಧಿಸೂಚನೆಗಳಿಲ್ಲ
+No Orga Project linked to Frappe Project {0},Frappe ಯೋಜನೆ {0} ಗೆ Orga ಯೋಜನೆ ಲಿಂಕ್ ಆಗಿಲ್ಲ
+No overdue tasks,ವಿಳಂಬ ಕಾರ್ಯಗಳಿಲ್ಲ
+No pending cascade changes,ಬಾಕಿ ಕ್ಯಾಸ್ಕೇಡ್ ಬದಲಾವಣೆಗಳಿಲ್ಲ
+No predecessors - this task can start independently,ಪೂರ್ವವರ್ತಿಗಳಿಲ್ಲ — ಈ ಕಾರ್ಯ ಸ್ವತಂತ್ರವಾಗಿ ಪ್ರಾರಂಭಿಸಬಹುದು
+No project,ಯೋಜನೆ ಇಲ್ಲ
+No projects found,ಯೋಜನೆಗಳು ಕಂಡುಬಂದಿಲ್ಲ
+No Projects Yet,ಇನ್ನೂ ಯೋಜನೆಗಳಿಲ್ಲ
+No recent activity,ಇತ್ತೀಚಿನ ಚಟುವಟಿಕೆ ಇಲ್ಲ
+No related documents,ಸಂಬಂಧಿತ ದಸ್ತಾವೇಜುಗಳಿಲ್ಲ
+No resolved threads.,ಪರಿಹರಿಸಿದ ಥ್ರೆಡ್‌ಗಳಿಲ್ಲ.
+No resources found,ಸಂಪನ್ಮೂಲಗಳು ಕಂಡುಬಂದಿಲ್ಲ
+No results found,ಫಲಿತಾಂಶಗಳು ಕಂಡುಬಂದಿಲ್ಲ
+No skills listed,ಕೌಶಲಗಳು ಪಟ್ಟಿಮಾಡಲಾಗಿಲ್ಲ
+No skills recorded yet,ಇನ್ನೂ ಕೌಶಲಗಳು ದಾಖಲಾಗಿಲ್ಲ
+No successors - no tasks are waiting for this one,ಉತ್ತರಾಧಿಕಾರಿಗಳಿಲ್ಲ — ಯಾವುದೇ ಕಾರ್ಯ ಇದಕ್ಕಾಗಿ ಕಾಯುತ್ತಿಲ್ಲ
+No task selected,ಯಾವುದೇ ಕಾರ್ಯ ಆಯ್ಕೆಯಾಗಿಲ್ಲ
+No tasks assigned to you,ನಿಮಗೆ ನಿಯೋಜಿಸಲಾದ ಕಾರ್ಯಗಳಿಲ್ಲ
+No tasks available to add,ಸೇರಿಸಲು ಕಾರ್ಯಗಳು ಲಭ್ಯವಿಲ್ಲ
+No tasks found,ಕಾರ್ಯಗಳು ಕಂಡುಬಂದಿಲ್ಲ
+No tasks linked to this milestone,ಈ ಮೈಲಿಗಲ್ಲಿಗೆ ಲಿಂಕ್ ಆದ ಕಾರ್ಯಗಳಿಲ್ಲ
+No tasks with dates to display,ಪ್ರದರ್ಶಿಸಲು ದಿನಾಂಕಗಳಿರುವ ಕಾರ್ಯಗಳಿಲ್ಲ
+No tasks yet,ಇನ್ನೂ ಕಾರ್ಯಗಳಿಲ್ಲ
+No team members,ತಂಡ ಸದಸ್ಯರಿಲ್ಲ
+No template,ಟೆಂಪ್ಲೇಟ್ ಇಲ್ಲ
+No templates yet,ಇನ್ನೂ ಟೆಂಪ್ಲೇಟ್‌ಗಳಿಲ್ಲ
+No time data found,ಸಮಯ ಡೇಟಾ ಕಂಡುಬಂದಿಲ್ಲ
+No time logged today,ಇಂದು ಸಮಯ ದಾಖಲಾಗಿಲ್ಲ
+No time logged yet,ಇನ್ನೂ ಸಮಯ ದಾಖಲಾಗಿಲ್ಲ
+No time logs for this period,ಈ ಅವಧಿಗೆ ಸಮಯ ನಮೂದುಗಳಿಲ್ಲ
+No time logs found,ಸಮಯ ನಮೂದುಗಳು ಕಂಡುಬಂದಿಲ್ಲ
+No unread notifications,ಓದದ ಅಧಿಸೂಚನೆಗಳಿಲ್ಲ
+No update information available yet.,No update information available yet.
+None,ಯಾವುದೂ ಇಲ್ಲ
+Not found,ಕಂಡುಬಂದಿಲ್ಲ
+Not permitted,ಅನುಮತಿ ಇಲ್ಲ
+Not permitted to access this project,ಈ ಯೋಜನೆಗೆ ಪ್ರವೇಶ ಅನುಮತಿ ಇಲ್ಲ
+Not permitted to access this task,ಈ ಕಾರ್ಯಕ್ಕೆ ಪ್ರವೇಶ ಅನುಮತಿ ಇಲ್ಲ
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,ಈ ದಸ್ತಾವೇಜಿನ ಮೇಲೆ ಕಾಮೆಂಟ್ ಮಾಡಲು ಅನುಮತಿ ಇಲ್ಲ
+Not permitted to create clients,ಗ್ರಾಹಕರನ್ನು ರಚಿಸಲು ಅನುಮತಿ ಇಲ್ಲ
+Not permitted to delete this client,ಈ ಗ್ರಾಹಕನನ್ನು ಅಳಿಸಲು ಅನುಮತಿ ಇಲ್ಲ
+Not permitted to delete this defect,ಈ ದೋಷವನ್ನು ಅಳಿಸಲು ಅನುಮತಿ ಇಲ್ಲ
+Not permitted to delete this note,ಈ ಟಿಪ್ಪಣಿಯನ್ನು ಅಳಿಸಲು ಅನುಮತಿ ಇಲ್ಲ
+Not permitted to delete this project,ಈ ಯೋಜನೆಯನ್ನು ಅಳಿಸಲು ಅನುಮತಿ ಇಲ್ಲ
+Not permitted to delete this task,ಈ ಕಾರ್ಯವನ್ನು ಅಳಿಸಲು ಅನುಮತಿ ಇಲ್ಲ
+Not permitted to delete this time log,ಈ ಸಮಯ ನಮೂದನ್ನು ಅಳಿಸಲು ಅನುಮತಿ ಇಲ್ಲ
+Not permitted to invite clients,ಗ್ರಾಹಕರನ್ನು ಆಹ್ವಾನಿಸಲು ಅನುಮತಿ ಇಲ್ಲ
+Not permitted to modify client access,ಗ್ರಾಹಕ ಪ್ರವೇಶ ಮಾರ್ಪಡಿಸಲು ಅನುಮತಿ ಇಲ್ಲ
+Not permitted to modify this project,ಈ ಯೋಜನೆಯನ್ನು ಮಾರ್ಪಡಿಸಲು ಅನುಮತಿ ಇಲ್ಲ
+Not permitted to update settings,ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ನವೀಕರಿಸಲು ಅನುಮತಿ ಇಲ್ಲ
+Not permitted to update this client,ಈ ಗ್ರಾಹಕನನ್ನು ನವೀಕರಿಸಲು ಅನುಮತಿ ಇಲ್ಲ
+Not permitted to view this client,ಈ ಗ್ರಾಹಕನನ್ನು ನೋಡಲು ಅನುಮತಿ ಇಲ್ಲ
+not sent,ಕಳುಹಿಸಲಾಗಿಲ್ಲ
+Not set,ಹೊಂದಿಸಲಾಗಿಲ್ಲ
+Not specified,ನಿರ್ದಿಷ್ಟಪಡಿಸಲಾಗಿಲ್ಲ
+Note,ಟಿಪ್ಪಣಿ
+Note (optional),ಟಿಪ್ಪಣಿ (ಐಚ್ಛಿಕ)
+Note Content,ಟಿಪ್ಪಣಿ ವಿಷಯ
+Note content is required,ಟಿಪ್ಪಣಿ ವಿಷಯ ಅಗತ್ಯ
+Note name is required,ಟಿಪ್ಪಣಿ ಹೆಸರು ಅಗತ್ಯ
+Note not found,ಟಿಪ್ಪಣಿ ಕಂಡುಬಂದಿಲ್ಲ
+Note Type,ಟಿಪ್ಪಣಿ ಪ್ರಕಾರ
+Notes,ಟಿಪ್ಪಣಿಗಳು
+Notification,ಅಧಿಸೂಚನೆ
+Notification not found,ಅಧಿಸೂಚನೆ ಕಂಡುಬಂದಿಲ್ಲ
+Notifications,ಅಧಿಸೂಚನೆಗಳು
+Off Track,ಹಾದಿ ತಪ್ಪಿದೆ
+Offer,ಕೊಡುಗೆ
+Offer Prepared,ಕೊಡುಗೆ ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ
+Oldest First,ಹಳೆಯವು ಮೊದಲು
+On Hold,ಹಿಡಿದಿಡಲಾಗಿದೆ
+On Leave,ರಜೆಯಲ್ಲಿ
+On Track,ಸರಿಯಾದ ಹಾದಿಯಲ್ಲಿ
+On-Time Rate,ಸಮಯಕ್ಕೆ ಸರಿಯಾದ ದರ
+Only administrators can delete activities,ನಿರ್ವಾಹಕರು ಮಾತ್ರ ಚಟುವಟಿಕೆಗಳನ್ನು ಅಳಿಸಬಹುದು
+Only the comment author or administrators can delete comments,ಕಾಮೆಂಟ್ ಲೇಖಕ ಅಥವಾ ನಿರ್ವಾಹಕರು ಮಾತ್ರ ಕಾಮೆಂಟ್‌ಗಳನ್ನು ಅಳಿಸಬಹುದು
+Only you and admins,ನೀವು ಮತ್ತು ನಿರ್ವಾಹಕರು ಮಾತ್ರ
+Open,ತೆರೆದಿದೆ
+Open in Desk,Desk ನಲ್ಲಿ ತೆರೆಯಿರಿ
+Open Task Log,ಕಾರ್ಯ ಲಾಗ್ ತೆರೆಯಿರಿ
+Open Tasks,ತೆರೆದ ಕಾರ್ಯಗಳು
+Optional,ಐಚ್ಛಿಕ
+optional,ಐಚ್ಛಿಕ
+Or email us directly at,ಅಥವಾ ನೇರವಾಗಿ ನಮಗೆ ಇಮೇಲ್ ಮಾಡಿ
+Orga Project {0} from Frappe Projects,Frappe Projects ನಿಂದ Orga ಯೋಜನೆ {0}
+Orga Task {0} from Frappe,Frappe ನಿಂದ Orga ಕಾರ್ಯ {0}
+Organizer,ಸಂಘಟಕ
+Other,ಇತರ
+Over Budget,ಬಜೆಟ್ ಮೀರಿದೆ
+Overall Progress,ಒಟ್ಟಾರೆ ಪ್ರಗತಿ
+Overall Utilization,ಒಟ್ಟಾರೆ ಬಳಕೆ
+Overallocated,ಅತಿ ಹಂಚಿಕೆ
+Overdue,ವಿಳಂಬ
+overdue,ಮೀರಿದ
+Overdue Tasks,ವಿಳಂಬ ಕಾರ್ಯಗಳು
+Overview,ಅವಲೋಕನ
+Owner,ಮಾಲೀಕ
+Page Not Found,ಪುಟ ಕಂಡುಬಂದಿಲ್ಲ
+Parent,ಪೋಷಕ
+Parent comment must belong to the same document,ಪೋಷಕ ಕಾಮೆಂಟ್ ಅದೇ ದಸ್ತಾವೇಜಿಗೆ ಸೇರಿರಬೇಕು
+Parent comment not found,ಪೋಷಕ ಕಾಮೆಂಟ್ ಕಂಡುಬಂದಿಲ್ಲ
+Parent project not synced to Frappe yet,ಪೋಷಕ ಯೋಜನೆ ಇನ್ನೂ Frappe ಗೆ ಸಿಂಕ್ ಆಗಿಲ್ಲ
+Parent project sync not enabled,ಪೋಷಕ ಯೋಜನೆ ಸಿಂಕ್ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿಲ್ಲ
+Partner,ಪಾಲುದಾರ
+Pending,ಬಾಕಿ
+per page,ಪ್ರತಿ ಪುಟ
+Perform initial assessment and background check,ಆರಂಭಿಕ ಮೌಲ್ಯಮಾಪನ ಮತ್ತು ಹಿನ್ನೆಲೆ ಪರಿಶೀಲನೆ ನಡೆಸಿ
+Permanently remove this event,ಈ ಕಾರ್ಯಕ್ರಮವನ್ನು ಶಾಶ್ವತವಾಗಿ ತೆಗೆದುಹಾಕಿ
+Permanently remove this task,ಈ ಕಾರ್ಯವನ್ನು ಶಾಶ್ವತವಾಗಿ ತೆಗೆದುಹಾಕಿ
+Phone,ದೂರವಾಣಿ
+Pin,ಪಿನ್ ಮಾಡಿ
+Pin Activity,ಚಟುವಟಿಕೆ ಪಿನ್ ಮಾಡಿ
+Pin to top,ಮೇಲ್ಭಾಗಕ್ಕೆ ಪಿನ್ ಮಾಡಿ
+Pinned,ಪಿನ್ ಮಾಡಲಾಗಿದೆ
+Planned budget for this task,ಈ ಕಾರ್ಯಕ್ಕೆ ಯೋಜಿತ ಬಜೆಟ್
+Planning,ಯೋಜನೆ ರಚನೆ
+Please describe your question or issue in detail...,ದಯವಿಟ್ಟು ನಿಮ್ಮ ಪ್ರಶ್ನೆ ಅಥವಾ ಸಮಸ್ಯೆಯನ್ನು ವಿವರವಾಗಿ ವಿವರಿಸಿ...
+Please login to access Orga,Orga ಗೆ ಪ್ರವೇಶಿಸಲು ದಯವಿಟ್ಟು ಲಾಗಿನ್ ಮಾಡಿ
+Please login to access the client portal,ಗ್ರಾಹಕ ಪೋರ್ಟಲ್‌ಗೆ ಪ್ರವೇಶಿಸಲು ದಯವಿಟ್ಟು ಲಾಗಿನ್ ಮಾಡಿ
+Please respond to this invitation in Orga,ದಯವಿಟ್ಟು Orga ನಲ್ಲಿ ಈ ಆಹ್ವಾನಕ್ಕೆ ಪ್ರತಿಕ್ರಿಯಿಸಿ
+Please select an image file,ದಯವಿಟ್ಟು ಚಿತ್ರ ಕಡತವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ
+Please try again,ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ
+Please type,ದಯವಿಟ್ಟು ಟೈಪ್ ಮಾಡಿ
+Portal,ಪೋರ್ಟಲ್
+Portal access revoked for {0},{0} ಗೆ ಪೋರ್ಟಲ್ ಪ್ರವೇಶ ರದ್ದುಮಾಡಲಾಗಿದೆ
+Portal user created successfully. Welcome email {0},ಪೋರ್ಟಲ್ ಬಳಕೆದಾರ ಯಶಸ್ವಿಯಾಗಿ ರಚಿಸಲಾಗಿದೆ. ಸ್ವಾಗತ ಇಮೇಲ್ {0}
+Post,ಪ್ರಕಟಿಸಿ
+Powered by,Powered by
+Powered by Tonic,Powered by Tonic
+Predecessors (Blocked By),ಪೂರ್ವವರ್ತಿಗಳು (ತಡೆಹಿಡಿಯಲಾಗಿದೆ)
+Preferences,ಆದ್ಯತೆಗಳು
+Preferences saved successfully,ಆದ್ಯತೆಗಳು ಯಶಸ್ವಿಯಾಗಿ ಉಳಿಸಲಾಗಿದೆ
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)","ಸ್ವಯಂ-ರಚಿತ ಯೋಜನೆ ಕೋಡ್‌ಗಳ ಪೂರ್ವಪ್ರತ್ಯಯ (ಉದಾ., ORG-2026-0001)"
+Prepare and document offer terms,ಕೊಡುಗೆ ನಿಯಮಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿ ಮತ್ತು ದಾಖಲಿಸಿ
+Press,ಒತ್ತಿರಿ
+Preview,ಪೂರ್ವವೀಕ್ಷಣೆ
+Preview cascade before applying,ಅನ್ವಯಿಸುವ ಮೊದಲು ಕ್ಯಾಸ್ಕೇಡ್ ಪೂರ್ವವೀಕ್ಷಣೆ
+Previous,ಹಿಂದಿನ
+Priority,ಆದ್ಯತೆ
+Priority assigned to new tasks,ಹೊಸ ಕಾರ್ಯಗಳಿಗೆ ನಿಯೋಜಿಸಲಾದ ಆದ್ಯತೆ
+Priority updated,ಆದ್ಯತೆ ನವೀಕರಿಸಲಾಗಿದೆ
+Proficiency,ಪ್ರಾವೀಣ್ಯತೆ
+Profile,ಪ್ರೊಫೈಲ್
+Progress,ಪ್ರಗತಿ
+Progress (High-Low),ಪ್ರಗತಿ (ಹೆಚ್ಚು-ಕಡಿಮೆ)
+Progress (Low-High),ಪ್ರಗತಿ (ಕಡಿಮೆ-ಹೆಚ್ಚು)
+Progress Overview,ಪ್ರಗತಿ ಅವಲೋಕನ
+Progress updated,ಪ್ರಗತಿ ನವೀಕರಿಸಲಾಗಿದೆ
+Project,ಯೋಜನೆ
+Project budget has been saved.,ಯೋಜನೆ ಬಜೆಟ್ ಉಳಿಸಲಾಗಿದೆ.
+Project code (e.g. ORG-2026-0001),ಯೋಜನೆ ಕೋಡ್ (ಉದಾ. ORG-2026-0001)
+Project Code Prefix,ಯೋಜನೆ ಕೋಡ್ ಪೂರ್ವಪ್ರತ್ಯಯ
+Project created,ಯೋಜನೆ ರಚಿಸಲಾಗಿದೆ
+Project deleted,ಯೋಜನೆ ಅಳಿಸಲಾಗಿದೆ
+Project description has been saved.,ಯೋಜನೆ ವಿವರಣೆ ಉಳಿಸಲಾಗಿದೆ.
+Project Details,ಯೋಜನೆ ವಿವರಗಳು
+Project end date has been saved.,ಯೋಜನೆ ಅಂತಿಮ ದಿನಾಂಕ ಉಳಿಸಲಾಗಿದೆ.
+Project Files,ಯೋಜನೆ ಕಡತಗಳು
+Project has no linked client,ಯೋಜನೆಗೆ ಲಿಂಕ್ ಆದ ಗ್ರಾಹಕ ಇಲ್ಲ
+Project Health,ಯೋಜನೆ ಆರೋಗ್ಯ
+Project Info,ಯೋಜನೆ ಮಾಹಿತಿ
+Project is required,ಯೋಜನೆ ಅಗತ್ಯ
+Project is required for project context,ಯೋಜನೆ ಸಂದರ್ಭಕ್ಕೆ ಯೋಜನೆ ಅಗತ್ಯ
+Project is required when tracking context is 'project',ಟ್ರ್ಯಾಕಿಂಗ್ ಸಂದರ್ಭ 'project' ಆಗಿರುವಾಗ ಯೋಜನೆ ಅಗತ್ಯ
+Project Manager,ಯೋಜನೆ ನಿರ್ವಾಹಕ
+Project Name,ಯೋಜನೆ ಹೆಸರು
+Project name and template name are required,ಯೋಜನೆ ಹೆಸರು ಮತ್ತು ಟೆಂಪ್ಲೇಟ್ ಹೆಸರು ಅಗತ್ಯ
+Project name is required,ಯೋಜನೆ ಹೆಸರು ಅಗತ್ಯ
+Project not found,ಯೋಜನೆ ಕಂಡುಬಂದಿಲ್ಲ
+Project not found or you do not have access,ಯೋಜನೆ ಕಂಡುಬಂದಿಲ್ಲ ಅಥವಾ ನಿಮಗೆ ಪ್ರವೇಶವಿಲ್ಲ
+Project settings,ಯೋಜನೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳು
+Project start date has been saved.,ಯೋಜನೆ ಪ್ರಾರಂಭ ದಿನಾಂಕ ಉಳಿಸಲಾಗಿದೆ.
+Project title has been saved.,ಯೋಜನೆ ಶೀರ್ಷಿಕೆ ಉಳಿಸಲಾಗಿದೆ.
+Project Type,ಯೋಜನೆ ಪ್ರಕಾರ
+Project updated,ಯೋಜನೆ ನವೀಕರಿಸಲಾಗಿದೆ
+Project {0} linked to client {1},ಯೋಜನೆ {0} ಗ್ರಾಹಕ {1} ಗೆ ಲಿಂಕ್ ಆಗಿದೆ
+Project {0} not found,ಯೋಜನೆ {0} ಕಂಡುಬಂದಿಲ್ಲ
+Project {0} to Frappe Projects,ಯೋಜನೆ {0} Frappe Projects ಗೆ
+Project:,ಯೋಜನೆ:
+Projects,ಯೋಜನೆಗಳು
+projects,ಯೋಜನೆಗಳು
+Projects created:,ಯೋಜನೆಗಳು ರಚಿಸಲಾಗಿದೆ:
+Projects Overview,ಯೋಜನೆಗಳ ಅವಲೋಕನ
+Projects skipped:,ಯೋಜನೆಗಳು ಬಿಟ್ಟುಬಿಡಲಾಗಿದೆ:
+Projects updated:,ಯೋಜನೆಗಳು ನವೀಕರಿಸಲಾಗಿದೆ:
+Promote failed,ಬಡ್ತಿ ವಿಫಲವಾಗಿದೆ
+Promote to task,ಕಾರ್ಯವಾಗಿ ಬಡ್ತಿ ನೀಡಿ
+Promoted to task,ಕಾರ್ಯವಾಗಿ ಬಡ್ತಿ ನೀಡಲಾಗಿದೆ
+Propose,ಪ್ರಸ್ತಾಪಿಸಿ
+Propose New Time,ಹೊಸ ಸಮಯ ಪ್ರಸ್ತಾಪಿಸಿ
+Propose Time,ಸಮಯ ಪ್ರಸ್ತಾಪಿಸಿ
+Proposed End,ಪ್ರಸ್ತಾವಿತ ಅಂತ್ಯ
+Proposed Start,ಪ್ರಸ್ತಾವಿತ ಪ್ರಾರಂಭ
+Public,ಸಾರ್ವಜನಿಕ
+Quick Action,ತ್ವರಿತ ಕ್ರಿಯೆ
+Quick Actions,ತ್ವರಿತ ಕ್ರಿಯೆಗಳು
+Quick Stats,ತ್ವರಿತ ಅಂಕಿಅಂಶಗಳು
+Rates,ದರಗಳು
+Receive notifications via email,ಇಮೇಲ್ ಮೂಲಕ ಅಧಿಸೂಚನೆಗಳನ್ನು ಸ್ವೀಕರಿಸಿ
+Receive notifications within the application,ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ಅಧಿಸೂಚನೆಗಳನ್ನು ಸ್ವೀಕರಿಸಿ
+Recent Activity,ಇತ್ತೀಚಿನ ಚಟುವಟಿಕೆ
+Recipient {0} is not a valid user,ಸ್ವೀಕೃತದಾರ {0} ಮಾನ್ಯ ಬಳಕೆದಾರರಲ್ಲ
+Reference,ಉಲ್ಲೇಖ
+Refresh,ರಿಫ್ರೆಶ್
+Related,ಸಂಬಂಧಿತ
+Related Company (optional),ಸಂಬಂಧಿತ ಕಂಪನಿ (ಐಚ್ಛಿಕ)
+Related Documents,ಸಂಬಂಧಿತ ದಸ್ತಾವೇಜುಗಳು
+Related Project,ಸಂಬಂಧಿತ ಯೋಜನೆ
+Remaining,ಉಳಿದಿದೆ
+Reminder,ಜ್ಞಾಪನೆ
+Reminder Lead Time,ಜ್ಞಾಪನೆ ಮುನ್ಸೂಚನಾ ಸಮಯ
+Reminder: {0} - {1} at {2},ಜ್ಞಾಪನೆ: {0} - {1} ಸಮಯ {2}
+Remove,ತೆಗೆದುಹಾಕಿ
+Remove dependency,ಅವಲಂಬನೆ ತೆಗೆದುಹಾಕಿ
+Remove dependency on,ಅವಲಂಬನೆ ತೆಗೆದುಹಾಕಿ
+Remove from group,ಗುಂಪಿನಿಂದ ತೆಗೆದುಹಾಕಿ
+Remove group dependency,ಗುಂಪು ಅವಲಂಬನೆ ತೆಗೆದುಹಾಕಿ
+Remove skill,ಕೌಶಲ ತೆಗೆದುಹಾಕಿ
+Reopen,ಮರುತೆರೆಯಿರಿ
+Reopen thread,ಥ್ರೆಡ್ ಮರುತೆರೆಯಿರಿ
+reopened,ಮರುತೆರೆಯಲಾಗಿದೆ
+replies,ಪ್ರತ್ಯುತ್ತರಗಳು
+Reply,ಪ್ರತ್ಯುತ್ತರ
+reply,ಪ್ರತ್ಯುತ್ತರ
+Replying to,ಪ್ರತ್ಯುತ್ತರಿಸುತ್ತಿದ್ದಾರೆ
+Replying to comment,ಕಾಮೆಂಟ್‌ಗೆ ಪ್ರತ್ಯುತ್ತರಿಸುತ್ತಿದ್ದಾರೆ
+Report Defect,ದೋಷ ವರದಿ ಮಾಡಿ
+Reported Date,ವರದಿ ದಿನಾಂಕ
+Reports,ವರದಿಗಳು
+Reports To,ವರದಿ ಮಾಡುವವರು
+Request Submitted!,ವಿನಂತಿ ಸಲ್ಲಿಸಲಾಗಿದೆ!
+Required,ಅಗತ್ಯ
+required,ಅಗತ್ಯ
+Research,ಸಂಶೋಧನೆ
+Reset to Defaults,ಡೀಫಾಲ್ಟ್‌ಗಳಿಗೆ ಮರುಹೊಂದಿಸಿ
+Resolve,ಪರಿಹರಿಸಿ
+Resolve thread,ಥ್ರೆಡ್ ಪರಿಹರಿಸಿ
+Resolved,ಪರಿಹರಿಸಲಾಗಿದೆ
+Resolved date cannot be before reported date,ಪರಿಹಾರ ದಿನಾಂಕ ವರದಿ ದಿನಾಂಕಕ್ಕಿಂತ ಮೊದಲು ಇರಲು ಸಾಧ್ಯವಿಲ್ಲ
+Resource,ಸಂಪನ್ಮೂಲ
+Resource and skill name are required,ಸಂಪನ್ಮೂಲ ಮತ್ತು ಕೌಶಲ ಹೆಸರು ಅಗತ್ಯ
+Resource is already an attendee,ಸಂಪನ್ಮೂಲ ಈಗಾಗಲೇ ಹಾಜರಾತಿದಾರರಾಗಿದ್ದಾರೆ
+Resource name is required,ಸಂಪನ್ಮೂಲ ಹೆಸರು ಅಗತ್ಯ
+Resource not found,ಸಂಪನ್ಮೂಲ ಕಂಡುಬಂದಿಲ್ಲ
+Resource synced from employee {0},ಉದ್ಯೋಗಿ {0} ರಿಂದ ಸಂಪನ್ಮೂಲ ಸಿಂಕ್ ಮಾಡಲಾಗಿದೆ
+Resource {0} is already assigned to this task ({1}),ಸಂಪನ್ಮೂಲ {0} ಈಗಾಗಲೇ ಈ ಕಾರ್ಯಕ್ಕೆ ({1}) ನಿಯೋಜಿಸಲಾಗಿದೆ
+Resource {0} not found,ಸಂಪನ್ಮೂಲ {0} ಕಂಡುಬಂದಿಲ್ಲ
+Resources,ಸಂಪರ್ಕಗಳು
+Retry,ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ
+Review,ಪರಿಶೀಲನೆ
+Review all relevant documents and contracts,ಎಲ್ಲಾ ಸಂಬಂಧಿತ ದಸ್ತಾವೇಜುಗಳು ಮತ್ತು ಒಪ್ಪಂದಗಳನ್ನು ಪರಿಶೀಲಿಸಿ
+Reviews,ಪರಿಶೀಲನೆಗಳು
+Risk Assessment,ಅಪಾಯ ಮೌಲ್ಯಮಾಪನ
+Rollback,ಹಿಂದಕ್ಕೆ ತಿರುಗಿಸಿ
+Rolled back,ಹಿಂದಕ್ಕೆ ತಿರುಗಿಸಲಾಗಿದೆ
+Room or address,ಕೊಠಡಿ ಅಥವಾ ವಿಳಾಸ
+RSVP,RSVP
+Safety,ಸುರಕ್ಷತೆ
+Sat,ಶನಿ
+Save,ಉಳಿಸಿ
+"Save a project as a template, or import one from a JSON file.","ಯೋಜನೆಯನ್ನು ಟೆಂಪ್ಲೇಟ್ ಆಗಿ ಉಳಿಸಿ, ಅಥವಾ JSON ಕಡತದಿಂದ ಒಂದನ್ನು ಆಮದು ಮಾಡಿ."
+Save as Template,ಟೆಂಪ್ಲೇಟ್ ಆಗಿ ಉಳಿಸಿ
+Save Changes,ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸಿ
+Save failed,ಉಳಿಸುವಿಕೆ ವಿಫಲವಾಗಿದೆ
+Save Preferences,ಆದ್ಯತೆಗಳನ್ನು ಉಳಿಸಿ
+Save Template,ಟೆಂಪ್ಲೇಟ್ ಉಳಿಸಿ
+Saving...,ಉಳಿಸಲಾಗುತ್ತಿದೆ...
+Schedule,ವೇಳಾಪಟ್ಟಿ
+Schedule type is required for scheduled triggers,ನಿಗದಿತ ಟ್ರಿಗ್ಗರ್‌ಗಳಿಗೆ ವೇಳಾಪಟ್ಟಿ ಪ್ರಕಾರ ಅಗತ್ಯ
+Scheduled,ನಿಗದಿತ
+Search,ಹುಡುಕಿ
+"Search by name, email, or skill...","ಹೆಸರು, ಇಮೇಲ್ ಅಥವಾ ಕೌಶಲದ ಮೂಲಕ ಹುಡುಕಿ..."
+Search for a project...,ಯೋಜನೆ ಹುಡುಕಿ...
+Search for a task...,ಕಾರ್ಯ ಹುಡುಕಿ...
+Search for an event...,ಕಾರ್ಯಕ್ರಮ ಹುಡುಕಿ...
+Search for people to invite...,ಆಹ್ವಾನಿಸಲು ಜನರನ್ನು ಹುಡುಕಿ...
+Search tasks to link...,ಲಿಂಕ್ ಮಾಡಲು ಕಾರ್ಯಗಳನ್ನು ಹುಡುಕಿ...
+Search tasks...,ಕಾರ್ಯಗಳನ್ನು ಹುಡುಕಿ...
+Search...,ಹುಡುಕಿ...
+Searching...,ಹುಡುಕಲಾಗುತ್ತಿದೆ...
+Seen,ನೋಡಲಾಗಿದೆ
+Select a project if your request is related to a specific project.,ನಿಮ್ಮ ವಿನಂತಿ ನಿರ್ದಿಷ್ಟ ಯೋಜನೆಗೆ ಸಂಬಂಧಿಸಿದ್ದರೆ ಯೋಜನೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ.
+Select a project...,ಯೋಜನೆ ಆಯ್ಕೆಮಾಡಿ...
+Select a task from the Gantt chart to view and manage its details.,ವಿವರಗಳನ್ನು ನೋಡಲು ಮತ್ತು ನಿರ್ವಹಿಸಲು Gantt ಚಾರ್ಟ್‌ನಿಂದ ಕಾರ್ಯ ಆಯ್ಕೆಮಾಡಿ.
+Select a task from the list or Kanban board to view and manage its details.,ವಿವರಗಳನ್ನು ನೋಡಲು ಮತ್ತು ನಿರ್ವಹಿಸಲು ಪಟ್ಟಿ ಅಥವಾ Kanban ಬೋರ್ಡ್‌ನಿಂದ ಕಾರ್ಯ ಆಯ್ಕೆಮಾಡಿ.
+Select a template...,ಟೆಂಪ್ಲೇಟ್ ಆಯ್ಕೆಮಾಡಿ...
+Select priority...,ಆದ್ಯತೆ ಆಯ್ಕೆಮಾಡಿ...
+Select status...,ಸ್ಥಿತಿ ಆಯ್ಕೆಮಾಡಿ...
+Select task...,ಕಾರ್ಯ ಆಯ್ಕೆಮಾಡಿ...
+Select type...,ಪ್ರಕಾರ ಆಯ್ಕೆಮಾಡಿ...
+Selection,ಆಯ್ಕೆ
+Send,ಕಳುಹಿಸಿ
+Send comment,ಕಾಮೆಂಟ್ ಕಳುಹಿಸಿ
+Send email invitations to attendees,ಹಾಜರಾತಿದಾರರಿಗೆ ಇಮೇಲ್ ಆಹ್ವಾನಗಳನ್ನು ಕಳುಹಿಸಿ
+Send Invitations,ಆಹ್ವಾನಗಳನ್ನು ಕಳುಹಿಸಿ
+Send notification when a task is assigned to a user,ಬಳಕೆದಾರರಿಗೆ ಕಾರ್ಯ ನಿಯೋಜಿಸಿದಾಗ ಅಧಿಸೂಚನೆ ಕಳುಹಿಸಿ
+Send notification when task status changes,ಕಾರ್ಯದ ಸ್ಥಿತಿ ಬದಲಾದಾಗ ಅಧಿಸೂಚನೆ ಕಳುಹಿಸಿ
+Send reminder before task due date,ಕಾರ್ಯದ ಅಂತಿಮ ದಿನಾಂಕಕ್ಕೆ ಮೊದಲು ಜ್ಞಾಪನೆ ಕಳುಹಿಸಿ
+sent,ಕಳುಹಿಸಲಾಗಿದೆ
+Set rate,ದರ ಹೊಂದಿಸಿ
+Settings,ಸೆಟ್ಟಿಂಗ್‌ಗಳು
+Settings saved successfully,ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಯಶಸ್ವಿಯಾಗಿ ಉಳಿಸಲಾಗಿದೆ
+Severity,ತೀವ್ರತೆ
+SF (Start-Finish),SF (ಪ್ರಾರಂಭ-ಮುಕ್ತಾಯ)
+SF - Start-to-Finish,SF - ಪ್ರಾರಂಭ-ಮುಕ್ತಾಯ
+Show,ತೋರಿಸಿ
+Show all,ಎಲ್ಲಾ ತೋರಿಸಿ
+Show all changes,ಎಲ್ಲಾ ಬದಲಾವಣೆಗಳನ್ನು ತೋರಿಸಿ
+Show Archived,ಆರ್ಕೈವ್ ಮಾಡಿದವು ತೋರಿಸಿ
+Show full diff,ಪೂರ್ಣ ವ್ಯತ್ಯಾಸ ತೋರಿಸಿ
+Show less,ಕಡಿಮೆ ತೋರಿಸಿ
+Show more,ಇನ್ನಷ್ಟು ತೋರಿಸಿ
+Skill added,ಕೌಶಲ ಸೇರಿಸಲಾಗಿದೆ
+Skill is required,ಕೌಶಲ ಅಗತ್ಯ
+Skill Name,ಕೌಶಲ ಹೆಸರು
+Skill removed,ಕೌಶಲ ತೆಗೆದುಹಾಕಲಾಗಿದೆ
+Skill {0} already exists for this resource,ಕೌಶಲ {0} ಈ ಸಂಪನ್ಮೂಲಕ್ಕೆ ಈಗಾಗಲೇ ಇದೆ
+Skills,ಕೌಶಲಗಳು
+Skills & Competencies,ಕೌಶಲಗಳು ಮತ್ತು ಸಾಮರ್ಥ್ಯಗಳು
+Skip already migrated projects,ಈಗಾಗಲೇ ವರ್ಗಾಯಿಸಿದ ಯೋಜನೆಗಳನ್ನು ಬಿಟ್ಟುಬಿಡಿ
+Sort by,ಕ್ರಮಗೊಳಿಸಿ
+Sort: Due Date,ಕ್ರಮ: ಅಂತಿಮ ದಿನಾಂಕ
+Sort: Priority,ಕ್ರಮ: ಆದ್ಯತೆ
+Sort: Project,ಕ್ರಮ: ಯೋಜನೆ
+Sort: Status,ಕ್ರಮ: ಸ್ಥಿತಿ
+Sort: Task,ಕ್ರಮ: ಕಾರ್ಯ
+Source Code,ಮೂಲ ಕೋಡ್
+Spent,ಖರ್ಚಾಗಿದೆ
+Spent:,ಖರ್ಚಾಗಿದೆ:
+SS (Start-Start),SS (ಪ್ರಾರಂಭ-ಪ್ರಾರಂಭ)
+SS - Start-to-Start,SS - ಪ್ರಾರಂಭ-ಪ್ರಾರಂಭ
+Standalone,ಸ್ವತಂತ್ರ
+Start,ಪ್ರಾರಂಭ
+Start a discussion below,ಕೆಳಗೆ ಚರ್ಚೆ ಪ್ರಾರಂಭಿಸಿ
+Start Date,ಪ್ರಾರಂಭ ದಿನಾಂಕ
+Start date,ಪ್ರಾರಂಭ ದಿನಾಂಕ
+Start Date (Earliest),ಪ್ರಾರಂಭ ದಿನಾಂಕ (ಹತ್ತಿರದ)
+Start date updated,ಪ್ರಾರಂಭ ದಿನಾಂಕ ನವೀಕರಿಸಲಾಗಿದೆ
+Start date/time is required,ಪ್ರಾರಂಭ ದಿನಾಂಕ/ಸಮಯ ಅಗತ್ಯ
+Start Migration,ವರ್ಗಾವಣೆ ಪ್ರಾರಂಭಿಸಿ
+Start the conversation below.,ಕೆಳಗೆ ಸಂಭಾಷಣೆ ಪ್ರಾರಂಭಿಸಿ.
+Start Timer,ಟೈಮರ್ ಪ್ರಾರಂಭಿಸಿ
+Start typing to search...,ಹುಡುಕಲು ಟೈಪ್ ಮಾಡಲು ಪ್ರಾರಂಭಿಸಿ...
+Start-to-Finish,ಪ್ರಾರಂಭ-ಮುಕ್ತಾಯ
+Start-to-Start,ಪ್ರಾರಂಭ-ಪ್ರಾರಂಭ
+Start:,ಪ್ರಾರಂಭ:
+Statistics reset,ಅಂಕಿಅಂಶಗಳು ಮರುಹೊಂದಿಸಲಾಗಿದೆ
+Status,ಸ್ಥಿತಿ
+Status assigned to new projects,ಹೊಸ ಯೋಜನೆಗಳಿಗೆ ನಿಯೋಜಿಸಲಾದ ಸ್ಥಿತಿ
+Status assigned to new tasks,ಹೊಸ ಕಾರ್ಯಗಳಿಗೆ ನಿಯೋಜಿಸಲಾದ ಸ್ಥಿತಿ
+Status Changes,ಸ್ಥಿತಿ ಬದಲಾವಣೆಗಳು
+Status updated,ಸ್ಥಿತಿ ನವೀಕರಿಸಲಾಗಿದೆ
+Status:,ಸ್ಥಿತಿ:
+Stop,ನಿಲ್ಲಿಸಿ
+Stop & Save,ನಿಲ್ಲಿಸಿ ಮತ್ತು ಉಳಿಸಿ
+Stop Timer,ಟೈಮರ್ ನಿಲ್ಲಿಸಿ
+Stops current timer and starts for this event,ಪ್ರಸ್ತುತ ಟೈಮರ್ ನಿಲ್ಲಿಸಿ ಈ ಕಾರ್ಯಕ್ರಮಕ್ಕೆ ಪ್ರಾರಂಭಿಸುತ್ತದೆ
+Stops current timer and starts for this task,ಪ್ರಸ್ತುತ ಟೈಮರ್ ನಿಲ್ಲಿಸಿ ಈ ಕಾರ್ಯಕ್ಕೆ ಪ್ರಾರಂಭಿಸುತ್ತದೆ
+Subject,ವಿಷಯ
+Subject cannot exceed 255 characters,ವಿಷಯ 255 ಅಕ್ಷರಗಳನ್ನು ಮೀರಬಾರದು
+Subject is required,ವಿಷಯ ಅಗತ್ಯ
+Submit,ಸಲ್ಲಿಸಿ
+Submit Another Request,ಇನ್ನೊಂದು ವಿನಂತಿ ಸಲ್ಲಿಸಿ
+Submit Request,ವಿನಂತಿ ಸಲ್ಲಿಸಿ
+Submitting...,ಸಲ್ಲಿಸಲಾಗುತ್ತಿದೆ...
+Successfully saved,ಯಶಸ್ವಿಯಾಗಿ ಉಳಿಸಲಾಗಿದೆ
+Successors (Blocking),ಉತ್ತರಾಧಿಕಾರಿಗಳು (ತಡೆಹಿಡಿಯುತ್ತಿದೆ)
+Sun,ಭಾನು
+Supplier,ಪೂರೈಕೆದಾರ
+Support,ಬೆಂಬಲ
+Switch to this event,ಈ ಕಾರ್ಯಕ್ರಮಕ್ಕೆ ಬದಲಾಯಿಸಿ
+Switch to this task,ಈ ಕಾರ್ಯಕ್ಕೆ ಬದಲಾಯಿಸಿ
+Sync direction is set to Frappe to Orga only,ಸಿಂಕ್ ದಿಕ್ಕು Frappe ನಿಂದ Orga ಗೆ ಮಾತ್ರ ಹೊಂದಿಸಲಾಗಿದೆ
+Sync direction is set to Orga to Frappe only,ಸಿಂಕ್ ದಿಕ್ಕು Orga ನಿಂದ Frappe ಗೆ ಮಾತ್ರ ಹೊಂದಿಸಲಾಗಿದೆ
+Sync not enabled for this project,ಈ ಯೋಜನೆಗೆ ಸಿಂಕ್ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿಲ್ಲ
+System,ಸಿಸ್ಟಂ
+Table,ಕೋಷ್ಟಕ
+Take ownership of this task,ಈ ಕಾರ್ಯದ ಮಾಲೀಕತ್ವ ತೆಗೆದುಕೊಳ್ಳಿ
+Target Date,ಗುರಿ ದಿನಾಂಕ
+Target End,ಗುರಿ ಅಂತ್ಯ
+Target Project,ಗುರಿ ಯೋಜನೆ
+Target user is required for '{0}' action,'{0}' ಕ್ರಿಯೆಗೆ ಗುರಿ ಬಳಕೆದಾರ ಅಗತ್ಯ
+Task,ಕಾರ್ಯ
+task,ಕಾರ್ಯ
+Task '{0}' is due on {1}.,ಕಾರ್ಯ '{0}' ರ ಅಂತಿಮ ದಿನಾಂಕ {1}.
+Task and resource are required,ಕಾರ್ಯ ಮತ್ತು ಸಂಪನ್ಮೂಲ ಅಗತ್ಯ
+Task Assignment,ಕಾರ್ಯ ನಿಯೋಜನೆ
+Task cannot be its own parent,ಕಾರ್ಯ ತನ್ನದೇ ಪೋಷಕವಾಗಿರಲು ಸಾಧ್ಯವಿಲ್ಲ
+Task cannot depend on itself,ಕಾರ್ಯ ತನ್ನ ಮೇಲೆಯೇ ಅವಲಂಬಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ
+Task cannot depend on the group it belongs to,ಕಾರ್ಯ ತಾನು ಸೇರಿರುವ ಗುಂಪಿನ ಮೇಲೆ ಅವಲಂಬಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ
+Task created,ಕಾರ್ಯ ರಚಿಸಲಾಗಿದೆ
+Task deleted,ಕಾರ್ಯ ಅಳಿಸಲಾಗಿದೆ
+Task description has been saved.,ಕಾರ್ಯ ವಿವರಣೆ ಉಳಿಸಲಾಗಿದೆ.
+Task Details,ಕಾರ್ಯ ವಿವರಗಳು
+Task due in {0} days: {1},{0} ದಿನಗಳಲ್ಲಿ ಕಾರ್ಯ ಅಂತಿಮ: {1}
+Task due today: {0},ಇಂದು ಕಾರ್ಯ ಅಂತಿಮ: {0}
+Task due tomorrow: {0},ನಾಳೆ ಕಾರ್ಯ ಅಂತಿಮ: {0}
+Task duplicated,ಕಾರ್ಯ ನಕಲಿಸಲಾಗಿದೆ
+Task Group,ಕಾರ್ಯ ಗುಂಪು
+Task ID is required,ಕಾರ್ಯ ಐಡಿ ಅಗತ್ಯ
+Task is blocked by incomplete dependencies,ಅಪೂರ್ಣ ಅವಲಂಬನೆಗಳಿಂದ ಕಾರ್ಯ ತಡೆಹಿಡಿಯಲಾಗಿದೆ
+Task is cancelled,ಕಾರ್ಯ ರದ್ದುಮಾಡಲಾಗಿದೆ
+Task is completed,ಕಾರ್ಯ ಪೂರ್ಣಗೊಂಡಿದೆ
+Task is no longer blocked by a group,ಕಾರ್ಯ ಇನ್ನು ಗುಂಪಿನಿಂದ ತಡೆಹಿಡಿಯಲ್ಪಟ್ಟಿಲ್ಲ
+Task is required for task context,ಕಾರ್ಯ ಸಂದರ್ಭಕ್ಕೆ ಕಾರ್ಯ ಅಗತ್ಯ
+Task is required when tracking context is 'task',ಟ್ರ್ಯಾಕಿಂಗ್ ಸಂದರ್ಭ 'task' ಆಗಿರುವಾಗ ಕಾರ್ಯ ಅಗತ್ಯ
+Task linked,ಕಾರ್ಯ ಲಿಂಕ್ ಮಾಡಲಾಗಿದೆ
+Task moved,ಕಾರ್ಯ ಸರಿಸಲಾಗಿದೆ
+Task name,ಕಾರ್ಯದ ಹೆಸರು
+Task name is required,ಕಾರ್ಯದ ಹೆಸರು ಅಗತ್ಯ
+Task removed from group,ಕಾರ್ಯ ಗುಂಪಿನಿಂದ ತೆಗೆದುಹಾಕಲಾಗಿದೆ
+Task Subject,ಕಾರ್ಯ ವಿಷಯ
+Task subject is required,ಕಾರ್ಯ ವಿಷಯ ಅಗತ್ಯ
+Task Type,ಕಾರ್ಯ ಪ್ರಕಾರ
+Task unblocked: {0},ಕಾರ್ಯ ಅನ್‌ಬ್ಲಾಕ್ ಮಾಡಲಾಗಿದೆ: {0}
+Task unlinked,ಕಾರ್ಯ ಅನ್‌ಲಿಂಕ್ ಮಾಡಲಾಗಿದೆ
+Task updated,ಕಾರ್ಯ ನವೀಕರಿಸಲಾಗಿದೆ
+Task {0} not found,ಕಾರ್ಯ {0} ಕಂಡುಬಂದಿಲ್ಲ
+Task {0} not in project {1},ಕಾರ್ಯ {0} ಯೋಜನೆ {1} ಯಲ್ಲಿ ಇಲ್ಲ
+Task {0} to Frappe,ಕಾರ್ಯ {0} Frappe ಗೆ
+Tasks,ಕಾರ್ಯಗಳು
+tasks,ಕಾರ್ಯಗಳು
+Tasks and milestones will be created with dates relative to the project start date.,ಕಾರ್ಯಗಳು ಮತ್ತು ಮೈಲಿಗಲ್ಲುಗಳು ಯೋಜನೆ ಪ್ರಾರಂಭ ದಿನಾಂಕಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ದಿನಾಂಕಗಳೊಂದಿಗೆ ರಚಿಸಲಾಗುತ್ತದೆ.
+Tasks assigned to you across all projects.,ಎಲ್ಲಾ ಯೋಜನೆಗಳಲ್ಲಿ ನಿಮಗೆ ನಿಯೋಜಿಸಲಾದ ಕಾರ್ಯಗಳು.
+Tasks created:,ಕಾರ್ಯಗಳು ರಚಿಸಲಾಗಿದೆ:
+Tasks from projects you manage.,ನೀವು ನಿರ್ವಹಿಸುವ ಯೋಜನೆಗಳ ಕಾರ್ಯಗಳು.
+Tasks updated:,ಕಾರ್ಯಗಳು ನವೀಕರಿಸಲಾಗಿದೆ:
+"Tasks, milestones, and dependencies have been created.","ಕಾರ್ಯಗಳು, ಮೈಲಿಗಲ್ಲುಗಳು ಮತ್ತು ಅವಲಂಬನೆಗಳು ರಚಿಸಲಾಗಿದೆ."
+Tasks:,ಕಾರ್ಯಗಳು:
+TBD,ನಿರ್ಧರಿಸಬೇಕು
+Team,ತಂಡ
+Team Members,ತಂಡ ಸದಸ್ಯರು
+Template,ಟೆಂಪ್ಲೇಟ್
+Template applied,ಟೆಂಪ್ಲೇಟ್ ಅನ್ವಯಿಸಲಾಗಿದೆ
+Template data is required in import data,ಆಮದು ಡೇಟಾದಲ್ಲಿ ಟೆಂಪ್ಲೇಟ್ ಡೇಟಾ ಅಗತ್ಯ
+Template has no data,ಟೆಂಪ್ಲೇಟ್‌ನಲ್ಲಿ ಡೇಟಾ ಇಲ್ಲ
+Template Name,ಟೆಂಪ್ಲೇಟ್ ಹೆಸರು
+Template name,ಟೆಂಪ್ಲೇಟ್ ಹೆಸರು
+Template name is required,ಟೆಂಪ್ಲೇಟ್ ಹೆಸರು ಅಗತ್ಯ
+Template name is required in import data,ಆಮದು ಡೇಟಾದಲ್ಲಿ ಟೆಂಪ್ಲೇಟ್ ಹೆಸರು ಅಗತ್ಯ
+Template saved,ಟೆಂಪ್ಲೇಟ್ ಉಳಿಸಲಾಗಿದೆ
+Template updated successfully.,ಟೆಂಪ್ಲೇಟ್ ಯಶಸ್ವಿಯಾಗಿ ನವೀಕರಿಸಲಾಗಿದೆ.
+Template {0} not found,ಟೆಂಪ್ಲೇಟ್ {0} ಕಂಡುಬಂದಿಲ್ಲ
+Templates,ಟೆಂಪ್ಲೇಟ್‌ಗಳು
+Tentative,ತಾತ್ಕಾಲಿಕ
+The comment has been deleted,ಕಾಮೆಂಟ್ ಅಳಿಸಲಾಗಿದೆ
+The project,ಯೋಜನೆ
+The source document may have been deleted.,ಮೂಲ ದಾಖಲೆ ಅಳಿಸಲಾಗಿರಬಹುದು.
+The source document will not be affected.,ಮೂಲ ದಾಖಲೆ ಪ್ರಭಾವಿತವಾಗುವುದಿಲ್ಲ.
+The status of '{0}' was changed from {1} to {2}.,'{0}' ಸ್ಥಿತಿಯನ್ನು {1} ರಿಂದ {2} ಗೆ ಬದಲಾಯಿಸಲಾಗಿದೆ.
+Theme,ಥೀಮ್
+Theme preference,ಥೀಮ್ ಆದ್ಯತೆ
+This action,ಈ ಕ್ರಿಯೆ
+This action cannot be undone.,ಈ ಕ್ರಿಯೆಯನ್ನು ರದ್ದುಗೊಳಿಸಲಾಗುವುದಿಲ್ಲ.
+This activity has been flagged for attention,ಈ ಚಟುವಟಿಕೆಯನ್ನು ಗಮನಕ್ಕೆ ಗುರುತಿಸಲಾಗಿದೆ
+This is a reminder for your upcoming appointment,ಇದು ನಿಮ್ಮ ಮುಂಬರುವ ಅಪಾಯಿಂಟ್‌ಮೆಂಟ್‌ಗಾಗಿ ಒಂದು ಜ್ಞಾಪನೆ
+This method is only meant for developer mode,ಈ ವಿಧಾನ ಡೆವಲಪರ್ ಮೋಡ್‌ಗೆ ಮಾತ್ರ
+This page wandered off,This page wandered off
+This Week,ಈ ವಾರ
+This will delete all notes and preferences associated with this activity.,ಇದು ಈ ಚಟುವಟಿಕೆಗೆ ಸಂಬಂಧಿಸಿದ ಎಲ್ಲಾ ಟಿಪ್ಪಣಿಗಳು ಮತ್ತು ಆದ್ಯತೆಗಳನ್ನು ಅಳಿಸುತ್ತದೆ.
+This will import all Frappe Projects into Orga. Continue?,ಇದು ಎಲ್ಲಾ Frappe Projects ಅನ್ನು Orga ಗೆ ಆಮದು ಮಾಡುತ್ತದೆ. ಮುಂದುವರಿಸುವುದೇ?
+This will permanently delete,ಇದು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸುತ್ತದೆ
+This will permanently delete:,ಇದು ಶಾಶ್ವತವಾಗಿ ಅಳಿಸುತ್ತದೆ:
+Thu,ಗುರು
+Time,ಸಮಯ
+Time & Billing,ಸಮಯ ಮತ್ತು ಬಿಲ್ಲಿಂಗ್
+Time & Revenue,ಸಮಯ ಮತ್ತು ಆದಾಯ
+Time Entries,ಸಮಯ ನಮೂದುಗಳು
+Time log name is required,ಸಮಯ ದಾಖಲೆ ಹೆಸರು ಅಗತ್ಯ
+Time Log not found,ಸಮಯ ದಾಖಲೆ ಕಂಡುಬಂದಿಲ್ಲ
+Time log {0} not found,ಸಮಯ ದಾಖಲೆ {0} ಕಂಡುಬಂದಿಲ್ಲ
+Time Logs,ಸಮಯ ದಾಖಲೆಗಳು
+Time Summary,ಸಮಯ ಸಾರಾಂಶ
+Time Tracking,ಸಮಯ ಟ್ರ್ಯಾಕಿಂಗ್
+Timeline,ಟೈಮ್‌ಲೈನ್
+Timer active on,ಟೈಮರ್ ಸಕ್ರಿಯವಾಗಿದೆ
+Timer is not running,ಟೈಮರ್ ಚಾಲನೆಯಲ್ಲಿಲ್ಲ
+Timer Running,ಟೈಮರ್ ಚಾಲನೆಯಲ್ಲಿದೆ
+Timer running,ಟೈಮರ್ ಚಾಲನೆಯಲ್ಲಿದೆ
+Timesheet DocType not available,Timesheet DocType ಲಭ್ಯವಿಲ್ಲ
+Timesheets,ಟೈಮ್‌ಶೀಟ್‌ಗಳು
+Timezone,ಸಮಯ ವಲಯ
+Timezone is detected from your browser,ಸಮಯ ವಲಯವನ್ನು ನಿಮ್ಮ ಬ್ರೌಸರ್‌ನಿಂದ ಪತ್ತೆ ಮಾಡಲಾಗಿದೆ
+Title,ಶೀರ್ಷಿಕೆ
+Title cannot exceed 255 characters,ಶೀರ್ಷಿಕೆ 255 ಅಕ್ಷರಗಳನ್ನು ಮೀರಬಾರದು
+Title is required,ಶೀರ್ಷಿಕೆ ಅಗತ್ಯ
+Title updated,ಶೀರ್ಷಿಕೆ ನವೀಕರಿಸಲಾಗಿದೆ
+To,ಗೆ
+to,ಗೆ
+to cancel,ರದ್ದುಮಾಡಲು
+to close,ಮುಚ್ಚಲು
+to confirm:,ದೃಢೀಕರಿಸಲು:
+to edit,ಸಂಪಾದಿಸಲು
+"to save,","ಉಳಿಸಲು,"
+To Time cannot be before From Time,ಕೊನೆಯ ಸಮಯ ಆರಂಭ ಸಮಯಕ್ಕಿಂತ ಮುಂಚೆ ಇರಬಾರದು
+Today,ಇಂದು
+today,ಇಂದು
+Toggle billable,ಬಿಲ್ ಮಾಡಬಹುದಾದ ಬದಲಿಸಿ
+Toggle Details Panel,ವಿವರ ಪ್ಯಾನಲ್ ಬದಲಿಸಿ
+Toggle Manager Panel,ಮ್ಯಾನೇಜರ್ ಪ್ಯಾನಲ್ ಬದಲಿಸಿ
+Toggle Sidebar,ಸೈಡ್‌ಬಾರ್ ಬದಲಿಸಿ
+Tomorrow,ನಾಳೆ
+tomorrow,ನಾಳೆ
+Total,ಒಟ್ಟು
+Total Budget,ಒಟ್ಟು ಬಜೆಟ್
+Total Contacts,ಒಟ್ಟು ಸಂಪರ್ಕಗಳು
+Total Cost,ಒಟ್ಟು ವೆಚ್ಚ
+Total Cost to Org,ಸಂಸ್ಥೆಗೆ ಒಟ್ಟು ವೆಚ್ಚ
+Total Defect Cost,ಒಟ್ಟು ದೋಷ ವೆಚ್ಚ
+Total Hours,ಒಟ್ಟು ಗಂಟೆಗಳು
+Total Hours Logged,ದಾಖಲಿಸಿದ ಒಟ್ಟು ಗಂಟೆಗಳು
+Total Projects,ಒಟ್ಟು ಯೋಜನೆಗಳು
+Total Spent,ಒಟ್ಟು ಖರ್ಚು
+Total Tasks,ಒಟ್ಟು ಕಾರ್ಯಗಳು
+Total:,ಒಟ್ಟು:
+Tracked,ಟ್ರ್ಯಾಕ್ ಮಾಡಲಾಗಿದೆ
+trails to today while Open at 0%,0% ನಲ್ಲಿ ತೆರೆದಿರುವಾಗ ಇಂದಿನವರೆಗೆ ಹಿಂಬಾಲಿಸುತ್ತದೆ
+Tried:,Tried:
+Try adjusting your filter criteria,ನಿಮ್ಮ ಫಿಲ್ಟರ್ ಮಾನದಂಡಗಳನ್ನು ಹೊಂದಿಸಲು ಪ್ರಯತ್ನಿಸಿ
+Try adjusting your filters.,ನಿಮ್ಮ ಫಿಲ್ಟರ್‌ಗಳನ್ನು ಹೊಂದಿಸಲು ಪ್ರಯತ್ನಿಸಿ.
+Try Again,ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ
+Tue,ಮಂಗಳ
+Type,ಪ್ರಕಾರ
+Type updated,ಪ್ರಕಾರ ನವೀಕರಿಸಲಾಗಿದೆ
+Type:,ಪ್ರಕಾರ:
+Typical response time: 1-2 business days,ವಿಶಿಷ್ಟ ಪ್ರತಿಕ್ರಿಯೆ ಸಮಯ: 1-2 ವ್ಯಾಪಾರ ದಿನಗಳು
+Unarchive,ಆರ್ಕೈವ್ ರದ್ದುಮಾಡಿ
+Unarchive Activity,ಚಟುವಟಿಕೆ ಆರ್ಕೈವ್ ರದ್ದುಮಾಡಿ
+Unassign,ನಿಯೋಜನೆ ರದ್ದುಮಾಡಿ
+Unassigned,ನಿಯೋಜಿಸಲಾಗಿಲ್ಲ
+Under Budget,ಬಜೆಟ್‌ನಲ್ಲಿ
+Ungrouped,ಗುಂಪುಮಾಡಿಲ್ಲ
+Unknown,ಅಜ್ಞಾತ
+Unknown error,ಅಜ್ಞಾತ ದೋಷ
+Unlink failed,ಲಿಂಕ್ ತೆಗೆಯುವುದು ವಿಫಲವಾಯಿತು
+Unlink task from milestone,ಮೈಲಿಗಲ್ಲಿನಿಂದ ಕಾರ್ಯ ಲಿಂಕ್ ತೆಗೆಯಿರಿ
+Unpin,ಅನ್‌ಪಿನ್
+Unpin Activity,ಚಟುವಟಿಕೆ ಅನ್‌ಪಿನ್ ಮಾಡಿ
+Unread,ಓದಿಲ್ಲ
+Unread only,ಓದಿಲ್ಲದವು ಮಾತ್ರ
+Until,ವರೆಗೆ
+Up to Date,Up to Date
+Upcoming,ಮುಂಬರುವ
+upcoming,ಮುಂಬರುವ
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,ನವೀಕರಣ ವಿಫಲವಾಯಿತು
+Updated,ನವೀಕರಿಸಲಾಗಿದೆ
+Updated successfully,ಯಶಸ್ವಿಯಾಗಿ ನವೀಕರಿಸಲಾಗಿದೆ
+Updates,Updates
+Upload,ಅಪ್‌ಲೋಡ್
+Upload failed,ಅಪ್‌ಲೋಡ್ ವಿಫಲವಾಯಿತು
+Upload files below to attach them to this task.,ಈ ಕಾರ್ಯಕ್ಕೆ ಲಗತ್ತಿಸಲು ಕೆಳಗೆ ಫೈಲ್‌ಗಳನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ.
+Upload to project,ಯೋಜನೆಗೆ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ
+Uploading...,ಅಪ್‌ಲೋಡ್ ಆಗುತ್ತಿದೆ...
+Urgent,ತುರ್ತು
+User {0} is already linked to client {1},ಬಳಕೆದಾರ {0} ಈಗಾಗಲೇ ಗ್ರಾಹಕ {1} ಗೆ ಸಂಪರ್ಕಿತವಾಗಿದೆ
+User {0} is already linked to resource {1},ಬಳಕೆದಾರ {0} ಈಗಾಗಲೇ ಸಂಪನ್ಮೂಲ {1} ಗೆ ಸಂಪರ್ಕಿತವಾಗಿದೆ
+Utilization,ಬಳಕೆ
+Valid,ಮಾನ್ಯ
+Value:,ಮೌಲ್ಯ:
+Variance,ವ್ಯತ್ಯಾಸ
+Variance:,ವ್ಯತ್ಯಾಸ:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,ವೀಕ್ಷಿಸಿ
+View All,ಎಲ್ಲಾ ವೀಕ್ಷಿಸಿ
+View all active projects,ಎಲ್ಲಾ ಸಕ್ರಿಯ ಯೋಜನೆಗಳನ್ನು ವೀಕ್ಷಿಸಿ
+View all open tasks,ಎಲ್ಲಾ ತೆರೆದ ಕಾರ್ಯಗಳನ್ನು ವೀಕ್ಷಿಸಿ
+View overdue tasks,ಮೀರಿದ ಕಾರ್ಯಗಳನ್ನು ವೀಕ್ಷಿಸಿ
+View Release,View Release
+Visibility,ಗೋಚರತೆ
+Waiting for this task,ಈ ಕಾರ್ಯಕ್ಕಾಗಿ ಕಾಯುತ್ತಿದೆ
+Waits for:,ಕಾಯುತ್ತಿದೆ:
+Warning: Resource {0} status is {1},ಎಚ್ಚರಿಕೆ: ಸಂಪನ್ಮೂಲ {0} ಸ್ಥಿತಿ {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,ಎಚ್ಚರಿಕೆ: HTTPS ಬದಲು HTTP ಬಳಸಲಾಗುತ್ತಿದೆ. Webhook ಪೇಲೋಡ್‌ಗಳು ಸುರಕ್ಷಿತವಾಗಿರದಿರಬಹುದು.
+Watch budget closely,ಬಜೆಟ್ ಅನ್ನು ಹತ್ತಿರದಿಂದ ಗಮನಿಸಿ
+We'll respond to:,ನಾವು ಇದಕ್ಕೆ ಪ್ರತಿಕ್ರಿಯಿಸುತ್ತೇವೆ:
+Webhook deleted,Webhook ಅಳಿಸಲಾಗಿದೆ
+Webhook name is required,Webhook ಹೆಸರು ಅಗತ್ಯ
+Webhook not found,Webhook ಕಂಡುಬಂದಿಲ್ಲ
+Webhook URL is required,Webhook URL ಅಗತ್ಯ
+Webhook URL must start with http:// or https://,Webhook URL http:// ಅಥವಾ https:// ನಿಂದ ಪ್ರಾರಂಭವಾಗಬೇಕು
+Wed,ಬುಧ
+Week,ವಾರ
+Weekend,ವಾರಾಂತ್ಯ
+Weekly Capacity,ಸಾಪ್ತಾಹಿಕ ಸಾಮರ್ಥ್ಯ
+weekly capacity,ಸಾಪ್ತಾಹಿಕ ಸಾಮರ್ಥ್ಯ
+Weekly Capacity (h),ಸಾಪ್ತಾಹಿಕ ಸಾಮರ್ಥ್ಯ (ಗಂ)
+Welcome,ಸ್ವಾಗತ
+Welcome back!,ಮರಳಿ ಸ್ವಾಗತ!
+Welcome to Orga,Orga ಗೆ ಸ್ವಾಗತ
+What are you working on?,ನೀವು ಏನು ಮಾಡುತ್ತಿದ್ದೀರಿ?
+What did you work on?,ನೀವು ಏನು ಮಾಡಿದ್ದೀರಿ?
+When,ಯಾವಾಗ
+When work begins,ಕೆಲಸ ಪ್ರಾರಂಭವಾದಾಗ
+When work is due,ಕೆಲಸ ಬಾಕಿ ಇರುವಾಗ
+Where,ಎಲ್ಲಿ
+Will capture:,ಹಿಡಿಯುತ್ತದೆ:
+Will create:,ರಚಿಸುತ್ತದೆ:
+with checklist items,ಪರಿಶೀಲನಾ ಪಟ್ಟಿ ಐಟಂಗಳೊಂದಿಗೆ
+Working,ಕೆಲಸ ಮಾಡುತ್ತಿದೆ
+Workload,ಕೆಲಸದ ಹೊರೆ
+Workmanship,ಕೆಲಸಗಾರಿಕೆ
+Write a comment...,ಕಾಮೆಂಟ್ ಬರೆಯಿರಿ...
+Write a comment... Use @name to mention (Ctrl+Enter to send),ಕಾಮೆಂಟ್ ಬರೆಯಿರಿ... ಉಲ್ಲೇಖಿಸಲು @ಹೆಸರು ಬಳಸಿ (ಕಳುಹಿಸಲು Ctrl+Enter)
+Year,ವರ್ಷ
+Yes,ಹೌದು
+Yesterday,ನಿನ್ನೆ
+yesterday,ನಿನ್ನೆ
+You are not an attendee of this appointment,ನೀವು ಈ ಅಪಾಯಿಂಟ್‌ಮೆಂಟ್‌ನ ಹಾಜರಾತಿಯಲ್ಲ
+You are not linked to any resource,ನೀವು ಯಾವುದೇ ಸಂಪನ್ಮೂಲಕ್ಕೆ ಸಂಪರ್ಕಿತವಾಗಿಲ್ಲ
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,ನೀವು ನಿಮ್ಮ ಸ್ವಂತ ಕಾಮೆಂಟ್‌ಗಳನ್ನು ಮಾತ್ರ ಅಳಿಸಬಹುದು
+You can only delete your own reactions,ನೀವು ನಿಮ್ಮ ಸ್ವಂತ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಮಾತ್ರ ಅಳಿಸಬಹುದು
+You do not have access to the client portal. Please contact support.,ನಿಮಗೆ ಕ್ಲೈಂಟ್ ಪೋರ್ಟಲ್‌ಗೆ ಪ್ರವೇಶವಿಲ್ಲ. ದಯವಿಟ್ಟು ಬೆಂಬಲವನ್ನು ಸಂಪರ್ಕಿಸಿ.
+You have already reacted with '{0}',ನೀವು ಈಗಾಗಲೇ '{0}' ಜೊತೆ ಪ್ರತಿಕ್ರಿಯಿಸಿದ್ದೀರಿ
+You have been assigned to task '{0}' in project '{1}'.,ನಿಮಗೆ ಯೋಜನೆ '{1}' ನಲ್ಲಿ ಕಾರ್ಯ '{0}' ನಿಯೋಜಿಸಲಾಗಿದೆ.
+You have been assigned to: {0},ನಿಮಗೆ ನಿಯೋಜಿಸಲಾಗಿದೆ: {0}
+You have been invited to the following appointment,ಕೆಳಗಿನ ಅಪಾಯಿಂಟ್‌ಮೆಂಟ್‌ಗೆ ನಿಮ್ಮನ್ನು ಆಹ್ವಾನಿಸಲಾಗಿದೆ
+You have no tasks assigned to you right now.,ಈಗ ನಿಮಗೆ ಯಾವುದೇ ಕಾರ್ಯಗಳನ್ನು ನಿಯೋಜಿಸಲಾಗಿಲ್ಲ.
+You were mentioned in {0},ನಿಮ್ಮನ್ನು {0} ನಲ್ಲಿ ಉಲ್ಲೇಖಿಸಲಾಗಿದೆ
+Your attendance,ನಿಮ್ಮ ಹಾಜರಾತಿ
+Your comment has been posted,ನಿಮ್ಮ ಕಾಮೆಂಟ್ ಪೋಸ್ಟ್ ಮಾಡಲಾಗಿದೆ
+Your Projects,ನಿಮ್ಮ ಯೋಜನೆಗಳು
+Your projects will appear here once they're assigned to you.,ನಿಮಗೆ ನಿಯೋಜಿಸಿದ ನಂತರ ನಿಮ್ಮ ಯೋಜನೆಗಳು ಇಲ್ಲಿ ಕಾಣಿಸುತ್ತವೆ.
+Your Response,ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆ
+Your RSVP,ನಿಮ್ಮ RSVP
+Your support request has been submitted successfully.,ನಿಮ್ಮ ಬೆಂಬಲ ವಿನಂತಿಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಸಲ್ಲಿಸಲಾಗಿದೆ.
+Your support request has been submitted successfully. We'll get back to you shortly.,ನಿಮ್ಮ ಬೆಂಬಲ ವಿನಂತಿಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಸಲ್ಲಿಸಲಾಗಿದೆ. ನಾವು ಶೀಘ್ರದಲ್ಲೇ ನಿಮ್ಮೊಂದಿಗೆ ಸಂಪರ್ಕಿಸುತ್ತೇವೆ.
+"Your task ""{0}"" is no longer blocked and can now be started.","ನಿಮ್ಮ ಕಾರ್ಯ ""{0}"" ಇನ್ನು ಮುಂದೆ ನಿರ್ಬಂಧಿತವಾಗಿಲ್ಲ ಮತ್ತು ಈಗ ಪ್ರಾರಂಭಿಸಬಹುದು."
+{0} is required,{0} ಅಗತ್ಯ
+{0} new activities,{0} ಹೊಸ ಚಟುವಟಿಕೆಗಳು
+{0} of {1} completed,{0} / {1} ಪೂರ್ಣಗೊಂಡಿದೆ
+{0} projects already migrated (will be skipped or updated),{0} ಯೋಜನೆಗಳನ್ನು ಈಗಾಗಲೇ ವರ್ಗಾಯಿಸಲಾಗಿದೆ (ಬಿಟ್ಟುಬಿಡಲಾಗುತ್ತದೆ ಅಥವಾ ನವೀಕರಿಸಲಾಗುತ್ತದೆ)
+{0} status changed to {1},{0} ಸ್ಥಿತಿಯನ್ನು {1} ಗೆ ಬದಲಾಯಿಸಲಾಗಿದೆ
+{0} tasks remaining,{0} ಕಾರ್ಯಗಳು ಉಳಿದಿವೆ
+{0} tasks without projects will be skipped,ಯೋಜನೆಗಳಿಲ್ಲದ {0} ಕಾರ್ಯಗಳನ್ನು ಬಿಟ್ಟುಬಿಡಲಾಗುತ್ತದೆ
+{0} {1} not found,{0} {1} ಕಂಡುಬಂದಿಲ್ಲ

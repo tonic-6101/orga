@@ -1,0 +1,1492 @@
++ Add Milestone,+ បន្ថែមព្រឹត្តិការណ៍សំខាន់
++ Create Task,+ បង្កើតភារកិច្ច
++ Log Time,+ កត់ត្រាពេលវេលា
+-- Select a project --,-- ជ្រើសរើសគម្រោង --
+0m,០ន
+1 day,១ ថ្ងៃ
+1 day ago,១ ថ្ងៃមុន
+1 dependency,១ ភាពអាស្រ័យ
+1 entry,១ បញ្ជី
+1 file,១ ឯកសារ
+1 hour ago,១ ម៉ោងមុន
+1 member,១ សមាជិក
+1 milestone,១ ព្រឹត្តិការណ៍សំខាន់
+1 month,១ ខែ
+1 task,១ ភារកិច្ច
+< 1m,< ១ន
+"A clear, actionable title for the task",ចំណងជើងច្បាស់លាស់ និងអាចអនុវត្តបានសម្រាប់ភារកិច្ច
+A client with email {0} already exists: {1},អតិថិជនដែលមានអ៊ីមែល {0} មានរួចហើយ: {1}
+A key deliverable or checkpoint for the project,លទ្ធផលសំខាន់ ឬចំណុចត្រួតពិនិត្យសម្រាប់គម្រោង
+Accept,ទទួលយក
+Accepted,បានទទួលយក
+Acknowledge,ទទួលស្គាល់
+across,ឆ្លងកាត់
+Action,សកម្មភាព
+Actions,សកម្មភាពនានា
+Active,សកម្ម
+Active Assignments,ការចាត់តាំងសកម្ម
+Active Projects,គម្រោងសកម្ម
+Activity,សកម្មភាព
+Activity data deleted successfully,ទិន្នន័យសកម្មភាពត្រូវបានលុបដោយជោគជ័យ
+Activity Info,ព័ត៌មានសកម្មភាព
+Activity Stats,ស្ថិតិសកម្មភាព
+Activity will appear here as you work on tasks and projects.,សកម្មភាពនឹងបង្ហាញនៅទីនេះពេលអ្នកធ្វើការលើភារកិច្ច និងគម្រោង។
+Actual,ជាក់ស្ដែង
+Actual Cost,ថ្លៃដើមជាក់ស្ដែង
+Actual cost cannot be negative,ថ្លៃដើមជាក់ស្ដែងមិនអាចជាអវិជ្ជមានបានទេ
+Actual end date cannot be before actual start date,កាលបរិច្ឆេទបញ្ចប់ជាក់ស្ដែងមិនអាចមុនកាលបរិច្ឆេទចាប់ផ្ដើមជាក់ស្ដែងបានទេ
+Actual Hours,ម៉ោងជាក់ស្ដែង
+Add,បន្ថែម
+Add a checklist item...,បន្ថែមធាតុបញ្ជីត្រួតពិនិត្យ...
+Add a comment...,បន្ថែមមតិយោបល់...
+Add a comment... (Ctrl+Enter to send),បន្ថែមមតិយោបល់... (Ctrl+Enter ដើម្បីផ្ញើ)
+Add a description...,បន្ថែមការពិពណ៌នា...
+Add a milestone description...,បន្ថែមការពិពណ៌នាព្រឹត្តិការណ៍សំខាន់...
+Add a note below to annotate this activity.,បន្ថែមកំណត់ចំណាំខាងក្រោមដើម្បីធ្វើចំណារកថានៃសកម្មភាពនេះ។
+Add a note...,បន្ថែមកំណត់ចំណាំ...
+Add a project description...,បន្ថែមការពិពណ៌នាគម្រោង...
+Add a task description...,បន្ថែមការពិពណ៌នាភារកិច្ច...
+Add checklist item...,បន្ថែមធាតុបញ្ជីត្រួតពិនិត្យ...
+Add Contact,បន្ថែមទំនាក់ទំនង
+Add contacts via the Desk interface or clear filters,បន្ថែមទំនាក់ទំនងតាមរយៈចំណុចប្រទាក់ Desk ឬលុបតម្រង
+Add Dependency,បន្ថែមភាពអាស្រ័យ
+Add details about this event...,បន្ថែមព័ត៌មានលម្អិតអំពីព្រឹត្តិការណ៍នេះ...
+Add details about this milestone...,បន្ថែមព័ត៌មានលម្អិតអំពីព្រឹត្តិការណ៍សំខាន់នេះ...
+Add details about this task...,បន្ថែមព័ត៌មានលម្អិតអំពីភារកិច្ចនេះ...
+Add details or acceptance criteria for this milestone,បន្ថែមព័ត៌មានលម្អិត ឬលក្ខណៈវិនិច្ឆ័យទទួលយកសម្រាប់ព្រឹត្តិការណ៍សំខាន់នេះ
+"Add details, context, or acceptance criteria",បន្ថែមព័ត៌មានលម្អិត បរិបទ ឬលក្ខណៈវិនិច្ឆ័យទទួលយក
+Add first dependency,បន្ថែមភាពអាស្រ័យដំបូង
+Add item,បន្ថែមធាតុ
+Add items below to track progress.,បន្ថែមធាតុខាងក្រោមដើម្បីតាមដានវឌ្ឍនភាព។
+Add items below to track subtasks,បន្ថែមធាតុខាងក្រោមដើម្បីតាមដានភារកិច្ចរង
+Add Milestone,បន្ថែមព្រឹត្តិការណ៍សំខាន់
+Add Milestone (Shift+M),បន្ថែមព្រឹត្តិការណ៍សំខាន់ (Shift+M)
+Add milestones to track key deliverables.,បន្ថែមព្រឹត្តិការណ៍សំខាន់ដើម្បីតាមដានលទ្ធផលសំខាន់។
+Add New Contact,បន្ថែមទំនាក់ទំនងថ្មី
+Add Note,បន្ថែមកំណត់ចំណាំ
+Add note,បន្ថែមកំណត់ចំណាំ
+Add notes about this contact...,បន្ថែមកំណត់ចំណាំអំពីទំនាក់ទំនងនេះ...
+Add reaction,បន្ថែមប្រតិកម្ម
+Add Skill,បន្ថែមជំនាញ
+Add start and due dates to tasks to see them on the Gantt chart,បន្ថែមកាលបរិច្ឆេទចាប់ផ្ដើម និងផុតកំណត់ទៅភារកិច្ចដើម្បីមើលពួកវានៅលើតារាង Gantt
+Add Task,បន្ថែមភារកិច្ច
+Add Task (Shift+T),បន្ថែមភារកិច្ច (Shift+T)
+Added Finish-to-Start dependency,បានបន្ថែមភាពអាស្រ័យបញ្ចប់ទៅចាប់ផ្ដើម
+Adding this dependency would create a circular reference: {0},ការបន្ថែមភាពអាស្រ័យនេះនឹងបង្កើតឯកសារយោងរង្វង់: {0}
+Adding...,កំពុងបន្ថែម...
+Address,អាសយដ្ឋាន
+Advanced,កម្រិតខ្ពស់
+All,ទាំងអស់
+All Active,សកម្មទាំងអស់
+All Assignees,អ្នកទទួលបន្ទុកទាំងអស់
+All Categories,ប្រភេទទាំងអស់
+All caught up!,ទាន់សម័យហើយ!
+All Contexts,បរិបទទាំងអស់
+All day,ពេញមួយថ្ងៃ
+All day event,ព្រឹត្តិការណ៍ពេញមួយថ្ងៃ
+All fields,វាលទាំងអស់
+All Priorities,អាទិភាពទាំងអស់
+All Projects,គម្រោងទាំងអស់
+All Status,ស្ថានភាពទាំងអស់
+All Statuses,ស្ថានភាពទាំងអស់
+All task dependencies & relative dates,ភាពអាស្រ័យភារកិច្ចទាំងអស់ និងកាលបរិច្ឆេទដែលទាក់ទង
+All Tasks,ភារកិច្ចទាំងអស់
+All tasks across all projects.,ភារកិច្ចទាំងអស់ឆ្លងកាត់គម្រោងទាំងអស់។
+All tasks are already linked,ភារកិច្ចទាំងអស់ត្រូវបានភ្ជាប់រួចហើយ
+All team members,សមាជិកក្រុមទាំងអស់
+All Types,ប្រភេទទាំងអស់
+All Users,អ្នកប្រើប្រាស់ទាំងអស់
+Allocated,បានបែងចែក
+allocated,បានបែងចែក
+Allow users to log time against tasks,អនុញ្ញាតឱ្យអ្នកប្រើប្រាស់កត់ត្រាពេលវេលាទៅលើភារកិច្ច
+Already exported to timesheet {0},បាននាំចេញទៅតារាងពេលវេលា {0} រួចហើយ
+Already Migrated,បានផ្លាស់ប្ដូររួចហើយ
+Anyone with access,នរណាក៏ដោយដែលមានសិទ្ធិចូលប្រើ
+anytime to show this help,គ្រប់ពេលដើម្បីបង្ហាញជំនួយនេះ
+App Updates,App Updates
+Appearance,រូបរាង
+Apply,អនុវត្ត
+Apply cascade?,អនុវត្តបន្តបន្ទាប់?
+Apply Changes,អនុវត្តការផ្លាស់ប្ដូរ
+Apply failed,ការអនុវត្តបានបរាជ័យ
+Apply Template,អនុវត្តគំរូ
+Applying...,កំពុងអនុវត្ត...
+Appointment,ការណាត់ជួប
+Appointment and resource are required,ការណាត់ជួប និងធនធានគឺចាំបាច់
+Appointment name is required,ឈ្មោះការណាត់ជួបគឺចាំបាច់
+Appointment not found,រកមិនឃើញការណាត់ជួប
+Appointment {0} not found,រកមិនឃើញការណាត់ជួប {0}
+Apps,កម្មវិធី
+Archive,រក្សាទុក
+Archive Activity,រក្សាទុកសកម្មភាព
+Archived,បានរក្សាទុក
+Are you sure you want to delete this activity data? This cannot be undone.,តើអ្នកប្រាកដថាចង់លុបទិន្នន័យសកម្មភាពនេះមែនទេ? វាមិនអាចត្រឡប់វិញបានទេ។
+Are you sure you want to delete this comment?,តើអ្នកប្រាកដថាចង់លុបមតិយោបល់នេះមែនទេ?
+Are you sure you want to delete this project?,តើអ្នកប្រាកដថាចង់លុបគម្រោងនេះមែនទេ?
+Are you sure?,តើអ្នកប្រាកដមែនទេ?
+Ascending -- click to reverse,ឡើង -- ចុចដើម្បីបញ្ច្រាស
+Assign To,ចាត់តាំងទៅ
+Assign to Me,ចាត់តាំងមកខ្ញុំ
+Assigned Contact,ទំនាក់ទំនងដែលបានចាត់តាំង
+Assigned To,បានចាត់តាំងទៅ
+Assigned to,បានចាត់តាំងទៅ
+Assigned to Me,បានចាត់តាំងមកខ្ញុំ
+Assignee,អ្នកទទួលបន្ទុក
+Assignment,ការចាត់តាំង
+Assignment History,ប្រវត្តិការចាត់តាំង
+Assignment name is required,ឈ្មោះការចាត់តាំងគឺចាំបាច់
+Assignment {0} not found,រកមិនឃើញការចាត់តាំង {0}
+Assignments,ការចាត់តាំងនានា
+At least one action is required,ត្រូវការសកម្មភាពយ៉ាងហោចណាស់មួយ
+At least one event is required,ត្រូវការព្រឹត្តិការណ៍យ៉ាងហោចណាស់មួយ
+At least one event must be selected,ត្រូវជ្រើសរើសព្រឹត្តិការណ៍យ៉ាងហោចណាស់មួយ
+Attachment,ឯកសារភ្ជាប់
+Attachments,ឯកសារភ្ជាប់នានា
+Attendees,អ្នកចូលរួម
+"Audit trail, assignments, version history",ផ្លូវសវនកម្ម ការចាត់តាំង ប្រវត្តិកំណែ
+Auto,ស្វ័យប្រវត្តិ
+Auto Calculate Progress,គណនាវឌ្ឍនភាពស្វ័យប្រវត្តិ
+Auto Set Missed Milestones,កំណត់ព្រឹត្តិការណ៍សំខាន់ដែលខកខានស្វ័យប្រវត្តិ
+Auto-shift dependents when dates change,ផ្លាស់ប្ដូរភាពអាស្រ័យស្វ័យប្រវត្តិពេលកាលបរិច្ឆេទប្ដូរ
+Auto-Trail Start,ចាប់ផ្ដើមផ្លូវស្វ័យប្រវត្តិ
+Auto-Trail updated,ផ្លូវស្វ័យប្រវត្តិត្រូវបានធ្វើបច្ចុប្បន្នភាព
+Automatically calculate project progress from task completion,គណនាវឌ្ឍនភាពគម្រោងស្វ័យប្រវត្តិពីការបញ្ចប់ភារកិច្ច
+Automatically mark milestones as missed when overdue,សម្គាល់ព្រឹត្តិការណ៍សំខាន់ថាបានខកខានស្វ័យប្រវត្តិពេលផុតកំណត់
+Automation rule {0} not found,រកមិនឃើញច្បាប់ស្វ័យប្រវត្តិកម្ម {0}
+Automation: {0},ស្វ័យប្រវត្តិកម្ម: {0}
+Availability,ភាពអាចរកបាន
+Available,អាចរកបាន
+Avatar updated successfully,រូបតំណាងត្រូវបានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ
+Avg Progress,វឌ្ឍនភាពមធ្យម
+Back,ថយក្រោយ
+Back to Portal,ត្រឡប់ទៅវិបផតថល
+Back to Projects,ត្រឡប់ទៅគម្រោង
+Beginner,អ្នកចាប់ផ្ដើម
+Best regards,ដោយក្ដីគោរព
+Billable,អាចគិតថ្លៃបាន
+Billable Amount,ចំនួនទឹកប្រាក់អាចគិតថ្លៃបាន
+Billable Hours,ម៉ោងអាចគិតថ្លៃបាន
+Billable Rate,អត្រាអាចគិតថ្លៃបាន
+Billing Rate,អត្រាវិក្កយបត្រ
+Blocked,បានទប់ស្កាត់
+Both dates are needed to display task as a bar in Gantt chart,ត្រូវការកាលបរិច្ឆេទទាំងពីរដើម្បីបង្ហាញភារកិច្ចជារបារក្នុងតារាង Gantt
+Both doctype and docname are required,ត្រូវការ doctype និង docname ទាំងពីរ
+Both proposed start and end times are required,ត្រូវការពេលវេលាចាប់ផ្ដើម និងបញ្ចប់ដែលបានស្នើទាំងពីរ
+Both task_name and depends_on are required,ត្រូវការ task_name និង depends_on ទាំងពីរ
+Breadcrumb,ផ្លូវរុករក
+Brief description of the defect or damage,ការពិពណ៌នាសង្ខេបអំពីកំហុស ឬការខូចខាត
+Brief description of this template,ការពិពណ៌នាសង្ខេបអំពីគំរូនេះ
+Brief description of your request,ការពិពណ៌នាសង្ខេបអំពីសំណើរបស់អ្នក
+Brief project description,ការពិពណ៌នាគម្រោងសង្ខេប
+Budget,ថវិកា
+Budget at risk,ថវិកាមានហានិភ័យ
+Budget Burn Rate,អត្រាការប្រើប្រាស់ថវិកា
+Budget Status,ស្ថានភាពថវិកា
+Budget updated,ថវិកាត្រូវបានធ្វើបច្ចុប្បន្នភាព
+Budget:,ថវិកា:
+Bug,កំហុស
+Burn Rate,អត្រាការប្រើប្រាស់
+Busy,រវល់
+By,ដោយ
+By Assignee,តាមអ្នកទទួលបន្ទុក
+By Group,តាមក្រុម
+By Milestone,តាមព្រឹត្តិការណ៍សំខាន់
+By Priority,តាមអាទិភាព
+By Status,តាមស្ថានភាព
+Cancel,បោះបង់
+Cancelled,បានបោះបង់
+cannot be undone,មិនអាចត្រឡប់វិញបានទេ
+Cannot delete client with {0} linked projects. Unlink projects first.,មិនអាចលុបអតិថិជនដែលមាន {0} គម្រោងភ្ជាប់បានទេ។ សូមផ្ដាច់គម្រោងជាមុនសិន។
+Cannot delete project with {0} linked tasks. Delete tasks first.,មិនអាចលុបគម្រោងដែលមាន {0} ភារកិច្ចភ្ជាប់បានទេ។ សូមលុបភារកិច្ចជាមុនសិន។
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,មិនអាចលុបធនធានដែលមាន {0} ការចាត់តាំងសកម្មបានទេ។ សូមបញ្ចប់ ឬបោះបង់ពួកវាជាមុនសិន។
+Cannot delete task with {0} subtasks. Delete subtasks first.,មិនអាចលុបភារកិច្ចដែលមាន {0} ភារកិច្ចរងបានទេ។ សូមលុបភារកិច្ចរងជាមុនសិន។
+Capacity,សមត្ថភាព
+capacity,សមត្ថភាព
+Capacity & Rates,សមត្ថភាព និងអត្រា
+Capture project structure for reuse,ចាប់យករចនាសម្ព័ន្ធគម្រោងសម្រាប់ប្រើឡើងវិញ
+Cascade,បន្តបន្ទាប់
+Cascade Preview,មើលជាមុនបន្តបន្ទាប់
+Category,ប្រភេទ
+Celebrate,អបអរ
+Change,ផ្លាស់ប្ដូរ
+Change History,ប្រវត្តិការផ្លាស់ប្ដូរ
+Change Priority,ផ្លាស់ប្ដូរអាទិភាព
+Change Status,ផ្លាស់ប្ដូរស្ថានភាព
+Changes,ការផ្លាស់ប្ដូរ
+Changes appear when fields are modified.,ការផ្លាស់ប្ដូរបង្ហាញពេលវាលត្រូវបានកែប្រែ។
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,បញ្ជីត្រួតពិនិត្យ
+Checklist item name is required,ឈ្មោះធាតុបញ្ជីត្រួតពិនិត្យគឺចាំបាច់
+Checklist item not found,រកមិនឃើញធាតុបញ្ជីត្រួតពិនិត្យ
+Checklist item title is required,ចំណងជើងធាតុបញ្ជីត្រួតពិនិត្យគឺចាំបាច់
+Checklist item {0} not found,រកមិនឃើញធាតុបញ្ជីត្រួតពិនិត្យ {0}
+Checklist item {0} not found in task,រកមិនឃើញធាតុបញ្ជីត្រួតពិនិត្យ {0} ក្នុងភារកិច្ច
+Child,កូន
+Choose file to upload,ជ្រើសរើសឯកសារដើម្បីផ្ទុកឡើង
+Circular dependency detected: {0},បានរកឃើញភាពអាស្រ័យរង្វង់: {0}
+Circular parent-child relationship detected,បានរកឃើញទំនាក់ទំនងមេ-កូនរង្វង់
+Clear,សម្អាត
+Clear all read,សម្អាតទាំងអស់ដែលបានអាន
+Clear date,សម្អាតកាលបរិច្ឆេទ
+Click on an activity from the list to view and manage its details.,ចុចលើសកម្មភាពពីបញ្ជីដើម្បីមើល និងគ្រប់គ្រងព័ត៌មានលម្អិត។
+Click the avatar to upload a new photo,ចុចលើរូបតំណាងដើម្បីផ្ទុកឡើងរូបថតថ្មី
+Click to add description...,ចុចដើម្បីបន្ថែមការពិពណ៌នា...
+Click to add notes...,ចុចដើម្បីបន្ថែមកំណត់ចំណាំ...
+Click to assign contact,ចុចដើម្បីចាត់តាំងទំនាក់ទំនង
+Click to change status,ចុចដើម្បីផ្លាស់ប្ដូរស្ថានភាព
+Click to change type,ចុចដើម្បីផ្លាស់ប្ដូរប្រភេទ
+Click to edit,ចុចដើម្បីកែប្រែ
+Click to edit budget,ចុចដើម្បីកែប្រែថវិកា
+Click to edit description,ចុចដើម្បីកែប្រែការពិពណ៌នា
+Click to edit end date,ចុចដើម្បីកែប្រែកាលបរិច្ឆេទបញ្ចប់
+Click to edit milestone name,ចុចដើម្បីកែប្រែឈ្មោះព្រឹត្តិការណ៍សំខាន់
+Click to edit rate,ចុចដើម្បីកែប្រែអត្រា
+Click to edit start date,ចុចដើម្បីកែប្រែកាលបរិច្ឆេទចាប់ផ្ដើម
+Click to edit title,ចុចដើម្បីកែប្រែចំណងជើង
+Click to load,ចុចដើម្បីផ្ទុក
+Click to set group dependency...,ចុចដើម្បីកំណត់ភាពអាស្រ័យក្រុម...
+Click to set group...,ចុចដើម្បីកំណត់ក្រុម...
+Click to view,ចុចដើម្បីមើល
+Click to view at-risk projects,ចុចដើម្បីមើលគម្រោងមានហានិភ័យ
+Click to view critical projects,ចុចដើម្បីមើលគម្រោងសំខាន់
+Click to view healthy projects,ចុចដើម្បីមើលគម្រោងដែលមានសុខភាពល្អ
+Client,អតិថិជន
+Client already has a portal user: {0},អតិថិជនមានអ្នកប្រើប្រាស់វិបផតថលរួចហើយ: {0}
+Client already has portal access,អតិថិជនមានសិទ្ធិចូលវិបផតថលរួចហើយ
+Client has no portal user to revoke,អតិថិជនមិនមានអ្នកប្រើប្រាស់វិបផតថលដើម្បីដកហូតទេ
+Client link removed from project {0},តំណអតិថិជនត្រូវបានដកចេញពីគម្រោង {0}
+Client Portal,វិបផតថលអតិថិជន
+Client {0} deleted successfully,អតិថិជន {0} ត្រូវបានលុបដោយជោគជ័យ
+Close,បិទ
+Close (Esc),បិទ (Esc)
+Comment,មតិយោបល់
+comment,មតិយោបល់
+Comment added,បានបន្ថែមមតិយោបល់
+Comment content is required,ខ្លឹមសារមតិយោបល់គឺចាំបាច់
+Comment name is required,ឈ្មោះមតិយោបល់គឺចាំបាច់
+Comment not found,រកមិនឃើញមតិយោបល់
+Comment removed,មតិយោបល់ត្រូវបានដកចេញ
+Comment {0} not found in task,រកមិនឃើញមតិយោបល់ {0} ក្នុងភារកិច្ច
+Comments,មតិយោបល់នានា
+comments,មតិយោបល់
+Community Edition,Community Edition
+Company,ក្រុមហ៊ុន
+Company name...,ឈ្មោះក្រុមហ៊ុន...
+Complete,បញ្ចប់
+Completed,បានបញ្ចប់
+completed,បានបញ្ចប់
+Completed Tasks,ភារកិច្ចដែលបានបញ្ចប់
+Compliance,ការអនុលោម
+Configure default values for new projects and tasks,កំណត់រចនាសម្ព័ន្ធតម្លៃលំនាំដើមសម្រាប់គម្រោង និងភារកិច្ចថ្មី
+Configure email notification settings,កំណត់រចនាសម្ព័ន្ធការកំណត់ការជូនដំណឹងតាមអ៊ីមែល
+Confirm,បញ្ជាក់
+Contact deleted,ទំនាក់ទំនងត្រូវបានលុប
+Contact Details,ព័ត៌មានលម្អិតទំនាក់ទំនង
+Contact Information,ព័ត៌មានទំនាក់ទំនង
+Contact name is required,ឈ្មោះទំនាក់ទំនងគឺចាំបាច់
+Contact Support,ទាក់ទងផ្នែកគាំទ្រ
+Contact your project manager for more information.,ទាក់ទងអ្នកគ្រប់គ្រងគម្រោងរបស់អ្នកសម្រាប់ព័ត៌មានបន្ថែម។
+Contact:,ទំនាក់ទំនង:
+Contacts,ទំនាក់ទំនងនានា
+Context,បរិបទ
+Contractor,អ្នកម៉ៅការ
+Cost estimate cannot be negative,ការប៉ាន់ស្មានថ្លៃដើមមិនអាចជាអវិជ្ជមានបានទេ
+Cost Impact,ផលប៉ះពាល់ថ្លៃដើម
+Cost Summary,សង្ខេបថ្លៃដើម
+Could not apply the template. Please try again.,មិនអាចអនុវត្តគំរូបានទេ។ សូមព្យាយាមម្ដងទៀត។
+Could not attach file to project,មិនអាចភ្ជាប់ឯកសារទៅគម្រោងបានទេ
+Could not change task priority,មិនអាចផ្លាស់ប្ដូរអាទិភាពភារកិច្ចបានទេ
+Could not change task status,មិនអាចផ្លាស់ប្ដូរស្ថានភាពភារកិច្ចបានទេ
+Could not delete the project. Please try again.,មិនអាចលុបគម្រោងបានទេ។ សូមព្យាយាមម្ដងទៀត។
+Could not delete the task. Please try again.,មិនអាចលុបភារកិច្ចបានទេ។ សូមព្យាយាមម្ដងទៀត។
+Could not delete the template.,មិនអាចលុបគំរូបានទេ។
+Could not duplicate the task. Please try again.,មិនអាចចម្លងភារកិច្ចបានទេ។ សូមព្យាយាមម្ដងទៀត។
+Could not export the template.,មិនអាចនាំចេញគំរូបានទេ។
+Could not import the template. Please check the file format.,មិនអាចនាំចូលគំរូបានទេ។ សូមពិនិត្យទម្រង់ឯកសារ។
+Could not link task to milestone,មិនអាចភ្ជាប់ភារកិច្ចទៅព្រឹត្តិការណ៍សំខាន់បានទេ
+Could not load document details.,មិនអាចផ្ទុកព័ត៌មានលម្អិតឯកសារបានទេ។
+Could not load task details,មិនអាចផ្ទុកព័ត៌មានលម្អិតភារកិច្ចបានទេ
+Could not promote checklist item to task.,មិនអាចដំឡើងធាតុបញ្ជីត្រួតពិនិត្យទៅភារកិច្ចបានទេ។
+Could not remove task from milestone,មិនអាចដកភារកិច្ចចេញពីព្រឹត្តិការណ៍សំខាន់បានទេ
+Could not save budget.,មិនអាចរក្សាទុកថវិកាបានទេ។
+Could not save changes to the milestone,មិនអាចរក្សាទុកការផ្លាស់ប្ដូរទៅព្រឹត្តិការណ៍សំខាន់បានទេ
+Could not save changes to the task,មិនអាចរក្សាទុកការផ្លាស់ប្ដូរទៅភារកិច្ចបានទេ
+Could not save description.,មិនអាចរក្សាទុកការពិពណ៌នាបានទេ។
+Could not save end date.,មិនអាចរក្សាទុកកាលបរិច្ឆេទបញ្ចប់បានទេ។
+Could not save milestone name.,មិនអាចរក្សាទុកឈ្មោះព្រឹត្តិការណ៍សំខាន់បានទេ។
+Could not save start date.,មិនអាចរក្សាទុកកាលបរិច្ឆេទចាប់ផ្ដើមបានទេ។
+Could not save the template. Please try again.,មិនអាចរក្សាទុកគំរូបានទេ។ សូមព្យាយាមម្ដងទៀត។
+Could not save title.,មិនអាចរក្សាទុកចំណងជើងបានទេ។
+Could not update dependency mode.,មិនអាចធ្វើបច្ចុប្បន្នភាពរបៀបភាពអាស្រ័យបានទេ។
+Could not update milestone date,មិនអាចធ្វើបច្ចុប្បន្នភាពកាលបរិច្ឆេទព្រឹត្តិការណ៍សំខាន់បានទេ
+Could not update project status.,មិនអាចធ្វើបច្ចុប្បន្នភាពស្ថានភាពគម្រោងបានទេ។
+Could not update project type.,មិនអាចធ្វើបច្ចុប្បន្នភាពប្រភេទគម្រោងបានទេ។
+Could not update setting.,មិនអាចធ្វើបច្ចុប្បន្នភាពការកំណត់បានទេ។
+Could not update task dates,មិនអាចធ្វើបច្ចុប្បន្នភាពកាលបរិច្ឆេទភារកិច្ចបានទេ
+Could not update task status,មិនអាចធ្វើបច្ចុប្បន្នភាពស្ថានភាពភារកិច្ចបានទេ
+Could not update the template.,មិនអាចធ្វើបច្ចុប្បន្នភាពគំរូបានទេ។
+Create a copy of this task,បង្កើតច្បាប់ចម្លងនៃភារកិច្ចនេះ
+Create Contact,បង្កើតទំនាក់ទំនង
+Create Event,បង្កើតព្រឹត្តិការណ៍
+Create Milestone,បង្កើតព្រឹត្តិការណ៍សំខាន់
+Create New Milestone,បង្កើតព្រឹត្តិការណ៍សំខាន់ថ្មី
+Create New Task,បង្កើតភារកិច្ចថ្មី
+Create Project,បង្កើតគម្រោង
+Create Task,បង្កើតភារកិច្ច
+Create tasks and milestones from a template,បង្កើតភារកិច្ច និងព្រឹត្តិការណ៍សំខាន់ពីគំរូ
+Create your first project to get started.,បង្កើតគម្រោងដំបូងរបស់អ្នកដើម្បីចាប់ផ្ដើម។
+Create your first task to start tracking work on this project.,បង្កើតភារកិច្ចដំបូងរបស់អ្នកដើម្បីចាប់ផ្ដើមតាមដានការងារលើគម្រោងនេះ។
+Created,បានបង្កើត
+Creating...,កំពុងបង្កើត...
+Critical,សំខាន់បំផុត
+Critical Path,ផ្លូវវិបត្តិ
+"Currency used for budgets, costs, and billing rates",រូបិយប័ណ្ណប្រើសម្រាប់ថវិកា ថ្លៃដើម និងអត្រាវិក្កយបត្រ
+Current,បច្ចុប្បន្ន
+Current Assignments,ការចាត់តាំងបច្ចុប្បន្ន
+Current scheduled time:,ពេលវេលាដែលបានកំណត់បច្ចុប្បន្ន:
+Currently running version,Currently running version
+d lag,ថ្ងៃយឺត
+Daily Availability,ភាពអាចរកបានប្រចាំថ្ងៃ
+Daily Hours,ម៉ោងប្រចាំថ្ងៃ
+Danger Zone,តំបន់គ្រោះថ្នាក់
+Dark,ងងឹត
+Dashboard,ផ្ទាំងគ្រប់គ្រង
+Date,កាលបរិច្ឆេទ
+Date changes on this task will show cascade impact here,ការផ្លាស់ប្ដូរកាលបរិច្ឆេទលើភារកិច្ចនេះនឹងបង្ហាញផលប៉ះពាល់បន្តបន្ទាប់នៅទីនេះ
+Date cleared,កាលបរិច្ឆេទត្រូវបានសម្អាត
+Date of Joining,កាលបរិច្ឆេទចូលធ្វើការ
+Date updated,កាលបរិច្ឆេទត្រូវបានធ្វើបច្ចុប្បន្នភាព
+Dates,កាលបរិច្ឆេទនានា
+Dates cascaded,កាលបរិច្ឆេទបានបន្តបន្ទាប់
+Dates will be relative to the project's start date.,កាលបរិច្ឆេទនឹងទាក់ទងទៅនឹងកាលបរិច្ឆេទចាប់ផ្ដើមគម្រោង។
+Day,ថ្ងៃ
+day,ថ្ងៃ
+days,ថ្ងៃ
+Days before due date to send reminder,ចំនួនថ្ងៃមុនកាលបរិច្ឆេទផុតកំណត់ដើម្បីផ្ញើការរំលឹក
+Days Overdue,ថ្ងៃផុតកំណត់
+Days Remaining,ថ្ងៃនៅសល់
+Deadline,កាលកំណត់
+Deadlines,កាលកំណត់នានា
+Decision,សេចក្ដីសម្រេច
+Decline,បដិសេធ
+Declined,បានបដិសេធ
+Default Currency,រូបិយប័ណ្ណលំនាំដើម
+Default hours per week for contact capacity planning,ម៉ោងលំនាំដើមក្នុងមួយសប្ដាហ៍សម្រាប់ផែនការសមត្ថភាពទំនាក់ទំនង
+Default Priority,អាទិភាពលំនាំដើម
+Default Project Status,ស្ថានភាពគម្រោងលំនាំដើម
+Default Task Status,ស្ថានភាពភារកិច្ចលំនាំដើម
+Default task view,ទិដ្ឋភាពភារកិច្ចលំនាំដើម
+Default Values,តម្លៃលំនាំដើម
+Default Weekly Capacity,សមត្ថភាពប្រចាំសប្ដាហ៍លំនាំដើម
+Defaults,លំនាំដើម
+Defect Cost Impact,ផលប៉ះពាល់ថ្លៃដើមកំហុស
+Defect name is required,ឈ្មោះកំហុសគឺចាំបាច់
+Defect Type,ប្រភេទកំហុស
+Defect {0} not found,រកមិនឃើញកំហុស {0}
+Defects,កំហុសនានា
+Defects & Issues,កំហុស និងបញ្ហា
+Defects Resolved,កំហុសដែលបានដោះស្រាយ
+Delayed,បានពន្យារ
+Delete,លុប
+Delete Activity Data,លុបទិន្នន័យសកម្មភាព
+Delete all read notifications?,លុបការជូនដំណឹងដែលបានអានទាំងអស់?
+Delete comment,លុបមតិយោបល់
+Delete Contact,លុបទំនាក់ទំនង
+Delete Event,លុបព្រឹត្តិការណ៍
+Delete Event?,លុបព្រឹត្តិការណ៍?
+Delete failed,ការលុបបានបរាជ័យ
+Delete file,លុបឯកសារ
+Delete item,លុបធាតុ
+Delete note,លុបកំណត់ចំណាំ
+Delete Project,លុបគម្រោង
+Delete Task,លុបភារកិច្ច
+Delete this project,លុបគម្រោងនេះ
+Deleted,បានលុប
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","បានលុបគម្រោង ""{0}"" ({1} ភារកិច្ច, {2} ព្រឹត្តិការណ៍សំខាន់)"
+Deletes notes and preferences. Source document is not affected.,លុបកំណត់ចំណាំ និងចំណូលចិត្ត។ ឯកសារប្រភពមិនត្រូវបានប៉ះពាល់ទេ។
+Deleting...,កំពុងលុប...
+Department,នាយកដ្ឋាន
+Dependencies,ភាពអាស្រ័យ
+dependencies,ភាពអាស្រ័យ
+Dependencies are informational only,ភាពអាស្រ័យគឺសម្រាប់ព័ត៌មានតែប៉ុណ្ណោះ
+dependency,ភាពអាស្រ័យ
+Dependency already exists,ភាពអាស្រ័យមានរួចហើយ
+Dependency Chain,ខ្សែសង្វាក់ភាពអាស្រ័យ
+Dependency created,ភាពអាស្រ័យត្រូវបានបង្កើត
+Dependency mode updated,របៀបភាពអាស្រ័យត្រូវបានធ្វើបច្ចុប្បន្នភាព
+Dependency name is required,ឈ្មោះភាពអាស្រ័យគឺចាំបាច់
+Dependency task {0} not found,រកមិនឃើញភារកិច្ចភាពអាស្រ័យ {0}
+Dependency {0} not found,រកមិនឃើញភាពអាស្រ័យ {0}
+depends,អាស្រ័យលើ
+Depends on Group,អាស្រ័យលើក្រុម
+Depends on task is required,ភារកិច្ចអាស្រ័យលើគឺចាំបាច់
+depends on...,អាស្រ័យលើ...
+Descending -- click to reverse,ចុះ -- ចុចដើម្បីបញ្ច្រាស
+Describe the defect in detail...,ពិពណ៌នាកំហុសដោយលម្អិត...
+Description,ការពិពណ៌នា
+Description updated,ការពិពណ៌នាត្រូវបានធ្វើបច្ចុប្បន្នភាព
+Designation,មុខតំណែង
+"Detailed description of the defect, location, and impact",ការពិពណ៌នាលម្អិតអំពីកំហុស ទីតាំង និងផលប៉ះពាល់
+Details,ព័ត៌មានលម្អិត
+Discard timer,បោះបង់កម្មវិធីកំណត់ពេល
+Discussion,ការពិភាក្សា
+Dismiss,Dismiss
+Display,ការបង្ហាញ
+Document,ឯកសារ
+Document attached to project,ឯកសារភ្ជាប់ទៅគម្រោង
+Document final decision and rationale,កត់ត្រាសេចក្ដីសម្រេចចុងក្រោយ និងហេតុផល
+Documentation Review,ការពិនិត្យឯកសារ
+Documents,ឯកសារនានា
+Done,រួចរាល់
+Download,ទាញយក
+Drag to create dependency,អូសដើម្បីបង្កើតភាពអាស្រ័យ
+Dry Run,ការសាកល្បង
+Dry Run Complete,ការសាកល្បងបានបញ្ចប់
+Due Date,កាលបរិច្ឆេទផុតកំណត់
+Due date,កាលបរិច្ឆេទផុតកំណត់
+Due Date (Earliest),កាលបរិច្ឆេទផុតកំណត់ (មុនគេ)
+Due date cannot be before start date,កាលបរិច្ឆេទផុតកំណត់មិនអាចមុនកាលបរិច្ឆេទចាប់ផ្ដើមបានទេ
+Due date is in the past,កាលបរិច្ឆេទផុតកំណត់គឺនៅពេលកន្លងមក
+Due Date Reminders,ការរំលឹកកាលបរិច្ឆេទផុតកំណត់
+Due Diligence,ការពិនិត្យឱ្យបានហ្មត់ចត់
+Due Diligence Checklist,បញ្ជីត្រួតពិនិត្យការពិនិត្យឱ្យបានហ្មត់ចត់
+Due This Week,ផុតកំណត់សប្ដាហ៍នេះ
+Due:,ផុតកំណត់:
+Duplicate events are not allowed,ព្រឹត្តិការណ៍ស្ទួនមិនត្រូវបានអនុញ្ញាតទេ
+Duplicate failed,ការចម្លងបានបរាជ័យ
+Duplicate Task,ចម្លងភារកិច្ច
+Duration,រយៈពេល
+Duration Summary,សង្ខេបរយៈពេល
+Duration:,រយៈពេល:
+e.g. Cracked wall finish in bathroom...,ឧ. ជញ្ជាំងបាក់ក្នុងបន្ទប់ទឹក...
+"e.g. Electrical, Plumbing...",ឧ. អគ្គិសនី បង្ហូរទឹក...
+Edit,កែប្រែ
+Edit (E),កែប្រែ (E)
+Edit dependency,កែប្រែភាពអាស្រ័យ
+Edit Event,កែប្រែព្រឹត្តិការណ៍
+Efficiency,ប្រសិទ្ធភាព
+Either dependency_name or depends_on is required,ត្រូវការ dependency_name ឬ depends_on
+Email,អ៊ីមែល
+Email invitations to all attendees,ផ្ញើអ៊ីមែលអញ្ជើញដល់អ្នកចូលរួមទាំងអស់
+Email is required to create portal user,អ៊ីមែលគឺចាំបាច់ដើម្បីបង្កើតអ្នកប្រើប្រាស់វិបផតថល
+Email notifications,ការជូនដំណឹងតាមអ៊ីមែល
+Employee,បុគ្គលិក
+Employee DocType not available,DocType បុគ្គលិកមិនមានទេ
+Employee not found,រកមិនឃើញបុគ្គលិក
+Enable or disable optional features,បើក ឬបិទមុខងារជម្រើស
+Enable Time Tracking,បើកការតាមដានពេលវេលា
+End,បញ្ចប់
+End Date,កាលបរិច្ឆេទបញ្ចប់
+End date,កាលបរិច្ឆេទបញ្ចប់
+End Date cannot be before Start Date,កាលបរិច្ឆេទបញ្ចប់មិនអាចមុនកាលបរិច្ឆេទចាប់ផ្ដើមបានទេ
+End date cannot be before start date,កាលបរិច្ឆេទបញ្ចប់មិនអាចមុនកាលបរិច្ឆេទចាប់ផ្ដើមបានទេ
+End date updated,កាលបរិច្ឆេទបញ្ចប់ត្រូវបានធ្វើបច្ចុប្បន្នភាព
+End time was before start time. Adjusted to 1 hour after start.,ពេលវេលាបញ្ចប់មុនពេលវេលាចាប់ផ្ដើម។ បានកែតម្រូវទៅ ១ ម៉ោងបន្ទាប់ពីចាប់ផ្ដើម។
+End:,បញ្ចប់:
+Enter milestone name...,បញ្ចូលឈ្មោះព្រឹត្តិការណ៍សំខាន់...
+Enter project name,បញ្ចូលឈ្មោះគម្រោង
+Enter task title...,បញ្ចូលចំណងជើងភារកិច្ច...
+Enter template name,បញ្ចូលឈ្មោះគំរូ
+Enter your note... Use @name to mention someone,បញ្ចូលកំណត់ចំណាំរបស់អ្នក... ប្រើ @name ដើម្បីលើកឡើងនរណាម្នាក់
+Error,កំហុស
+Error loading activity,កំហុសក្នុងការផ្ទុកសកម្មភាព
+Error loading contacts,កំហុសក្នុងការផ្ទុកទំនាក់ទំនង
+Error loading dashboard,កំហុសក្នុងការផ្ទុកផ្ទាំងគ្រប់គ្រង
+Error loading project,កំហុសក្នុងការផ្ទុកគម្រោង
+Error loading projects,កំហុសក្នុងការផ្ទុកគម្រោងនានា
+Error loading settings,កំហុសក្នុងការផ្ទុកការកំណត់
+Error loading tasks,កំហុសក្នុងការផ្ទុកភារកិច្ច
+Error loading templates,កំហុសក្នុងការផ្ទុកគំរូ
+Est. Hours,ម៉ោងប៉ាន់ស្មាន
+Estimated,បានប៉ាន់ស្មាន
+Estimated Cost,ថ្លៃដើមប៉ាន់ស្មាន
+Estimated Cost (€),ថ្លៃដើមប៉ាន់ស្មាន (€)
+Estimated Hours,ម៉ោងប៉ាន់ស្មាន
+Estimated:,ប៉ាន់ស្មាន:
+Evaluate potential risks and concerns,វាយតម្លៃហានិភ័យ និងការព្រួយបារម្ភដែលអាចកើតមាន
+Event,ព្រឹត្តិការណ៍
+Event is required for event context,ព្រឹត្តិការណ៍គឺចាំបាច់សម្រាប់បរិបទព្រឹត្តិការណ៍
+Event is required when tracking context is 'event',ព្រឹត្តិការណ៍គឺចាំបាច់នៅពេលបរិបទតាមដានគឺ 'event'
+Event Type,ប្រភេទព្រឹត្តិការណ៍
+Events,ព្រឹត្តិការណ៍នានា
+Events not available. Please run: bench --site orga.localhost migrate,ព្រឹត្តិការណ៍មិនមានទេ។ សូមដំណើរការ: bench --site orga.localhost migrate
+Events:,ព្រឹត្តិការណ៍:
+Expert,អ្នកជំនាញ
+Explain why you are proposing a different time...,ពន្យល់ពីមូលហេតុដែលអ្នកស្នើពេលវេលាផ្សេង...
+Export,នាំចេញ
+Export failed,ការនាំចេញបានបរាជ័យ
+Export JSON,នាំចេញ JSON
+Exported,បាននាំចេញ
+Exported to timesheet {0},បាននាំចេញទៅតារាងពេលវេលា {0}
+External,ខាងក្រៅ
+Failed to add item,បរាជ័យក្នុងការបន្ថែមធាតុ
+Failed to add note,បរាជ័យក្នុងការបន្ថែមកំណត់ចំណាំ
+Failed to add skill,បរាជ័យក្នុងការបន្ថែមជំនាញ
+Failed to apply cascade changes: {0},បរាជ័យក្នុងការអនុវត្តការផ្លាស់ប្ដូរបន្តបន្ទាប់: {0}
+Failed to create defect,បរាជ័យក្នុងការបង្កើតកំហុស
+Failed to create dependency,បរាជ័យក្នុងការបង្កើតភាពអាស្រ័យ
+Failed to create event,បរាជ័យក្នុងការបង្កើតព្រឹត្តិការណ៍
+Failed to create milestone,បរាជ័យក្នុងការបង្កើតព្រឹត្តិការណ៍សំខាន់
+Failed to create project,បរាជ័យក្នុងការបង្កើតគម្រោង
+Failed to create task,បរាជ័យក្នុងការបង្កើតភារកិច្ច
+Failed to create time log,បរាជ័យក្នុងការបង្កើតកំណត់ហេតុពេលវេលា
+Failed to delete,បរាជ័យក្នុងការលុប
+Failed to delete comment,បរាជ័យក្នុងការលុបមតិយោបល់
+Failed to delete contact,បរាជ័យក្នុងការលុបទំនាក់ទំនង
+Failed to load,បរាជ័យក្នុងការផ្ទុក
+Failed to load activity,បរាជ័យក្នុងការផ្ទុកសកម្មភាព
+Failed to load assignments,បរាជ័យក្នុងការផ្ទុកការចាត់តាំង
+Failed to load contact,បរាជ័យក្នុងការផ្ទុកទំនាក់ទំនង
+Failed to load dashboard data,បរាជ័យក្នុងការផ្ទុកទិន្នន័យផ្ទាំងគ្រប់គ្រង
+Failed to load defects,បរាជ័យក្នុងការផ្ទុកកំហុស
+Failed to load events,បរាជ័យក្នុងការផ្ទុកព្រឹត្តិការណ៍
+Failed to load project,បរាជ័យក្នុងការផ្ទុកគម្រោង
+Failed to load projects,បរាជ័យក្នុងការផ្ទុកគម្រោងនានា
+Failed to load report data,បរាជ័យក្នុងការផ្ទុកទិន្នន័យរបាយការណ៍
+Failed to load settings,បរាជ័យក្នុងការផ្ទុកការកំណត់
+Failed to load tasks,បរាជ័យក្នុងការផ្ទុកភារកិច្ច
+Failed to move task,បរាជ័យក្នុងការផ្លាស់ទីភារកិច្ច
+Failed to post comment,បរាជ័យក្នុងការបង្ហោះមតិយោបល់
+Failed to propose new time,បរាជ័យក្នុងការស្នើពេលវេលាថ្មី
+Failed to remove item,បរាជ័យក្នុងការដកធាតុ
+Failed to remove skill,បរាជ័យក្នុងការដកជំនាញ
+Failed to reorder milestones: {0},បរាជ័យក្នុងការរៀបចំព្រឹត្តិការណ៍សំខាន់ឡើងវិញ: {0}
+Failed to reorder tasks: {0},បរាជ័យក្នុងការរៀបចំភារកិច្ចឡើងវិញ: {0}
+Failed to reschedule dependent tasks: {0},បរាជ័យក្នុងការកំណត់កាលវិភាគភារកិច្ចអាស្រ័យឡើងវិញ: {0}
+Failed to save,បរាជ័យក្នុងការរក្សាទុក
+Failed to save preferences,បរាជ័យក្នុងការរក្សាទុកចំណូលចិត្ត
+Failed to save settings,បរាជ័យក្នុងការរក្សាទុកការកំណត់
+Failed to submit request. Please try again.,បរាជ័យក្នុងការដាក់ស្នើសំណើ។ សូមព្យាយាមម្ដងទៀត។
+Failed to update item,បរាជ័យក្នុងការធ្វើបច្ចុប្បន្នភាពធាតុ
+Failed to update priority,បរាជ័យក្នុងការធ្វើបច្ចុប្បន្នភាពអាទិភាព
+Failed to update task,បរាជ័យក្នុងការធ្វើបច្ចុប្បន្នភាពភារកិច្ច
+Failed to update tasks: {0},បរាជ័យក្នុងការធ្វើបច្ចុប្បន្នភាពភារកិច្ច: {0}
+Failed to upload avatar,បរាជ័យក្នុងការផ្ទុកឡើងរូបតំណាង
+Feature,មុខងារ
+Features,មុខងារនានា
+FF (Finish-Finish),FF (បញ្ចប់-បញ្ចប់)
+FF - Finish-to-Finish,FF - បញ្ចប់ទៅបញ្ចប់
+Field has been updated,វាលត្រូវបានធ្វើបច្ចុប្បន្នភាព
+Field name is required for 'Set Field Value' action,ឈ្មោះវាលគឺចាំបាច់សម្រាប់សកម្មភាព 'កំណត់តម្លៃវាល'
+Field {0} is not a Link field,វាល {0} មិនមែនជាវាលតំណទេ
+Field {0} not found in {1},រកមិនឃើញវាល {0} ក្នុង {1}
+file,ឯកសារ
+File,ឯកសារ
+File does not belong to this task,ឯកសារមិនមែនជារបស់ភារកិច្ចនេះទេ
+File name is required,ឈ្មោះឯកសារគឺចាំបាច់
+File uploaded,ឯកសារត្រូវបានផ្ទុកឡើង
+File {0} not found,រកមិនឃើញឯកសារ {0}
+files,ឯកសារ
+Files,ឯកសារនានា
+Filter,តម្រង
+Final Decision,សេចក្ដីសម្រេចចុងក្រោយ
+Finance,ហិរញ្ញវត្ថុ
+Financial,ហិរញ្ញវត្ថុ
+Finish-to-Finish,បញ្ចប់ទៅបញ្ចប់
+Finish-to-Start,បញ្ចប់ទៅចាប់ផ្ដើម
+Flag,ទង់សម្គាល់
+Flag for attention,សម្គាល់ដើម្បីយកចិត្តទុកដាក់
+Flagged,បានសម្គាល់
+Focus Panel,ផ្ទាំងផ្ដោត
+Follows your system preference. Currently:,ធ្វើតាមចំណូលចិត្តប្រព័ន្ធរបស់អ្នក។ បច្ចុប្បន្ន:
+Frappe Project {0} not found,រកមិនឃើញគម្រោង Frappe {0}
+Frappe Projects Migration,ការផ្លាស់ប្ដូរគម្រោង Frappe
+Frappe Projects module not available,ម៉ូឌុលគម្រោង Frappe មិនមានទេ
+Frappe Projects module not installed,ម៉ូឌុលគម្រោង Frappe មិនត្រូវបានដំឡើងទេ
+Frappe Projects sync is not enabled,ការធ្វើសមកាលកម្មគម្រោង Frappe មិនត្រូវបានបើកទេ
+Frappe Task DocType not found,រកមិនឃើញ DocType ភារកិច្ច Frappe
+Frappe Task has no project,ភារកិច្ច Frappe មិនមានគម្រោងទេ
+Frappe Task {0} not found,រកមិនឃើញភារកិច្ច Frappe {0}
+Fri,សុក្រ
+From,ពី
+From Template,ពីគំរូ
+FS (Finish-Start),FS (បញ្ចប់-ចាប់ផ្ដើម)
+FS - Finish-to-Start (default),FS - បញ្ចប់ទៅចាប់ផ្ដើម (លំនាំដើម)
+Full form view with audit trail,ទិដ្ឋភាពទម្រង់ពេញជាមួយផ្លូវសវនកម្ម
+Full name,ឈ្មោះពេញ
+Gantt,Gantt
+Gantt Chart,តារាង Gantt
+Gantt View,ទិដ្ឋភាព Gantt
+General Note,កំណត់ចំណាំទូទៅ
+Get started,ចាប់ផ្ដើម
+Go back,ត្រឡប់ក្រោយ
+Go Back,Go Back
+Group by,ដាក់ជាក្រុមតាម
+Group dependency removed,ភាពអាស្រ័យក្រុមត្រូវបានដកចេញ
+Group dependency set,ភាពអាស្រ័យក្រុមត្រូវបានកំណត់
+Group removed,ក្រុមត្រូវបានដកចេញ
+Group updated,ក្រុមត្រូវបានធ្វើបច្ចុប្បន្នភាព
+Hammock task dates are auto-calculated and cannot be changed manually,កាលបរិច្ឆេទភារកិច្ចព្យួរត្រូវបានគណនាស្វ័យប្រវត្តិ និងមិនអាចផ្លាស់ប្ដូរដោយដៃបានទេ
+Have a question or need assistance? Fill out the form below and our team will get back to you.,មានសំណួរ ឬត្រូវការជំនួយ? បំពេញទម្រង់ខាងក្រោម ហើយក្រុមរបស់យើងនឹងឆ្លើយតបទៅអ្នក។
+Health,សុខភាព
+Healthy,សុខភាពល្អ
+Hello {0},សួស្ដី {0}
+Here's what's happening with your projects today.,នេះគឺអ្វីដែលកំពុងកើតឡើងជាមួយគម្រោងរបស់អ្នកថ្ងៃនេះ។
+Hide,លាក់
+High,ខ្ពស់
+History,ប្រវត្តិ
+Home,ទំព័រដើម
+Hourly Cost,ថ្លៃដើមប្រចាំម៉ោង
+Hours,ម៉ោង
+hours,ម៉ោង
+Hours Logged,ម៉ោងដែលបានកត់ត្រា
+ID,លេខសម្គាល់
+Image must be smaller than 5 MB,រូបភាពត្រូវតែមានទំហំតិចជាង ៥ MB
+Import,នាំចូល
+Import existing projects and tasks from Frappe Projects module,នាំចូលគម្រោង និងភារកិច្ចដែលមានស្រាប់ពីម៉ូឌុលគម្រោង Frappe
+Import failed,ការនាំចូលបានបរាជ័យ
+Import Template,នាំចូលគំរូ
+Imported,បាននាំចូល
+in,ក្នុង
+In Progress,កំពុងដំណើរការ
+In Review,កំពុងពិនិត្យ
+In-app notifications,ការជូនដំណឹងក្នុងកម្មវិធី
+Inactive,អសកម្ម
+Initial Review,ការពិនិត្យដំបូង
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,សិទ្ធិមិនគ្រប់គ្រាន់ដើម្បីមើលភារកិច្ចទាំងអស់
+Intermediate,កម្រិតមធ្យម
+Internal,ខាងក្នុង
+Invalid DocType,DocType មិនត្រឹមត្រូវ
+Invalid DocType for import,DocType មិនត្រឹមត្រូវសម្រាប់នាំចូល
+Invalid item type: {0},ប្រភេទធាតុមិនត្រឹមត្រូវ: {0}
+Invalid JSON data,ទិន្នន័យ JSON មិនត្រឹមត្រូវ
+Invalid note type. Must be one of: {0},ប្រភេទកំណត់ចំណាំមិនត្រឹមត្រូវ។ ត្រូវតែជាមួយក្នុងចំណោម: {0}
+Invalid project reference,ឯកសារយោងគម្រោងមិនត្រឹមត្រូវ
+Invalid reaction type. Must be one of: {0},ប្រភេទប្រតិកម្មមិនត្រឹមត្រូវ។ ត្រូវតែជាមួយក្នុងចំណោម: {0}
+Invalid RSVP status,ស្ថានភាព RSVP មិនត្រឹមត្រូវ
+Invalid status. Must be one of: {0},ស្ថានភាពមិនត្រឹមត្រូវ។ ត្រូវតែជាមួយក្នុងចំណោម: {0}
+Invalid status: {0},ស្ថានភាពមិនត្រឹមត្រូវ: {0}
+Invalid status: {0}. Must be one of: {1},ស្ថានភាពមិនត្រឹមត្រូវ: {0}។ ត្រូវតែជាមួយក្នុងចំណោម: {1}
+Invalid tracking context: {0},បរិបទតាមដានមិនត្រឹមត្រូវ: {0}
+Invalid visibility. Must be one of: {0},ភាពមើលឃើញមិនត្រឹមត្រូវ។ ត្រូវតែជាមួយក្នុងចំណោម: {0}
+Invitation: {0} - {1} at {2},ការអញ្ជើញ: {0} - {1} នៅ {2}
+Invite People,អញ្ជើញមនុស្ស
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,ធាតុត្រូវបានបន្ថែម
+Item ID is required,លេខសម្គាល់ធាតុគឺចាំបាច់
+Item removed,ធាតុត្រូវបានដកចេញ
+Item type is required,ប្រភេទធាតុគឺចាំបាច់
+Item {0} not found,រកមិនឃើញធាតុ {0}
+Job title or role,មុខតំណែង ឬតួនាទី
+Join Meeting,ចូលរួមកិច្ចប្រជុំ
+Just now,ទើបតែឥឡូវ
+just now,ទើបតែឥឡូវ
+Kanban,Kanban
+Kanban Board,ក្ដារ Kanban
+Kanban View,ទិដ្ឋភាព Kanban
+Keyboard Shortcuts,ផ្លូវកាត់ក្ដារចុច
+Keyboard shortcuts (?),ផ្លូវកាត់ក្ដារចុច (?)
+Last checked: {0},Last checked: {0}
+Last Updated,បានធ្វើបច្ចុប្បន្នភាពចុងក្រោយ
+Last updated:,បានធ្វើបច្ចុប្បន្នភាពចុងក្រោយ:
+Last Week,សប្ដាហ៍មុន
+Latest Version,Latest Version
+Light,ភ្លឺ
+Link failed,ការភ្ជាប់បានបរាជ័យ
+Link Task,ភ្ជាប់ភារកិច្ច
+Linked,បានភ្ជាប់
+Linked employee not found,រកមិនឃើញបុគ្គលិកដែលបានភ្ជាប់
+Linked Tasks,ភារកិច្ចដែលបានភ្ជាប់
+List,បញ្ជី
+List View,ទិដ្ឋភាពបញ្ជី
+Load failed,ការផ្ទុកបានបរាជ័យ
+Load More,ផ្ទុកបន្ថែម
+Load more comments,ផ្ទុកមតិយោបល់បន្ថែម
+Loading activity...,កំពុងផ្ទុកសកម្មភាព...
+Loading changes...,កំពុងផ្ទុកការផ្លាស់ប្ដូរ...
+Loading checklist...,កំពុងផ្ទុកបញ្ជីត្រួតពិនិត្យ...
+Loading comments...,កំពុងផ្ទុកមតិយោបល់...
+Loading contact...,កំពុងផ្ទុកទំនាក់ទំនង...
+Loading contacts...,កំពុងផ្ទុកទំនាក់ទំនង...
+Loading dependencies...,កំពុងផ្ទុកភាពអាស្រ័យ...
+Loading details...,កំពុងផ្ទុកព័ត៌មានលម្អិត...
+Loading discussion...,កំពុងផ្ទុកការពិភាក្សា...
+Loading events...,កំពុងផ្ទុកព្រឹត្តិការណ៍...
+Loading files...,កំពុងផ្ទុកឯកសារ...
+Loading notes...,កំពុងផ្ទុកកំណត់ចំណាំ...
+Loading preferences...,កំពុងផ្ទុកចំណូលចិត្ត...
+Loading project...,កំពុងផ្ទុកគម្រោង...
+Loading projects...,កំពុងផ្ទុកគម្រោងនានា...
+Loading replies...,កំពុងផ្ទុកការឆ្លើយតប...
+Loading report data...,កំពុងផ្ទុកទិន្នន័យរបាយការណ៍...
+Loading settings...,កំពុងផ្ទុកការកំណត់...
+Loading task...,កំពុងផ្ទុកភារកិច្ច...
+Loading templates...,កំពុងផ្ទុកគំរូ...
+Loading time logs...,កំពុងផ្ទុកកំណត់ហេតុពេលវេលា...
+Loading your portal...,កំពុងផ្ទុកវិបផតថលរបស់អ្នក...
+Loading...,កំពុងផ្ទុក...
+Location,ទីតាំង
+Log Time,កត់ត្រាពេលវេលា
+Logout,ចាកចេញ
+Low,ទាប
+Make Offer,ធ្វើការផ្ដល់ជូន
+Manager,អ្នកគ្រប់គ្រង
+Manual Entry,បញ្ចូលដោយដៃ
+Margin,រឹម
+Mark all as read,សម្គាល់ទាំងអស់ថាបានអាន
+Mark all read,សម្គាល់ទាំងអស់ថាបានអាន
+Mark as read,សម្គាល់ថាបានអាន
+Mark as unread,សម្គាល់ថាមិនទាន់អាន
+Mark read,សម្គាល់ថាបានអាន
+Marking...,កំពុងសម្គាល់...
+Material,សម្ភារៈ
+Maybe,ប្រហែលជា
+Medium,មធ្យម
+Meeting,កិច្ចប្រជុំ
+Meeting Link,តំណកិច្ចប្រជុំ
+Meeting title,ចំណងជើងកិច្ចប្រជុំ
+Meeting URL,URL កិច្ចប្រជុំ
+Meetings,កិច្ចប្រជុំនានា
+Mention,ការលើកឡើង
+Message,សារ
+Message is required,សារគឺចាំបាច់
+Message is required for '{0}' action,សារគឺចាំបាច់សម្រាប់សកម្មភាព '{0}'
+Migrate,ផ្លាស់ប្ដូរ
+Migration Complete,ការផ្លាស់ប្ដូរបានបញ្ចប់
+Migration ID:,លេខសម្គាល់ការផ្លាស់ប្ដូរ:
+Migration log not found: {0},រកមិនឃើញកំណត់ហេតុការផ្លាស់ប្ដូរ: {0}
+milestone,ព្រឹត្តិការណ៍សំខាន់
+Milestone,ព្រឹត្តិការណ៍សំខាន់
+Milestone created,ព្រឹត្តិការណ៍សំខាន់ត្រូវបានបង្កើត
+Milestone description has been saved.,ការពិពណ៌នាព្រឹត្តិការណ៍សំខាន់ត្រូវបានរក្សាទុក។
+Milestone ID is required,លេខសម្គាល់ព្រឹត្តិការណ៍សំខាន់គឺចាំបាច់
+Milestone marked as Missed (past due date),ព្រឹត្តិការណ៍សំខាន់ត្រូវបានសម្គាល់ថាបានខកខាន (ផុតកាលបរិច្ឆេទកំណត់)
+Milestone moved,ព្រឹត្តិការណ៍សំខាន់ត្រូវបានផ្លាស់ទី
+Milestone Name,ឈ្មោះព្រឹត្តិការណ៍សំខាន់
+Milestone name has been saved.,ឈ្មោះព្រឹត្តិការណ៍សំខាន់ត្រូវបានរក្សាទុក។
+Milestone name is required,ឈ្មោះព្រឹត្តិការណ៍សំខាន់គឺចាំបាច់
+Milestone updated,ព្រឹត្តិការណ៍សំខាន់ត្រូវបានធ្វើបច្ចុប្បន្នភាព
+Milestone {0} not found,រកមិនឃើញព្រឹត្តិការណ៍សំខាន់ {0}
+Milestone {0} not in project {1},ព្រឹត្តិការណ៍សំខាន់ {0} មិនស្ថិតក្នុងគម្រោង {1}
+milestones,ព្រឹត្តិការណ៍សំខាន់
+Milestones,ព្រឹត្តិការណ៍សំខាន់នានា
+Milestones:,ព្រឹត្តិការណ៍សំខាន់:
+Minutes,នាទី
+Missed,បានខកខាន
+Mixed,ចម្រុះ
+Mobile,ទូរសព្ទ
+Moderate,មធ្យម
+Modified,បានកែប្រែ
+"Modify details, time, or attendees",កែប្រែព័ត៌មានលម្អិត ពេលវេលា ឬអ្នកចូលរួម
+Mon,ចន្ទ
+Month,ខែ
+Move failed,ការផ្លាស់ទីបានបរាជ័យ
+Must be a positive number,ត្រូវតែជាលេខវិជ្ជមាន
+Must finish before this finishes,ត្រូវបញ្ចប់មុនពេលនេះបញ្ចប់
+Must finish before this starts,ត្រូវបញ្ចប់មុនពេលនេះចាប់ផ្ដើម
+Must start before this finishes,ត្រូវចាប់ផ្ដើមមុនពេលនេះបញ្ចប់
+Must start before this starts,ត្រូវចាប់ផ្ដើមមុនពេលនេះចាប់ផ្ដើម
+My Assignments,ការចាត់តាំងរបស់ខ្ញុំ
+My Projects,គម្រោងរបស់ខ្ញុំ
+My Schedule,កាលវិភាគរបស់ខ្ញុំ
+My Tasks,ភារកិច្ចរបស់ខ្ញុំ
+N/A,មិនអនុវត្ត
+Name,ឈ្មោះ
+Name (A-Z),ឈ្មោះ (A-Z)
+Name (Z-A),ឈ្មោះ (Z-A)
+Name cannot exceed 255 characters,ឈ្មោះមិនអាចលើស ២៥៥ តួអក្សរបានទេ
+Need help?,ត្រូវការជំនួយ?
+Needs Attention,ត្រូវការការយកចិត្តទុកដាក់
+Never,Never
+new activities,សកម្មភាពថ្មី
+New Activity,សកម្មភាពថ្មី
+New activity,សកម្មភាពថ្មី
+New Event,ព្រឹត្តិការណ៍ថ្មី
+New index is required,សន្ទស្សន៍ថ្មីគឺចាំបាច់
+New Project,គម្រោងថ្មី
+New tasks will auto-trail by default.,ភារកិច្ចថ្មីនឹងតាមដានស្វ័យប្រវត្តិតាមលំនាំដើម។
+Newest First,ថ្មីបំផុតមុន
+Next,បន្ទាប់
+Next 14 days,១៤ ថ្ងៃបន្ទាប់
+Next 30 days,៣០ ថ្ងៃបន្ទាប់
+Next 60 days,៦០ ថ្ងៃបន្ទាប់
+Next 7 days,៧ ថ្ងៃបន្ទាប់
+Next 90 days,៩០ ថ្ងៃបន្ទាប់
+Next Week,សប្ដាហ៍ក្រោយ
+Next:,បន្ទាប់:
+No,ទេ
+No active assignments,គ្មានការចាត់តាំងសកម្មទេ
+No active projects,គ្មានគម្រោងសកម្មទេ
+No active timer found,រកមិនឃើញកម្មវិធីកំណត់ពេលសកម្ម
+No activity selected,គ្មានសកម្មភាពត្រូវបានជ្រើសរើសទេ
+No assignments found,រកមិនឃើញការចាត់តាំង
+No attendees,គ្មានអ្នកចូលរួម
+no change,គ្មានការផ្លាស់ប្ដូរ
+No changes for this field.,គ្មានការផ្លាស់ប្ដូរសម្រាប់វាលនេះ។
+No changes recorded for this activity.,គ្មានការផ្លាស់ប្ដូរត្រូវបានកត់ត្រាសម្រាប់សកម្មភាពនេះ។
+No checklist items yet,មិនទាន់មានធាតុបញ្ជីត្រួតពិនិត្យនៅឡើយ
+No checklist items yet.,មិនទាន់មានធាតុបញ្ជីត្រួតពិនិត្យនៅឡើយ។
+No comments yet,មិនទាន់មានមតិយោបល់នៅឡើយ
+No comments yet.,មិនទាន់មានមតិយោបល់នៅឡើយ។
+No contacts available,គ្មានទំនាក់ទំនងមានទេ
+No content for this tab,គ្មានខ្លឹមសារសម្រាប់ផ្ទាំងនេះ
+No data available,គ្មានទិន្នន័យមានទេ
+No data available for the selected filters,គ្មានទិន្នន័យមានសម្រាប់តម្រងដែលបានជ្រើសរើស
+No data to export,គ្មានទិន្នន័យដើម្បីនាំចេញ
+No dates set,មិនបានកំណត់កាលបរិច្ឆេទ
+No defects reported,គ្មានកំហុសត្រូវបានរាយការណ៍
+No dependencies defined,គ្មានភាពអាស្រ័យត្រូវបានកំណត់
+No description,គ្មានការពិពណ៌នា
+No discussion yet.,មិនទាន់មានការពិភាក្សានៅឡើយ។
+No documents attached,គ្មានឯកសារភ្ជាប់
+No due date,គ្មានកាលបរិច្ឆេទផុតកំណត់
+No employee linked to this resource,គ្មានបុគ្គលិកភ្ជាប់ទៅធនធាននេះ
+No ERPNext employee linked to resource,គ្មានបុគ្គលិក ERPNext ភ្ជាប់ទៅធនធាន
+No events found,រកមិនឃើញព្រឹត្តិការណ៍
+No files attached yet.,មិនទាន់មានឯកសារភ្ជាប់នៅឡើយ។
+No Frappe Project linked,គ្មានគម្រោង Frappe បានភ្ជាប់
+No Grouping,គ្មានការដាក់ជាក្រុម
+No items,គ្មានធាតុ
+No matching tasks,គ្មានភារកិច្ចដែលត្រូវគ្នា
+No matching tasks found,រកមិនឃើញភារកិច្ចដែលត្រូវគ្នា
+No migration history,គ្មានប្រវត្តិការផ្លាស់ប្ដូរ
+No Milestone,គ្មានព្រឹត្តិការណ៍សំខាន់
+No milestones,គ្មានព្រឹត្តិការណ៍សំខាន់
+No milestones defined for this project.,គ្មានព្រឹត្តិការណ៍សំខាន់ត្រូវបានកំណត់សម្រាប់គម្រោងនេះ។
+No notes yet.,មិនទាន់មានកំណត់ចំណាំនៅឡើយ។
+No notes yet. Add a due diligence note to track progress.,មិនទាន់មានកំណត់ចំណាំនៅឡើយ។ បន្ថែមកំណត់ចំណាំការពិនិត្យឱ្យបានហ្មត់ចត់ដើម្បីតាមដានវឌ្ឍនភាព។
+No notifications,គ្មានការជូនដំណឹង
+No Orga Project linked to Frappe Project {0},គ្មានគម្រោង Orga ភ្ជាប់ទៅគម្រោង Frappe {0}
+No overdue tasks,គ្មានភារកិច្ចផុតកំណត់
+No pending cascade changes,គ្មានការផ្លាស់ប្ដូរបន្តបន្ទាប់ដែលកំពុងរង់ចាំ
+No predecessors - this task can start independently,គ្មានកិច្ចការមុន - ភារកិច្ចនេះអាចចាប់ផ្ដើមដោយឯករាជ្យ
+No project,គ្មានគម្រោង
+No projects found,រកមិនឃើញគម្រោង
+No Projects Yet,មិនទាន់មានគម្រោងនៅឡើយ
+No recent activity,គ្មានសកម្មភាពថ្មីៗ
+No related documents,គ្មានឯកសារពាក់ព័ន្ធ
+No resolved threads.,គ្មានខ្សែបន្ទាត់ដែលបានដោះស្រាយ។
+No resources found,រកមិនឃើញធនធាន
+No results found,រកមិនឃើញលទ្ធផល
+No skills listed,គ្មានជំនាញត្រូវបានរាយ
+No skills recorded yet,មិនទាន់មានជំនាញត្រូវបានកត់ត្រានៅឡើយ
+No successors - no tasks are waiting for this one,គ្មានកិច្ចការបន្ទាប់ - គ្មានភារកិច្ចកំពុងរង់ចាំភារកិច្ចនេះ
+No task selected,គ្មានភារកិច្ចត្រូវបានជ្រើសរើស
+No tasks assigned to you,គ្មានភារកិច្ចត្រូវបានចាត់តាំងឱ្យអ្នក
+No tasks available to add,គ្មានភារកិច្ចមានដើម្បីបន្ថែម
+No tasks found,រកមិនឃើញភារកិច្ច
+No tasks linked to this milestone,គ្មានភារកិច្ចភ្ជាប់ទៅព្រឹត្តិការណ៍សំខាន់នេះ
+No tasks with dates to display,គ្មានភារកិច្ចដែលមានកាលបរិច្ឆេទដើម្បីបង្ហាញ
+No tasks yet,មិនទាន់មានភារកិច្ចនៅឡើយ
+No team members,គ្មានសមាជិកក្រុម
+No template,គ្មានគំរូ
+No templates yet,មិនទាន់មានគំរូនៅឡើយ
+No time data found,រកមិនឃើញទិន្នន័យពេលវេលា
+No time logged today,គ្មានពេលវេលាត្រូវបានកត់ត្រាថ្ងៃនេះ
+No time logged yet,មិនទាន់មានពេលវេលាត្រូវបានកត់ត្រានៅឡើយ
+No time logs for this period,គ្មានកំណត់ហេតុពេលវេលាសម្រាប់រយៈពេលនេះ
+No time logs found,រកមិនឃើញកំណត់ហេតុពេលវេលា
+No unread notifications,គ្មានការជូនដំណឹងដែលមិនទាន់អាន
+No update information available yet.,No update information available yet.
+None,គ្មាន
+Not found,រកមិនឃើញ
+Not permitted,មិនត្រូវបានអនុញ្ញាត
+Not permitted to access this project,មិនត្រូវបានអនុញ្ញាតឱ្យចូលប្រើគម្រោងនេះ
+Not permitted to access this task,មិនត្រូវបានអនុញ្ញាតឱ្យចូលប្រើភារកិច្ចនេះ
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,មិនត្រូវបានអនុញ្ញាតឱ្យបញ្ចេញមតិយោបល់លើឯកសារនេះ
+Not permitted to create clients,មិនត្រូវបានអនុញ្ញាតឱ្យបង្កើតអតិថិជន
+Not permitted to delete this client,មិនត្រូវបានអនុញ្ញាតឱ្យលុបអតិថិជននេះ
+Not permitted to delete this defect,មិនត្រូវបានអនុញ្ញាតឱ្យលុបកំហុសនេះ
+Not permitted to delete this note,មិនត្រូវបានអនុញ្ញាតឱ្យលុបកំណត់ចំណាំនេះ
+Not permitted to delete this project,មិនត្រូវបានអនុញ្ញាតឱ្យលុបគម្រោងនេះ
+Not permitted to delete this task,មិនត្រូវបានអនុញ្ញាតឱ្យលុបភារកិច្ចនេះ
+Not permitted to delete this time log,មិនត្រូវបានអនុញ្ញាតឱ្យលុបកំណត់ហេតុពេលវេលានេះ
+Not permitted to invite clients,មិនត្រូវបានអនុញ្ញាតឱ្យអញ្ជើញអតិថិជន
+Not permitted to modify client access,មិនត្រូវបានអនុញ្ញាតឱ្យកែប្រែសិទ្ធិចូលប្រើអតិថិជន
+Not permitted to modify this project,មិនត្រូវបានអនុញ្ញាតឱ្យកែប្រែគម្រោងនេះ
+Not permitted to update settings,មិនត្រូវបានអនុញ្ញាតឱ្យធ្វើបច្ចុប្បន្នភាពការកំណត់
+Not permitted to update this client,មិនត្រូវបានអនុញ្ញាតឱ្យធ្វើបច្ចុប្បន្នភាពអតិថិជននេះ
+Not permitted to view this client,មិនត្រូវបានអនុញ្ញាតឱ្យមើលអតិថិជននេះ
+not sent,មិនបានផ្ញើ
+Not set,មិនបានកំណត់
+Not specified,មិនបានបញ្ជាក់
+Note,កំណត់ចំណាំ
+Note (optional),កំណត់ចំណាំ (ស្រេចចិត្ត)
+Note Content,ខ្លឹមសារកំណត់ចំណាំ
+Note content is required,ខ្លឹមសារកំណត់ចំណាំគឺចាំបាច់
+Note name is required,ឈ្មោះកំណត់ចំណាំគឺចាំបាច់
+Note not found,រកមិនឃើញកំណត់ចំណាំ
+Note Type,ប្រភេទកំណត់ចំណាំ
+Notes,កំណត់ចំណាំនានា
+Notification,ការជូនដំណឹង
+Notification not found,រកមិនឃើញការជូនដំណឹង
+Notifications,ការជូនដំណឹងនានា
+Off Track,រសាត់ចេញពីផែនការ
+Offer,ការផ្ដល់ជូន
+Offer Prepared,ការផ្ដល់ជូនត្រូវបានរៀបចំ
+Oldest First,ចាស់បំផុតមុន
+On Hold,ព្យួរ
+On Leave,ឈប់សម្រាក
+On Track,ដំណើរការល្អ
+On-Time Rate,អត្រាទាន់ពេល
+Only administrators can delete activities,មានតែអ្នកគ្រប់គ្រងប្រព័ន្ធទេដែលអាចលុបសកម្មភាព
+Only the comment author or administrators can delete comments,មានតែអ្នកនិពន្ធមតិយោបល់ ឬអ្នកគ្រប់គ្រងប្រព័ន្ធទេដែលអាចលុបមតិយោបល់
+Only you and admins,មានតែអ្នក និងអ្នកគ្រប់គ្រង
+Open,បើក
+Open in Desk,បើកក្នុង Desk
+Open Task Log,បើកកំណត់ហេតុភារកិច្ច
+Open Tasks,ភារកិច្ចដែលបើក
+Optional,ស្រេចចិត្ត
+optional,ស្រេចចិត្ត
+Or email us directly at,ឬផ្ញើអ៊ីមែលមកយើងដោយផ្ទាល់តាម
+Orga Project {0} from Frappe Projects,គម្រោង Orga {0} ពីគម្រោង Frappe
+Orga Task {0} from Frappe,ភារកិច្ច Orga {0} ពី Frappe
+Organizer,អ្នករៀបចំ
+Other,ផ្សេងទៀត
+Over Budget,លើសថវិកា
+Overall Progress,វឌ្ឍនភាពសរុប
+Overall Utilization,ការប្រើប្រាស់សរុប
+Overallocated,បែងចែកលើស
+Overdue,ផុតកំណត់
+overdue,ផុតកំណត់
+Overdue Tasks,ភារកិច្ចផុតកំណត់
+Overview,ទិដ្ឋភាពទូទៅ
+Owner,ម្ចាស់
+Page Not Found,រកមិនឃើញទំព័រ
+Parent,មេ
+Parent comment must belong to the same document,មតិយោបល់មេត្រូវតែជារបស់ឯកសារតែមួយ
+Parent comment not found,រកមិនឃើញមតិយោបល់មេ
+Parent project not synced to Frappe yet,គម្រោងមេមិនទាន់បានធ្វើសមកាលកម្មទៅ Frappe នៅឡើយ
+Parent project sync not enabled,ការធ្វើសមកាលកម្មគម្រោងមេមិនត្រូវបានបើក
+Partner,ដៃគូ
+Pending,កំពុងរង់ចាំ
+per page,ក្នុងមួយទំព័រ
+Perform initial assessment and background check,អនុវត្តការវាយតម្លៃដំបូង និងការផ្ទៀងផ្ទាត់ប្រវត្តិ
+Permanently remove this event,ដកចេញព្រឹត្តិការណ៍នេះជាអចិន្ត្រៃយ៍
+Permanently remove this task,ដកចេញភារកិច្ចនេះជាអចិន្ត្រៃយ៍
+Phone,ទូរសព្ទ
+Pin,ខ្ទាស
+Pin Activity,ខ្ទាសសកម្មភាព
+Pin to top,ខ្ទាសនៅកំពូល
+Pinned,បានខ្ទាស
+Planned budget for this task,ថវិកាដែលបានគ្រោងសម្រាប់ភារកិច្ចនេះ
+Planning,ការធ្វើផែនការ
+Please describe your question or issue in detail...,សូមពិពណ៌នាសំណួរ ឬបញ្ហារបស់អ្នកដោយលម្អិត...
+Please login to access Orga,សូមចូលដើម្បីចូលប្រើ Orga
+Please login to access the client portal,សូមចូលដើម្បីចូលប្រើវិបផតថលអតិថិជន
+Please respond to this invitation in Orga,សូមឆ្លើយតបទៅការអញ្ជើញនេះក្នុង Orga
+Please select an image file,សូមជ្រើសរើសឯកសាររូបភាព
+Please try again,សូមព្យាយាមម្ដងទៀត
+Please type,សូមវាយ
+Portal,វិបផតថល
+Portal access revoked for {0},សិទ្ធិចូលប្រើវិបផតថលត្រូវបានដកហូតសម្រាប់ {0}
+Portal user created successfully. Welcome email {0},អ្នកប្រើប្រាស់វិបផតថលត្រូវបានបង្កើតដោយជោគជ័យ។ អ៊ីមែលស្វាគមន៍ {0}
+Post,បង្ហោះ
+Powered by,ដំណើរការដោយ
+Powered by Tonic,ដំណើរការដោយ Tonic
+Predecessors (Blocked By),កិច្ចការមុន (ត្រូវបានទប់ស្កាត់ដោយ)
+Preferences,ចំណូលចិត្ត
+Preferences saved successfully,ចំណូលចិត្តត្រូវបានរក្សាទុកដោយជោគជ័យ
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",បុព្វបទសម្រាប់កូដគម្រោងស្វ័យប្រវត្តិ (ឧ. ORG-2026-0001)
+Prepare and document offer terms,រៀបចំ និងកត់ត្រាលក្ខខណ្ឌផ្ដល់ជូន
+Press,ចុច
+Preview,មើលជាមុន
+Preview cascade before applying,មើលជាមុនបន្តបន្ទាប់មុនពេលអនុវត្ត
+Previous,មុន
+Priority,អាទិភាព
+Priority assigned to new tasks,អាទិភាពដែលបានចាត់តាំងទៅភារកិច្ចថ្មី
+Priority updated,អាទិភាពត្រូវបានធ្វើបច្ចុប្បន្នភាព
+Proficiency,ជំនាញ
+Profile,ប្រវត្តិរូប
+Progress,វឌ្ឍនភាព
+Progress (High-Low),វឌ្ឍនភាព (ខ្ពស់-ទាប)
+Progress (Low-High),វឌ្ឍនភាព (ទាប-ខ្ពស់)
+Progress Overview,ទិដ្ឋភាពទូទៅនៃវឌ្ឍនភាព
+Progress updated,វឌ្ឍនភាពត្រូវបានធ្វើបច្ចុប្បន្នភាព
+Project,គម្រោង
+Project budget has been saved.,ថវិកាគម្រោងត្រូវបានរក្សាទុក។
+Project code (e.g. ORG-2026-0001),កូដគម្រោង (ឧ. ORG-2026-0001)
+Project Code Prefix,បុព្វបទកូដគម្រោង
+Project created,គម្រោងត្រូវបានបង្កើត
+Project deleted,គម្រោងត្រូវបានលុប
+Project description has been saved.,ការពិពណ៌នាគម្រោងត្រូវបានរក្សាទុក។
+Project Details,ព័ត៌មានលម្អិតគម្រោង
+Project end date has been saved.,កាលបរិច្ឆេទបញ្ចប់គម្រោងត្រូវបានរក្សាទុក។
+Project Files,ឯកសារគម្រោង
+Project has no linked client,គម្រោងមិនមានអតិថិជនភ្ជាប់ទេ
+Project Health,សុខភាពគម្រោង
+Project Info,ព័ត៌មានគម្រោង
+Project is required,គម្រោងគឺចាំបាច់
+Project is required for project context,គម្រោងគឺចាំបាច់សម្រាប់បរិបទគម្រោង
+Project is required when tracking context is 'project',គម្រោងគឺចាំបាច់នៅពេលបរិបទតាមដានគឺ 'project'
+Project Manager,អ្នកគ្រប់គ្រងគម្រោង
+Project Name,ឈ្មោះគម្រោង
+Project name and template name are required,ឈ្មោះគម្រោង និងឈ្មោះគំរូគឺចាំបាច់
+Project name is required,ឈ្មោះគម្រោងគឺចាំបាច់
+Project not found,រកមិនឃើញគម្រោង
+Project not found or you do not have access,រកមិនឃើញគម្រោង ឬអ្នកមិនមានសិទ្ធិចូលប្រើ
+Project settings,ការកំណត់គម្រោង
+Project start date has been saved.,កាលបរិច្ឆេទចាប់ផ្ដើមគម្រោងត្រូវបានរក្សាទុក។
+Project title has been saved.,ចំណងជើងគម្រោងត្រូវបានរក្សាទុក។
+Project Type,ប្រភេទគម្រោង
+Project updated,គម្រោងត្រូវបានធ្វើបច្ចុប្បន្នភាព
+Project {0} linked to client {1},គម្រោង {0} ភ្ជាប់ទៅអតិថិជន {1}
+Project {0} not found,រកមិនឃើញគម្រោង {0}
+Project {0} to Frappe Projects,គម្រោង {0} ទៅគម្រោង Frappe
+Project:,គម្រោង:
+projects,គម្រោង
+Projects,គម្រោងនានា
+Projects created:,គម្រោងដែលបានបង្កើត:
+Projects Overview,ទិដ្ឋភាពទូទៅគម្រោង
+Projects skipped:,គម្រោងដែលបានរំលង:
+Projects updated:,គម្រោងដែលបានធ្វើបច្ចុប្បន្នភាព:
+Promote failed,ការដំឡើងបានបរាជ័យ
+Promote to task,ដំឡើងទៅភារកិច្ច
+Promoted to task,បានដំឡើងទៅភារកិច្ច
+Propose,ស្នើ
+Propose New Time,ស្នើពេលវេលាថ្មី
+Propose Time,ស្នើពេលវេលា
+Proposed End,ការបញ្ចប់ដែលបានស្នើ
+Proposed Start,ការចាប់ផ្ដើមដែលបានស្នើ
+Public,សាធារណៈ
+Quick Action,សកម្មភាពរហ័ស
+Quick Actions,សកម្មភាពរហ័សនានា
+Quick Stats,ស្ថិតិរហ័ស
+Rates,អត្រា
+Receive notifications via email,ទទួលការជូនដំណឹងតាមអ៊ីមែល
+Receive notifications within the application,ទទួលការជូនដំណឹងក្នុងកម្មវិធី
+Recent Activity,សកម្មភាពថ្មីៗ
+Recipient {0} is not a valid user,អ្នកទទួល {0} មិនមែនជាអ្នកប្រើប្រាស់ត្រឹមត្រូវទេ
+Reference,ឯកសារយោង
+Refresh,ផ្ទុកឡើងវិញ
+Related,ពាក់ព័ន្ធ
+Related Company (optional),ក្រុមហ៊ុនពាក់ព័ន្ធ (ស្រេចចិត្ត)
+Related Documents,ឯកសារពាក់ព័ន្ធ
+Related Project,គម្រោងពាក់ព័ន្ធ
+Remaining,នៅសល់
+Reminder,ការរំលឹក
+Reminder Lead Time,ពេលវេលាមុនការរំលឹក
+Reminder: {0} - {1} at {2},ការរំលឹក: {0} - {1} នៅ {2}
+Remove,ដកចេញ
+Remove dependency,ដកចេញភាពអាស្រ័យ
+Remove dependency on,ដកចេញភាពអាស្រ័យលើ
+Remove from group,ដកចេញពីក្រុម
+Remove group dependency,ដកចេញភាពអាស្រ័យក្រុម
+Remove skill,ដកចេញជំនាញ
+Reopen,បើកឡើងវិញ
+Reopen thread,បើកខ្សែបន្ទាត់ឡើងវិញ
+reopened,បានបើកឡើងវិញ
+replies,ការឆ្លើយតប
+Reply,ឆ្លើយតប
+reply,ឆ្លើយតប
+Replying to,កំពុងឆ្លើយតបទៅ
+Replying to comment,កំពុងឆ្លើយតបទៅមតិយោបល់
+Report Defect,រាយការណ៍កំហុស
+Reported Date,កាលបរិច្ឆេទរាយការណ៍
+Reports,របាយការណ៍នានា
+Reports To,រាយការណ៍ទៅ
+Request Submitted!,សំណើត្រូវបានដាក់ស្នើ!
+Required,ចាំបាច់
+required,ចាំបាច់
+Research,ការស្រាវជ្រាវ
+Reset to Defaults,កំណត់ឡើងវិញទៅលំនាំដើម
+Resolve,ដោះស្រាយ
+Resolve thread,ដោះស្រាយខ្សែបន្ទាត់
+Resolved,បានដោះស្រាយ
+Resolved date cannot be before reported date,កាលបរិច្ឆេទដោះស្រាយមិនអាចមុនកាលបរិច្ឆេទរាយការណ៍បានទេ
+Resource,ធនធាន
+Resource and skill name are required,ធនធាន និងឈ្មោះជំនាញគឺចាំបាច់
+Resource is already an attendee,ធនធានជាអ្នកចូលរួមរួចហើយ
+Resource name is required,ឈ្មោះធនធានគឺចាំបាច់
+Resource not found,រកមិនឃើញធនធាន
+Resource synced from employee {0},ធនធានត្រូវបានធ្វើសមកាលកម្មពីបុគ្គលិក {0}
+Resource {0} is already assigned to this task ({1}),ធនធាន {0} ត្រូវបានចាត់តាំងទៅភារកិច្ចនេះរួចហើយ ({1})
+Resource {0} not found,រកមិនឃើញធនធាន {0}
+Resources,ធនធាននានា
+Retry,ព្យាយាមម្ដងទៀត
+Review,ពិនិត្យ
+Review all relevant documents and contracts,ពិនិត្យឯកសារ និងកិច្ចសន្យាពាក់ព័ន្ធទាំងអស់
+Reviews,ការពិនិត្យនានា
+Risk Assessment,ការវាយតម្លៃហានិភ័យ
+Rollback,ត្រឡប់ក្រោយ
+Rolled back,បានត្រឡប់ក្រោយ
+Room or address,បន្ទប់ ឬអាសយដ្ឋាន
+RSVP,RSVP
+Safety,សុវត្ថិភាព
+Sat,សៅរ៍
+Save,រក្សាទុក
+"Save a project as a template, or import one from a JSON file.",រក្សាទុកគម្រោងជាគំរូ ឬនាំចូលមួយពីឯកសារ JSON។
+Save as Template,រក្សាទុកជាគំរូ
+Save Changes,រក្សាទុកការផ្លាស់ប្ដូរ
+Save failed,ការរក្សាទុកបានបរាជ័យ
+Save Preferences,រក្សាទុកចំណូលចិត្ត
+Save Template,រក្សាទុកគំរូ
+Saving...,កំពុងរក្សាទុក...
+Schedule,កាលវិភាគ
+Schedule type is required for scheduled triggers,ប្រភេទកាលវិភាគគឺចាំបាច់សម្រាប់កម្មវិធីកំណត់ពេលកំណត់
+Scheduled,បានកំណត់កាលវិភាគ
+Search,ស្វែងរក
+"Search by name, email, or skill...",ស្វែងរកតាមឈ្មោះ អ៊ីមែល ឬជំនាញ...
+Search for a project...,ស្វែងរកគម្រោង...
+Search for a task...,ស្វែងរកភារកិច្ច...
+Search for an event...,ស្វែងរកព្រឹត្តិការណ៍...
+Search for people to invite...,ស្វែងរកមនុស្សដើម្បីអញ្ជើញ...
+Search tasks to link...,ស្វែងរកភារកិច្ចដើម្បីភ្ជាប់...
+Search tasks...,ស្វែងរកភារកិច្ច...
+Search...,ស្វែងរក...
+Searching...,កំពុងស្វែងរក...
+Seen,បានឃើញ
+Select a project if your request is related to a specific project.,ជ្រើសរើសគម្រោងប្រសិនបើសំណើរបស់អ្នកទាក់ទងនឹងគម្រោងជាក់លាក់។
+Select a project...,ជ្រើសរើសគម្រោង...
+Select a task from the Gantt chart to view and manage its details.,ជ្រើសរើសភារកិច្ចពីតារាង Gantt ដើម្បីមើល និងគ្រប់គ្រងព័ត៌មានលម្អិត។
+Select a task from the list or Kanban board to view and manage its details.,ជ្រើសរើសភារកិច្ចពីបញ្ជី ឬក្ដារ Kanban ដើម្បីមើល និងគ្រប់គ្រងព័ត៌មានលម្អិត។
+Select a template...,ជ្រើសរើសគំរូ...
+Select priority...,ជ្រើសរើសអាទិភាព...
+Select status...,ជ្រើសរើសស្ថានភាព...
+Select task...,ជ្រើសរើសភារកិច្ច...
+Select type...,ជ្រើសរើសប្រភេទ...
+Selection,ការជ្រើសរើស
+Send,ផ្ញើ
+Send comment,ផ្ញើមតិយោបល់
+Send email invitations to attendees,ផ្ញើអ៊ីមែលអញ្ជើញដល់អ្នកចូលរួម
+Send Invitations,ផ្ញើការអញ្ជើញ
+Send notification when a task is assigned to a user,ផ្ញើការជូនដំណឹងពេលភារកិច្ចត្រូវបានចាត់តាំងឱ្យអ្នកប្រើប្រាស់
+Send notification when task status changes,ផ្ញើការជូនដំណឹងពេលស្ថានភាពភារកិច្ចផ្លាស់ប្ដូរ
+Send reminder before task due date,ផ្ញើការរំលឹកមុនកាលបរិច្ឆេទផុតកំណត់ភារកិច្ច
+sent,បានផ្ញើ
+Set rate,កំណត់អត្រា
+Settings,ការកំណត់
+Settings saved successfully,ការកំណត់ត្រូវបានរក្សាទុកដោយជោគជ័យ
+Severity,ភាពធ្ងន់ធ្ងរ
+SF (Start-Finish),SF (ចាប់ផ្ដើម-បញ្ចប់)
+SF - Start-to-Finish,SF - ចាប់ផ្ដើមទៅបញ្ចប់
+Show,បង្ហាញ
+Show all,បង្ហាញទាំងអស់
+Show all changes,បង្ហាញការផ្លាស់ប្ដូរទាំងអស់
+Show Archived,បង្ហាញបានរក្សាទុក
+Show full diff,បង្ហាញភាពខុសគ្នាពេញលេញ
+Show less,បង្ហាញតិច
+Show more,បង្ហាញបន្ថែម
+Skill added,ជំនាញត្រូវបានបន្ថែម
+Skill is required,ជំនាញគឺចាំបាច់
+Skill Name,ឈ្មោះជំនាញ
+Skill removed,ជំនាញត្រូវបានដកចេញ
+Skill {0} already exists for this resource,ជំនាញ {0} មានរួចហើយសម្រាប់ធនធាននេះ
+Skills,ជំនាញនានា
+Skills & Competencies,ជំនាញ និងសមត្ថភាព
+Skip already migrated projects,រំលងគម្រោងដែលបានផ្លាស់ប្ដូររួចហើយ
+Sort by,តម្រៀបតាម
+Sort: Due Date,តម្រៀប: កាលបរិច្ឆេទផុតកំណត់
+Sort: Priority,តម្រៀប: អាទិភាព
+Sort: Project,តម្រៀប: គម្រោង
+Sort: Status,តម្រៀប: ស្ថានភាព
+Sort: Task,តម្រៀប: ភារកិច្ច
+Source Code,កូដប្រភព
+Spent,បានចំណាយ
+Spent:,បានចំណាយ:
+SS (Start-Start),SS (ចាប់ផ្ដើម-ចាប់ផ្ដើម)
+SS - Start-to-Start,SS - ចាប់ផ្ដើមទៅចាប់ផ្ដើម
+Standalone,ឯករាជ្យ
+Start,ចាប់ផ្ដើម
+Start a discussion below,ចាប់ផ្ដើមការពិភាក្សាខាងក្រោម
+Start Date,កាលបរិច្ឆេទចាប់ផ្ដើម
+Start date,កាលបរិច្ឆេទចាប់ផ្ដើម
+Start Date (Earliest),កាលបរិច្ឆេទចាប់ផ្ដើម (មុនគេ)
+Start date updated,កាលបរិច្ឆេទចាប់ផ្ដើមត្រូវបានធ្វើបច្ចុប្បន្នភាព
+Start date/time is required,កាលបរិច្ឆេទ/ពេលវេលាចាប់ផ្ដើមគឺចាំបាច់
+Start Migration,ចាប់ផ្ដើមការផ្លាស់ប្ដូរ
+Start the conversation below.,ចាប់ផ្ដើមការសន្ទនាខាងក្រោម។
+Start Timer,ចាប់ផ្ដើមកម្មវិធីកំណត់ពេល
+Start typing to search...,ចាប់ផ្ដើមវាយដើម្បីស្វែងរក...
+Start-to-Finish,ចាប់ផ្ដើមទៅបញ្ចប់
+Start-to-Start,ចាប់ផ្ដើមទៅចាប់ផ្ដើម
+Start:,ចាប់ផ្ដើម:
+Statistics reset,ស្ថិតិត្រូវបានកំណត់ឡើងវិញ
+Status,ស្ថានភាព
+Status assigned to new projects,ស្ថានភាពដែលបានចាត់តាំងទៅគម្រោងថ្មី
+Status assigned to new tasks,ស្ថានភាពដែលបានចាត់តាំងទៅភារកិច្ចថ្មី
+Status Changes,ការផ្លាស់ប្ដូរស្ថានភាព
+Status updated,ស្ថានភាពត្រូវបានធ្វើបច្ចុប្បន្នភាព
+Status:,ស្ថានភាព:
+Stop,បញ្ឈប់
+Stop & Save,បញ្ឈប់ និងរក្សាទុក
+Stop Timer,បញ្ឈប់កម្មវិធីកំណត់ពេល
+Stops current timer and starts for this event,បញ្ឈប់កម្មវិធីកំណត់ពេលបច្ចុប្បន្ន និងចាប់ផ្ដើមសម្រាប់ព្រឹត្តិការណ៍នេះ
+Stops current timer and starts for this task,បញ្ឈប់កម្មវិធីកំណត់ពេលបច្ចុប្បន្ន និងចាប់ផ្ដើមសម្រាប់ភារកិច្ចនេះ
+Subject,ប្រធានបទ
+Subject cannot exceed 255 characters,ប្រធានបទមិនអាចលើស ២៥៥ តួអក្សរបានទេ
+Subject is required,ប្រធានបទគឺចាំបាច់
+Submit,ដាក់ស្នើ
+Submit Another Request,ដាក់ស្នើសំណើមួយទៀត
+Submit Request,ដាក់ស្នើសំណើ
+Submitting...,កំពុងដាក់ស្នើ...
+Successfully saved,បានរក្សាទុកដោយជោគជ័យ
+Successors (Blocking),កិច្ចការបន្ទាប់ (កំពុងទប់ស្កាត់)
+Sun,អាទិត្យ
+Supplier,អ្នកផ្គត់ផ្គង់
+Support,ការគាំទ្រ
+Switch to this event,ប្ដូរទៅព្រឹត្តិការណ៍នេះ
+Switch to this task,ប្ដូរទៅភារកិច្ចនេះ
+Sync direction is set to Frappe to Orga only,ទិសដៅធ្វើសមកាលកម្មត្រូវបានកំណត់ពី Frappe ទៅ Orga តែប៉ុណ្ណោះ
+Sync direction is set to Orga to Frappe only,ទិសដៅធ្វើសមកាលកម្មត្រូវបានកំណត់ពី Orga ទៅ Frappe តែប៉ុណ្ណោះ
+Sync not enabled for this project,ការធ្វើសមកាលកម្មមិនត្រូវបានបើកសម្រាប់គម្រោងនេះ
+System,ប្រព័ន្ធ
+Table,តារាង
+Take ownership of this task,ទទួលយកកម្មសិទ្ធិលើភារកិច្ចនេះ
+Target Date,កាលបរិច្ឆេទគោលដៅ
+Target End,ការបញ្ចប់គោលដៅ
+Target Project,គម្រោងគោលដៅ
+Target user is required for '{0}' action,អ្នកប្រើប្រាស់គោលដៅគឺចាំបាច់សម្រាប់សកម្មភាព '{0}'
+task,ភារកិច្ច
+Task,ភារកិច្ច
+Task '{0}' is due on {1}.,ភារកិច្ច '{0}' ផុតកំណត់នៅ {1}។
+Task and resource are required,ភារកិច្ច និងធនធានគឺចាំបាច់
+Task Assignment,ការចាត់តាំងភារកិច្ច
+Task cannot be its own parent,ភារកិច្ចមិនអាចជាមេរបស់ខ្លួនឯងបានទេ
+Task cannot depend on itself,ភារកិច្ចមិនអាចអាស្រ័យលើខ្លួនឯងបានទេ
+Task cannot depend on the group it belongs to,ភារកិច្ចមិនអាចអាស្រ័យលើក្រុមដែលវាស្ថិតក្នុងបានទេ
+Task created,ភារកិច្ចត្រូវបានបង្កើត
+Task deleted,ភារកិច្ចត្រូវបានលុប
+Task description has been saved.,ការពិពណ៌នាភារកិច្ចត្រូវបានរក្សាទុក។
+Task Details,ព័ត៌មានលម្អិតភារកិច្ច
+Task due in {0} days: {1},ភារកិច្ចផុតកំណត់ក្នុង {0} ថ្ងៃ: {1}
+Task due today: {0},ភារកិច្ចផុតកំណត់ថ្ងៃនេះ: {0}
+Task due tomorrow: {0},ភារកិច្ចផុតកំណត់ថ្ងៃស្អែក: {0}
+Task duplicated,ភារកិច្ចត្រូវបានចម្លង
+Task Group,ក្រុមភារកិច្ច
+Task ID is required,លេខសម្គាល់ភារកិច្ចគឺចាំបាច់
+Task is blocked by incomplete dependencies,ភារកិច្ចត្រូវបានទប់ស្កាត់ដោយភាពអាស្រ័យដែលមិនទាន់បញ្ចប់
+Task is cancelled,ភារកិច្ចត្រូវបានបោះបង់
+Task is completed,ភារកិច្ចត្រូវបានបញ្ចប់
+Task is no longer blocked by a group,ភារកិច្ចលែងត្រូវបានទប់ស្កាត់ដោយក្រុមទៀតហើយ
+Task is required for task context,ភារកិច្ចគឺចាំបាច់សម្រាប់បរិបទភារកិច្ច
+Task is required when tracking context is 'task',ភារកិច្ចគឺចាំបាច់នៅពេលបរិបទតាមដានគឺ 'task'
+Task linked,ភារកិច្ចត្រូវបានភ្ជាប់
+Task moved,ភារកិច្ចត្រូវបានផ្លាស់ទី
+Task name,ឈ្មោះភារកិច្ច
+Task name is required,ឈ្មោះភារកិច្ចគឺចាំបាច់
+Task removed from group,ភារកិច្ចត្រូវបានដកចេញពីក្រុម
+Task Subject,ប្រធានបទភារកិច្ច
+Task subject is required,ប្រធានបទភារកិច្ចគឺចាំបាច់
+Task Type,ប្រភេទភារកិច្ច
+Task unblocked: {0},ភារកិច្ចត្រូវបានដោះទប់ស្កាត់: {0}
+Task unlinked,ភារកិច្ចត្រូវបានផ្ដាច់
+Task updated,ភារកិច្ចត្រូវបានធ្វើបច្ចុប្បន្នភាព
+Task {0} not found,រកមិនឃើញភារកិច្ច {0}
+Task {0} not in project {1},ភារកិច្ច {0} មិនស្ថិតក្នុងគម្រោង {1}
+Task {0} to Frappe,ភារកិច្ច {0} ទៅ Frappe
+Tasks,ភារកិច្ចនានា
+tasks,ភារកិច្ច
+Tasks and milestones will be created with dates relative to the project start date.,ភារកិច្ច និងព្រឹត្តិការណ៍សំខាន់នឹងត្រូវបានបង្កើតជាមួយកាលបរិច្ឆេទទាក់ទងនឹងកាលបរិច្ឆេទចាប់ផ្ដើមគម្រោង។
+Tasks assigned to you across all projects.,ភារកិច្ចដែលបានចាត់តាំងឱ្យអ្នកឆ្លងកាត់គម្រោងទាំងអស់។
+Tasks created:,ភារកិច្ចដែលបានបង្កើត:
+Tasks from projects you manage.,ភារកិច្ចពីគម្រោងដែលអ្នកគ្រប់គ្រង។
+Tasks updated:,ភារកិច្ចដែលបានធ្វើបច្ចុប្បន្នភាព:
+"Tasks, milestones, and dependencies have been created.",ភារកិច្ច ព្រឹត្តិការណ៍សំខាន់ និងភាពអាស្រ័យត្រូវបានបង្កើត។
+Tasks:,ភារកិច្ច:
+TBD,មិនទាន់កំណត់
+Team,ក្រុម
+Team Members,សមាជិកក្រុម
+Template,ទំព័រគំរូ
+Template applied,គំរូត្រូវបានអនុវត្ត
+Template data is required in import data,ទិន្នន័យគំរូគឺចាំបាច់នៅក្នុងទិន្នន័យនាំចូល
+Template has no data,គំរូមិនមានទិន្នន័យទេ
+Template Name,ឈ្មោះគំរូ
+Template name,ឈ្មោះគំរូ
+Template name is required,ឈ្មោះគំរូគឺចាំបាច់
+Template name is required in import data,ឈ្មោះគំរូគឺចាំបាច់នៅក្នុងទិន្នន័យនាំចូល
+Template saved,គំរូត្រូវបានរក្សាទុក
+Template updated successfully.,គំរូត្រូវបានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ។
+Template {0} not found,រកមិនឃើញគំរូ {0}
+Templates,គំរូនានា
+Tentative,បណ្ដោះអាសន្ន
+The comment has been deleted,មតិយោបល់ត្រូវបានលុប
+The project,គម្រោង
+The source document may have been deleted.,ឯកសារប្រភពអាចត្រូវបានលុប។
+The source document will not be affected.,ឯកសារប្រភពនឹងមិនត្រូវបានប៉ះពាល់ទេ។
+The status of '{0}' was changed from {1} to {2}.,ស្ថានភាពរបស់ '{0}' ត្រូវបានផ្លាស់ប្ដូរពី {1} ទៅ {2}។
+Theme,ស្បែក
+Theme preference,ចំណូលចិត្តរូបរាង
+This action,សកម្មភាពនេះ
+This action cannot be undone.,សកម្មភាពនេះមិនអាចត្រឡប់វិញបានទេ។
+This activity has been flagged for attention,សកម្មភាពនេះត្រូវបានសម្គាល់ដើម្បីយកចិត្តទុកដាក់
+This is a reminder for your upcoming appointment,នេះជាការរំលឹកសម្រាប់ការណាត់ជួបនាពេលខាងមុខរបស់អ្នក
+This method is only meant for developer mode,វិធីសាស្ត្រនេះមានន័យសម្រាប់របៀបអ្នកអភិវឌ្ឍន៍តែប៉ុណ្ណោះ
+This page wandered off,This page wandered off
+This Week,សប្តាហ៍នេះ
+This will delete all notes and preferences associated with this activity.,នេះនឹងលុបកំណត់ចំណាំ និងចំណូលចិត្តទាំងអស់ដែលទាក់ទងនឹងសកម្មភាពនេះ។
+This will import all Frappe Projects into Orga. Continue?,នេះនឹងនាំចូលគម្រោង Frappe ទាំងអស់ចូល Orga។ បន្ត?
+This will permanently delete,នេះនឹងលុបជាអចិន្ត្រៃយ៍
+This will permanently delete:,នេះនឹងលុបជាអចិន្ត្រៃយ៍:
+Thu,ព្រហស្បតិ៍
+Time,ពេលវេលា
+Time & Billing,ពេលវេលា និងវិក្កយបត្រ
+Time & Revenue,ពេលវេលា និងចំណូល
+Time Entries,បញ្ជីពេលវេលា
+Time log name is required,ឈ្មោះកំណត់ហេតុពេលវេលាគឺចាំបាច់
+Time Log not found,រកមិនឃើញកំណត់ហេតុពេលវេលា
+Time log {0} not found,រកមិនឃើញកំណត់ហេតុពេលវេលា {0}
+Time Logs,កំណត់ហេតុពេលវេលា
+Time Summary,សង្ខេបពេលវេលា
+Time Tracking,ការតាមដានពេលវេលា
+Timeline,បន្ទាត់ពេលវេលា
+Timer active on,កម្មវិធីកំណត់ពេលសកម្មលើ
+Timer is not running,កម្មវិធីកំណត់ពេលមិនកំពុងដំណើរការ
+Timer Running,កម្មវិធីកំណត់ពេលកំពុងដំណើរការ
+Timer running,កម្មវិធីកំណត់ពេលកំពុងដំណើរការ
+Timesheet DocType not available,DocType តារាងពេលវេលាមិនមានទេ
+Timesheets,តារាងពេលវេលា
+Timezone,តំបន់ពេលវេលា
+Timezone is detected from your browser,តំបន់ពេលវេលាត្រូវបានរកឃើញពីកម្មវិធីរុករករបស់អ្នក
+Title,ចំណងជើង
+Title cannot exceed 255 characters,ចំណងជើងមិនអាចលើស ២៥៥ តួអក្សរបានទេ
+Title is required,ចំណងជើងគឺចាំបាច់
+Title updated,ចំណងជើងត្រូវបានធ្វើបច្ចុប្បន្នភាព
+To,ទៅ
+to,ទៅ
+to cancel,ដើម្បីបោះបង់
+to close,ដើម្បីបិទ
+to confirm:,ដើម្បីបញ្ជាក់:
+to edit,ដើម្បីកែប្រែ
+"to save,","ដើម្បីរក្សាទុក,"
+To Time cannot be before From Time,ពេលវេលាបញ្ចប់មិនអាចមុនពេលវេលាចាប់ផ្ដើមបានទេ
+Today,ថ្ងៃនេះ
+today,ថ្ងៃនេះ
+Toggle billable,បិទបើកការគិតថ្លៃ
+Toggle Details Panel,បិទបើកផ្ទាំងព័ត៌មានលម្អិត
+Toggle Manager Panel,បិទបើកផ្ទាំងអ្នកគ្រប់គ្រង
+Toggle Sidebar,បិទ / បើករបារចំហៀង
+Tomorrow,ថ្ងៃស្អែក
+tomorrow,ថ្ងៃស្អែក
+Total,ចំនួនសរុប
+Total Budget,ថវិកាសរុប
+Total Contacts,ទំនាក់ទំនងសរុប
+Total Cost,ថ្លៃដើមសរុប
+Total Cost to Org,ថ្លៃដើមសរុបសម្រាប់អង្គភាព
+Total Defect Cost,ថ្លៃដើមកំហុសសរុប
+Total Hours,ម៉ោងសរុប
+Total Hours Logged,ម៉ោងសរុបដែលបានកត់ត្រា
+Total Projects,គម្រោងសរុប
+Total Spent,បានចំណាយសរុប
+Total Tasks,ភារកិច្ចសរុប
+Total:,សរុប:
+Tracked,បានតាមដាន
+trails to today while Open at 0%,តាមដានដល់ថ្ងៃនេះខណៈបើកនៅ 0%
+Tried:,Tried:
+Try adjusting your filter criteria,សាកល្បងកែតម្រូវលក្ខណៈវិនិច្ឆ័យតម្រងរបស់អ្នក
+Try adjusting your filters.,សាកល្បងកែតម្រូវតម្រងរបស់អ្នក។
+Try Again,ព្យាយាមម្ដងទៀត
+Tue,អង្គារ
+Type,ប្រភេទ
+Type updated,ប្រភេទត្រូវបានធ្វើបច្ចុប្បន្នភាព
+Type:,ប្រភេទ:
+Typical response time: 1-2 business days,ពេលវេលាឆ្លើយតបធម្មតា: 1-2 ថ្ងៃធ្វើការ
+Unarchive,ដកចេញពីឃ្លាំង
+Unarchive Activity,ដកសកម្មភាពចេញពីឃ្លាំង
+Unassign,ដកការចាត់តាំង
+Unassigned,មិនបានចាត់តាំង
+Under Budget,ក្រោមថវិកា
+Ungrouped,មិនបានដាក់ជាក្រុម
+Unknown,មិនស្គាល់
+Unknown error,កំហុសមិនស្គាល់
+Unlink failed,ការផ្ដាច់បានបរាជ័យ
+Unlink task from milestone,ផ្ដាច់ភារកិច្ចពីព្រឹត្តិការណ៍សំខាន់
+Unpin,ដកការដៅ។
+Unpin Activity,ដកខ្ទាសសកម្មភាព
+Unread,មិនទាន់អាន
+Unread only,មិនទាន់អានតែប៉ុណ្ណោះ
+Until,រហូតដល់
+Up to Date,Up to Date
+Upcoming,នាពេលខាងមុខ
+upcoming,នាពេលខាងមុខ
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,ការធ្វើបច្ចុប្បន្នភាពបានបរាជ័យ
+Updated,ធ្វើឱ្យទាន់សម័យ
+Updated successfully,ធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ។
+Updates,Updates
+Upload,ផ្ទុកឡើង
+Upload failed,ការផ្ទុកឡើងបានបរាជ័យ
+Upload files below to attach them to this task.,ផ្ទុកឡើងឯកសារខាងក្រោមដើម្បីភ្ជាប់ទៅភារកិច្ចនេះ។
+Upload to project,ផ្ទុកឡើងទៅគម្រោង
+Uploading...,កំពុងផ្ទុកឡើង...
+Urgent,បន្ទាន់
+User {0} is already linked to client {1},អ្នកប្រើប្រាស់ {0} ត្រូវបានភ្ជាប់ទៅអតិថិជន {1} រួចហើយ
+User {0} is already linked to resource {1},អ្នកប្រើប្រាស់ {0} ត្រូវបានភ្ជាប់ទៅធនធាន {1} រួចហើយ
+Utilization,ការប្រើប្រាស់
+Valid,សុពលភាព
+Value:,តម្លៃ:
+Variance,ភាពខុសគ្នា
+Variance:,ភាពខុសគ្នា:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,មើល
+View All,មើលទាំងអស់
+View all active projects,មើលគម្រោងសកម្មទាំងអស់
+View all open tasks,មើលភារកិច្ចដែលបើកទាំងអស់
+View overdue tasks,មើលភារកិច្ចផុតកំណត់
+View Release,View Release
+Visibility,ភាពមើលឃើញ
+Waiting for this task,កំពុងរង់ចាំភារកិច្ចនេះ
+Waits for:,រង់ចាំ:
+Warning: Resource {0} status is {1},ការព្រមាន: ស្ថានភាពធនធាន {0} គឺ {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,ការព្រមាន: កំពុងប្រើ HTTP ជំនួស HTTPS។ ទិន្នន័យ Webhook អាចមិនមានសុវត្ថិភាព។
+Watch budget closely,តាមដានថវិកាយ៉ាងជិត
+We'll respond to:,យើងនឹងឆ្លើយតបទៅ:
+Webhook deleted,Webhook ត្រូវបានលុប
+Webhook name is required,ឈ្មោះ Webhook គឺចាំបាច់
+Webhook not found,រកមិនឃើញ Webhook
+Webhook URL is required,URL Webhook គឺចាំបាច់
+Webhook URL must start with http:// or https://,URL Webhook ត្រូវតែចាប់ផ្ដើមដោយ http:// ឬ https://
+Wed,ពុធ
+Week,សប្តាហ៍
+Weekend,ចុងសប្តាហ៍
+Weekly Capacity,សមត្ថភាពប្រចាំសប្ដាហ៍
+weekly capacity,សមត្ថភាពប្រចាំសប្ដាហ៍
+Weekly Capacity (h),សមត្ថភាពប្រចាំសប្ដាហ៍ (ម)
+Welcome,ស្វាគមន៍
+Welcome back!,ស្វាគមន៍ត្រឡប់មកវិញ!
+Welcome to Orga,ស្វាគមន៍មកកាន់ Orga
+What are you working on?,តើអ្នកកំពុងធ្វើការអ្វី?
+What did you work on?,តើអ្នកបានធ្វើការអ្វី?
+When,នៅពេល
+When work begins,នៅពេលការងារចាប់ផ្ដើម
+When work is due,នៅពេលការងារផុតកំណត់
+Where,នៅកន្លែង
+Will capture:,នឹងចាប់យក:
+Will create:,នឹងបង្កើត:
+with checklist items,ជាមួយធាតុបញ្ជីត្រួតពិនិត្យ
+Working,កំពុងធ្វើការ
+Workload,បរិមាណការងារ
+Workmanship,សិប្បកម្ម
+Write a comment...,សរសេរមតិយោបល់...
+Write a comment... Use @name to mention (Ctrl+Enter to send),សរសេរមតិយោបល់... ប្រើ @name ដើម្បីលើកឡើង (Ctrl+Enter ដើម្បីផ្ញើ)
+Year,កាលពីឆ្នាំ
+Yes,បាទ
+Yesterday,កាលពីម្សិលមិញ
+yesterday,ម្សិលមិញ
+You are not an attendee of this appointment,អ្នកមិនមែនជាអ្នកចូលរួមនៃការណាត់ជួបនេះទេ
+You are not linked to any resource,អ្នកមិនត្រូវបានភ្ជាប់ទៅធនធានណាមួយទេ
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,អ្នកអាចលុបមតិយោបល់របស់អ្នកផ្ទាល់ខ្លួនតែប៉ុណ្ណោះ
+You can only delete your own reactions,អ្នកអាចលុបប្រតិកម្មរបស់អ្នកផ្ទាល់ខ្លួនតែប៉ុណ្ណោះ
+You do not have access to the client portal. Please contact support.,អ្នកមិនមានសិទ្ធិចូលប្រើវិបផតថលអតិថិជនទេ។ សូមទាក់ទងផ្នែកគាំទ្រ។
+You have already reacted with '{0}',អ្នកបានប្រតិកម្មរួចហើយជាមួយ '{0}'
+You have been assigned to task '{0}' in project '{1}'.,អ្នកត្រូវបានចាត់តាំងទៅភារកិច្ច '{0}' ក្នុងគម្រោង '{1}'។
+You have been assigned to: {0},អ្នកត្រូវបានចាត់តាំងទៅ: {0}
+You have been invited to the following appointment,អ្នកត្រូវបានអញ្ជើញទៅការណាត់ជួបខាងក្រោម
+You have no tasks assigned to you right now.,អ្នកមិនមានភារកិច្ចដែលត្រូវបានចាត់តាំងឱ្យអ្នកនៅពេលនេះទេ។
+You were mentioned in {0},អ្នកត្រូវបានលើកឡើងក្នុង {0}
+Your attendance,ការចូលរួមរបស់អ្នក
+Your comment has been posted,មតិយោបល់របស់អ្នកត្រូវបានបង្ហោះ
+Your Projects,គម្រោងរបស់អ្នក
+Your projects will appear here once they're assigned to you.,គម្រោងរបស់អ្នកនឹងបង្ហាញនៅទីនេះនៅពេលពួកវាត្រូវបានចាត់តាំងឱ្យអ្នក។
+Your Response,ការឆ្លើយតបរបស់អ្នក
+Your RSVP,RSVP របស់អ្នក
+Your support request has been submitted successfully.,សំណើគាំទ្ររបស់អ្នកត្រូវបានដាក់ស្នើដោយជោគជ័យ។
+Your support request has been submitted successfully. We'll get back to you shortly.,សំណើគាំទ្ររបស់អ្នកត្រូវបានដាក់ស្នើដោយជោគជ័យ។ យើងនឹងឆ្លើយតបទៅអ្នកក្នុងពេលអ៉ាស់។
+"Your task ""{0}"" is no longer blocked and can now be started.","ភារកិច្ចរបស់អ្នក ""{0}"" លែងត្រូវបានទប់ស្កាត់ទៀតហើយ ហើយអាចចាប់ផ្ដើមបានហើយ។"
+{0} is required,{0} គឺចាំបាច់
+{0} new activities,{0} សកម្មភាពថ្មី
+{0} of {1} completed,{0} ក្នុងចំណោម {1} បានបញ្ចប់
+{0} projects already migrated (will be skipped or updated),{0} គម្រោងត្រូវបានផ្លាស់ប្ដូររួចហើយ (នឹងត្រូវបានរំលង ឬធ្វើបច្ចុប្បន្នភាព)
+{0} status changed to {1},{0} ស្ថានភាពប្រែប្រួលទៅ {1}
+{0} tasks remaining,{0} ភារកិច្ចនៅសល់
+{0} tasks without projects will be skipped,{0} ភារកិច្ចគ្មានគម្រោងនឹងត្រូវបានរំលង
+{0} {1} not found,រកមិនឃើញ {0} {1}

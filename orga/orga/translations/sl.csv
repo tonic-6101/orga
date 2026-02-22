@@ -1,0 +1,1492 @@
++ Add Milestone,+ Dodaj mejnik
++ Create Task,+ Ustvari nalogo
++ Log Time,+ Zabeleži čas
+-- Select a project --,-- Izberite projekt --
+0m,0m
+1 day,1 dan
+1 day ago,pred 1 dnem
+1 dependency,1 odvisnost
+1 entry,1 vnos
+1 file,1 datoteka
+1 hour ago,pred 1 uro
+1 member,1 član
+1 milestone,1 mejnik
+1 month,1 mesec
+1 task,1 naloga
+< 1m,< 1m
+"A clear, actionable title for the task",Jasen in uporaben naslov za nalogo
+A client with email {0} already exists: {1},Stranka z e-poštnim naslovom {0} že obstaja: {1}
+A key deliverable or checkpoint for the project,Ključni rezultat ali kontrolna točka za projekt
+Accept,Sprejmi
+Accepted,Sprejeto
+Acknowledge,Potrdi prejem
+across,v
+Action,Dejanje
+Actions,Dejanja
+Active,Aktiven
+Active Assignments,Aktivne dodelitve
+Active Projects,Aktivni projekti
+Activity,Dejavnost
+Activity data deleted successfully,Podatki o dejavnosti uspešno izbrisani
+Activity Info,Podatki o dejavnosti
+Activity Stats,Statistika dejavnosti
+Activity will appear here as you work on tasks and projects.,"Dejavnost se bo prikazala tukaj, ko boste delali na nalogah in projektih."
+Actual,Dejanski
+Actual Cost,Dejanski stroški
+Actual cost cannot be negative,Dejanski stroški ne morejo biti negativni
+Actual end date cannot be before actual start date,Dejanski datum konca ne more biti pred dejanskim datumom začetka
+Actual Hours,Dejanske ure
+Add,Dodaj
+Add a checklist item...,Dodaj element kontrolnega seznama...
+Add a comment...,Dodaj komentar...
+Add a comment... (Ctrl+Enter to send),Dodaj komentar... (Ctrl+Enter za pošiljanje)
+Add a description...,Dodaj opis...
+Add a milestone description...,Dodaj opis mejnika...
+Add a note below to annotate this activity.,Dodajte opombo spodaj za označitev te dejavnosti.
+Add a note...,Dodaj opombo...
+Add a project description...,Dodaj opis projekta...
+Add a task description...,Dodaj opis naloge...
+Add checklist item...,Dodaj element kontrolnega seznama...
+Add Contact,Dodaj stik
+Add contacts via the Desk interface or clear filters,Dodajte stike prek vmesnika Desk ali počistite filtre
+Add Dependency,Dodaj odvisnost
+Add details about this event...,Dodaj podrobnosti o tem dogodku...
+Add details about this milestone...,Dodaj podrobnosti o tem mejniku...
+Add details about this task...,Dodaj podrobnosti o tej nalogi...
+Add details or acceptance criteria for this milestone,Dodaj podrobnosti ali merila za sprejem tega mejnika
+"Add details, context, or acceptance criteria","Dodaj podrobnosti, kontekst ali merila za sprejem"
+Add first dependency,Dodaj prvo odvisnost
+Add item,Dodaj element
+Add items below to track progress.,Dodajte elemente spodaj za spremljanje napredka.
+Add items below to track subtasks,Dodajte elemente spodaj za spremljanje podnaloge
+Add Milestone,Dodaj mejnik
+Add Milestone (Shift+M),Dodaj mejnik (Shift+M)
+Add milestones to track key deliverables.,Dodajte mejnike za spremljanje ključnih rezultatov.
+Add New Contact,Dodaj nov stik
+Add Note,Dodaj opombo
+Add note,Dodaj opombo
+Add notes about this contact...,Dodaj opombe o tem stiku...
+Add reaction,Dodaj odziv
+Add Skill,Dodaj veščino
+Add start and due dates to tasks to see them on the Gantt chart,Dodajte začetne datume in roke nalogam za prikaz na Gantt diagramu
+Add Task,Dodaj nalogo
+Add Task (Shift+T),Dodaj nalogo (Shift+T)
+Added Finish-to-Start dependency,Dodana odvisnost konec-začetek
+Adding this dependency would create a circular reference: {0},Dodajanje te odvisnosti bi ustvarilo krožno sklicevanje: {0}
+Adding...,Dodajanje...
+Address,Naslov
+Advanced,Napredno
+All,Vsi
+All Active,Vsi aktivni
+All Assignees,Vsi dodeljeni
+All Categories,Vse kategorije
+All caught up!,Vse je ažurno!
+All Contexts,Vsi konteksti
+All day,Cel dan
+All day event,Celodnevni dogodek
+All fields,Vsa polja
+All Priorities,Vse prioritete
+All Projects,Vsi projekti
+All Status,Vsa stanja
+All Statuses,Vsa stanja
+All task dependencies & relative dates,Vse odvisnosti nalog in relativni datumi
+All Tasks,Vse naloge
+All tasks across all projects.,Vse naloge v vseh projektih.
+All tasks are already linked,Vse naloge so že povezane
+All team members,Vsi člani ekipe
+All Types,Vse vrste
+All Users,Vsi uporabniki
+Allocated,Dodeljeno
+allocated,dodeljeno
+Allow users to log time against tasks,Dovoli uporabnikom beleženje časa za naloge
+Already exported to timesheet {0},Že izvoženo v časovnico {0}
+Already Migrated,Že preseljeno
+Anyone with access,Vsakdo z dostopom
+anytime to show this help,kadarkoli za prikaz te pomoči
+App Updates,App Updates
+Appearance,Videz
+Apply,Uporabi
+Apply cascade?,Uporabi kaskado?
+Apply Changes,Uporabi spremembe
+Apply failed,Uporaba ni uspela
+Apply Template,Uporabi predlogo
+Applying...,Uporaba v teku...
+Appointment,Sestanek
+Appointment and resource are required,Sestanek in vir sta obvezna
+Appointment name is required,Ime sestanka je obvezno
+Appointment not found,Sestanek ni najden
+Appointment {0} not found,Sestanek {0} ni najden
+Apps,Aplikacije
+Archive,Arhiviraj
+Archive Activity,Arhiviraj dejavnost
+Archived,Arhivirano
+Are you sure you want to delete this activity data? This cannot be undone.,"Ali ste prepričani, da želite izbrisati te podatke o dejavnosti? Tega ni mogoče razveljaviti."
+Are you sure you want to delete this comment?,Ali ste prepričani
+Are you sure you want to delete this project?,Ali ste prepričani
+Are you sure?,Ali ste prepričani?
+Ascending -- click to reverse,Naraščajoče -- kliknite za obratno
+Assign To,Dodeli
+Assign to Me,Dodeli meni
+Assigned Contact,Dodeljeni stik
+Assigned To,Dodeljeno
+Assigned to,Dodeljeno
+Assigned to Me,Dodeljeno meni
+Assignee,Dodeljenec
+Assignment,Dodelitev
+Assignment History,Zgodovina dodelitev
+Assignment name is required,Ime dodelitve je obvezno
+Assignment {0} not found,Dodelitev {0} ni najdena
+Assignments,Dodelitve
+At least one action is required,Zahtevano je vsaj eno dejanje
+At least one event is required,Zahtevan je vsaj en dogodek
+At least one event must be selected,Izbran mora biti vsaj en dogodek
+Attachment,Priloga
+Attachments,Priloge
+Attendees,Udeleženci
+"Audit trail, assignments, version history","Revizijska sled, dodelitve, zgodovina različic"
+Auto,Samodejno
+Auto Calculate Progress,Samodejno izračunaj napredek
+Auto Set Missed Milestones,Samodejno označi zamujene mejnike
+Auto-shift dependents when dates change,Samodejno premakni odvisne ob spremembi datumov
+Auto-Trail Start,Samodejni drsni začetek
+Auto-Trail updated,Samodejni drsni začetek posodobljen
+Automatically calculate project progress from task completion,Samodejno izračunaj napredek projekta iz dokončanja nalog
+Automatically mark milestones as missed when overdue,Samodejno označi mejnike kot zamujene ob zamudi
+Automation rule {0} not found,Pravilo avtomatizacije {0} ni najdeno
+Automation: {0},Avtomatizacija: {0}
+Availability,Razpoložljivost
+Available,Na voljo
+Avatar updated successfully,Slika profila uspešno posodobljena
+Avg Progress,Povprečni napredek
+Back,Nazaj
+Back to Portal,Nazaj na portal
+Back to Projects,Nazaj na projekte
+Beginner,Začetnik
+Best regards,Lep pozdrav
+Billable,Zaračunljivo
+Billable Amount,Zaračunljiv znesek
+Billable Hours,Zaračunljive ure
+Billable Rate,Zaračunljiva postavka
+Billing Rate,Postavka za zaračunavanje
+Blocked,Blokirano
+Both dates are needed to display task as a bar in Gantt chart,Oba datuma sta potrebna za prikaz naloge kot vrstice v Gantt diagramu
+Both doctype and docname are required,Oba podatka doctype in docname sta obvezna
+Both proposed start and end times are required,Oba predlagana časa začetka in konca sta obvezna
+Both task_name and depends_on are required,Oba podatka task_name in depends_on sta obvezna
+Breadcrumb,Drobtine
+Brief description of the defect or damage,Kratek opis napake ali poškodbe
+Brief description of this template,Kratek opis te predloge
+Brief description of your request,Kratek opis vaše zahteve
+Brief project description,Kratek opis projekta
+Budget,Proračun
+Budget at risk,Proračun ogrožen
+Budget Burn Rate,Stopnja porabe proračuna
+Budget Status,Stanje proračuna
+Budget updated,Proračun posodobljen
+Budget:,Proračun:
+Bug,Napaka
+Burn Rate,Stopnja porabe
+Busy,Zaseden
+By,Od
+By Assignee,Po dodeljencu
+By Group,Po skupini
+By Milestone,Po mejniku
+By Priority,Po prioriteti
+By Status,Po stanju
+Cancel,Prekliči
+Cancelled,Preklicano
+cannot be undone,ni mogoče razveljaviti
+Cannot delete client with {0} linked projects. Unlink projects first.,Stranke s {0} povezanimi projekti ni mogoče izbrisati. Najprej odpovežite projekte.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Projekta s {0} povezanimi nalogami ni mogoče izbrisati. Najprej izbrišite naloge.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Vira s {0} aktivnimi dodelitvami ni mogoče izbrisati. Najprej jih dokončajte ali prekličite.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Naloge s {0} podnaloge ni mogoče izbrisati. Najprej izbrišite podnaloge.
+Capacity,Zmogljivost
+capacity,zmogljivost
+Capacity & Rates,Zmogljivost in postavke
+Capture project structure for reuse,Zajemite strukturo projekta za ponovno uporabo
+Cascade,Kaskada
+Cascade Preview,Predogled kaskade
+Category,Kategorija
+Celebrate,Proslavi
+Change,Spremeni
+Change History,Zgodovina sprememb
+Change Priority,Spremeni prioriteto
+Change Status,Spremeni stanje
+Changes,Spremembe
+Changes appear when fields are modified.,Spremembe se prikažejo ob spremembi polj.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Kontrolni seznam
+Checklist item name is required,Ime elementa kontrolnega seznama je obvezno
+Checklist item not found,Element kontrolnega seznama ni najden
+Checklist item title is required,Naslov elementa kontrolnega seznama je obvezen
+Checklist item {0} not found,Element kontrolnega seznama {0} ni najden
+Checklist item {0} not found in task,Element kontrolnega seznama {0} ni najden v nalogi
+Child,Podrejeni
+Choose file to upload,Izberite datoteko za nalaganje
+Circular dependency detected: {0},Zaznana krožna odvisnost: {0}
+Circular parent-child relationship detected,Zaznano krožno razmerje nadrejeni-podrejeni
+Clear,Počisti
+Clear all read,Počisti vse prebrane
+Clear date,Počisti datum
+Click on an activity from the list to view and manage its details.,Kliknite na dejavnost s seznama za ogled in upravljanje podrobnosti.
+Click the avatar to upload a new photo,Kliknite na sliko profila za nalaganje nove fotografije
+Click to add description...,Kliknite za dodajanje opisa...
+Click to add notes...,Kliknite za dodajanje opomb...
+Click to assign contact,Kliknite za dodelitev stika
+Click to change status,Kliknite za spremembo stanja
+Click to change type,Kliknite za spremembo vrste
+Click to edit,Kliknite za urejanje
+Click to edit budget,Kliknite za urejanje proračuna
+Click to edit description,Kliknite za urejanje opisa
+Click to edit end date,Kliknite za urejanje datuma konca
+Click to edit milestone name,Kliknite za urejanje imena mejnika
+Click to edit rate,Kliknite za urejanje postavke
+Click to edit start date,Kliknite za urejanje datuma začetka
+Click to edit title,Kliknite za urejanje naslova
+Click to load,Kliknite za nalaganje
+Click to set group dependency...,Kliknite za nastavitev odvisnosti skupine...
+Click to set group...,Kliknite za nastavitev skupine...
+Click to view,Kliknite za ogled
+Click to view at-risk projects,Kliknite za ogled ogroženih projektov
+Click to view critical projects,Kliknite za ogled kritičnih projektov
+Click to view healthy projects,Kliknite za ogled zdravih projektov
+Client,Stranka
+Client already has a portal user: {0},Stranka že ima uporabnika portala: {0}
+Client already has portal access,Stranka že ima dostop do portala
+Client has no portal user to revoke,Stranka nima uporabnika portala za preklic
+Client link removed from project {0},Povezava stranke odstranjena iz projekta {0}
+Client Portal,Portal za stranke
+Client {0} deleted successfully,Stranka {0} uspešno izbrisana
+Close,Zapri
+Close (Esc),Zapri (Esc)
+Comment,Komentar
+comment,komentar
+Comment added,Komentar dodan
+Comment content is required,Vsebina komentarja je obvezna
+Comment name is required,Ime komentarja je obvezno
+Comment not found,Komentar ni najden
+Comment removed,Komentar odstranjen
+Comment {0} not found in task,Komentar {0} ni najden v nalogi
+Comments,Komentarji
+comments,komentarji
+Community Edition,Community Edition
+Company,Podjetje
+Company name...,Ime podjetja...
+Complete,Dokončaj
+Completed,Dokončano
+completed,dokončano
+Completed Tasks,Dokončane naloge
+Compliance,Skladnost
+Configure default values for new projects and tasks,Nastavite privzete vrednosti za nove projekte in naloge
+Configure email notification settings,Nastavite nastavitve e-poštnih obvestil
+Confirm,Potrdi
+Contact deleted,Stik izbrisan
+Contact Details,Podrobnosti stika
+Contact Information,Kontaktni podatki
+Contact name is required,Ime stika je obvezno
+Contact Support,Obrnite se na podporo
+Contact your project manager for more information.,Za več informacij se obrnite na vodjo projekta.
+Contact:,Stik:
+Contacts,Stiki
+Context,Kontekst
+Contractor,Izvajalec
+Cost estimate cannot be negative,Ocena stroškov ne more biti negativna
+Cost Impact,Vpliv na stroške
+Cost Summary,Povzetek stroškov
+Could not apply the template. Please try again.,Predloge ni bilo mogoče uporabiti. Poskusite znova.
+Could not attach file to project,Datoteke ni bilo mogoče priložiti projektu
+Could not change task priority,Prioritete naloge ni bilo mogoče spremeniti
+Could not change task status,Stanja naloge ni bilo mogoče spremeniti
+Could not delete the project. Please try again.,Projekta ni bilo mogoče izbrisati. Poskusite znova.
+Could not delete the task. Please try again.,Naloge ni bilo mogoče izbrisati. Poskusite znova.
+Could not delete the template.,Predloge ni bilo mogoče izbrisati.
+Could not duplicate the task. Please try again.,Naloge ni bilo mogoče podvojiti. Poskusite znova.
+Could not export the template.,Predloge ni bilo mogoče izvoziti.
+Could not import the template. Please check the file format.,Predloge ni bilo mogoče uvoziti. Preverite obliko datoteke.
+Could not link task to milestone,Naloge ni bilo mogoče povezati z mejnikom
+Could not load document details.,Podrobnosti dokumenta ni bilo mogoče naložiti.
+Could not load task details,Podrobnosti naloge ni bilo mogoče naložiti
+Could not promote checklist item to task.,Elementa kontrolnega seznama ni bilo mogoče povišati v nalogo.
+Could not remove task from milestone,Naloge ni bilo mogoče odstraniti iz mejnika
+Could not save budget.,Proračuna ni bilo mogoče shraniti.
+Could not save changes to the milestone,Sprememb mejnika ni bilo mogoče shraniti
+Could not save changes to the task,Sprememb naloge ni bilo mogoče shraniti
+Could not save description.,Opisa ni bilo mogoče shraniti.
+Could not save end date.,Datuma konca ni bilo mogoče shraniti.
+Could not save milestone name.,Imena mejnika ni bilo mogoče shraniti.
+Could not save start date.,Datuma začetka ni bilo mogoče shraniti.
+Could not save the template. Please try again.,Predloge ni bilo mogoče shraniti. Poskusite znova.
+Could not save title.,Naslova ni bilo mogoče shraniti.
+Could not update dependency mode.,Načina odvisnosti ni bilo mogoče posodobiti.
+Could not update milestone date,Datuma mejnika ni bilo mogoče posodobiti
+Could not update project status.,Stanja projekta ni bilo mogoče posodobiti.
+Could not update project type.,Vrste projekta ni bilo mogoče posodobiti.
+Could not update setting.,Nastavitve ni bilo mogoče posodobiti.
+Could not update task dates,Datumov naloge ni bilo mogoče posodobiti
+Could not update task status,Stanja naloge ni bilo mogoče posodobiti
+Could not update the template.,Predloge ni bilo mogoče posodobiti.
+Create a copy of this task,Ustvari kopijo te naloge
+Create Contact,Ustvari stik
+Create Event,Ustvari dogodek
+Create Milestone,Ustvari mejnik
+Create New Milestone,Ustvari nov mejnik
+Create New Task,Ustvari novo nalogo
+Create Project,Ustvari projekt
+Create Task,Ustvari nalogo
+Create tasks and milestones from a template,Ustvari naloge in mejnike iz predloge
+Create your first project to get started.,Ustvarite svoj prvi projekt za začetek.
+Create your first task to start tracking work on this project.,Ustvarite prvo nalogo za začetek spremljanja dela na tem projektu.
+Created,Ustvarjeno
+Creating...,Ustvarjanje...
+Critical,Kritično
+Critical Path,Kritična pot
+"Currency used for budgets, costs, and billing rates","Valuta za proračune, stroške in postavke za zaračunavanje"
+Current,Trenutno
+Current Assignments,Trenutne dodelitve
+Current scheduled time:,Trenutno načrtovani čas:
+Currently running version,Currently running version
+d lag,d zamik
+Daily Availability,Dnevna razpoložljivost
+Daily Hours,Dnevne ure
+Danger Zone,Nevarno območje
+Dark,Temno
+Dashboard,Nadzorna plošča
+Date,Datum
+Date changes on this task will show cascade impact here,Spremembe datumov na tej nalogi bodo tukaj prikazale kaskadni vpliv
+Date cleared,Datum počiščen
+Date of Joining,Datum pridružitve
+Date updated,Datum posodobljen
+Dates,Datumi
+Dates cascaded,Datumi kaskadno posodobljeni
+Dates will be relative to the project's start date.,Datumi bodo relativni glede na datum začetka projekta.
+Day,Dan
+day,dan
+days,dni
+Days before due date to send reminder,Dni pred rokom za pošiljanje opomnika
+Days Overdue,Dni zamude
+Days Remaining,Preostali dnevi
+Deadline,Rok
+Deadlines,Roki
+Decision,Odločitev
+Decline,Zavrni
+Declined,Zavrnjeno
+Default Currency,Privzeta valuta
+Default hours per week for contact capacity planning,Privzete ure na teden za načrtovanje zmogljivosti stikov
+Default Priority,Privzeta prioriteta
+Default Project Status,Privzeto stanje projekta
+Default Task Status,Privzeto stanje naloge
+Default task view,Privzet pogled nalog
+Default Values,Privzete vrednosti
+Default Weekly Capacity,Privzeta tedenska zmogljivost
+Defaults,Privzeto
+Defect Cost Impact,Finančni vpliv napake
+Defect name is required,Ime napake je obvezno
+Defect Type,Vrsta napake
+Defect {0} not found,Napaka {0} ni najdena
+Defects,Napake
+Defects & Issues,Napake in težave
+Defects Resolved,Odpravljene napake
+Delayed,Zakasnelo
+Delete,Izbriši
+Delete Activity Data,Izbriši podatke o dejavnosti
+Delete all read notifications?,Izbriši vsa prebrana obvestila?
+Delete comment,Izbriši komentar
+Delete Contact,Izbriši stik
+Delete Event,Izbriši dogodek
+Delete Event?,Izbriši dogodek?
+Delete failed,Brisanje ni uspelo
+Delete file,Izbriši datoteko
+Delete item,Izbriši element
+Delete note,Izbriši opombo
+Delete Project,Izbriši projekt
+Delete Task,Izbriši nalogo
+Delete this project,Izbriši ta projekt
+Deleted,Izbrisano
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Izbrisan projekt ""{0}"" ({1} nalog, {2} mejnikov)"
+Deletes notes and preferences. Source document is not affected.,Izbriše opombe in nastavitve. Izvorni dokument ni prizadet.
+Deleting...,Brisanje...
+Department,Oddelek
+Dependencies,Odvisnosti
+dependencies,odvisnosti
+Dependencies are informational only,Odvisnosti so zgolj informativne
+dependency,odvisnost
+Dependency already exists,Odvisnost že obstaja
+Dependency Chain,Veriga odvisnosti
+Dependency created,Odvisnost ustvarjena
+Dependency mode updated,Način odvisnosti posodobljen
+Dependency name is required,Ime odvisnosti je obvezno
+Dependency task {0} not found,Odvisna naloga {0} ni najdena
+Dependency {0} not found,Odvisnost {0} ni najdena
+depends,odvisno
+Depends on Group,Odvisno od skupine
+Depends on task is required,Odvisna naloga je obvezna
+depends on...,odvisno od...
+Descending -- click to reverse,Padajoče -- kliknite za obratno
+Describe the defect in detail...,Podrobno opišite napako...
+Description,Opis
+Description updated,Opis posodobljen
+Designation,Naziv delovnega mesta
+"Detailed description of the defect, location, and impact","Podroben opis napake, lokacije in vpliva"
+Details,Podrobnosti
+Discard timer,Zavrzi štoparico
+Discussion,Razprava
+Dismiss,Dismiss
+Display,Prikaz
+Document,Dokument
+Document attached to project,Dokument priložen projektu
+Document final decision and rationale,Dokumentirajte končno odločitev in utemeljitev
+Documentation Review,Pregled dokumentacije
+Documents,Dokumenti
+Done,Končano
+Download,Prenesi
+Drag to create dependency,Povlecite za ustvarjanje odvisnosti
+Dry Run,Preskus
+Dry Run Complete,Preskus končan
+Due Date,Rok
+Due date,Rok
+Due Date (Earliest),Rok (najzgodnejši)
+Due date cannot be before start date,Rok ne more biti pred datumom začetka
+Due date is in the past,Rok je v preteklosti
+Due Date Reminders,Opomniki roka
+Due Diligence,Skrbni pregled
+Due Diligence Checklist,Kontrolni seznam skrbnega pregleda
+Due This Week,Rok ta teden
+Due:,Rok:
+Duplicate events are not allowed,Podvojeni dogodki niso dovoljeni
+Duplicate failed,Podvajanje ni uspelo
+Duplicate Task,Podvoji nalogo
+Duration,Trajanje
+Duration Summary,Povzetek trajanja
+Duration:,Trajanje:
+e.g. Cracked wall finish in bathroom...,npr. razpokan omet v kopalnici...
+"e.g. Electrical, Plumbing...","npr. elektrika, vodovod..."
+Edit,Uredi
+Edit (E),Uredi (E)
+Edit dependency,Uredi odvisnost
+Edit Event,Uredi dogodek
+Efficiency,Učinkovitost
+Either dependency_name or depends_on is required,Zahtevan je dependency_name ali depends_on
+Email,E-pošta
+Email invitations to all attendees,E-poštna povabila vsem udeležencem
+Email is required to create portal user,E-poštni naslov je obvezen za ustvarjanje uporabnika portala
+Email notifications,E-poštna obvestila
+Employee,Zaposleni
+Employee DocType not available,Tip dokumenta Zaposleni ni na voljo
+Employee not found,Zaposleni ni najden
+Enable or disable optional features,Omogočite ali onemogočite izbirne funkcije
+Enable Time Tracking,Omogoči sledenje časa
+End,Konec
+End Date,Datum konca
+End date,Datum konca
+End Date cannot be before Start Date,Datum konca ne more biti pred datumom začetka
+End date cannot be before start date,Datum konca ne more biti pred datumom začetka
+End date updated,Datum konca posodobljen
+End time was before start time. Adjusted to 1 hour after start.,Čas konca je bil pred časom začetka. Prilagojeno na 1 uro po začetku.
+End:,Konec:
+Enter milestone name...,Vnesite ime mejnika...
+Enter project name,Vnesite ime projekta
+Enter task title...,Vnesite naslov naloge...
+Enter template name,Vnesite ime predloge
+Enter your note... Use @name to mention someone,Vnesite svojo opombo... Uporabite @ime za omembo
+Error,Napaka
+Error loading activity,Napaka pri nalaganju dejavnosti
+Error loading contacts,Napaka pri nalaganju stikov
+Error loading dashboard,Napaka pri nalaganju nadzorne plošče
+Error loading project,Napaka pri nalaganju projekta
+Error loading projects,Napaka pri nalaganju projektov
+Error loading settings,Napaka pri nalaganju nastavitev
+Error loading tasks,Napaka pri nalaganju nalog
+Error loading templates,Napaka pri nalaganju predlog
+Est. Hours,Ocenjene ure
+Estimated,Ocenjeno
+Estimated Cost,Ocenjeni stroški
+Estimated Cost (€),Ocenjeni stroški (€)
+Estimated Hours,Ocenjene ure
+Estimated:,Ocenjeno:
+Evaluate potential risks and concerns,Ocenite morebitna tveganja in pomisleke
+Event,Dogodek
+Event is required for event context,Dogodek je obvezen za kontekst dogodka
+Event is required when tracking context is 'event',"Dogodek je obvezen, ko je kontekst sledenja »dogodek«"
+Event Type,Vrsta dogodka
+Events,Dogodki
+Events not available. Please run: bench --site orga.localhost migrate,Dogodki niso na voljo. Zaženite: bench --site orga.localhost migrate
+Events:,Dogodki:
+Expert,Strokovnjak
+Explain why you are proposing a different time...,Pojasnite
+Export,Izvozi
+Export failed,Izvoz ni uspel
+Export JSON,Izvozi JSON
+Exported,Izvoženo
+Exported to timesheet {0},Izvoženo v časovnico {0}
+External,Zunanji
+Failed to add item,Dodajanje elementa ni uspelo
+Failed to add note,Dodajanje opombe ni uspelo
+Failed to add skill,Dodajanje veščine ni uspelo
+Failed to apply cascade changes: {0},Uporaba kaskadnih sprememb ni uspela: {0}
+Failed to create defect,Ustvarjanje napake ni uspelo
+Failed to create dependency,Ustvarjanje odvisnosti ni uspelo
+Failed to create event,Ustvarjanje dogodka ni uspelo
+Failed to create milestone,Ustvarjanje mejnika ni uspelo
+Failed to create project,Ustvarjanje projekta ni uspelo
+Failed to create task,Ustvarjanje naloge ni uspelo
+Failed to create time log,Ustvarjanje časovnega zapisa ni uspelo
+Failed to delete,Brisanje ni uspelo
+Failed to delete comment,Brisanje komentarja ni uspelo
+Failed to delete contact,Brisanje stika ni uspelo
+Failed to load,Nalaganje ni uspelo
+Failed to load activity,Nalaganje dejavnosti ni uspelo
+Failed to load assignments,Nalaganje dodelitev ni uspelo
+Failed to load contact,Nalaganje stika ni uspelo
+Failed to load dashboard data,Nalaganje podatkov nadzorne plošče ni uspelo
+Failed to load defects,Nalaganje napak ni uspelo
+Failed to load events,Nalaganje dogodkov ni uspelo
+Failed to load project,Nalaganje projekta ni uspelo
+Failed to load projects,Nalaganje projektov ni uspelo
+Failed to load report data,Nalaganje podatkov poročila ni uspelo
+Failed to load settings,Nalaganje nastavitev ni uspelo
+Failed to load tasks,Nalaganje nalog ni uspelo
+Failed to move task,Premik naloge ni uspel
+Failed to post comment,Objava komentarja ni uspela
+Failed to propose new time,Predlaganje novega časa ni uspelo
+Failed to remove item,Odstranjevanje elementa ni uspelo
+Failed to remove skill,Odstranjevanje veščine ni uspelo
+Failed to reorder milestones: {0},Prerazporeditev mejnikov ni uspela: {0}
+Failed to reorder tasks: {0},Prerazporeditev nalog ni uspela: {0}
+Failed to reschedule dependent tasks: {0},Prerazporeditev odvisnih nalog ni uspela: {0}
+Failed to save,Shranjevanje ni uspelo
+Failed to save preferences,Shranjevanje nastavitev ni uspelo
+Failed to save settings,Shranjevanje nastavitev ni uspelo
+Failed to submit request. Please try again.,Pošiljanje zahteve ni uspelo. Poskusite znova.
+Failed to update item,Posodobitev elementa ni uspela
+Failed to update priority,Posodobitev prioritete ni uspela
+Failed to update task,Posodobitev naloge ni uspela
+Failed to update tasks: {0},Posodobitev nalog ni uspela: {0}
+Failed to upload avatar,Nalaganje slike profila ni uspelo
+Feature,Funkcija
+Features,Funkcije
+FF (Finish-Finish),FF (konec-konec)
+FF - Finish-to-Finish,FF - konec-konec
+Field has been updated,Polje je bilo posodobljeno
+Field name is required for 'Set Field Value' action,Ime polja je obvezno za dejanje »Nastavi vrednost polja«
+Field {0} is not a Link field,Polje {0} ni polje tipa Povezava
+Field {0} not found in {1},Polje {0} ni najdeno v {1}
+File,Datoteka
+file,datoteka
+File does not belong to this task,Datoteka ne pripada tej nalogi
+File name is required,Ime datoteke je obvezno
+File uploaded,Datoteka naložena
+File {0} not found,Datoteka {0} ni najdena
+Files,Datoteke
+files,datoteke
+Filter,Filter
+Final Decision,Končna odločitev
+Finance,Finance
+Financial,Finančno
+Finish-to-Finish,Konec-konec
+Finish-to-Start,Konec-začetek
+Flag,Označi
+Flag for attention,Označi za pozornost
+Flagged,Označeno
+Focus Panel,Osrednji panel
+Follows your system preference. Currently:,Sledi vaši sistemski nastavitvi. Trenutno:
+Frappe Project {0} not found,Frappe projekt {0} ni najden
+Frappe Projects Migration,Frappe Projects selitev
+Frappe Projects module not available,Modul Frappe Projects ni na voljo
+Frappe Projects module not installed,Modul Frappe Projects ni nameščen
+Frappe Projects sync is not enabled,Sinhronizacija Frappe Projects ni omogočena
+Frappe Task DocType not found,Frappe tip dokumenta Naloga ni najden
+Frappe Task has no project,Frappe naloga nima projekta
+Frappe Task {0} not found,Frappe naloga {0} ni najdena
+Fri,Pet
+From,Od
+From Template,Iz predloge
+FS (Finish-Start),FS (konec-začetek)
+FS - Finish-to-Start (default),FS - konec-začetek (privzeto)
+Full form view with audit trail,Celoten pogled obrazca z revizijsko sledjo
+Full name,Polno ime
+Gantt,Gantt
+Gantt Chart,Gantt diagram
+Gantt View,Gantt pogled
+General Note,Splošna opomba
+Get started,Začnite
+Go back,Nazaj
+Go Back,Go Back
+Group by,Združi po
+Group dependency removed,Odvisnost skupine odstranjena
+Group dependency set,Odvisnost skupine nastavljena
+Group removed,Skupina odstranjena
+Group updated,Skupina posodobljena
+Hammock task dates are auto-calculated and cannot be changed manually,Datumi viseče naloge so samodejno izračunani in jih ni mogoče ročno spremeniti
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Imate vprašanje ali potrebujete pomoč? Izpolnite spodnji obrazec in naša ekipa vam bo odgovorila.
+Health,Zdravje
+Healthy,Zdravo
+Hello {0},Pozdravljeni {0}
+Here's what's happening with your projects today.,Tukaj je pregled dogajanja na vaših projektih danes.
+Hide,Skrij
+High,Visoka
+History,Zgodovina
+Home,Domov
+Hourly Cost,Urni strošek
+Hours,Ure
+hours,ure
+Hours Logged,Zabeležene ure
+ID,ID
+Image must be smaller than 5 MB,Slika mora biti manjša od 5 MB
+Import,Uvozi
+Import existing projects and tasks from Frappe Projects module,Uvozite obstoječe projekte in naloge iz modula Frappe Projects
+Import failed,Uvoz ni uspel
+Import Template,Uvozi predlogo
+Imported,Uvoženo
+in,v
+In Progress,V teku
+In Review,V pregledu
+In-app notifications,Obvestila v aplikaciji
+Inactive,Neaktiven
+Initial Review,Začetni pregled
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Nezadostna dovoljenja za ogled vseh nalog
+Intermediate,Srednji
+Internal,Notranji
+Invalid DocType,Neveljaven tip dokumenta
+Invalid DocType for import,Neveljaven tip dokumenta za uvoz
+Invalid item type: {0},Neveljavna vrsta elementa: {0}
+Invalid JSON data,Neveljavni podatki JSON
+Invalid note type. Must be one of: {0},Neveljavna vrsta opombe. Mora biti ena od: {0}
+Invalid project reference,Neveljavna referenca projekta
+Invalid reaction type. Must be one of: {0},Neveljavna vrsta odziva. Mora biti ena od: {0}
+Invalid RSVP status,Neveljavno stanje RSVP
+Invalid status. Must be one of: {0},Neveljavno stanje. Mora biti eno od: {0}
+Invalid status: {0},Neveljavno stanje: {0}
+Invalid status: {0}. Must be one of: {1},Neveljavno stanje: {0}. Mora biti eno od: {1}
+Invalid tracking context: {0},Neveljaven kontekst sledenja: {0}
+Invalid visibility. Must be one of: {0},Neveljavna vidljivost. Mora biti ena od: {0}
+Invitation: {0} - {1} at {2},Povabilo: {0} - {1} ob {2}
+Invite People,Povabi osebe
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Element dodan
+Item ID is required,ID elementa je obvezen
+Item removed,Element odstranjen
+Item type is required,Vrsta elementa je obvezna
+Item {0} not found,Element {0} ni najden
+Job title or role,Naziv delovnega mesta ali vloga
+Join Meeting,Pridruži se sestanku
+Just now,Pravkar
+just now,pravkar
+Kanban,Kanban
+Kanban Board,Kanban tabla
+Kanban View,Kanban pogled
+Keyboard Shortcuts,Bližnjice na tipkovnici
+Keyboard shortcuts (?),Bližnjice na tipkovnici (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Nazadnje posodobljeno
+Last updated:,Nazadnje posodobljeno:
+Last Week,Prejšnji teden
+Latest Version,Latest Version
+Light,Svetlo
+Link failed,Povezovanje ni uspelo
+Link Task,Poveži nalogo
+Linked,Povezano
+Linked employee not found,Povezani zaposleni ni najden
+Linked Tasks,Povezane naloge
+List,Seznam
+List View,Pogled seznama
+Load failed,Nalaganje ni uspelo
+Load More,Naloži več
+Load more comments,Naloži več komentarjev
+Loading activity...,Nalaganje dejavnosti...
+Loading changes...,Nalaganje sprememb...
+Loading checklist...,Nalaganje kontrolnega seznama...
+Loading comments...,Nalaganje komentarjev...
+Loading contact...,Nalaganje stika...
+Loading contacts...,Nalaganje stikov...
+Loading dependencies...,Nalaganje odvisnosti...
+Loading details...,Nalaganje podrobnosti...
+Loading discussion...,Nalaganje razprave...
+Loading events...,Nalaganje dogodkov...
+Loading files...,Nalaganje datotek...
+Loading notes...,Nalaganje opomb...
+Loading preferences...,Nalaganje nastavitev...
+Loading project...,Nalaganje projekta...
+Loading projects...,Nalaganje projektov...
+Loading replies...,Nalaganje odgovorov...
+Loading report data...,Nalaganje podatkov poročila...
+Loading settings...,Nalaganje nastavitev...
+Loading task...,Nalaganje naloge...
+Loading templates...,Nalaganje predlog...
+Loading time logs...,Nalaganje časovnih zapisov...
+Loading your portal...,Nalaganje vašega portala...
+Loading...,Nalaganje...
+Location,Lokacija
+Log Time,Zabeleži čas
+Logout,Odjava
+Low,Nizka
+Make Offer,Pripravi ponudbo
+Manager,Vodja
+Manual Entry,Ročni vnos
+Margin,Marža
+Mark all as read,Označi vse kot prebrano
+Mark all read,Označi vse kot prebrano
+Mark as read,Označi kot prebrano
+Mark as unread,Označi kot neprebrano
+Mark read,Označi kot prebrano
+Marking...,Označevanje...
+Material,Material
+Maybe,Morda
+Medium,Srednja
+Meeting,Sestanek
+Meeting Link,Povezava do sestanka
+Meeting title,Naslov sestanka
+Meeting URL,URL sestanka
+Meetings,Sestanki
+Mention,Omemba
+Message,Sporočilo
+Message is required,Sporočilo je obvezno
+Message is required for '{0}' action,Sporočilo je obvezno za dejanje »{0}«
+Migrate,Preseli
+Migration Complete,Selitev končana
+Migration ID:,ID selitve:
+Migration log not found: {0},Dnevnik selitve ni najden: {0}
+Milestone,Mejnik
+milestone,mejnik
+Milestone created,Mejnik ustvarjen
+Milestone description has been saved.,Opis mejnika je bil shranjen.
+Milestone ID is required,ID mejnika je obvezen
+Milestone marked as Missed (past due date),Mejnik označen kot zamujeni (presežen rok)
+Milestone moved,Mejnik premaknjen
+Milestone Name,Ime mejnika
+Milestone name has been saved.,Ime mejnika je bilo shranjeno.
+Milestone name is required,Ime mejnika je obvezno
+Milestone updated,Mejnik posodobljen
+Milestone {0} not found,Mejnik {0} ni najden
+Milestone {0} not in project {1},Mejnik {0} ni v projektu {1}
+Milestones,Mejniki
+milestones,mejniki
+Milestones:,Mejniki:
+Minutes,Minute
+Missed,Zamujeno
+Mixed,Mešano
+Mobile,Mobilno
+Moderate,Zmerno
+Modified,Spremenjeno
+"Modify details, time, or attendees","Spremeni podrobnosti, čas ali udeležence"
+Mon,Pon
+Month,Mesec
+Move failed,Premik ni uspel
+Must be a positive number,Mora biti pozitivno število
+Must finish before this finishes,Mora biti končano pred koncem tega
+Must finish before this starts,Mora biti končano pred začetkom tega
+Must start before this finishes,Mora biti začeto pred koncem tega
+Must start before this starts,Mora biti začeto pred začetkom tega
+My Assignments,Moje dodelitve
+My Projects,Moji projekti
+My Schedule,Moj urnik
+My Tasks,Moje naloge
+N/A,N/R
+Name,Ime
+Name (A-Z),Ime (A-Ž)
+Name (Z-A),Ime (Ž-A)
+Name cannot exceed 255 characters,Ime ne sme presegati 255 znakov
+Need help?,Potrebujete pomoč?
+Needs Attention,Potrebuje pozornost
+Never,Never
+new activities,nove dejavnosti
+New Activity,Nova dejavnost
+New activity,Nova dejavnost
+New Event,Nov dogodek
+New index is required,Nov indeks je obvezen
+New Project,Nov projekt
+New tasks will auto-trail by default.,Nove naloge bodo privzeto imele samodejni drsni začetek.
+Newest First,Najnovejši najprej
+Next,Naprej
+Next 14 days,Naslednjih 14 dni
+Next 30 days,Naslednjih 30 dni
+Next 60 days,Naslednjih 60 dni
+Next 7 days,Naslednjih 7 dni
+Next 90 days,Naslednjih 90 dni
+Next Week,Naslednji teden
+Next:,Naprej:
+No,Ne
+No active assignments,Ni aktivnih dodelitev
+No active projects,Ni aktivnih projektov
+No active timer found,Aktivna štoparica ni najdena
+No activity selected,Nobena dejavnost ni izbrana
+No assignments found,Nobena dodelitev ni najdena
+No attendees,Ni udeležencev
+no change,brez sprememb
+No changes for this field.,Ni sprememb za to polje.
+No changes recorded for this activity.,Ni zabeleženih sprememb za to dejavnost.
+No checklist items yet,Še ni elementov kontrolnega seznama
+No checklist items yet.,Še ni elementov kontrolnega seznama.
+No comments yet,Še ni komentarjev
+No comments yet.,Še ni komentarjev.
+No contacts available,Ni razpoložljivih stikov
+No content for this tab,Ni vsebine za ta zavihek
+No data available,Ni razpoložljivih podatkov
+No data available for the selected filters,Ni razpoložljivih podatkov za izbrane filtre
+No data to export,Ni podatkov za izvoz
+No dates set,Datumi niso nastavljeni
+No defects reported,Ni prijavljenih napak
+No dependencies defined,Ni opredeljenih odvisnosti
+No description,Ni opisa
+No discussion yet.,Še ni razprave.
+No documents attached,Ni priloženih dokumentov
+No due date,Ni roka
+No employee linked to this resource,Noben zaposleni ni povezan s tem virom
+No ERPNext employee linked to resource,Noben ERPNext zaposleni ni povezan z virom
+No events found,Ni najdenih dogodkov
+No files attached yet.,Še ni priloženih datotek.
+No Frappe Project linked,Noben Frappe projekt ni povezan
+No Grouping,Brez združevanja
+No items,Ni elementov
+No matching tasks,Ni ujemajočih nalog
+No matching tasks found,Ni najdenih ujemajočih nalog
+No migration history,Ni zgodovine selitev
+No Milestone,Brez mejnika
+No milestones,Ni mejnikov
+No milestones defined for this project.,Za ta projekt ni opredeljenih mejnikov.
+No notes yet.,Še ni opomb.
+No notes yet. Add a due diligence note to track progress.,Še ni opomb. Dodajte opombo skrbnega pregleda za spremljanje napredka.
+No notifications,Ni obvestil
+No Orga Project linked to Frappe Project {0},Noben Orga projekt ni povezan s Frappe projektom {0}
+No overdue tasks,Ni zamujenih nalog
+No pending cascade changes,Ni čakajočih kaskadnih sprememb
+No predecessors - this task can start independently,Ni predhodnikov — ta naloga se lahko začne samostojno
+No project,Ni projekta
+No projects found,Ni najdenih projektov
+No Projects Yet,Še ni projektov
+No recent activity,Ni nedavne dejavnosti
+No related documents,Ni povezanih dokumentov
+No resolved threads.,Ni razrešenih niti.
+No resources found,Ni najdenih virov
+No results found,Ni najdenih rezultatov
+No skills listed,Ni navedenih veščin
+No skills recorded yet,Še ni zabeleženih veščin
+No successors - no tasks are waiting for this one,Ni naslednikov — nobena naloga ne čaka na to
+No task selected,Nobena naloga ni izbrana
+No tasks assigned to you,Nobena naloga vam ni dodeljena
+No tasks available to add,Ni nalog za dodajanje
+No tasks found,Ni najdenih nalog
+No tasks linked to this milestone,Nobena naloga ni povezana s tem mejnikom
+No tasks with dates to display,Ni nalog z datumi za prikaz
+No tasks yet,Še ni nalog
+No team members,Ni članov ekipe
+No template,Ni predloge
+No templates yet,Še ni predlog
+No time data found,Ni najdenih časovnih podatkov
+No time logged today,Danes ni zabeležen čas
+No time logged yet,Še ni zabeležen čas
+No time logs for this period,Ni časovnih zapisov za to obdobje
+No time logs found,Ni najdenih časovnih zapisov
+No unread notifications,Ni neprebranih obvestil
+No update information available yet.,No update information available yet.
+None,Brez
+Not found,Ni najdeno
+Not permitted,Ni dovoljeno
+Not permitted to access this project,Dostop do tega projekta ni dovoljen
+Not permitted to access this task,Dostop do te naloge ni dovoljen
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Komentiranje tega dokumenta ni dovoljeno
+Not permitted to create clients,Ustvarjanje strank ni dovoljeno
+Not permitted to delete this client,Brisanje te stranke ni dovoljeno
+Not permitted to delete this defect,Brisanje te napake ni dovoljeno
+Not permitted to delete this note,Brisanje te opombe ni dovoljeno
+Not permitted to delete this project,Brisanje tega projekta ni dovoljeno
+Not permitted to delete this task,Brisanje te naloge ni dovoljeno
+Not permitted to delete this time log,Brisanje tega časovnega zapisa ni dovoljeno
+Not permitted to invite clients,Vabljenje strank ni dovoljeno
+Not permitted to modify client access,Spreminjanje dostopa stranke ni dovoljeno
+Not permitted to modify this project,Spreminjanje tega projekta ni dovoljeno
+Not permitted to update settings,Posodabljanje nastavitev ni dovoljeno
+Not permitted to update this client,Posodabljanje te stranke ni dovoljeno
+Not permitted to view this client,Ogled te stranke ni dovoljen
+not sent,ni poslano
+Not set,Ni nastavljeno
+Not specified,Ni navedeno
+Note,Opomba
+Note (optional),Opomba (izbirno)
+Note Content,Vsebina opombe
+Note content is required,Vsebina opombe je obvezna
+Note name is required,Ime opombe je obvezno
+Note not found,Opomba ni najdena
+Note Type,Vrsta opombe
+Notes,Opombe
+Notification,Obvestilo
+Notification not found,Obvestilo ni najdeno
+Notifications,Obvestila
+Off Track,Izven načrta
+Offer,Ponudba
+Offer Prepared,Ponudba pripravljena
+Oldest First,Najstarejši najprej
+On Hold,Na čakanju
+On Leave,Na dopustu
+On Track,Po načrtu
+On-Time Rate,Stopnja pravočasnosti
+Only administrators can delete activities,Samo skrbniki lahko brišejo dejavnosti
+Only the comment author or administrators can delete comments,Samo avtor komentarja ali skrbniki lahko brišejo komentarje
+Only you and admins,Samo vi in skrbniki
+Open,Odprto
+Open in Desk,Odpri v Desk
+Open Task Log,Odpri dnevnik naloge
+Open Tasks,Odprte naloge
+Optional,Izbirno
+optional,izbirno
+Or email us directly at,Ali nam pišite neposredno na
+Orga Project {0} from Frappe Projects,Orga projekt {0} iz Frappe Projects
+Orga Task {0} from Frappe,Orga naloga {0} iz Frappe
+Organizer,Organizator
+Other,Drugo
+Over Budget,Presežen proračun
+Overall Progress,Skupni napredek
+Overall Utilization,Skupna zasedenost
+Overallocated,Preveč dodeljeno
+Overdue,Zamujeno
+overdue,zamujeno
+Overdue Tasks,Zamujene naloge
+Overview,Pregled
+Owner,Lastnik
+Page Not Found,Stran ni najdena
+Parent,Nadrejeni
+Parent comment must belong to the same document,Nadrejeni komentar mora pripadati istemu dokumentu
+Parent comment not found,Nadrejeni komentar ni najden
+Parent project not synced to Frappe yet,Nadrejeni projekt še ni sinhroniziran s Frappe
+Parent project sync not enabled,Sinhronizacija nadrejenega projekta ni omogočena
+Partner,Partner
+Pending,V čakanju
+per page,na stran
+Perform initial assessment and background check,Izvedite začetno oceno in preverjanje ozadja
+Permanently remove this event,Trajno odstrani ta dogodek
+Permanently remove this task,Trajno odstrani to nalogo
+Phone,Telefon
+Pin,Pripni
+Pin Activity,Pripni dejavnost
+Pin to top,Pripni na vrh
+Pinned,Pripeto
+Planned budget for this task,Načrtovani proračun za to nalogo
+Planning,Načrtovanje
+Please describe your question or issue in detail...,Podrobno opišite vaše vprašanje ali težavo...
+Please login to access Orga,Za dostop do Orga se prijavite
+Please login to access the client portal,Za dostop do portala za stranke se prijavite
+Please respond to this invitation in Orga,Prosimo odgovorite na to povabilo v Orga
+Please select an image file,Izberite slikovno datoteko
+Please try again,Poskusite znova
+Please type,Vnesite
+Portal,Portal
+Portal access revoked for {0},Dostop do portala preklican za {0}
+Portal user created successfully. Welcome email {0},Uporabnik portala uspešno ustvarjen. Pozdravno e-poštno sporočilo {0}
+Post,Objavi
+Powered by,Poganja
+Powered by Tonic,Poganja Tonic
+Predecessors (Blocked By),Predhodniki (blokirano s strani)
+Preferences,Nastavitve
+Preferences saved successfully,Nastavitve uspešno shranjene
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Predpona za samodejno generirane projektne oznake (npr. ORG-2026-0001)
+Prepare and document offer terms,Pripravite in dokumentirajte pogoje ponudbe
+Press,Pritisnite
+Preview,Predogled
+Preview cascade before applying,Predogled kaskade pred uporabo
+Previous,Prejšnji
+Priority,Prioriteta
+Priority assigned to new tasks,Prioriteta dodeljena novim nalogam
+Priority updated,Prioriteta posodobljena
+Proficiency,Usposobljenost
+Profile,Profil
+Progress,Napredek
+Progress (High-Low),Napredek (padajoče)
+Progress (Low-High),Napredek (naraščajoče)
+Progress Overview,Pregled napredka
+Progress updated,Napredek posodobljen
+Project,Projekt
+Project budget has been saved.,Proračun projekta je bil shranjen.
+Project code (e.g. ORG-2026-0001),Oznaka projekta (npr. ORG-2026-0001)
+Project Code Prefix,Predpona oznake projekta
+Project created,Projekt ustvarjen
+Project deleted,Projekt izbrisan
+Project description has been saved.,Opis projekta je bil shranjen.
+Project Details,Podrobnosti projekta
+Project end date has been saved.,Datum konca projekta je bil shranjen.
+Project Files,Projektne datoteke
+Project has no linked client,Projekt nima povezane stranke
+Project Health,Zdravje projekta
+Project Info,Podatki o projektu
+Project is required,Projekt je obvezen
+Project is required for project context,Projekt je obvezen za kontekst projekta
+Project is required when tracking context is 'project',"Projekt je obvezen, ko je kontekst sledenja »projekt«"
+Project Manager,Vodja projekta
+Project Name,Ime projekta
+Project name and template name are required,Ime projekta in ime predloge sta obvezna
+Project name is required,Ime projekta je obvezno
+Project not found,Projekt ni najden
+Project not found or you do not have access,Projekt ni najden ali nimate dostopa
+Project settings,Nastavitve projekta
+Project start date has been saved.,Datum začetka projekta je bil shranjen.
+Project title has been saved.,Naslov projekta je bil shranjen.
+Project Type,Vrsta projekta
+Project updated,Projekt posodobljen
+Project {0} linked to client {1},Projekt {0} povezan s stranko {1}
+Project {0} not found,Projekt {0} ni najden
+Project {0} to Frappe Projects,Projekt {0} v Frappe Projects
+Project:,Projekt:
+Projects,Projekti
+projects,projekti
+Projects created:,Ustvarjeni projekti:
+Projects Overview,Pregled projektov
+Projects skipped:,Preskočeni projekti:
+Projects updated:,Posodobljeni projekti:
+Promote failed,Povišanje ni uspelo
+Promote to task,Povišaj v nalogo
+Promoted to task,Povišano v nalogo
+Propose,Predlagaj
+Propose New Time,Predlagaj nov čas
+Propose Time,Predlagaj čas
+Proposed End,Predlagani konec
+Proposed Start,Predlagani začetek
+Public,Javno
+Quick Action,Hiter ukrep
+Quick Actions,Hitri ukrepi
+Quick Stats,Hitra statistika
+Rates,Postavke
+Receive notifications via email,Prejemajte obvestila po e-pošti
+Receive notifications within the application,Prejemajte obvestila znotraj aplikacije
+Recent Activity,Nedavna dejavnost
+Recipient {0} is not a valid user,Prejemnik {0} ni veljaven uporabnik
+Reference,Referenca
+Refresh,Osveži
+Related,Povezano
+Related Company (optional),Povezano podjetje (izbirno)
+Related Documents,Povezani dokumenti
+Related Project,Povezani projekt
+Remaining,Preostalo
+Reminder,Opomnik
+Reminder Lead Time,Čas predhodnega opomnika
+Reminder: {0} - {1} at {2},Opomnik: {0} - {1} ob {2}
+Remove,Odstrani
+Remove dependency,Odstrani odvisnost
+Remove dependency on,Odstrani odvisnost od
+Remove from group,Odstrani iz skupine
+Remove group dependency,Odstrani odvisnost skupine
+Remove skill,Odstrani veščino
+Reopen,Ponovno odpri
+Reopen thread,Ponovno odpri nit
+reopened,ponovno odprto
+replies,odgovori
+Reply,Odgovori
+reply,odgovor
+Replying to,Odgovarjanje na
+Replying to comment,Odgovarjanje na komentar
+Report Defect,Prijavi napako
+Reported Date,Datum prijave
+Reports,Poročila
+Reports To,Poroča
+Request Submitted!,Zahteva poslana!
+Required,Obvezno
+required,obvezno
+Research,Raziskava
+Reset to Defaults,Ponastavi na privzeto
+Resolve,Razreši
+Resolve thread,Razreši nit
+Resolved,Razrešeno
+Resolved date cannot be before reported date,Datum razrešitve ne more biti pred datumom prijave
+Resource,Vir
+Resource and skill name are required,Vir in ime veščine sta obvezna
+Resource is already an attendee,Vir je že udeleženec
+Resource name is required,Ime vira je obvezno
+Resource not found,Vir ni najden
+Resource synced from employee {0},Vir sinhroniziran iz zaposlenega {0}
+Resource {0} is already assigned to this task ({1}),Vir {0} je že dodeljen tej nalogi ({1})
+Resource {0} not found,Vir {0} ni najden
+Resources,Viri
+Retry,Poskusi znova
+Review,Pregled
+Review all relevant documents and contracts,Preglejte vse ustrezne dokumente in pogodbe
+Reviews,Pregledi
+Risk Assessment,Ocena tveganja
+Rollback,Razveljavi
+Rolled back,Razveljavljeno
+Room or address,Prostor ali naslov
+RSVP,RSVP
+Safety,Varnost
+Sat,Sob
+Save,Shrani
+"Save a project as a template, or import one from a JSON file.",Shranite projekt kot predlogo ali uvozite eno iz JSON datoteke.
+Save as Template,Shrani kot predlogo
+Save Changes,Shrani spremembe
+Save failed,Shranjevanje ni uspelo
+Save Preferences,Shrani nastavitve
+Save Template,Shrani predlogo
+Saving...,Shranjevanje...
+Schedule,Urnik
+Schedule type is required for scheduled triggers,Vrsta urnika je obvezna za načrtovane sprožilce
+Scheduled,Načrtovano
+Search,Iskanje
+"Search by name, email, or skill...","Iščite po imenu, e-pošti ali veščini..."
+Search for a project...,Iščite projekt...
+Search for a task...,Iščite nalogo...
+Search for an event...,Iščite dogodek...
+Search for people to invite...,Iščite osebe za povabilo...
+Search tasks to link...,Iščite naloge za povezovanje...
+Search tasks...,Iščite naloge...
+Search...,Iskanje...
+Searching...,Iskanje...
+Seen,Videno
+Select a project if your request is related to a specific project.,"Izberite projekt, če se vaša zahteva nanaša na določen projekt."
+Select a project...,Izberite projekt...
+Select a task from the Gantt chart to view and manage its details.,Izberite nalogo iz Gantt diagrama za ogled in upravljanje podrobnosti.
+Select a task from the list or Kanban board to view and manage its details.,Izberite nalogo s seznama ali Kanban table za ogled in upravljanje podrobnosti.
+Select a template...,Izberite predlogo...
+Select priority...,Izberite prioriteto...
+Select status...,Izberite stanje...
+Select task...,Izberite nalogo...
+Select type...,Izberite vrsto...
+Selection,Izbor
+Send,Pošlji
+Send comment,Pošlji komentar
+Send email invitations to attendees,Pošlji e-poštna povabila udeležencem
+Send Invitations,Pošlji povabila
+Send notification when a task is assigned to a user,Pošlji obvestilo ob dodelitvi naloge uporabniku
+Send notification when task status changes,Pošlji obvestilo ob spremembi stanja naloge
+Send reminder before task due date,Pošlji opomnik pred rokom naloge
+sent,poslano
+Set rate,Nastavi postavko
+Settings,Nastavitve
+Settings saved successfully,Nastavitve uspešno shranjene
+Severity,Resnost
+SF (Start-Finish),SF (začetek-konec)
+SF - Start-to-Finish,SF - začetek-konec
+Show,Prikaži
+Show all,Prikaži vse
+Show all changes,Prikaži vse spremembe
+Show Archived,Prikaži arhivirane
+Show full diff,Prikaži celotno razliko
+Show less,Prikaži manj
+Show more,Prikaži več
+Skill added,Veščina dodana
+Skill is required,Veščina je obvezna
+Skill Name,Ime veščine
+Skill removed,Veščina odstranjena
+Skill {0} already exists for this resource,Veščina {0} že obstaja za ta vir
+Skills,Veščine
+Skills & Competencies,Veščine in sposobnosti
+Skip already migrated projects,Preskoči že preseljene projekte
+Sort by,Razvrsti po
+Sort: Due Date,Razvrsti: rok
+Sort: Priority,Razvrsti: prioriteta
+Sort: Project,Razvrsti: projekt
+Sort: Status,Razvrsti: stanje
+Sort: Task,Razvrsti: naloga
+Source Code,Izvorna koda
+Spent,Porabljeno
+Spent:,Porabljeno:
+SS (Start-Start),SS (začetek-začetek)
+SS - Start-to-Start,SS - začetek-začetek
+Standalone,Samostojno
+Start,Začetek
+Start a discussion below,Začnite razpravo spodaj
+Start Date,Datum začetka
+Start date,Datum začetka
+Start Date (Earliest),Datum začetka (najzgodnejši)
+Start date updated,Datum začetka posodobljen
+Start date/time is required,Datum/čas začetka je obvezen
+Start Migration,Začni selitev
+Start the conversation below.,Začnite pogovor spodaj.
+Start Timer,Zaženi štoparico
+Start typing to search...,Začnite tipkati za iskanje...
+Start-to-Finish,Začetek-konec
+Start-to-Start,Začetek-začetek
+Start:,Začetek:
+Statistics reset,Statistika ponastavljena
+Status,Stanje
+Status assigned to new projects,Stanje dodeljeno novim projektom
+Status assigned to new tasks,Stanje dodeljeno novim nalogam
+Status Changes,Spremembe stanja
+Status updated,Stanje posodobljeno
+Status:,Stanje:
+Stop,Ustavi
+Stop & Save,Ustavi in shrani
+Stop Timer,Ustavi štoparico
+Stops current timer and starts for this event,Ustavi trenutno štoparico in zažene za ta dogodek
+Stops current timer and starts for this task,Ustavi trenutno štoparico in zažene za to nalogo
+Subject,Zadeva
+Subject cannot exceed 255 characters,Zadeva ne sme presegati 255 znakov
+Subject is required,Zadeva je obvezna
+Submit,Oddaj
+Submit Another Request,Oddaj novo zahtevo
+Submit Request,Oddaj zahtevo
+Submitting...,Oddajanje...
+Successfully saved,Uspešno shranjeno
+Successors (Blocking),Nasledniki (blokirajo)
+Sun,Ned
+Supplier,Dobavitelj
+Support,Podpora
+Switch to this event,Preklopi na ta dogodek
+Switch to this task,Preklopi na to nalogo
+Sync direction is set to Frappe to Orga only,Smer sinhronizacije je nastavljena samo iz Frappe v Orga
+Sync direction is set to Orga to Frappe only,Smer sinhronizacije je nastavljena samo iz Orga v Frappe
+Sync not enabled for this project,Sinhronizacija za ta projekt ni omogočena
+System,Sistem
+Table,Tabela
+Take ownership of this task,Prevzemi to nalogo
+Target Date,Ciljni datum
+Target End,Ciljni konec
+Target Project,Ciljni projekt
+Target user is required for '{0}' action,Ciljni uporabnik je obvezen za dejanje »{0}«
+Task,Naloga
+task,naloga
+Task '{0}' is due on {1}.,Naloga »{0}« ima rok {1}.
+Task and resource are required,Naloga in vir sta obvezna
+Task Assignment,Dodelitev naloge
+Task cannot be its own parent,Naloga ne more biti sama sebi nadrejena
+Task cannot depend on itself,Naloga ne more biti odvisna od same sebe
+Task cannot depend on the group it belongs to,Naloga ne more biti odvisna od skupine
+Task created,Naloga ustvarjena
+Task deleted,Naloga izbrisana
+Task description has been saved.,Opis naloge je bil shranjen.
+Task Details,Podrobnosti naloge
+Task due in {0} days: {1},Rok naloge čez {0} dni: {1}
+Task due today: {0},Rok naloge danes: {0}
+Task due tomorrow: {0},Rok naloge jutri: {0}
+Task duplicated,Naloga podvojena
+Task Group,Skupina nalog
+Task ID is required,ID naloge je obvezen
+Task is blocked by incomplete dependencies,Naloga je blokirana zaradi nedokončanih odvisnosti
+Task is cancelled,Naloga je preklicana
+Task is completed,Naloga je dokončana
+Task is no longer blocked by a group,Naloga ni več blokirana s strani skupine
+Task is required for task context,Naloga je obvezna za kontekst naloge
+Task is required when tracking context is 'task',"Naloga je obvezna, ko je kontekst sledenja »naloga«"
+Task linked,Naloga povezana
+Task moved,Naloga premaknjena
+Task name,Ime naloge
+Task name is required,Ime naloge je obvezno
+Task removed from group,Naloga odstranjena iz skupine
+Task Subject,Zadeva naloge
+Task subject is required,Zadeva naloge je obvezna
+Task Type,Vrsta naloge
+Task unblocked: {0},Naloga odblokirana: {0}
+Task unlinked,Naloga razpojena
+Task updated,Naloga posodobljena
+Task {0} not found,Naloga {0} ni najdena
+Task {0} not in project {1},Naloga {0} ni v projektu {1}
+Task {0} to Frappe,Naloga {0} v Frappe
+Tasks,Naloge
+tasks,naloge
+Tasks and milestones will be created with dates relative to the project start date.,Naloge in mejniki bodo ustvarjeni z datumi relativnimi glede na datum začetka projekta.
+Tasks assigned to you across all projects.,Naloge dodeljene vam v vseh projektih.
+Tasks created:,Ustvarjene naloge:
+Tasks from projects you manage.,Naloge iz projektov
+Tasks updated:,Posodobljene naloge:
+"Tasks, milestones, and dependencies have been created.","Naloge, mejniki in odvisnosti so bili ustvarjeni."
+Tasks:,Naloge:
+TBD,Se določi
+Team,Ekipa
+Team Members,Člani ekipe
+Template,Predloga
+Template applied,Predloga uporabljena
+Template data is required in import data,Podatki predloge so obvezni v uvoznih podatkih
+Template has no data,Predloga nima podatkov
+Template Name,Ime predloge
+Template name,Ime predloge
+Template name is required,Ime predloge je obvezno
+Template name is required in import data,Ime predloge je obvezno v uvoznih podatkih
+Template saved,Predloga shranjena
+Template updated successfully.,Predloga uspešno posodobljena.
+Template {0} not found,Predloga {0} ni najdena
+Templates,Predloge
+Tentative,Okvirno
+The comment has been deleted,Komentar je bil izbrisan
+The project,Projekt
+The source document may have been deleted.,Izvorni dokument je bil morda izbrisan.
+The source document will not be affected.,Izvorni dokument ne bo prizadet.
+The status of '{0}' was changed from {1} to {2}.,Stanje »{0}« je bilo spremenjeno iz {1} v {2}.
+Theme,Tema
+Theme preference,Nastavitev teme
+This action,To dejanje
+This action cannot be undone.,Tega dejanja ni mogoče razveljaviti.
+This activity has been flagged for attention,Ta dejavnost je bila označena za pozornost
+This is a reminder for your upcoming appointment,To je opomnik za vaš prihajajoči sestanek
+This method is only meant for developer mode,Ta metoda je namenjena samo razvijalskemu načinu
+This page wandered off,This page wandered off
+This Week,Ta teden
+This will delete all notes and preferences associated with this activity.,To bo izbrisalo vse opombe in nastavitve povezane s to dejavnostjo.
+This will import all Frappe Projects into Orga. Continue?,To bo uvozilo vse Frappe projekte v Orga. Nadaljujete?
+This will permanently delete,To bo trajno izbrisalo
+This will permanently delete:,To bo trajno izbrisalo:
+Thu,Čet
+Time,Čas
+Time & Billing,Čas in zaračunavanje
+Time & Revenue,Čas in prihodki
+Time Entries,Časovni vnosi
+Time log name is required,Ime časovnega zapisa je obvezno
+Time Log not found,Časovni zapis ni najden
+Time log {0} not found,Časovni zapis {0} ni najden
+Time Logs,Časovni zapisi
+Time Summary,Časovni povzetek
+Time Tracking,Sledenje časa
+Timeline,Časovnica
+Timer active on,Štoparica aktivna na
+Timer is not running,Štoparica ne teče
+Timer Running,Štoparica teče
+Timer running,Štoparica teče
+Timesheet DocType not available,Tip dokumenta Feuille de temps ni na voljo
+Timesheets,Časovnice
+Timezone,Časovni pas
+Timezone is detected from your browser,Časovni pas je zaznan iz vašega brskalnika
+Title,Naslov
+Title cannot exceed 255 characters,Naslov ne sme presegati 255 znakov
+Title is required,Naslov je obvezen
+Title updated,Naslov posodobljen
+To,Do
+to,do
+to cancel,za preklic
+to close,za zapiranje
+to confirm:,za potrditev:
+to edit,za urejanje
+"to save,","za shranjevanje,"
+To Time cannot be before From Time,Čas konca ne more biti pred časom začetka
+Today,Danes
+today,danes
+Toggle billable,Preklopi zaračunljivost
+Toggle Details Panel,Preklopi panel podrobnosti
+Toggle Manager Panel,Preklopi panel vodje
+Toggle Sidebar,Preklopi stransko vrstico
+Tomorrow,Jutri
+tomorrow,jutri
+Total,Skupaj
+Total Budget,Skupni proračun
+Total Contacts,Skupaj stikov
+Total Cost,Skupni stroški
+Total Cost to Org,Skupni stroški za organizacijo
+Total Defect Cost,Skupni stroški napak
+Total Hours,Skupaj ur
+Total Hours Logged,Skupaj zabeleženih ur
+Total Projects,Skupaj projektov
+Total Spent,Skupaj porabljeno
+Total Tasks,Skupaj nalog
+Total:,Skupaj:
+Tracked,Sledeno
+trails to today while Open at 0%,"drsi do danes, medtem ko je odprto na 0%"
+Tried:,Tried:
+Try adjusting your filter criteria,Poskusite prilagoditi vaše kriterije filtrov
+Try adjusting your filters.,Poskusite prilagoditi vaše filtre.
+Try Again,Poskusite znova
+Tue,Tor
+Type,Vrsta
+Type updated,Vrsta posodobljena
+Type:,Vrsta:
+Typical response time: 1-2 business days,Običajni odzivni čas: 1–2 delovna dneva
+Unarchive,Odarhiviraj
+Unarchive Activity,Odarhiviraj dejavnost
+Unassign,Prekliči dodelitev
+Unassigned,Nedodeljeno
+Under Budget,Pod proračunom
+Ungrouped,Nerazvrščeno
+Unknown,Neznano
+Unknown error,Neznana napaka
+Unlink failed,Odpovezovanje ni uspelo
+Unlink task from milestone,Odpoveži nalogo od mejnika
+Unpin,Odpni
+Unpin Activity,Odpni dejavnost
+Unread,Neprebrano
+Unread only,Samo neprebrano
+Until,Do
+Up to Date,Up to Date
+Upcoming,Prihajajoče
+upcoming,prihajajoče
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Posodobitev ni uspela
+Updated,Posodobljeno
+Updated successfully,Uspešno posodobljeno
+Updates,Updates
+Upload,Naloži
+Upload failed,Nalaganje ni uspelo
+Upload files below to attach them to this task.,Naložite datoteke spodaj za prilogo k tej nalogi.
+Upload to project,Naloži v projekt
+Uploading...,Nalaganje...
+Urgent,Nujno
+User {0} is already linked to client {1},Uporabnik {0} je že povezan s stranko {1}
+User {0} is already linked to resource {1},Uporabnik {0} je že povezan z virom {1}
+Utilization,Zasedenost
+Valid,Veljavno
+Value:,Vrednost:
+Variance,Odstopanje
+Variance:,Odstopanje:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Pogled
+View All,Poglej vse
+View all active projects,Poglej vse aktivne projekte
+View all open tasks,Poglej vse odprte naloge
+View overdue tasks,Poglej zamujene naloge
+View Release,View Release
+Visibility,Vidljivost
+Waiting for this task,Čakanje na to nalogo
+Waits for:,Čaka na:
+Warning: Resource {0} status is {1},Opozorilo: stanje vira {0} je {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Opozorilo: uporaba HTTP namesto HTTPS. Podatki webhook morda niso varni.
+Watch budget closely,Pozorno spremljajte proračun
+We'll respond to:,Odgovorili bomo na:
+Webhook deleted,Webhook izbrisan
+Webhook name is required,Ime webhook je obvezno
+Webhook not found,Webhook ni najden
+Webhook URL is required,URL webhook je obvezen
+Webhook URL must start with http:// or https://,URL webhook se mora začeti s http:// ali https://
+Wed,Sre
+Week,Teden
+Weekend,Vikend
+Weekly Capacity,Tedenska zmogljivost
+weekly capacity,tedenska zmogljivost
+Weekly Capacity (h),Tedenska zmogljivost (h)
+Welcome,Dobrodošli
+Welcome back!,Dobrodošli nazaj!
+Welcome to Orga,Dobrodošli v Orga
+What are you working on?,Na čem delate?
+What did you work on?,Na čem ste delali?
+When,Kdaj
+When work begins,Ko se delo začne
+When work is due,Ko je rok dela
+Where,Kje
+Will capture:,Zajelo bo:
+Will create:,Ustvarilo bo:
+with checklist items,z elementi kontrolnega seznama
+Working,V delu
+Workload,Delovna obremenitev
+Workmanship,Kakovost izvedbe
+Write a comment...,Napišite komentar...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Napišite komentar... Uporabite @ime za omembo (Ctrl+Enter za pošiljanje)
+Year,Leto
+Yes,Da
+Yesterday,Včeraj
+yesterday,včeraj
+You are not an attendee of this appointment,Niste udeleženec tega sestanka
+You are not linked to any resource,Niste povezani z nobenim virom
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Lahko brišete samo lastne komentarje
+You can only delete your own reactions,Lahko brišete samo lastne odzive
+You do not have access to the client portal. Please contact support.,Nimate dostopa do portala za stranke. Obrnite se na podporo.
+You have already reacted with '{0}',Že ste se odzvali z »{0}«
+You have been assigned to task '{0}' in project '{1}'.,Dodeljeni ste nalogi »{0}« v projektu »{1}«.
+You have been assigned to: {0},Dodeljeni ste: {0}
+You have been invited to the following appointment,Povabljeni ste na naslednji sestanek
+You have no tasks assigned to you right now.,Trenutno vam ni dodeljena nobena naloga.
+You were mentioned in {0},Omenjeni ste bili v {0}
+Your attendance,Vaša udeležba
+Your comment has been posted,Vaš komentar je bil objavljen
+Your Projects,Vaši projekti
+Your projects will appear here once they're assigned to you.,Vaši projekti se bodo pojavili tukaj
+Your Response,Vaš odgovor
+Your RSVP,Vaš RSVP
+Your support request has been submitted successfully.,Vaša zahteva za podporo je bila uspešno oddana.
+Your support request has been submitted successfully. We'll get back to you shortly.,Vaša zahteva za podporo je bila uspešno oddana. Odgovorili vam bomo v najkrajšem možnem času.
+"Your task ""{0}"" is no longer blocked and can now be started.",Vaša naloga »{0}« ni več blokirana in jo lahko zdaj začnete.
+{0} is required,{0} je obvezno
+{0} new activities,{0} novih dejavnosti
+{0} of {1} completed,{0} od {1} dokončanih
+{0} projects already migrated (will be skipped or updated),{0} projektov že preseljenih (bodo preskočeni ali posodobljeni)
+{0} status changed to {1},Stanje {0} spremenjeno v {1}
+{0} tasks remaining,{0} preostalih nalog
+{0} tasks without projects will be skipped,{0} nalog brez projektov bo preskočenih
+{0} {1} not found,{0} {1} ni najdeno

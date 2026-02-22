@@ -1,0 +1,1492 @@
++ Add Milestone,+ සන්ධිස්ථානයක් එකතු කරන්න
++ Create Task,+ කාර්යක් සාදන්න
++ Log Time,+ කාලය සටහන් කරන්න
+-- Select a project --,-- ව්‍යාපෘතියක් තෝරන්න --
+0m,0මි
+1 day,දින 1
+1 day ago,දින 1කට පෙර
+1 dependency,පරායත්තතා 1
+1 entry,ඇතුළත් කිරීම් 1
+1 file,ගොනු 1
+1 hour ago,පැය 1කට පෙර
+1 member,සාමාජික 1
+1 milestone,සන්ධිස්ථාන 1
+1 month,මාස 1
+1 task,කාර්ය 1
+< 1m,< මි 1
+"A clear, actionable title for the task","කාර්යය සඳහා පැහැදිලි, ක්‍රියාකාරී මාතෘකාවක්"
+A client with email {0} already exists: {1},{0} විද්‍යුත් තැපෑලක් ඇති සේවාදායකයෙක් දැනටමත් පවතී: {1}
+A key deliverable or checkpoint for the project,ව්‍යාපෘතිය සඳහා ප්‍රධාන සාධනයක් හෝ පරීක්ෂණ ස්ථානයක්
+Accept,පිළිගන්න
+Accepted,පිළිගත්තා
+Acknowledge,පිළිගැනීම
+across,හරහා
+Action,ක්‍රියාව
+Actions,ක්‍රියා
+Active,ක්‍රියාකාරී
+Active Assignments,ක්‍රියාකාරී පැවරුම්
+Active Projects,ක්‍රියාකාරී ව්‍යාපෘති
+Activity,ක්‍රියාකාරකම්
+Activity data deleted successfully,ක්‍රියාකාරකම් දත්ත සාර්ථකව මකා දැමිණි
+Activity Info,ක්‍රියාකාරකම් තොරතුරු
+Activity Stats,ක්‍රියාකාරකම් සංඛ්‍යාලේඛන
+Activity will appear here as you work on tasks and projects.,ඔබ කාර්යයන් සහ ව්‍යාපෘති මත වැඩ කරන විට ක්‍රියාකාරකම් මෙහි දිස්වේ.
+Actual,සැබෑ
+Actual Cost,සැබෑ පිරිවැය
+Actual cost cannot be negative,සැබෑ පිරිවැය සෘණ විය නොහැක
+Actual end date cannot be before actual start date,සැබෑ අවසන් දිනය සැබෑ ආරම්භ දිනයට පෙර විය නොහැක
+Actual Hours,සැබෑ පැය
+Add,එක් කරන්න
+Add a checklist item...,පරීක්ෂා ලැයිස්තු අයිතමයක් එක් කරන්න...
+Add a comment...,අදහසක් එක් කරන්න...
+Add a comment... (Ctrl+Enter to send),අදහසක් එක් කරන්න... (යැවීමට Ctrl+Enter)
+Add a description...,විස්තරයක් එක් කරන්න...
+Add a milestone description...,සන්ධිස්ථාන විස්තරයක් එක් කරන්න...
+Add a note below to annotate this activity.,මෙම ක්‍රියාකාරකම සටහන් කිරීමට පහතින් සටහනක් එක් කරන්න.
+Add a note...,සටහනක් එක් කරන්න...
+Add a project description...,ව්‍යාපෘති විස්තරයක් එක් කරන්න...
+Add a task description...,කාර්ය විස්තරයක් එක් කරන්න...
+Add checklist item...,පරීක්ෂා ලැයිස්තු අයිතමයක් එක් කරන්න...
+Add Contact,සම්බන්ධතාවයක් එක් කරන්න
+Add contacts via the Desk interface or clear filters,Desk අතුරුමුහුණත හරහා සම්බන්ධතා එක් කරන්න හෝ පෙරහන් ඉවත් කරන්න
+Add Dependency,පරායත්තතාවක් එක් කරන්න
+Add details about this event...,මෙම සිද්ධිය පිළිබඳ විස්තර එක් කරන්න...
+Add details about this milestone...,මෙම සන්ධිස්ථානය පිළිබඳ විස්තර එක් කරන්න...
+Add details about this task...,මෙම කාර්යය පිළිබඳ විස්තර එක් කරන්න...
+Add details or acceptance criteria for this milestone,මෙම සන්ධිස්ථානය සඳහා විස්තර හෝ පිළිගැනීමේ නිර්ණායක එක් කරන්න
+"Add details, context, or acceptance criteria","විස්තර, සන්දර්භය, හෝ පිළිගැනීමේ නිර්ණායක එක් කරන්න"
+Add first dependency,පළමු පරායත්තතාව එක් කරන්න
+Add item,අයිතමයක් එක් කරන්න
+Add items below to track progress.,ප්‍රගතිය නිරීක්ෂණය කිරීමට පහතින් අයිතම එක් කරන්න.
+Add items below to track subtasks,උප කාර්ය නිරීක්ෂණය කිරීමට පහතින් අයිතම එක් කරන්න
+Add Milestone,සන්ධිස්ථානයක් එක් කරන්න
+Add Milestone (Shift+M),සන්ධිස්ථානයක් එක් කරන්න (Shift+M)
+Add milestones to track key deliverables.,ප්‍රධාන සාධන නිරීක්ෂණය කිරීමට සන්ධිස්ථාන එක් කරන්න.
+Add New Contact,නව සම්බන්ධතාවයක් එක් කරන්න
+Add Note,සටහනක් එක් කරන්න
+Add note,සටහනක් එක් කරන්න
+Add notes about this contact...,මෙම සම්බන්ධතාව ගැන සටහන් එක් කරන්න...
+Add reaction,ප්‍රතිචාරයක් එක් කරන්න
+Add Skill,කුසලතාවක් එක් කරන්න
+Add start and due dates to tasks to see them on the Gantt chart,Gantt ප්‍රස්ථාරයේ දැකීමට කාර්යයන්ට ආරම්භ සහ නියමිත දිනයන් එක් කරන්න
+Add Task,කාර්යක් එක් කරන්න
+Add Task (Shift+T),කාර්යක් එක් කරන්න (Shift+T)
+Added Finish-to-Start dependency,අවසාන-සිට-ආරම්භ පරායත්තතාව එකතු කරන ලදී
+Adding this dependency would create a circular reference: {0},මෙම පරායත්තතාව එකතු කිරීම චක්‍රීය යොමු කිරීමක් සාදනු ඇත: {0}
+Adding...,එකතු කරමින්...
+Address,ලිපිනය
+Advanced,උසස්
+All,සියල්ල
+All Active,සියලු ක්‍රියාකාරී
+All Assignees,සියලු පැවරුම්කරුවන්
+All Categories,සියලු ප්‍රවර්ග
+All caught up!,සියල්ල නවතම තත්ත්වයේ!
+All Contexts,සියලු සන්දර්භ
+All day,මුළු දිනම
+All day event,මුළු දින සිද්ධිය
+All fields,සියලු ක්ෂේත්‍ර
+All Priorities,සියලු ප්‍රමුඛතා
+All Projects,සියලු ව්‍යාපෘති
+All Status,සියලු තත්ත්වයන්
+All Statuses,සියලු තත්ත්වයන්
+All task dependencies & relative dates,සියලු කාර්ය පරායත්තතා සහ සාපේක්ෂ දිනයන්
+All Tasks,සියලු කාර්යයන්
+All tasks across all projects.,සියලු ව්‍යාපෘතිවල සියලු කාර්යයන්.
+All tasks are already linked,සියලු කාර්යයන් දැනටමත් සම්බන්ධ කර ඇත
+All team members,සියලු කණ්ඩායම් සාමාජිකයින්
+All Types,සියලු වර්ග
+All Users,සියලු පරිශීලකයින්
+Allocated,වෙන් කරන ලද
+allocated,වෙන් කරන ලද
+Allow users to log time against tasks,කාර්යයන්ට එරෙහිව කාලය සටහන් කිරීමට පරිශීලකයින්ට ඉඩ දෙන්න
+Already exported to timesheet {0},දැනටමත් කාල පත්‍රිකාව {0} වෙත නිර්යාත කර ඇත
+Already Migrated,දැනටමත් සංක්‍රමණය කර ඇත
+Anyone with access,ප්‍රවේශය ඇති ඕනෑම කෙනෙක්
+anytime to show this help,මෙම උදව් පෙන්වීමට ඕනෑම වේලාවක
+App Updates,App Updates
+Appearance,පෙනුම
+Apply,යොදන්න
+Apply cascade?,ගංගා ප්‍රවාහය යොදන්නද?
+Apply Changes,වෙනස්කම් යොදන්න
+Apply failed,යෙදීම අසාර්ථක විය
+Apply Template,සැකිල්ල යොදන්න
+Applying...,යොදමින්...
+Appointment,හමුවීම
+Appointment and resource are required,හමුවීම සහ සම්පත අවශ්‍යයි
+Appointment name is required,හමුවීමේ නම අවශ්‍යයි
+Appointment not found,හමුවීම හමු නොවීය
+Appointment {0} not found,හමුවීම {0} හමු නොවීය
+Apps,යෙදුම්
+Archive,සංරක්ෂණ කරන්න
+Archive Activity,ක්‍රියාකාරකම සංරක්ෂණ කරන්න
+Archived,සංරක්ෂිත
+Are you sure you want to delete this activity data? This cannot be undone.,ඔබට මෙම ක්‍රියාකාරකම් දත්ත මකා දැමීමට අවශ්‍ය බව විශ්වාසද? මෙය අහෝසි කළ නොහැක.
+Are you sure you want to delete this comment?,ඔබට මෙම අදහස මකා දැමීමට අවශ්‍ය බව විශ්වාසද?
+Are you sure you want to delete this project?,ඔබට මෙම ව්‍යාපෘතිය මකා දැමීමට අවශ්‍ය බව විශ්වාසද?
+Are you sure?,ඔබට විශ්වාසද?
+Ascending -- click to reverse,ආරෝහණ -- ආපසු හැරවීමට ක්ලික් කරන්න
+Assign To,පවරන්න
+Assign to Me,මට පවරන්න
+Assigned Contact,පවරන ලද සම්බන්ධතාව
+Assigned To,පවරන ලද
+Assigned to,පවරන ලද
+Assigned to Me,මට පවරන ලද
+Assignee,පැවරුම්කරු
+Assignment,පැවරුම
+Assignment History,පැවරුම් ඉතිහාසය
+Assignment name is required,පැවරුම් නම අවශ්‍යයි
+Assignment {0} not found,පැවරුම {0} හමු නොවීය
+Assignments,පැවරුම්
+At least one action is required,අවම වශයෙන් එක් ක්‍රියාවක් අවශ්‍යයි
+At least one event is required,අවම වශයෙන් එක් සිද්ධියක් අවශ්‍යයි
+At least one event must be selected,අවම වශයෙන් එක් සිද්ධියක් තෝරාගත යුතුය
+Attachment,ඇමිණුම
+Attachments,ඇමිණුම්
+Attendees,සහභාගිවන්නන්
+"Audit trail, assignments, version history","විගණන මාර්ගය, පැවරුම්, අනුවාද ඉතිහාසය"
+Auto,ස්වයංක්‍රීය
+Auto Calculate Progress,ප්‍රගතිය ස්වයංක්‍රීයව ගණනය කරන්න
+Auto Set Missed Milestones,මඟහැරුණු සන්ධිස්ථාන ස්වයංක්‍රීයව සකසන්න
+Auto-shift dependents when dates change,දිනයන් වෙනස් වන විට පරායත්ත ස්වයංක්‍රීයව මාරු කරන්න
+Auto-Trail Start,ස්වයංක්‍රීය-පාද ආරම්භය
+Auto-Trail updated,ස්වයංක්‍රීය-පාද යාවත්කාලීන විය
+Automatically calculate project progress from task completion,කාර්ය සම්පූර්ණතාවයෙන් ව්‍යාපෘති ප්‍රගතිය ස්වයංක්‍රීයව ගණනය කරන්න
+Automatically mark milestones as missed when overdue,ප්‍රමාද වූ විට සන්ධිස්ථාන මඟහැරුණු ලෙස ස්වයංක්‍රීයව සලකුණු කරන්න
+Automation rule {0} not found,ස්වයංක්‍රීයකරණ නීතිය {0} හමු නොවීය
+Automation: {0},ස්වයංක්‍රීයකරණය: {0}
+Availability,ලභ්‍යතාව
+Available,ලබා ගත හැකි
+Avatar updated successfully,අවතාරය සාර්ථකව යාවත්කාලීන විය
+Avg Progress,සාමාන්‍ය ප්‍රගතිය
+Back,ආපසු
+Back to Portal,ද්වාරයට ආපසු
+Back to Projects,ව්‍යාපෘතිවලට ආපසු
+Beginner,ආරම්භක
+Best regards,සුභ පැතුම්
+Billable,බිල් කළ හැකි
+Billable Amount,බිල් කළ හැකි මුදල
+Billable Hours,බිල් කළ හැකි පැය
+Billable Rate,බිල් කළ හැකි අනුපාතය
+Billing Rate,බිල් කිරීමේ අනුපාතය
+Blocked,අවහිර කළ
+Both dates are needed to display task as a bar in Gantt chart,Gantt ප්‍රස්ථාරයේ තීරුවක් ලෙස කාර්යය පෙන්වීමට දින දෙකම අවශ්‍යයි
+Both doctype and docname are required,DocType සහ docname දෙකම අවශ්‍යයි
+Both proposed start and end times are required,යෝජිත ආරම්භ සහ අවසන් වේලාවන් දෙකම අවශ්‍යයි
+Both task_name and depends_on are required,task_name සහ depends_on දෙකම අවශ්‍යයි
+Breadcrumb,පාන්කුඩු මාර්ගය
+Brief description of the defect or damage,දෝෂය හෝ හානිය පිළිබඳ කෙටි විස්තරය
+Brief description of this template,මෙම සැකිල්ල පිළිබඳ කෙටි විස්තරය
+Brief description of your request,ඔබේ ඉල්ලීමේ කෙටි විස්තරය
+Brief project description,ව්‍යාපෘතියේ කෙටි විස්තරය
+Budget,අයවැය
+Budget at risk,අවදානමට ලක්වූ අයවැය
+Budget Burn Rate,අයවැය දහන අනුපාතය
+Budget Status,අයවැය තත්ත්වය
+Budget updated,අයවැය යාවත්කාලීන විය
+Budget:,අයවැය:
+Bug,දෝෂය
+Burn Rate,දහන අනුපාතය
+Busy,කාර්යබහුල
+By,විසින්
+By Assignee,පැවරුම්කරු අනුව
+By Group,කණ්ඩායම අනුව
+By Milestone,සන්ධිස්ථානය අනුව
+By Priority,ප්‍රමුඛතාව අනුව
+By Status,තත්ත්වය අනුව
+Cancel,අවලංගු කරන්න
+Cancelled,අවලංගු කළ
+cannot be undone,අහෝසි කළ නොහැක
+Cannot delete client with {0} linked projects. Unlink projects first.,සම්බන්ධිත ව්‍යාපෘති {0}ක් ඇති සේවාදායකයා මකා දැමිය නොහැක. පළමුව ව්‍යාපෘති විසන්ධි කරන්න.
+Cannot delete project with {0} linked tasks. Delete tasks first.,සම්බන්ධිත කාර්ය {0}ක් ඇති ව්‍යාපෘතිය මකා දැමිය නොහැක. පළමුව කාර්යයන් මකන්න.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,ක්‍රියාකාරී පැවරුම් {0}ක් ඇති සම්පත මකා දැමිය නොහැක. පළමුව ඒවා සම්පූර්ණ කරන්න හෝ අවලංගු කරන්න.
+Cannot delete task with {0} subtasks. Delete subtasks first.,උප කාර්ය {0}ක් ඇති කාර්යය මකා දැමිය නොහැක. පළමුව උප කාර්යයන් මකන්න.
+Capacity,ධාරිතාව
+capacity,ධාරිතාව
+Capacity & Rates,ධාරිතාව සහ අනුපාත
+Capture project structure for reuse,නැවත භාවිතය සඳහා ව්‍යාපෘති ව්‍යුහය ග්‍රහණය කරන්න
+Cascade,ගංගා ප්‍රවාහය
+Cascade Preview,ගංගා ප්‍රවාහ පෙරදසුන
+Category,ප්‍රවර්ගය
+Celebrate,සැමරීම
+Change,වෙනස් කරන්න
+Change History,වෙනස් කිරීම් ඉතිහාසය
+Change Priority,ප්‍රමුඛතාව වෙනස් කරන්න
+Change Status,තත්ත්වය වෙනස් කරන්න
+Changes,වෙනස්කම්
+Changes appear when fields are modified.,ක්ෂේත්‍ර වෙනස් කළ විට වෙනස්කම් දිස්වේ.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,පරීක්ෂා ලැයිස්තුව
+Checklist item name is required,පරීක්ෂා ලැයිස්තු අයිතමයේ නම අවශ්‍යයි
+Checklist item not found,පරීක්ෂා ලැයිස්තු අයිතමය හමු නොවීය
+Checklist item title is required,පරීක්ෂා ලැයිස්තු අයිතමයේ මාතෘකාව අවශ්‍යයි
+Checklist item {0} not found,පරීක්ෂා ලැයිස්තු අයිතමය {0} හමු නොවීය
+Checklist item {0} not found in task,කාර්යයේ පරීක්ෂා ලැයිස්තු අයිතමය {0} හමු නොවීය
+Child,දරු
+Choose file to upload,උඩුගත කිරීමට ගොනුවක් තෝරන්න
+Circular dependency detected: {0},චක්‍රීය පරායත්තතාව හඳුනාගන්නා ලදී: {0}
+Circular parent-child relationship detected,චක්‍රීය මව්-දරු සම්බන්ධතාවය හඳුනාගන්නා ලදී
+Clear,ඉවත් කරන්න
+Clear all read,කියවූ සියල්ල ඉවත් කරන්න
+Clear date,දිනය ඉවත් කරන්න
+Click on an activity from the list to view and manage its details.,විස්තර බැලීමට සහ කළමනාකරණය කිරීමට ලැයිස්තුවෙන් ක්‍රියාකාරකමක් මත ක්ලික් කරන්න.
+Click the avatar to upload a new photo,නව ඡායාරූපයක් උඩුගත කිරීමට අවතාරය මත ක්ලික් කරන්න
+Click to add description...,විස්තරයක් එක් කිරීමට ක්ලික් කරන්න...
+Click to add notes...,සටහන් එක් කිරීමට ක්ලික් කරන්න...
+Click to assign contact,සම්බන්ධතාවයක් පැවරීමට ක්ලික් කරන්න
+Click to change status,තත්ත්වය වෙනස් කිරීමට ක්ලික් කරන්න
+Click to change type,වර්ගය වෙනස් කිරීමට ක්ලික් කරන්න
+Click to edit,සංස්කරණය කිරීමට ක්ලික් කරන්න
+Click to edit budget,අයවැය සංස්කරණය කිරීමට ක්ලික් කරන්න
+Click to edit description,විස්තරය සංස්කරණය කිරීමට ක්ලික් කරන්න
+Click to edit end date,අවසන් දිනය සංස්කරණය කිරීමට ක්ලික් කරන්න
+Click to edit milestone name,සන්ධිස්ථාන නම සංස්කරණය කිරීමට ක්ලික් කරන්න
+Click to edit rate,අනුපාතය සංස්කරණය කිරීමට ක්ලික් කරන්න
+Click to edit start date,ආරම්භ දිනය සංස්කරණය කිරීමට ක්ලික් කරන්න
+Click to edit title,මාතෘකාව සංස්කරණය කිරීමට ක්ලික් කරන්න
+Click to load,පූරණය කිරීමට ක්ලික් කරන්න
+Click to set group dependency...,කණ්ඩායම් පරායත්තතාව සැකසීමට ක්ලික් කරන්න...
+Click to set group...,කණ්ඩායම සැකසීමට ක්ලික් කරන්න...
+Click to view,බැලීමට ක්ලික් කරන්න
+Click to view at-risk projects,අවදානමට ලක්වූ ව්‍යාපෘති බැලීමට ක්ලික් කරන්න
+Click to view critical projects,විවේචනාත්මක ව්‍යාපෘති බැලීමට ක්ලික් කරන්න
+Click to view healthy projects,සෞඛ්‍ය සම්පන්න ව්‍යාපෘති බැලීමට ක්ලික් කරන්න
+Client,සේවාදායකයා
+Client already has a portal user: {0},සේවාදායකයාට දැනටමත් ද්වාර පරිශීලකයෙක් ඇත: {0}
+Client already has portal access,සේවාදායකයාට දැනටමත් ද්වාර ප්‍රවේශය ඇත
+Client has no portal user to revoke,සේවාදායකයාට අවලංගු කිරීමට ද්වාර පරිශීලකයෙක් නැත
+Client link removed from project {0},ව්‍යාපෘතිය {0} වෙතින් සේවාදායක සබැඳිය ඉවත් කරන ලදී
+Client Portal,සේවාදායක ද්වාරය
+Client {0} deleted successfully,සේවාදායකයා {0} සාර්ථකව මකා දැමිණි
+Close,වසන්න
+Close (Esc),වසන්න (Esc)
+Comment,අදහස
+comment,අදහස
+Comment added,අදහස එකතු කරන ලදී
+Comment content is required,අදහස් අන්තර්ගතය අවශ්‍යයි
+Comment name is required,අදහසේ නම අවශ්‍යයි
+Comment not found,අදහස හමු නොවීය
+Comment removed,අදහස ඉවත් කරන ලදී
+Comment {0} not found in task,කාර්යයේ අදහස {0} හමු නොවීය
+Comments,අදහස්
+comments,අදහස්
+Community Edition,Community Edition
+Company,සමාගම
+Company name...,සමාගම් නම...
+Complete,සම්පූර්ණ කරන්න
+Completed,සම්පූර්ණ කළ
+completed,සම්පූර්ණ කළ
+Completed Tasks,සම්පූර්ණ කළ කාර්යයන්
+Compliance,අනුකූලතාව
+Configure default values for new projects and tasks,නව ව්‍යාපෘති සහ කාර්යයන් සඳහා පෙරනිමි අගයන් වින්‍යාස කරන්න
+Configure email notification settings,විද්‍යුත් තැපෑල දැනුම්දීම් සැකසුම් වින්‍යාස කරන්න
+Confirm,තහවුරු කරන්න
+Contact deleted,සම්බන්ධතාව මකා දැමිණි
+Contact Details,සම්බන්ධතා විස්තර
+Contact Information,සම්බන්ධතා තොරතුරු
+Contact name is required,සම්බන්ධතා නම අවශ්‍යයි
+Contact Support,සහාය අමතන්න
+Contact your project manager for more information.,වැඩි විස්තර සඳහා ඔබේ ව්‍යාපෘති කළමනාකරු අමතන්න.
+Contact:,සම්බන්ධතාව:
+Contacts,සම්බන්ධතා
+Context,සන්දර්භය
+Contractor,කොන්ත්‍රාත්කරු
+Cost estimate cannot be negative,පිරිවැය ඇස්තමේන්තුව සෘණ විය නොහැක
+Cost Impact,පිරිවැය බලපෑම
+Cost Summary,පිරිවැය සාරාංශය
+Could not apply the template. Please try again.,සැකිල්ල යෙදිය නොහැකි විය. කරුණාකර නැවත උත්සාහ කරන්න.
+Could not attach file to project,ව්‍යාපෘතියට ගොනුව ඇමිණිය නොහැකි විය
+Could not change task priority,කාර්ය ප්‍රමුඛතාව වෙනස් කිරීමට නොහැකි විය
+Could not change task status,කාර්ය තත්ත්වය වෙනස් කිරීමට නොහැකි විය
+Could not delete the project. Please try again.,ව්‍යාපෘතිය මකා දැමිය නොහැකි විය. කරුණාකර නැවත උත්සාහ කරන්න.
+Could not delete the task. Please try again.,කාර්යය මකා දැමිය නොහැකි විය. කරුණාකර නැවත උත්සාහ කරන්න.
+Could not delete the template.,සැකිල්ල මකා දැමිය නොහැකි විය.
+Could not duplicate the task. Please try again.,කාර්යය අනුපිටපත් කිරීමට නොහැකි විය. කරුණාකර නැවත උත්සාහ කරන්න.
+Could not export the template.,සැකිල්ල නිර්යාත කිරීමට නොහැකි විය.
+Could not import the template. Please check the file format.,සැකිල්ල ආනයනය කිරීමට නොහැකි විය. කරුණාකර ගොනු ආකෘතිය පරීක්ෂා කරන්න.
+Could not link task to milestone,සන්ධිස්ථානයට කාර්යය සම්බන්ධ කිරීමට නොහැකි විය
+Could not load document details.,ලේඛන විස්තර පූරණය කිරීමට නොහැකි විය.
+Could not load task details,කාර්ය විස්තර පූරණය කිරීමට නොහැකි විය
+Could not promote checklist item to task.,පරීක්ෂා ලැයිස්තු අයිතමය කාර්යයක් බවට උසස් කිරීමට නොහැකි විය.
+Could not remove task from milestone,සන්ධිස්ථානයෙන් කාර්යය ඉවත් කිරීමට නොහැකි විය
+Could not save budget.,අයවැය සුරැකිය නොහැකි විය.
+Could not save changes to the milestone,සන්ධිස්ථානයේ වෙනස්කම් සුරැකිය නොහැකි විය
+Could not save changes to the task,කාර්යයේ වෙනස්කම් සුරැකිය නොහැකි විය
+Could not save description.,විස්තරය සුරැකිය නොහැකි විය.
+Could not save end date.,අවසන් දිනය සුරැකිය නොහැකි විය.
+Could not save milestone name.,සන්ධිස්ථාන නම සුරැකිය නොහැකි විය.
+Could not save start date.,ආරම්භ දිනය සුරැකිය නොහැකි විය.
+Could not save the template. Please try again.,සැකිල්ල සුරැකිය නොහැකි විය. කරුණාකර නැවත උත්සාහ කරන්න.
+Could not save title.,මාතෘකාව සුරැකිය නොහැකි විය.
+Could not update dependency mode.,පරායත්තතා මාදිලිය යාවත්කාලීන කිරීමට නොහැකි විය.
+Could not update milestone date,සන්ධිස්ථාන දිනය යාවත්කාලීන කිරීමට නොහැකි විය
+Could not update project status.,ව්‍යාපෘති තත්ත්වය යාවත්කාලීන කිරීමට නොහැකි විය.
+Could not update project type.,ව්‍යාපෘති වර්ගය යාවත්කාලීන කිරීමට නොහැකි විය.
+Could not update setting.,සැකසුම යාවත්කාලීන කිරීමට නොහැකි විය.
+Could not update task dates,කාර්ය දිනයන් යාවත්කාලීන කිරීමට නොහැකි විය
+Could not update task status,කාර්ය තත්ත්වය යාවත්කාලීන කිරීමට නොහැකි විය
+Could not update the template.,සැකිල්ල යාවත්කාලීන කිරීමට නොහැකි විය.
+Create a copy of this task,මෙම කාර්යයේ පිටපතක් සාදන්න
+Create Contact,සම්බන්ධතාවයක් සාදන්න
+Create Event,සිද්ධියක් සාදන්න
+Create Milestone,සන්ධිස්ථානයක් සාදන්න
+Create New Milestone,නව සන්ධිස්ථානයක් සාදන්න
+Create New Task,නව කාර්යයක් සාදන්න
+Create Project,ව්‍යාපෘතියක් සාදන්න
+Create Task,කාර්යයක් සාදන්න
+Create tasks and milestones from a template,සැකිල්ලකින් කාර්යයන් සහ සන්ධිස්ථාන සාදන්න
+Create your first project to get started.,ආරම්භ කිරීමට ඔබේ පළමු ව්‍යාපෘතිය සාදන්න.
+Create your first task to start tracking work on this project.,මෙම ව්‍යාපෘතිය පිළිබඳ වැඩ නිරීක්ෂණය ආරම්භ කිරීමට ඔබේ පළමු කාර්යය සාදන්න.
+Created,සාදන ලද
+Creating...,සාදමින්...
+Critical,විවේචනාත්මක
+Critical Path,විවේචනාත්මක මාර්ගය
+"Currency used for budgets, costs, and billing rates","අයවැය, පිරිවැය, සහ බිල් කිරීමේ අනුපාත සඳහා භාවිතා කරන මුදල්"
+Current,වත්මන්
+Current Assignments,වත්මන් පැවරුම්
+Current scheduled time:,වත්මන් උපලේඛිත වේලාව:
+Currently running version,Currently running version
+d lag,දින ප්‍රමාදය
+Daily Availability,දෛනික ලභ්‍යතාව
+Daily Hours,දෛනික පැය
+Danger Zone,අවදානම් කලාපය
+Dark,අඳුරු
+Dashboard,උපකරණ පුවරුව
+Date,දිනය
+Date changes on this task will show cascade impact here,මෙම කාර්යයේ දිනය වෙනස්කම් ගංගා ප්‍රවාහ බලපෑම මෙහි පෙන්වනු ඇත
+Date cleared,දිනය ඉවත් කරන ලදී
+Date of Joining,බැඳුනු දිනය
+Date updated,දිනය යාවත්කාලීන විය
+Dates,දිනයන්
+Dates cascaded,දිනයන් ගංගා ප්‍රවාහය කරන ලදී
+Dates will be relative to the project's start date.,දිනයන් ව්‍යාපෘතියේ ආරම්භ දිනයට සාපේක්ෂ වනු ඇත.
+Day,දිනය
+day,දිනය
+days,දින
+Days before due date to send reminder,මතක් කිරීමක් යැවීමට නියමිත දිනයට පෙර දින
+Days Overdue,ප්‍රමාද දින
+Days Remaining,ඉතිරි දින
+Deadline,අවසන් දිනය
+Deadlines,අවසන් දිනයන්
+Decision,තීරණය
+Decline,ප්‍රතික්ෂේප කරන්න
+Declined,ප්‍රතික්ෂේප කළ
+Default Currency,පෙරනිමි මුදල්
+Default hours per week for contact capacity planning,සම්බන්ධතා ධාරිතා සැලසුම් කිරීම සඳහා සතියකට පෙරනිමි පැය
+Default Priority,පෙරනිමි ප්‍රමුඛතාව
+Default Project Status,පෙරනිමි ව්‍යාපෘති තත්ත්වය
+Default Task Status,පෙරනිමි කාර්ය තත්ත්වය
+Default task view,පෙරනිමි කාර්ය දසුන
+Default Values,පෙරනිමි අගයන්
+Default Weekly Capacity,පෙරනිමි සතිපතා ධාරිතාව
+Defaults,පෙරනිමි
+Defect Cost Impact,දෝෂ පිරිවැය බලපෑම
+Defect name is required,දෝෂ නම අවශ්‍යයි
+Defect Type,දෝෂ වර්ගය
+Defect {0} not found,දෝෂය {0} හමු නොවීය
+Defects,දෝෂ
+Defects & Issues,දෝෂ සහ ගැටලු
+Defects Resolved,විසඳන ලද දෝෂ
+Delayed,ප්‍රමාද වූ
+Delete,මකන්න
+Delete Activity Data,ක්‍රියාකාරකම් දත්ත මකන්න
+Delete all read notifications?,කියවූ සියලු දැනුම්දීම් මකන්නද?
+Delete comment,අදහස මකන්න
+Delete Contact,සම්බන්ධතාව මකන්න
+Delete Event,සිද්ධිය මකන්න
+Delete Event?,සිද්ධිය මකන්නද?
+Delete failed,මකා දැමීම අසාර්ථක විය
+Delete file,ගොනුව මකන්න
+Delete item,අයිතමය මකන්න
+Delete note,සටහන මකන්න
+Delete Project,ව්‍යාපෘතිය මකන්න
+Delete Task,කාර්යය මකන්න
+Delete this project,මෙම ව්‍යාපෘතිය මකන්න
+Deleted,මකා දැමූ
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","ව්‍යාපෘතිය ""{0}"" මකා දැමිණි (කාර්ය {1}, සන්ධිස්ථාන {2})"
+Deletes notes and preferences. Source document is not affected.,සටහන් සහ මනාපයන් මකා දමයි. මූලාශ්‍ර ලේඛනය බලපෑමට ලක් නොවේ.
+Deleting...,මකමින්...
+Department,දෙපාර්තමේන්තුව
+Dependencies,පරායත්තතා
+dependencies,පරායත්තතා
+Dependencies are informational only,පරායත්තතා තොරතුරු පමණි
+dependency,පරායත්තතාව
+Dependency already exists,පරායත්තතාව දැනටමත් පවතී
+Dependency Chain,පරායත්තතා දාමය
+Dependency created,පරායත්ततාව සාදන ලදී
+Dependency mode updated,පරායත්තතා මාදිලිය යාවත්කාලීන විය
+Dependency name is required,පරායත්තතා නම අවශ්‍යයි
+Dependency task {0} not found,පරායත්තතා කාර්යය {0} හමු නොවීය
+Dependency {0} not found,පරායත්තතාව {0} හමු නොවීය
+depends,රඳා පවතී
+Depends on Group,කණ්ඩායමට රඳා පවතී
+Depends on task is required,රඳා පවතින කාර්යය අවශ්‍යයි
+depends on...,රඳා පවතී...
+Descending -- click to reverse,අවරෝහණ -- ආපසු හැරවීමට ක්ලික් කරන්න
+Describe the defect in detail...,දෝෂය විස්තරාත්මකව විස්තර කරන්න...
+Description,විස්තරය
+Description updated,විස්තරය යාවත්කාලීන විය
+Designation,තනතුර
+"Detailed description of the defect, location, and impact","දෝෂය, ස්ථානය, සහ බලපෑම පිළිබඳ සවිස්තරාත්මක විස්තරය"
+Details,විස්තර
+Discard timer,කාල ගණකය ඉවතලන්න
+Discussion,සාකච්ඡාව
+Dismiss,Dismiss
+Display,දර්ශනය
+Document,ලේඛනය
+Document attached to project,ව්‍යාපෘතියට ලේඛනය ඇමිණිණි
+Document final decision and rationale,අවසන් තීරණය සහ හේතුකාරණය ලේඛනගත කරන්න
+Documentation Review,ලේඛන සමාලෝචනය
+Documents,ලේඛන
+Done,කළා
+Download,බාගන්න
+Drag to create dependency,පරායත්තතාවක් සෑදීමට ඇද දමන්න
+Dry Run,අත්හදා බැලීම
+Dry Run Complete,අත්හදා බැලීම සම්පූර්ණයි
+Due Date,නියමිත දිනය
+Due date,නියමිත දිනය
+Due Date (Earliest),නියමිත දිනය (ඉක්මනින්ම)
+Due date cannot be before start date,නියමිත දිනය ආරම්භ දිනයට පෙර විය නොහැක
+Due date is in the past,නියමිත දිනය අතීතයේය
+Due Date Reminders,නියමිත දින මතක් කිරීම්
+Due Diligence,නිසි පරීක්ෂාව
+Due Diligence Checklist,නිසි පරීක්ෂා ලැයිස්තුව
+Due This Week,මෙම සතියේ නියමිත
+Due:,නියමිත:
+Duplicate events are not allowed,අනුපිටපත් සිද්ධීන්ට ඉඩ නොදේ
+Duplicate failed,අනුපිටපත් කිරීම අසාර්ථක විය
+Duplicate Task,කාර්යය අනුපිටපත් කරන්න
+Duration,කාල සීමාව
+Duration Summary,කාල සීමා සාරාංශය
+Duration:,කාල සීමාව:
+e.g. Cracked wall finish in bathroom...,උදා. නානකාමරයේ බිත්ති නිමාවේ ඉරිතැලීමක්...
+"e.g. Electrical, Plumbing...","උදා. විදුලි, නල..."
+Edit,සංස්කරණය කරන්න
+Edit (E),සංස්කරණය (E)
+Edit dependency,පරායත්තතාව සංස්කරණය කරන්න
+Edit Event,සිද්ධිය සංස්කරණය කරන්න
+Efficiency,කාර්යක්ෂමතාව
+Either dependency_name or depends_on is required,dependency_name හෝ depends_on අවශ්‍යයි
+Email,විද්‍යුත් තැපෑල
+Email invitations to all attendees,සියලු සහභාගිවන්නන්ට විද්‍යුත් ආරාධනා
+Email is required to create portal user,ද්වාර පරිශීලකයෙකු සෑදීමට විද්‍යුත් තැපෑල අවශ්‍යයි
+Email notifications,විද්‍යුත් තැපෑල දැනුම්දීම්
+Employee,සේවකයා
+Employee DocType not available,සේවක DocType ලබා ගත නොහැක
+Employee not found,සේවකයා හමු නොවීය
+Enable or disable optional features,විකල්ප විශේෂාංග සබල හෝ අබල කරන්න
+Enable Time Tracking,කාල නිරීක්ෂණය සබල කරන්න
+End,අවසානය
+End Date,අවසන් දිනය
+End date,අවසන් දිනය
+End Date cannot be before Start Date,අවසන් දිනය ආරම්භ දිනයට පෙර විය නොහැක
+End date cannot be before start date,අවසන් දිනය ආරම්භ දිනයට පෙර විය නොහැක
+End date updated,අවසන් දිනය යාවත්කාලීන විය
+End time was before start time. Adjusted to 1 hour after start.,අවසන් වේලාව ආරම්භ වේලාවට පෙර විය. ආරම්භයෙන් පැය 1කට පසු ලෙස සකස් කරන ලදී.
+End:,අවසානය:
+Enter milestone name...,සන්ධිස්ථාන නම ඇතුළත් කරන්න...
+Enter project name,ව්‍යාපෘති නම ඇතුළත් කරන්න
+Enter task title...,කාර්ය මාතෘකාව ඇතුළත් කරන්න...
+Enter template name,සැකිල්ලේ නම ඇතුළත් කරන්න
+Enter your note... Use @name to mention someone,ඔබේ සටහන ඇතුළත් කරන්න... යමෙකු සඳහන් කිරීමට @නම භාවිතා කරන්න
+Error,දෝෂය
+Error loading activity,ක්‍රියාකාරකම් පූරණයේ දෝෂයකි
+Error loading contacts,සම්බන්ධතා පූරණයේ දෝෂයකි
+Error loading dashboard,උපකරණ පුවරුව පූරණයේ දෝෂයකි
+Error loading project,ව්‍යාපෘතිය පූරණයේ දෝෂයකි
+Error loading projects,ව්‍යාපෘති පූරණයේ දෝෂයකි
+Error loading settings,සැකසුම් පූරණයේ දෝෂයකි
+Error loading tasks,කාර්යයන් පූරණයේ දෝෂයකි
+Error loading templates,සැකිලි පූරණයේ දෝෂයකි
+Est. Hours,ඇස්. පැය
+Estimated,ඇස්තමේන්තුගත
+Estimated Cost,ඇස්තමේන්තු පිරිවැය
+Estimated Cost (€),ඇස්තමේන්තු පිරිවැය (€)
+Estimated Hours,ඇස්තමේන්තු පැය
+Estimated:,ඇස්තමේන්තු:
+Evaluate potential risks and concerns,විභව අවදානම් සහ ගැටලු ඇගයීමට ලක් කරන්න
+Event,සිද්ධිය
+Event is required for event context,සිද්ධි සන්දර්භය සඳහා සිද්ධිය අවශ්‍යයි
+Event is required when tracking context is 'event',නිරීක්ෂණ සන්දර්භය 'සිද්ධිය' වන විට සිද්ධිය අවශ්‍යයි
+Event Type,සිද්ධි වර්ගය
+Events,සිද්ධීන්
+Events not available. Please run: bench --site orga.localhost migrate,සිද්ධීන් ලබා ගත නොහැක. කරුණාකර ක්‍රියාත්මක කරන්න: bench --site orga.localhost migrate
+Events:,සිද්ධීන්:
+Expert,විශේෂඥ
+Explain why you are proposing a different time...,ඔබ වෙනත් වේලාවක් යෝජනා කරන්නේ ඇයිදැයි පැහැදිලි කරන්න...
+Export,නිර්යාත කරන්න
+Export failed,නිර්යාතය අසාර්ථක විය
+Export JSON,JSON නිර්යාත කරන්න
+Exported,නිර්යාත කළ
+Exported to timesheet {0},කාල පත්‍රිකාව {0} වෙත නිර්යාත කරන ලදී
+External,බාහිර
+Failed to add item,අයිතමය එක් කිරීම අසාර්ථක විය
+Failed to add note,සටහන එක් කිරීම අසාර්ථක විය
+Failed to add skill,කුසලතාව එක් කිරීම අසාර්ථක විය
+Failed to apply cascade changes: {0},ගංගා ප්‍රවාහ වෙනස්කම් යෙදීම අසාර්ථක විය: {0}
+Failed to create defect,දෝෂය සෑදීම අසාර්ථක විය
+Failed to create dependency,පරායත්තතාව සෑදීම අසාර්ථක විය
+Failed to create event,සිද්ධිය සෑදීම අසාර්ථක විය
+Failed to create milestone,සන්ධිස්ථානය සෑදීම අසාර්ථක විය
+Failed to create project,ව්‍යාපෘතිය සෑදීම අසාර්ථක විය
+Failed to create task,කාර්යය සෑදීම අසාර්ථක විය
+Failed to create time log,කාල සටහන සෑදීම අසාර්ථක විය
+Failed to delete,මකා දැමීම අසාර්ථක විය
+Failed to delete comment,අදහස මකා දැමීම අසාර්ථක විය
+Failed to delete contact,සම්බන්ධතාව මකා දැමීම අසාර්ථක විය
+Failed to load,පූරණය අසාර්ථක විය
+Failed to load activity,ක්‍රියාකාරකම පූරණය අසාර්ථක විය
+Failed to load assignments,පැවරුම් පූරණය අසාර්ථක විය
+Failed to load contact,සම්බන්ධතාව පූරණය අසාර්ථක විය
+Failed to load dashboard data,උපකරණ පුවරු දත්ත පූරණය අසාර්ථක විය
+Failed to load defects,දෝෂ පූරණය අසාර්ථක විය
+Failed to load events,සිද්ධීන් පූරණය අසාර්ථක විය
+Failed to load project,ව්‍යාපෘතිය පූරණය අසාර්ථක විය
+Failed to load projects,ව්‍යාපෘති පූරණය අසාර්ථක විය
+Failed to load report data,වාර්තා දත්ත පූරණය අසාර්ථක විය
+Failed to load settings,සැකසුම් පූරණය අසාර්ථක විය
+Failed to load tasks,කාර්යයන් පූරණය අසාර්ථක විය
+Failed to move task,කාර්යය ගෙන යෑම අසාර්ථක විය
+Failed to post comment,අදහස පළ කිරීම අසාර්ථක විය
+Failed to propose new time,නව වේලාවක් යෝජනා කිරීම අසාර්ථක විය
+Failed to remove item,අයිතමය ඉවත් කිරීම අසාර්ථක විය
+Failed to remove skill,කුසලතාව ඉවත් කිරීම අසාර්ථක විය
+Failed to reorder milestones: {0},සන්ධිස්ථාන නැවත අනුපිළිවෙළ කිරීම අසාර්ථක විය: {0}
+Failed to reorder tasks: {0},කාර්යයන් නැවත අනුපිළිවෙළ කිරීම අසාර්ථක විය: {0}
+Failed to reschedule dependent tasks: {0},පරායත්ත කාර්යයන් නැවත උපලේඛනගත කිරීම අසාර්ථක විය: {0}
+Failed to save,සුරැකීම අසාර්ථක විය
+Failed to save preferences,මනාපයන් සුරැකීම අසාර්ථක විය
+Failed to save settings,සැකසුම් සුරැකීම අසාර්ථක විය
+Failed to submit request. Please try again.,ඉල්ලීම ඉදිරිපත් කිරීම අසාර්ථක විය. කරුණාකර නැවත උත්සාහ කරන්න.
+Failed to update item,අයිතමය යාවත්කාලීන කිරීම අසාර්ථක විය
+Failed to update priority,ප්‍රමුඛතාව යාවත්කාලීන කිරීම අසාර්ථක විය
+Failed to update task,කාර්යය යාවත්කාලීන කිරීම අසාර්ථක විය
+Failed to update tasks: {0},කාර්යයන් යාවත්කාලීන කිරීම අසාර්ථක විය: {0}
+Failed to upload avatar,අවතාරය උඩුගත කිරීම අසාර්ථක විය
+Feature,විශේෂාංගය
+Features,විශේෂාංග
+FF (Finish-Finish),FF (අවසාන-අවසාන)
+FF - Finish-to-Finish,FF - අවසාන-සිට-අවසාන
+Field has been updated,ක්ෂේත්‍රය යාවත්කාලීන කරන ලදී
+Field name is required for 'Set Field Value' action,'ක්ෂේත්‍ර අගය සකසන්න' ක්‍රියාව සඳහා ක්ෂේත්‍ර නම අවශ්‍යයි
+Field {0} is not a Link field,ක්ෂේත්‍රය {0} සබැඳි ක්ෂේත්‍රයක් නොවේ
+Field {0} not found in {1},ක්ෂේත්‍රය {0} {1} හි හමු නොවීය
+file,ගොනුව
+File,ගොනුව
+File does not belong to this task,ගොනුව මෙම කාර්යයට අයත් නොවේ
+File name is required,ගොනු නම අවශ්‍යයි
+File uploaded,ගොනුව උඩුගත කරන ලදී
+File {0} not found,ගොනුව {0} හමු නොවීය
+files,ගොනු
+Files,ගොනු
+Filter,පෙරන්න
+Final Decision,අවසන් තීරණය
+Finance,මුල්‍ය
+Financial,මුල්‍ය
+Finish-to-Finish,අවසාන-සිට-අවසාන
+Finish-to-Start,අවසාන-සිට-ආරම්භ
+Flag,ධජය
+Flag for attention,අවධානය සඳහා ධජය
+Flagged,ධජය සලකුණු කළ
+Focus Panel,අවධානය යොමු කිරීමේ පුවරුව
+Follows your system preference. Currently:,ඔබේ පද්ධති මනාපය අනුගමනය කරයි. දැනට:
+Frappe Project {0} not found,Frappe ව්‍යාපෘතිය {0} හමු නොවීය
+Frappe Projects Migration,Frappe ව්‍යාපෘති සංක්‍රමණය
+Frappe Projects module not available,Frappe ව්‍යාපෘති මොඩියුලය ලබා ගත නොහැක
+Frappe Projects module not installed,Frappe ව්‍යාපෘති මොඩියුලය ස්ථාපනය කර නැත
+Frappe Projects sync is not enabled,Frappe ව්‍යාපෘති සමමුහුර්ත කිරීම සබල කර නැත
+Frappe Task DocType not found,Frappe කාර්ය DocType හමු නොවීය
+Frappe Task has no project,Frappe කාර්යයට ව්‍යාපෘතියක් නැත
+Frappe Task {0} not found,Frappe කාර්යය {0} හමු නොවීය
+Fri,සිකු
+From,සිට
+From Template,සැකිල්ලකින්
+FS (Finish-Start),FS (අවසාන-ආරම්භ)
+FS - Finish-to-Start (default),FS - අවසාන-සිට-ආරම්භ (පෙරනිමි)
+Full form view with audit trail,විගණන මාර්ගය සහිත සම්පූර්ණ පෝරම දසුන
+Full name,සම්පූර්ණ නම
+Gantt,Gantt
+Gantt Chart,Gantt ප්‍රස්ථාරය
+Gantt View,Gantt දසුන
+General Note,සාමාන්‍ය සටහන
+Get started,ආරම්භ කරන්න
+Go back,ආපසු යන්න
+Go Back,Go Back
+Group by,කණ්ඩායම් කරන්න
+Group dependency removed,කණ්ඩායම් පරායත්තතාව ඉවත් කරන ලදී
+Group dependency set,කණ්ඩායම් පරායත්තතාව සකසන ලදී
+Group removed,කණ්ඩායම ඉවත් කරන ලදී
+Group updated,කණ්ඩායම යාවත්කාලීන විය
+Hammock task dates are auto-calculated and cannot be changed manually,Hammock කාර්ය දිනයන් ස්වයංක්‍රීයව ගණනය කරන අතර අතින් වෙනස් කළ නොහැක
+Have a question or need assistance? Fill out the form below and our team will get back to you.,"ප්‍රශ්නයක් හෝ සහාය අවශ්‍යද? පහත පෝරමය පුරවන්න, අපගේ කණ්ඩායම ඔබ වෙත සම්බන්ධ වනු ඇත."
+Health,සෞඛ්‍ය තත්ත්වය
+Healthy,සෞඛ්‍ය සම්පන්න
+Hello {0},ආයුබෝවන් {0}
+Here's what's happening with your projects today.,ඔබේ ව්‍යාපෘතිවල අද සිදුවන්නේ මෙයයි.
+Hide,සඟවන්න
+High,ඉහළ
+History,ඉතිහාසය
+Home,මුල් පිටුව
+Hourly Cost,පැයකට පිරිවැය
+Hours,පැය
+hours,පැය
+Hours Logged,සටහන් කළ පැය
+ID,හැඳුනුම
+Image must be smaller than 5 MB,රූපය 5 MB ට වඩා කුඩා විය යුතුය
+Import,ආනයනය කරන්න
+Import existing projects and tasks from Frappe Projects module,Frappe ව්‍යාපෘති මොඩියුලයෙන් පවතින ව්‍යාපෘති සහ කාර්යයන් ආනයනය කරන්න
+Import failed,ආනයනය අසාර්ථක විය
+Import Template,සැකිල්ල ආනයනය කරන්න
+Imported,ආනයනය කළ
+in,තුළ
+In Progress,ප්‍රගතියේ
+In Review,සමාලෝචනයේ
+In-app notifications,යෙදුම් තුළ දැනුම්දීම්
+Inactive,අක්‍රිය
+Initial Review,ආරම්භක සමාලෝචනය
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,සියලු කාර්යයන් බැලීමට ප්‍රමාණවත් අවසර නැත
+Intermediate,මධ්‍යම
+Internal,අභ්‍යන්තර
+Invalid DocType,වලංගු නොවන DocType
+Invalid DocType for import,ආනයනය සඳහා වලංගු නොවන DocType
+Invalid item type: {0},වලංගු නොවන අයිතම වර්ගය: {0}
+Invalid JSON data,වලංගු නොවන JSON දත්ත
+Invalid note type. Must be one of: {0},වලංගු නොවන සටහන් වර්ගය. {0} වලින් එකක් විය යුතුය
+Invalid project reference,වලංගු නොවන ව්‍යාපෘති යොමුව
+Invalid reaction type. Must be one of: {0},වලංගු නොවන ප්‍රතිචාර වර්ගය. {0} වලින් එකක් විය යුතුය
+Invalid RSVP status,වලංගු නොවන RSVP තත්ත්වය
+Invalid status. Must be one of: {0},වලංගු නොවන තත්ත්වය. {0} වලින් එකක් විය යුතුය
+Invalid status: {0},වලංගු නොවන තත්ත්වය: {0}
+Invalid status: {0}. Must be one of: {1},වලංගු නොවන තත්ත්වය: {0}. {1} වලින් එකක් විය යුතුය
+Invalid tracking context: {0},වලංගු නොවන නිරීක්ෂණ සන්දර්භය: {0}
+Invalid visibility. Must be one of: {0},වලංගු නොවන දෘශ්‍යතාව. {0} වලින් එකක් විය යුතුය
+Invitation: {0} - {1} at {2},ආරාධනය: {0} - {1} {2} වේලාවට
+Invite People,පුද්ගලයින් ආරාධනා කරන්න
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,අයිතමය එකතු කරන ලදී
+Item ID is required,අයිතම හැඳුනුම අවශ්‍යයි
+Item removed,අයිතමය ඉවත් කරන ලදී
+Item type is required,අයිතම වර්ගය අවශ්‍යයි
+Item {0} not found,අයිතමය {0} හමු නොවීය
+Job title or role,රැකියා තනතුර හෝ භූමිකාව
+Join Meeting,රැස්වීමට සම්බන්ධ වන්න
+Just now,මේ මොහොතේ
+just now,මේ මොහොතේ
+Kanban,කන්බන්
+Kanban Board,කන්බන් පුවරුව
+Kanban View,කන්බන් දසුන
+Keyboard Shortcuts,යතුරුපුවරු කෙටිමං
+Keyboard shortcuts (?),යතුරුපුවරු කෙටිමං (?)
+Last checked: {0},Last checked: {0}
+Last Updated,අවසන් යාවත්කාලීනය
+Last updated:,අවසන් යාවත්කාලීනය:
+Last Week,පසුගිය සතිය
+Latest Version,Latest Version
+Light,දීප්ත
+Link failed,සබැඳිය අසාර්ථක විය
+Link Task,කාර්යය සම්බන්ධ කරන්න
+Linked,සම්බන්ධිත
+Linked employee not found,සම්බන්ධිත සේවකයා හමු නොවීය
+Linked Tasks,සම්බන්ධිත කාර්යයන්
+List,ලැයිස්තුව
+List View,ලැයිස්තු දසුන
+Load failed,පූරණය අසාර්ථක විය
+Load More,තවත් පූරණය කරන්න
+Load more comments,තවත් අදහස් පූරණය කරන්න
+Loading activity...,ක්‍රියාකාරකම පූරණය වෙමින්...
+Loading changes...,වෙනස්කම් පූරණය වෙමින්...
+Loading checklist...,පරීක්ෂා ලැයිස්තුව පූරණය වෙමින්...
+Loading comments...,අදහස් පූරණය වෙමින්...
+Loading contact...,සම්බන්ධතාව පූරණය වෙමින්...
+Loading contacts...,සම්බන්ධතා පූරණය වෙමින්...
+Loading dependencies...,පරායත්තතා පූරණය වෙමින්...
+Loading details...,විස්තර පූරණය වෙමින්...
+Loading discussion...,සාකච්ඡාව පූරණය වෙමින්...
+Loading events...,සිද්ධීන් පූරණය වෙමින්...
+Loading files...,ගොනු පූරණය වෙමින්...
+Loading notes...,සටහන් පූරණය වෙමින්...
+Loading preferences...,මනාපයන් පූරණය වෙමින්...
+Loading project...,ව්‍යාපෘතිය පූරණය වෙමින්...
+Loading projects...,ව්‍යාපෘති පූරණය වෙමින්...
+Loading replies...,පිළිතුරු පූරණය වෙමින්...
+Loading report data...,වාර්තා දත්ත පූරණය වෙමින්...
+Loading settings...,සැකසුම් පූරණය වෙමින්...
+Loading task...,කාර්යය පූරණය වෙමින්...
+Loading templates...,සැකිලි පූරණය වෙමින්...
+Loading time logs...,කාල සටහන් පූරණය වෙමින්...
+Loading your portal...,ඔබේ ද්වාරය පූරණය වෙමින්...
+Loading...,පූරණය වෙමින්...
+Location,ස්ථානය
+Log Time,කාලය සටහන් කරන්න
+Logout,පිටවන්න
+Low,අඩු
+Make Offer,දීමනාවක් කරන්න
+Manager,කළමනාකරු
+Manual Entry,අතින් ඇතුළත් කිරීම
+Margin,ආන්තිකය
+Mark all as read,සියල්ල කියවූ ලෙස සලකුණු කරන්න
+Mark all read,සියල්ල කියවූ ලෙස සලකුණු කරන්න
+Mark as read,කියවූ ලෙස සලකුණු කරන්න
+Mark as unread,නොකියවූ ලෙස සලකුණු කරන්න
+Mark read,කියවූ ලෙස සලකුණු කරන්න
+Marking...,සලකුණු කරමින්...
+Material,ද්‍රව්‍ය
+Maybe,සමහරවිට
+Medium,මධ්‍යම
+Meeting,රැස්වීම
+Meeting Link,රැස්වීම් සබැඳිය
+Meeting title,රැස්වීම් මාතෘකාව
+Meeting URL,රැස්වීම් URL
+Meetings,රැස්වීම්
+Mention,සඳහන් කිරීම
+Message,පණිවිඩය
+Message is required,පණිවිඩය අවශ්‍යයි
+Message is required for '{0}' action,'{0}' ක්‍රියාව සඳහා පණිවිඩය අවශ්‍යයි
+Migrate,සංක්‍රමණය කරන්න
+Migration Complete,සංක්‍රමණය සම්පූර්ණයි
+Migration ID:,සංක්‍රමණ හැඳුනුම:
+Migration log not found: {0},සංක්‍රමණ සටහන හමු නොවීය: {0}
+milestone,සන්ධිස්ථානය
+Milestone,සන්ධිස්ථානය
+Milestone created,සන්ධිස්ථානය සාදන ලදී
+Milestone description has been saved.,සන්ධිස්ථාන විස්තරය සුරැකිණි.
+Milestone ID is required,සන්ධිස්ථාන හැඳුනුම අවශ්‍යයි
+Milestone marked as Missed (past due date),සන්ධිස්ථානය මඟහැරුණු ලෙස සලකුණු කරන ලදී (නියමිත දිනය ඉක්මවා ඇත)
+Milestone moved,සන්ධිස්ථානය ගෙන යන ලදී
+Milestone Name,සන්ධිස්ථාන නම
+Milestone name has been saved.,සන්ධිස්ථාන නම සුරැකිණි.
+Milestone name is required,සන්ධිස්ථාන නම අවශ්‍යයි
+Milestone updated,සන්ධිස්ථානය යාවත්කාලීන විය
+Milestone {0} not found,සන්ධිස්ථානය {0} හමු නොවීය
+Milestone {0} not in project {1},සන්ධිස්ථානය {0} ව්‍යාපෘතිය {1} හි නොමැත
+milestones,සන්ධිස්ථාන
+Milestones,සන්ධිස්ථාන
+Milestones:,සන්ධිස්ථාන:
+Minutes,මිනිත්තු
+Missed,මඟහැරුණු
+Mixed,මිශ්‍ර
+Mobile,ජංගම
+Moderate,මධ්‍යස්ථ
+Modified,වෙනස් කළ
+"Modify details, time, or attendees","විස්තර, වේලාව, හෝ සහභාගිවන්නන් වෙනස් කරන්න"
+Mon,සඳුදා
+Month,මාසය
+Move failed,ගෙන යෑම අසාර්ථක විය
+Must be a positive number,ධන සංඛ්‍යාවක් විය යුතුය
+Must finish before this finishes,මෙය අවසන් වීමට පෙර අවසන් විය යුතුය
+Must finish before this starts,මෙය ආරම්භ වීමට පෙර අවසන් විය යුතුය
+Must start before this finishes,මෙය අවසන් වීමට පෙර ආරම්භ විය යුතුය
+Must start before this starts,මෙය ආරම්භ වීමට පෙර ආරම්භ විය යුතුය
+My Assignments,මගේ පැවරුම්
+My Projects,මගේ ව්‍යාපෘති
+My Schedule,මගේ කාලසටහන
+My Tasks,මගේ කාර්යයන්
+N/A,අදාළ නැත
+Name,නම
+Name (A-Z),නම (A-Z)
+Name (Z-A),නම (Z-A)
+Name cannot exceed 255 characters,නම අක්ෂර 255 ඉක්මවිය නොහැක
+Need help?,උදව් අවශ්‍යද?
+Needs Attention,අවධානය අවශ්‍යයි
+Never,Never
+new activities,නව ක්‍රියාකාරකම්
+New Activity,නව ක්‍රියාකාරකම
+New activity,නව ක්‍රියාකාරකම
+New Event,නව සිද්ධිය
+New index is required,නව දර්ශකය අවශ්‍යයි
+New Project,නව ව්‍යාපෘතිය
+New tasks will auto-trail by default.,නව කාර්යයන් පෙරනිමි ලෙස ස්වයංක්‍රීයව පාද වනු ඇත.
+Newest First,නවතම පළමුව
+Next,ඊළඟ
+Next 14 days,ඊළඟ දින 14
+Next 30 days,ඊළඟ දින 30
+Next 60 days,ඊළඟ දින 60
+Next 7 days,ඊළඟ දින 7
+Next 90 days,ඊළඟ දින 90
+Next Week,ඊළඟ සතිය
+Next:,ඊළඟ:
+No,නැත
+No active assignments,ක්‍රියාකාරී පැවරුම් නැත
+No active projects,ක්‍රියාකාරී ව්‍යාපෘති නැත
+No active timer found,ක්‍රියාකාරී කාල ගණකයක් හමු නොවීය
+No activity selected,ක්‍රියාකාරකමක් තෝරාගෙන නැත
+No assignments found,පැවරුම් හමු නොවීය
+No attendees,සහභාගිවන්නන් නැත
+no change,වෙනසක් නැත
+No changes for this field.,මෙම ක්ෂේත්‍රය සඳහා වෙනස්කම් නැත.
+No changes recorded for this activity.,මෙම ක්‍රියාකාරකම සඳහා වෙනස්කම් සටහන් කර නැත.
+No checklist items yet,තවම පරීක්ෂා ලැයිස්තු අයිතම නැත
+No checklist items yet.,තවම පරීක්ෂා ලැයිස්තු අයිතම නැත.
+No comments yet,තවම අදහස් නැත
+No comments yet.,තවම අදහස් නැත.
+No contacts available,සම්බන්ධතා ලබා ගත නොහැක
+No content for this tab,මෙම ටැබය සඳහා අන්තර්ගතය නැත
+No data available,දත්ත ලබා ගත නොහැක
+No data available for the selected filters,තෝරාගත් පෙරහන් සඳහා දත්ත ලබා ගත නොහැක
+No data to export,නිර්යාත කිරීමට දත්ත නැත
+No dates set,දිනයන් සකසා නැත
+No defects reported,දෝෂ වාර්තා කර නැත
+No dependencies defined,පරායත්තතා නිර්වචනය කර නැත
+No description,විස්තරයක් නැත
+No discussion yet.,තවම සාකච්ඡාවක් නැත.
+No documents attached,ලේඛන ඇමිණී නැත
+No due date,නියමිත දිනයක් නැත
+No employee linked to this resource,මෙම සම්පතට සම්බන්ධ සේවකයෙක් නැත
+No ERPNext employee linked to resource,සම්පතට සම්බන්ධ ERPNext සේවකයෙක් නැත
+No events found,සිද්ධීන් හමු නොවීය
+No files attached yet.,තවම ගොනු ඇමිණී නැත.
+No Frappe Project linked,සම්බන්ධ Frappe ව්‍යාපෘතියක් නැත
+No Grouping,කණ්ඩායම් කිරීමක් නැත
+No items,අයිතම නැත
+No matching tasks,ගැළපෙන කාර්යයන් නැත
+No matching tasks found,ගැළපෙන කාර්යයන් හමු නොවීය
+No migration history,සංක්‍රමණ ඉතිහාසයක් නැත
+No Milestone,සන්ධිස්ථානයක් නැත
+No milestones,සන්ධිස්ථාන නැත
+No milestones defined for this project.,මෙම ව්‍යාපෘතිය සඳහා සන්ධිස්ථාන නිර්වචනය කර නැත.
+No notes yet.,තවම සටහන් නැත.
+No notes yet. Add a due diligence note to track progress.,තවම සටහන් නැත. ප්‍රගතිය නිරීක්ෂණය කිරීමට නිසි පරීක්ෂා සටහනක් එක් කරන්න.
+No notifications,දැනුම්දීම් නැත
+No Orga Project linked to Frappe Project {0},Frappe ව්‍යාපෘතිය {0} වෙත සම්බන්ධ Orga ව්‍යාපෘතියක් නැත
+No overdue tasks,ප්‍රමාද කාර්යයන් නැත
+No pending cascade changes,විසඳීමට ගංගා ප්‍රවාහ වෙනස්කම් නැත
+No predecessors - this task can start independently,පෙරගාමීන් නැත - මෙම කාර්යය ස්වාධීනව ආරම්භ කළ හැක
+No project,ව්‍යාපෘතියක් නැත
+No projects found,ව්‍යාපෘති හමු නොවීය
+No Projects Yet,තවම ව්‍යාපෘති නැත
+No recent activity,මෑත ක්‍රියාකාරකම් නැත
+No related documents,සම්බන්ධ ලේඛන නැත
+No resolved threads.,විසඳන ලද සාකච්ඡා පෙළ නැත.
+No resources found,සම්පත් හමු නොවීය
+No results found,ප්‍රතිඵල හමු නොවීය
+No skills listed,කුසලතා ලැයිස්තුගත කර නැත
+No skills recorded yet,තවම කුසලතා සටහන් කර නැත
+No successors - no tasks are waiting for this one,පසුගාමීන් නැත - මෙම කාර්යය සඳහා කිසිදු කාර්යයක් බලා නැත
+No task selected,කාර්යයක් තෝරාගෙන නැත
+No tasks assigned to you,ඔබට පවරන ලද කාර්යයන් නැත
+No tasks available to add,එක් කිරීමට කාර්යයන් ලබා ගත නොහැක
+No tasks found,කාර්යයන් හමු නොවීය
+No tasks linked to this milestone,මෙම සන්ධිස්ථානයට සම්බන්ධ කාර්යයන් නැත
+No tasks with dates to display,දිනයන් සහිත කාර්යයන් පෙන්වීමට නැත
+No tasks yet,තවම කාර්යයන් නැත
+No team members,කණ්ඩායම් සාමාජිකයින් නැත
+No template,සැකිල්ලක් නැත
+No templates yet,තවම සැකිලි නැත
+No time data found,කාල දත්ත හමු නොවීය
+No time logged today,අද කාලය සටහන් කර නැත
+No time logged yet,තවම කාලය සටහන් කර නැත
+No time logs for this period,මෙම කාල පරිච්ඡේදය සඳහා කාල සටහන් නැත
+No time logs found,කාල සටහන් හමු නොවීය
+No unread notifications,නොකියවූ දැනුම්දීම් නැත
+No update information available yet.,No update information available yet.
+None,කිසිවක් නැත
+Not found,හමු නොවීය
+Not permitted,අවසර නැත
+Not permitted to access this project,මෙම ව්‍යාපෘතියට ප්‍රවේශ වීමට අවසර නැත
+Not permitted to access this task,මෙම කාර්යයට ප්‍රවේශ වීමට අවසර නැත
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,මෙම ලේඛනය පිළිබඳ අදහස් දැක්වීමට අවසර නැත
+Not permitted to create clients,සේවාදායකයින් සෑදීමට අවසර නැත
+Not permitted to delete this client,මෙම සේවාදායකයා මකා දැමීමට අවසර නැත
+Not permitted to delete this defect,මෙම දෝෂය මකා දැමීමට අවසර නැත
+Not permitted to delete this note,මෙම සටහන මකා දැමීමට අවසර නැත
+Not permitted to delete this project,මෙම ව්‍යාපෘතිය මකා දැමීමට අවසර නැත
+Not permitted to delete this task,මෙම කාර්යය මකා දැමීමට අවසර නැත
+Not permitted to delete this time log,මෙම කාල සටහන මකා දැමීමට අවසර නැත
+Not permitted to invite clients,සේවාදායකයින් ආරාධනා කිරීමට අවසර නැත
+Not permitted to modify client access,සේවාදායක ප්‍රවේශය වෙනස් කිරීමට අවසර නැත
+Not permitted to modify this project,මෙම ව්‍යාපෘතිය වෙනස් කිරීමට අවසර නැත
+Not permitted to update settings,සැකසුම් යාවත්කාලීන කිරීමට අවසර නැත
+Not permitted to update this client,මෙම සේවාදායකයා යාවත්කාලීන කිරීමට අවසර නැත
+Not permitted to view this client,මෙම සේවාදායකයා බැලීමට අවසර නැත
+not sent,යවා නැත
+Not set,සකසා නැත
+Not specified,සඳහන් කර නැත
+Note,සටහන
+Note (optional),සටහන (විකල්ප)
+Note Content,සටහන් අන්තර්ගතය
+Note content is required,සටහන් අන්තර්ගතය අවශ්‍යයි
+Note name is required,සටහනේ නම අවශ්‍යයි
+Note not found,සටහන හමු නොවීය
+Note Type,සටහන් වර්ගය
+Notes,සටහන්
+Notification,දැනුම්දීම
+Notification not found,දැනුම්දීම හමු නොවීය
+Notifications,දැනුම්දීම්
+Off Track,මාර්ගයෙන් ඉවත්
+Offer,දීමනාව
+Offer Prepared,දීමනාව සකස් කරන ලදී
+Oldest First,පැරණිම පළමුව
+On Hold,රඳවා ඇත
+On Leave,නිවාඩුවේ
+On Track,මාර්ගයේ
+On-Time Rate,නියමිත කාල අනුපාතය
+Only administrators can delete activities,පරිපාලකයින්ට පමණක් ක්‍රියාකාරකම් මකා දැමිය හැක
+Only the comment author or administrators can delete comments,අදහස් කතුවරයාට හෝ පරිපාලකයින්ට පමණක් අදහස් මකා දැමිය හැක
+Only you and admins,ඔබ සහ පරිපාලකයින් පමණි
+Open,විවෘත
+Open in Desk,Desk හි විවෘත කරන්න
+Open Task Log,කාර්ය සටහන විවෘත කරන්න
+Open Tasks,විවෘත කාර්යයන්
+Optional,විකල්ප
+optional,විකල්ප
+Or email us directly at,හෝ අපට සෘජුවම විද්‍යුත් තැපෑල් කරන්න
+Orga Project {0} from Frappe Projects,Frappe ව්‍යාපෘතිවලින් Orga ව්‍යාපෘතිය {0}
+Orga Task {0} from Frappe,Frappe වෙතින් Orga කාර්යය {0}
+Organizer,සංවිධායක
+Other,වෙනත්
+Over Budget,අයවැය ඉක්මවා
+Overall Progress,සමස්ත ප්‍රගතිය
+Overall Utilization,සමස්ත උපයෝගීතාව
+Overallocated,අධික ලෙස වෙන් කළ
+Overdue,ප්‍රමාද
+overdue,ප්‍රමාද
+Overdue Tasks,ප්‍රමාද කාර්යයන්
+Overview,දළ විශ්ලේෂණය
+Owner,හිමිකරු
+Page Not Found,පිටුව හමු නොවීය
+Parent,මව්
+Parent comment must belong to the same document,මව් අදහස එම ලේඛනයටම අයිති විය යුතුය
+Parent comment not found,මව් අදහස හමු නොවීය
+Parent project not synced to Frappe yet,මව් ව්‍යාපෘතිය තවම Frappe වෙත සමමුහුර්ත කර නැත
+Parent project sync not enabled,මව් ව්‍යාපෘති සමමුහුර්ත කිරීම සබල කර නැත
+Partner,හවුල්කරු
+Pending,පොරොත්තු
+per page,පිටුවකට
+Perform initial assessment and background check,ආරම්භක තක්සේරුව සහ පසුබිම් පරීක්ෂාව සිදු කරන්න
+Permanently remove this event,මෙම සිද්ධිය ස්ථිරවම ඉවත් කරන්න
+Permanently remove this task,මෙම කාර්යය ස්ථිරවම ඉවත් කරන්න
+Phone,දුරකථනය
+Pin,ඇමිණීම
+Pin Activity,ක්‍රියාකාරකම අමුණන්න
+Pin to top,ඉහළට අමුණන්න
+Pinned,අමුණන ලද
+Planned budget for this task,මෙම කාර්යය සඳහා සැලසුම් කළ අයවැය
+Planning,සැලසුම් කිරීම
+Please describe your question or issue in detail...,කරුණාකර ඔබේ ප්‍රශ්නය හෝ ගැටලුව විස්තරාත්මකව විස්තර කරන්න...
+Please login to access Orga,Orga වෙත ප්‍රවේශ වීමට කරුණාකර පිවිසෙන්න
+Please login to access the client portal,සේවාදායක ද්වාරයට ප්‍රවේශ වීමට කරුණාකර පිවිසෙන්න
+Please respond to this invitation in Orga,කරුණාකර Orga හි මෙම ආරාධනයට ප්‍රතිචාර දක්වන්න
+Please select an image file,කරුණාකර රූප ගොනුවක් තෝරන්න
+Please try again,කරුණාකර නැවත උත්සාහ කරන්න
+Please type,කරුණාකර ටයිප් කරන්න
+Portal,ද්වාරය
+Portal access revoked for {0},{0} සඳහා ද්වාර ප්‍රවේශය අවලංගු කරන ලදී
+Portal user created successfully. Welcome email {0},ද්වාර පරිශීලකයා සාර්ථකව සාදන ලදී. පිළිගැනීමේ විද්‍යුත් තැපෑල {0}
+Post,පළ කරන්න
+Powered by,බල ගන්වනු ලබන්නේ
+Powered by Tonic,Tonic විසින් බල ගැන්වීම
+Predecessors (Blocked By),පෙරගාමීන් (අවහිර කළ)
+Preferences,මනාපයන්
+Preferences saved successfully,මනාපයන් සාර්ථකව සුරැකිණි
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)","ස්වයංක්‍රීයව ජනනය කරන ලද ව්‍යාපෘති කේත සඳහා උපසර්ගය (උදා., ORG-2026-0001)"
+Prepare and document offer terms,දීමනා කොන්දේසි සකස් කර ලේඛනගත කරන්න
+Press,ඔබන්න
+Preview,පෙරදසුන
+Preview cascade before applying,යෙදීමට පෙර ගංගා ප්‍රවාහ පෙරදසුන
+Previous,පෙර
+Priority,ප්‍රමුඛතාව
+Priority assigned to new tasks,නව කාර්යයන්ට පවරන ලද ප්‍රමුඛතාව
+Priority updated,ප්‍රමුඛතාව යාවත්කාලීන විය
+Proficiency,ප්‍රවීණතාව
+Profile,පැතිකඩ
+Progress,ප්‍රගතිය
+Progress (High-Low),ප්‍රගතිය (ඉහළ-අඩු)
+Progress (Low-High),ප්‍රගතිය (අඩු-ඉහළ)
+Progress Overview,ප්‍රගති දළ විශ්ලේෂණය
+Progress updated,ප්‍රගතිය යාවත්කාලීන විය
+Project,ව්‍යාපෘතිය
+Project budget has been saved.,ව්‍යාපෘති අයවැය සුරැකිණි.
+Project code (e.g. ORG-2026-0001),ව්‍යාපෘති කේතය (උදා. ORG-2026-0001)
+Project Code Prefix,ව්‍යාපෘති කේත උපසර්ගය
+Project created,ව්‍යාපෘතිය සාදන ලදී
+Project deleted,ව්‍යාපෘතිය මකා දැමිණි
+Project description has been saved.,ව්‍යාපෘති විස්තරය සුරැකිණි.
+Project Details,ව්‍යාපෘති විස්තර
+Project end date has been saved.,ව්‍යාපෘතියේ අවසන් දිනය සුරැකිණි.
+Project Files,ව්‍යාපෘති ගොනු
+Project has no linked client,ව්‍යාපෘතියට සම්බන්ධ සේවාදායකයෙක් නැත
+Project Health,ව්‍යාපෘති සෞඛ්‍ය තත්ත්වය
+Project Info,ව්‍යාපෘති තොරතුරු
+Project is required,ව්‍යාපෘතිය අවශ්‍යයි
+Project is required for project context,ව්‍යාපෘති සන්දර්භය සඳහා ව්‍යාපෘතිය අවශ්‍යයි
+Project is required when tracking context is 'project',නිරීක්ෂණ සන්දර්භය 'ව්‍යාපෘතිය' වන විට ව්‍යාපෘතිය අවශ්‍යයි
+Project Manager,ව්‍යාපෘති කළමනාකරු
+Project Name,ව්‍යාපෘති නම
+Project name and template name are required,ව්‍යාපෘති නම සහ සැකිල්ලේ නම අවශ්‍යයි
+Project name is required,ව්‍යාපෘති නම අවශ්‍යයි
+Project not found,ව්‍යාපෘතිය හමු නොවීය
+Project not found or you do not have access,ව්‍යාපෘතිය හමු නොවීය හෝ ඔබට ප්‍රවේශය නැත
+Project settings,ව්‍යාපෘති සැකසුම්
+Project start date has been saved.,ව්‍යාපෘතියේ ආරම්භ දිනය සුරැකිණි.
+Project title has been saved.,ව්‍යාපෘති මාතෘකාව සුරැකිණි.
+Project Type,ව්‍යාපෘති වර්ගය
+Project updated,ව්‍යාපෘතිය යාවත්කාලීන විය
+Project {0} linked to client {1},ව්‍යාපෘතිය {0} සේවාදායකයා {1} වෙත සම්බන්ධ කරන ලදී
+Project {0} not found,ව්‍යාපෘතිය {0} හමු නොවීය
+Project {0} to Frappe Projects,ව්‍යාපෘතිය {0} Frappe ව්‍යාපෘතිවලට
+Project:,ව්‍යාපෘතිය:
+projects,ව්‍යාපෘති
+Projects,ව්‍යාපෘති
+Projects created:,සාදන ලද ව්‍යාපෘති:
+Projects Overview,ව්‍යාපෘති දළ විශ්ලේෂණය
+Projects skipped:,මඟ හැරුණු ව්‍යාපෘති:
+Projects updated:,යාවත්කාලීන කළ ව්‍යාපෘති:
+Promote failed,උසස් කිරීම අසාර්ථක විය
+Promote to task,කාර්යයක් බවට උසස් කරන්න
+Promoted to task,කාර්යයක් බවට උසස් කරන ලදී
+Propose,යෝජනා කරන්න
+Propose New Time,නව වේලාවක් යෝජනා කරන්න
+Propose Time,වේලාව යෝජනා කරන්න
+Proposed End,යෝජිත අවසානය
+Proposed Start,යෝජිත ආරම්භය
+Public,පොදු
+Quick Action,ඉක්මන් ක්‍රියාව
+Quick Actions,ඉක්මන් ක්‍රියා
+Quick Stats,ඉක්මන් සංඛ්‍යාලේඛන
+Rates,අනුපාත
+Receive notifications via email,විද්‍යුත් තැපෑල හරහා දැනුම්දීම් ලබා ගන්න
+Receive notifications within the application,යෙදුම තුළ දැනුම්දීම් ලබා ගන්න
+Recent Activity,මෑත ක්‍රියාකාරකම්
+Recipient {0} is not a valid user,ලබන්නා {0} වලංගු පරිශීලකයෙක් නොවේ
+Reference,යොමුව
+Refresh,නැවුම් කරන්න
+Related,සම්බන්ධ
+Related Company (optional),සම්බන්ධ සමාගම (විකල්ප)
+Related Documents,සම්බන්ධ ලේඛන
+Related Project,සම්බන්ධ ව්‍යාපෘතිය
+Remaining,ඉතිරි
+Reminder,මතක් කිරීම
+Reminder Lead Time,මතක් කිරීමේ පූර්ව කාලය
+Reminder: {0} - {1} at {2},මතක් කිරීම: {0} - {1} {2} වේලාවට
+Remove,ඉවත් කරන්න
+Remove dependency,පරායත්තතාව ඉවත් කරන්න
+Remove dependency on,පරායත්තතාව ඉවත් කරන්න
+Remove from group,කණ්ඩායමෙන් ඉවත් කරන්න
+Remove group dependency,කණ්ඩායම් පරායත්තතාව ඉවත් කරන්න
+Remove skill,කුසලතාව ඉවත් කරන්න
+Reopen,නැවත විවෘත කරන්න
+Reopen thread,සාකච්ඡා පෙළ නැවත විවෘත කරන්න
+reopened,නැවත විවෘත කළ
+replies,පිළිතුරු
+Reply,පිළිතුර
+reply,පිළිතුර
+Replying to,පිළිතුරු දෙනවා
+Replying to comment,අදහසට පිළිතුරු දෙමින්
+Report Defect,දෝෂය වාර්තා කරන්න
+Reported Date,වාර්තා කළ දිනය
+Reports,වාර්තා
+Reports To,වාර්තා කරනු ලබන්නේ
+Request Submitted!,ඉල්ලීම ඉදිරිපත් කරන ලදී!
+Required,අවශ්‍යයි
+required,අවශ්‍යයි
+Research,පර්යේෂණ
+Reset to Defaults,පෙරනිමිවලට යළි පිහිටුවන්න
+Resolve,විසඳන්න
+Resolve thread,සාකච්ඡා පෙළ විසඳන්න
+Resolved,විසඳන ලද
+Resolved date cannot be before reported date,විසඳන ලද දිනය වාර්තා කළ දිනයට පෙර විය නොහැක
+Resource,සම්පත
+Resource and skill name are required,සම්පත සහ කුසලතා නම අවශ්‍යයි
+Resource is already an attendee,සම්පත දැනටමත් සහභාගිවන්නෙකි
+Resource name is required,සම්පත් නම අවශ්‍යයි
+Resource not found,සම්පත හමු නොවීය
+Resource synced from employee {0},සේවකයා {0} වෙතින් සම්පත සමමුහුර්ත කරන ලදී
+Resource {0} is already assigned to this task ({1}),සම්පත {0} දැනටමත් මෙම කාර්යයට ({1}) පවරා ඇත
+Resource {0} not found,සම්පත {0} හමු නොවීය
+Resources,සම්පත්
+Retry,නැවත උත්සාහ කරන්න
+Review,සමාලෝචනය
+Review all relevant documents and contracts,සියලු අදාළ ලේඛන සහ ගිවිසුම් සමාලෝචනය කරන්න
+Reviews,සමාලෝචන
+Risk Assessment,අවදානම් තක්සේරුව
+Rollback,ආපසු හැරවීම
+Rolled back,ආපසු හැරවන ලදී
+Room or address,කාමරය හෝ ලිපිනය
+RSVP,RSVP
+Safety,ආරක්ෂාව
+Sat,සෙන
+Save,සුරකින්න
+"Save a project as a template, or import one from a JSON file.","ව්‍යාපෘතියක් සැකිල්ලක් ලෙස සුරකින්න, හෝ JSON ගොනුවකින් ආනයනය කරන්න."
+Save as Template,සැකිල්ලක් ලෙස සුරකින්න
+Save Changes,වෙනස්කම් සුරකින්න
+Save failed,සුරැකීම අසාර්ථක විය
+Save Preferences,මනාපයන් සුරකින්න
+Save Template,සැකිල්ල සුරකින්න
+Saving...,සුරකිමින්...
+Schedule,කාලසටහන
+Schedule type is required for scheduled triggers,උපලේඛිත ප්‍රේරක සඳහා කාලසටහන් වර්ගය අවශ්‍යයි
+Scheduled,උපලේඛිත
+Search,සෙවීම
+"Search by name, email, or skill...","නම, විද්‍යුත් තැපෑල, හෝ කුසලතාව අනුව සොයන්න..."
+Search for a project...,ව්‍යාපෘතියක් සොයන්න...
+Search for a task...,කාර්යයක් සොයන්න...
+Search for an event...,සිද්ධියක් සොයන්න...
+Search for people to invite...,ආරාධනා කිරීමට පුද්ගලයින් සොයන්න...
+Search tasks to link...,සම්බන්ධ කිරීමට කාර්යයන් සොයන්න...
+Search tasks...,කාර්යයන් සොයන්න...
+Search...,සොයන්න...
+Searching...,සොයමින්...
+Seen,දුටු
+Select a project if your request is related to a specific project.,ඔබේ ඉල්ලීම නිශ්චිත ව්‍යාපෘතියකට සම්බන්ධ නම් ව්‍යාපෘතියක් තෝරන්න.
+Select a project...,ව්‍යාපෘතියක් තෝරන්න...
+Select a task from the Gantt chart to view and manage its details.,විස්තර බැලීමට සහ කළමනාකරණය කිරීමට Gantt ප්‍රස්ථාරයෙන් කාර්යයක් තෝරන්න.
+Select a task from the list or Kanban board to view and manage its details.,විස්තර බැලීමට සහ කළමනාකරණය කිරීමට ලැයිස්තුවෙන් හෝ කන්බන් පුවරුවෙන් කාර්යයක් තෝරන්න.
+Select a template...,සැකිල්ලක් තෝරන්න...
+Select priority...,ප්‍රමුඛතාව තෝරන්න...
+Select status...,තත්ත්වය තෝරන්න...
+Select task...,කාර්යයක් තෝරන්න...
+Select type...,වර්ගය තෝරන්න...
+Selection,තේරීම
+Send,යවන්න
+Send comment,අදහස යවන්න
+Send email invitations to attendees,සහභාගිවන්නන්ට විද්‍යුත් ආරාධනා යවන්න
+Send Invitations,ආරාධනා යවන්න
+Send notification when a task is assigned to a user,කාර්යයක් පරිශීලකයෙකුට පැවරූ විට දැනුම්දීමක් යවන්න
+Send notification when task status changes,කාර්ය තත්ත්වය වෙනස් වූ විට දැනුම්දීමක් යවන්න
+Send reminder before task due date,කාර්යය නියමිත දිනයට පෙර මතක් කිරීමක් යවන්න
+sent,යැවූ
+Set rate,අනුපාතය සකසන්න
+Settings,සැකසුම්
+Settings saved successfully,සැකසුම් සාර්ථකව සුරැකිණි
+Severity,බරපතලකම
+SF (Start-Finish),SF (ආරම්භ-අවසාන)
+SF - Start-to-Finish,SF - ආරම්භ-සිට-අවසාන
+Show,පෙන්වන්න
+Show all,සියල්ල පෙන්වන්න
+Show all changes,සියලු වෙනස්කම් පෙන්වන්න
+Show Archived,සංරක්ෂිත පෙන්වන්න
+Show full diff,සම්පූර්ණ වෙනස පෙන්වන්න
+Show less,අඩුවෙන් පෙන්වන්න
+Show more,තව පෙන්වන්න
+Skill added,කුසලතාව එකතු කරන ලදී
+Skill is required,කුසලතාව අවශ්‍යයි
+Skill Name,කුසලතා නම
+Skill removed,කුසලතාව ඉවත් කරන ලදී
+Skill {0} already exists for this resource,මෙම සම්පත සඳහා කුසලතාව {0} දැනටමත් පවතී
+Skills,කුසලතා
+Skills & Competencies,කුසලතා සහ සමත්තතා
+Skip already migrated projects,දැනටමත් සංක්‍රමණය කළ ව්‍යාපෘති මඟ හරින්න
+Sort by,අනුපිළිවෙළට
+Sort: Due Date,අනුපිළිවෙළ: නියමිත දිනය
+Sort: Priority,අනුපිළිවෙළ: ප්‍රමුඛතාව
+Sort: Project,අනුපිළිවෙළ: ව්‍යාපෘතිය
+Sort: Status,අනුපිළිවෙළ: තත්ත්වය
+Sort: Task,අනුපිළිවෙළ: කාර්යය
+Source Code,මූලාශ්‍ර කේතය
+Spent,වැය කළ
+Spent:,වැය කළ:
+SS (Start-Start),SS (ආරම්භ-ආරම්භ)
+SS - Start-to-Start,SS - ආරම්භ-සිට-ආරම්භ
+Standalone,ස්වාධීන
+Start,ආරම්භය
+Start a discussion below,පහතින් සාකච්ඡාවක් ආරම්භ කරන්න
+Start Date,ආරම්භ දිනය
+Start date,ආරම්භ දිනය
+Start Date (Earliest),ආරම්භ දිනය (ඉක්මනින්ම)
+Start date updated,ආරම්භ දිනය යාවත්කාලීන විය
+Start date/time is required,ආරම්භ දිනය/වේලාව අවශ්‍යයි
+Start Migration,සංක්‍රමණය ආරම්භ කරන්න
+Start the conversation below.,පහතින් සංවාදය ආරම්භ කරන්න.
+Start Timer,කාල ගණකය ආරම්භ කරන්න
+Start typing to search...,සෙවීමට ටයිප් කිරීම ආරම්භ කරන්න...
+Start-to-Finish,ආරම්භ-සිට-අවසාන
+Start-to-Start,ආරම්භ-සිට-ආරම්භ
+Start:,ආරම්භය:
+Statistics reset,සංඛ්‍යාලේඛන යළි පිහිටුවන ලදී
+Status,තත්ත්වය
+Status assigned to new projects,නව ව්‍යාපෘතිවලට පවරන ලද තත්ත්වය
+Status assigned to new tasks,නව කාර්යයන්ට පවරන ලද තත්ත්වය
+Status Changes,තත්ත්ව වෙනස්කම්
+Status updated,තත්ත්වය යාවත්කාලීන විය
+Status:,තත්ත්වය:
+Stop,නවත්වන්න
+Stop & Save,නවත්වන්න සහ සුරකින්න
+Stop Timer,කාල ගණකය නවත්වන්න
+Stops current timer and starts for this event,වත්මන් කාල ගණකය නවත්වා මෙම සිද්ධිය සඳහා ආරම්භ කරයි
+Stops current timer and starts for this task,වත්මන් කාල ගණකය නවත්වා මෙම කාර්යය සඳහා ආරම්භ කරයි
+Subject,විෂය
+Subject cannot exceed 255 characters,විෂය අක්ෂර 255 ඉක්මවිය නොහැක
+Subject is required,විෂය අවශ්‍යයි
+Submit,ඉදිරිපත් කරන්න
+Submit Another Request,තවත් ඉල්ලීමක් ඉදිරිපත් කරන්න
+Submit Request,ඉල්ලීම ඉදිරිපත් කරන්න
+Submitting...,ඉදිරිපත් කරමින්...
+Successfully saved,සාර්ථකව සුරැකිණි
+Successors (Blocking),පසුගාමීන් (අවහිර කරමින්)
+Sun,ඉරිදා
+Supplier,සැපයුම්කරු
+Support,සහාය
+Switch to this event,මෙම සිද්ධියට මාරු වන්න
+Switch to this task,මෙම කාර්යයට මාරු වන්න
+Sync direction is set to Frappe to Orga only,සමමුහුර්ත දිශාව Frappe සිට Orga වෙත පමණක් සකසා ඇත
+Sync direction is set to Orga to Frappe only,සමමුහුර්ත දිශාව Orga සිට Frappe වෙත පමණක් සකසා ඇත
+Sync not enabled for this project,මෙම ව්‍යාපෘතිය සඳහා සමමුහුර්තය සබල කර නැත
+System,පද්ධතිය
+Table,වගුව
+Take ownership of this task,මෙම කාර්යයේ අයිතිය ගන්න
+Target Date,ඉලක්ක දිනය
+Target End,ඉලක්ක අවසානය
+Target Project,ඉලක්ක ව්‍යාපෘතිය
+Target user is required for '{0}' action,'{0}' ක්‍රියාව සඳහා ඉලක්ක පරිශීලකයා අවශ්‍යයි
+task,කාර්යය
+Task,කාර්යය
+Task '{0}' is due on {1}.,කාර්යය '{0}' {1} දිනට නියමිතය.
+Task and resource are required,කාර්යය සහ සම්පත අවශ්‍යයි
+Task Assignment,කාර්ය පැවරුම
+Task cannot be its own parent,කාර්යය තමාගේම මව් විය නොහැක
+Task cannot depend on itself,කාර්යයට තමාටම රඳා පැවතිය නොහැක
+Task cannot depend on the group it belongs to,කාර්යයට එය අයත් කණ්ඩායමට රඳා පැවතිය නොහැක
+Task created,කාර්යය සාදන ලදී
+Task deleted,කාර්යය මකා දැමිණි
+Task description has been saved.,කාර්ය විස්තරය සුරැකිණි.
+Task Details,කාර්ය විස්තර
+Task due in {0} days: {1},කාර්යය දින {0} කින් නියමිතය: {1}
+Task due today: {0},අද නියමිත කාර්යය: {0}
+Task due tomorrow: {0},හෙට නියමිත කාර්යය: {0}
+Task duplicated,කාර්යය අනුපිටපත් කරන ලදී
+Task Group,කාර්ය කණ්ඩායම
+Task ID is required,කාර්ය හැඳුනුම අවශ්‍යයි
+Task is blocked by incomplete dependencies,අසම්පූර්ණ පරායත්තතා මගින් කාර්යය අවහිර කර ඇත
+Task is cancelled,කාර්යය අවලංගු කර ඇත
+Task is completed,කාර්යය සම්පූර්ණ කර ඇත
+Task is no longer blocked by a group,කාර්යය තවදුරටත් කණ්ඩායමක් මගින් අවහිර නැත
+Task is required for task context,කාර්ය සන්දර්භය සඳහා කාර්යය අවශ්‍යයි
+Task is required when tracking context is 'task',නිරීක්ෂණ සන්දර්භය 'කාර්යය' වන විට කාර්යය අවශ්‍යයි
+Task linked,කාර්යය සම්බන්ධ කරන ලදී
+Task moved,කාර්යය ගෙන යන ලදී
+Task name,කාර්ය නම
+Task name is required,කාර්ය නම අවශ්‍යයි
+Task removed from group,කාර්යය කණ්ඩායමෙන් ඉවත් කරන ලදී
+Task Subject,කාර්ය විෂය
+Task subject is required,කාර්ය විෂය අවශ්‍යයි
+Task Type,කාර්ය වර්ගය
+Task unblocked: {0},කාර්යය අවහිරය ඉවත් කරන ලදී: {0}
+Task unlinked,කාර්යය විසන්ධි කරන ලදී
+Task updated,කාර්යය යාවත්කාලීන විය
+Task {0} not found,කාර්යය {0} හමු නොවීය
+Task {0} not in project {1},කාර්යය {0} ව්‍යාපෘතිය {1} හි නොමැත
+Task {0} to Frappe,කාර්යය {0} Frappe වෙත
+Tasks,කාර්යයන්
+tasks,කාර්යයන්
+Tasks and milestones will be created with dates relative to the project start date.,ව්‍යාපෘතියේ ආරම්භ දිනයට සාපේක්ෂ දිනයන් සහිතව කාර්යයන් සහ සන්ධිස්ථාන සාදනු ඇත.
+Tasks assigned to you across all projects.,සියලු ව්‍යාපෘතිවල ඔබට පවරන ලද කාර්යයන්.
+Tasks created:,සාදන ලද කාර්යයන්:
+Tasks from projects you manage.,ඔබ කළමනාකරණය කරන ව්‍යාපෘතිවල කාර්යයන්.
+Tasks updated:,යාවත්කාලීන කළ කාර්යයන්:
+"Tasks, milestones, and dependencies have been created.","කාර්යයන්, සන්ධිස්ථාන, සහ පරායත්තතා සාදන ලදී."
+Tasks:,කාර්යයන්:
+TBD,තීරණය කළ යුතුය
+Team,කණ්ඩායම
+Team Members,කණ්ඩායම් සාමාජිකයින්
+Template,සැකිල්ල
+Template applied,සැකිල්ල යොදන ලදී
+Template data is required in import data,ආනයන දත්තවල සැකිල්ල දත්ත අවශ්‍යයි
+Template has no data,සැකිල්ලේ දත්ත නැත
+Template Name,සැකිල්ලේ නම
+Template name,සැකිල්ලේ නම
+Template name is required,සැකිල්ලේ නම අවශ්‍යයි
+Template name is required in import data,ආනයන දත්තවල සැකිල්ලේ නම අවශ්‍යයි
+Template saved,සැකිල්ල සුරැකිණි
+Template updated successfully.,සැකිල්ල සාර්ථකව යාවත්කාලීන විය.
+Template {0} not found,සැකිල්ල {0} හමු නොවීය
+Templates,සැකිලි
+Tentative,තාවකාලික
+The comment has been deleted,අදහස මකා දැමිණි
+The project,ව්‍යාපෘතිය
+The source document may have been deleted.,මූලාශ්‍ර ලේඛනය මකා දමා ඇති විය හැක.
+The source document will not be affected.,මූලාශ්‍ර ලේඛනය බලපෑමට ලක් නොවේ.
+The status of '{0}' was changed from {1} to {2}.,'{0}' හි තත්ත්වය {1} සිට {2} වෙත වෙනස් කරන ලදී.
+Theme,තේමාව
+Theme preference,තේමා මනාපය
+This action,මෙම ක්‍රියාව
+This action cannot be undone.,මෙම ක්‍රියාව අහෝසි කළ නොහැක.
+This activity has been flagged for attention,මෙම ක්‍රියාකාරකම අවධානය සඳහා ධජය සලකුණු කර ඇත
+This is a reminder for your upcoming appointment,ඔබේ ඉදිරි හමුවීම සඳහා මතක් කිරීමකි
+This method is only meant for developer mode,මෙම ක්‍රමය සංවර්ධක මාදිලිය සඳහා පමණි
+This page wandered off,This page wandered off
+This Week,මෙම සතිය
+This will delete all notes and preferences associated with this activity.,මෙය මෙම ක්‍රියාකාරකමට සම්බන්ධ සියලු සටහන් සහ මනාපයන් මකා දමනු ඇත.
+This will import all Frappe Projects into Orga. Continue?,මෙය සියලු Frappe ව්‍යාපෘති Orga වෙත ආනයනය කරනු ඇත. ඉදිරියට යන්නද?
+This will permanently delete,මෙය ස්ථිරවම මකා දමනු ඇත
+This will permanently delete:,මෙය ස්ථිරවම මකා දමනු ඇත:
+Thu,බ්‍රහස්
+Time,කාලය
+Time & Billing,කාලය සහ බිල් කිරීම
+Time & Revenue,කාලය සහ ආදායම
+Time Entries,කාල ඇතුළත් කිරීම්
+Time log name is required,කාල සටහනේ නම අවශ්‍යයි
+Time Log not found,කාල සටහන හමු නොවීය
+Time log {0} not found,කාල සටහන {0} හමු නොවීය
+Time Logs,කාල සටහන්
+Time Summary,කාල සාරාංශය
+Time Tracking,කාල නිරීක්ෂණය
+Timeline,කාල රේඛාව
+Timer active on,කාල ගණකය ක්‍රියාකාරී
+Timer is not running,කාල ගණකය ක්‍රියාත්මක නොවේ
+Timer Running,කාල ගණකය ක්‍රියාත්මකයි
+Timer running,කාල ගණකය ක්‍රියාත්මකයි
+Timesheet DocType not available,කාල පත්‍රිකා DocType ලබා ගත නොහැක
+Timesheets,කාල පත්‍රිකා
+Timezone,කාල කලාපය
+Timezone is detected from your browser,කාල කලාපය ඔබේ බ්‍රවුසරයෙන් හඳුනා ගැනේ
+Title,මාතෘකාව
+Title cannot exceed 255 characters,මාතෘකාව අක්ෂර 255 ඉක්මවිය නොහැක
+Title is required,මාතෘකාව අවශ්‍යයි
+Title updated,මාතෘකාව යාවත්කාලීන විය
+To,වෙත
+to,වෙත
+to cancel,අවලංගු කිරීමට
+to close,වසන්නට
+to confirm:,තහවුරු කිරීමට:
+to edit,සංස්කරණය කිරීමට
+"to save,","සුරැකීමට,"
+To Time cannot be before From Time,අවසන් වේලාව ආරම්භ වේලාවට පෙර විය නොහැක
+Today,අද
+today,අද
+Toggle billable,බිල් කළ හැකි මාරු කරන්න
+Toggle Details Panel,විස්තර පුවරුව මාරු කරන්න
+Toggle Manager Panel,කළමනාකරු පුවරුව මාරු කරන්න
+Toggle Sidebar,පැති තීරුව මාරු කරන්න
+Tomorrow,හෙට
+tomorrow,හෙට
+Total,එකතුව
+Total Budget,සම්පූර්ණ අයවැය
+Total Contacts,සම්පූර්ණ සම්බන්ධතා
+Total Cost,සම්පූර්ණ පිරිවැය
+Total Cost to Org,සංවිධානයට සම්පූර්ණ පිරිවැය
+Total Defect Cost,සම්පූර්ණ දෝෂ පිරිවැය
+Total Hours,සම්පූර්ණ පැය
+Total Hours Logged,සම්පූර්ණ සටහන් කළ පැය
+Total Projects,සම්පූර්ණ ව්‍යාපෘති
+Total Spent,සම්පූර්ණ වැය
+Total Tasks,සම්පූර්ණ කාර්යයන්
+Total:,එකතුව:
+Tracked,නිරීක්ෂණය කළ
+trails to today while Open at 0%,0% විවෘත තත්ත්වයේ අද දක්වා පාද
+Tried:,Tried:
+Try adjusting your filter criteria,ඔබේ පෙරහන් නිර්ණායක සකස් කිරීමට උත්සාහ කරන්න
+Try adjusting your filters.,ඔබේ පෙරහන් සකස් කිරීමට උත්සාහ කරන්න.
+Try Again,නැවත උත්සාහ කරන්න
+Tue,අඟ
+Type,වර්ගය
+Type updated,වර්ගය යාවත්කාලීන විය
+Type:,වර්ගය:
+Typical response time: 1-2 business days,සාමාන්‍ය ප්‍රතිචාර කාලය: ව්‍යාපාරික දින 1-2
+Unarchive,සංරක්ෂිතයෙන් ඉවත් කරන්න
+Unarchive Activity,ක්‍රියාකාරකම සංරක්ෂිතයෙන් ඉවත් කරන්න
+Unassign,පැවරුම ඉවත් කරන්න
+Unassigned,පැවරුම් නොකළ
+Under Budget,අයවැයට අඩුවෙන්
+Ungrouped,කණ්ඩායම් නොකළ
+Unknown,නොදන්නා
+Unknown error,නොදන්නා දෝෂය
+Unlink failed,විසන්ධි කිරීම අසාර්ථක විය
+Unlink task from milestone,සන්ධිස්ථානයෙන් කාර්යය විසන්ධි කරන්න
+Unpin,ඇමිණීම ඉවත් කරන්න
+Unpin Activity,ක්‍රියාකාරකමේ ඇමිණීම ඉවත් කරන්න
+Unread,නොකියවූ
+Unread only,නොකියවූ පමණි
+Until,දක්වා
+Up to Date,Up to Date
+Upcoming,ඉදිරි
+upcoming,ඉදිරි
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,යාවත්කාලීන කිරීම අසාර්ථක විය
+Updated,යාවත්කාලීන කළ
+Updated successfully,සාර්ථකව යාවත්කාලීන විය
+Updates,Updates
+Upload,උඩුගත කරන්න
+Upload failed,උඩුගත කිරීම අසාර්ථක විය
+Upload files below to attach them to this task.,මෙම කාර්යයට ඇමිණීමට පහතින් ගොනු උඩුගත කරන්න.
+Upload to project,ව්‍යාපෘතියට උඩුගත කරන්න
+Uploading...,උඩුගත කරමින්...
+Urgent,හදිසි
+User {0} is already linked to client {1},පරිශීලකයා {0} දැනටමත් සේවාදායකයා {1} වෙත සම්බන්ධ කර ඇත
+User {0} is already linked to resource {1},පරිශීලකයා {0} දැනටමත් සම්පත {1} වෙත සම්බන්ධ කර ඇත
+Utilization,උපයෝගීතාව
+Valid,වලංගු
+Value:,අගය:
+Variance,විචලනය
+Variance:,විචලනය:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,බලන්න
+View All,සියල්ල බලන්න
+View all active projects,සියලු ක්‍රියාකාරී ව්‍යාපෘති බලන්න
+View all open tasks,සියලු විවෘත කාර්යයන් බලන්න
+View overdue tasks,ප්‍රමාද කාර්යයන් බලන්න
+View Release,View Release
+Visibility,දෘශ්‍යතාව
+Waiting for this task,මෙම කාර්යය සඳහා බලා සිටිමින්
+Waits for:,බලා සිටින්නේ:
+Warning: Resource {0} status is {1},අවවාදයයි: සම්පත {0} තත්ත්වය {1} වේ
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,අවවාදයයි: HTTPS වෙනුවට HTTP භාවිතා කරයි. Webhook ගෙවීම් ආරක්ෂිත නොවිය හැක.
+Watch budget closely,අයවැය සමීපව නිරීක්ෂණය කරන්න
+We'll respond to:,අපි ප්‍රතිචාර දක්වන්නේ:
+Webhook deleted,Webhook මකා දැමිණි
+Webhook name is required,Webhook නම අවශ්‍යයි
+Webhook not found,Webhook හමු නොවීය
+Webhook URL is required,Webhook URL අවශ්‍යයි
+Webhook URL must start with http:// or https://,Webhook URL http:// හෝ https:// වලින් ආරම්භ විය යුතුය
+Wed,බදාදා
+Week,සතිය
+Weekend,සති අන්තය
+Weekly Capacity,සතිපතා ධාරිතාව
+weekly capacity,සතිපතා ධාරිතාව
+Weekly Capacity (h),සතිපතා ධාරිතාව (පැ)
+Welcome,සාදරයෙන් පිළිගනිමු
+Welcome back!,ආපසු සාදරයෙන් පිළිගනිමු!
+Welcome to Orga,Orga වෙත සාදරයෙන් පිළිගනිමු
+What are you working on?,ඔබ කුමක් මත වැඩ කරනවාද?
+What did you work on?,ඔබ කුමක් මත වැඩ කළාද?
+When,කවදා
+When work begins,වැඩ ආරම්භ වන විට
+When work is due,වැඩ නියමිත විට
+Where,කොහිද
+Will capture:,ග්‍රහණය කරනු ඇත:
+Will create:,සාදනු ඇත:
+with checklist items,පරීක්ෂා ලැයිස්තු අයිතම සමඟ
+Working,වැඩ කරමින්
+Workload,වැඩ බර
+Workmanship,ශිල්පීය හැකියාව
+Write a comment...,අදහසක් ලියන්න...
+Write a comment... Use @name to mention (Ctrl+Enter to send),අදහසක් ලියන්න... සඳහන් කිරීමට @නම භාවිතා කරන්න (යැවීමට Ctrl+Enter)
+Year,වසර
+Yes,ඔව්
+Yesterday,ඊයේ
+yesterday,ඊයේ
+You are not an attendee of this appointment,ඔබ මෙම හමුවීමේ සහභාගිවන්නෙක් නොවේ
+You are not linked to any resource,ඔබ කිසිදු සම්පතකට සම්බන්ධ නැත
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,ඔබට ඔබේම අදහස් පමණක් මකා දැමිය හැක
+You can only delete your own reactions,ඔබට ඔබේම ප්‍රතිචාර පමණක් මකා දැමිය හැක
+You do not have access to the client portal. Please contact support.,ඔබට සේවාදායක ද්වාරයට ප්‍රවේශය නැත. කරුණාකර සහාය අමතන්න.
+You have already reacted with '{0}',ඔබ දැනටමත් '{0}' සමඟ ප්‍රතිචාර දක්වා ඇත
+You have been assigned to task '{0}' in project '{1}'.,ඔබට '{1}' ව්‍යාපෘතියේ '{0}' කාර්යය පවරා ඇත.
+You have been assigned to: {0},ඔබට පවරා ඇත: {0}
+You have been invited to the following appointment,ඔබ පහත හමුවීමට ආරාධනා කර ඇත
+You have no tasks assigned to you right now.,ඔබට දැනට පවරා ඇති කාර්යයන් නැත.
+You were mentioned in {0},ඔබ {0} හි සඳහන් කරන ලදී
+Your attendance,ඔබේ පැමිණීම
+Your comment has been posted,ඔබේ අදහස පළ කරන ලදී
+Your Projects,ඔබේ ව්‍යාපෘති
+Your projects will appear here once they're assigned to you.,ඔබේ ව්‍යාපෘති ඔබට පවරා ඇති පසු මෙහි දිස්වනු ඇත.
+Your Response,ඔබේ ප්‍රතිචාරය
+Your RSVP,ඔබේ RSVP
+Your support request has been submitted successfully.,ඔබේ සහාය ඉල්ලීම සාර්ථකව ඉදිරිපත් කරන ලදී.
+Your support request has been submitted successfully. We'll get back to you shortly.,ඔබේ සහාය ඉල්ලීම සාර්ථකව ඉදිරිපත් කරන ලදී. අපි ඉක්මනින් ඔබ වෙත සම්බන්ධ වන්නෙමු.
+"Your task ""{0}"" is no longer blocked and can now be started.","ඔබේ කාර්යය ""{0}"" තවදුරටත් අවහිර නැති අතර දැන් ආරම්භ කළ හැක."
+{0} is required,{0} අවශ්‍යයි
+{0} new activities,නව ක්‍රියාකාරකම් {0}
+{0} of {1} completed,{1} න් {0} සම්පූර්ණ කළ
+{0} projects already migrated (will be skipped or updated),ව්‍යාපෘති {0} දැනටමත් සංක්‍රමණය කර ඇත (මඟ හැරෙනු ඇත හෝ යාවත්කාලීන වනු ඇත)
+{0} status changed to {1},{0} තත්ත්වය {1} වෙත වෙනස් විය
+{0} tasks remaining,කාර්යයන් {0}ක් ඉතිරිය
+{0} tasks without projects will be skipped,ව්‍යාපෘති නොමැති කාර්යයන් {0} මඟ හැරෙනු ඇත
+{0} {1} not found,{0} {1} හමු නොවීය

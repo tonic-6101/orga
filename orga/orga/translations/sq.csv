@@ -1,0 +1,1492 @@
++ Add Milestone,+ Shto pikë referimi
++ Create Task,+ Krijo detyrë
++ Log Time,+ Regjistro kohën
+-- Select a project --,-- Zgjidhni një projekt --
+0m,0m
+1 day,1 ditë
+1 day ago,1 ditë më parë
+1 dependency,1 varësi
+1 entry,1 zë
+1 file,1 skedar
+1 hour ago,1 orë më parë
+1 member,1 anëtar
+1 milestone,1 pikë referimi
+1 month,1 muaj
+1 task,1 detyrë
+< 1m,< 1m
+"A clear, actionable title for the task",Një titull i qartë dhe i zbatueshëm për detyrën
+A client with email {0} already exists: {1},Një klient me adresë emaili {0} ekziston tashmë: {1}
+A key deliverable or checkpoint for the project,Një rezultat kyç ose pikë kontrolli për projektin
+Accept,Prano
+Accepted,Pranuar
+Acknowledge,Konfirmo marrjen
+across,në
+Action,Veprim
+Actions,Veprime
+Active,Aktiv
+Active Assignments,Caktime aktive
+Active Projects,Projekte aktive
+Activity,Aktivitet
+Activity data deleted successfully,Të dhënat e aktivitetit u fshinë me sukses
+Activity Info,Informacione mbi aktivitetin
+Activity Stats,Statistika aktiviteti
+Activity will appear here as you work on tasks and projects.,Aktiviteti do të shfaqet këtu ndërsa punoni në detyra dhe projekte.
+Actual,Aktual
+Actual Cost,Kosto aktuale
+Actual cost cannot be negative,Kostoja aktuale nuk mund të jetë negative
+Actual end date cannot be before actual start date,Data aktuale e mbarimit nuk mund të jetë përpara datës aktuale të fillimit
+Actual Hours,Orë aktuale
+Add,Shto
+Add a checklist item...,Shto një zë në listën e kontrollit...
+Add a comment...,Shto një koment...
+Add a comment... (Ctrl+Enter to send),Shto një koment... (Ctrl+Enter për të dërguar)
+Add a description...,Shto një përshkrim...
+Add a milestone description...,Shto një përshkrim të pikës së referimit...
+Add a note below to annotate this activity.,Shtoni një shënim më poshtë për të shënuar këtë aktivitet.
+Add a note...,Shto një shënim...
+Add a project description...,Shto një përshkrim projekti...
+Add a task description...,Shto një përshkrim detyre...
+Add checklist item...,Shto zë në listën e kontrollit...
+Add Contact,Shto kontakt
+Add contacts via the Desk interface or clear filters,Shtoni kontakte nëpërmjet ndërfaqes Desk ose pastroni filtrat
+Add Dependency,Shto varësi
+Add details about this event...,Shto detaje rreth këtij eventi...
+Add details about this milestone...,Shto detaje rreth kësaj pike referimi...
+Add details about this task...,Shto detaje rreth kësaj detyre...
+Add details or acceptance criteria for this milestone,Shto detaje ose kritere pranimi për këtë pikë referimi
+"Add details, context, or acceptance criteria","Shto detaje, kontekst ose kritere pranimi"
+Add first dependency,Shto varësinë e parë
+Add item,Shto zë
+Add items below to track progress.,Shtoni zëra më poshtë për të ndjekur progresin.
+Add items below to track subtasks,Shtoni zëra më poshtë për të ndjekur nëndetyrat
+Add Milestone,Shto pikë referimi
+Add Milestone (Shift+M),Shto pikë referimi (Shift+M)
+Add milestones to track key deliverables.,Shtoni pika referimi për të ndjekur rezultatet kyçe.
+Add New Contact,Shto kontakt të ri
+Add Note,Shto shënim
+Add note,Shto shënim
+Add notes about this contact...,Shto shënime rreth këtij kontakti...
+Add reaction,Shto reagim
+Add Skill,Shto aftësi
+Add start and due dates to tasks to see them on the Gantt chart,Shtoni datat e fillimit dhe afatit në detyra për t'i parë në grafikun Gantt
+Add Task,Shto detyrë
+Add Task (Shift+T),Shto detyrë (Shift+T)
+Added Finish-to-Start dependency,Varësi Fund-në-Fillim e shtuar
+Adding this dependency would create a circular reference: {0},Shtimi i kësaj varësie do të krijonte një referencë rrethore: {0}
+Adding...,Duke shtuar...
+Address,Adresë
+Advanced,Avancuar
+All,Të gjitha
+All Active,Të gjitha aktive
+All Assignees,Të gjithë të caktuarit
+All Categories,Të gjitha kategoritë
+All caught up!,Gjithçka është e përditësuar!
+All Contexts,Të gjitha kontekstet
+All day,Gjithë ditën
+All day event,Event gjithëditor
+All fields,Të gjitha fushat
+All Priorities,Të gjitha prioritetet
+All Projects,Të gjitha projektet
+All Status,Të gjitha statuset
+All Statuses,Të gjitha statuset
+All task dependencies & relative dates,Të gjitha varësitë e detyrave dhe datat relative
+All Tasks,Të gjitha detyrat
+All tasks across all projects.,Të gjitha detyrat në të gjitha projektet.
+All tasks are already linked,Të gjitha detyrat janë tashmë të lidhura
+All team members,Të gjithë anëtarët e ekipit
+All Types,Të gjitha llojet
+All Users,Të gjithë përdoruesit
+Allocated,Ndarë
+allocated,ndarë
+Allow users to log time against tasks,Lejo përdoruesit të regjistrojnë kohë për detyrat
+Already exported to timesheet {0},Tashmë e eksportuar në fletën e kohës {0}
+Already Migrated,Tashmë e migruar
+Anyone with access,Kushdo me akses
+anytime to show this help,në çdo moment për të shfaqur këtë ndihmë
+App Updates,App Updates
+Appearance,Pamja
+Apply,Zbato
+Apply cascade?,Zbato kaskadën?
+Apply Changes,Zbato ndryshimet
+Apply failed,Zbatimi dështoi
+Apply Template,Zbato modelin
+Applying...,Duke zbatuar...
+Appointment,Takim
+Appointment and resource are required,Takimi dhe burimi janë të nevojshëm
+Appointment name is required,Emri i takimit është i nevojshëm
+Appointment not found,Takimi nuk u gjet
+Appointment {0} not found,Takimi {0} nuk u gjet
+Apps,Aplikacione
+Archive,Arkivo
+Archive Activity,Arkivo aktivitetin
+Archived,Arkivuar
+Are you sure you want to delete this activity data? This cannot be undone.,Jeni të sigurt që doni të fshini këto të dhëna aktiviteti? Ky veprim nuk mund të zhbëhet.
+Are you sure you want to delete this comment?,Jeni të sigurt që doni të fshini këtë koment?
+Are you sure you want to delete this project?,Jeni të sigurt që doni të fshini këtë projekt?
+Are you sure?,Jeni të sigurt?
+Ascending -- click to reverse,Rritës -- klikoni për të kthyer
+Assign To,Cakto te
+Assign to Me,Më cakto mua
+Assigned Contact,Kontakti i caktuar
+Assigned To,Caktuar te
+Assigned to,Caktuar te
+Assigned to Me,Caktuar te unë
+Assignee,I caktuari
+Assignment,Caktim
+Assignment History,Historiku i caktimeve
+Assignment name is required,Emri i caktimit është i nevojshëm
+Assignment {0} not found,Caktimi {0} nuk u gjet
+Assignments,Caktime
+At least one action is required,Nevojitet të paktën një veprim
+At least one event is required,Nevojitet të paktën një event
+At least one event must be selected,Duhet zgjedhur të paktën një event
+Attachment,Bashkëngjitje
+Attachments,Bashkëngjitje
+Attendees,Pjesëmarrës
+"Audit trail, assignments, version history","Gjurmë auditimi, caktime, historiku i versioneve"
+Auto,Automatik
+Auto Calculate Progress,Llogarit progresin automatikisht
+Auto Set Missed Milestones,Shëno automatikisht pikat e referimit të humbura
+Auto-shift dependents when dates change,Zhvendos automatikisht varësitë kur ndryshojnë datat
+Auto-Trail Start,Fillim me rrëshqitje automatike
+Auto-Trail updated,Rrëshqitja automatike u përditësua
+Automatically calculate project progress from task completion,Llogarit automatikisht progresin e projektit nga përfundimi i detyrave
+Automatically mark milestones as missed when overdue,Shëno automatikisht pikat e referimit si të humbura kur janë vonuar
+Automation rule {0} not found,Rregulli i automatizimit {0} nuk u gjet
+Automation: {0},Automatizim: {0}
+Availability,Disponueshmëria
+Available,I disponueshëm
+Avatar updated successfully,Avatari u përditësua me sukses
+Avg Progress,Progresi mesatar
+Back,Kthehu
+Back to Portal,Kthehu te portali
+Back to Projects,Kthehu te projektet
+Beginner,Fillestar
+Best regards,Me respekt
+Billable,E faturueshme
+Billable Amount,Shuma e faturueshme
+Billable Hours,Orë të faturueshme
+Billable Rate,Tarifa e faturueshme
+Billing Rate,Tarifa e faturimit
+Blocked,Bllokuar
+Both dates are needed to display task as a bar in Gantt chart,Të dyja datat nevojiten për të shfaqur detyrën si shirit në grafikun Gantt
+Both doctype and docname are required,Doctype dhe docname janë të dyja të nevojshme
+Both proposed start and end times are required,Të dyja orët e propozuara të fillimit dhe mbarimit janë të nevojshme
+Both task_name and depends_on are required,task_name dhe depends_on janë të dyja të nevojshme
+Breadcrumb,Gjurmë navigimi
+Brief description of the defect or damage,Përshkrim i shkurtër i defektit ose dëmtimit
+Brief description of this template,Përshkrim i shkurtër i këtij modeli
+Brief description of your request,Përshkrim i shkurtër i kërkesës suaj
+Brief project description,Përshkrim i shkurtër i projektit
+Budget,Buxhet
+Budget at risk,Buxheti në rrezik
+Budget Burn Rate,Ritmi i shpenzimit të buxhetit
+Budget Status,Gjendja e buxhetit
+Budget updated,Buxheti u përditësua
+Budget:,Buxheti:
+Bug,Gabim
+Burn Rate,Ritmi i shpenzimit
+Busy,I zënë
+By,Nga
+By Assignee,Sipas të caktuarit
+By Group,Sipas grupit
+By Milestone,Sipas pikës së referimit
+By Priority,Sipas prioritetit
+By Status,Sipas statusit
+Cancel,Anulo
+Cancelled,Anuluar
+cannot be undone,nuk mund të zhbëhet
+Cannot delete client with {0} linked projects. Unlink projects first.,Nuk mund të fshihet klienti me {0} projekte të lidhura. Shkëputni projektet së pari.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Nuk mund të fshihet projekti me {0} detyra të lidhura. Fshini detyrat së pari.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Nuk mund të fshihet burimi me {0} caktime aktive. Përfundoni ose anuloni ato së pari.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Nuk mund të fshihet detyra me {0} nëndetyra. Fshini nëndetyrat së pari.
+Capacity,Kapacitet
+capacity,kapacitet
+Capacity & Rates,Kapaciteti dhe tarifat
+Capture project structure for reuse,Ruaj strukturën e projektit për ripërdorim
+Cascade,Kaskadë
+Cascade Preview,Parashikim i kaskadës
+Category,Kategori
+Celebrate,Festo
+Change,Ndrysho
+Change History,Historiku i ndryshimeve
+Change Priority,Ndrysho prioritetin
+Change Status,Ndrysho statusin
+Changes,Ndryshime
+Changes appear when fields are modified.,Ndryshimet shfaqen kur fushat modifikohen.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Listë kontrolli
+Checklist item name is required,Emri i zërit të listës së kontrollit është i nevojshëm
+Checklist item not found,Zëri i listës së kontrollit nuk u gjet
+Checklist item title is required,Titulli i zërit të listës së kontrollit është i nevojshëm
+Checklist item {0} not found,Zëri i listës së kontrollit {0} nuk u gjet
+Checklist item {0} not found in task,Zëri i listës së kontrollit {0} nuk u gjet në detyrë
+Child,Fëmijë
+Choose file to upload,Zgjidhni skedarin për ngarkim
+Circular dependency detected: {0},Varësi rrethore e zbuluar: {0}
+Circular parent-child relationship detected,Lidhje rrethore prind-fëmijë e zbuluar
+Clear,Pastro
+Clear all read,Pastro të gjitha të lexuarat
+Clear date,Pastro datën
+Click on an activity from the list to view and manage its details.,Klikoni mbi një aktivitet nga lista për të parë dhe menaxhuar detajet e tij.
+Click the avatar to upload a new photo,Klikoni mbi avatarin për të ngarkuar një foto të re
+Click to add description...,Klikoni për të shtuar përshkrimin...
+Click to add notes...,Klikoni për të shtuar shënime...
+Click to assign contact,Klikoni për të caktuar kontaktin
+Click to change status,Klikoni për të ndryshuar statusin
+Click to change type,Klikoni për të ndryshuar llojin
+Click to edit,Klikoni për të modifikuar
+Click to edit budget,Klikoni për të modifikuar buxhetin
+Click to edit description,Klikoni për të modifikuar përshkrimin
+Click to edit end date,Klikoni për të modifikuar datën e mbarimit
+Click to edit milestone name,Klikoni për të modifikuar emrin e pikës së referimit
+Click to edit rate,Klikoni për të modifikuar tarifën
+Click to edit start date,Klikoni për të modifikuar datën e fillimit
+Click to edit title,Klikoni për të modifikuar titullin
+Click to load,Klikoni për të ngarkuar
+Click to set group dependency...,Klikoni për të vendosur varësinë e grupit...
+Click to set group...,Klikoni për të vendosur grupin...
+Click to view,Klikoni për të parë
+Click to view at-risk projects,Klikoni për të parë projektet në rrezik
+Click to view critical projects,Klikoni për të parë projektet kritike
+Click to view healthy projects,Klikoni për të parë projektet e shëndetshme
+Client,Klient
+Client already has a portal user: {0},Klienti ka tashmë një përdorues portali: {0}
+Client already has portal access,Klienti ka tashmë akses në portal
+Client has no portal user to revoke,Klienti nuk ka përdorues portali për t'ia hequr
+Client link removed from project {0},Lidhja e klientit u hoq nga projekti {0}
+Client Portal,Portali i klientit
+Client {0} deleted successfully,Klienti {0} u fshi me sukses
+Close,Mbyll
+Close (Esc),Mbyll (Esc)
+Comment,Koment
+comment,koment
+Comment added,Komenti u shtua
+Comment content is required,Përmbajtja e komentit është e nevojshme
+Comment name is required,Emri i komentit është i nevojshëm
+Comment not found,Komenti nuk u gjet
+Comment removed,Komenti u hoq
+Comment {0} not found in task,Komenti {0} nuk u gjet në detyrë
+Comments,Komente
+comments,komente
+Community Edition,Community Edition
+Company,Kompani
+Company name...,Emri i kompanisë...
+Complete,Përfundo
+Completed,Përfunduar
+completed,përfunduar
+Completed Tasks,Detyra të përfunduara
+Compliance,Përputhshmëri
+Configure default values for new projects and tasks,Konfiguro vlerat e paracaktuara për projektet dhe detyrat e reja
+Configure email notification settings,Konfiguro cilësimet e njoftimeve me email
+Confirm,Konfirmo
+Contact deleted,Kontakti u fshi
+Contact Details,Detaje kontakti
+Contact Information,Informacione kontakti
+Contact name is required,Emri i kontaktit është i nevojshëm
+Contact Support,Kontaktoni mbështetjen
+Contact your project manager for more information.,Kontaktoni menaxherin e projektit tuaj për më shumë informacion.
+Contact:,Kontakti:
+Contacts,Kontakte
+Context,Kontekst
+Contractor,Kontraktor
+Cost estimate cannot be negative,Vlerësimi i kostos nuk mund të jetë negativ
+Cost Impact,Ndikimi në kosto
+Cost Summary,Përmbledhja e kostove
+Could not apply the template. Please try again.,Modeli nuk mund të zbatohej. Ju lutem provoni përsëri.
+Could not attach file to project,Skedari nuk mund të bashkëngjitej në projekt
+Could not change task priority,Prioriteti i detyrës nuk mund të ndryshohej
+Could not change task status,Statusi i detyrës nuk mund të ndryshohej
+Could not delete the project. Please try again.,Projekti nuk mund të fshihej. Ju lutem provoni përsëri.
+Could not delete the task. Please try again.,Detyra nuk mund të fshihej. Ju lutem provoni përsëri.
+Could not delete the template.,Modeli nuk mund të fshihej.
+Could not duplicate the task. Please try again.,Detyra nuk mund të kopjohej. Ju lutem provoni përsëri.
+Could not export the template.,Modeli nuk mund të eksportohej.
+Could not import the template. Please check the file format.,Modeli nuk mund të importohej. Ju lutem kontrolloni formatin e skedarit.
+Could not link task to milestone,Detyra nuk mund të lidhej me pikën e referimit
+Could not load document details.,Detajet e dokumentit nuk mund të ngarkoheshin.
+Could not load task details,Detajet e detyrës nuk mund të ngarkoheshin
+Could not promote checklist item to task.,Zëri i listës së kontrollit nuk mund të ngrihej në detyrë.
+Could not remove task from milestone,Detyra nuk mund të hiqej nga pika e referimit
+Could not save budget.,Buxheti nuk mund të ruahej.
+Could not save changes to the milestone,Ndryshimet në pikën e referimit nuk mund të ruaheshin
+Could not save changes to the task,Ndryshimet në detyrë nuk mund të ruaheshin
+Could not save description.,Përshkrimi nuk mund të ruahej.
+Could not save end date.,Data e mbarimit nuk mund të ruahej.
+Could not save milestone name.,Emri i pikës së referimit nuk mund të ruahej.
+Could not save start date.,Data e fillimit nuk mund të ruahej.
+Could not save the template. Please try again.,Modeli nuk mund të ruahej. Ju lutem provoni përsëri.
+Could not save title.,Titulli nuk mund të ruahej.
+Could not update dependency mode.,Mënyra e varësisë nuk mund të përditësohej.
+Could not update milestone date,Data e pikës së referimit nuk mund të përditësohej
+Could not update project status.,Statusi i projektit nuk mund të përditësohej.
+Could not update project type.,Lloji i projektit nuk mund të përditësohej.
+Could not update setting.,Cilësimi nuk mund të përditësohej.
+Could not update task dates,Datat e detyrës nuk mund të përditësoheshin
+Could not update task status,Statusi i detyrës nuk mund të përditësohej
+Could not update the template.,Modeli nuk mund të përditësohej.
+Create a copy of this task,Krijo një kopje të kësaj detyre
+Create Contact,Krijo kontakt
+Create Event,Krijo event
+Create Milestone,Krijo pikë referimi
+Create New Milestone,Krijo pikë referimi të re
+Create New Task,Krijo detyrë të re
+Create Project,Krijo projekt
+Create Task,Krijo detyrë
+Create tasks and milestones from a template,Krijo detyra dhe pika referimi nga një model
+Create your first project to get started.,Krijoni projektin tuaj të parë për të filluar.
+Create your first task to start tracking work on this project.,Krijoni detyrën tuaj të parë për të filluar ndjekjen e punës në këtë projekt.
+Created,Krijuar
+Creating...,Duke krijuar...
+Critical,Kritik
+Critical Path,Rruga kritike
+"Currency used for budgets, costs, and billing rates","Monedha e përdorur për buxhete, kosto dhe tarifa faturimi"
+Current,Aktual
+Current Assignments,Caktimet aktuale
+Current scheduled time:,Koha aktuale e planifikuar:
+Currently running version,Currently running version
+d lag,d vonesë
+Daily Availability,Disponueshmëria ditore
+Daily Hours,Orët ditore
+Danger Zone,Zonë rreziku
+Dark,E errët
+Dashboard,Paneli
+Date,Datë
+Date changes on this task will show cascade impact here,Ndryshimet e datës në këtë detyrë do të tregojnë ndikimin kaskadë këtu
+Date cleared,Data u pastrua
+Date of Joining,Data e pranimit
+Date updated,Data u përditësua
+Dates,Data
+Dates cascaded,Datat u kaskaduan
+Dates will be relative to the project's start date.,Datat do të jenë relative ndaj datës së fillimit të projektit.
+Day,Ditë
+day,ditë
+days,ditë
+Days before due date to send reminder,Ditë para afatit për të dërguar kujtesë
+Days Overdue,Ditë vonesë
+Days Remaining,Ditë të mbetura
+Deadline,Afat
+Deadlines,Afate
+Decision,Vendim
+Decline,Refuzo
+Declined,Refuzuar
+Default Currency,Monedha e paracaktuar
+Default hours per week for contact capacity planning,Orë të paracaktuara në javë për planifikimin e kapacitetit të kontakteve
+Default Priority,Prioriteti i paracaktuar
+Default Project Status,Statusi i paracaktuar i projektit
+Default Task Status,Statusi i paracaktuar i detyrës
+Default task view,Pamja e paracaktuar e detyrës
+Default Values,Vlera të paracaktuara
+Default Weekly Capacity,Kapaciteti javor i paracaktuar
+Defaults,Paracaktime
+Defect Cost Impact,Ndikimi financiar i defektit
+Defect name is required,Emri i defektit është i nevojshëm
+Defect Type,Lloji i defektit
+Defect {0} not found,Defekti {0} nuk u gjet
+Defects,Defekte
+Defects & Issues,Defekte dhe probleme
+Defects Resolved,Defekte të zgjidhura
+Delayed,Vonuar
+Delete,Fshi
+Delete Activity Data,Fshi të dhënat e aktivitetit
+Delete all read notifications?,Fshi të gjitha njoftimet e lexuara?
+Delete comment,Fshi komentin
+Delete Contact,Fshi kontaktin
+Delete Event,Fshi eventin
+Delete Event?,Fshi eventin?
+Delete failed,Fshirja dështoi
+Delete file,Fshi skedarin
+Delete item,Fshi zërin
+Delete note,Fshi shënimin
+Delete Project,Fshi projektin
+Delete Task,Fshi detyrën
+Delete this project,Fshi këtë projekt
+Deleted,Fshirë
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Projekti ""{0}"" u fshi ({1} detyra, {2} pika referimi)"
+Deletes notes and preferences. Source document is not affected.,Fshin shënimet dhe preferencat. Dokumenti burimor nuk preket.
+Deleting...,Duke fshirë...
+Department,Departament
+Dependencies,Varësi
+dependencies,varësi
+Dependencies are informational only,Varësitë janë vetëm informative
+dependency,varësi
+Dependency already exists,Varësia ekziston tashmë
+Dependency Chain,Zinxhir varësie
+Dependency created,Varësia u krijua
+Dependency mode updated,Mënyra e varësisë u përditësua
+Dependency name is required,Emri i varësisë është i nevojshëm
+Dependency task {0} not found,Detyra e varësisë {0} nuk u gjet
+Dependency {0} not found,Varësia {0} nuk u gjet
+depends,varet
+Depends on Group,Varet nga grupi
+Depends on task is required,Detyra e varësisë është e nevojshme
+depends on...,varet nga...
+Descending -- click to reverse,Zbritës -- klikoni për të kthyer
+Describe the defect in detail...,Përshkruani defektin në detaje...
+Description,Përshkrim
+Description updated,Përshkrimi u përditësua
+Designation,Pozicioni
+"Detailed description of the defect, location, and impact","Përshkrim i detajuar i defektit, vendndodhjes dhe ndikimit"
+Details,Detaje
+Discard timer,Hiq dorë nga kronometri
+Discussion,Diskutim
+Dismiss,Dismiss
+Display,Shfaqje
+Document,Dokument
+Document attached to project,Dokumenti u bashkëngjit në projekt
+Document final decision and rationale,Dokumentoni vendimin përfundimtar dhe arsyetimin
+Documentation Review,Rishikim dokumentacioni
+Documents,Dokumente
+Done,Bërë
+Download,Shkarko
+Drag to create dependency,Tërhiqni për të krijuar varësi
+Dry Run,Simulim
+Dry Run Complete,Simulimi përfundoi
+Due Date,Afati
+Due date,Afati
+Due Date (Earliest),Afati (më i hershmi)
+Due date cannot be before start date,Afati nuk mund të jetë përpara datës së fillimit
+Due date is in the past,Afati ka kaluar
+Due Date Reminders,Kujtesa afati
+Due Diligence,Verifikim paraprak
+Due Diligence Checklist,Listë kontrolli e verifikimit paraprak
+Due This Week,Me afat këtë javë
+Due:,Afati:
+Duplicate events are not allowed,Eventet e kopjuara nuk lejohen
+Duplicate failed,Kopjimi dështoi
+Duplicate Task,Kopjo detyrën
+Duration,Kohëzgjatja
+Duration Summary,Përmbledhja e kohëzgjatjes
+Duration:,Kohëzgjatja:
+e.g. Cracked wall finish in bathroom...,p.sh. Suvatim i plasaritur në banjë...
+"e.g. Electrical, Plumbing...","p.sh. Elektrikë, Hidraulikë..."
+Edit,Modifiko
+Edit (E),Modifiko (E)
+Edit dependency,Modifiko varësinë
+Edit Event,Modifiko eventin
+Efficiency,Efikasitet
+Either dependency_name or depends_on is required,dependency_name ose depends_on është i nevojshëm
+Email,Email
+Email invitations to all attendees,Ftesa me email për të gjithë pjesëmarrësit
+Email is required to create portal user,Emaili nevojitet për të krijuar përdorues portali
+Email notifications,Njoftime me email
+Employee,Punonjës
+Employee DocType not available,DocType Punonjës nuk është i disponueshëm
+Employee not found,Punonjësi nuk u gjet
+Enable or disable optional features,Aktivizo ose çaktivizo veçoritë opsionale
+Enable Time Tracking,Aktivizo ndjekjen e kohës
+End,Fund
+End Date,Data e mbarimit
+End date,Data e mbarimit
+End Date cannot be before Start Date,Data e mbarimit nuk mund të jetë përpara datës së fillimit
+End date cannot be before start date,Data e mbarimit nuk mund të jetë përpara datës së fillimit
+End date updated,Data e mbarimit u përditësua
+End time was before start time. Adjusted to 1 hour after start.,Ora e mbarimit ishte para orës së fillimit. U rregullua në 1 orë pas fillimit.
+End:,Mbarimi:
+Enter milestone name...,Shkruani emrin e pikës së referimit...
+Enter project name,Shkruani emrin e projektit
+Enter task title...,Shkruani titullin e detyrës...
+Enter template name,Shkruani emrin e modelit
+Enter your note... Use @name to mention someone,Shkruani shënimin tuaj... Përdorni @emër për të përmendur dikë
+Error,Gabim
+Error loading activity,Gabim gjatë ngarkimit të aktivitetit
+Error loading contacts,Gabim gjatë ngarkimit të kontakteve
+Error loading dashboard,Gabim gjatë ngarkimit të panelit
+Error loading project,Gabim gjatë ngarkimit të projektit
+Error loading projects,Gabim gjatë ngarkimit të projekteve
+Error loading settings,Gabim gjatë ngarkimit të cilësimeve
+Error loading tasks,Gabim gjatë ngarkimit të detyrave
+Error loading templates,Gabim gjatë ngarkimit të modeleve
+Est. Hours,Orë të vler.
+Estimated,I vlerësuar
+Estimated Cost,Kosto e vlerësuar
+Estimated Cost (€),Kosto e vlerësuar (€)
+Estimated Hours,Orë të vlerësuara
+Estimated:,Vlerësuar:
+Evaluate potential risks and concerns,Vlerësoni rreziqet dhe shqetësimet e mundshme
+Event,Event
+Event is required for event context,Eventi nevojitet për kontekstin e eventit
+Event is required when tracking context is 'event',Eventi nevojitet kur konteksti i ndjekjes është 'event'
+Event Type,Lloji i eventit
+Events,Evente
+Events not available. Please run: bench --site orga.localhost migrate,Eventet nuk janë të disponueshme. Ju lutem ekzekutoni: bench --site orga.localhost migrate
+Events:,Evente:
+Expert,Ekspert
+Explain why you are proposing a different time...,Shpjegoni pse po propozoni një orar tjetër...
+Export,Eksporto
+Export failed,Eksportimi dështoi
+Export JSON,Eksporto JSON
+Exported,Eksportuar
+Exported to timesheet {0},Eksportuar në fletën e kohës {0}
+External,I jashtëm
+Failed to add item,Shtimi i zërit dështoi
+Failed to add note,Shtimi i shënimit dështoi
+Failed to add skill,Shtimi i aftësisë dështoi
+Failed to apply cascade changes: {0},Zbatimi i ndryshimeve kaskadë dështoi: {0}
+Failed to create defect,Krijimi i defektit dështoi
+Failed to create dependency,Krijimi i varësisë dështoi
+Failed to create event,Krijimi i eventit dështoi
+Failed to create milestone,Krijimi i pikës së referimit dështoi
+Failed to create project,Krijimi i projektit dështoi
+Failed to create task,Krijimi i detyrës dështoi
+Failed to create time log,Krijimi i hyrjes së kohës dështoi
+Failed to delete,Fshirja dështoi
+Failed to delete comment,Fshirja e komentit dështoi
+Failed to delete contact,Fshirja e kontaktit dështoi
+Failed to load,Ngarkimi dështoi
+Failed to load activity,Ngarkimi i aktivitetit dështoi
+Failed to load assignments,Ngarkimi i caktimeve dështoi
+Failed to load contact,Ngarkimi i kontaktit dështoi
+Failed to load dashboard data,Ngarkimi i të dhënave të panelit dështoi
+Failed to load defects,Ngarkimi i defekteve dështoi
+Failed to load events,Ngarkimi i eventeve dështoi
+Failed to load project,Ngarkimi i projektit dështoi
+Failed to load projects,Ngarkimi i projekteve dështoi
+Failed to load report data,Ngarkimi i të dhënave të raportit dështoi
+Failed to load settings,Ngarkimi i cilësimeve dështoi
+Failed to load tasks,Ngarkimi i detyrave dështoi
+Failed to move task,Zhvendosja e detyrës dështoi
+Failed to post comment,Publikimi i komentit dështoi
+Failed to propose new time,Propozimi i orarit të ri dështoi
+Failed to remove item,Heqja e zërit dështoi
+Failed to remove skill,Heqja e aftësisë dështoi
+Failed to reorder milestones: {0},Rirenditja e pikave të referimit dështoi: {0}
+Failed to reorder tasks: {0},Rirenditja e detyrave dështoi: {0}
+Failed to reschedule dependent tasks: {0},Riplanifikimi i detyrave varëse dështoi: {0}
+Failed to save,Ruajtja dështoi
+Failed to save preferences,Ruajtja e preferencave dështoi
+Failed to save settings,Ruajtja e cilësimeve dështoi
+Failed to submit request. Please try again.,Dërgimi i kërkesës dështoi. Ju lutem provoni përsëri.
+Failed to update item,Përditësimi i zërit dështoi
+Failed to update priority,Përditësimi i prioritetit dështoi
+Failed to update task,Përditësimi i detyrës dështoi
+Failed to update tasks: {0},Përditësimi i detyrave dështoi: {0}
+Failed to upload avatar,Ngarkimi i avatarit dështoi
+Feature,Veçori
+Features,Veçori
+FF (Finish-Finish),FF (Fund-Fund)
+FF - Finish-to-Finish,FF - Fund-në-Fund
+Field has been updated,Fusha u përditësua
+Field name is required for 'Set Field Value' action,Emri i fushës nevojitet për veprimin 'Vendos vlerën e fushës'
+Field {0} is not a Link field,Fusha {0} nuk është fushë e tipit Lidhje
+Field {0} not found in {1},Fusha {0} nuk u gjet në {1}
+File,Skedar
+file,skedar
+File does not belong to this task,Skedari nuk i përket kësaj detyre
+File name is required,Emri i skedarit është i nevojshëm
+File uploaded,Skedari u ngarkua
+File {0} not found,Skedari {0} nuk u gjet
+Files,Skedarë
+files,skedarë
+Filter,Filtër
+Final Decision,Vendimi përfundimtar
+Finance,Financa
+Financial,Financiar
+Finish-to-Finish,Fund-në-Fund
+Finish-to-Start,Fund-në-Fillim
+Flag,Sinjalo
+Flag for attention,Sinjalo për vëmendje
+Flagged,Sinjaluar
+Focus Panel,Paneli i fokusit
+Follows your system preference. Currently:,Ndjek preferencën e sistemit tuaj. Aktualisht:
+Frappe Project {0} not found,Projekti Frappe {0} nuk u gjet
+Frappe Projects Migration,Migrimi i Frappe Projects
+Frappe Projects module not available,Moduli Frappe Projects nuk është i disponueshëm
+Frappe Projects module not installed,Moduli Frappe Projects nuk është i instaluar
+Frappe Projects sync is not enabled,Sinkronizimi i Frappe Projects nuk është aktivizuar
+Frappe Task DocType not found,DocType i detyrës Frappe nuk u gjet
+Frappe Task has no project,Detyra Frappe nuk ka projekt
+Frappe Task {0} not found,Detyra Frappe {0} nuk u gjet
+Fri,Pre
+From,Nga
+From Template,Nga modeli
+FS (Finish-Start),FS (Fund-Fillim)
+FS - Finish-to-Start (default),FS - Fund-në-Fillim (parazgjedhur)
+Full form view with audit trail,Pamja e plotë e formularit me gjurmë auditimi
+Full name,Emri i plotë
+Gantt,Gantt
+Gantt Chart,Grafiku Gantt
+Gantt View,Pamja Gantt
+General Note,Shënim i përgjithshëm
+Get started,Filloni
+Go back,Kthehu prapa
+Go Back,Go Back
+Group by,Grupo sipas
+Group dependency removed,Varësia e grupit u hoq
+Group dependency set,Varësia e grupit u vendos
+Group removed,Grupi u hoq
+Group updated,Grupi u përditësua
+Hammock task dates are auto-calculated and cannot be changed manually,Datat e detyrave hamak llogariten automatikisht dhe nuk mund të ndryshohen manualisht
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Keni një pyetje ose keni nevojë për ndihmë? Plotësoni formularin më poshtë dhe ekipi ynë do t'ju përgjigjet.
+Health,Shëndet
+Healthy,I shëndetshëm
+Hello {0},Përshëndetje {0}
+Here's what's happening with your projects today.,Ja çfarë po ndodh me projektet tuaja sot.
+Hide,Fshih
+High,E lartë
+History,Historik
+Home,Kryefaqja
+Hourly Cost,Kosto orare
+Hours,Orë
+hours,orë
+Hours Logged,Orë të regjistruara
+ID,ID
+Image must be smaller than 5 MB,Imazhi duhet të jetë më i vogël se 5 MB
+Import,Importo
+Import existing projects and tasks from Frappe Projects module,Importoni projektet dhe detyrat ekzistuese nga moduli Frappe Projects
+Import failed,Importimi dështoi
+Import Template,Importo model
+Imported,Importuar
+in,në
+In Progress,Në progres
+In Review,Në rishikim
+In-app notifications,Njoftime brenda aplikacionit
+Inactive,Joaktiv
+Initial Review,Rishikimi fillestar
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Leje të pamjaftueshme për të parë të gjitha detyrat
+Intermediate,Mesatar
+Internal,I brendshëm
+Invalid DocType,DocType i pavlefshëm
+Invalid DocType for import,DocType i pavlefshëm për importim
+Invalid item type: {0},Lloj zëri i pavlefshëm: {0}
+Invalid JSON data,Të dhëna JSON të pavlefshme
+Invalid note type. Must be one of: {0},Lloj shënimi i pavlefshëm. Duhet të jetë një nga: {0}
+Invalid project reference,Referencë projekti e pavlefshme
+Invalid reaction type. Must be one of: {0},Lloj reagimi i pavlefshëm. Duhet të jetë një nga: {0}
+Invalid RSVP status,Status RSVP i pavlefshëm
+Invalid status. Must be one of: {0},Status i pavlefshëm. Duhet të jetë një nga: {0}
+Invalid status: {0},Status i pavlefshëm: {0}
+Invalid status: {0}. Must be one of: {1},Status i pavlefshëm: {0}. Duhet të jetë një nga: {1}
+Invalid tracking context: {0},Kontekst ndjekjeje i pavlefshëm: {0}
+Invalid visibility. Must be one of: {0},Dukshmëri e pavlefshme. Duhet të jetë një nga: {0}
+Invitation: {0} - {1} at {2},Ftesë: {0} - {1} në {2}
+Invite People,Ftoni njerëz
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Zëri u shtua
+Item ID is required,ID e zërit është e nevojshme
+Item removed,Zëri u hoq
+Item type is required,Lloji i zërit është i nevojshëm
+Item {0} not found,Zëri {0} nuk u gjet
+Job title or role,Titulli i punës ose roli
+Join Meeting,Hyni në takim
+Just now,Tani
+just now,tani
+Kanban,Kanban
+Kanban Board,Tabela Kanban
+Kanban View,Pamja Kanban
+Keyboard Shortcuts,Shkurtore tastiere
+Keyboard shortcuts (?),Shkurtore tastiere (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Përditësuar së fundmi
+Last updated:,Përditësuar së fundmi:
+Last Week,Javën e kaluar
+Latest Version,Latest Version
+Light,E ndritshme
+Link failed,Lidhja dështoi
+Link Task,Lidh detyrën
+Linked,Lidhur
+Linked employee not found,Punonjësi i lidhur nuk u gjet
+Linked Tasks,Detyra të lidhura
+List,Listë
+List View,Pamja listë
+Load failed,Ngarkimi dështoi
+Load More,Ngarko më shumë
+Load more comments,Ngarko më shumë komente
+Loading activity...,Duke ngarkuar aktivitetin...
+Loading changes...,Duke ngarkuar ndryshimet...
+Loading checklist...,Duke ngarkuar listën e kontrollit...
+Loading comments...,Duke ngarkuar komentet...
+Loading contact...,Duke ngarkuar kontaktin...
+Loading contacts...,Duke ngarkuar kontaktet...
+Loading dependencies...,Duke ngarkuar varësitë...
+Loading details...,Duke ngarkuar detajet...
+Loading discussion...,Duke ngarkuar diskutimin...
+Loading events...,Duke ngarkuar eventet...
+Loading files...,Duke ngarkuar skedarët...
+Loading notes...,Duke ngarkuar shënimet...
+Loading preferences...,Duke ngarkuar preferencat...
+Loading project...,Duke ngarkuar projektin...
+Loading projects...,Duke ngarkuar projektet...
+Loading replies...,Duke ngarkuar përgjigjet...
+Loading report data...,Duke ngarkuar të dhënat e raportit...
+Loading settings...,Duke ngarkuar cilësimet...
+Loading task...,Duke ngarkuar detyrën...
+Loading templates...,Duke ngarkuar modelet...
+Loading time logs...,Duke ngarkuar hyrjet e kohës...
+Loading your portal...,Duke ngarkuar portalin tuaj...
+Loading...,Duke ngarkuar...
+Location,Vendndodhja
+Log Time,Regjistro kohën
+Logout,Dil
+Low,E ulët
+Make Offer,Bëj ofertë
+Manager,Menaxher
+Manual Entry,Hyrje manuale
+Margin,Marzh
+Mark all as read,Shëno të gjitha si të lexuara
+Mark all read,Shëno të gjitha si të lexuara
+Mark as read,Shëno si të lexuar
+Mark as unread,Shëno si të palexuar
+Mark read,Shëno si të lexuar
+Marking...,Duke shënuar...
+Material,Material
+Maybe,Ndoshta
+Medium,Mesatare
+Meeting,Takim
+Meeting Link,Lidhja e takimit
+Meeting title,Titulli i takimit
+Meeting URL,URL e takimit
+Meetings,Takime
+Mention,Përmendje
+Message,Mesazh
+Message is required,Mesazhi është i nevojshëm
+Message is required for '{0}' action,Mesazhi nevojitet për veprimin '{0}'
+Migrate,Migro
+Migration Complete,Migrimi përfundoi
+Migration ID:,ID migrimi:
+Migration log not found: {0},Regjistri i migrimit nuk u gjet: {0}
+Milestone,Pikë referimi
+milestone,pikë referimi
+Milestone created,Pika e referimit u krijua
+Milestone description has been saved.,Përshkrimi i pikës së referimit u ruajt.
+Milestone ID is required,ID e pikës së referimit është e nevojshme
+Milestone marked as Missed (past due date),Pika e referimit u shënua si e humbur (afati ka kaluar)
+Milestone moved,Pika e referimit u zhvendos
+Milestone Name,Emri i pikës së referimit
+Milestone name has been saved.,Emri i pikës së referimit u ruajt.
+Milestone name is required,Emri i pikës së referimit është i nevojshëm
+Milestone updated,Pika e referimit u përditësua
+Milestone {0} not found,Pika e referimit {0} nuk u gjet
+Milestone {0} not in project {1},Pika e referimit {0} nuk është në projektin {1}
+Milestones,Pika referimi
+milestones,pika referimi
+Milestones:,Pika referimi:
+Minutes,Minuta
+Missed,Humbur
+Mixed,Përzier
+Mobile,Celular
+Moderate,Mesatar
+Modified,Modifikuar
+"Modify details, time, or attendees","Modifiko detajet, kohën ose pjesëmarrësit"
+Mon,Hën
+Month,Muaj
+Move failed,Zhvendosja dështoi
+Must be a positive number,Duhet të jetë numër pozitiv
+Must finish before this finishes,Duhet të mbarojë para se kjo të mbarojë
+Must finish before this starts,Duhet të mbarojë para se kjo të fillojë
+Must start before this finishes,Duhet të fillojë para se kjo të mbarojë
+Must start before this starts,Duhet të fillojë para se kjo të fillojë
+My Assignments,Caktimet e mia
+My Projects,Projektet e mia
+My Schedule,Plani im
+My Tasks,Detyrat e mia
+N/A,N/D
+Name,Emër
+Name (A-Z),Emri (A-Z)
+Name (Z-A),Emri (Z-A)
+Name cannot exceed 255 characters,Emri nuk mund të kalojë 255 karaktere
+Need help?,Keni nevojë për ndihmë?
+Needs Attention,Kërkon vëmendje
+Never,Never
+new activities,aktivitete të reja
+New Activity,Aktivitet i ri
+New activity,Aktivitet i ri
+New Event,Event i ri
+New index is required,Indeksi i ri është i nevojshëm
+New Project,Projekt i ri
+New tasks will auto-trail by default.,Detyrat e reja do të kenë rrëshqitje automatike si parazgjedhje.
+Newest First,Më të rejat së pari
+Next,Tjetër
+Next 14 days,14 ditët e ardhshme
+Next 30 days,30 ditët e ardhshme
+Next 60 days,60 ditët e ardhshme
+Next 7 days,7 ditët e ardhshme
+Next 90 days,90 ditët e ardhshme
+Next Week,Javën tjetër
+Next:,Tjetër:
+No,Jo
+No active assignments,Asnjë caktim aktiv
+No active projects,Asnjë projekt aktiv
+No active timer found,Asnjë kronometër aktiv i gjetur
+No activity selected,Asnjë aktivitet i zgjedhur
+No assignments found,Asnjë caktim i gjetur
+No attendees,Pa pjesëmarrës
+no change,asnjë ndryshim
+No changes for this field.,Asnjë ndryshim për këtë fushë.
+No changes recorded for this activity.,Asnjë ndryshim i regjistruar për këtë aktivitet.
+No checklist items yet,Asnjë zë në listën e kontrollit ende
+No checklist items yet.,Asnjë zë në listën e kontrollit ende.
+No comments yet,Asnjë koment ende
+No comments yet.,Asnjë koment ende.
+No contacts available,Asnjë kontakt i disponueshëm
+No content for this tab,Asnjë përmbajtje për këtë skedë
+No data available,Asnjë e dhënë e disponueshme
+No data available for the selected filters,Asnjë e dhënë e disponueshme për filtrat e zgjedhur
+No data to export,Asnjë e dhënë për eksportim
+No dates set,Asnjë datë e vendosur
+No defects reported,Asnjë defekt i raportuar
+No dependencies defined,Asnjë varësi e përcaktuar
+No description,Pa përshkrim
+No discussion yet.,Asnjë diskutim ende.
+No documents attached,Asnjë dokument i bashkëngjitut
+No due date,Pa afat
+No employee linked to this resource,Asnjë punonjës i lidhur me këtë burim
+No ERPNext employee linked to resource,Asnjë punonjës ERPNext i lidhur me burimin
+No events found,Asnjë event i gjetur
+No files attached yet.,Asnjë skedar i bashkëngjitut ende.
+No Frappe Project linked,Asnjë projekt Frappe i lidhur
+No Grouping,Pa grupim
+No items,Pa zëra
+No matching tasks,Asnjë detyrë përputhet
+No matching tasks found,Asnjë detyrë përputhet
+No migration history,Asnjë historik migrimi
+No Milestone,Pa pikë referimi
+No milestones,Pa pika referimi
+No milestones defined for this project.,Asnjë pikë referimi e përcaktuar për këtë projekt.
+No notes yet.,Asnjë shënim ende.
+No notes yet. Add a due diligence note to track progress.,Asnjë shënim ende. Shtoni një shënim verifikimi paraprak për të ndjekur progresin.
+No notifications,Asnjë njoftim
+No Orga Project linked to Frappe Project {0},Asnjë projekt Orga i lidhur me projektin Frappe {0}
+No overdue tasks,Asnjë detyrë e vonuar
+No pending cascade changes,Asnjë ndryshim kaskadë në pritje
+No predecessors - this task can start independently,Pa paraardhës — kjo detyrë mund të fillojë pavarësisht
+No project,Pa projekt
+No projects found,Asnjë projekt i gjetur
+No Projects Yet,Asnjë projekt ende
+No recent activity,Asnjë aktivitet i fundit
+No related documents,Asnjë dokument i lidhur
+No resolved threads.,Asnjë temë e zgjidhur.
+No resources found,Asnjë burim i gjetur
+No results found,Asnjë rezultat i gjetur
+No skills listed,Asnjë aftësi e listuar
+No skills recorded yet,Asnjë aftësi e regjistruar ende
+No successors - no tasks are waiting for this one,Pa pasardhës — asnjë detyrë nuk pret këtë
+No task selected,Asnjë detyrë e zgjedhur
+No tasks assigned to you,Asnjë detyrë e caktuar për ju
+No tasks available to add,Asnjë detyrë e disponueshme për shtim
+No tasks found,Asnjë detyrë e gjetur
+No tasks linked to this milestone,Asnjë detyrë e lidhur me këtë pikë referimi
+No tasks with dates to display,Asnjë detyrë me data për shfaqje
+No tasks yet,Asnjë detyrë ende
+No team members,Pa anëtarë ekipi
+No template,Pa model
+No templates yet,Asnjë model ende
+No time data found,Asnjë e dhënë kohe e gjetur
+No time logged today,Asnjë kohë e regjistruar sot
+No time logged yet,Asnjë kohë e regjistruar ende
+No time logs for this period,Asnjë hyrje kohe për këtë periudhë
+No time logs found,Asnjë hyrje kohe e gjetur
+No unread notifications,Asnjë njoftim i palexuar
+No update information available yet.,No update information available yet.
+None,Asnjë
+Not found,Nuk u gjet
+Not permitted,Nuk lejohet
+Not permitted to access this project,Nuk lejohet qasja në këtë projekt
+Not permitted to access this task,Nuk lejohet qasja në këtë detyrë
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Nuk lejohet komentimi në këtë dokument
+Not permitted to create clients,Nuk lejohet krijimi i klientëve
+Not permitted to delete this client,Nuk lejohet fshirja e këtij klienti
+Not permitted to delete this defect,Nuk lejohet fshirja e këtij defekti
+Not permitted to delete this note,Nuk lejohet fshirja e këtij shënimi
+Not permitted to delete this project,Nuk lejohet fshirja e këtij projekti
+Not permitted to delete this task,Nuk lejohet fshirja e kësaj detyre
+Not permitted to delete this time log,Nuk lejohet fshirja e kësaj hyrjeje kohe
+Not permitted to invite clients,Nuk lejohet ftimi i klientëve
+Not permitted to modify client access,Nuk lejohet modifikimi i aksesit të klientit
+Not permitted to modify this project,Nuk lejohet modifikimi i këtij projekti
+Not permitted to update settings,Nuk lejohet përditësimi i cilësimeve
+Not permitted to update this client,Nuk lejohet përditësimi i këtij klienti
+Not permitted to view this client,Nuk lejohet shikimi i këtij klienti
+not sent,nuk u dërgua
+Not set,E pavendosur
+Not specified,E paspecifikuar
+Note,Shënim
+Note (optional),Shënim (opsional)
+Note Content,Përmbajtja e shënimit
+Note content is required,Përmbajtja e shënimit është e nevojshme
+Note name is required,Emri i shënimit është i nevojshëm
+Note not found,Shënimi nuk u gjet
+Note Type,Lloji i shënimit
+Notes,Shënime
+Notification,Njoftim
+Notification not found,Njoftimi nuk u gjet
+Notifications,Njoftime
+Off Track,Jashtë planit
+Offer,Ofertë
+Offer Prepared,Oferta u përgatit
+Oldest First,Më të vjetrat së pari
+On Hold,Në pritje
+On Leave,Në pushim
+On Track,Sipas planit
+On-Time Rate,Shkalla e përpikësisë
+Only administrators can delete activities,Vetëm administratorët mund të fshijnë aktivitete
+Only the comment author or administrators can delete comments,Vetëm autori i komentit ose administratorët mund të fshijnë komente
+Only you and admins,Vetëm ju dhe administratorët
+Open,Hapur
+Open in Desk,Hap në Desk
+Open Task Log,Hap regjistrin e detyrës
+Open Tasks,Detyra të hapura
+Optional,Opsional
+optional,opsional
+Or email us directly at,Ose na dërgoni email direkt në
+Orga Project {0} from Frappe Projects,Projekti Orga {0} nga Frappe Projects
+Orga Task {0} from Frappe,Detyra Orga {0} nga Frappe
+Organizer,Organizuesi
+Other,Tjetër
+Over Budget,Mbi buxhet
+Overall Progress,Progresi i përgjithshëm
+Overall Utilization,Përdorimi i përgjithshëm
+Overallocated,Mbi-ndarë
+Overdue,Vonuar
+overdue,vonuar
+Overdue Tasks,Detyra të vonuara
+Overview,Pamje e përgjithshme
+Owner,Pronari
+Page Not Found,Faqja nuk u gjet
+Parent,Prind
+Parent comment must belong to the same document,Komenti prind duhet t'i përkasë të njëjtit dokument
+Parent comment not found,Komenti prind nuk u gjet
+Parent project not synced to Frappe yet,Projekti prind nuk është sinkronizuar ende me Frappe
+Parent project sync not enabled,Sinkronizimi i projektit prind nuk është aktivizuar
+Partner,Partner
+Pending,Në pritje
+per page,për faqe
+Perform initial assessment and background check,Kryeni vlerësimin fillestar dhe kontrollin e sfondit
+Permanently remove this event,Hiqni përgjithmonë këtë event
+Permanently remove this task,Hiqni përgjithmonë këtë detyrë
+Phone,Telefon
+Pin,Ngul
+Pin Activity,Ngul aktivitetin
+Pin to top,Ngul në krye
+Pinned,Ngulur
+Planned budget for this task,Buxheti i planifikuar për këtë detyrë
+Planning,Planifikim
+Please describe your question or issue in detail...,Ju lutem përshkruani pyetjen ose problemin tuaj në detaje...
+Please login to access Orga,Ju lutem hyni për të aksesuar Orga
+Please login to access the client portal,Ju lutem hyni për të aksesuar portalin e klientit
+Please respond to this invitation in Orga,Ju lutem përgjigjuni kësaj ftese në Orga
+Please select an image file,Ju lutem zgjidhni një skedar imazhi
+Please try again,Ju lutem provoni përsëri
+Please type,Ju lutem shkruani
+Portal,Portal
+Portal access revoked for {0},Aksesi në portal u revokua për {0}
+Portal user created successfully. Welcome email {0},Përdoruesi i portalit u krijua me sukses. Emaili mirëseardhjes {0}
+Post,Publiko
+Powered by,Mundësuar nga
+Powered by Tonic,Mundësuar nga Tonic
+Predecessors (Blocked By),Paraardhësit (bllokuar nga)
+Preferences,Preferenca
+Preferences saved successfully,Preferencat u ruajtën me sukses
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)","Parashtesë për kodet e projekteve të gjeneruara automatikisht (p.sh., ORG-2026-0001)"
+Prepare and document offer terms,Përgatitni dhe dokumentoni kushtet e ofertës
+Press,Shtypni
+Preview,Parashikim
+Preview cascade before applying,Parashikoni kaskadën para zbatimit
+Previous,Paraardhësi
+Priority,Prioritet
+Priority assigned to new tasks,Prioriteti i caktuar për detyrat e reja
+Priority updated,Prioriteti u përditësua
+Proficiency,Zotësi
+Profile,Profili
+Progress,Progres
+Progress (High-Low),Progresi (zbritës)
+Progress (Low-High),Progresi (rritës)
+Progress Overview,Pamje e përgjithshme e progresit
+Progress updated,Progresi u përditësua
+Project,Projekt
+Project budget has been saved.,Buxheti i projektit u ruajt.
+Project code (e.g. ORG-2026-0001),Kodi i projektit (p.sh. ORG-2026-0001)
+Project Code Prefix,Parashtesa e kodit të projektit
+Project created,Projekti u krijua
+Project deleted,Projekti u fshi
+Project description has been saved.,Përshkrimi i projektit u ruajt.
+Project Details,Detaje projekti
+Project end date has been saved.,Data e mbarimit të projektit u ruajt.
+Project Files,Skedarë projekti
+Project has no linked client,Projekti nuk ka klient të lidhur
+Project Health,Shëndeti i projektit
+Project Info,Informacione projekti
+Project is required,Projekti është i nevojshëm
+Project is required for project context,Projekti nevojitet për kontekstin e projektit
+Project is required when tracking context is 'project',Projekti nevojitet kur konteksti i ndjekjes është 'projekt'
+Project Manager,Menaxheri i projektit
+Project Name,Emri i projektit
+Project name and template name are required,Emri i projektit dhe emri i modelit janë të nevojshëm
+Project name is required,Emri i projektit është i nevojshëm
+Project not found,Projekti nuk u gjet
+Project not found or you do not have access,Projekti nuk u gjet ose nuk keni akses
+Project settings,Cilësimet e projektit
+Project start date has been saved.,Data e fillimit të projektit u ruajt.
+Project title has been saved.,Titulli i projektit u ruajt.
+Project Type,Lloji i projektit
+Project updated,Projekti u përditësua
+Project {0} linked to client {1},Projekti {0} u lidh me klientin {1}
+Project {0} not found,Projekti {0} nuk u gjet
+Project {0} to Frappe Projects,Projekti {0} drejt Frappe Projects
+Project:,Projekti:
+Projects,Projekte
+projects,projekte
+Projects created:,Projekte të krijuara:
+Projects Overview,Pamje e përgjithshme e projekteve
+Projects skipped:,Projekte të kapërcyera:
+Projects updated:,Projekte të përditësuara:
+Promote failed,Ngritja dështoi
+Promote to task,Ngrit në detyrë
+Promoted to task,U ngrit në detyrë
+Propose,Propozo
+Propose New Time,Propozo orar të ri
+Propose Time,Propozo orar
+Proposed End,Mbarimi i propozuar
+Proposed Start,Fillimi i propozuar
+Public,Publik
+Quick Action,Veprim i shpejtë
+Quick Actions,Veprime të shpejta
+Quick Stats,Statistika të shpejta
+Rates,Tarifa
+Receive notifications via email,Merrni njoftimet nëpërmjet emailit
+Receive notifications within the application,Merrni njoftimet brenda aplikacionit
+Recent Activity,Aktiviteti i fundit
+Recipient {0} is not a valid user,Marrësi {0} nuk është përdorues i vlefshëm
+Reference,Referencë
+Refresh,Rifresko
+Related,I lidhur
+Related Company (optional),Kompania e lidhur (opsional)
+Related Documents,Dokumente të lidhura
+Related Project,Projekti i lidhur
+Remaining,Mbetur
+Reminder,Kujtesë
+Reminder Lead Time,Koha e kujtesës
+Reminder: {0} - {1} at {2},Kujtesë: {0} - {1} në {2}
+Remove,Hiq
+Remove dependency,Hiq varësinë
+Remove dependency on,Hiq varësinë mbi
+Remove from group,Hiq nga grupi
+Remove group dependency,Hiq varësinë grupit
+Remove skill,Hiq aftësinë
+Reopen,Rihap
+Reopen thread,Rihap temën
+reopened,rihapur
+replies,përgjigje
+Reply,Përgjigju
+reply,përgjigje
+Replying to,Duke iu përgjigjur
+Replying to comment,Duke iu përgjigjur komentit
+Report Defect,Raporto defekt
+Reported Date,Data e raportimit
+Reports,Raporte
+Reports To,Raporton te
+Request Submitted!,Kërkesa u dërgua!
+Required,I nevojshëm
+required,i nevojshëm
+Research,Kërkime
+Reset to Defaults,Rivendos vlerat fillestare
+Resolve,Zgjidh
+Resolve thread,Zgjidh temën
+Resolved,Zgjidhur
+Resolved date cannot be before reported date,Data e zgjidhjes nuk mund të jetë përpara datës së raportimit
+Resource,Burim
+Resource and skill name are required,Burimi dhe emri i aftësisë janë të nevojshëm
+Resource is already an attendee,Burimi është tashmë pjesëmarrës
+Resource name is required,Emri i burimit është i nevojshëm
+Resource not found,Burimi nuk u gjet
+Resource synced from employee {0},Burimi u sinkronizua nga punonjësi {0}
+Resource {0} is already assigned to this task ({1}),Burimi {0} është tashmë i caktuar për këtë detyrë ({1})
+Resource {0} not found,Burimi {0} nuk u gjet
+Resources,Burime
+Retry,Riprovo
+Review,Rishikim
+Review all relevant documents and contracts,Rishikoni të gjitha dokumentet dhe kontratat përkatëse
+Reviews,Rishikime
+Risk Assessment,Vlerësimi i rrezikut
+Rollback,Kthe mbrapa
+Rolled back,U kthye mbrapa
+Room or address,Salla ose adresa
+RSVP,RSVP
+Safety,Siguri
+Sat,Sht
+Save,Ruaj
+"Save a project as a template, or import one from a JSON file.","Ruani një projekt si model, ose importoni një nga skedari JSON."
+Save as Template,Ruaj si model
+Save Changes,Ruaj ndryshimet
+Save failed,Ruajtja dështoi
+Save Preferences,Ruaj preferencat
+Save Template,Ruaj modelin
+Saving...,Duke ruajtur...
+Schedule,Plan
+Schedule type is required for scheduled triggers,Lloji i planit nevojitet për nisësit e planifikuar
+Scheduled,Planifikuar
+Search,Kërko
+"Search by name, email, or skill...","Kërkoni sipas emrit, emailit ose aftësisë..."
+Search for a project...,Kërkoni një projekt...
+Search for a task...,Kërkoni një detyrë...
+Search for an event...,Kërkoni një event...
+Search for people to invite...,Kërkoni njerëz për të ftuar...
+Search tasks to link...,Kërkoni detyra për të lidhur...
+Search tasks...,Kërkoni detyra...
+Search...,Kërko...
+Searching...,Duke kërkuar...
+Seen,Parë
+Select a project if your request is related to a specific project.,Zgjidhni një projekt nëse kërkesa juaj lidhet me një projekt specifik.
+Select a project...,Zgjidhni një projekt...
+Select a task from the Gantt chart to view and manage its details.,Zgjidhni një detyrë nga grafiku Gantt për të parë dhe menaxhuar detajet e saj.
+Select a task from the list or Kanban board to view and manage its details.,Zgjidhni një detyrë nga lista ose tabela Kanban për të parë dhe menaxhuar detajet e saj.
+Select a template...,Zgjidhni një model...
+Select priority...,Zgjidhni prioritetin...
+Select status...,Zgjidhni statusin...
+Select task...,Zgjidhni detyrën...
+Select type...,Zgjidhni llojin...
+Selection,Zgjedhje
+Send,Dërgo
+Send comment,Dërgo komentin
+Send email invitations to attendees,Dërgo ftesa me email pjesëmarrësve
+Send Invitations,Dërgo ftesat
+Send notification when a task is assigned to a user,Dërgo njoftim kur një detyrë i caktohet një përdoruesi
+Send notification when task status changes,Dërgo njoftim kur ndryshon statusi i detyrës
+Send reminder before task due date,Dërgo kujtesë para afatit të detyrës
+sent,dërguar
+Set rate,Vendos tarifën
+Settings,Cilësime
+Settings saved successfully,Cilësimet u ruajtën me sukses
+Severity,Ashpërsi
+SF (Start-Finish),SF (Fillim-Fund)
+SF - Start-to-Finish,SF - Fillim-në-Fund
+Show,Shfaq
+Show all,Shfaq të gjitha
+Show all changes,Shfaq të gjitha ndryshimet
+Show Archived,Shfaq të arkivuarat
+Show full diff,Shfaq ndryshimin e plotë
+Show less,Shfaq më pak
+Show more,Shfaq më shumë
+Skill added,Aftësia u shtua
+Skill is required,Aftësia është e nevojshme
+Skill Name,Emri i aftësisë
+Skill removed,Aftësia u hoq
+Skill {0} already exists for this resource,Aftësia {0} ekziston tashmë për këtë burim
+Skills,Aftësi
+Skills & Competencies,Aftësi dhe kompetenca
+Skip already migrated projects,Kapërce projektet tashmë të migruara
+Sort by,Rendit sipas
+Sort: Due Date,Renditje: Afati
+Sort: Priority,Renditje: Prioriteti
+Sort: Project,Renditje: Projekti
+Sort: Status,Renditje: Statusi
+Sort: Task,Renditje: Detyra
+Source Code,Kodi burimor
+Spent,Shpenzuar
+Spent:,Shpenzuar:
+SS (Start-Start),SS (Fillim-Fillim)
+SS - Start-to-Start,SS - Fillim-në-Fillim
+Standalone,I pavarur
+Start,Fillim
+Start a discussion below,Filloni një diskutim më poshtë
+Start Date,Data e fillimit
+Start date,Data e fillimit
+Start Date (Earliest),Data e fillimit (më e hershme)
+Start date updated,Data e fillimit u përditësua
+Start date/time is required,Data/ora e fillimit është e nevojshme
+Start Migration,Fillo migrimin
+Start the conversation below.,Filloni bisedën më poshtë.
+Start Timer,Fillo kronometrin
+Start typing to search...,Filloni të shkruani për të kërkuar...
+Start-to-Finish,Fillim-në-Fund
+Start-to-Start,Fillim-në-Fillim
+Start:,Fillimi:
+Statistics reset,Statistikat u rivendosën
+Status,Status
+Status assigned to new projects,Statusi i caktuar për projektet e reja
+Status assigned to new tasks,Statusi i caktuar për detyrat e reja
+Status Changes,Ndryshime statusi
+Status updated,Statusi u përditësua
+Status:,Statusi:
+Stop,Ndalo
+Stop & Save,Ndalo dhe ruaj
+Stop Timer,Ndalo kronometrin
+Stops current timer and starts for this event,Ndalon kronometrin aktual dhe fillon për këtë event
+Stops current timer and starts for this task,Ndalon kronometrin aktual dhe fillon për këtë detyrë
+Subject,Tema
+Subject cannot exceed 255 characters,Tema nuk mund të kalojë 255 karaktere
+Subject is required,Tema është e nevojshme
+Submit,Dorëzo
+Submit Another Request,Dorëzoni një kërkesë tjetër
+Submit Request,Dorëzo kërkesën
+Submitting...,Duke dërguar...
+Successfully saved,U ruajt me sukses
+Successors (Blocking),Pasardhësit (bllokues)
+Sun,Diel
+Supplier,Furnizues
+Support,Mbështetje
+Switch to this event,Kalo te ky event
+Switch to this task,Kalo te kjo detyrë
+Sync direction is set to Frappe to Orga only,Drejtimi i sinkronizimit është vendosur vetëm nga Frappe në Orga
+Sync direction is set to Orga to Frappe only,Drejtimi i sinkronizimit është vendosur vetëm nga Orga në Frappe
+Sync not enabled for this project,Sinkronizimi nuk është aktivizuar për këtë projekt
+System,Sistem
+Table,Tabelë
+Take ownership of this task,Merr pronësinë e kësaj detyre
+Target Date,Data e synuar
+Target End,Mbarimi i synuar
+Target Project,Projekti i synuar
+Target user is required for '{0}' action,Përdoruesi i synuar nevojitet për veprimin '{0}'
+Task,Detyrë
+task,detyrë
+Task '{0}' is due on {1}.,Detyra '{0}' ka afat më {1}.
+Task and resource are required,Detyra dhe burimi janë të nevojshëm
+Task Assignment,Caktim detyre
+Task cannot be its own parent,Detyra nuk mund të jetë prindi i vetvetes
+Task cannot depend on itself,Detyra nuk mund të varet nga vetja
+Task cannot depend on the group it belongs to,Detyra nuk mund të varet nga grupi ku bën pjesë
+Task created,Detyra u krijua
+Task deleted,Detyra u fshi
+Task description has been saved.,Përshkrimi i detyrës u ruajt.
+Task Details,Detaje detyre
+Task due in {0} days: {1},Detyra ka afat pas {0} ditësh: {1}
+Task due today: {0},Detyrë me afat sot: {0}
+Task due tomorrow: {0},Detyrë me afat nesër: {0}
+Task duplicated,Detyra u kopjua
+Task Group,Grup detyrash
+Task ID is required,ID e detyrës është e nevojshme
+Task is blocked by incomplete dependencies,Detyra është bllokuar nga varësi të papërfunduara
+Task is cancelled,Detyra është anuluar
+Task is completed,Detyra është përfunduar
+Task is no longer blocked by a group,Detyra nuk është më e bllokuar nga një grup
+Task is required for task context,Detyra nevojitet për kontekstin e detyrës
+Task is required when tracking context is 'task',Detyra nevojitet kur konteksti i ndjekjes është 'detyrë'
+Task linked,Detyra u lidh
+Task moved,Detyra u zhvendos
+Task name,Emri i detyrës
+Task name is required,Emri i detyrës është i nevojshëm
+Task removed from group,Detyra u hoq nga grupi
+Task Subject,Tema e detyrës
+Task subject is required,Tema e detyrës është e nevojshme
+Task Type,Lloji i detyrës
+Task unblocked: {0},Detyra u zhbllokua: {0}
+Task unlinked,Detyra u shkëput
+Task updated,Detyra u përditësua
+Task {0} not found,Detyra {0} nuk u gjet
+Task {0} not in project {1},Detyra {0} nuk është në projektin {1}
+Task {0} to Frappe,Detyra {0} drejt Frappe
+Tasks,Detyra
+tasks,detyra
+Tasks and milestones will be created with dates relative to the project start date.,Detyrat dhe pikat e referimit do të krijohen me data relative ndaj datës së fillimit të projektit.
+Tasks assigned to you across all projects.,Detyra të caktuara për ju në të gjitha projektet.
+Tasks created:,Detyra të krijuara:
+Tasks from projects you manage.,Detyra nga projektet që menaxhoni.
+Tasks updated:,Detyra të përditësuara:
+"Tasks, milestones, and dependencies have been created.","Detyrat, pikat e referimit dhe varësitë u krijuan."
+Tasks:,Detyra:
+TBD,Për t'u përcaktuar
+Team,Ekip
+Team Members,Anëtarë ekipi
+Template,Model
+Template applied,Modeli u zbatua
+Template data is required in import data,Të dhënat e modelit nevojiten në të dhënat e importuara
+Template has no data,Modeli nuk ka të dhëna
+Template Name,Emri i modelit
+Template name,Emri i modelit
+Template name is required,Emri i modelit është i nevojshëm
+Template name is required in import data,Emri i modelit nevojitet në të dhënat e importuara
+Template saved,Modeli u ruajt
+Template updated successfully.,Modeli u përditësua me sukses.
+Template {0} not found,Modeli {0} nuk u gjet
+Templates,Modele
+Tentative,Paraprak
+The comment has been deleted,Komenti u fshi
+The project,Projekti
+The source document may have been deleted.,Dokumenti burimor mund të jetë fshirë.
+The source document will not be affected.,Dokumenti burimor nuk do të preket.
+The status of '{0}' was changed from {1} to {2}.,Statusi i '{0}' u ndryshua nga {1} në {2}.
+Theme,Temë
+Theme preference,Preferenca e temës
+This action,Ky veprim
+This action cannot be undone.,Ky veprim nuk mund të zhbëhet.
+This activity has been flagged for attention,Ky aktivitet është sinjaluar për vëmendje
+This is a reminder for your upcoming appointment,Ky është një kujtesë për takimin tuaj të ardhshëm
+This method is only meant for developer mode,Kjo metodë është vetëm për mënyrën e zhvilluesit
+This page wandered off,This page wandered off
+This Week,Këtë javë
+This will delete all notes and preferences associated with this activity.,Kjo do të fshijë të gjitha shënimet dhe preferencat e lidhura me këtë aktivitet.
+This will import all Frappe Projects into Orga. Continue?,Kjo do të importojë të gjitha projektet Frappe në Orga. Vazhdoni?
+This will permanently delete,Kjo do të fshijë përgjithmonë
+This will permanently delete:,Kjo do të fshijë përgjithmonë:
+Thu,Enj
+Time,Kohë
+Time & Billing,Kohë dhe faturim
+Time & Revenue,Kohë dhe të ardhura
+Time Entries,Hyrje kohe
+Time log name is required,Emri i hyrjes së kohës është i nevojshëm
+Time Log not found,Hyrja e kohës nuk u gjet
+Time log {0} not found,Hyrja e kohës {0} nuk u gjet
+Time Logs,Hyrje kohe
+Time Summary,Përmbledhja e kohës
+Time Tracking,Ndjekja e kohës
+Timeline,Kronologji
+Timer active on,Kronometri aktiv në
+Timer is not running,Kronometri nuk është në punë
+Timer Running,Kronometri në punë
+Timer running,Kronometri në punë
+Timesheet DocType not available,DocType i fletës së kohës nuk është i disponueshëm
+Timesheets,Fletë kohe
+Timezone,Zona kohore
+Timezone is detected from your browser,Zona kohore zbulohet nga shfletuesi juaj
+Title,Titull
+Title cannot exceed 255 characters,Titulli nuk mund të kalojë 255 karaktere
+Title is required,Titulli është i nevojshëm
+Title updated,Titulli u përditësua
+To,Për
+to,për
+to cancel,për të anuluar
+to close,për të mbyllur
+to confirm:,për të konfirmuar:
+to edit,për të modifikuar
+"to save,","për të ruajtur,"
+To Time cannot be before From Time,Ora e mbarimit nuk mund të jetë para orës së fillimit
+Today,Sot
+today,sot
+Toggle billable,Ndrysho faturueshmërinë
+Toggle Details Panel,Shfaq/fshih panelin e detajeve
+Toggle Manager Panel,Shfaq/fshih panelin e menaxherit
+Toggle Sidebar,Shfaq/fshih anësorin
+Tomorrow,Nesër
+tomorrow,nesër
+Total,Totali
+Total Budget,Buxheti total
+Total Contacts,Totali i kontakteve
+Total Cost,Kosto totale
+Total Cost to Org,Kosto totale për organizatën
+Total Defect Cost,Kosto totale e defekteve
+Total Hours,Orë totale
+Total Hours Logged,Orë totale të regjistruara
+Total Projects,Totali i projekteve
+Total Spent,Totali i shpenzimeve
+Total Tasks,Totali i detyrave
+Total:,Totali:
+Tracked,Ndjekur
+trails to today while Open at 0%,rrëshqet deri sot ndërsa është Hapur në 0%
+Tried:,Tried:
+Try adjusting your filter criteria,Provoni të rregulloni kriteret e filtrit
+Try adjusting your filters.,Provoni të rregulloni filtrat tuaj.
+Try Again,Provo përsëri
+Tue,Mar
+Type,Lloj
+Type updated,Lloji u përditësua
+Type:,Lloji:
+Typical response time: 1-2 business days,Koha e zakonshme e përgjigjes: 1-2 ditë pune
+Unarchive,Çarkivo
+Unarchive Activity,Çarkivo aktivitetin
+Unassign,Hiq caktimin
+Unassigned,I pacaktuar
+Under Budget,Nën buxhet
+Ungrouped,I pagrupuar
+Unknown,I panjohur
+Unknown error,Gabim i panjohur
+Unlink failed,Shkëputja dështoi
+Unlink task from milestone,Shkëput detyrën nga pika e referimit
+Unpin,Hiq nguljen
+Unpin Activity,Hiq nguljen e aktivitetit
+Unread,I palexuar
+Unread only,Vetëm të palexuarat
+Until,Deri
+Up to Date,Up to Date
+Upcoming,Së shpejti
+upcoming,së shpejti
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Përditësimi dështoi
+Updated,Përditësuar
+Updated successfully,Përditësuar me sukses
+Updates,Updates
+Upload,Ngarko
+Upload failed,Ngarkimi dështoi
+Upload files below to attach them to this task.,Ngarkoni skedarë më poshtë për t'i bashkëngjitut kësaj detyre.
+Upload to project,Ngarko në projekt
+Uploading...,Duke ngarkuar...
+Urgent,Urgjent
+User {0} is already linked to client {1},Përdoruesi {0} është tashmë i lidhur me klientin {1}
+User {0} is already linked to resource {1},Përdoruesi {0} është tashmë i lidhur me burimin {1}
+Utilization,Përdorim
+Valid,I vlefshëm
+Value:,Vlera:
+Variance,Ndryshim
+Variance:,Ndryshimi:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Shiko
+View All,Shiko të gjitha
+View all active projects,Shiko të gjitha projektet aktive
+View all open tasks,Shiko të gjitha detyrat e hapura
+View overdue tasks,Shiko detyrat e vonuara
+View Release,View Release
+Visibility,Dukshmëri
+Waiting for this task,Duke pritur këtë detyrë
+Waits for:,Pret për:
+Warning: Resource {0} status is {1},Paralajmërim: statusi i burimit {0} është {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Paralajmërim: Duke përdorur HTTP në vend të HTTPS. Të dhënat e webhook mund të mos jenë të sigurta.
+Watch budget closely,Mbikëqyrni buxhetin nga afër
+We'll respond to:,Do t'ju përgjigjemi në:
+Webhook deleted,Webhook u fshi
+Webhook name is required,Emri i webhook është i nevojshëm
+Webhook not found,Webhook nuk u gjet
+Webhook URL is required,URL e webhook është e nevojshme
+Webhook URL must start with http:// or https://,URL e webhook duhet të fillojë me http:// ose https://
+Wed,Mër
+Week,Javë
+Weekend,Fundjavë
+Weekly Capacity,Kapaciteti javor
+weekly capacity,kapaciteti javor
+Weekly Capacity (h),Kapaciteti javor (h)
+Welcome,Mirësevini
+Welcome back!,Mirëse u kthyet!
+Welcome to Orga,Mirësevini në Orga
+What are you working on?,Në çfarë po punoni?
+What did you work on?,Në çfarë punuat?
+When,Kur
+When work begins,Kur fillon puna
+When work is due,Kur ka afat puna
+Where,Ku
+Will capture:,Do të kapë:
+Will create:,Do të krijojë:
+with checklist items,me zëra të listës së kontrollit
+Working,Në punë
+Workload,Ngarkesë pune
+Workmanship,Cilësia e punës
+Write a comment...,Shkruani një koment...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Shkruani një koment... Përdorni @emër për të përmendur (Ctrl+Enter për të dërguar)
+Year,Vit
+Yes,Po
+Yesterday,Dje
+yesterday,dje
+You are not an attendee of this appointment,Ju nuk jeni pjesëmarrës i këtij takimi
+You are not linked to any resource,Ju nuk jeni lidhur me asnjë burim
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Ju mund të fshini vetëm komentet tuaja
+You can only delete your own reactions,Ju mund të fshini vetëm reagimet tuaja
+You do not have access to the client portal. Please contact support.,Ju nuk keni akses në portalin e klientit. Ju lutem kontaktoni mbështetjen.
+You have already reacted with '{0}',Ju keni reaguar tashmë me '{0}'
+You have been assigned to task '{0}' in project '{1}'.,Ju u caktuat në detyrën '{0}' në projektin '{1}'.
+You have been assigned to: {0},Ju u caktuat te: {0}
+You have been invited to the following appointment,Ju jeni ftuar në takimin e mëposhtëm
+You have no tasks assigned to you right now.,Ju nuk keni asnjë detyrë të caktuar për momentin.
+You were mentioned in {0},Ju u përmendët në {0}
+Your attendance,Pjesëmarrja juaj
+Your comment has been posted,Komenti juaj u publikua
+Your Projects,Projektet tuaja
+Your projects will appear here once they're assigned to you.,Projektet tuaja do të shfaqen këtu pasi t'ju caktohen.
+Your Response,Përgjigja juaj
+Your RSVP,RSVP-ja juaj
+Your support request has been submitted successfully.,Kërkesa juaj për mbështetje u dërgua me sukses.
+Your support request has been submitted successfully. We'll get back to you shortly.,Kërkesa juaj për mbështetje u dërgua me sukses. Do t'ju përgjigjemi së shpejti.
+"Your task ""{0}"" is no longer blocked and can now be started.","Detyra juaj ""{0}"" nuk është më e bllokuar dhe tani mund të fillohet."
+{0} is required,{0} është i nevojshëm
+{0} new activities,{0} aktivitete të reja
+{0} of {1} completed,{0} nga {1} të përfunduara
+{0} projects already migrated (will be skipped or updated),{0} projekte tashmë të migruara (do të kapërcehen ose përditësohen)
+{0} status changed to {1},Statusi i {0} u ndryshua në {1}
+{0} tasks remaining,{0} detyra të mbetura
+{0} tasks without projects will be skipped,{0} detyra pa projekte do të kapërcehen
+{0} {1} not found,{0} {1} nuk u gjet

@@ -1,0 +1,1492 @@
++ Add Milestone,+ மைல்கல் சேர்
++ Create Task,+ பணி உருவாக்கு
++ Log Time,+ நேரம் பதிவு செய்
+-- Select a project --,-- ஒரு திட்டத்தைத் தேர்ந்தெடுக்கவும் --
+0m,0நி
+1 day,1 நாள்
+1 day ago,1 நாளுக்கு முன்
+1 dependency,1 சார்பு
+1 entry,1 பதிவு
+1 file,1 கோப்பு
+1 hour ago,1 மணி நேரத்திற்கு முன்
+1 member,1 உறுப்பினர்
+1 milestone,1 மைல்கல்
+1 month,1 மாதம்
+1 task,1 பணி
+< 1m,< 1நி
+"A clear, actionable title for the task","பணிக்கான தெளிவான, செயல்படுத்தக்கூடிய தலைப்பு"
+A client with email {0} already exists: {1},மின்னஞ்சல் {0} கொண்ட வாடிக்கையாளர் ஏற்கனவே உள்ளார்: {1}
+A key deliverable or checkpoint for the project,திட்டத்திற்கான முக்கிய வழங்கல் அல்லது சோதனைப்புள்ளி
+Accept,ஏற்றுக்கொள்
+Accepted,ஏற்றுக்கொள்ளப்பட்டது
+Acknowledge,ஒப்புக்கொள்
+across,முழுவதும்
+Action,செயல்
+Actions,செயல்கள்
+Active,செயலில்
+Active Assignments,செயலில் உள்ள ஒதுக்கீடுகள்
+Active Projects,செயலில் உள்ள திட்டங்கள்
+Activity,நடவடிக்கை
+Activity data deleted successfully,செயல்பாட்டுத் தரவு வெற்றிகரமாக நீக்கப்பட்டது
+Activity Info,செயல்பாட்டுத் தகவல்
+Activity Stats,செயல்பாட்டு புள்ளிவிவரங்கள்
+Activity will appear here as you work on tasks and projects.,நீங்கள் பணிகள் மற்றும் திட்டங்களில் பணிபுரியும்போது செயல்பாடுகள் இங்கே தோன்றும்.
+Actual,உண்மையான
+Actual Cost,உண்மையான செலவு
+Actual cost cannot be negative,உண்மையான செலவு எதிர்மறையாக இருக்க முடியாது
+Actual end date cannot be before actual start date,உண்மையான முடிவு தேதி உண்மையான தொடக்க தேதிக்கு முன்னதாக இருக்க முடியாது
+Actual Hours,உண்மையான மணி நேரம்
+Add,சேர்
+Add a checklist item...,சரிபார்ப்புப் பட்டியல் உருப்படியைச் சேர்க்கவும்...
+Add a comment...,கருத்தைச் சேர்க்கவும்...
+Add a comment... (Ctrl+Enter to send),கருத்தைச் சேர்க்கவும்... (அனுப்ப Ctrl+Enter)
+Add a description...,விளக்கத்தைச் சேர்க்கவும்...
+Add a milestone description...,மைல்கல் விளக்கத்தைச் சேர்க்கவும்...
+Add a note below to annotate this activity.,இந்தச் செயல்பாட்டிற்கு குறிப்பிட கீழே ஒரு குறிப்பைச் சேர்க்கவும்.
+Add a note...,குறிப்பைச் சேர்க்கவும்...
+Add a project description...,திட்ட விளக்கத்தைச் சேர்க்கவும்...
+Add a task description...,பணி விளக்கத்தைச் சேர்க்கவும்...
+Add checklist item...,சரிபார்ப்புப் பட்டியல் உருப்படியைச் சேர்...
+Add Contact,தொடர்பு சேர்
+Add contacts via the Desk interface or clear filters,Desk இடைமுகம் வழியாக தொடர்புகளைச் சேர்க்கவும் அல்லது வடிகட்டிகளை அழிக்கவும்
+Add Dependency,சார்பு சேர்
+Add details about this event...,இந்த நிகழ்வு பற்றிய விவரங்களைச் சேர்க்கவும்...
+Add details about this milestone...,இந்த மைல்கல் பற்றிய விவரங்களைச் சேர்க்கவும்...
+Add details about this task...,இந்தப் பணி பற்றிய விவரங்களைச் சேர்க்கவும்...
+Add details or acceptance criteria for this milestone,இந்த மைல்கல்லுக்கான விவரங்கள் அல்லது ஏற்பு அளவுகோல்களைச் சேர்க்கவும்
+"Add details, context, or acceptance criteria","விவரங்கள், சூழல் அல்லது ஏற்பு அளவுகோல்களைச் சேர்க்கவும்"
+Add first dependency,முதல் சார்பைச் சேர்
+Add item,உருப்படியைச் சேர்
+Add items below to track progress.,முன்னேற்றத்தைக் கண்காணிக்க கீழே உருப்படிகளைச் சேர்க்கவும்.
+Add items below to track subtasks,துணைப் பணிகளைக் கண்காணிக்க கீழே உருப்படிகளைச் சேர்க்கவும்
+Add Milestone,மைல்கல் சேர்
+Add Milestone (Shift+M),மைல்கல் சேர் (Shift+M)
+Add milestones to track key deliverables.,முக்கிய வழங்கல்களைக் கண்காணிக்க மைல்கல்களைச் சேர்க்கவும்.
+Add New Contact,புதிய தொடர்பைச் சேர்
+Add Note,குறிப்பு சேர்
+Add note,குறிப்பு சேர்
+Add notes about this contact...,இந்தத் தொடர்பு பற்றிய குறிப்புகளைச் சேர்க்கவும்...
+Add reaction,எதிர்வினை சேர்
+Add Skill,திறன் சேர்
+Add start and due dates to tasks to see them on the Gantt chart,Gantt விளக்கப்படத்தில் பார்க்க பணிகளுக்கு தொடக்க மற்றும் நிலுவைத் தேதிகளைச் சேர்க்கவும்
+Add Task,பணி சேர்
+Add Task (Shift+T),பணி சேர் (Shift+T)
+Added Finish-to-Start dependency,முடிவு-தொடக்க சார்பு சேர்க்கப்பட்டது
+Adding this dependency would create a circular reference: {0},இந்தச் சார்பைச் சேர்ப்பது ஒரு வட்ட குறிப்பை உருவாக்கும்: {0}
+Adding...,சேர்க்கிறது...
+Address,முகவரி
+Advanced,மேம்பட்ட
+All,எல்லாம்
+All Active,அனைத்தும் செயலில்
+All Assignees,அனைத்து ஒதுக்கீட்டாளர்கள்
+All Categories,அனைத்து வகைகள்
+All caught up!,அனைத்தும் படிக்கப்பட்டன!
+All Contexts,அனைத்து சூழல்கள்
+All day,முழு நாள்
+All day event,முழு நாள் நிகழ்வு
+All fields,அனைத்து புலங்கள்
+All Priorities,அனைத்து முன்னுரிமைகள்
+All Projects,அனைத்து திட்டங்கள்
+All Status,அனைத்து நிலைகள்
+All Statuses,அனைத்து நிலைகள்
+All task dependencies & relative dates,அனைத்து பணி சார்புகள் & தொடர்புடைய தேதிகள்
+All Tasks,அனைத்து பணிகள்
+All tasks across all projects.,அனைத்து திட்டங்களிலும் உள்ள அனைத்து பணிகள்.
+All tasks are already linked,அனைத்து பணிகளும் ஏற்கனவே இணைக்கப்பட்டுள்ளன
+All team members,அனைத்து குழு உறுப்பினர்கள்
+All Types,அனைத்து வகைகள்
+All Users,அனைத்து பயனர்கள்
+Allocated,ஒதுக்கப்பட்டது
+allocated,ஒதுக்கப்பட்டது
+Allow users to log time against tasks,பணிகளுக்கான நேரத்தைப் பதிவு செய்ய பயனர்களை அனுமதி
+Already exported to timesheet {0},ஏற்கனவே நேரத்தாள் {0} க்கு ஏற்றுமதி செய்யப்பட்டது
+Already Migrated,ஏற்கனவே இடம்பெயர்க்கப்பட்டது
+Anyone with access,அணுகல் உள்ள அனைவரும்
+anytime to show this help,இந்த உதவியைக் காட்ட எப்போதும்
+App Updates,App Updates
+Appearance,தோற்றம்
+Apply,விண்ணப்பிக்கவும்
+Apply cascade?,அடுக்கு மாற்றங்களைப் பயன்படுத்தவா?
+Apply Changes,மாற்றங்களைப் பயன்படுத்து
+Apply failed,பயன்படுத்துதல் தோல்வியடைந்தது
+Apply Template,வார்ப்புருவைப் பயன்படுத்து
+Applying...,பயன்படுத்துகிறது...
+Appointment,சந்திப்பு
+Appointment and resource are required,சந்திப்பு மற்றும் வளம் தேவை
+Appointment name is required,சந்திப்பு பெயர் தேவை
+Appointment not found,சந்திப்பு கிடைக்கவில்லை
+Appointment {0} not found,சந்திப்பு {0} கிடைக்கவில்லை
+Apps,பயன்பாடுகள்
+Archive,காப்பகம்
+Archive Activity,செயல்பாட்டை காப்பகப்படுத்து
+Archived,காப்பகப்படுத்தியவை
+Are you sure you want to delete this activity data? This cannot be undone.,இந்தச் செயல்பாட்டுத் தரவை நீக்க விரும்புகிறீர்களா? இதை மீட்டெடுக்க இயலாது.
+Are you sure you want to delete this comment?,இந்தக் கருத்தை நீக்க விரும்புகிறீர்களா?
+Are you sure you want to delete this project?,இந்தத் திட்டத்தை நீக்க விரும்புகிறீர்களா?
+Are you sure?,நீ சொல்வது உறுதியா?
+Ascending -- click to reverse,ஏறுவரிசை -- தலைகீழாக்க கிளிக் செய்யவும்
+Assign To,என்று ஒதுக்க
+Assign to Me,எனக்கு ஒதுக்கு
+Assigned Contact,ஒதுக்கப்பட்ட தொடர்பு
+Assigned To,ஒதுக்கப்படும்
+Assigned to,ஒதுக்கப்பட்டவர்
+Assigned to Me,எனக்கு ஒதுக்கப்பட்டது
+Assignee,ஒதுக்கீட்டாளர்
+Assignment,மதிப்பளித்தல்
+Assignment History,ஒதுக்கீட்டு வரலாறு
+Assignment name is required,ஒதுக்கீட்டு பெயர் தேவை
+Assignment {0} not found,ஒதுக்கீடு {0} கிடைக்கவில்லை
+Assignments,பணிகள்
+At least one action is required,குறைந்தது ஒரு செயல் தேவை
+At least one event is required,குறைந்தது ஒரு நிகழ்வு தேவை
+At least one event must be selected,குறைந்தது ஒரு நிகழ்வு தேர்ந்தெடுக்கப்பட வேண்டும்
+Attachment,இணைப்பு
+Attachments,இணைப்புகள்
+Attendees,பங்கேற்பாளர்கள்
+"Audit trail, assignments, version history","தணிக்கை வரிசை, ஒதுக்கீடுகள், பதிப்பு வரலாறு"
+Auto,வாகன
+Auto Calculate Progress,தானியங்கி முன்னேற்றக் கணக்கீடு
+Auto Set Missed Milestones,தவறிய மைல்கல்களை தானியங்கி அமை
+Auto-shift dependents when dates change,தேதிகள் மாறும்போது சார்புகளை தானியங்கி மாற்று
+Auto-Trail Start,தானியங்கி-தடம் தொடக்கம்
+Auto-Trail updated,தானியங்கி-தடம் புதுப்பிக்கப்பட்டது
+Automatically calculate project progress from task completion,பணி நிறைவிலிருந்து திட்ட முன்னேற்றத்தை தானியங்கியாகக் கணக்கிடு
+Automatically mark milestones as missed when overdue,தாமதமாகும்போது மைல்கல்களை தவறியது என தானியங்கியாகக் குறி
+Automation rule {0} not found,தானியங்கி விதி {0} கிடைக்கவில்லை
+Automation: {0},தானியங்கி: {0}
+Availability,கிடைக்கும் தன்மை
+Available,கிடைக்கும்
+Avatar updated successfully,அவதார் வெற்றிகரமாக புதுப்பிக்கப்பட்டது
+Avg Progress,சராசரி முன்னேற்றம்
+Back,பின்
+Back to Portal,போர்ட்டலுக்குத் திரும்பு
+Back to Projects,திட்டங்களுக்குத் திரும்பு
+Beginner,தொடக்கநிலை
+Best regards,அன்புடன்
+Billable,கட்டணத்திற்குரிய
+Billable Amount,கட்டணத் தொகை
+Billable Hours,கட்டணத்திற்குரிய மணி நேரம்
+Billable Rate,கட்டணத் தொகை விகிதம்
+Billing Rate,கட்டண விகிதம்
+Blocked,தடுக்கப்பட்டது
+Both dates are needed to display task as a bar in Gantt chart,Gantt விளக்கப்படத்தில் பணியை பட்டையாகக் காட்ட இரண்டு தேதிகளும் தேவை
+Both doctype and docname are required,DocType மற்றும் docname இரண்டும் தேவை
+Both proposed start and end times are required,முன்மொழியப்பட்ட தொடக்க மற்றும் முடிவு நேரங்கள் இரண்டும் தேவை
+Both task_name and depends_on are required,task_name மற்றும் depends_on இரண்டும் தேவை
+Breadcrumb,வழிகாட்டி
+Brief description of the defect or damage,குறைபாடு அல்லது சேதம் பற்றிய சுருக்கமான விளக்கம்
+Brief description of this template,இந்த வார்ப்புருவின் சுருக்கமான விளக்கம்
+Brief description of your request,உங்கள் கோரிக்கையின் சுருக்கமான விளக்கம்
+Brief project description,சுருக்கமான திட்ட விளக்கம்
+Budget,வரவு செலவுத் திட்டம்
+Budget at risk,ஆபத்தில் உள்ள வரவு செலவுத் திட்டம்
+Budget Burn Rate,வரவு செலவு எரிப்பு வீதம்
+Budget Status,வரவு செலவு நிலை
+Budget updated,வரவு செலவுத் திட்டம் புதுப்பிக்கப்பட்டது
+Budget:,வரவு செலவுத் திட்டம்:
+Bug,பிழை
+Burn Rate,எரிப்பு வீதம்
+Busy,பிஸியாக
+By,மூலம்
+By Assignee,ஒதுக்கீட்டாளர் படி
+By Group,குழு படி
+By Milestone,மைல்கல் படி
+By Priority,முன்னுரிமை படி
+By Status,நிலை படி
+Cancel,ரத்து
+Cancelled,ரத்து செய்யப்பட்டது
+cannot be undone,மீட்டெடுக்க இயலாது
+Cannot delete client with {0} linked projects. Unlink projects first.,{0} இணைக்கப்பட்ட திட்டங்கள் கொண்ட வாடிக்கையாளரை நீக்க முடியாது. முதலில் திட்டங்களை இணைப்பு நீக்கவும்.
+Cannot delete project with {0} linked tasks. Delete tasks first.,{0} இணைக்கப்பட்ட பணிகள் கொண்ட திட்டத்தை நீக்க முடியாது. முதலில் பணிகளை நீக்கவும்.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,{0} செயலில் உள்ள ஒதுக்கீடுகள் கொண்ட வளத்தை நீக்க முடியாது. முதலில் அவற்றை நிறைவு செய்யவும் அல்லது ரத்து செய்யவும்.
+Cannot delete task with {0} subtasks. Delete subtasks first.,{0} துணைப் பணிகள் கொண்ட பணியை நீக்க முடியாது. முதலில் துணைப் பணிகளை நீக்கவும்.
+Capacity,கொள்திறன்
+capacity,கொள்திறன்
+Capacity & Rates,கொள்திறன் & விகிதங்கள்
+Capture project structure for reuse,மறுபயன்பாட்டிற்காக திட்ட கட்டமைப்பைப் பிடி
+Cascade,அடுக்கு
+Cascade Preview,அடுக்கு முன்னோட்டம்
+Category,பகுப்பு
+Celebrate,கொண்டாடு
+Change,மாற்றம்
+Change History,மாற்ற வரலாறு
+Change Priority,முன்னுரிமையை மாற்று
+Change Status,நிலையை மாற்று
+Changes,மாற்றங்கள்
+Changes appear when fields are modified.,புலங்கள் மாற்றப்படும்போது மாற்றங்கள் தோன்றும்.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,சரிபார்ப்புப் பட்டியல்
+Checklist item name is required,சரிபார்ப்புப் பட்டியல் உருப்படி பெயர் தேவை
+Checklist item not found,சரிபார்ப்புப் பட்டியல் உருப்படி கிடைக்கவில்லை
+Checklist item title is required,சரிபார்ப்புப் பட்டியல் உருப்படி தலைப்பு தேவை
+Checklist item {0} not found,சரிபார்ப்புப் பட்டியல் உருப்படி {0} கிடைக்கவில்லை
+Checklist item {0} not found in task,பணியில் சரிபார்ப்புப் பட்டியல் உருப்படி {0} கிடைக்கவில்லை
+Child,குழந்தை
+Choose file to upload,பதிவேற்ற கோப்பைத் தேர்ந்தெடுக்கவும்
+Circular dependency detected: {0},வட்ட சார்பு கண்டறியப்பட்டது: {0}
+Circular parent-child relationship detected,வட்ட பெற்றோர்-குழந்தை உறவு கண்டறியப்பட்டது
+Clear,அழி
+Clear all read,படிக்கப்பட்ட அனைத்தையும் அழி
+Clear date,தேதியை அழி
+Click on an activity from the list to view and manage its details.,விவரங்களைப் பார்க்கவும் நிர்வகிக்கவும் பட்டியலிலிருந்து ஒரு செயல்பாட்டைக் கிளிக் செய்யவும்.
+Click the avatar to upload a new photo,புதிய புகைப்படத்தைப் பதிவேற்ற அவதாரை கிளிக் செய்யவும்
+Click to add description...,விளக்கம் சேர்க்க கிளிக் செய்யவும்...
+Click to add notes...,குறிப்புகள் சேர்க்க கிளிக் செய்யவும்...
+Click to assign contact,தொடர்பை ஒதுக்க கிளிக் செய்யவும்
+Click to change status,நிலையை மாற்ற கிளிக் செய்யவும்
+Click to change type,வகையை மாற்ற கிளிக் செய்யவும்
+Click to edit,திருத்த கிளிக் செய்யவும்
+Click to edit budget,வரவு செலவுத் திட்டத்தைத் திருத்த கிளிக் செய்யவும்
+Click to edit description,விளக்கத்தைத் திருத்த கிளிக் செய்யவும்
+Click to edit end date,முடிவு தேதியைத் திருத்த கிளிக் செய்யவும்
+Click to edit milestone name,மைல்கல் பெயரைத் திருத்த கிளிக் செய்யவும்
+Click to edit rate,விகிதத்தைத் திருத்த கிளிக் செய்யவும்
+Click to edit start date,தொடக்க தேதியைத் திருத்த கிளிக் செய்யவும்
+Click to edit title,தலைப்பைத் திருத்த கிளிக் செய்யவும்
+Click to load,ஏற்ற கிளிக் செய்யவும்
+Click to set group dependency...,குழு சார்பை அமைக்க கிளிக் செய்யவும்...
+Click to set group...,குழுவை அமைக்க கிளிக் செய்யவும்...
+Click to view,பார்க்க கிளிக் செய்யவும்
+Click to view at-risk projects,ஆபத்தில் உள்ள திட்டங்களைப் பார்க்க கிளிக் செய்யவும்
+Click to view critical projects,முக்கியமான திட்டங்களைப் பார்க்க கிளிக் செய்யவும்
+Click to view healthy projects,ஆரோக்கியமான திட்டங்களைப் பார்க்க கிளிக் செய்யவும்
+Client,வாடிக்கையாளர்
+Client already has a portal user: {0},வாடிக்கையாளருக்கு ஏற்கனவே போர்ட்டல் பயனர் உள்ளார்: {0}
+Client already has portal access,வாடிக்கையாளருக்கு ஏற்கனவே போர்ட்டல் அணுகல் உள்ளது
+Client has no portal user to revoke,வாடிக்கையாளருக்கு திரும்பப்பெற போர்ட்டல் பயனர் இல்லை
+Client link removed from project {0},திட்டம் {0} இலிருந்து வாடிக்கையாளர் இணைப்பு நீக்கப்பட்டது
+Client Portal,வாடிக்கையாளர் போர்ட்டல்
+Client {0} deleted successfully,வாடிக்கையாளர் {0} வெற்றிகரமாக நீக்கப்பட்டார்
+Close,மூடவும்
+Close (Esc),மூடு (Esc)
+Comment,கருத்து
+comment,கருத்து
+Comment added,கருத்து சேர்க்கப்பட்டது
+Comment content is required,கருத்து உள்ளடக்கம் தேவை
+Comment name is required,கருத்து பெயர் தேவை
+Comment not found,கருத்து கிடைக்கவில்லை
+Comment removed,கருத்து நீக்கப்பட்டது
+Comment {0} not found in task,பணியில் கருத்து {0} கிடைக்கவில்லை
+Comments,கருத்துகள்
+comments,கருத்துரைகள்
+Community Edition,Community Edition
+Company,நிறுவனம்
+Company name...,நிறுவனப் பெயர்...
+Complete,முழுமையான
+Completed,நிறைவு
+completed,நிறைவடைந்தது
+Completed Tasks,நிறைவடைந்த பணிகள்
+Compliance,இணக்கம்
+Configure default values for new projects and tasks,புதிய திட்டங்கள் மற்றும் பணிகளுக்கான இயல்புநிலை மதிப்புகளை அமை
+Configure email notification settings,மின்னஞ்சல் அறிவிப்பு அமைப்புகளை அமை
+Confirm,உறுதிப்படுத்தவும்
+Contact deleted,தொடர்பு நீக்கப்பட்டது
+Contact Details,விபரங்கள்
+Contact Information,தொடர்புத் தகவல்
+Contact name is required,தொடர்பு பெயர் தேவை
+Contact Support,ஆதரவை தொடர்பு கொள்ளுங்கள்
+Contact your project manager for more information.,மேலும் தகவலுக்கு உங்கள் திட்ட மேலாளரைத் தொடர்பு கொள்ளுங்கள்.
+Contact:,தொடர்பு:
+Contacts,தொடர்புகள்
+Context,சூழல்
+Contractor,ஒப்பந்தக்காரர்
+Cost estimate cannot be negative,செலவு மதிப்பீடு எதிர்மறையாக இருக்க முடியாது
+Cost Impact,செலவு தாக்கம்
+Cost Summary,செலவு சுருக்கம்
+Could not apply the template. Please try again.,வார்ப்புருவைப் பயன்படுத்த இயலவில்லை. மீண்டும் முயற்சிக்கவும்.
+Could not attach file to project,திட்டத்தில் கோப்பை இணைக்க இயலவில்லை
+Could not change task priority,பணி முன்னுரிமையை மாற்ற இயலவில்லை
+Could not change task status,பணி நிலையை மாற்ற இயலவில்லை
+Could not delete the project. Please try again.,திட்டத்தை நீக்க இயலவில்லை. மீண்டும் முயற்சிக்கவும்.
+Could not delete the task. Please try again.,பணியை நீக்க இயலவில்லை. மீண்டும் முயற்சிக்கவும்.
+Could not delete the template.,வார்ப்புருவை நீக்க இயலவில்லை.
+Could not duplicate the task. Please try again.,பணியை நகலெடுக்க இயலவில்லை. மீண்டும் முயற்சிக்கவும்.
+Could not export the template.,வார்ப்புருவை ஏற்றுமதி செய்ய இயலவில்லை.
+Could not import the template. Please check the file format.,வார்ப்புருவை இறக்குமதி செய்ய இயலவில்லை. கோப்பு வடிவமைப்பைச் சரிபார்க்கவும்.
+Could not link task to milestone,பணியை மைல்கல்லுடன் இணைக்க இயலவில்லை
+Could not load document details.,ஆவண விவரங்களை ஏற்ற இயலவில்லை.
+Could not load task details,பணி விவரங்களை ஏற்ற இயலவில்லை
+Could not promote checklist item to task.,சரிபார்ப்புப் பட்டியல் உருப்படியைப் பணியாக உயர்த்த இயலவில்லை.
+Could not remove task from milestone,மைல்கல்லிலிருந்து பணியை நீக்க இயலவில்லை
+Could not save budget.,வரவு செலவுத் திட்டத்தைச் சேமிக்க இயலவில்லை.
+Could not save changes to the milestone,மைல்கல் மாற்றங்களைச் சேமிக்க இயலவில்லை
+Could not save changes to the task,பணி மாற்றங்களைச் சேமிக்க இயலவில்லை
+Could not save description.,விளக்கத்தைச் சேமிக்க இயலவில்லை.
+Could not save end date.,முடிவு தேதியைச் சேமிக்க இயலவில்லை.
+Could not save milestone name.,மைல்கல் பெயரைச் சேமிக்க இயலவில்லை.
+Could not save start date.,தொடக்க தேதியைச் சேமிக்க இயலவில்லை.
+Could not save the template. Please try again.,வார்ப்புருவைச் சேமிக்க இயலவில்லை. மீண்டும் முயற்சிக்கவும்.
+Could not save title.,தலைப்பைச் சேமிக்க இயலவில்லை.
+Could not update dependency mode.,சார்பு முறையைப் புதுப்பிக்க இயலவில்லை.
+Could not update milestone date,மைல்கல் தேதியைப் புதுப்பிக்க இயலவில்லை
+Could not update project status.,திட்ட நிலையைப் புதுப்பிக்க இயலவில்லை.
+Could not update project type.,திட்ட வகையைப் புதுப்பிக்க இயலவில்லை.
+Could not update setting.,அமைப்பைப் புதுப்பிக்க இயலவில்லை.
+Could not update task dates,பணி தேதிகளைப் புதுப்பிக்க இயலவில்லை
+Could not update task status,பணி நிலையைப் புதுப்பிக்க இயலவில்லை
+Could not update the template.,வார்ப்புருவைப் புதுப்பிக்க இயலவில்லை.
+Create a copy of this task,இந்தப் பணியின் நகலை உருவாக்கு
+Create Contact,தொடர்பை உருவாக்கு
+Create Event,நிகழ்வை உருவாக்கு
+Create Milestone,மைல்கல் உருவாக்கு
+Create New Milestone,புதிய மைல்கல் உருவாக்கு
+Create New Task,புதிய பணி உருவாக்கு
+Create Project,திட்டம் உருவாக்கு
+Create Task,பணி உருவாக்கு
+Create tasks and milestones from a template,வார்ப்புருவிலிருந்து பணிகள் மற்றும் மைல்கல்களை உருவாக்கு
+Create your first project to get started.,தொடங்க உங்கள் முதல் திட்டத்தை உருவாக்கவும்.
+Create your first task to start tracking work on this project.,இந்தத் திட்டத்தில் பணியைக் கண்காணிக்கத் தொடங்க உங்கள் முதல் பணியை உருவாக்கவும்.
+Created,உருவாக்கப்பட்டது
+Creating...,உருவாக்குகிறது...
+Critical,முக்கியமான
+Critical Path,முக்கியப் பாதை
+"Currency used for budgets, costs, and billing rates","வரவு செலவுத் திட்டங்கள், செலவுகள் மற்றும் கட்டண விகிதங்களுக்குப் பயன்படுத்தப்படும் நாணயம்"
+Current,தற்போதைய
+Current Assignments,தற்போதைய ஒதுக்கீடுகள்
+Current scheduled time:,தற்போதைய திட்டமிடப்பட்ட நேரம்:
+Currently running version,Currently running version
+d lag,நா இடைவெளி
+Daily Availability,தினசரி கிடைக்கும் தன்மை
+Daily Hours,தினசரி மணி நேரம்
+Danger Zone,ஆபத்து மண்டலம்
+Dark,இருண்ட
+Dashboard,டாஷ்போர்டு
+Date,தேதி
+Date changes on this task will show cascade impact here,இந்தப் பணியில் தேதி மாற்றங்கள் அடுக்கு தாக்கத்தை இங்கே காட்டும்
+Date cleared,தேதி அழிக்கப்பட்டது
+Date of Joining,சேரும் தேதி
+Date updated,தேதி புதுப்பிக்கப்பட்டது
+Dates,தேதிகள்
+Dates cascaded,தேதிகள் அடுக்கு மாற்றப்பட்டன
+Dates will be relative to the project's start date.,தேதிகள் திட்டத்தின் தொடக்க தேதியை சார்ந்திருக்கும்.
+Day,தினம்
+day,நாள்
+days,நாட்கள்
+Days before due date to send reminder,நினைவூட்டல் அனுப்ப நிலுவைத் தேதிக்கு முன் நாட்கள்
+Days Overdue,தாமதமான நாட்கள்
+Days Remaining,மீதமுள்ள நாட்கள்
+Deadline,இறுதி நாள்
+Deadlines,இறுதி நாட்கள்
+Decision,முடிவு
+Decline,மறுக்கவும்
+Declined,மறுக்கப்பட்டது
+Default Currency,இயல்புநிலை நாணயம்
+Default hours per week for contact capacity planning,தொடர்பு கொள்திறன் திட்டமிடலுக்கான வாரத்திற்கான இயல்புநிலை மணி நேரம்
+Default Priority,இயல்புநிலை முன்னுரிமை
+Default Project Status,இயல்புநிலை திட்ட நிலை
+Default Task Status,இயல்புநிலை பணி நிலை
+Default task view,இயல்புநிலை பணி காட்சி
+Default Values,இயல்புநிலை மதிப்புகள்
+Default Weekly Capacity,இயல்புநிலை வாராந்திர கொள்திறன்
+Defaults,இயல்புநிலைகள்
+Defect Cost Impact,குறைபாடு செலவு தாக்கம்
+Defect name is required,குறைபாடு பெயர் தேவை
+Defect Type,குறைபாடு வகை
+Defect {0} not found,குறைபாடு {0} கிடைக்கவில்லை
+Defects,குறைபாடுகள்
+Defects & Issues,குறைபாடுகள் & சிக்கல்கள்
+Defects Resolved,தீர்க்கப்பட்ட குறைபாடுகள்
+Delayed,தாமதமான
+Delete,நீக்கு
+Delete Activity Data,செயல்பாட்டுத் தரவை நீக்கு
+Delete all read notifications?,படிக்கப்பட்ட அனைத்து அறிவிப்புகளையும் நீக்கவா?
+Delete comment,கருத்தை நீக்கு
+Delete Contact,தொடர்பை நீக்கு
+Delete Event,நிகழ்வை நீக்கு
+Delete Event?,நிகழ்வை நீக்கவா?
+Delete failed,நீக்குதல் தோல்வியடைந்தது
+Delete file,கோப்பை நீக்கு
+Delete item,உருப்படியை நீக்கு
+Delete note,குறிப்பை நீக்கு
+Delete Project,திட்டத்தை நீக்கு
+Delete Task,பணியை நீக்கு
+Delete this project,இந்தத் திட்டத்தை நீக்கு
+Deleted,நீக்கப்பட்ட
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","திட்டம் ""{0}"" நீக்கப்பட்டது ({1} பணிகள், {2} மைல்கல்கள்)"
+Deletes notes and preferences. Source document is not affected.,குறிப்புகள் மற்றும் விருப்பங்களை நீக்கும். மூல ஆவணம் பாதிக்கப்படாது.
+Deleting...,நீக்குகிறது...
+Department,துறை
+Dependencies,சார்புகள்
+dependencies,சார்புகள்
+Dependencies are informational only,சார்புகள் தகவல் நோக்கத்திற்கு மட்டுமே
+dependency,சார்பு
+Dependency already exists,சார்பு ஏற்கனவே உள்ளது
+Dependency Chain,சார்பு சங்கிலி
+Dependency created,சார்பு உருவாக்கப்பட்டது
+Dependency mode updated,சார்பு முறை புதுப்பிக்கப்பட்டது
+Dependency name is required,சார்பு பெயர் தேவை
+Dependency task {0} not found,சார்பு பணி {0} கிடைக்கவில்லை
+Dependency {0} not found,சார்பு {0} கிடைக்கவில்லை
+depends,சார்ந்துள்ளது
+Depends on Group,குழுவை சார்ந்தது
+Depends on task is required,சார்பு பணி தேவை
+depends on...,சார்ந்துள்ளது...
+Descending -- click to reverse,இறங்கு வரிசை -- தலைகீழாக்க கிளிக் செய்யவும்
+Describe the defect in detail...,குறைபாட்டை விரிவாக விவரிக்கவும்...
+Description,விளக்கம்
+Description updated,விளக்கம் புதுப்பிக்கப்பட்டது
+Designation,பதவி
+"Detailed description of the defect, location, and impact","குறைபாடு, இருப்பிடம் மற்றும் தாக்கம் பற்றிய விரிவான விளக்கம்"
+Details,விவரம்
+Discard timer,நேர அளவியை நிராகரி
+Discussion,கலந்துரையாடல்
+Dismiss,Dismiss
+Display,காட்சி
+Document,ஆவணம்
+Document attached to project,ஆவணம் திட்டத்தில் இணைக்கப்பட்டது
+Document final decision and rationale,இறுதி முடிவு மற்றும் காரணத்தை ஆவணப்படுத்து
+Documentation Review,ஆவண மதிப்பாய்வு
+Documents,ஆவணங்கள்
+Done,முடிந்தது
+Download,பதிவிறக்க Tamil
+Drag to create dependency,சார்பை உருவாக்க இழுக்கவும்
+Dry Run,சோதனை இயக்கம்
+Dry Run Complete,சோதனை இயக்கம் நிறைவடைந்தது
+Due Date,காரணம் தேதி
+Due date,நிலுவைத் தேதி
+Due Date (Earliest),நிலுவைத் தேதி (முந்தையது)
+Due date cannot be before start date,நிலுவைத் தேதி தொடக்க தேதிக்கு முன்னதாக இருக்க முடியாது
+Due date is in the past,நிலுவைத் தேதி கடந்த காலத்தில் உள்ளது
+Due Date Reminders,நிலுவைத் தேதி நினைவூட்டல்கள்
+Due Diligence,முறையான சரிபார்ப்பு
+Due Diligence Checklist,முறையான சரிபார்ப்பு பட்டியல்
+Due This Week,இந்த வாரம் நிலுவை
+Due:,நிலுவை:
+Duplicate events are not allowed,நகல் நிகழ்வுகள் அனுமதிக்கப்படாது
+Duplicate failed,நகலெடுத்தல் தோல்வியடைந்தது
+Duplicate Task,பணியை நகலெடு
+Duration,காலம்
+Duration Summary,கால அளவு சுருக்கம்
+Duration:,கால அளவு:
+e.g. Cracked wall finish in bathroom...,எ.கா. குளியலறையில் சுவர் பூச்சு விரிசல்...
+"e.g. Electrical, Plumbing...","எ.கா. மின்சாரம், குழாய்..."
+Edit,தொகு
+Edit (E),திருத்து (E)
+Edit dependency,சார்பைத் திருத்து
+Edit Event,நிகழ்வைத் திருத்து
+Efficiency,செயல்திறன்
+Either dependency_name or depends_on is required,dependency_name அல்லது depends_on தேவை
+Email,மின்னஞ்சல்
+Email invitations to all attendees,அனைத்து பங்கேற்பாளர்களுக்கும் மின்னஞ்சல் அழைப்பிதழ்கள்
+Email is required to create portal user,போர்ட்டல் பயனரை உருவாக்க மின்னஞ்சல் தேவை
+Email notifications,மின்னஞ்சல் அறிவிப்புகள்
+Employee,ஊழியர்
+Employee DocType not available,ஊழியர் DocType கிடைக்கவில்லை
+Employee not found,ஊழியர் கிடைக்கவில்லை
+Enable or disable optional features,விருப்பமான அம்சங்களை இயக்கு அல்லது முடக்கு
+Enable Time Tracking,நேரக் கண்காணிப்பை இயக்கு
+End,முடிவு
+End Date,இறுதி நாள்
+End date,முடிவு தேதி
+End Date cannot be before Start Date,முடிவு தேதி தொடக்க தேதிக்கு முன்னதாக இருக்க முடியாது
+End date cannot be before start date,முடிவு தேதி தொடக்க தேதிக்கு முன்னதாக இருக்க முடியாது
+End date updated,முடிவு தேதி புதுப்பிக்கப்பட்டது
+End time was before start time. Adjusted to 1 hour after start.,முடிவு நேரம் தொடக்க நேரத்திற்கு முன்னதாக இருந்தது. தொடக்கத்திற்குப் பிறகு 1 மணி நேரமாக சரிசெய்யப்பட்டது.
+End:,முடிவு:
+Enter milestone name...,மைல்கல் பெயரை உள்ளிடவும்...
+Enter project name,திட்டப் பெயரை உள்ளிடவும்
+Enter task title...,பணி தலைப்பை உள்ளிடவும்...
+Enter template name,வார்ப்புரு பெயரை உள்ளிடவும்
+Enter your note... Use @name to mention someone,உங்கள் குறிப்பை உள்ளிடவும்... யாரையாவது குறிப்பிட @பெயர் பயன்படுத்தவும்
+Error,பிழை
+Error loading activity,செயல்பாட்டை ஏற்றுவதில் பிழை
+Error loading contacts,தொடர்புகளை ஏற்றுவதில் பிழை
+Error loading dashboard,டாஷ்போர்டை ஏற்றுவதில் பிழை
+Error loading project,திட்டத்தை ஏற்றுவதில் பிழை
+Error loading projects,திட்டங்களை ஏற்றுவதில் பிழை
+Error loading settings,அமைப்புகளை ஏற்றுவதில் பிழை
+Error loading tasks,பணிகளை ஏற்றுவதில் பிழை
+Error loading templates,வார்ப்புருக்களை ஏற்றுவதில் பிழை
+Est. Hours,மதிப்பிடப்பட்ட மணி நேரம்
+Estimated,மதிப்பிடப்பட்ட
+Estimated Cost,மதிப்பிடப்பட்ட செலவு
+Estimated Cost (€),மதிப்பிடப்பட்ட செலவு (€)
+Estimated Hours,மதிப்பிடப்பட்ட மணி நேரம்
+Estimated:,மதிப்பிடப்பட்ட:
+Evaluate potential risks and concerns,சாத்தியமான அபாயங்கள் மற்றும் கவலைகளை மதிப்பீடு செய்யவும்
+Event,சம்பவம்
+Event is required for event context,நிகழ்வு சூழலுக்கு நிகழ்வு தேவை
+Event is required when tracking context is 'event',கண்காணிப்பு சூழல் 'நிகழ்வு' ஆக இருக்கும்போது நிகழ்வு தேவை
+Event Type,நிகழ்வு வகை
+Events,நிகழ்வுகள்
+Events not available. Please run: bench --site orga.localhost migrate,நிகழ்வுகள் கிடைக்கவில்லை. இயக்கவும்: bench --site orga.localhost migrate
+Events:,நிகழ்வுகள்:
+Expert,நிபுணர்
+Explain why you are proposing a different time...,நீங்கள் ஏன் வேறு நேரத்தை முன்மொழிகிறீர்கள் என்பதை விளக்கவும்...
+Export,ஏற்றுமதி
+Export failed,ஏற்றுமதி தோல்வியடைந்தது
+Export JSON,JSON ஏற்றுமதி
+Exported,ஏற்றுமதி செய்யப்பட்டது
+Exported to timesheet {0},நேரத்தாள் {0} க்கு ஏற்றுமதி செய்யப்பட்டது
+External,வெளிப்புற
+Failed to add item,உருப்படியைச் சேர்ப்பதில் தோல்வி
+Failed to add note,குறிப்பைச் சேர்ப்பதில் தோல்வி
+Failed to add skill,திறனைச் சேர்ப்பதில் தோல்வி
+Failed to apply cascade changes: {0},அடுக்கு மாற்றங்களைப் பயன்படுத்துவதில் தோல்வி: {0}
+Failed to create defect,குறைபாட்டை உருவாக்குவதில் தோல்வி
+Failed to create dependency,சார்பை உருவாக்குவதில் தோல்வி
+Failed to create event,நிகழ்வை உருவாக்குவதில் தோல்வி
+Failed to create milestone,மைல்கல்லை உருவாக்குவதில் தோல்வி
+Failed to create project,திட்டத்தை உருவாக்குவதில் தோல்வி
+Failed to create task,பணியை உருவாக்குவதில் தோல்வி
+Failed to create time log,நேரப் பதிவை உருவாக்குவதில் தோல்வி
+Failed to delete,நீக்குவதில் தோல்வி
+Failed to delete comment,கருத்தை நீக்குவதில் தோல்வி
+Failed to delete contact,தொடர்பை நீக்குவதில் தோல்வி
+Failed to load,ஏற்றுவதில் தோல்வி
+Failed to load activity,செயல்பாட்டை ஏற்றுவதில் தோல்வி
+Failed to load assignments,ஒதுக்கீடுகளை ஏற்றுவதில் தோல்வி
+Failed to load contact,தொடர்பை ஏற்றுவதில் தோல்வி
+Failed to load dashboard data,டாஷ்போர்டு தரவை ஏற்றுவதில் தோல்வி
+Failed to load defects,குறைபாடுகளை ஏற்றுவதில் தோல்வி
+Failed to load events,நிகழ்வுகளை ஏற்றுவதில் தோல்வி
+Failed to load project,திட்டத்தை ஏற்றுவதில் தோல்வி
+Failed to load projects,திட்டங்களை ஏற்றுவதில் தோல்வி
+Failed to load report data,அறிக்கை தரவை ஏற்றுவதில் தோல்வி
+Failed to load settings,அமைப்புகளை ஏற்றுவதில் தோல்வி
+Failed to load tasks,பணிகளை ஏற்றுவதில் தோல்வி
+Failed to move task,பணியை நகர்த்துவதில் தோல்வி
+Failed to post comment,கருத்தைப் பதிவிடுவதில் தோல்வி
+Failed to propose new time,புதிய நேரத்தை முன்மொழிவதில் தோல்வி
+Failed to remove item,உருப்படியை நீக்குவதில் தோல்வி
+Failed to remove skill,திறனை நீக்குவதில் தோல்வி
+Failed to reorder milestones: {0},மைல்கல்களை மறுவரிசைப்படுத்துவதில் தோல்வி: {0}
+Failed to reorder tasks: {0},பணிகளை மறுவரிசைப்படுத்துவதில் தோல்வி: {0}
+Failed to reschedule dependent tasks: {0},சார்பு பணிகளை மறுதிட்டமிடுவதில் தோல்வி: {0}
+Failed to save,சேமிப்பதில் தோல்வி
+Failed to save preferences,விருப்பங்களைச் சேமிப்பதில் தோல்வி
+Failed to save settings,அமைப்புகளைச் சேமிப்பதில் தோல்வி
+Failed to submit request. Please try again.,கோரிக்கையைச் சமர்ப்பிப்பதில் தோல்வி. மீண்டும் முயற்சிக்கவும்.
+Failed to update item,உருப்படியைப் புதுப்பிப்பதில் தோல்வி
+Failed to update priority,முன்னுரிமையைப் புதுப்பிப்பதில் தோல்வி
+Failed to update task,பணியைப் புதுப்பிப்பதில் தோல்வி
+Failed to update tasks: {0},பணிகளைப் புதுப்பிப்பதில் தோல்வி: {0}
+Failed to upload avatar,அவதாரைப் பதிவேற்றுவதில் தோல்வி
+Feature,அம்சம்
+Features,அம்சங்கள்
+FF (Finish-Finish),FF (முடிவு-முடிவு)
+FF - Finish-to-Finish,FF - முடிவு-முடிவு
+Field has been updated,புலம் புதுப்பிக்கப்பட்டது
+Field name is required for 'Set Field Value' action,'புல மதிப்பை அமை' செயலுக்கு புலப் பெயர் தேவை
+Field {0} is not a Link field,புலம் {0} இணைப்பு புலம் அல்ல
+Field {0} not found in {1},புலம் {0} {1} இல் கிடைக்கவில்லை
+file,கோப்பு
+File,கோப்பு
+File does not belong to this task,கோப்பு இந்தப் பணிக்கு சொந்தமானது அல்ல
+File name is required,கோப்பு பெயர் தேவை
+File uploaded,கோப்பு பதிவேற்றப்பட்டது
+File {0} not found,கோப்பு {0} கிடைக்கவில்லை
+files,கோப்புகள்
+Files,கோப்புகள்
+Filter,வடிகட்டி
+Final Decision,இறுதி முடிவு
+Finance,நிதி
+Financial,நிதி சார்ந்த
+Finish-to-Finish,முடிவு-முடிவு
+Finish-to-Start,முடிவு-தொடக்கம்
+Flag,கொடி
+Flag for attention,கவனத்திற்கு கொடியிடு
+Flagged,கொடியிடப்பட்டது
+Focus Panel,கவனம் குழு
+Follows your system preference. Currently:,உங்கள் கணினி விருப்பத்தைப் பின்பற்றுகிறது. தற்போது:
+Frappe Project {0} not found,Frappe திட்டம் {0} கிடைக்கவில்லை
+Frappe Projects Migration,Frappe திட்டங்கள் இடம்பெயர்வு
+Frappe Projects module not available,Frappe திட்டங்கள் தொகுதி கிடைக்கவில்லை
+Frappe Projects module not installed,Frappe திட்டங்கள் தொகுதி நிறுவப்படவில்லை
+Frappe Projects sync is not enabled,Frappe திட்டங்கள் ஒத்திசைவு இயக்கப்படவில்லை
+Frappe Task DocType not found,Frappe பணி DocType கிடைக்கவில்லை
+Frappe Task has no project,Frappe பணிக்கு திட்டம் இல்லை
+Frappe Task {0} not found,Frappe பணி {0} கிடைக்கவில்லை
+Fri,வெள்
+From,இருந்து
+From Template,வார்ப்புருவிலிருந்து
+FS (Finish-Start),FS (முடிவு-தொடக்கம்)
+FS - Finish-to-Start (default),FS - முடிவு-தொடக்கம் (இயல்புநிலை)
+Full form view with audit trail,தணிக்கை வரிசையுடன் முழு படிவ காட்சி
+Full name,முழுப் பெயர்
+Gantt,காண்ட்
+Gantt Chart,Gantt விளக்கப்படம்
+Gantt View,Gantt காட்சி
+General Note,பொதுக் குறிப்பு
+Get started,தொடங்குங்கள்
+Go back,பின்செல்
+Go Back,Go Back
+Group by,குழுப்படுத்து
+Group dependency removed,குழு சார்பு நீக்கப்பட்டது
+Group dependency set,குழு சார்பு அமைக்கப்பட்டது
+Group removed,குழு நீக்கப்பட்டது
+Group updated,குழு புதுப்பிக்கப்பட்டது
+Hammock task dates are auto-calculated and cannot be changed manually,"ஊஞ்சல் பணி தேதிகள் தானியங்கியாகக் கணக்கிடப்படுகின்றன, கைமுறையாக மாற்ற இயலாது"
+Have a question or need assistance? Fill out the form below and our team will get back to you.,"கேள்வி அல்லது உதவி தேவையா? கீழே உள்ள படிவத்தை நிரப்பவும், எங்கள் குழு உங்களைத் தொடர்பு கொள்ளும்."
+Health,ஆரோக்கியம்
+Healthy,ஆரோக்கியமான
+Hello {0},வணக்கம் {0}
+Here's what's happening with your projects today.,இன்று உங்கள் திட்டங்களில் என்ன நடக்கிறது என்பது இங்கே.
+Hide,மறை
+High,உயர்
+History,வரலாறு
+Home,வீட்டில்
+Hourly Cost,மணி நேரச் செலவு
+Hours,மணி நேரம்
+hours,மணி நேரம்
+Hours Logged,பதிவு செய்யப்பட்ட மணி நேரம்
+ID,ஐடி
+Image must be smaller than 5 MB,படம் 5 MB க்கு குறைவாக இருக்க வேண்டும்
+Import,இறக்குமதி பொருள்கள்
+Import existing projects and tasks from Frappe Projects module,Frappe திட்டங்கள் தொகுதியிலிருந்து ஏற்கனவே உள்ள திட்டங்கள் மற்றும் பணிகளை இறக்குமதி செய்
+Import failed,இறக்குமதி தோல்வியடைந்தது
+Import Template,வார்ப்புருவை இறக்குமதி செய்
+Imported,இறக்குமதி செய்யப்பட்டது
+in,உள்ள
+In Progress,முன்னேற்றம்
+In Review,மதிப்பாய்வில்
+In-app notifications,பயன்பாட்டுள் அறிவிப்புகள்
+Inactive,செயலற்ற
+Initial Review,ஆரம்ப மதிப்பாய்வு
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,அனைத்து பணிகளையும் பார்க்க போதுமான அனுமதிகள் இல்லை
+Intermediate,இடைநிலை
+Internal,உள்ளக
+Invalid DocType,தவறான DocType
+Invalid DocType for import,இறக்குமதிக்கு தவறான DocType
+Invalid item type: {0},தவறான உருப்படி வகை: {0}
+Invalid JSON data,தவறான JSON தரவு
+Invalid note type. Must be one of: {0},தவறான குறிப்பு வகை. இவற்றில் ஒன்றாக இருக்க வேண்டும்: {0}
+Invalid project reference,தவறான திட்ட குறிப்பு
+Invalid reaction type. Must be one of: {0},தவறான எதிர்வினை வகை. இவற்றில் ஒன்றாக இருக்க வேண்டும்: {0}
+Invalid RSVP status,தவறான RSVP நிலை
+Invalid status. Must be one of: {0},தவறான நிலை. இவற்றில் ஒன்றாக இருக்க வேண்டும்: {0}
+Invalid status: {0},தவறான நிலை: {0}
+Invalid status: {0}. Must be one of: {1},தவறான நிலை: {0}. இவற்றில் ஒன்றாக இருக்க வேண்டும்: {1}
+Invalid tracking context: {0},தவறான கண்காணிப்பு சூழல்: {0}
+Invalid visibility. Must be one of: {0},தவறான தெரிவுநிலை. இவற்றில் ஒன்றாக இருக்க வேண்டும்: {0}
+Invitation: {0} - {1} at {2},அழைப்பு: {0} - {1} அன்று {2}
+Invite People,நபர்களை அழை
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,உருப்படி சேர்க்கப்பட்டது
+Item ID is required,உருப்படி ID தேவை
+Item removed,உருப்படி நீக்கப்பட்டது
+Item type is required,உருப்படி வகை தேவை
+Item {0} not found,உருப்படி {0} கிடைக்கவில்லை
+Job title or role,வேலைத் தலைப்பு அல்லது பங்கு
+Join Meeting,கூட்டத்தில் சேர்
+Just now,இப்போது தான்
+just now,இப்போது தான்
+Kanban,கான்பன்
+Kanban Board,கான்பன் வாரியம்
+Kanban View,கான்பன் காட்சி
+Keyboard Shortcuts,விசைப்பலகை குறுக்குவழிகள்
+Keyboard shortcuts (?),விசைப்பலகை குறுக்குவழிகள் (?)
+Last checked: {0},Last checked: {0}
+Last Updated,கடைசியாக புதுப்பிக்கப்பட்டது
+Last updated:,கடைசியாக புதுப்பிக்கப்பட்டது:
+Last Week,கடந்த வாரம்
+Latest Version,Latest Version
+Light,வெளிர்
+Link failed,இணைப்பு தோல்வியடைந்தது
+Link Task,பணியை இணை
+Linked,இணைக்கப்பட்ட
+Linked employee not found,இணைக்கப்பட்ட ஊழியர் கிடைக்கவில்லை
+Linked Tasks,இணைக்கப்பட்ட பணிகள்
+List,பட்டியலில்
+List View,பட்டியல் காட்சி
+Load failed,ஏற்றுதல் தோல்வியடைந்தது
+Load More,அதிகமாக ஏற்று
+Load more comments,மேலும் கருத்துகளை ஏற்று
+Loading activity...,செயல்பாட்டை ஏற்றுகிறது...
+Loading changes...,மாற்றங்களை ஏற்றுகிறது...
+Loading checklist...,சரிபார்ப்புப் பட்டியலை ஏற்றுகிறது...
+Loading comments...,கருத்துகளை ஏற்றுகிறது...
+Loading contact...,தொடர்பை ஏற்றுகிறது...
+Loading contacts...,தொடர்புகளை ஏற்றுகிறது...
+Loading dependencies...,சார்புகளை ஏற்றுகிறது...
+Loading details...,விவரங்களை ஏற்றுகிறது...
+Loading discussion...,கலந்துரையாடலை ஏற்றுகிறது...
+Loading events...,நிகழ்வுகளை ஏற்றுகிறது...
+Loading files...,கோப்புகளை ஏற்றுகிறது...
+Loading notes...,குறிப்புகளை ஏற்றுகிறது...
+Loading preferences...,விருப்பங்களை ஏற்றுகிறது...
+Loading project...,திட்டத்தை ஏற்றுகிறது...
+Loading projects...,திட்டங்களை ஏற்றுகிறது...
+Loading replies...,பதில்களை ஏற்றுகிறது...
+Loading report data...,அறிக்கை தரவை ஏற்றுகிறது...
+Loading settings...,அமைப்புகளை ஏற்றுகிறது...
+Loading task...,பணியை ஏற்றுகிறது...
+Loading templates...,வார்ப்புருக்களை ஏற்றுகிறது...
+Loading time logs...,நேரப் பதிவுகளை ஏற்றுகிறது...
+Loading your portal...,உங்கள் போர்ட்டலை ஏற்றுகிறது...
+Loading...,ஏற்றுகிறது ...
+Location,இடம்
+Log Time,நேரத்தைப் பதிவு செய்
+Logout,வெளியேறு
+Low,குறைந்த
+Make Offer,சலுகை வழங்கு
+Manager,மேலாளர்
+Manual Entry,கைமுறை பதிவு
+Margin,இலாப வரம்பு
+Mark all as read,அனைத்தையும் படிக்கப்பட்டதாகக் குறி
+Mark all read,அனைத்தையும் படிக்கப்பட்டதாகக் குறி
+Mark as read,படிக்கப்பட்டதாகக் குறி
+Mark as unread,படிக்கப்படாததாகக் குறி
+Mark read,படிக்கப்பட்டதாகக் குறி
+Marking...,குறிக்கிறது...
+Material,பொருள்
+Maybe,ஒருவேளை
+Medium,ஊடகம்
+Meeting,சந்தித்தல்
+Meeting Link,கூட்ட இணைப்பு
+Meeting title,கூட்டத் தலைப்பு
+Meeting URL,கூட்ட URL
+Meetings,கூட்டங்கள்
+Mention,குறிக்கப்பட்டது
+Message,செய்தி
+Message is required,செய்தி தேவை
+Message is required for '{0}' action,'{0}' செயலுக்கு செய்தி தேவை
+Migrate,இடம்பெயர்
+Migration Complete,இடம்பெயர்வு நிறைவடைந்தது
+Migration ID:,இடம்பெயர்வு ID:
+Migration log not found: {0},இடம்பெயர்வு பதிவு கிடைக்கவில்லை: {0}
+milestone,மைல்கல்
+Milestone,மைல் கல்
+Milestone created,மைல்கல் உருவாக்கப்பட்டது
+Milestone description has been saved.,மைல்கல் விளக்கம் சேமிக்கப்பட்டது.
+Milestone ID is required,மைல்கல் ID தேவை
+Milestone marked as Missed (past due date),மைல்கல் தவறியது என குறிக்கப்பட்டது (நிலுவைத் தேதி கடந்தது)
+Milestone moved,மைல்கல் நகர்த்தப்பட்டது
+Milestone Name,மைல்கல் பெயர்
+Milestone name has been saved.,மைல்கல் பெயர் சேமிக்கப்பட்டது.
+Milestone name is required,மைல்கல் பெயர் தேவை
+Milestone updated,மைல்கல் புதுப்பிக்கப்பட்டது
+Milestone {0} not found,மைல்கல் {0} கிடைக்கவில்லை
+Milestone {0} not in project {1},மைல்கல் {0} திட்டம் {1} இல் இல்லை
+milestones,மைல்கல்கள்
+Milestones,மைல்கல்கள்
+Milestones:,மைல்கல்கள்:
+Minutes,நிமிடங்கள்
+Missed,தவறியது
+Mixed,கலப்பு
+Mobile,மொபைல்
+Moderate,மிதமான
+Modified,மாற்றப்பட்டது
+"Modify details, time, or attendees","விவரங்கள், நேரம் அல்லது பங்கேற்பாளர்களை மாற்றவும்"
+Mon,திங்
+Month,மாதம்
+Move failed,நகர்த்துதல் தோல்வியடைந்தது
+Must be a positive number,நேர்மறை எண்ணாக இருக்க வேண்டும்
+Must finish before this finishes,இது முடிவதற்கு முன் முடிக்க வேண்டும்
+Must finish before this starts,இது தொடங்குவதற்கு முன் முடிக்க வேண்டும்
+Must start before this finishes,இது முடிவதற்கு முன் தொடங்க வேண்டும்
+Must start before this starts,இது தொடங்குவதற்கு முன் தொடங்க வேண்டும்
+My Assignments,என் ஒதுக்கீடுகள்
+My Projects,என் திட்டங்கள்
+My Schedule,என் அட்டவணை
+My Tasks,என் பணிகள்
+N/A,பொ/இ
+Name,பெயர்
+Name (A-Z),பெயர் (A-Z)
+Name (Z-A),பெயர் (Z-A)
+Name cannot exceed 255 characters,பெயர் 255 எழுத்துகளுக்கு மேல் இருக்க முடியாது
+Need help?,உதவி வேண்டுமா?
+Needs Attention,கவனம் தேவை
+Never,Never
+new activities,புதிய செயல்பாடுகள்
+New Activity,புதிய செயல்பாடு
+New activity,புதிய செயல்பாடு
+New Event,புதிய நிகழ்வு
+New index is required,புதிய குறியீட்டு எண் தேவை
+New Project,புதிய திட்டம்
+New tasks will auto-trail by default.,புதிய பணிகள் இயல்பாகவே தானியங்கி-தடத்தில் இருக்கும்.
+Newest First,புதியது முதலில்
+Next,அடுத்து
+Next 14 days,அடுத்த 14 நாட்கள்
+Next 30 days,அடுத்த 30 நாட்கள்
+Next 60 days,அடுத்த 60 நாட்கள்
+Next 7 days,அடுத்த 7 நாட்கள்
+Next 90 days,அடுத்த 90 நாட்கள்
+Next Week,அடுத்த வாரம்
+Next:,அடுத்தது:
+No,இல்லை
+No active assignments,செயலில் உள்ள ஒதுக்கீடுகள் இல்லை
+No active projects,செயலில் உள்ள திட்டங்கள் இல்லை
+No active timer found,செயலில் உள்ள நேர அளவி கிடைக்கவில்லை
+No activity selected,செயல்பாடு தேர்ந்தெடுக்கப்படவில்லை
+No assignments found,ஒதுக்கீடுகள் கிடைக்கவில்லை
+No attendees,பங்கேற்பாளர்கள் இல்லை
+no change,மாற்றம் இல்லை
+No changes for this field.,இந்தப் புலத்திற்கு மாற்றங்கள் இல்லை.
+No changes recorded for this activity.,இந்தச் செயல்பாட்டிற்கு மாற்றங்கள் பதிவு செய்யப்படவில்லை.
+No checklist items yet,சரிபார்ப்புப் பட்டியல் உருப்படிகள் இன்னும் இல்லை
+No checklist items yet.,சரிபார்ப்புப் பட்டியல் உருப்படிகள் இன்னும் இல்லை.
+No comments yet,இதுவரை இல்லை
+No comments yet.,கருத்துகள் இன்னும் இல்லை.
+No contacts available,தொடர்புகள் கிடைக்கவில்லை
+No content for this tab,இந்தத் தாவலுக்கு உள்ளடக்கம் இல்லை
+No data available,தரவு கிடைக்கவில்லை
+No data available for the selected filters,தேர்ந்தெடுக்கப்பட்ட வடிகட்டிகளுக்கு தரவு கிடைக்கவில்லை
+No data to export,ஏற்றுமதி செய்ய தரவு இல்லை
+No dates set,தேதிகள் அமைக்கப்படவில்லை
+No defects reported,குறைபாடுகள் புகாரளிக்கப்படவில்லை
+No dependencies defined,சார்புகள் வரையறுக்கப்படவில்லை
+No description,விளக்கம் இல்லை
+No discussion yet.,கலந்துரையாடல் இன்னும் இல்லை.
+No documents attached,ஆவணங்கள் இணைக்கப்படவில்லை
+No due date,நிலுவைத் தேதி இல்லை
+No employee linked to this resource,இந்த வளத்துடன் இணைக்கப்பட்ட ஊழியர் இல்லை
+No ERPNext employee linked to resource,வளத்துடன் இணைக்கப்பட்ட ERPNext ஊழியர் இல்லை
+No events found,நிகழ்வுகள் கிடைக்கவில்லை
+No files attached yet.,கோப்புகள் இன்னும் இணைக்கப்படவில்லை.
+No Frappe Project linked,Frappe திட்டம் இணைக்கப்படவில்லை
+No Grouping,குழுப்படுத்தல் இல்லை
+No items,உருப்படிகள் இல்லை
+No matching tasks,பொருந்தும் பணிகள் இல்லை
+No matching tasks found,பொருந்தும் பணிகள் கிடைக்கவில்லை
+No migration history,இடம்பெயர்வு வரலாறு இல்லை
+No Milestone,மைல்கல் இல்லை
+No milestones,மைல்கல்கள் இல்லை
+No milestones defined for this project.,இந்தத் திட்டத்திற்கு மைல்கல்கள் வரையறுக்கப்படவில்லை.
+No notes yet.,குறிப்புகள் இன்னும் இல்லை.
+No notes yet. Add a due diligence note to track progress.,குறிப்புகள் இன்னும் இல்லை. முன்னேற்றத்தைக் கண்காணிக்க ஒரு சரிபார்ப்பு குறிப்பைச் சேர்க்கவும்.
+No notifications,அறிவிப்புகள் இல்லை
+No Orga Project linked to Frappe Project {0},Frappe திட்டம் {0} உடன் இணைக்கப்பட்ட Orga திட்டம் இல்லை
+No overdue tasks,தாமதமான பணிகள் இல்லை
+No pending cascade changes,நிலுவையில் உள்ள அடுக்கு மாற்றங்கள் இல்லை
+No predecessors - this task can start independently,முன்னோடிகள் இல்லை - இந்தப் பணி சுயாதீனமாகத் தொடங்கலாம்
+No project,திட்டம் இல்லை
+No projects found,திட்டங்கள் கிடைக்கவில்லை
+No Projects Yet,இன்னும் திட்டங்கள் இல்லை
+No recent activity,சமீபத்திய செயல்பாடு இல்லை
+No related documents,தொடர்புடைய ஆவணங்கள் இல்லை
+No resolved threads.,தீர்க்கப்பட்ட தொடர்கள் இல்லை.
+No resources found,வளங்கள் கிடைக்கவில்லை
+No results found,முடிவுகள் கிடைக்கவில்லை
+No skills listed,திறன்கள் பட்டியலிடப்படவில்லை
+No skills recorded yet,திறன்கள் இன்னும் பதிவு செய்யப்படவில்லை
+No successors - no tasks are waiting for this one,வாரிசுகள் இல்லை - இந்தப் பணிக்காக எந்தப் பணியும் காத்திருக்கவில்லை
+No task selected,பணி தேர்ந்தெடுக்கப்படவில்லை
+No tasks assigned to you,உங்களுக்கு ஒதுக்கப்பட்ட பணிகள் இல்லை
+No tasks available to add,சேர்க்க பணிகள் கிடைக்கவில்லை
+No tasks found,பணிகள் கிடைக்கவில்லை
+No tasks linked to this milestone,இந்த மைல்கல்லுடன் இணைக்கப்பட்ட பணிகள் இல்லை
+No tasks with dates to display,காட்ட தேதிகளுடன் கூடிய பணிகள் இல்லை
+No tasks yet,இன்னும் பணிகள் இல்லை
+No team members,குழு உறுப்பினர்கள் இல்லை
+No template,வார்ப்புரு இல்லை
+No templates yet,இன்னும் வார்ப்புருக்கள் இல்லை
+No time data found,நேரத் தரவு கிடைக்கவில்லை
+No time logged today,இன்று நேரம் பதிவு செய்யப்படவில்லை
+No time logged yet,இன்னும் நேரம் பதிவு செய்யப்படவில்லை
+No time logs for this period,இந்தக் காலகட்டத்திற்கு நேரப் பதிவுகள் இல்லை
+No time logs found,நேரப் பதிவுகள் கிடைக்கவில்லை
+No unread notifications,படிக்கப்படாத அறிவிப்புகள் இல்லை
+No update information available yet.,No update information available yet.
+None,யாரும்
+Not found,கிடைக்கவில்லை
+Not permitted,அனுமதி இல்லை
+Not permitted to access this project,இந்தத் திட்டத்தை அணுக அனுமதி இல்லை
+Not permitted to access this task,இந்தப் பணியை அணுக அனுமதி இல்லை
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,இந்த ஆவணத்தில் கருத்து தெரிவிக்க அனுமதி இல்லை
+Not permitted to create clients,வாடிக்கையாளர்களை உருவாக்க அனுமதி இல்லை
+Not permitted to delete this client,இந்த வாடிக்கையாளரை நீக்க அனுமதி இல்லை
+Not permitted to delete this defect,இந்தக் குறைபாட்டை நீக்க அனுமதி இல்லை
+Not permitted to delete this note,இந்தக் குறிப்பை நீக்க அனுமதி இல்லை
+Not permitted to delete this project,இந்தத் திட்டத்தை நீக்க அனுமதி இல்லை
+Not permitted to delete this task,இந்தப் பணியை நீக்க அனுமதி இல்லை
+Not permitted to delete this time log,இந்த நேரப் பதிவை நீக்க அனுமதி இல்லை
+Not permitted to invite clients,வாடிக்கையாளர்களை அழைக்க அனுமதி இல்லை
+Not permitted to modify client access,வாடிக்கையாளர் அணுகலை மாற்ற அனுமதி இல்லை
+Not permitted to modify this project,இந்தத் திட்டத்தை மாற்ற அனுமதி இல்லை
+Not permitted to update settings,அமைப்புகளைப் புதுப்பிக்க அனுமதி இல்லை
+Not permitted to update this client,இந்த வாடிக்கையாளரைப் புதுப்பிக்க அனுமதி இல்லை
+Not permitted to view this client,இந்த வாடிக்கையாளரைப் பார்க்க அனுமதி இல்லை
+not sent,அனுப்பப்படவில்லை
+Not set,அமைக்கப்படவில்லை
+Not specified,குறிப்பிடப்படவில்லை
+Note,குறிப்பு
+Note (optional),குறிப்பு (விருப்பமானது)
+Note Content,குறிப்பு உள்ளடக்கம்
+Note content is required,குறிப்பு உள்ளடக்கம் தேவை
+Note name is required,குறிப்பு பெயர் தேவை
+Note not found,குறிப்பு கிடைக்கவில்லை
+Note Type,குறிப்பு வகை
+Notes,குறிப்புகள்
+Notification,அறிவித்தல்
+Notification not found,அறிவிப்பு கிடைக்கவில்லை
+Notifications,அறிவிப்புகள்
+Off Track,பாதையிலிருந்து விலகியது
+Offer,சலுகை
+Offer Prepared,சலுகை தயாரிக்கப்பட்டது
+Oldest First,பழையது முதலில்
+On Hold,நிறுத்தி வைக்கப்பட்டது
+On Leave,விடுப்பில்
+On Track,சரியான பாதையில்
+On-Time Rate,சரியான நேர விகிதம்
+Only administrators can delete activities,நிர்வாகிகள் மட்டுமே செயல்பாடுகளை நீக்க முடியும்
+Only the comment author or administrators can delete comments,கருத்து ஆசிரியர் அல்லது நிர்வாகிகள் மட்டுமே கருத்துகளை நீக்க முடியும்
+Only you and admins,நீங்களும் நிர்வாகிகளும் மட்டும்
+Open,திறந்த
+Open in Desk,Desk இல் திற
+Open Task Log,பணிப் பதிவைத் திற
+Open Tasks,திறந்த பணிகள்
+Optional,விருப்பமானது
+optional,விருப்பமானது
+Or email us directly at,அல்லது நேரடியாக மின்னஞ்சல் செய்யுங்கள்
+Orga Project {0} from Frappe Projects,Frappe திட்டங்களிலிருந்து Orga திட்டம் {0}
+Orga Task {0} from Frappe,Frappe இலிருந்து Orga பணி {0}
+Organizer,ஒருங்கிணைப்பாளர்
+Other,வேறு
+Over Budget,வரவு செலவுத் திட்டத்தை மீறியது
+Overall Progress,ஒட்டுமொத்த முன்னேற்றம்
+Overall Utilization,ஒட்டுமொத்த பயன்பாடு
+Overallocated,அதிகமாக ஒதுக்கப்பட்டது
+Overdue,தாமதமானது
+overdue,தாமதமானது
+Overdue Tasks,தாமதமான பணிகள்
+Overview,மேலோட்டம்
+Owner,சொந்தக்காரர்
+Page Not Found,பக்கம் கிடைக்கவில்லை
+Parent,பெற்றோர்
+Parent comment must belong to the same document,பெற்றோர் கருத்து அதே ஆவணத்திற்கு சொந்தமாக இருக்க வேண்டும்
+Parent comment not found,பெற்றோர் கருத்து கிடைக்கவில்லை
+Parent project not synced to Frappe yet,பெற்றோர் திட்டம் இன்னும் Frappe உடன் ஒத்திசைக்கப்படவில்லை
+Parent project sync not enabled,பெற்றோர் திட்ட ஒத்திசைவு இயக்கப்படவில்லை
+Partner,பங்குதாரர்
+Pending,முடிவுபெறாத
+per page,ஒரு பக்கத்திற்கு
+Perform initial assessment and background check,ஆரம்ப மதிப்பீடு மற்றும் பின்னணி சரிபார்ப்பு செய்யவும்
+Permanently remove this event,இந்த நிகழ்வை நிரந்தரமாக நீக்கு
+Permanently remove this task,இந்தப் பணியை நிரந்தரமாக நீக்கு
+Phone,தொலைபேசி
+Pin,பொருத்து
+Pin Activity,செயல்பாட்டைப் பொருத்து
+Pin to top,மேலே பொருத்து
+Pinned,பொருத்தப்பட்டது
+Planned budget for this task,இந்தப் பணிக்கான திட்டமிடப்பட்ட வரவு செலவுத் திட்டம்
+Planning,திட்டமிடல்
+Please describe your question or issue in detail...,உங்கள் கேள்வி அல்லது சிக்கலை விரிவாக விவரிக்கவும்...
+Please login to access Orga,Orga ஐ அணுக உள்நுழையவும்
+Please login to access the client portal,வாடிக்கையாளர் போர்ட்டலை அணுக உள்நுழையவும்
+Please respond to this invitation in Orga,இந்த அழைப்பிற்கு Orga இல் பதிலளிக்கவும்
+Please select an image file,ஒரு படக் கோப்பைத் தேர்ந்தெடுக்கவும்
+Please try again,தயவு செய்து மீண்டும் முயற்சிக்கவும்
+Please type,தயவுசெய்து தட்டச்சு செய்யவும்
+Portal,போர்ட்டல்
+Portal access revoked for {0},{0} க்கான போர்ட்டல் அணுகல் திரும்பப்பெறப்பட்டது
+Portal user created successfully. Welcome email {0},போர்ட்டல் பயனர் வெற்றிகரமாக உருவாக்கப்பட்டார். வரவேற்பு மின்னஞ்சல் {0}
+Post,போஸ்ட்
+Powered by,இயக்குபவர்
+Powered by Tonic,Tonic ஆல் இயக்கப்படுகிறது
+Predecessors (Blocked By),முன்னோடிகள் (தடுக்கப்பட்டவை)
+Preferences,விருப்பங்கள்
+Preferences saved successfully,விருப்பங்கள் வெற்றிகரமாக சேமிக்கப்பட்டன
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)","தானியங்கி உருவாக்கப்பட்ட திட்டக் குறியீடுகளுக்கான முன்னொட்டு (எ.கா., ORG-2026-0001)"
+Prepare and document offer terms,சலுகை விதிமுறைகளைத் தயாரித்து ஆவணப்படுத்தவும்
+Press,அழுத்தவும்
+Preview,முன்னோட்டம்
+Preview cascade before applying,பயன்படுத்துவதற்கு முன் அடுக்கு மாற்றங்களை முன்னோட்டம் பார்
+Previous,முந்தைய
+Priority,முதன்மை
+Priority assigned to new tasks,புதிய பணிகளுக்கு ஒதுக்கப்பட்ட முன்னுரிமை
+Priority updated,முன்னுரிமை புதுப்பிக்கப்பட்டது
+Proficiency,தேர்ச்சி
+Profile,சுயவிவரம்
+Progress,முன்னேற்றம்
+Progress (High-Low),முன்னேற்றம் (அதிகம்-குறைவு)
+Progress (Low-High),முன்னேற்றம் (குறைவு-அதிகம்)
+Progress Overview,முன்னேற்ற மேலோட்டம்
+Progress updated,முன்னேற்றம் புதுப்பிக்கப்பட்டது
+Project,திட்டம்
+Project budget has been saved.,திட்ட வரவு செலவுத் திட்டம் சேமிக்கப்பட்டது.
+Project code (e.g. ORG-2026-0001),திட்டக் குறியீடு (எ.கா. ORG-2026-0001)
+Project Code Prefix,திட்டக் குறியீடு முன்னொட்டு
+Project created,திட்டம் உருவாக்கப்பட்டது
+Project deleted,திட்டம் நீக்கப்பட்டது
+Project description has been saved.,திட்ட விளக்கம் சேமிக்கப்பட்டது.
+Project Details,திட்ட விவரங்கள்
+Project end date has been saved.,திட்ட முடிவு தேதி சேமிக்கப்பட்டது.
+Project Files,திட்டக் கோப்புகள்
+Project has no linked client,திட்டத்துடன் இணைக்கப்பட்ட வாடிக்கையாளர் இல்லை
+Project Health,திட்ட ஆரோக்கியம்
+Project Info,திட்டத் தகவல்
+Project is required,திட்டம் தேவை
+Project is required for project context,திட்ட சூழலுக்கு திட்டம் தேவை
+Project is required when tracking context is 'project',கண்காணிப்பு சூழல் 'திட்டம்' ஆக இருக்கும்போது திட்டம் தேவை
+Project Manager,திட்ட மேலாளர்
+Project Name,திட்டப் பெயர்
+Project name and template name are required,திட்டப் பெயர் மற்றும் வார்ப்புருப் பெயர் தேவை
+Project name is required,திட்டப் பெயர் தேவை
+Project not found,திட்டம் கிடைக்கவில்லை
+Project not found or you do not have access,திட்டம் கிடைக்கவில்லை அல்லது உங்களுக்கு அணுகல் இல்லை
+Project settings,திட்ட அமைப்புகள்
+Project start date has been saved.,திட்ட தொடக்க தேதி சேமிக்கப்பட்டது.
+Project title has been saved.,திட்ட தலைப்பு சேமிக்கப்பட்டது.
+Project Type,திட்ட வகை
+Project updated,திட்டம் புதுப்பிக்கப்பட்டது
+Project {0} linked to client {1},திட்டம் {0} வாடிக்கையாளர் {1} உடன் இணைக்கப்பட்டது
+Project {0} not found,திட்டம் {0} கிடைக்கவில்லை
+Project {0} to Frappe Projects,திட்டம் {0} Frappe திட்டங்களுக்கு
+Project:,திட்டம்:
+projects,திட்டங்கள்
+Projects,திட்டங்கள்
+Projects created:,உருவாக்கப்பட்ட திட்டங்கள்:
+Projects Overview,திட்டங்கள் மேலோட்டம்
+Projects skipped:,தவிர்க்கப்பட்ட திட்டங்கள்:
+Projects updated:,புதுப்பிக்கப்பட்ட திட்டங்கள்:
+Promote failed,உயர்த்துதல் தோல்வியடைந்தது
+Promote to task,பணியாக உயர்த்து
+Promoted to task,பணியாக உயர்த்தப்பட்டது
+Propose,முன்மொழி
+Propose New Time,புதிய நேரத்தை முன்மொழி
+Propose Time,நேரத்தை முன்மொழி
+Proposed End,முன்மொழியப்பட்ட முடிவு
+Proposed Start,முன்மொழியப்பட்ட தொடக்கம்
+Public,பொது
+Quick Action,விரைவு செயல்
+Quick Actions,விரைவு செயல்கள்
+Quick Stats,விரைவு புள்ளிவிவரங்கள்
+Rates,விகிதங்கள்
+Receive notifications via email,மின்னஞ்சல் வழியாக அறிவிப்புகளைப் பெறு
+Receive notifications within the application,பயன்பாட்டிற்குள் அறிவிப்புகளைப் பெறு
+Recent Activity,சமீபத்திய நடவடிக்கை
+Recipient {0} is not a valid user,பெறுநர் {0} செல்லுபடியாகும் பயனர் அல்ல
+Reference,குறிப்பு
+Refresh,இளைப்பா (ற்) று
+Related,தொடர்புடைய
+Related Company (optional),தொடர்புடைய நிறுவனம் (விருப்பமானது)
+Related Documents,தொடர்புடைய ஆவணங்கள்
+Related Project,தொடர்புடைய திட்டம்
+Remaining,மீதமுள்ள
+Reminder,நினைவூட்டல்
+Reminder Lead Time,நினைவூட்டல் முன்கூட்டிய நேரம்
+Reminder: {0} - {1} at {2},நினைவூட்டல்: {0} - {1} அன்று {2}
+Remove,அகற்று
+Remove dependency,சார்பை நீக்கு
+Remove dependency on,சார்பை நீக்கு
+Remove from group,குழுவிலிருந்து நீக்கு
+Remove group dependency,குழு சார்பை நீக்கு
+Remove skill,திறனை நீக்கு
+Reopen,மீண்டும் திற
+Reopen thread,தொடரை மீண்டும் திற
+reopened,மீண்டும் திறக்கப்பட்டது
+replies,பதில்கள்
+Reply,பதில்
+reply,பதில்
+Replying to,பதிலளிக்கிறது
+Replying to comment,கருத்திற்கு பதிலளிக்கிறது
+Report Defect,குறைபாட்டைப் புகாரளி
+Reported Date,புகாரளிக்கப்பட்ட தேதி
+Reports,அறிக்கைகள்
+Reports To,அறிக்கை அளிக்கும் நபர்
+Request Submitted!,கோரிக்கை சமர்ப்பிக்கப்பட்டது!
+Required,தேவை
+required,தேவை
+Research,ஆராய்ச்சி
+Reset to Defaults,இயல்புநிலைகளுக்கு மீட்டமை
+Resolve,தீர்வு காண்
+Resolve thread,தொடரைத் தீர்
+Resolved,தீர்க்கப்பட்டது
+Resolved date cannot be before reported date,தீர்வு தேதி புகாரளிக்கப்பட்ட தேதிக்கு முன்னதாக இருக்க முடியாது
+Resource,வளம்
+Resource and skill name are required,வளம் மற்றும் திறன் பெயர் தேவை
+Resource is already an attendee,வளம் ஏற்கனவே ஒரு பங்கேற்பாளர்
+Resource name is required,வள பெயர் தேவை
+Resource not found,வளம் கிடைக்கவில்லை
+Resource synced from employee {0},ஊழியர் {0} இலிருந்து வளம் ஒத்திசைக்கப்பட்டது
+Resource {0} is already assigned to this task ({1}),வளம் {0} ஏற்கனவே இந்தப் பணிக்கு ஒதுக்கப்பட்டுள்ளது ({1})
+Resource {0} not found,வளம் {0} கிடைக்கவில்லை
+Resources,வளங்கள்
+Retry,மீண்டும் முயற்சி செய்
+Review,விமர்சனம்
+Review all relevant documents and contracts,அனைத்து தொடர்புடைய ஆவணங்கள் மற்றும் ஒப்பந்தங்களை மதிப்பாய்வு செய்யவும்
+Reviews,விமர்சனங்கள்
+Risk Assessment,அபாய மதிப்பீடு
+Rollback,பின்னோக்கி நகர்த்து
+Rolled back,பின்னோக்கி நகர்த்தப்பட்டது
+Room or address,அறை அல்லது முகவரி
+RSVP,RSVP
+Safety,பாதுகாப்பு
+Sat,சனி
+Save,சேமிக்கவும்
+"Save a project as a template, or import one from a JSON file.","ஒரு திட்டத்தை வார்ப்புருவாகச் சேமிக்கவும், அல்லது JSON கோப்பிலிருந்து ஒன்றை இறக்குமதி செய்யவும்."
+Save as Template,வார்ப்புருவாகச் சேமி
+Save Changes,மாற்றங்களைச் சேமி
+Save failed,சேமிப்பு தோல்வியடைந்தது
+Save Preferences,விருப்பங்களைச் சேமி
+Save Template,வார்ப்புருவைச் சேமி
+Saving...,சேமிக்கிறது ...
+Schedule,அட்டவணை
+Schedule type is required for scheduled triggers,திட்டமிடப்பட்ட தூண்டுதல்களுக்கு அட்டவணை வகை தேவை
+Scheduled,திட்டமிடப்பட்ட
+Search,தேடல்
+"Search by name, email, or skill...","பெயர், மின்னஞ்சல் அல்லது திறன் மூலம் தேடு..."
+Search for a project...,ஒரு திட்டத்தைத் தேடு...
+Search for a task...,ஒரு பணியைத் தேடு...
+Search for an event...,ஒரு நிகழ்வைத் தேடு...
+Search for people to invite...,அழைக்க நபர்களைத் தேடு...
+Search tasks to link...,இணைக்க பணிகளைத் தேடு...
+Search tasks...,பணிகளைத் தேடு...
+Search...,தேடல் ...
+Searching...,தேடுகிறது...
+Seen,பார்க்கப்பட்டது
+Select a project if your request is related to a specific project.,உங்கள் கோரிக்கை ஒரு குறிப்பிட்ட திட்டத்துடன் தொடர்புடையதாக இருந்தால் ஒரு திட்டத்தைத் தேர்ந்தெடுக்கவும்.
+Select a project...,ஒரு திட்டத்தைத் தேர்ந்தெடுக்கவும்...
+Select a task from the Gantt chart to view and manage its details.,Gantt விளக்கப்படத்திலிருந்து ஒரு பணியைத் தேர்ந்தெடுத்து அதன் விவரங்களைப் பார்க்கவும் நிர்வகிக்கவும்.
+Select a task from the list or Kanban board to view and manage its details.,பட்டியல் அல்லது கான்பன் பலகையிலிருந்து ஒரு பணியைத் தேர்ந்தெடுத்து அதன் விவரங்களைப் பார்க்கவும் நிர்வகிக்கவும்.
+Select a template...,ஒரு வார்ப்புருவைத் தேர்ந்தெடுக்கவும்...
+Select priority...,முன்னுரிமையைத் தேர்ந்தெடுக்கவும்...
+Select status...,நிலையைத் தேர்ந்தெடுக்கவும்...
+Select task...,பணியைத் தேர்ந்தெடுக்கவும்...
+Select type...,வகையைத் தேர்ந்தெடுக்கவும்...
+Selection,தேர்வு
+Send,அனுப்பு
+Send comment,கருத்தை அனுப்பு
+Send email invitations to attendees,பங்கேற்பாளர்களுக்கு மின்னஞ்சல் அழைப்பிதழ்களை அனுப்பு
+Send Invitations,அழைப்பிதழ்களை அனுப்பு
+Send notification when a task is assigned to a user,ஒரு பணி பயனருக்கு ஒதுக்கப்படும்போது அறிவிப்பை அனுப்பு
+Send notification when task status changes,பணி நிலை மாறும்போது அறிவிப்பை அனுப்பு
+Send reminder before task due date,பணி நிலுவைத் தேதிக்கு முன் நினைவூட்டல் அனுப்பு
+sent,அனுப்பப்பட்டது
+Set rate,விகிதத்தை அமை
+Settings,அமைப்புகள்
+Settings saved successfully,அமைப்புகள் வெற்றிகரமாக சேமிக்கப்பட்டன
+Severity,தீவிரம்
+SF (Start-Finish),SF (தொடக்கம்-முடிவு)
+SF - Start-to-Finish,SF - தொடக்கம்-முடிவு
+Show,காட்டு
+Show all,அனைத்தையும் காட்டு
+Show all changes,அனைத்து மாற்றங்களையும் காட்டு
+Show Archived,காப்பகப்படுத்தப்பட்டவற்றைக் காட்டு
+Show full diff,முழு வேறுபாட்டைக் காட்டு
+Show less,குறைவாகக் காட்டு
+Show more,மேலும் காட்டு
+Skill added,திறன் சேர்க்கப்பட்டது
+Skill is required,திறன் தேவை
+Skill Name,திறன் பெயர்
+Skill removed,திறன் நீக்கப்பட்டது
+Skill {0} already exists for this resource,திறன் {0} இந்த வளத்திற்கு ஏற்கனவே உள்ளது
+Skills,திறன்கள்
+Skills & Competencies,திறன்கள் & தகுதிகள்
+Skip already migrated projects,ஏற்கனவே இடம்பெயர்க்கப்பட்ட திட்டங்களைத் தவிர்
+Sort by,வரிசைப்படுத்து
+Sort: Due Date,வரிசை: நிலுவைத் தேதி
+Sort: Priority,வரிசை: முன்னுரிமை
+Sort: Project,வரிசை: திட்டம்
+Sort: Status,வரிசை: நிலை
+Sort: Task,வரிசை: பணி
+Source Code,மூலக் குறியீடு
+Spent,செலவிட்டது
+Spent:,செலவிட்டது:
+SS (Start-Start),SS (தொடக்கம்-தொடக்கம்)
+SS - Start-to-Start,SS - தொடக்கம்-தொடக்கம்
+Standalone,தனித்தியங்கும்
+Start,தொடக்கம்
+Start a discussion below,கீழே கலந்துரையாடலைத் தொடங்கு
+Start Date,தொடக்க தேதி
+Start date,தொடக்க தேதி
+Start Date (Earliest),தொடக்க தேதி (முந்தையது)
+Start date updated,தொடக்க தேதி புதுப்பிக்கப்பட்டது
+Start date/time is required,தொடக்க தேதி/நேரம் தேவை
+Start Migration,இடம்பெயர்வைத் தொடங்கு
+Start the conversation below.,கீழே உரையாடலைத் தொடங்கவும்.
+Start Timer,நேர அளவியைத் தொடங்கு
+Start typing to search...,தேட தட்டச்சு செய்யத் தொடங்கவும்...
+Start-to-Finish,தொடக்கம்-முடிவு
+Start-to-Start,தொடக்கம்-தொடக்கம்
+Start:,தொடக்கம்:
+Statistics reset,புள்ளிவிவரங்கள் மீட்டமைக்கப்பட்டன
+Status,அந்தஸ்து
+Status assigned to new projects,புதிய திட்டங்களுக்கு ஒதுக்கப்பட்ட நிலை
+Status assigned to new tasks,புதிய பணிகளுக்கு ஒதுக்கப்பட்ட நிலை
+Status Changes,நிலை மாற்றங்கள்
+Status updated,நிலை புதுப்பிக்கப்பட்டது
+Status:,நிலை:
+Stop,நிறுத்து
+Stop & Save,நிறுத்து & சேமி
+Stop Timer,நேர அளவியை நிறுத்து
+Stops current timer and starts for this event,தற்போதைய நேர அளவியை நிறுத்தி இந்த நிகழ்வுக்குத் தொடங்கும்
+Stops current timer and starts for this task,தற்போதைய நேர அளவியை நிறுத்தி இந்தப் பணிக்குத் தொடங்கும்
+Subject,பொருள்
+Subject cannot exceed 255 characters,பொருள் 255 எழுத்துகளுக்கு மேல் இருக்க முடியாது
+Subject is required,பொருள் தேவை
+Submit,Submit &#39;
+Submit Another Request,மற்றொரு கோரிக்கையைச் சமர்ப்பி
+Submit Request,கோரிக்கையைச் சமர்ப்பி
+Submitting...,சமர்ப்பித்தல் ...
+Successfully saved,வெற்றிகரமாக சேமிக்கப்பட்டது
+Successors (Blocking),வாரிசுகள் (தடுக்கும்)
+Sun,ஞாயி
+Supplier,சப்ளையர்
+Support,ஆதரவு
+Switch to this event,இந்த நிகழ்வுக்கு மாறு
+Switch to this task,இந்தப் பணிக்கு மாறு
+Sync direction is set to Frappe to Orga only,ஒத்திசைவு திசை Frappe இலிருந்து Orga க்கு மட்டும் அமைக்கப்பட்டுள்ளது
+Sync direction is set to Orga to Frappe only,ஒத்திசைவு திசை Orga இலிருந்து Frappe க்கு மட்டும் அமைக்கப்பட்டுள்ளது
+Sync not enabled for this project,இந்தத் திட்டத்திற்கு ஒத்திசைவு இயக்கப்படவில்லை
+System,முறை
+Table,மேசை
+Take ownership of this task,இந்தப் பணியின் உரிமையை ஏற்றுக்கொள்
+Target Date,இலக்கு தேதி
+Target End,இலக்கு முடிவு
+Target Project,இலக்கு திட்டம்
+Target user is required for '{0}' action,'{0}' செயலுக்கு இலக்கு பயனர் தேவை
+task,பணி
+Task,பணி
+Task '{0}' is due on {1}.,பணி '{0}' {1} அன்று நிலுவையில் உள்ளது.
+Task and resource are required,பணி மற்றும் வளம் தேவை
+Task Assignment,பணி ஒதுக்கீடு
+Task cannot be its own parent,பணி தனக்கே பெற்றோராக இருக்க முடியாது
+Task cannot depend on itself,பணி தன்னையே சார்ந்திருக்க முடியாது
+Task cannot depend on the group it belongs to,பணி தான் சேர்ந்த குழுவை சார்ந்திருக்க முடியாது
+Task created,பணி உருவாக்கப்பட்டது
+Task deleted,பணி நீக்கப்பட்டது
+Task description has been saved.,பணி விளக்கம் சேமிக்கப்பட்டது.
+Task Details,பணி விவரங்கள்
+Task due in {0} days: {1},{0} நாட்களில் நிலுவையில் உள்ள பணி: {1}
+Task due today: {0},இன்று நிலுவையில் உள்ள பணி: {0}
+Task due tomorrow: {0},நாளை நிலுவையில் உள்ள பணி: {0}
+Task duplicated,பணி நகலெடுக்கப்பட்டது
+Task Group,பணிக் குழு
+Task ID is required,பணி ID தேவை
+Task is blocked by incomplete dependencies,முடிக்கப்படாத சார்புகளால் பணி தடுக்கப்பட்டுள்ளது
+Task is cancelled,பணி ரத்து செய்யப்பட்டது
+Task is completed,பணி நிறைவடைந்தது
+Task is no longer blocked by a group,பணி இனி ஒரு குழுவால் தடுக்கப்படவில்லை
+Task is required for task context,பணி சூழலுக்கு பணி தேவை
+Task is required when tracking context is 'task',கண்காணிப்பு சூழல் 'பணி' ஆக இருக்கும்போது பணி தேவை
+Task linked,பணி இணைக்கப்பட்டது
+Task moved,பணி நகர்த்தப்பட்டது
+Task name,பணி பெயர்
+Task name is required,பணி பெயர் தேவை
+Task removed from group,குழுவிலிருந்து பணி நீக்கப்பட்டது
+Task Subject,பணி பொருள்
+Task subject is required,பணி பொருள் தேவை
+Task Type,பணி வகை
+Task unblocked: {0},பணி தடையற்றது: {0}
+Task unlinked,பணி இணைப்பு நீக்கப்பட்டது
+Task updated,பணி புதுப்பிக்கப்பட்டது
+Task {0} not found,பணி {0} கிடைக்கவில்லை
+Task {0} not in project {1},பணி {0} திட்டம் {1} இல் இல்லை
+Task {0} to Frappe,பணி {0} Frappe க்கு
+Tasks,பணிகள்
+tasks,பணிகள்
+Tasks and milestones will be created with dates relative to the project start date.,திட்ட தொடக்க தேதியை சார்ந்த தேதிகளுடன் பணிகள் மற்றும் மைல்கல்கள் உருவாக்கப்படும்.
+Tasks assigned to you across all projects.,அனைத்து திட்டங்களிலும் உங்களுக்கு ஒதுக்கப்பட்ட பணிகள்.
+Tasks created:,உருவாக்கப்பட்ட பணிகள்:
+Tasks from projects you manage.,நீங்கள் நிர்வகிக்கும் திட்டங்களின் பணிகள்.
+Tasks updated:,புதுப்பிக்கப்பட்ட பணிகள்:
+"Tasks, milestones, and dependencies have been created.","பணிகள், மைல்கல்கள் மற்றும் சார்புகள் உருவாக்கப்பட்டன."
+Tasks:,பணிகள்:
+TBD,தீர்மானிக்கப்படவில்லை
+Team,குழு
+Team Members,குழு உறுப்பினர்கள்
+Template,டெம்ப்ளேட்
+Template applied,வார்ப்புரு பயன்படுத்தப்பட்டது
+Template data is required in import data,இறக்குமதி தரவில் வார்ப்புரு தரவு தேவை
+Template has no data,வார்ப்புருவில் தரவு இல்லை
+Template Name,வார்ப்புரு பெயர்
+Template name,வார்ப்புரு பெயர்
+Template name is required,வார்ப்புரு பெயர் தேவை
+Template name is required in import data,இறக்குமதி தரவில் வார்ப்புரு பெயர் தேவை
+Template saved,வார்ப்புரு சேமிக்கப்பட்டது
+Template updated successfully.,வார்ப்புரு வெற்றிகரமாக புதுப்பிக்கப்பட்டது.
+Template {0} not found,வார்ப்புரு {0} கிடைக்கவில்லை
+Templates,வார்ப்புருக்கள்
+Tentative,தற்காலிகமான
+The comment has been deleted,கருத்து நீக்கப்பட்டது
+The project,திட்டம்
+The source document may have been deleted.,மூல ஆவணம் நீக்கப்பட்டிருக்கலாம்.
+The source document will not be affected.,மூல ஆவணம் பாதிக்கப்படாது.
+The status of '{0}' was changed from {1} to {2}.,'{0}' இன் நிலை {1} இலிருந்து {2} ஆக மாற்றப்பட்டது.
+Theme,தீம்
+Theme preference,தீம் விருப்பம்
+This action,இந்தச் செயல்
+This action cannot be undone.,இந்தச் செயலை மீட்டெடுக்க இயலாது.
+This activity has been flagged for attention,இந்தச் செயல்பாடு கவனத்திற்காக கொடியிடப்பட்டுள்ளது
+This is a reminder for your upcoming appointment,இது உங்கள் வரவிருக்கும் சந்திப்பிற்கான நினைவூட்டல்
+This method is only meant for developer mode,இந்த முறை டெவலப்பர் பயன்முறைக்கு மட்டுமே
+This page wandered off,This page wandered off
+This Week,இந்த வாரம்
+This will delete all notes and preferences associated with this activity.,இது இந்தச் செயல்பாட்டுடன் தொடர்புடைய அனைத்து குறிப்புகள் மற்றும் விருப்பங்களையும் நீக்கும்.
+This will import all Frappe Projects into Orga. Continue?,இது அனைத்து Frappe திட்டங்களையும் Orga இல் இறக்குமதி செய்யும். தொடரவா?
+This will permanently delete,இது நிரந்தரமாக நீக்கும்
+This will permanently delete:,இது நிரந்தரமாக நீக்கும்:
+Thu,வியா
+Time,நேரம்
+Time & Billing,நேரம் & கட்டணம்
+Time & Revenue,நேரம் & வருவாய்
+Time Entries,நேரப் பதிவுகள்
+Time log name is required,நேரப் பதிவு பெயர் தேவை
+Time Log not found,நேரப் பதிவு கிடைக்கவில்லை
+Time log {0} not found,நேரப் பதிவு {0} கிடைக்கவில்லை
+Time Logs,நேரப் பதிவுகள்
+Time Summary,நேர சுருக்கம்
+Time Tracking,நேரக் கண்காணிப்பு
+Timeline,காலக்கோடு
+Timer active on,நேர அளவி செயலில் உள்ளது
+Timer is not running,நேர அளவி இயங்கவில்லை
+Timer Running,நேர அளவி இயங்குகிறது
+Timer running,நேர அளவி இயங்குகிறது
+Timesheet DocType not available,நேரத்தாள் DocType கிடைக்கவில்லை
+Timesheets,நேரத்தாள்கள்
+Timezone,நேர மண்டலம்
+Timezone is detected from your browser,நேர மண்டலம் உங்கள் உலாவியிலிருந்து கண்டறியப்படுகிறது
+Title,தலைப்பு
+Title cannot exceed 255 characters,தலைப்பு 255 எழுத்துகளுக்கு மேல் இருக்க முடியாது
+Title is required,தலைப்பு தேவை
+Title updated,தலைப்பு புதுப்பிக்கப்பட்டது
+To,செய்ய
+to,க்கு
+to cancel,ரத்து செய்ய
+to close,மூட
+to confirm:,உறுதிப்படுத்த:
+to edit,திருத்த
+"to save,","சேமிக்க,"
+To Time cannot be before From Time,முடிவு நேரம் தொடக்க நேரத்திற்கு முன்னதாக இருக்க முடியாது
+Today,இன்று
+today,இன்று
+Toggle billable,கட்டணத்திற்குரியதை மாற்று
+Toggle Details Panel,விவரக் குழுவை மாற்று
+Toggle Manager Panel,மேலாளர் குழுவை மாற்று
+Toggle Sidebar,பக்கப்பட்டி மாறு
+Tomorrow,நாளை
+tomorrow,நாளை
+Total,மொத்தம்
+Total Budget,மொத்த வரவு செலவுத் திட்டம்
+Total Contacts,மொத்த தொடர்புகள்
+Total Cost,மொத்த செலவு
+Total Cost to Org,நிறுவனத்திற்கான மொத்த செலவு
+Total Defect Cost,மொத்த குறைபாடு செலவு
+Total Hours,மொத்த மணி நேரம்
+Total Hours Logged,பதிவு செய்யப்பட்ட மொத்த மணி நேரம்
+Total Projects,மொத்த திட்டங்கள்
+Total Spent,மொத்த செலவு
+Total Tasks,மொத்த பணிகள்
+Total:,மொத்தம்:
+Tracked,கண்காணிக்கப்பட்டது
+trails to today while Open at 0%,0% இல் திறந்த நிலையில் இன்று வரை நீள்கிறது
+Tried:,Tried:
+Try adjusting your filter criteria,உங்கள் வடிகட்டி அளவுகோல்களை மாற்றி முயற்சிக்கவும்
+Try adjusting your filters.,உங்கள் வடிகட்டிகளை மாற்றி முயற்சிக்கவும்.
+Try Again,மீண்டும் முயற்சி
+Tue,செவ்
+Type,மாதிரி
+Type updated,வகை புதுப்பிக்கப்பட்டது
+Type:,வகை:
+Typical response time: 1-2 business days,வழக்கமான பதில் நேரம்: 1-2 வணிக நாட்கள்
+Unarchive,காப்பகத்திலிருந்து நீக்கு
+Unarchive Activity,செயல்பாட்டை காப்பகத்திலிருந்து நீக்கு
+Unassign,ஒதுக்கீட்டை நீக்கு
+Unassigned,ஒதுக்கப்படாதது
+Under Budget,வரவு செலவுத் திட்டத்திற்குள்
+Ungrouped,குழுப்படுத்தப்படாதது
+Unknown,தெரியாத
+Unknown error,தெரியாத பிழை
+Unlink failed,இணைப்பு நீக்கம் தோல்வியடைந்தது
+Unlink task from milestone,மைல்கல்லிலிருந்து பணி இணைப்பை நீக்கு
+Unpin,பொருத்தப்படாத
+Unpin Activity,செயல்பாட்டைப் பொருத்தம் நீக்கு
+Unread,படிக்காத
+Unread only,படிக்கப்படாதவை மட்டும்
+Until,வரை
+Up to Date,Up to Date
+Upcoming,வரவிருக்கும்
+upcoming,வரவிருக்கும்
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,புதுப்பிப்பு தோல்வியடைந்தது
+Updated,புதுப்பிக்கப்பட்ட
+Updated successfully,வெற்றிகரமாக புதுப்பிக்கப்பட்டது
+Updates,Updates
+Upload,பதிவேற்ற
+Upload failed,பதிவேற்றம் தோல்வியுற்றது
+Upload files below to attach them to this task.,இந்தப் பணியில் இணைக்க கீழே கோப்புகளைப் பதிவேற்றவும்.
+Upload to project,திட்டத்தில் பதிவேற்று
+Uploading...,பதிவேற்றுகிறது...
+Urgent,அவசரமான
+User {0} is already linked to client {1},பயனர் {0} ஏற்கனவே வாடிக்கையாளர் {1} உடன் இணைக்கப்பட்டுள்ளார்
+User {0} is already linked to resource {1},பயனர் {0} ஏற்கனவே வளம் {1} உடன் இணைக்கப்பட்டுள்ளார்
+Utilization,பயன்பாடு
+Valid,செல்லுபடியாகும்
+Value:,மதிப்பு:
+Variance,மாறுபாடு
+Variance:,மாறுபாடு:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,காட்சி
+View All,அனைத்தையும் காட்டு
+View all active projects,அனைத்து செயலில் உள்ள திட்டங்களைப் பார்
+View all open tasks,அனைத்து திறந்த பணிகளைப் பார்
+View overdue tasks,தாமதமான பணிகளைப் பார்
+View Release,View Release
+Visibility,தெரிவுநிலை
+Waiting for this task,இந்தப் பணிக்காக காத்திருக்கிறது
+Waits for:,காத்திருப்பது:
+Warning: Resource {0} status is {1},எச்சரிக்கை: வளம் {0} நிலை {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,எச்சரிக்கை: HTTPS க்கு பதிலாக HTTP பயன்படுத்தப்படுகிறது. Webhook பேலோடுகள் பாதுகாப்பானதாக இருக்காது.
+Watch budget closely,வரவு செலவுத் திட்டத்தை நெருக்கமாகக் கவனி
+We'll respond to:,நாங்கள் பதிலளிப்போம்:
+Webhook deleted,Webhook நீக்கப்பட்டது
+Webhook name is required,Webhook பெயர் தேவை
+Webhook not found,Webhook கிடைக்கவில்லை
+Webhook URL is required,Webhook URL தேவை
+Webhook URL must start with http:// or https://,Webhook URL http:// அல்லது https:// உடன் தொடங்க வேண்டும்
+Wed,புதன்
+Week,வீக்
+Weekend,வார இறுதி
+Weekly Capacity,வாராந்திர கொள்திறன்
+weekly capacity,வாராந்திர கொள்திறன்
+Weekly Capacity (h),வாராந்திர கொள்திறன் (ம)
+Welcome,வரவேற்பு
+Welcome back!,மீண்டும் வருக!
+Welcome to Orga,Orga க்கு வரவேற்கிறோம்
+What are you working on?,நீங்கள் என்ன பணி செய்கிறீர்கள்?
+What did you work on?,நீங்கள் என்ன பணி செய்தீர்கள்?
+When,எப்போது
+When work begins,பணி தொடங்கும்போது
+When work is due,பணி நிலுவையில் இருக்கும்போது
+Where,எங்கே
+Will capture:,கைப்பற்றும்:
+Will create:,உருவாக்கும்:
+with checklist items,சரிபார்ப்புப் பட்டியல் உருப்படிகளுடன்
+Working,செயல்படுகிறது
+Workload,பணிச்சுமை
+Workmanship,கைவேலைப்பாடு
+Write a comment...,கருத்தை எழுதுங்கள்...
+Write a comment... Use @name to mention (Ctrl+Enter to send),கருத்தை எழுதுங்கள்... குறிப்பிட @பெயர் பயன்படுத்தவும் (அனுப்ப Ctrl+Enter)
+Year,ஆண்டு
+Yes,ஆம்
+Yesterday,நேற்று
+yesterday,நேற்று
+You are not an attendee of this appointment,நீங்கள் இந்த சந்திப்பின் பங்கேற்பாளர் அல்ல
+You are not linked to any resource,நீங்கள் எந்த வளத்துடனும் இணைக்கப்படவில்லை
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,உங்கள் சொந்த கருத்துகளை மட்டுமே நீக்க முடியும்
+You can only delete your own reactions,உங்கள் சொந்த எதிர்வினைகளை மட்டுமே நீக்க முடியும்
+You do not have access to the client portal. Please contact support.,வாடிக்கையாளர் போர்ட்டலுக்கு உங்களுக்கு அணுகல் இல்லை. ஆதரவைத் தொடர்பு கொள்ளுங்கள்.
+You have already reacted with '{0}',நீங்கள் ஏற்கனவே '{0}' என எதிர்வினையாற்றியுள்ளீர்கள்
+You have been assigned to task '{0}' in project '{1}'.,திட்டம் '{1}' இல் பணி '{0}' க்கு நீங்கள் ஒதுக்கப்பட்டுள்ளீர்கள்.
+You have been assigned to: {0},நீங்கள் ஒதுக்கப்பட்டுள்ளீர்கள்: {0}
+You have been invited to the following appointment,பின்வரும் சந்திப்புக்கு நீங்கள் அழைக்கப்பட்டுள்ளீர்கள்
+You have no tasks assigned to you right now.,தற்போது உங்களுக்கு ஒதுக்கப்பட்ட பணிகள் இல்லை.
+You were mentioned in {0},நீங்கள் {0} இல் குறிப்பிடப்பட்டீர்கள்
+Your attendance,உங்கள் வருகை
+Your comment has been posted,உங்கள் கருத்து பதிவிடப்பட்டது
+Your Projects,உங்கள் திட்டங்கள்
+Your projects will appear here once they're assigned to you.,உங்களுக்கு ஒதுக்கப்பட்டவுடன் உங்கள் திட்டங்கள் இங்கே தோன்றும்.
+Your Response,உங்கள் பதில்
+Your RSVP,உங்கள் RSVP
+Your support request has been submitted successfully.,உங்கள் ஆதரவு கோரிக்கை வெற்றிகரமாக சமர்ப்பிக்கப்பட்டது.
+Your support request has been submitted successfully. We'll get back to you shortly.,உங்கள் ஆதரவு கோரிக்கை வெற்றிகரமாக சமர்ப்பிக்கப்பட்டது. விரைவில் நாங்கள் உங்களைத் தொடர்பு கொள்வோம்.
+"Your task ""{0}"" is no longer blocked and can now be started.","உங்கள் பணி ""{0}"" இனி தடுக்கப்படவில்லை, இப்போது தொடங்கலாம்."
+{0} is required,{0} தேவை
+{0} new activities,{0} புதிய செயல்பாடுகள்
+{0} of {1} completed,{1} இல் {0} நிறைவடைந்தது
+{0} projects already migrated (will be skipped or updated),{0} திட்டங்கள் ஏற்கனவே இடம்பெயர்க்கப்பட்டன (தவிர்க்கப்படும் அல்லது புதுப்பிக்கப்படும்)
+{0} status changed to {1},{0} நிலை {1} ஆக மாற்றப்பட்டது
+{0} tasks remaining,{0} பணிகள் மீதமுள்ளன
+{0} tasks without projects will be skipped,திட்டங்கள் இல்லாத {0} பணிகள் தவிர்க்கப்படும்
+{0} {1} not found,{0} {1} கிடைக்கவில்லை

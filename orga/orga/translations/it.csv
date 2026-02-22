@@ -1,0 +1,1492 @@
++ Add Milestone,+ Aggiungi traguardo
++ Create Task,+ Crea attività
++ Log Time,+ Registra tempo
+-- Select a project --,-- Selezionare un progetto --
+0m,0m
+1 day,1 giorno
+1 day ago,1 giorno fa
+1 dependency,1 dipendenza
+1 entry,1 voce
+1 file,1 file
+1 hour ago,1 ora fa
+1 member,1 membro
+1 milestone,1 traguardo
+1 month,1 mese
+1 task,1 attività
+< 1m,< 1m
+"A clear, actionable title for the task",Un titolo chiaro e pratico per l'attività
+A client with email {0} already exists: {1},Un cliente con l'indirizzo e-mail {0} esiste già: {1}
+A key deliverable or checkpoint for the project,Un risultato chiave o punto di verifica del progetto
+Accept,Accettare
+Accepted,Accettato
+Acknowledge,Confermare ricezione
+across,in
+Action,Azione
+Actions,Azioni
+Active,Attivo
+Active Assignments,Assegnazioni attive
+Active Projects,Progetti attivi
+Activity,Attività recente
+Activity data deleted successfully,Dati dell'attività eliminati con successo
+Activity Info,Informazioni sull'attività
+Activity Stats,Statistiche attività
+Activity will appear here as you work on tasks and projects.,L'attività apparirà qui man mano che lavorate su attività e progetti.
+Actual,Effettivo
+Actual Cost,Costo effettivo
+Actual cost cannot be negative,Il costo effettivo non può essere negativo
+Actual end date cannot be before actual start date,La data di fine effettiva non può essere precedente alla data di inizio effettiva
+Actual Hours,Ore effettive
+Add,Aggiungere
+Add a checklist item...,Aggiungere un elemento alla lista di controllo...
+Add a comment...,Aggiungere un commento...
+Add a comment... (Ctrl+Enter to send),Aggiungere un commento... (Ctrl+Invio per inviare)
+Add a description...,Aggiungere una descrizione...
+Add a milestone description...,Aggiungere una descrizione del traguardo...
+Add a note below to annotate this activity.,Aggiungete una nota qui sotto per annotare questa attività.
+Add a note...,Aggiungere una nota...
+Add a project description...,Aggiungere una descrizione del progetto...
+Add a task description...,Aggiungere una descrizione dell'attività...
+Add checklist item...,Aggiungere un elemento alla lista di controllo...
+Add Contact,Aggiungere un contatto
+Add contacts via the Desk interface or clear filters,Aggiungete contatti tramite l'interfaccia Desk oppure cancellate i filtri
+Add Dependency,Aggiungere una dipendenza
+Add details about this event...,Aggiungere dettagli su questo evento...
+Add details about this milestone...,Aggiungere dettagli su questo traguardo...
+Add details about this task...,Aggiungere dettagli su questa attività...
+Add details or acceptance criteria for this milestone,Aggiungere dettagli o criteri di accettazione per questo traguardo
+"Add details, context, or acceptance criteria","Aggiungere dettagli, contesto o criteri di accettazione"
+Add first dependency,Aggiungere la prima dipendenza
+Add item,Aggiungere un elemento
+Add items below to track progress.,Aggiungete elementi qui sotto per monitorare l'avanzamento.
+Add items below to track subtasks,Aggiungete elementi qui sotto per monitorare le sotto-attività
+Add Milestone,Aggiungere un traguardo
+Add Milestone (Shift+M),Aggiungere un traguardo (Shift+M)
+Add milestones to track key deliverables.,Aggiungete traguardi per monitorare i risultati chiave.
+Add New Contact,Aggiungere un nuovo contatto
+Add Note,Aggiungere una nota
+Add note,Aggiungere una nota
+Add notes about this contact...,Aggiungere note su questo contatto...
+Add reaction,Aggiungere una reazione
+Add Skill,Aggiungere una competenza
+Add start and due dates to tasks to see them on the Gantt chart,Aggiungete date di inizio e scadenza alle attività per visualizzarle nel diagramma di Gantt
+Add Task,Aggiungere un'attività
+Add Task (Shift+T),Aggiungere un'attività (Shift+T)
+Added Finish-to-Start dependency,Dipendenza Fine-a-Inizio aggiunta
+Adding this dependency would create a circular reference: {0},L'aggiunta di questa dipendenza creerebbe un riferimento circolare: {0}
+Adding...,Aggiunta in corso...
+Address,Indirizzo
+Advanced,Avanzato
+All,Tutti
+All Active,Tutti gli attivi
+All Assignees,Tutti gli assegnatari
+All Categories,Tutte le categorie
+All caught up!,Tutto aggiornato!
+All Contexts,Tutti i contesti
+All day,Tutto il giorno
+All day event,Evento per l'intera giornata
+All fields,Tutti i campi
+All Priorities,Tutte le priorità
+All Projects,Tutti i progetti
+All Status,Tutti gli stati
+All Statuses,Tutti gli stati
+All task dependencies & relative dates,Tutte le dipendenze delle attività e date relative
+All Tasks,Tutte le attività
+All tasks across all projects.,Tutte le attività di tutti i progetti.
+All tasks are already linked,Tutte le attività sono già collegate
+All team members,Tutti i membri del gruppo
+All Types,Tutti i tipi
+All Users,Tutti gli utenti
+Allocated,Allocato
+allocated,allocato
+Allow users to log time against tasks,Consentire agli utenti di registrare il tempo sulle attività
+Already exported to timesheet {0},Già esportato nel foglio ore {0}
+Already Migrated,Già migrato
+Anyone with access,Chiunque abbia accesso
+anytime to show this help,in qualsiasi momento per mostrare questa guida
+App Updates,App Updates
+Appearance,Aspetto
+Apply,Applicare
+Apply cascade?,Applicare la cascata?
+Apply Changes,Applicare le modifiche
+Apply failed,Applicazione non riuscita
+Apply Template,Applicare un modello
+Applying...,Applicazione in corso...
+Appointment,Appuntamento
+Appointment and resource are required,L'appuntamento e la risorsa sono obbligatori
+Appointment name is required,Il nome dell'appuntamento è obbligatorio
+Appointment not found,Appuntamento non trovato
+Appointment {0} not found,Appuntamento {0} non trovato
+Apps,Applicazioni
+Archive,Archiviare
+Archive Activity,Archiviare l'attività
+Archived,Archiviato
+Are you sure you want to delete this activity data? This cannot be undone.,Siete sicuri di voler eliminare questi dati dell'attività? Questa azione è irreversibile.
+Are you sure you want to delete this comment?,Siete sicuri di voler eliminare questo commento?
+Are you sure you want to delete this project?,Siete sicuri di voler eliminare questo progetto?
+Are you sure?,Siete sicuri?
+Ascending -- click to reverse,Crescente -- fare clic per invertire
+Assign To,Assegnare a
+Assign to Me,Assegnare a me
+Assigned Contact,Contatto assegnato
+Assigned To,Assegnato a
+Assigned to,Assegnato a
+Assigned to Me,Assegnato a me
+Assignee,Assegnatario
+Assignment,Assegnazione
+Assignment History,Cronologia delle assegnazioni
+Assignment name is required,Il nome dell'assegnazione è obbligatorio
+Assignment {0} not found,Assegnazione {0} non trovata
+Assignments,Assegnazioni
+At least one action is required,È richiesta almeno un'azione
+At least one event is required,È richiesto almeno un evento
+At least one event must be selected,È necessario selezionare almeno un evento
+Attachment,Allegato
+Attachments,Allegati
+Attendees,Partecipanti
+"Audit trail, assignments, version history","Traccia di verifica, assegnazioni, cronologia versioni"
+Auto,Automatico
+Auto Calculate Progress,Calcola automaticamente l'avanzamento
+Auto Set Missed Milestones,Segna automaticamente i traguardi mancati
+Auto-shift dependents when dates change,Spostare automaticamente le attività dipendenti al cambio delle date
+Auto-Trail Start,Inizio automatico per slittamento
+Auto-Trail updated,Inizio automatico per slittamento aggiornato
+Automatically calculate project progress from task completion,Calcolare automaticamente l'avanzamento del progetto dal completamento delle attività
+Automatically mark milestones as missed when overdue,Segnare automaticamente i traguardi come mancati quando in ritardo
+Automation rule {0} not found,Regola di automazione {0} non trovata
+Automation: {0},Automazione: {0}
+Availability,Disponibilità
+Available,Disponibile
+Avatar updated successfully,Immagine profilo aggiornata con successo
+Avg Progress,Avanzamento medio
+Back,Indietro
+Back to Portal,Torna al portale
+Back to Projects,Torna ai progetti
+Beginner,Principiante
+Best regards,Cordiali saluti
+Billable,Fatturabile
+Billable Amount,Importo fatturabile
+Billable Hours,Ore fatturabili
+Billable Rate,Tariffa fatturabile
+Billing Rate,Tariffa di fatturazione
+Blocked,Bloccato
+Both dates are needed to display task as a bar in Gantt chart,Entrambe le date sono necessarie per visualizzare l'attività come barra nel diagramma di Gantt
+Both doctype and docname are required,Sia il doctype che il docname sono obbligatori
+Both proposed start and end times are required,Sia l'orario di inizio che quello di fine proposti sono obbligatori
+Both task_name and depends_on are required,Sia task_name che depends_on sono obbligatori
+Breadcrumb,Percorso di navigazione
+Brief description of the defect or damage,Breve descrizione del difetto o del danno
+Brief description of this template,Breve descrizione di questo modello
+Brief description of your request,Breve descrizione della vostra richiesta
+Brief project description,Breve descrizione del progetto
+Budget,Budget
+Budget at risk,Budget a rischio
+Budget Burn Rate,Tasso di consumo del budget
+Budget Status,Stato del budget
+Budget updated,Budget aggiornato
+Budget:,Budget:
+Bug,Bug
+Burn Rate,Tasso di consumo
+Busy,Occupato
+By,Da
+By Assignee,Per assegnatario
+By Group,Per gruppo
+By Milestone,Per traguardo
+By Priority,Per priorità
+By Status,Per stato
+Cancel,Annullare
+Cancelled,Annullato
+cannot be undone,irreversibile
+Cannot delete client with {0} linked projects. Unlink projects first.,Impossibile eliminare il cliente con {0} progetti collegati. Scollegare prima i progetti.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Impossibile eliminare il progetto con {0} attività collegate. Eliminare prima le attività.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Impossibile eliminare la risorsa con {0} assegnazioni attive. Completarle o annullarle prima.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Impossibile eliminare l'attività con {0} sotto-attività. Eliminare prima le sotto-attività.
+Capacity,Capacità
+capacity,capacità
+Capacity & Rates,Capacità e tariffe
+Capture project structure for reuse,Salvare la struttura del progetto per riutilizzarla
+Cascade,Cascata
+Cascade Preview,Anteprima cascata
+Category,Categoria
+Celebrate,Celebrare
+Change,Modificare
+Change History,Cronologia modifiche
+Change Priority,Cambiare la priorità
+Change Status,Cambiare lo stato
+Changes,Modifiche
+Changes appear when fields are modified.,Le modifiche appaiono quando i campi vengono modificati.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Lista di controllo
+Checklist item name is required,Il nome dell'elemento della lista di controllo è obbligatorio
+Checklist item not found,Elemento della lista di controllo non trovato
+Checklist item title is required,Il titolo dell'elemento della lista di controllo è obbligatorio
+Checklist item {0} not found,Elemento della lista di controllo {0} non trovato
+Checklist item {0} not found in task,Elemento della lista di controllo {0} non trovato nell'attività
+Child,Figlio
+Choose file to upload,Scegliere un file da caricare
+Circular dependency detected: {0},Dipendenza circolare rilevata: {0}
+Circular parent-child relationship detected,Relazione circolare genitore-figlio rilevata
+Clear,Cancellare
+Clear all read,Cancellare tutte le lette
+Clear date,Cancellare la data
+Click on an activity from the list to view and manage its details.,Fare clic su un'attività dall'elenco per visualizzare e gestire i suoi dettagli.
+Click the avatar to upload a new photo,Fare clic sull'immagine per caricare una nuova foto
+Click to add description...,Fare clic per aggiungere una descrizione...
+Click to add notes...,Fare clic per aggiungere note...
+Click to assign contact,Fare clic per assegnare un contatto
+Click to change status,Fare clic per cambiare lo stato
+Click to change type,Fare clic per cambiare il tipo
+Click to edit,Fare clic per modificare
+Click to edit budget,Fare clic per modificare il budget
+Click to edit description,Fare clic per modificare la descrizione
+Click to edit end date,Fare clic per modificare la data di fine
+Click to edit milestone name,Fare clic per modificare il nome del traguardo
+Click to edit rate,Fare clic per modificare la tariffa
+Click to edit start date,Fare clic per modificare la data di inizio
+Click to edit title,Fare clic per modificare il titolo
+Click to load,Fare clic per caricare
+Click to set group dependency...,Fare clic per impostare una dipendenza di gruppo...
+Click to set group...,Fare clic per impostare il gruppo...
+Click to view,Fare clic per visualizzare
+Click to view at-risk projects,Fare clic per visualizzare i progetti a rischio
+Click to view critical projects,Fare clic per visualizzare i progetti critici
+Click to view healthy projects,Fare clic per visualizzare i progetti in buono stato
+Client,Cliente
+Client already has a portal user: {0},Il cliente ha già un utente del portale: {0}
+Client already has portal access,Il cliente ha già accesso al portale
+Client has no portal user to revoke,Il cliente non ha un utente del portale da revocare
+Client link removed from project {0},Collegamento cliente rimosso dal progetto {0}
+Client Portal,Portale clienti
+Client {0} deleted successfully,Cliente {0} eliminato con successo
+Close,Chiudere
+Close (Esc),Chiudere (Esc)
+Comment,Commento
+comment,commento
+Comment added,Commento aggiunto
+Comment content is required,Il contenuto del commento è obbligatorio
+Comment name is required,Il nome del commento è obbligatorio
+Comment not found,Commento non trovato
+Comment removed,Commento rimosso
+Comment {0} not found in task,Commento {0} non trovato nell'attività
+Comments,Commenti
+comments,commenti
+Community Edition,Community Edition
+Company,Azienda
+Company name...,Nome dell'azienda...
+Complete,Completare
+Completed,Completato
+completed,completato
+Completed Tasks,Attività completate
+Compliance,Conformità
+Configure default values for new projects and tasks,Configurare i valori predefiniti per i nuovi progetti e attività
+Configure email notification settings,Configurare le impostazioni delle notifiche e-mail
+Confirm,Confermare
+Contact deleted,Contatto eliminato
+Contact Details,Dettagli del contatto
+Contact Information,Informazioni di contatto
+Contact name is required,Il nome del contatto è obbligatorio
+Contact Support,Contattare il supporto
+Contact your project manager for more information.,Contattate il vostro responsabile di progetto per maggiori informazioni.
+Contact:,Contatto:
+Contacts,Contatti
+Context,Contesto
+Contractor,Appaltatore
+Cost estimate cannot be negative,La stima dei costi non può essere negativa
+Cost Impact,Impatto sui costi
+Cost Summary,Riepilogo costi
+Could not apply the template. Please try again.,Impossibile applicare il modello. Riprovare.
+Could not attach file to project,Impossibile allegare il file al progetto
+Could not change task priority,Impossibile cambiare la priorità dell'attività
+Could not change task status,Impossibile cambiare lo stato dell'attività
+Could not delete the project. Please try again.,Impossibile eliminare il progetto. Riprovare.
+Could not delete the task. Please try again.,Impossibile eliminare l'attività. Riprovare.
+Could not delete the template.,Impossibile eliminare il modello.
+Could not duplicate the task. Please try again.,Impossibile duplicare l'attività. Riprovare.
+Could not export the template.,Impossibile esportare il modello.
+Could not import the template. Please check the file format.,Impossibile importare il modello. Verificare il formato del file.
+Could not link task to milestone,Impossibile collegare l'attività al traguardo
+Could not load document details.,Impossibile caricare i dettagli del documento.
+Could not load task details,Impossibile caricare i dettagli dell'attività
+Could not promote checklist item to task.,Impossibile promuovere l'elemento della lista di controllo ad attività.
+Could not remove task from milestone,Impossibile rimuovere l'attività dal traguardo
+Could not save budget.,Impossibile salvare il budget.
+Could not save changes to the milestone,Impossibile salvare le modifiche al traguardo
+Could not save changes to the task,Impossibile salvare le modifiche all'attività
+Could not save description.,Impossibile salvare la descrizione.
+Could not save end date.,Impossibile salvare la data di fine.
+Could not save milestone name.,Impossibile salvare il nome del traguardo.
+Could not save start date.,Impossibile salvare la data di inizio.
+Could not save the template. Please try again.,Impossibile salvare il modello. Riprovare.
+Could not save title.,Impossibile salvare il titolo.
+Could not update dependency mode.,Impossibile aggiornare la modalità di dipendenza.
+Could not update milestone date,Impossibile aggiornare la data del traguardo
+Could not update project status.,Impossibile aggiornare lo stato del progetto.
+Could not update project type.,Impossibile aggiornare il tipo di progetto.
+Could not update setting.,Impossibile aggiornare l'impostazione.
+Could not update task dates,Impossibile aggiornare le date dell'attività
+Could not update task status,Impossibile aggiornare lo stato dell'attività
+Could not update the template.,Impossibile aggiornare il modello.
+Create a copy of this task,Creare una copia di questa attività
+Create Contact,Creare un contatto
+Create Event,Creare un evento
+Create Milestone,Creare un traguardo
+Create New Milestone,Creare un nuovo traguardo
+Create New Task,Creare una nuova attività
+Create Project,Creare un progetto
+Create Task,Creare un'attività
+Create tasks and milestones from a template,Creare attività e traguardi da un modello
+Create your first project to get started.,Create il vostro primo progetto per iniziare.
+Create your first task to start tracking work on this project.,Create la vostra prima attività per iniziare a monitorare il lavoro su questo progetto.
+Created,Creato
+Creating...,Creazione in corso...
+Critical,Critico
+Critical Path,Percorso critico
+"Currency used for budgets, costs, and billing rates","Valuta utilizzata per budget, costi e tariffe di fatturazione"
+Current,Attuale
+Current Assignments,Assegnazioni attuali
+Current scheduled time:,Orario attualmente previsto:
+Currently running version,Currently running version
+d lag,g di ritardo
+Daily Availability,Disponibilità giornaliera
+Daily Hours,Ore giornaliere
+Danger Zone,Zona pericolosa
+Dark,Scuro
+Dashboard,Pannello di controllo
+Date,Data
+Date changes on this task will show cascade impact here,Le modifiche di data su questa attività mostreranno l'impatto a cascata qui
+Date cleared,Data cancellata
+Date of Joining,Data di ingresso
+Date updated,Data aggiornata
+Dates,Date
+Dates cascaded,Date propagate a cascata
+Dates will be relative to the project's start date.,Le date saranno relative alla data di inizio del progetto.
+Day,Giorno
+day,giorno
+days,giorni
+Days before due date to send reminder,Giorni prima della scadenza per inviare il promemoria
+Days Overdue,Giorni di ritardo
+Days Remaining,Giorni rimanenti
+Deadline,Scadenza
+Deadlines,Scadenze
+Decision,Decisione
+Decline,Rifiutare
+Declined,Rifiutato
+Default Currency,Valuta predefinita
+Default hours per week for contact capacity planning,Ore predefinite per settimana per la pianificazione della capacità dei contatti
+Default Priority,Priorità predefinita
+Default Project Status,Stato predefinito del progetto
+Default Task Status,Stato predefinito dell'attività
+Default task view,Vista predefinita delle attività
+Default Values,Valori predefiniti
+Default Weekly Capacity,Capacità settimanale predefinita
+Defaults,Valori predefiniti
+Defect Cost Impact,Impatto finanziario del difetto
+Defect name is required,Il nome del difetto è obbligatorio
+Defect Type,Tipo di difetto
+Defect {0} not found,Difetto {0} non trovato
+Defects,Difetti
+Defects & Issues,Difetti e problemi
+Defects Resolved,Difetti risolti
+Delayed,In ritardo
+Delete,Eliminare
+Delete Activity Data,Eliminare i dati dell'attività
+Delete all read notifications?,Eliminare tutte le notifiche lette?
+Delete comment,Eliminare il commento
+Delete Contact,Eliminare il contatto
+Delete Event,Eliminare l'evento
+Delete Event?,Eliminare l'evento?
+Delete failed,Eliminazione non riuscita
+Delete file,Eliminare il file
+Delete item,Eliminare l'elemento
+Delete note,Eliminare la nota
+Delete Project,Eliminare il progetto
+Delete Task,Eliminare l'attività
+Delete this project,Eliminare questo progetto
+Deleted,Eliminato
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Progetto ""{0}"" eliminato ({1} attività, {2} traguardi)"
+Deletes notes and preferences. Source document is not affected.,Elimina note e preferenze. Il documento di origine non viene modificato.
+Deleting...,Eliminazione in corso...
+Department,Reparto
+Dependencies,Dipendenze
+dependencies,dipendenze
+Dependencies are informational only,Le dipendenze sono solo informative
+dependency,dipendenza
+Dependency already exists,La dipendenza esiste già
+Dependency Chain,Catena di dipendenze
+Dependency created,Dipendenza creata
+Dependency mode updated,Modalità di dipendenza aggiornata
+Dependency name is required,Il nome della dipendenza è obbligatorio
+Dependency task {0} not found,Attività di dipendenza {0} non trovata
+Dependency {0} not found,Dipendenza {0} non trovata
+depends,dipende
+Depends on Group,Dipende dal gruppo
+Depends on task is required,L'attività di dipendenza è obbligatoria
+depends on...,dipende da...
+Descending -- click to reverse,Decrescente -- fare clic per invertire
+Describe the defect in detail...,Descrivete il difetto in dettaglio...
+Description,Descrizione
+Description updated,Descrizione aggiornata
+Designation,Funzione
+"Detailed description of the defect, location, and impact","Descrizione dettagliata del difetto, della posizione e dell'impatto"
+Details,Dettagli
+Discard timer,Annullare il cronometro
+Discussion,Discussione
+Dismiss,Dismiss
+Display,Visualizzazione
+Document,Documento
+Document attached to project,Documento allegato al progetto
+Document final decision and rationale,Documentare la decisione finale e la motivazione
+Documentation Review,Revisione documentale
+Documents,Documenti
+Done,Fatto
+Download,Scaricare
+Drag to create dependency,Trascinare per creare una dipendenza
+Dry Run,Simulazione
+Dry Run Complete,Simulazione completata
+Due Date,Data di scadenza
+Due date,Data di scadenza
+Due Date (Earliest),Data di scadenza (la più vicina)
+Due date cannot be before start date,La data di scadenza non può essere precedente alla data di inizio
+Due date is in the past,La data di scadenza è nel passato
+Due Date Reminders,Promemoria di scadenza
+Due Diligence,Verifica preliminare
+Due Diligence Checklist,Lista di controllo della verifica preliminare
+Due This Week,In scadenza questa settimana
+Due:,Scadenza:
+Duplicate events are not allowed,Gli eventi duplicati non sono consentiti
+Duplicate failed,Duplicazione non riuscita
+Duplicate Task,Duplicare l'attività
+Duration,Durata
+Duration Summary,Riepilogo durata
+Duration:,Durata:
+e.g. Cracked wall finish in bathroom...,es.: Finitura murale incrinata nel bagno...
+"e.g. Electrical, Plumbing...","es.: Elettricità, Idraulica..."
+Edit,Modificare
+Edit (E),Modificare (E)
+Edit dependency,Modificare la dipendenza
+Edit Event,Modificare l'evento
+Efficiency,Efficienza
+Either dependency_name or depends_on is required,È richiesto dependency_name o depends_on
+Email,E-mail
+Email invitations to all attendees,Inviti via e-mail a tutti i partecipanti
+Email is required to create portal user,L'indirizzo e-mail è obbligatorio per creare un utente del portale
+Email notifications,Notifiche via e-mail
+Employee,Dipendente
+Employee DocType not available,DocType Dipendente non disponibile
+Employee not found,Dipendente non trovato
+Enable or disable optional features,Attivare o disattivare le funzionalità opzionali
+Enable Time Tracking,Attivare il monitoraggio del tempo
+End,Fine
+End Date,Data di fine
+End date,Data di fine
+End Date cannot be before Start Date,La data di fine non può essere precedente alla data di inizio
+End date cannot be before start date,La data di fine non può essere precedente alla data di inizio
+End date updated,Data di fine aggiornata
+End time was before start time. Adjusted to 1 hour after start.,L'ora di fine era precedente all'ora di inizio. Regolata a 1 ora dopo l'inizio.
+End:,Fine:
+Enter milestone name...,Inserire il nome del traguardo...
+Enter project name,Inserire il nome del progetto
+Enter task title...,Inserire il titolo dell'attività...
+Enter template name,Inserire il nome del modello
+Enter your note... Use @name to mention someone,Inserite la vostra nota... Usate @nome per menzionare qualcuno
+Error,Errore
+Error loading activity,Errore nel caricamento dell'attività
+Error loading contacts,Errore nel caricamento dei contatti
+Error loading dashboard,Errore nel caricamento del pannello di controllo
+Error loading project,Errore nel caricamento del progetto
+Error loading projects,Errore nel caricamento dei progetti
+Error loading settings,Errore nel caricamento delle impostazioni
+Error loading tasks,Errore nel caricamento delle attività
+Error loading templates,Errore nel caricamento dei modelli
+Est. Hours,Ore stim.
+Estimated,Stimato
+Estimated Cost,Costo stimato
+Estimated Cost (€),Costo stimato (€)
+Estimated Hours,Ore stimate
+Estimated:,Stimato:
+Evaluate potential risks and concerns,Valutare i rischi e le preoccupazioni potenziali
+Event,Evento
+Event is required for event context,L'evento è obbligatorio per il contesto evento
+Event is required when tracking context is 'event',L'evento è obbligatorio quando il contesto di monitoraggio è «evento»
+Event Type,Tipo di evento
+Events,Eventi
+Events not available. Please run: bench --site orga.localhost migrate,Eventi non disponibili. Eseguire: bench --site orga.localhost migrate
+Events:,Eventi:
+Expert,Esperto
+Explain why you are proposing a different time...,Spiegare perché proponete un orario diverso...
+Export,Esportare
+Export failed,Esportazione non riuscita
+Export JSON,Esportare in JSON
+Exported,Esportato
+Exported to timesheet {0},Esportato nel foglio ore {0}
+External,Esterno
+Failed to add item,Aggiunta dell'elemento non riuscita
+Failed to add note,Aggiunta della nota non riuscita
+Failed to add skill,Aggiunta della competenza non riuscita
+Failed to apply cascade changes: {0},Applicazione delle modifiche a cascata non riuscita: {0}
+Failed to create defect,Creazione del difetto non riuscita
+Failed to create dependency,Creazione della dipendenza non riuscita
+Failed to create event,Creazione dell'evento non riuscita
+Failed to create milestone,Creazione del traguardo non riuscita
+Failed to create project,Creazione del progetto non riuscita
+Failed to create task,Creazione dell'attività non riuscita
+Failed to create time log,Creazione della voce di tempo non riuscita
+Failed to delete,Eliminazione non riuscita
+Failed to delete comment,Eliminazione del commento non riuscita
+Failed to delete contact,Eliminazione del contatto non riuscita
+Failed to load,Caricamento non riuscito
+Failed to load activity,Caricamento dell'attività non riuscito
+Failed to load assignments,Caricamento delle assegnazioni non riuscito
+Failed to load contact,Caricamento del contatto non riuscito
+Failed to load dashboard data,Caricamento dei dati del pannello di controllo non riuscito
+Failed to load defects,Caricamento dei difetti non riuscito
+Failed to load events,Caricamento degli eventi non riuscito
+Failed to load project,Caricamento del progetto non riuscito
+Failed to load projects,Caricamento dei progetti non riuscito
+Failed to load report data,Caricamento dei dati del rapporto non riuscito
+Failed to load settings,Caricamento delle impostazioni non riuscito
+Failed to load tasks,Caricamento delle attività non riuscito
+Failed to move task,Spostamento dell'attività non riuscito
+Failed to post comment,Pubblicazione del commento non riuscita
+Failed to propose new time,Proposta del nuovo orario non riuscita
+Failed to remove item,Rimozione dell'elemento non riuscita
+Failed to remove skill,Rimozione della competenza non riuscita
+Failed to reorder milestones: {0},Riordinamento dei traguardi non riuscito: {0}
+Failed to reorder tasks: {0},Riordinamento delle attività non riuscito: {0}
+Failed to reschedule dependent tasks: {0},Riprogrammazione delle attività dipendenti non riuscita: {0}
+Failed to save,Salvataggio non riuscito
+Failed to save preferences,Salvataggio delle preferenze non riuscito
+Failed to save settings,Salvataggio delle impostazioni non riuscito
+Failed to submit request. Please try again.,Invio della richiesta non riuscito. Riprovare.
+Failed to update item,Aggiornamento dell'elemento non riuscito
+Failed to update priority,Aggiornamento della priorità non riuscito
+Failed to update task,Aggiornamento dell'attività non riuscito
+Failed to update tasks: {0},Aggiornamento delle attività non riuscito: {0}
+Failed to upload avatar,Caricamento dell'immagine profilo non riuscito
+Feature,Funzionalità
+Features,Funzionalità
+FF (Finish-Finish),FF (Fine-Fine)
+FF - Finish-to-Finish,FF - Fine-a-Fine
+Field has been updated,Il campo è stato aggiornato
+Field name is required for 'Set Field Value' action,Il nome del campo è obbligatorio per l'azione «Imposta valore campo»
+Field {0} is not a Link field,Il campo {0} non è un campo di tipo collegamento
+Field {0} not found in {1},Campo {0} non trovato in {1}
+File,File
+file,file
+File does not belong to this task,Il file non appartiene a questa attività
+File name is required,Il nome del file è obbligatorio
+File uploaded,File caricato
+File {0} not found,File {0} non trovato
+Files,File
+files,file
+Filter,Filtro
+Final Decision,Decisione finale
+Finance,Finanza
+Financial,Finanziario
+Finish-to-Finish,Fine-a-Fine
+Finish-to-Start,Fine-a-Inizio
+Flag,Segnalare
+Flag for attention,Segnalare per attenzione
+Flagged,Segnalato
+Focus Panel,Pannello di dettaglio
+Follows your system preference. Currently:,Segue la preferenza del sistema. Attualmente:
+Frappe Project {0} not found,Progetto Frappe {0} non trovato
+Frappe Projects Migration,Migrazione Frappe Projects
+Frappe Projects module not available,Modulo Frappe Projects non disponibile
+Frappe Projects module not installed,Modulo Frappe Projects non installato
+Frappe Projects sync is not enabled,La sincronizzazione di Frappe Projects non è attivata
+Frappe Task DocType not found,DocType Attività Frappe non trovato
+Frappe Task has no project,L'attività Frappe non ha un progetto
+Frappe Task {0} not found,Attività Frappe {0} non trovata
+Fri,Ven
+From,Da
+From Template,Da un modello
+FS (Finish-Start),FS (Fine-Inizio)
+FS - Finish-to-Start (default),FS - Fine-a-Inizio (predefinito)
+Full form view with audit trail,Vista completa del modulo con traccia di verifica
+Full name,Nome completo
+Gantt,Gantt
+Gantt Chart,Diagramma di Gantt
+Gantt View,Vista Gantt
+General Note,Nota generale
+Get started,Iniziare
+Go back,Torna indietro
+Go Back,Torna indietro
+Group by,Raggruppare per
+Group dependency removed,Dipendenza di gruppo rimossa
+Group dependency set,Dipendenza di gruppo impostata
+Group removed,Gruppo rimosso
+Group updated,Gruppo aggiornato
+Hammock task dates are auto-calculated and cannot be changed manually,Le date delle attività hamac sono calcolate automaticamente e non possono essere modificate manualmente
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Avete una domanda o avete bisogno di assistenza? Compilate il modulo qui sotto e il nostro gruppo vi risponderà.
+Health,Salute
+Healthy,In buono stato
+Hello {0},Buongiorno {0}
+Here's what's happening with your projects today.,Ecco cosa succede oggi con i vostri progetti.
+Hide,Nascondere
+High,Alta
+History,Cronologia
+Home,Home
+Hourly Cost,Costo orario
+Hours,Ore
+hours,ore
+Hours Logged,Ore registrate
+ID,ID
+Image must be smaller than 5 MB,L'immagine deve essere inferiore a 5 MB
+Import,Importare
+Import existing projects and tasks from Frappe Projects module,Importare progetti e attività esistenti dal modulo Frappe Projects
+Import failed,Importazione non riuscita
+Import Template,Importare un modello
+Imported,Importato
+in,in
+In Progress,In corso
+In Review,In revisione
+In-app notifications,Notifiche nell'applicazione
+Inactive,Inattivo
+Initial Review,Revisione iniziale
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Permessi insufficienti per visualizzare tutte le attività
+Intermediate,Intermedio
+Internal,Interno
+Invalid DocType,DocType non valido
+Invalid DocType for import,DocType non valido per l'importazione
+Invalid item type: {0},Tipo di elemento non valido: {0}
+Invalid JSON data,Dati JSON non validi
+Invalid note type. Must be one of: {0},Tipo di nota non valido. Deve essere uno dei seguenti: {0}
+Invalid project reference,Riferimento progetto non valido
+Invalid reaction type. Must be one of: {0},Tipo di reazione non valido. Deve essere uno dei seguenti: {0}
+Invalid RSVP status,Stato RSVP non valido
+Invalid status. Must be one of: {0},Stato non valido. Deve essere uno dei seguenti: {0}
+Invalid status: {0},Stato non valido: {0}
+Invalid status: {0}. Must be one of: {1},Stato non valido: {0}. Deve essere uno dei seguenti: {1}
+Invalid tracking context: {0},Contesto di monitoraggio non valido: {0}
+Invalid visibility. Must be one of: {0},Visibilità non valida. Deve essere una delle seguenti: {0}
+Invitation: {0} - {1} at {2},Invito: {0} - {1} alle {2}
+Invite People,Invitare persone
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","Non sei tu, è il link. La pagina che stai cercando potrebbe essere stata spostata, rinominata o si sta prendendo una meritata pausa caffè. I tuoi progetti e dati sono perfettamente al sicuro."
+Item added,Elemento aggiunto
+Item ID is required,L'identificativo dell'elemento è obbligatorio
+Item removed,Elemento rimosso
+Item type is required,Il tipo di elemento è obbligatorio
+Item {0} not found,Elemento {0} non trovato
+Job title or role,Titolo professionale o ruolo
+Join Meeting,Partecipare alla riunione
+Just now,Proprio ora
+just now,proprio ora
+Kanban,Kanban
+Kanban Board,Bacheca Kanban
+Kanban View,Vista Kanban
+Keyboard Shortcuts,Scorciatoie da tastiera
+Keyboard shortcuts (?),Scorciatoie da tastiera (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Ultimo aggiornamento
+Last updated:,Ultimo aggiornamento:
+Last Week,Settimana scorsa
+Latest Version,Latest Version
+Light,Chiaro
+Link failed,Collegamento non riuscito
+Link Task,Collegare un'attività
+Linked,Collegato
+Linked employee not found,Dipendente collegato non trovato
+Linked Tasks,Attività collegate
+List,Elenco
+List View,Vista elenco
+Load failed,Caricamento non riuscito
+Load More,Carica altro
+Load more comments,Carica altri commenti
+Loading activity...,Caricamento dell'attività...
+Loading changes...,Caricamento delle modifiche...
+Loading checklist...,Caricamento della lista di controllo...
+Loading comments...,Caricamento dei commenti...
+Loading contact...,Caricamento del contatto...
+Loading contacts...,Caricamento dei contatti...
+Loading dependencies...,Caricamento delle dipendenze...
+Loading details...,Caricamento dei dettagli...
+Loading discussion...,Caricamento della discussione...
+Loading events...,Caricamento degli eventi...
+Loading files...,Caricamento dei file...
+Loading notes...,Caricamento delle note...
+Loading preferences...,Caricamento delle preferenze...
+Loading project...,Caricamento del progetto...
+Loading projects...,Caricamento dei progetti...
+Loading replies...,Caricamento delle risposte...
+Loading report data...,Caricamento dei dati del rapporto...
+Loading settings...,Caricamento delle impostazioni...
+Loading task...,Caricamento dell'attività...
+Loading templates...,Caricamento dei modelli...
+Loading time logs...,Caricamento delle voci di tempo...
+Loading your portal...,Caricamento del vostro portale...
+Loading...,Caricamento...
+Location,Luogo
+Log Time,Registrare il tempo
+Logout,Disconnettersi
+Low,Bassa
+Make Offer,Fare un'offerta
+Manager,Responsabile
+Manual Entry,Inserimento manuale
+Margin,Margine
+Mark all as read,Segna tutto come letto
+Mark all read,Segna tutto come letto
+Mark as read,Segna come letto
+Mark as unread,Segna come non letto
+Mark read,Segna come letto
+Marking...,Contrassegno in corso...
+Material,Materiale
+Maybe,Forse
+Medium,Media
+Meeting,Riunione
+Meeting Link,Collegamento alla riunione
+Meeting title,Titolo della riunione
+Meeting URL,URL della riunione
+Meetings,Riunioni
+Mention,Menzionare
+Message,Messaggio
+Message is required,Il messaggio è obbligatorio
+Message is required for '{0}' action,Il messaggio è obbligatorio per l'azione «{0}»
+Migrate,Migrare
+Migration Complete,Migrazione completata
+Migration ID:,ID migrazione:
+Migration log not found: {0},Registro di migrazione non trovato: {0}
+Milestone,Traguardo
+milestone,traguardo
+Milestone created,Traguardo creato
+Milestone description has been saved.,La descrizione del traguardo è stata salvata.
+Milestone ID is required,L'identificativo del traguardo è obbligatorio
+Milestone marked as Missed (past due date),Traguardo contrassegnato come mancato (data di scadenza superata)
+Milestone moved,Traguardo spostato
+Milestone Name,Nome del traguardo
+Milestone name has been saved.,Il nome del traguardo è stato salvato.
+Milestone name is required,Il nome del traguardo è obbligatorio
+Milestone updated,Traguardo aggiornato
+Milestone {0} not found,Traguardo {0} non trovato
+Milestone {0} not in project {1},Traguardo {0} non presente nel progetto {1}
+Milestones,Traguardi
+milestones,traguardi
+Milestones:,Traguardi:
+Minutes,Minuti
+Missed,Mancato
+Mixed,Misto
+Mobile,Mobile
+Moderate,Moderato
+Modified,Modificato
+"Modify details, time, or attendees","Modifica dettagli, orario o partecipanti"
+Mon,Lun
+Month,Mese
+Move failed,Spostamento non riuscito
+Must be a positive number,Deve essere un numero positivo
+Must finish before this finishes,Deve finire prima che questo finisca
+Must finish before this starts,Deve finire prima che questo inizi
+Must start before this finishes,Deve iniziare prima che questo finisca
+Must start before this starts,Deve iniziare prima che questo inizi
+My Assignments,Le mie assegnazioni
+My Projects,I miei progetti
+My Schedule,Il mio calendario
+My Tasks,Le mie attività
+N/A,N/D
+Name,Nome
+Name (A-Z),Nome (A-Z)
+Name (Z-A),Nome (Z-A)
+Name cannot exceed 255 characters,Il nome non può superare i 255 caratteri
+Need help?,Avete bisogno di aiuto?
+Needs Attention,Richiede attenzione
+Never,Never
+new activities,nuove attività
+New Activity,Nuova attività
+New activity,Nuova attività
+New Event,Nuovo evento
+New index is required,Il nuovo indice è obbligatorio
+New Project,Nuovo progetto
+New tasks will auto-trail by default.,Le nuove attività avranno lo slittamento automatico per impostazione predefinita.
+Newest First,Più recenti per primi
+Next,Successivo
+Next 14 days,Prossimi 14 giorni
+Next 30 days,Prossimi 30 giorni
+Next 60 days,Prossimi 60 giorni
+Next 7 days,Prossimi 7 giorni
+Next 90 days,Prossimi 90 giorni
+Next Week,Prossima settimana
+Next:,Successivo:
+No,No
+No active assignments,Nessuna assegnazione attiva
+No active projects,Nessun progetto attivo
+No active timer found,Nessun cronometro attivo trovato
+No activity selected,Nessuna attività selezionata
+No assignments found,Nessuna assegnazione trovata
+No attendees,Nessun partecipante
+no change,nessuna modifica
+No changes for this field.,Nessuna modifica per questo campo.
+No changes recorded for this activity.,Nessuna modifica registrata per questa attività.
+No checklist items yet,Ancora nessun elemento nella lista di controllo
+No checklist items yet.,Ancora nessun elemento nella lista di controllo.
+No comments yet,Ancora nessun commento
+No comments yet.,Ancora nessun commento.
+No contacts available,Nessun contatto disponibile
+No content for this tab,Nessun contenuto per questa scheda
+No data available,Nessun dato disponibile
+No data available for the selected filters,Nessun dato disponibile per i filtri selezionati
+No data to export,Nessun dato da esportare
+No dates set,Nessuna data impostata
+No defects reported,Nessun difetto segnalato
+No dependencies defined,Nessuna dipendenza definita
+No description,Nessuna descrizione
+No discussion yet.,Ancora nessuna discussione.
+No documents attached,Nessun documento allegato
+No due date,Nessuna data di scadenza
+No employee linked to this resource,Nessun dipendente collegato a questa risorsa
+No ERPNext employee linked to resource,Nessun dipendente ERPNext collegato alla risorsa
+No events found,Nessun evento trovato
+No files attached yet.,Ancora nessun file allegato.
+No Frappe Project linked,Nessun progetto Frappe collegato
+No Grouping,Nessun raggruppamento
+No items,Nessun elemento
+No matching tasks,Nessuna attività corrispondente
+No matching tasks found,Nessuna attività corrispondente trovata
+No migration history,Nessuna cronologia di migrazione
+No Milestone,Nessun traguardo
+No milestones,Nessun traguardo
+No milestones defined for this project.,Nessun traguardo definito per questo progetto.
+No notes yet.,Ancora nessuna nota.
+No notes yet. Add a due diligence note to track progress.,Ancora nessuna nota. Aggiungete una nota di verifica preliminare per monitorare l'avanzamento.
+No notifications,Nessuna notifica
+No Orga Project linked to Frappe Project {0},Nessun progetto Orga collegato al progetto Frappe {0}
+No overdue tasks,Nessuna attività in ritardo
+No pending cascade changes,Nessuna modifica a cascata in sospeso
+No predecessors - this task can start independently,Nessun predecessore — questa attività può iniziare indipendentemente
+No project,Nessun progetto
+No projects found,Nessun progetto trovato
+No Projects Yet,Ancora nessun progetto
+No recent activity,Nessuna attività recente
+No related documents,Nessun documento correlato
+No resolved threads.,Nessun argomento di discussione risolto.
+No resources found,Nessuna risorsa trovata
+No results found,Nessun risultato trovato
+No skills listed,Nessuna competenza elencata
+No skills recorded yet,Ancora nessuna competenza registrata
+No successors - no tasks are waiting for this one,Nessun successore — nessuna attività attende questa
+No task selected,Nessuna attività selezionata
+No tasks assigned to you,Nessuna attività assegnata a voi
+No tasks available to add,Nessuna attività disponibile da aggiungere
+No tasks found,Nessuna attività trovata
+No tasks linked to this milestone,Nessuna attività collegata a questo traguardo
+No tasks with dates to display,Nessuna attività con date da visualizzare
+No tasks yet,Ancora nessuna attività
+No team members,Nessun membro del gruppo
+No template,Nessun modello
+No templates yet,Ancora nessun modello
+No time data found,Nessun dato temporale trovato
+No time logged today,Nessun tempo registrato oggi
+No time logged yet,Ancora nessun tempo registrato
+No time logs for this period,Nessuna voce di tempo per questo periodo
+No time logs found,Nessuna voce di tempo trovata
+No unread notifications,Nessuna notifica non letta
+No update information available yet.,No update information available yet.
+None,Nessuno
+Not found,Non trovato
+Not permitted,Non autorizzato
+Not permitted to access this project,Accesso non autorizzato a questo progetto
+Not permitted to access this task,Accesso non autorizzato a questa attività
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Non siete autorizzati a commentare questo documento
+Not permitted to create clients,Non siete autorizzati a creare clienti
+Not permitted to delete this client,Non siete autorizzati a eliminare questo cliente
+Not permitted to delete this defect,Non siete autorizzati a eliminare questo difetto
+Not permitted to delete this note,Non siete autorizzati a eliminare questa nota
+Not permitted to delete this project,Non siete autorizzati a eliminare questo progetto
+Not permitted to delete this task,Non siete autorizzati a eliminare questa attività
+Not permitted to delete this time log,Non siete autorizzati a eliminare questa voce di tempo
+Not permitted to invite clients,Non siete autorizzati a invitare clienti
+Not permitted to modify client access,Non siete autorizzati a modificare l'accesso del cliente
+Not permitted to modify this project,Non siete autorizzati a modificare questo progetto
+Not permitted to update settings,Non siete autorizzati a modificare le impostazioni
+Not permitted to update this client,Non siete autorizzati a modificare questo cliente
+Not permitted to view this client,Non siete autorizzati a visualizzare questo cliente
+not sent,non inviato
+Not set,Non impostato
+Not specified,Non specificato
+Note,Nota
+Note (optional),Nota (facoltativo)
+Note Content,Contenuto della nota
+Note content is required,Il contenuto della nota è obbligatorio
+Note name is required,Il nome della nota è obbligatorio
+Note not found,Nota non trovata
+Note Type,Tipo di nota
+Notes,Note
+Notification,Notifica
+Notification not found,Notifica non trovata
+Notifications,Notifiche
+Off Track,Fuori strada
+Offer,Offerta
+Offer Prepared,Offerta preparata
+Oldest First,Più vecchi per primi
+On Hold,In sospeso
+On Leave,In ferie
+On Track,In linea
+On-Time Rate,Tasso di puntualità
+Only administrators can delete activities,Solo gli amministratori possono eliminare le attività
+Only the comment author or administrators can delete comments,Solo l'autore del commento o gli amministratori possono eliminare i commenti
+Only you and admins,Solo voi e gli amministratori
+Open,Aperto
+Open in Desk,Aprire nel Desk
+Open Task Log,Aprire il registro dell'attività
+Open Tasks,Attività aperte
+Optional,Facoltativo
+optional,facoltativo
+Or email us directly at,Oppure inviateci un'e-mail direttamente a
+Orga Project {0} from Frappe Projects,Progetto Orga {0} da Frappe Projects
+Orga Task {0} from Frappe,Attività Orga {0} da Frappe
+Organizer,Organizzatore
+Other,Altro
+Over Budget,Budget superato
+Overall Progress,Avanzamento complessivo
+Overall Utilization,Utilizzo complessivo
+Overallocated,Sovrallocato
+Overdue,In ritardo
+overdue,in ritardo
+Overdue Tasks,Attività in ritardo
+Overview,Panoramica
+Owner,Proprietario
+Page Not Found,Pagina non trovata
+Parent,Genitore
+Parent comment must belong to the same document,Il commento genitore deve appartenere allo stesso documento
+Parent comment not found,Commento genitore non trovato
+Parent project not synced to Frappe yet,Il progetto principale non è ancora sincronizzato con Frappe
+Parent project sync not enabled,La sincronizzazione del progetto principale non è attivata
+Partner,Partner
+Pending,In attesa
+per page,per pagina
+Perform initial assessment and background check,Eseguire la valutazione iniziale e il controllo dei precedenti
+Permanently remove this event,Rimuovere definitivamente questo evento
+Permanently remove this task,Rimuovere definitivamente questa attività
+Phone,Telefono
+Pin,Fissare
+Pin Activity,Fissare l'attività
+Pin to top,Fissare in alto
+Pinned,Fissato
+Planned budget for this task,Budget previsto per questa attività
+Planning,Pianificazione
+Please describe your question or issue in detail...,Descrivete la vostra domanda o il vostro problema in dettaglio...
+Please login to access Orga,Effettuare l'accesso per accedere a Orga
+Please login to access the client portal,Effettuare l'accesso per accedere al portale clienti
+Please respond to this invitation in Orga,Rispondete a questo invito in Orga
+Please select an image file,Selezionare un file immagine
+Please try again,Riprovare
+Please type,Digitare
+Portal,Portale
+Portal access revoked for {0},Accesso al portale revocato per {0}
+Portal user created successfully. Welcome email {0},Utente del portale creato con successo. E-mail di benvenuto {0}
+Post,Pubblicare
+Powered by,Powered by
+Powered by Tonic,Powered by Tonic
+Predecessors (Blocked By),Predecessori (bloccato da)
+Preferences,Preferenze
+Preferences saved successfully,Preferenze salvate con successo
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Prefisso per i codici progetto generati automaticamente (es.: ORG-2026-0001)
+Prepare and document offer terms,Preparare e documentare i termini dell'offerta
+Press,Premere
+Preview,Anteprima
+Preview cascade before applying,Anteprima della cascata prima dell'applicazione
+Previous,Precedente
+Priority,Priorità
+Priority assigned to new tasks,Priorità assegnata alle nuove attività
+Priority updated,Priorità aggiornata
+Proficiency,Competenza
+Profile,Profilo
+Progress,Avanzamento
+Progress (High-Low),Avanzamento (decrescente)
+Progress (Low-High),Avanzamento (crescente)
+Progress Overview,Panoramica dell'avanzamento
+Progress updated,Avanzamento aggiornato
+Project,Progetto
+Project budget has been saved.,Il budget del progetto è stato salvato.
+Project code (e.g. ORG-2026-0001),Codice del progetto (es.: ORG-2026-0001)
+Project Code Prefix,Prefisso codice progetto
+Project created,Progetto creato
+Project deleted,Progetto eliminato
+Project description has been saved.,La descrizione del progetto è stata salvata.
+Project Details,Dettagli del progetto
+Project end date has been saved.,La data di fine del progetto è stata salvata.
+Project Files,File del progetto
+Project has no linked client,Il progetto non ha nessun cliente collegato
+Project Health,Stato del progetto
+Project Info,Informazioni sul progetto
+Project is required,Il progetto è obbligatorio
+Project is required for project context,Il progetto è obbligatorio per il contesto progetto
+Project is required when tracking context is 'project',Il progetto è obbligatorio quando il contesto di monitoraggio è «progetto»
+Project Manager,Responsabile del progetto
+Project Name,Nome del progetto
+Project name and template name are required,Il nome del progetto e il nome del modello sono obbligatori
+Project name is required,Il nome del progetto è obbligatorio
+Project not found,Progetto non trovato
+Project not found or you do not have access,Progetto non trovato o accesso negato
+Project settings,Impostazioni del progetto
+Project start date has been saved.,La data di inizio del progetto è stata salvata.
+Project title has been saved.,Il titolo del progetto è stato salvato.
+Project Type,Tipo di progetto
+Project updated,Progetto aggiornato
+Project {0} linked to client {1},Progetto {0} collegato al cliente {1}
+Project {0} not found,Progetto {0} non trovato
+Project {0} to Frappe Projects,Progetto {0} verso Frappe Projects
+Project:,Progetto:
+Projects,Progetti
+projects,progetti
+Projects created:,Progetti creati:
+Projects Overview,Panoramica dei progetti
+Projects skipped:,Progetti saltati:
+Projects updated:,Progetti aggiornati:
+Promote failed,Promozione non riuscita
+Promote to task,Promuovere ad attività
+Promoted to task,Promosso ad attività
+Propose,Proporre
+Propose New Time,Proporre un nuovo orario
+Propose Time,Proporre un orario
+Proposed End,Fine proposta
+Proposed Start,Inizio proposto
+Public,Pubblico
+Quick Action,Azione rapida
+Quick Actions,Azioni rapide
+Quick Stats,Statistiche rapide
+Rates,Tariffe
+Receive notifications via email,Ricevere notifiche via e-mail
+Receive notifications within the application,Ricevere notifiche all'interno dell'applicazione
+Recent Activity,Attività recente
+Recipient {0} is not a valid user,Il destinatario {0} non è un utente valido
+Reference,Riferimento
+Refresh,Aggiornare
+Related,Correlato
+Related Company (optional),Azienda correlata (facoltativo)
+Related Documents,Documenti correlati
+Related Project,Progetto correlato
+Remaining,Rimanente
+Reminder,Promemoria
+Reminder Lead Time,Anticipo del promemoria
+Reminder: {0} - {1} at {2},Promemoria: {0} - {1} alle {2}
+Remove,Rimuovere
+Remove dependency,Rimuovere la dipendenza
+Remove dependency on,Rimuovere la dipendenza da
+Remove from group,Rimuovere dal gruppo
+Remove group dependency,Rimuovere la dipendenza di gruppo
+Remove skill,Rimuovere la competenza
+Reopen,Riaprire
+Reopen thread,Riaprire il tema di discussione
+reopened,riaperto
+replies,risposte
+Reply,Rispondere
+reply,risposta
+Replying to,In risposta a
+Replying to comment,In risposta al commento
+Report Defect,Segnalare un difetto
+Reported Date,Data di segnalazione
+Reports,Rapporti
+Reports To,Riferisce a
+Request Submitted!,Richiesta inviata!
+Required,Obbligatorio
+required,obbligatorio
+Research,Ricerca
+Reset to Defaults,Ripristinare i valori predefiniti
+Resolve,Risolvere
+Resolve thread,Risolvere il tema di discussione
+Resolved,Risolto
+Resolved date cannot be before reported date,La data di risoluzione non può essere precedente alla data di segnalazione
+Resource,Risorsa
+Resource and skill name are required,La risorsa e il nome della competenza sono obbligatori
+Resource is already an attendee,La risorsa è già un partecipante
+Resource name is required,Il nome della risorsa è obbligatorio
+Resource not found,Risorsa non trovata
+Resource synced from employee {0},Risorsa sincronizzata dal dipendente {0}
+Resource {0} is already assigned to this task ({1}),La risorsa {0} è già assegnata a questa attività ({1})
+Resource {0} not found,Risorsa {0} non trovata
+Resources,Contatti
+Retry,Riprovare
+Review,Revisione
+Review all relevant documents and contracts,Esaminare tutti i documenti e i contratti pertinenti
+Reviews,Esami
+Risk Assessment,Valutazione dei rischi
+Rollback,Ripristinare
+Rolled back,Ripristinato
+Room or address,Sala o indirizzo
+RSVP,RSVP
+Safety,Sicurezza
+Sat,Sab
+Save,Salvare
+"Save a project as a template, or import one from a JSON file.","Salvate un progetto come modello, o importatene uno da un file JSON."
+Save as Template,Salvare come modello
+Save Changes,Salvare le modifiche
+Save failed,Salvataggio non riuscito
+Save Preferences,Salvare le preferenze
+Save Template,Salvare il modello
+Saving...,Salvataggio in corso...
+Schedule,Calendario
+Schedule type is required for scheduled triggers,Il tipo di pianificazione è obbligatorio per i trigger pianificati
+Scheduled,Pianificato
+Search,Cercare
+"Search by name, email, or skill...","Cercare per nome, e-mail o competenza..."
+Search for a project...,Cercare un progetto...
+Search for a task...,Cercare un'attività...
+Search for an event...,Cercare un evento...
+Search for people to invite...,Cercare persone da invitare...
+Search tasks to link...,Cercare attività da collegare...
+Search tasks...,Cercare attività...
+Search...,Cercare...
+Searching...,Ricerca in corso...
+Seen,Visto
+Select a project if your request is related to a specific project.,Selezionare un progetto se la vostra richiesta è relativa a un progetto specifico.
+Select a project...,Selezionare un progetto...
+Select a task from the Gantt chart to view and manage its details.,Selezionare un'attività dal diagramma di Gantt per visualizzare e gestire i suoi dettagli.
+Select a task from the list or Kanban board to view and manage its details.,Selezionare un'attività dall'elenco o dalla bacheca Kanban per visualizzare e gestire i suoi dettagli.
+Select a template...,Selezionare un modello...
+Select priority...,Selezionare una priorità...
+Select status...,Selezionare uno stato...
+Select task...,Selezionare un'attività...
+Select type...,Selezionare un tipo...
+Selection,Selezione
+Send,Inviare
+Send comment,Inviare il commento
+Send email invitations to attendees,Inviare gli inviti via e-mail ai partecipanti
+Send Invitations,Inviare gli inviti
+Send notification when a task is assigned to a user,Inviare una notifica quando un'attività viene assegnata a un utente
+Send notification when task status changes,Inviare una notifica quando lo stato dell'attività cambia
+Send reminder before task due date,Inviare un promemoria prima della scadenza dell'attività
+sent,inviato
+Set rate,Impostare la tariffa
+Settings,Impostazioni
+Settings saved successfully,Impostazioni salvate con successo
+Severity,Gravità
+SF (Start-Finish),SF (Inizio-Fine)
+SF - Start-to-Finish,SF - Inizio-a-Fine
+Show,Mostrare
+Show all,Mostrare tutto
+Show all changes,Mostrare tutte le modifiche
+Show Archived,Mostrare gli archiviati
+Show full diff,Mostrare il confronto completo
+Show less,Mostrare meno
+Show more,Mostrare di più
+Skill added,Competenza aggiunta
+Skill is required,La competenza è obbligatoria
+Skill Name,Nome della competenza
+Skill removed,Competenza rimossa
+Skill {0} already exists for this resource,La competenza {0} esiste già per questa risorsa
+Skills,Competenze
+Skills & Competencies,Competenze e abilità
+Skip already migrated projects,Saltare i progetti già migrati
+Sort by,Ordinare per
+Sort: Due Date,Ordina: Data di scadenza
+Sort: Priority,Ordina: Priorità
+Sort: Project,Ordina: Progetto
+Sort: Status,Ordina: Stato
+Sort: Task,Ordina: Attività
+Source Code,Codice sorgente
+Spent,Speso
+Spent:,Speso:
+SS (Start-Start),SS (Inizio-Inizio)
+SS - Start-to-Start,SS - Inizio-a-Inizio
+Standalone,Indipendente
+Start,Inizio
+Start a discussion below,Avviate una discussione qui sotto
+Start Date,Data di inizio
+Start date,Data di inizio
+Start Date (Earliest),Data di inizio (la più vicina)
+Start date updated,Data di inizio aggiornata
+Start date/time is required,La data/ora di inizio è obbligatoria
+Start Migration,Avviare la migrazione
+Start the conversation below.,Iniziate la conversazione qui sotto.
+Start Timer,Avviare il cronometro
+Start typing to search...,Iniziate a digitare per cercare...
+Start-to-Finish,Inizio-a-Fine
+Start-to-Start,Inizio-a-Inizio
+Start:,Inizio:
+Statistics reset,Statistiche ripristinate
+Status,Stato
+Status assigned to new projects,Stato assegnato ai nuovi progetti
+Status assigned to new tasks,Stato assegnato alle nuove attività
+Status Changes,Cambiamenti di stato
+Status updated,Stato aggiornato
+Status:,Stato:
+Stop,Fermare
+Stop & Save,Fermare e salvare
+Stop Timer,Fermare il cronometro
+Stops current timer and starts for this event,Ferma il cronometro attuale e lo avvia per questo evento
+Stops current timer and starts for this task,Ferma il cronometro attuale e lo avvia per questa attività
+Subject,Oggetto
+Subject cannot exceed 255 characters,L'oggetto non può superare i 255 caratteri
+Subject is required,L'oggetto è obbligatorio
+Submit,Inviare
+Submit Another Request,Inviare un'altra richiesta
+Submit Request,Inviare la richiesta
+Submitting...,Invio in corso...
+Successfully saved,Salvato con successo
+Successors (Blocking),Successori (bloccante)
+Sun,Dom
+Supplier,Fornitore
+Support,Supporto
+Switch to this event,Passare a questo evento
+Switch to this task,Passare a questa attività
+Sync direction is set to Frappe to Orga only,La direzione di sincronizzazione è impostata solo da Frappe a Orga
+Sync direction is set to Orga to Frappe only,La direzione di sincronizzazione è impostata solo da Orga a Frappe
+Sync not enabled for this project,La sincronizzazione non è attivata per questo progetto
+System,Sistema
+Table,Tabella
+Take ownership of this task,Prendere in carico questa attività
+Target Date,Data obiettivo
+Target End,Fine obiettivo
+Target Project,Progetto obiettivo
+Target user is required for '{0}' action,L'utente di destinazione è obbligatorio per l'azione «{0}»
+Task,Attività
+task,attività
+Task '{0}' is due on {1}.,L'attività «{0}» scade il {1}.
+Task and resource are required,L'attività e la risorsa sono obbligatorie
+Task Assignment,Assegnazione dell'attività
+Task cannot be its own parent,Un'attività non può essere il proprio genitore
+Task cannot depend on itself,Un'attività non può dipendere da sé stessa
+Task cannot depend on the group it belongs to,Un'attività non può dipendere dal gruppo a cui appartiene
+Task created,Attività creata
+Task deleted,Attività eliminata
+Task description has been saved.,La descrizione dell'attività è stata salvata.
+Task Details,Dettagli dell'attività
+Task due in {0} days: {1},Attività in scadenza tra {0} giorni: {1}
+Task due today: {0},Attività in scadenza oggi: {0}
+Task due tomorrow: {0},Attività in scadenza domani: {0}
+Task duplicated,Attività duplicata
+Task Group,Gruppo di attività
+Task ID is required,L'identificativo dell'attività è obbligatorio
+Task is blocked by incomplete dependencies,L'attività è bloccata da dipendenze incomplete
+Task is cancelled,L'attività è annullata
+Task is completed,L'attività è completata
+Task is no longer blocked by a group,L'attività non è più bloccata da un gruppo
+Task is required for task context,L'attività è obbligatoria per il contesto attività
+Task is required when tracking context is 'task',L'attività è obbligatoria quando il contesto di monitoraggio è «attività»
+Task linked,Attività collegata
+Task moved,Attività spostata
+Task name,Nome dell'attività
+Task name is required,Il nome dell'attività è obbligatorio
+Task removed from group,Attività rimossa dal gruppo
+Task Subject,Oggetto dell'attività
+Task subject is required,L'oggetto dell'attività è obbligatorio
+Task Type,Tipo di attività
+Task unblocked: {0},Attività sbloccata: {0}
+Task unlinked,Attività scollegata
+Task updated,Attività aggiornata
+Task {0} not found,Attività {0} non trovata
+Task {0} not in project {1},Attività {0} non presente nel progetto {1}
+Task {0} to Frappe,Attività {0} verso Frappe
+Tasks,Attività
+tasks,attività
+Tasks and milestones will be created with dates relative to the project start date.,Le attività e i traguardi saranno creati con date relative alla data di inizio del progetto.
+Tasks assigned to you across all projects.,Attività assegnate a voi in tutti i progetti.
+Tasks created:,Attività create:
+Tasks from projects you manage.,Attività dei progetti che gestite.
+Tasks updated:,Attività aggiornate:
+"Tasks, milestones, and dependencies have been created.","Le attività, i traguardi e le dipendenze sono stati creati."
+Tasks:,Attività:
+TBD,Da definire
+Team,Gruppo
+Team Members,Membri del gruppo
+Template,Modello
+Template applied,Modello applicato
+Template data is required in import data,I dati del modello sono obbligatori nei dati di importazione
+Template has no data,Il modello non contiene dati
+Template Name,Nome del modello
+Template name,Nome del modello
+Template name is required,Il nome del modello è obbligatorio
+Template name is required in import data,Il nome del modello è obbligatorio nei dati di importazione
+Template saved,Modello salvato
+Template updated successfully.,Modello aggiornato con successo.
+Template {0} not found,Modello {0} non trovato
+Templates,Modelli
+Tentative,Provvisorio
+The comment has been deleted,Il commento è stato eliminato
+The project,Il progetto
+The source document may have been deleted.,Il documento di origine potrebbe essere stato eliminato.
+The source document will not be affected.,Il documento di origine non sarà modificato.
+The status of '{0}' was changed from {1} to {2}.,Lo stato di «{0}» è stato modificato da {1} a {2}.
+Theme,Tema
+Theme preference,Preferenza tema
+This action,Questa azione
+This action cannot be undone.,Questa azione è irreversibile.
+This activity has been flagged for attention,Questa attività è stata segnalata per attenzione
+This is a reminder for your upcoming appointment,Questo è un promemoria per il vostro prossimo appuntamento
+This method is only meant for developer mode,Questo metodo è riservato alla modalità sviluppatore
+This page wandered off,Questa pagina si è persa
+This Week,Questa settimana
+This will delete all notes and preferences associated with this activity.,Questo eliminerà tutte le note e le preferenze associate a questa attività.
+This will import all Frappe Projects into Orga. Continue?,Questo importerà tutti i progetti Frappe in Orga. Continuare?
+This will permanently delete,Questo eliminerà definitivamente
+This will permanently delete:,Questo eliminerà definitivamente:
+Thu,Gio
+Time,Ora
+Time & Billing,Tempo e fatturazione
+Time & Revenue,Tempo e ricavi
+Time Entries,Voci di tempo
+Time log name is required,Il nome della voce di tempo è obbligatorio
+Time Log not found,Voce di tempo non trovata
+Time log {0} not found,Voce di tempo {0} non trovata
+Time Logs,Voci di tempo
+Time Summary,Riepilogo tempo
+Time Tracking,Monitoraggio del tempo
+Timeline,Cronologia
+Timer active on,Cronometro attivo su
+Timer is not running,Il cronometro non è in corso
+Timer Running,Cronometro in corso
+Timer running,Cronometro in corso
+Timesheet DocType not available,DocType Foglio ore non disponibile
+Timesheets,Fogli ore
+Timezone,Fuso orario
+Timezone is detected from your browser,Il fuso orario è rilevato dal vostro browser
+Title,Titolo
+Title cannot exceed 255 characters,Il titolo non può superare i 255 caratteri
+Title is required,Il titolo è obbligatorio
+Title updated,Titolo aggiornato
+To,A
+to,a
+to cancel,per annullare
+to close,per chiudere
+to confirm:,per confermare:
+to edit,per modificare
+"to save,","per salvare,"
+To Time cannot be before From Time,L'ora di fine non può essere precedente all'ora di inizio
+Today,Oggi
+today,oggi
+Toggle billable,Attivare/disattivare fatturabile
+Toggle Details Panel,Mostrare/nascondere il pannello dei dettagli
+Toggle Manager Panel,Mostrare/nascondere il pannello gestione
+Toggle Sidebar,Mostrare/nascondere la barra laterale
+Tomorrow,Domani
+tomorrow,domani
+Total,Totale
+Total Budget,Budget totale
+Total Contacts,Totale contatti
+Total Cost,Costo totale
+Total Cost to Org,Costo totale per l'organizzazione
+Total Defect Cost,Costo totale difetti
+Total Hours,Ore totali
+Total Hours Logged,Ore totali registrate
+Total Projects,Totale progetti
+Total Spent,Totale speso
+Total Tasks,Totale attività
+Total:,Totale:
+Tracked,Monitorato
+trails to today while Open at 0%,slitta fino a oggi finché aperto allo 0%
+Tried:,Provato:
+Try adjusting your filter criteria,Provate a modificare i criteri di filtro
+Try adjusting your filters.,Provate a modificare i filtri.
+Try Again,Riprovare
+Tue,Mar
+Type,Tipo
+Type updated,Tipo aggiornato
+Type:,Tipo:
+Typical response time: 1-2 business days,Tempo di risposta tipico: 1-2 giorni lavorativi
+Unarchive,Disarchiviare
+Unarchive Activity,Disarchiviare l'attività
+Unassign,Disassegnare
+Unassigned,Non assegnato
+Under Budget,Sotto il budget
+Ungrouped,Non raggruppato
+Unknown,Sconosciuto
+Unknown error,Errore sconosciuto
+Unlink failed,Scollegamento non riuscito
+Unlink task from milestone,Scollegare l'attività dal traguardo
+Unpin,Togliere dal fisso
+Unpin Activity,Togliere l'attività dal fisso
+Unread,Non letto
+Unread only,Solo non letti
+Until,Fino a
+Up to Date,Up to Date
+Upcoming,In arrivo
+upcoming,in arrivo
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Aggiornamento non riuscito
+Updated,Aggiornato
+Updated successfully,Aggiornato con successo
+Updates,Updates
+Upload,Caricare
+Upload failed,Caricamento non riuscito
+Upload files below to attach them to this task.,Caricate i file qui sotto per allegarli a questa attività.
+Upload to project,Caricare nel progetto
+Uploading...,Caricamento in corso...
+Urgent,Urgente
+User {0} is already linked to client {1},L'utente {0} è già collegato al cliente {1}
+User {0} is already linked to resource {1},L'utente {0} è già collegato alla risorsa {1}
+Utilization,Utilizzo
+Valid,Valido
+Value:,Valore:
+Variance,Scostamento
+Variance:,Scostamento:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Visualizzare
+View All,Visualizza tutto
+View all active projects,Visualizzare tutti i progetti attivi
+View all open tasks,Visualizzare tutte le attività aperte
+View overdue tasks,Visualizzare le attività in ritardo
+View Release,View Release
+Visibility,Visibilità
+Waiting for this task,In attesa di questa attività
+Waits for:,In attesa di:
+Warning: Resource {0} status is {1},Attenzione: lo stato della risorsa {0} è {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Attenzione: utilizzo di HTTP invece di HTTPS. I dati webhook potrebbero non essere sicuri.
+Watch budget closely,Monitorare il budget attentamente
+We'll respond to:,Risponderemo a:
+Webhook deleted,Webhook eliminato
+Webhook name is required,Il nome del webhook è obbligatorio
+Webhook not found,Webhook non trovato
+Webhook URL is required,L'URL del webhook è obbligatorio
+Webhook URL must start with http:// or https://,L'URL del webhook deve iniziare con http:// o https://
+Wed,Mer
+Week,Settimana
+Weekend,Fine settimana
+Weekly Capacity,Capacità settimanale
+weekly capacity,capacità settimanale
+Weekly Capacity (h),Capacità settimanale (h)
+Welcome,Benvenuto
+Welcome back!,Bentornato!
+Welcome to Orga,Benvenuto in Orga
+What are you working on?,Su cosa state lavorando?
+What did you work on?,Su cosa avete lavorato?
+When,Quando
+When work begins,Quando il lavoro inizia
+When work is due,Quando il lavoro è in scadenza
+Where,Dove
+Will capture:,Catturerà:
+Will create:,Creerà:
+with checklist items,con gli elementi della lista di controllo
+Working,In corso
+Workload,Carico di lavoro
+Workmanship,Qualità della manodopera
+Write a comment...,Scrivere un commento...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Scrivere un commento... Usate @nome per menzionare (Ctrl+Invio per inviare)
+Year,Anno
+Yes,Sì
+Yesterday,Ieri
+yesterday,ieri
+You are not an attendee of this appointment,Non siete un partecipante di questo appuntamento
+You are not linked to any resource,Non siete collegati a nessuna risorsa
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Potete eliminare solo i vostri commenti
+You can only delete your own reactions,Potete eliminare solo le vostre reazioni
+You do not have access to the client portal. Please contact support.,Non avete accesso al portale clienti. Contattate il supporto.
+You have already reacted with '{0}',Avete già reagito con «{0}»
+You have been assigned to task '{0}' in project '{1}'.,Vi è stata assegnata l'attività «{0}» nel progetto «{1}».
+You have been assigned to: {0},Vi è stato assegnato: {0}
+You have been invited to the following appointment,Siete stati invitati al seguente appuntamento
+You have no tasks assigned to you right now.,Non avete nessuna attività assegnata al momento.
+You were mentioned in {0},Siete stati menzionati in {0}
+Your attendance,La vostra partecipazione
+Your comment has been posted,Il vostro commento è stato pubblicato
+Your Projects,I vostri progetti
+Your projects will appear here once they're assigned to you.,I vostri progetti appariranno qui una volta che vi saranno assegnati.
+Your Response,La vostra risposta
+Your RSVP,Il vostro RSVP
+Your support request has been submitted successfully.,La vostra richiesta di supporto è stata inviata con successo.
+Your support request has been submitted successfully. We'll get back to you shortly.,La vostra richiesta di supporto è stata inviata con successo. Vi risponderemo al più presto.
+"Your task ""{0}"" is no longer blocked and can now be started.",La vostra attività «{0}» non è più bloccata e può essere avviata.
+{0} is required,{0} è obbligatorio
+{0} new activities,{0} nuove attività
+{0} of {1} completed,{0} di {1} completato/i
+{0} projects already migrated (will be skipped or updated),{0} progetti già migrati (saranno saltati o aggiornati)
+{0} status changed to {1},Lo stato di {0} è stato modificato in {1}
+{0} tasks remaining,{0} attività rimanenti
+{0} tasks without projects will be skipped,{0} attività senza progetto saranno saltate
+{0} {1} not found,{0} {1} non trovato

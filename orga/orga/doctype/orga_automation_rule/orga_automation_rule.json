@@ -1,0 +1,164 @@
+{
+  "actions": [],
+  "autoname": "field:rule_name",
+  "creation": "2026-02-03 12:00:00.000000",
+  "doctype": "DocType",
+  "engine": "InnoDB",
+  "field_order": [
+    "rule_name",
+    "description",
+    "column_break_1",
+    "is_active",
+    "applies_to",
+    "trigger_event",
+    "section_conditions",
+    "conditions",
+    "section_actions",
+    "actions",
+    "section_schedule",
+    "schedule_type",
+    "column_break_schedule",
+    "last_run",
+    "run_count"
+  ],
+  "fields": [
+    {
+      "fieldname": "rule_name",
+      "fieldtype": "Data",
+      "label": "Rule Name",
+      "reqd": 1,
+      "unique": 1,
+      "in_list_view": 1,
+      "in_standard_filter": 1
+    },
+    {
+      "fieldname": "description",
+      "fieldtype": "Small Text",
+      "label": "Description"
+    },
+    {
+      "fieldname": "column_break_1",
+      "fieldtype": "Column Break"
+    },
+    {
+      "fieldname": "is_active",
+      "fieldtype": "Check",
+      "label": "Is Active",
+      "default": "1",
+      "in_list_view": 1
+    },
+    {
+      "fieldname": "applies_to",
+      "fieldtype": "Select",
+      "label": "Applies To",
+      "options": "Orga Task\nOrga Project\nOrga Assignment",
+      "reqd": 1,
+      "in_list_view": 1,
+      "in_standard_filter": 1
+    },
+    {
+      "fieldname": "trigger_event",
+      "fieldtype": "Select",
+      "label": "Trigger Event",
+      "options": "On Create\nOn Update\nOn Status Change\nOn Assignment\nScheduled",
+      "reqd": 1,
+      "in_list_view": 1,
+      "in_standard_filter": 1
+    },
+    {
+      "fieldname": "section_conditions",
+      "fieldtype": "Section Break",
+      "label": "Conditions",
+      "description": "All conditions must be true for actions to execute"
+    },
+    {
+      "fieldname": "conditions",
+      "fieldtype": "Table",
+      "label": "Conditions",
+      "options": "Orga Rule Condition"
+    },
+    {
+      "fieldname": "section_actions",
+      "fieldtype": "Section Break",
+      "label": "Actions"
+    },
+    {
+      "fieldname": "actions",
+      "fieldtype": "Table",
+      "label": "Actions",
+      "options": "Orga Rule Action",
+      "reqd": 1
+    },
+    {
+      "collapsible": 1,
+      "fieldname": "section_schedule",
+      "fieldtype": "Section Break",
+      "label": "Schedule",
+      "depends_on": "eval:doc.trigger_event=='Scheduled'"
+    },
+    {
+      "fieldname": "schedule_type",
+      "fieldtype": "Select",
+      "label": "Schedule Type",
+      "options": "\nDaily\nWeekly\nMonthly",
+      "depends_on": "eval:doc.trigger_event=='Scheduled'"
+    },
+    {
+      "fieldname": "column_break_schedule",
+      "fieldtype": "Column Break"
+    },
+    {
+      "fieldname": "last_run",
+      "fieldtype": "Datetime",
+      "label": "Last Run",
+      "read_only": 1
+    },
+    {
+      "fieldname": "run_count",
+      "fieldtype": "Int",
+      "label": "Run Count",
+      "default": "0",
+      "read_only": 1
+    }
+  ],
+  "index_web_pages_for_search": 0,
+  "links": [],
+  "modified": "2026-02-03 12:00:00.000000",
+  "modified_by": "Administrator",
+  "module": "Orga",
+  "name": "Orga Automation Rule",
+  "naming_rule": "By fieldname",
+  "owner": "Administrator",
+  "permissions": [
+    {
+      "create": 1,
+      "delete": 1,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "System Manager",
+      "share": 1,
+      "write": 1
+    },
+    {
+      "create": 1,
+      "delete": 1,
+      "email": 1,
+      "export": 1,
+      "print": 1,
+      "read": 1,
+      "report": 1,
+      "role": "Orga Manager",
+      "share": 1,
+      "write": 1
+    }
+  ],
+  "search_fields": "rule_name,applies_to,trigger_event",
+  "sort_field": "modified",
+  "sort_order": "DESC",
+  "states": [],
+  "title_field": "rule_name",
+  "track_changes": 1
+}

@@ -1,0 +1,35 @@
+{# Orga Portal Header Component #}
+{# Usage: {% include "orga/templates/includes/orga_header.html" %} #}
+
+<div class="orga-header">
+	<a href="/orga" class="orga-header-logo">
+		<svg class="icon icon-md" aria-hidden="true">
+			<use href="#icon-project"></use>
+		</svg>
+		<span class="orga-logo-text"><span>ORGA</span></span>
+	</a>
+
+	<div class="orga-header-search">
+		<select class="orga-search-category">
+			<option value="">Kategorie wählen</option>
+			<option value="project">Projekte</option>
+			<option value="task">Aufgaben</option>
+			<option value="resource">Ressourcen</option>
+		</select>
+		<input type="text" class="orga-search-input" placeholder="Suchen...">
+		<button class="orga-search-btn">
+			<i class="fa fa-search"></i>
+		</button>
+	</div>
+
+	<div class="orga-header-right">
+		<div class="orga-header-apps" title="Apps">
+			<span class="dot"></span><span class="dot"></span><span class="dot"></span>
+			<span class="dot"></span><span class="dot"></span><span class="dot"></span>
+			<span class="dot"></span><span class="dot"></span><span class="dot"></span>
+		</div>
+		<div class="orga-header-user" title="{{ frappe.session.user }}">
+			{{ frappe.session.user[0] | upper }}
+		</div>
+	</div>
+</div>

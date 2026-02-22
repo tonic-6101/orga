@@ -1,0 +1,230 @@
+{
+  "actions": [],
+  "creation": "2026-02-03 12:00:00.000000",
+  "doctype": "DocType",
+  "engine": "InnoDB",
+  "field_order": [
+    "section_defaults",
+    "default_task_status",
+    "default_project_status",
+    "column_break_defaults",
+    "project_code_prefix",
+    "default_priority",
+    "default_currency",
+    "section_features",
+    "auto_calculate_progress",
+    "auto_set_missed_milestones",
+    "column_break_features",
+    "enable_time_tracking",
+    "default_capacity_hours",
+    "section_notifications",
+    "notify_on_task_assignment",
+    "notify_on_status_change",
+    "column_break_notifications",
+    "notify_on_due_date",
+    "due_date_reminder_days",
+    "section_frappe_projects",
+    "enable_frappe_projects_sync",
+    "frappe_projects_sync_direction",
+    "column_break_frappe_projects",
+    "auto_sync_frappe_projects",
+    "frappe_sync_interval_minutes"
+  ],
+  "fields": [
+    {
+      "fieldname": "section_defaults",
+      "fieldtype": "Section Break",
+      "label": "Defaults"
+    },
+    {
+      "default": "Open",
+      "fieldname": "default_task_status",
+      "fieldtype": "Select",
+      "label": "Default Task Status",
+      "options": "Open\nIn Progress"
+    },
+    {
+      "default": "Planning",
+      "fieldname": "default_project_status",
+      "fieldtype": "Select",
+      "label": "Default Project Status",
+      "options": "Planning\nActive"
+    },
+    {
+      "fieldname": "column_break_defaults",
+      "fieldtype": "Column Break"
+    },
+    {
+      "default": "ORG",
+      "fieldname": "project_code_prefix",
+      "fieldtype": "Data",
+      "label": "Project Code Prefix"
+    },
+    {
+      "default": "Medium",
+      "fieldname": "default_priority",
+      "fieldtype": "Select",
+      "label": "Default Priority",
+      "options": "Low\nMedium\nHigh\nUrgent"
+    },
+    {
+      "default": "USD",
+      "description": "Currency used for budgets, costs, and billing rates",
+      "fieldname": "default_currency",
+      "fieldtype": "Link",
+      "label": "Default Currency",
+      "options": "Currency"
+    },
+    {
+      "fieldname": "section_features",
+      "fieldtype": "Section Break",
+      "label": "Features"
+    },
+    {
+      "default": "1",
+      "fieldname": "auto_calculate_progress",
+      "fieldtype": "Check",
+      "label": "Auto Calculate Project Progress"
+    },
+    {
+      "default": "1",
+      "fieldname": "auto_set_missed_milestones",
+      "fieldtype": "Check",
+      "label": "Auto Set Missed Milestones"
+    },
+    {
+      "fieldname": "column_break_features",
+      "fieldtype": "Column Break"
+    },
+    {
+      "default": "0",
+      "fieldname": "enable_time_tracking",
+      "fieldtype": "Check",
+      "label": "Enable Time Tracking"
+    },
+    {
+      "default": "40",
+      "fieldname": "default_capacity_hours",
+      "fieldtype": "Float",
+      "label": "Default Weekly Capacity (Hours)"
+    },
+    {
+      "collapsible": 1,
+      "fieldname": "section_notifications",
+      "fieldtype": "Section Break",
+      "label": "Notifications"
+    },
+    {
+      "default": "1",
+      "fieldname": "notify_on_task_assignment",
+      "fieldtype": "Check",
+      "label": "Notify on Task Assignment"
+    },
+    {
+      "default": "0",
+      "fieldname": "notify_on_status_change",
+      "fieldtype": "Check",
+      "label": "Notify on Status Change"
+    },
+    {
+      "fieldname": "column_break_notifications",
+      "fieldtype": "Column Break"
+    },
+    {
+      "default": "1",
+      "fieldname": "notify_on_due_date",
+      "fieldtype": "Check",
+      "label": "Notify on Due Date"
+    },
+    {
+      "default": "1",
+      "description": "Days before due date to send reminder",
+      "fieldname": "due_date_reminder_days",
+      "fieldtype": "Int",
+      "label": "Due Date Reminder (Days)"
+    },
+    {
+      "collapsible": 1,
+      "fieldname": "section_frappe_projects",
+      "fieldtype": "Section Break",
+      "label": "Frappe Projects Integration"
+    },
+    {
+      "default": "0",
+      "description": "Enable synchronization between Orga and Frappe Projects module",
+      "fieldname": "enable_frappe_projects_sync",
+      "fieldtype": "Check",
+      "label": "Enable Frappe Projects Sync"
+    },
+    {
+      "default": "Two Way",
+      "depends_on": "eval:doc.enable_frappe_projects_sync",
+      "description": "Direction of data synchronization",
+      "fieldname": "frappe_projects_sync_direction",
+      "fieldtype": "Select",
+      "label": "Sync Direction",
+      "options": "Orga to Frappe\nFrappe to Orga\nTwo Way"
+    },
+    {
+      "fieldname": "column_break_frappe_projects",
+      "fieldtype": "Column Break"
+    },
+    {
+      "default": "0",
+      "depends_on": "eval:doc.enable_frappe_projects_sync",
+      "description": "Automatically sync on a scheduled interval",
+      "fieldname": "auto_sync_frappe_projects",
+      "fieldtype": "Check",
+      "label": "Auto Sync"
+    },
+    {
+      "default": "60",
+      "depends_on": "eval:doc.auto_sync_frappe_projects",
+      "description": "Minutes between automatic sync operations",
+      "fieldname": "frappe_sync_interval_minutes",
+      "fieldtype": "Int",
+      "label": "Sync Interval (Minutes)"
+    }
+  ],
+  "index_web_pages_for_search": 1,
+  "issingle": 1,
+  "links": [],
+  "modified": "2026-02-03 12:00:00.000000",
+  "modified_by": "Administrator",
+  "module": "Orga",
+  "name": "Orga Settings",
+  "owner": "Administrator",
+  "permissions": [
+    {
+      "create": 1,
+      "email": 1,
+      "print": 1,
+      "read": 1,
+      "role": "System Manager",
+      "share": 1,
+      "write": 1
+    },
+    {
+      "create": 0,
+      "email": 0,
+      "print": 0,
+      "read": 1,
+      "role": "Orga Manager",
+      "share": 0,
+      "write": 1
+    },
+    {
+      "create": 0,
+      "email": 0,
+      "print": 0,
+      "read": 1,
+      "role": "Orga User",
+      "share": 0,
+      "write": 0
+    }
+  ],
+  "sort_field": "modified",
+  "sort_order": "DESC",
+  "states": [],
+  "track_changes": 1
+}

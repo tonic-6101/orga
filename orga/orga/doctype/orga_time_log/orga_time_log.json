@@ -1,0 +1,244 @@
+{
+ "actions": [],
+ "allow_rename": 0,
+ "autoname": "naming_series:",
+ "creation": "2026-02-03 12:00:00.000000",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "naming_series",
+  "tracking_context",
+  "task",
+  "event",
+  "project",
+  "column_break_1",
+  "user",
+  "resource",
+  "section_time",
+  "log_date",
+  "from_time",
+  "to_time",
+  "column_break_time",
+  "hours",
+  "billable",
+  "section_timer",
+  "is_running",
+  "timer_started_at",
+  "section_details",
+  "description",
+  "section_erpnext",
+  "erpnext_timesheet",
+  "exported_on"
+ ],
+ "fields": [
+  {
+   "fieldname": "naming_series",
+   "fieldtype": "Select",
+   "hidden": 1,
+   "label": "Naming Series",
+   "options": "TL-.#####",
+   "reqd": 1
+  },
+  {
+   "fieldname": "tracking_context",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Tracking Context",
+   "options": "task\nevent\nproject\nstandalone",
+   "reqd": 1,
+   "default": "task"
+  },
+  {
+   "fieldname": "task",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "Task",
+   "options": "Orga Task",
+   "mandatory_depends_on": "eval:doc.tracking_context=='task'",
+   "depends_on": "eval:doc.tracking_context=='task'"
+  },
+  {
+   "fieldname": "event",
+   "fieldtype": "Link",
+   "in_standard_filter": 1,
+   "label": "Event",
+   "options": "Orga Appointment",
+   "mandatory_depends_on": "eval:doc.tracking_context=='event'",
+   "depends_on": "eval:doc.tracking_context=='event'"
+  },
+  {
+   "fieldname": "project",
+   "fieldtype": "Link",
+   "in_standard_filter": 1,
+   "label": "Project",
+   "options": "Orga Project",
+   "mandatory_depends_on": "eval:doc.tracking_context=='project'"
+  },
+  {
+   "fieldname": "column_break_1",
+   "fieldtype": "Column Break"
+  },
+  {
+   "default": "__user",
+   "fieldname": "user",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "in_standard_filter": 1,
+   "label": "User",
+   "options": "User",
+   "reqd": 1
+  },
+  {
+   "fieldname": "resource",
+   "fieldtype": "Link",
+   "label": "Resource",
+   "options": "Orga Resource",
+   "description": "Linked resource for billing"
+  },
+  {
+   "fieldname": "section_time",
+   "fieldtype": "Section Break",
+   "label": "Time"
+  },
+  {
+   "fieldname": "log_date",
+   "fieldtype": "Date",
+   "label": "Date",
+   "reqd": 1,
+   "default": "Today",
+   "in_list_view": 1
+  },
+  {
+   "fieldname": "from_time",
+   "fieldtype": "Time",
+   "label": "From Time"
+  },
+  {
+   "fieldname": "to_time",
+   "fieldtype": "Time",
+   "label": "To Time"
+  },
+  {
+   "fieldname": "column_break_time",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "hours",
+   "fieldtype": "Float",
+   "in_list_view": 1,
+   "label": "Hours",
+   "reqd": 1
+  },
+  {
+   "fieldname": "billable",
+   "fieldtype": "Check",
+   "label": "Billable",
+   "default": "1",
+   "in_list_view": 1
+  },
+  {
+   "fieldname": "section_timer",
+   "fieldtype": "Section Break",
+   "label": "Timer",
+   "collapsible": 1
+  },
+  {
+   "fieldname": "is_running",
+   "fieldtype": "Check",
+   "label": "Is Running",
+   "default": "0",
+   "read_only": 1
+  },
+  {
+   "fieldname": "timer_started_at",
+   "fieldtype": "Datetime",
+   "label": "Timer Started At",
+   "read_only": 1
+  },
+  {
+   "fieldname": "section_details",
+   "fieldtype": "Section Break",
+   "label": "Details"
+  },
+  {
+   "fieldname": "description",
+   "fieldtype": "Small Text",
+   "label": "Description"
+  },
+  {
+   "fieldname": "section_erpnext",
+   "fieldtype": "Section Break",
+   "label": "ERPNext Integration",
+   "collapsible": 1
+  },
+  {
+   "fieldname": "erpnext_timesheet",
+   "fieldtype": "Link",
+   "label": "ERPNext Timesheet",
+   "options": "Timesheet",
+   "read_only": 1,
+   "description": "Linked ERPNext Timesheet (if exported)"
+  },
+  {
+   "fieldname": "exported_on",
+   "fieldtype": "Datetime",
+   "label": "Exported On",
+   "read_only": 1
+  }
+ ],
+ "index_web_pages_for_search": 0,
+ "links": [],
+ "modified": "2026-02-11 12:00:00.000000",
+ "modified_by": "Administrator",
+ "module": "Orga",
+ "name": "Orga Time Log",
+ "naming_rule": "By \"Naming Series\" field",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Orga Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "create": 1,
+   "delete": 0,
+   "email": 1,
+   "export": 1,
+   "if_owner": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "Orga User",
+   "share": 0,
+   "write": 1
+  }
+ ],
+ "search_fields": "task,user,tracking_context",
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": [],
+ "title_field": "description",
+ "track_changes": 1
+}

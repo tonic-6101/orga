@@ -1,0 +1,1622 @@
++ Add Milestone,+ Pridėti etapą
++ Create Task,+ Sukurti užduotį
++ Log Time,+ Registruoti laiką
+-- Select a project --,-- Pasirinkite projektą --
+0m,0 min
+1 day,1 diena
+1 day ago,prieš 1 dieną
+1 dependency,1 priklausomybė
+1 entry,1 įrašas
+1 file,1 failas
+1 hour ago,prieš 1 valandą
+1 member,1 narys
+1 milestone,1 etapas
+1 month,1 mėnuo
+1 task,1 užduotis
+< 1m,< 1 min
+"A clear, actionable title for the task","Aiškus, veiksmingas užduoties pavadinimas"
+A client with email {0} already exists: {1},Klientas su el. paštu {0} jau egzistuoja: {1}
+A key deliverable or checkpoint for the project,Pagrindinis projekto rezultatas arba kontrolinis taškas
+Accept,Priimti
+Accepted,Priimtas
+Acknowledge,Patvirtinti gavimą
+across,visuose
+Action,Veiksmas
+Actions,Veiksmai
+Active,Aktyvus
+Active Assignments,Aktyvūs priskyrimai
+Active Projects,Aktyvūs projektai
+Activity,Veikla
+Activity data deleted successfully,Veiklos duomenys sėkmingai ištrinti
+Activity Info,Veiklos informacija
+Activity Stats,Veiklos statistika
+Activity will appear here as you work on tasks and projects.,"Veikla bus rodoma čia, kai dirbsite su užduotimis ir projektais."
+Actual,Faktinis
+Actual Cost,Faktinė kaina
+Actual cost cannot be negative,Faktinė kaina negali būti neigiama
+Actual end date cannot be before actual start date,Faktinė pabaigos data negali būti ankstesnė už faktinę pradžios datą
+Actual Hours,Faktinės valandos
+Add,Pridėti
+Add a checklist item...,Pridėti kontrolinio sąrašo elementą...
+Add a comment...,Pridėti komentarą...
+Add a comment... (Ctrl+Enter to send),Pridėti komentarą... (Ctrl+Enter norint išsiųsti)
+Add a description...,Pridėti aprašymą...
+Add a milestone description...,Pridėti etapo aprašymą...
+Add a note below to annotate this activity.,Pridėkite pastabą žemiau šiai veiklai pakomentuoti.
+Add a note...,Pridėti pastabą...
+Add a project description...,Pridėti projekto aprašymą...
+Add a task description...,Pridėti užduoties aprašymą...
+Add checklist item...,Pridėti kontrolinio sąrašo elementą...
+Add Contact,Pridėti kontaktą
+Add contacts via the Desk interface or clear filters,Pridėkite kontaktus per Desk sąsają arba išvalykite filtrus
+Add Dependency,Pridėti priklausomybę
+Add details about this event...,Pridėti informaciją apie šį įvykį...
+Add details about this milestone...,Pridėti informaciją apie šį etapą...
+Add details about this task...,Pridėti informaciją apie šią užduotį...
+Add details or acceptance criteria for this milestone,Pridėti informaciją arba priėmimo kriterijus šiam etapui
+"Add details, context, or acceptance criteria","Pridėti informaciją, kontekstą arba priėmimo kriterijus"
+Add first dependency,Pridėti pirmą priklausomybę
+Add item,Pridėti elementą
+Add items below to track progress.,Pridėkite elementus žemiau eigai stebėti.
+Add items below to track subtasks,Pridėkite elementus žemiau smulkioms užduotims stebėti
+Add Milestone,Pridėti etapą
+Add Milestone (Shift+M),Pridėti etapą (Shift+M)
+Add milestones to track key deliverables.,Pridėkite etapus pagrindiniams rezultatams stebėti.
+Add New Contact,Pridėti naują kontaktą
+Add Note,Pridėti pastabą
+Add note,Pridėti pastabą
+Add notes about this contact...,Pridėti pastabas apie šį kontaktą...
+Add reaction,Pridėti reakciją
+Add Skill,Pridėti įgūdį
+Add start and due dates to tasks to see them on the Gantt chart,Pridėkite pradžios ir termino datas užduotims
+Add Task,Pridėti užduotį
+Add Task (Shift+T),Pridėti užduotį (Shift+T)
+Added Finish-to-Start dependency,Pridėta Pabaiga-Pradžia priklausomybė
+Adding this dependency would create a circular reference: {0},Šios priklausomybės pridėjimas sukurtų ciklinę nuorodą: {0}
+Adding...,Pridedama...
+Address,Adresas
+Advanced,Išplėstiniai
+All,Visi
+All Active,Visi aktyvūs
+All Assignees,Visi priskirti asmenys
+All Categories,Visos kategorijos
+All caught up!,Viskas peržiūrėta!
+All Contexts,Visi kontekstai
+All day,Visa diena
+All day event,Visos dienos įvykis
+All fields,Visi laukai
+All Priorities,Visi prioritetai
+All Projects,Visi projektai
+All Status,Visos būsenos
+All Statuses,Visos būsenos
+All task dependencies & relative dates,Visos užduočių priklausomybės ir santykinės datos
+All Tasks,Visos užduotys
+All tasks across all projects.,Visos užduotys visuose projektuose.
+All tasks are already linked,Visos užduotys jau susietos
+All team members,Visi komandos nariai
+All Types,Visi tipai
+All Users,Visi naudotojai
+Allocated,Paskirta
+allocated,paskirta
+Allow users to log time against tasks,Leisti naudotojams registruoti laiką užduotims
+Already exported to timesheet {0},Jau eksportuota į darbo laiko lapą {0}
+Already Migrated,Jau perkelta
+Anyone with access,Bet kas turintis prieigą
+anytime to show this help,bet kada šiai pagalbai rodyti
+App Updates,App Updates
+Appearance,Išvaizda
+Apply,Taikyti
+Apply cascade?,Taikyti pakopinį perkėlimą?
+Apply Changes,Taikyti pakeitimus
+Apply failed,Taikymas nepavyko
+Apply Template,Taikyti šabloną
+Applying...,Taikoma...
+Appointment,Susitikimas
+Appointment and resource are required,Susitikimas ir kontaktas yra privalomi
+Appointment name is required,Susitikimo pavadinimas yra privalomas
+Appointment not found,Susitikimas nerastas
+Appointment {0} not found,Susitikimas {0} nerastas
+Apps,Programos
+Archive,Archyvuoti
+Archive Activity,Archyvuoti veiklą
+Archived,Archyvuota
+Are you sure you want to delete this activity data? This cannot be undone.,Ar tikrai norite ištrinti šiuos veiklos duomenis? Šio veiksmo negalima atšaukti.
+Are you sure you want to delete this comment?,Ar tikrai norite ištrinti šį komentarą?
+Are you sure you want to delete this project?,Ar tikrai norite ištrinti šį projektą?
+Are you sure?,Ar tikrai?
+Ascending -- click to reverse,Didėjančia tvarka -- paspauskite norėdami pakeisti
+Assign To,Priskirti
+Assign to Me,Priskirti man
+Assigned Contact,Priskirtas kontaktas
+Assigned To,Priskirta
+Assigned to,Priskirta
+Assigned to Me,Priskirta man
+Assignee,Priskirtas asmuo
+Assignment,Priskyrimas
+Assignment History,Priskyrimų istorija
+Assignment name is required,Priskyrimo pavadinimas yra privalomas
+Assignment {0} not found,Priskyrimas {0} nerastas
+Assignments,Priskyrimai
+At least one action is required,Reikalingas bent vienas veiksmas
+At least one event is required,Reikalingas bent vienas įvykis
+At least one event must be selected,Turi būti pasirinktas bent vienas įvykis
+Attachment,Priedas
+Attachments,Priedai
+Attendees,Dalyviai
+"Audit trail, assignments, version history","Audito seka, priskyrimai, versijų istorija"
+Auto,Automatinis
+Auto Calculate Progress,Automatiškai skaičiuoti eigą
+Auto Set Missed Milestones,Automatiškai žymėti praleistus etapus
+Auto-shift dependents when dates change,Automatiškai perkelti priklausomus elementus keičiantis datoms
+Auto-Trail Start,Automatinis pradžios perkėlimas
+Auto-Trail updated,Automatinis perkėlimas atnaujintas
+Automatically calculate project progress from task completion,Automatiškai skaičiuoti projekto eigą pagal užduočių įvykdymą
+Automatically mark milestones as missed when overdue,Automatiškai žymėti etapus kaip praleistus
+Automation rule {0} not found,Automatizavimo taisyklė {0} nerasta
+Automation: {0},Automatizavimas: {0}
+Availability,Prieinamumas
+Available,Laisvas
+Avatar updated successfully,Profilio nuotrauka sėkmingai atnaujinta
+Avg Progress,Vid. eiga
+Back,Atgal
+Back to Portal,Grįžti į portalą
+Back to Projects,Grįžti į projektus
+Beginner,Pradedantysis
+Best regards,Pagarbiai
+Billable,Apmokestinamas
+Billable Amount,Apmokestinama suma
+Billable Hours,Apmokestinamos valandos
+Billable Rate,Apmokestinimo tarifas
+Billing Rate,Atsiskaitymo tarifas
+Blocked,Užblokuota
+Both dates are needed to display task as a bar in Gantt chart,"Abi datos reikalingos, kad užduotis būtų rodoma kaip juosta Gantt diagramoje"
+Both doctype and docname are required,Reikalingi abu: dokumento tipas ir pavadinimas
+Both proposed start and end times are required,Reikalingi abu: siūlomas pradžios ir pabaigos laikas
+Both task_name and depends_on are required,Reikalingi abu: task_name ir depends_on
+Breadcrumb,Naršymo kelias
+Brief description of the defect or damage,Trumpas defekto ar pažeidimo aprašymas
+Brief description of this template,Trumpas šio šablono aprašymas
+Brief description of your request,Trumpas jūsų užklausos aprašymas
+Brief project description,Trumpas projekto aprašymas
+Budget,Biudžetas
+Budget at risk,Biudžetas rizikoje
+Budget Burn Rate,Biudžeto naudojimo tempas
+Budget Status,Biudžeto būsena
+Budget updated,Biudžetas atnaujintas
+Budget:,Biudžetas:
+Bug,Klaida
+Burn Rate,Naudojimo tempas
+Busy,Užimtas
+By,Pagal
+By Assignee,Pagal priskirtą asmenį
+By Group,Pagal grupę
+By Milestone,Pagal etapą
+By Priority,Pagal prioritetą
+By Status,Pagal būseną
+Cancel,Atšaukti
+Cancelled,Atšaukta
+cannot be undone,negalima atšaukti
+Cannot delete client with {0} linked projects. Unlink projects first.,Negalima ištrinti kliento su {0} susietais projektais. Pirmiausia atsieti projektus.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Negalima ištrinti projekto su {0} susietomis užduotimis. Pirmiausia ištrinkite užduotis.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Negalima ištrinti kontakto su {0} aktyviais priskyrimais. Pirmiausia užbaikite arba atšaukite juos.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Negalima ištrinti užduoties su {0} smulkiomis užduotimis. Pirmiausia ištrinkite smulkias užduotis.
+Capacity,Pajėgumas
+capacity,pajėgumas
+Capacity & Rates,Pajėgumas ir tarifai
+Capture project structure for reuse,Išsaugoti projekto struktūrą pakartotiniam naudojimui
+Cascade,Pakopinis perkėlimas
+Cascade Preview,Pakopinio perkėlimo peržiūra
+Category,Kategorija
+Celebrate,Švęsti
+Change,Keisti
+Change History,Pakeitimų istorija
+Change Priority,Keisti prioritetą
+Change Status,Keisti būseną
+Changes,Pakeitimai
+Changes appear when fields are modified.,Pakeitimai rodomi keičiant laukus.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Kontrolinis sąrašas
+Checklist item name is required,Kontrolinio sąrašo elemento pavadinimas yra privalomas
+Checklist item not found,Kontrolinio sąrašo elementas nerastas
+Checklist item title is required,Kontrolinio sąrašo elemento pavadinimas yra privalomas
+Checklist item {0} not found,Kontrolinio sąrašo elementas {0} nerastas
+Checklist item {0} not found in task,Kontrolinio sąrašo elementas {0} nerastas užduotyje
+Child,Vaikinis
+Choose file to upload,Pasirinkite failą įkėlimui
+Circular dependency detected: {0},Aptikta ciklinė priklausomybė: {0}
+Circular parent-child relationship detected,Aptiktas ciklinis tėvo-vaiko ryšys
+Clear,Išvalyti
+Clear all read,Išvalyti visas perskaitytas
+Clear date,Išvalyti datą
+Click on an activity from the list to view and manage its details.,"Paspauskite veiklą iš sąrašo, kad peržiūrėtumėte ir tvarkytumėte jos informaciją."
+Click the avatar to upload a new photo,Paspauskite profilio nuotrauką naujai nuotraukai įkelti
+Click to add description...,Paspauskite norėdami pridėti aprašymą...
+Click to add notes...,Paspauskite norėdami pridėti pastabas...
+Click to assign contact,Paspauskite norėdami priskirti kontaktą
+Click to change status,Paspauskite norėdami keisti būseną
+Click to change type,Paspauskite norėdami keisti tipą
+Click to edit,Paspauskite norėdami redaguoti
+Click to edit budget,Paspauskite norėdami redaguoti biudžetą
+Click to edit description,Paspauskite norėdami redaguoti aprašymą
+Click to edit end date,Paspauskite norėdami redaguoti pabaigos datą
+Click to edit milestone name,Paspauskite norėdami redaguoti etapo pavadinimą
+Click to edit rate,Paspauskite norėdami redaguoti tarifą
+Click to edit start date,Paspauskite norėdami redaguoti pradžios datą
+Click to edit title,Paspauskite norėdami redaguoti pavadinimą
+Click to load,Paspauskite norėdami įkelti
+Click to set group dependency...,Paspauskite norėdami nustatyti grupės priklausomybę...
+Click to set group...,Paspauskite norėdami nustatyti grupę...
+Click to view,Paspauskite norėdami peržiūrėti
+Click to view at-risk projects,Paspauskite norėdami peržiūrėti rizikingus projektus
+Click to view critical projects,Paspauskite norėdami peržiūrėti kritinius projektus
+Click to view healthy projects,Paspauskite norėdami peržiūrėti gerai vykdomus projektus
+Client,Klientas
+Client already has a portal user: {0},Klientas jau turi portalo naudotoją: {0}
+Client already has portal access,Klientas jau turi prieigą prie portalo
+Client has no portal user to revoke,Klientas neturi portalo naudotojo atšaukimui
+Client link removed from project {0},Kliento nuoroda pašalinta iš projekto {0}
+Client Portal,Kliento portalas
+Client {0} deleted successfully,Klientas {0} sėkmingai ištrintas
+Close,Uždaryti
+Close (Esc),Uždaryti (Esc)
+Comment,Komentaras
+comment,komentaras
+Comment added,Komentaras pridėtas
+Comment content is required,Komentaro turinys yra privalomas
+Comment name is required,Komentaro pavadinimas yra privalomas
+Comment not found,Komentaras nerastas
+Comment removed,Komentaras pašalintas
+Comment {0} not found in task,Komentaras {0} nerastas užduotyje
+Comments,Komentarai
+comments,komentarai
+Community Edition,Community Edition
+Company,Įmonė
+Company name...,Įmonės pavadinimas...
+Complete,Užbaigti
+Completed,Užbaigta
+completed,užbaigta
+Completed Tasks,Užbaigtos užduotys
+Compliance,Atitiktis
+Configure default values for new projects and tasks,Konfigūruoti numatytąsias reikšmes naujiems projektams ir užduotims
+Configure email notification settings,Konfigūruoti el. pašto pranešimų nustatymus
+Confirm,Patvirtinti
+Contact deleted,Kontaktas ištrintas
+Contact Details,Kontakto informacija
+Contact Information,Kontaktinė informacija
+Contact name is required,Kontakto vardas yra privalomas
+Contact Support,Susisiekti su palaikymu
+Contact your project manager for more information.,Susisiekite su projekto vadovu dėl išsamesnės informacijos.
+Contact:,Kontaktas:
+Contacts,Kontaktai
+Context,Kontekstas
+Contractor,Rangovas
+Cost estimate cannot be negative,Kainos vertinimas negali būti neigiamas
+Cost Impact,Kainos poveikis
+Cost Summary,Kainos suvestinė
+Could not apply the template. Please try again.,Nepavyko taikyti šablono. Bandykite dar kartą.
+Could not attach file to project,Nepavyko pridėti failo prie projekto
+Could not change task priority,Nepavyko pakeisti užduoties prioriteto
+Could not change task status,Nepavyko pakeisti užduoties būsenos
+Could not delete the project. Please try again.,Nepavyko ištrinti projekto. Bandykite dar kartą.
+Could not delete the task. Please try again.,Nepavyko ištrinti užduoties. Bandykite dar kartą.
+Could not delete the template.,Nepavyko ištrinti šablono.
+Could not duplicate the task. Please try again.,Nepavyko dubliuoti užduoties. Bandykite dar kartą.
+Could not export the template.,Nepavyko eksportuoti šablono.
+Could not import the template. Please check the file format.,Nepavyko importuoti šablono. Patikrinkite failo formatą.
+Could not link task to milestone,Nepavyko susieti užduoties su etapu
+Could not load document details.,Nepavyko įkelti dokumento informacijos.
+Could not load task details,Nepavyko įkelti užduoties informacijos
+Could not promote checklist item to task.,Nepavyko paaukštinti kontrolinio sąrašo elemento į užduotį.
+Could not remove task from milestone,Nepavyko pašalinti užduoties iš etapo
+Could not save budget.,Nepavyko išsaugoti biudžeto.
+Could not save changes to the milestone,Nepavyko išsaugoti etapo pakeitimų
+Could not save changes to the task,Nepavyko išsaugoti užduoties pakeitimų
+Could not save description.,Nepavyko išsaugoti aprašymo.
+Could not save end date.,Nepavyko išsaugoti pabaigos datos.
+Could not save milestone name.,Nepavyko išsaugoti etapo pavadinimo.
+Could not save start date.,Nepavyko išsaugoti pradžios datos.
+Could not save the template. Please try again.,Nepavyko išsaugoti šablono. Bandykite dar kartą.
+Could not save title.,Nepavyko išsaugoti pavadinimo.
+Could not update dependency mode.,Nepavyko atnaujinti priklausomybės režimo.
+Could not update milestone date,Nepavyko atnaujinti etapo datos
+Could not update project status.,Nepavyko atnaujinti projekto būsenos.
+Could not update project type.,Nepavyko atnaujinti projekto tipo.
+Could not update setting.,Nepavyko atnaujinti nustatymo.
+Could not update task dates,Nepavyko atnaujinti užduoties datų
+Could not update task status,Nepavyko atnaujinti užduoties būsenos
+Could not update the template.,Nepavyko atnaujinti šablono.
+Create a copy of this task,Sukurti šios užduoties kopiją
+Create Contact,Sukurti kontaktą
+Create Event,Sukurti įvykį
+Create Milestone,Sukurti etapą
+Create New Milestone,Sukurti naują etapą
+Create New Task,Sukurti naują užduotį
+Create Project,Sukurti projektą
+Create Task,Sukurti užduotį
+Create tasks and milestones from a template,Sukurti užduotis ir etapus iš šablono
+Create your first project to get started.,Sukurkite pirmą projektą ir pradėkite.
+Create your first task to start tracking work on this project.,Sukurkite pirmą užduotį ir pradėkite stebėti darbą šiame projekte.
+Created,Sukurta
+Creating...,Kuriama...
+Critical,Kritinis
+Critical Path,Kritinis kelias
+"Currency used for budgets, costs, and billing rates","Valiuta naudojama biudžetams, kainoms ir atsiskaitymo tarifams"
+Current,Dabartinis
+Current Assignments,Dabartiniai priskyrimai
+Current scheduled time:,Dabartinis suplanuotas laikas:
+Currently running version,Currently running version
+d lag,d. atidėjimas
+Daily Availability,Dienos prieinamumas
+Daily Hours,Dienos valandos
+Danger Zone,Pavojinga zona
+Dark,Tamsus
+Dashboard,Valdymo skydelis
+Date,Data
+Date changes on this task will show cascade impact here,Šios užduoties datų pakeitimai čia rodys pakopinį poveikį
+Date cleared,Data išvalyta
+Date of Joining,Prisijungimo data
+Date updated,Data atnaujinta
+Dates,Datos
+Dates cascaded,Datos pakopiškai perkeltos
+Dates will be relative to the project's start date.,Datos bus santykinės projekto pradžios datos atžvilgiu.
+Day,Diena
+day,diena
+days,dienos
+Days before due date to send reminder,Dienų iki termino priminimui išsiųsti
+Days Overdue,Vėluojamų dienų skaičius
+Days Remaining,Likusios dienos
+Deadline,Terminas
+Deadlines,Terminai
+Decision,Sprendimas
+Decline,Atmesti
+Declined,Atmestas
+Default Currency,Numatytoji valiuta
+Default hours per week for contact capacity planning,Numatytosios valandos per savaitę kontaktų pajėgumo planavimui
+Default Priority,Numatytasis prioritetas
+Default Project Status,Numatytoji projekto būsena
+Default Task Status,Numatytoji užduoties būsena
+Default task view,Numatytasis užduočių rodinys
+Default Values,Numatytosios reikšmės
+Default Weekly Capacity,Numatytasis savaitinis pajėgumas
+Defaults,Numatytosios reikšmės
+Defect Cost Impact,Defekto kainos poveikis
+Defect name is required,Defekto pavadinimas yra privalomas
+Defect Type,Defekto tipas
+Defect {0} not found,Defektas {0} nerastas
+Defects,Defektai
+Defects & Issues,Defektai ir problemos
+Defects Resolved,Ištaisyti defektai
+Delayed,Atidėta
+Delete,Ištrinti
+Delete Activity Data,Ištrinti veiklos duomenis
+Delete all read notifications?,Ištrinti visus perskaitytus pranešimus?
+Delete comment,Ištrinti komentarą
+Delete Contact,Ištrinti kontaktą
+Delete Event,Ištrinti įvykį
+Delete Event?,Ištrinti įvykį?
+Delete failed,Trynimas nepavyko
+Delete file,Ištrinti failą
+Delete item,Ištrinti elementą
+Delete note,Ištrinti pastabą
+Delete Project,Ištrinti projektą
+Delete Task,Ištrinti užduotį
+Delete this project,Ištrinti šį projektą
+Deleted,Ištrinta
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Ištrintas projektas ""{0}"" ({1} užduočių, {2} etapų)"
+Deletes notes and preferences. Source document is not affected.,Ištrina pastabas ir nuostatas. Šaltinio dokumentas neliečiamas.
+Deleting...,Trinama...
+Department,Skyrius
+Dependencies,Priklausomybės
+dependencies,priklausomybės
+Dependencies are informational only,Priklausomybės yra tik informacinio pobūdžio
+dependency,priklausomybė
+Dependency already exists,Priklausomybė jau egzistuoja
+Dependency Chain,Priklausomybių grandinė
+Dependency created,Priklausomybė sukurta
+Dependency mode updated,Priklausomybės režimas atnaujintas
+Dependency name is required,Priklausomybės pavadinimas yra privalomas
+Dependency task {0} not found,Priklausomybės užduotis {0} nerasta
+Dependency {0} not found,Priklausomybė {0} nerasta
+depends,priklauso
+Depends on Group,Priklauso nuo grupės
+Depends on task is required,Priklausoma užduotis yra privaloma
+depends on...,priklauso nuo...
+Descending -- click to reverse,Mažėjančia tvarka -- paspauskite norėdami pakeisti
+Describe the defect in detail...,Aprašykite defektą išsamiai...
+Description,Aprašymas
+Description updated,Aprašymas atnaujintas
+Designation,Pareigos
+"Detailed description of the defect, location, and impact","Išsamus defekto, vietos ir poveikio aprašymas"
+Details,Informacija
+Discard timer,Atmesti laikmatį
+Discussion,Aptarimas
+Dismiss,Dismiss
+Display,Rodymas
+Document,Dokumentas
+Document attached to project,Dokumentas pridėtas prie projekto
+Document final decision and rationale,Užfiksuoti galutinį sprendimą ir pagrindimą
+Documentation Review,Dokumentacijos peržiūra
+Documents,Dokumentai
+Done,Atlikta
+Download,Atsisiųsti
+Drag to create dependency,Vilkite norėdami sukurti priklausomybę
+Dry Run,Bandomasis paleidimas
+Dry Run Complete,Bandomasis paleidimas baigtas
+Due Date,Terminas
+Due date,Terminas
+Due Date (Earliest),Terminas (anksčiausias)
+Due date cannot be before start date,Terminas negali būti ankstesnis už pradžios datą
+Due date is in the past,Terminas yra praeityje
+Due Date Reminders,Termino priminimai
+Due Diligence,Išsamus patikrinimas
+Due Diligence Checklist,Išsamaus patikrinimo kontrolinis sąrašas
+Due This Week,Terminas šią savaitę
+Due:,Terminas:
+Duplicate events are not allowed,Pasikartojantys įvykiai negalimi
+Duplicate failed,Dubliavimas nepavyko
+Duplicate Task,Dubliuoti užduotį
+Duration,Trukmė
+Duration Summary,Trukmės suvestinė
+Duration:,Trukmė:
+e.g. Cracked wall finish in bathroom...,"pvz., Įtrūkęs sienos paviršius vonioje..."
+"e.g. Electrical, Plumbing...","pvz., Elektra, Vandentiekis..."
+Edit,Redaguoti
+Edit (E),Redaguoti (E)
+Edit dependency,Redaguoti priklausomybę
+Edit Event,Redaguoti įvykį
+Efficiency,Efektyvumas
+Either dependency_name or depends_on is required,Reikalingas dependency_name arba depends_on
+Email,El. paštas
+Email invitations to all attendees,El. pašto kvietimai visiems dalyviams
+Email is required to create portal user,El. paštas reikalingas portalo naudotojui sukurti
+Email notifications,El. pašto pranešimai
+Employee,Darbuotojas
+Employee DocType not available,Darbuotojo DocType neprieinamas
+Employee not found,Darbuotojas nerastas
+Enable or disable optional features,Įjungti arba išjungti papildomas funkcijas
+Enable Time Tracking,Įjungti laiko stebėjimą
+End,Pabaiga
+End Date,Pabaigos data
+End date,Pabaigos data
+End Date cannot be before Start Date,Pabaigos data negali būti ankstesnė už pradžios datą
+End date cannot be before start date,Pabaigos data negali būti ankstesnė už pradžios datą
+End date updated,Pabaigos data atnaujinta
+End time was before start time. Adjusted to 1 hour after start.,Pabaigos laikas buvo ankstesnis už pradžios laiką. Pakoreguotas į 1 valandą po pradžios.
+End:,Pabaiga:
+Enter milestone name...,Įveskite etapo pavadinimą...
+Enter project name,Įveskite projekto pavadinimą
+Enter task title...,Įveskite užduoties pavadinimą...
+Enter template name,Įveskite šablono pavadinimą
+Enter your note... Use @name to mention someone,Įveskite savo pastabą... Naudokite @vardą norėdami paminėti asmenį
+Error,Klaida
+Error loading activity,Klaida įkeliant veiklą
+Error loading contacts,Klaida įkeliant kontaktus
+Error loading dashboard,Klaida įkeliant valdymo skydelį
+Error loading project,Klaida įkeliant projektą
+Error loading projects,Klaida įkeliant projektus
+Error loading settings,Klaida įkeliant nustatymus
+Error loading tasks,Klaida įkeliant užduotis
+Error loading templates,Klaida įkeliant šablonus
+Est. Hours,Numat. valandos
+Estimated,Numatyta
+Estimated Cost,Numatoma kaina
+Estimated Cost (€),Numatoma kaina (€)
+Estimated Hours,Numatomos valandos
+Estimated:,Numatyta:
+Evaluate potential risks and concerns,Įvertinti galimas rizikas ir problemas
+Event,Įvykis
+Event is required for event context,Įvykis reikalingas įvykio kontekstui
+Event is required when tracking context is 'event',"Įvykis reikalingas, kai stebėjimo kontekstas yra „įvykis""
+Events not available. Please run: bench --site orga.localhost migrate"""
+Event Type,Įvykio tipas
+Events,Įvykiai
+Events not available. Please run: bench --site orga.localhost migrate,Įvykiai nepasiekiami. Paleiskite: bench --site orga.localhost migrate
+Events:,Įvykiai:
+Expert,Ekspertas
+Explain why you are proposing a different time...,Paaiškinkite kodėl siūlote kitą laiką...
+Export,Eksportuoti
+Export failed,Eksportavimas nepavyko
+Export JSON,Eksportuoti JSON
+Exported,Eksportuota
+Exported to timesheet {0},Eksportuota į darbo laiko lapą {0}
+External,Išorinis
+Failed to add item,Nepavyko pridėti elemento
+Failed to add note,Nepavyko pridėti pastabos
+Failed to add skill,Nepavyko pridėti įgūdžio
+Failed to apply cascade changes: {0},Nepavyko taikyti pakopinių pakeitimų: {0}
+Failed to create defect,Nepavyko sukurti defekto
+Failed to create dependency,Nepavyko sukurti priklausomybės
+Failed to create event,Nepavyko sukurti įvykio
+Failed to create milestone,Nepavyko sukurti etapo
+Failed to create project,Nepavyko sukurti projekto
+Failed to create task,Nepavyko sukurti užduoties
+Failed to create time log,Nepavyko sukurti laiko įrašo
+Failed to delete,Nepavyko ištrinti
+Failed to delete comment,Nepavyko ištrinti komentaro
+Failed to delete contact,Nepavyko ištrinti kontakto
+Failed to load,Nepavyko įkelti
+Failed to load activity,Nepavyko įkelti veiklos
+Failed to load assignments,Nepavyko įkelti priskyrimų
+Failed to load contact,Nepavyko įkelti kontakto
+Failed to load dashboard data,Nepavyko įkelti valdymo skydelio duomenų
+Failed to load defects,Nepavyko įkelti defektų
+Failed to load events,Nepavyko įkelti įvykių
+Failed to load project,Nepavyko įkelti projekto
+Failed to load projects,Nepavyko įkelti projektų
+Failed to load report data,Nepavyko įkelti ataskaitos duomenų
+Failed to load settings,Nepavyko įkelti nustatymų
+Failed to load tasks,Nepavyko įkelti užduočių
+Failed to move task,Nepavyko perkelti užduoties
+Failed to post comment,Nepavyko paskelbti komentaro
+Failed to propose new time,Nepavyko pasiūlyti naujo laiko
+Failed to remove item,Nepavyko pašalinti elemento
+Failed to remove skill,Nepavyko pašalinti įgūdžio
+Failed to reorder milestones: {0},Nepavyko pertvarkyti etapų: {0}
+Failed to reorder tasks: {0},Nepavyko pertvarkyti užduočių: {0}
+Failed to reschedule dependent tasks: {0},Nepavyko perplanuoti priklausomų užduočių: {0}
+Failed to save,Nepavyko išsaugoti
+Failed to save preferences,Nepavyko išsaugoti nuostatų
+Failed to save settings,Nepavyko išsaugoti nustatymų
+Failed to submit request. Please try again.,Nepavyko pateikti užklausos. Bandykite dar kartą.
+Failed to update item,Nepavyko atnaujinti elemento
+Failed to update priority,Nepavyko atnaujinti prioriteto
+Failed to update task,Nepavyko atnaujinti užduoties
+Failed to update tasks: {0},Nepavyko atnaujinti užduočių: {0}
+Failed to upload avatar,Nepavyko įkelti profilio nuotraukos
+Feature,Funkcija
+Features,Funkcijos
+FF (Finish-Finish),FF (Pabaiga-Pabaiga)
+FF - Finish-to-Finish,FF - Pabaiga-Pabaiga
+Field has been updated,Laukas buvo atnaujintas
+Field name is required for 'Set Field Value' action,"Lauko pavadinimas reikalingas veiksmui „Nustatyti lauko reikšmę""
+Field {0} is not a Link field,Laukas {0} nėra nuorodos tipo laukas
+Field {0} not found in {1},Laukas {0} nerastas {1}
+File,Failas
+File does not belong to this task,Failas nepriklauso šiai užduočiai
+File name is required,Failo pavadinimas yra privalomas
+File uploaded,Failas įkeltas
+File {0} not found,Failas {0} nerastas
+Files,Failai
+Filter,Filtras
+Final Decision,Galutinis sprendimas
+Finance,Finansai
+Financial,Finansinis
+Finish-to-Finish,Pabaiga-Pabaiga
+Finish-to-Start,Pabaiga-Pradžia
+Flag,Pažymėti
+Flag for attention,Pažymėti dėmesiui
+Flagged,Pažymėta
+Follows your system preference. Currently:,Seka jūsų sistemos nuostatą. Šiuo metu:
+Focus Panel,Dėmesio skydelis
+Frappe Project {0} not found,Frappe projektas {0} nerastas
+Frappe Projects Migration,Frappe Projects perkėlimas
+Frappe Projects module not available,Frappe Projects modulis neprieinamas
+Frappe Projects module not installed,Frappe Projects modulis neįdiegtas
+Frappe Projects sync is not enabled,Frappe Projects sinchronizacija neįjungta
+Frappe Task DocType not found,Frappe užduoties DocType nerastas
+Frappe Task has no project,Frappe užduotis neturi projekto
+Frappe Task {0} not found,Frappe užduotis {0} nerasta
+Fri,Pn
+From,Nuo
+From Template,Iš šablono
+Full form view with audit trail,Pilno formos rodinys su audito seka
+Full name,Visas vardas
+Gantt,Gantt
+Gantt Chart,Gantt diagrama
+Gantt View,Gantt rodinys
+General Note,Bendra pastaba
+Get started,Pradėti
+Go back,Grįžti atgal
+Group by,Grupuoti pagal
+Group dependency removed,Grupės priklausomybė pašalinta
+Group dependency set,Grupės priklausomybė nustatyta
+Group removed,Grupė pašalinta
+Group updated,Grupė atnaujinta
+Hammock task dates are auto-calculated and cannot be changed manually,Hamako užduočių datos apskaičiuojamos automatiškai ir negali būti keičiamos rankiniu būdu
+Have a question or need assistance? Fill out the form below and our team will get back to you."""
+Field {0} is not a Link field,Laukas {0} nėra nuorodos laukas
+Field {0} not found in {1},Laukas {0} nerastas {1}
+file,failas
+File,Failas
+File does not belong to this task,Failas nepriklauso šiai užduočiai
+File name is required,Failo pavadinimas privalomas
+File uploaded,Failas įkeltas
+File {0} not found,Failas {0} nerastas
+files,failai
+Files,Failai
+Filter,Filtras
+Final Decision,Galutinis sprendimas
+Finance,Finansai
+Financial,Finansinis
+Finish-to-Finish,Pabaiga-iki-Pabaigos
+Finish-to-Start,Pabaiga-iki-Pradžios
+Flag,Vėliavėlė
+Flag for attention,Pažymėti dėmesiui
+Flagged,Pažymėta
+Focus Panel,Fokuso skydelis
+Follows your system preference. Currently:,Seka jūsų sistemos nuostatas. Šiuo metu:
+Frappe Project {0} not found,Frappe projektas {0} nerastas
+Frappe Projects Migration,Frappe Projects migracija
+Frappe Projects module not available,Frappe Projects modulis nepasiekiamas
+Frappe Projects module not installed,Frappe Projects modulis neįdiegtas
+Frappe Projects sync is not enabled,Frappe Projects sinchronizacija neįjungta
+Frappe Task DocType not found,Frappe Task DocType nerastas
+Frappe Task has no project,Frappe užduotis neturi projekto
+Frappe Task {0} not found,Frappe užduotis {0} nerasta
+Fri,Pn
+From,Nuo
+From Template,Iš šablono
+FS (Finish-Start),FS (Pabaiga-Pradžia)
+FS - Finish-to-Start (default),FS - Pabaiga-Pradžia (numatytasis)
+Full form view with audit trail,Pilnas formos vaizdas su audito seka
+Full name,Vardas ir pavardė
+Gantt,Gantt
+Gantt Chart,Gantt diagrama
+Gantt View,Gantt vaizdas
+General Note,Bendra pastaba
+Get started,Pradėkite
+Go back,Grįžti
+Go Back,Go Back
+Group by,Grupuoti pagal
+Group dependency removed,Grupės priklausomybė pašalinta
+Group dependency set,Grupės priklausomybė nustatyta
+Group removed,Grupė pašalinta
+Group updated,Grupė atnaujinta
+Hammock task dates are auto-calculated and cannot be changed manually,Hamako užduočių datos apskaičiuojamos automatiškai ir negali būti keičiamos rankiniu būdu
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Turite klausimą ar reikia pagalbos? Užpildykite formą žemiau ir mūsų komanda su jumis susisieks.
+Health,Sveikata
+Healthy,Geros būklės
+Hello {0},Sveiki {0}
+Here's what's happening with your projects today.,Štai kas šiandien vyksta jūsų projektuose.
+Hide,Slėpti
+High,Aukštas
+History,Istorija
+Home,Pradžia
+Hourly Cost,Valandinis tarifas
+Hours,Valandos
+hours,valandos
+Hours Logged,Registruotos valandos
+ID,ID
+Image must be smaller than 5 MB,Paveikslėlis turi būti mažesnis nei 5 MB
+Import,Importuoti
+Import existing projects and tasks from Frappe Projects module,Importuoti esamus projektus ir užduotis iš Frappe Projects modulio
+Import failed,Importavimas nepavyko
+Import Template,Importuoti šabloną
+Imported,Importuota
+in,esantis
+In Progress,Vykdoma
+In Review,Peržiūrima
+In-app notifications,Pranešimai programoje
+Inactive,Neaktyvus
+Initial Review,Pirminė peržiūra
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Nepakanka teisių visiems užduotims peržiūrėti
+Intermediate,Vidutinio lygio
+Internal,Vidinis
+Invalid DocType,Netinkamas DocType
+Invalid DocType for import,Netinkamas DocType importavimui
+Invalid item type: {0},Netinkamas elemento tipas: {0}
+Invalid JSON data,Netinkami JSON duomenys
+Invalid note type. Must be one of: {0},Netinkamas pastabos tipas. Turi būti vienas iš: {0}
+Invalid project reference,Netinkama projekto nuoroda
+Invalid reaction type. Must be one of: {0},Netinkamas reakcijos tipas. Turi būti vienas iš: {0}
+Invalid RSVP status,Netinkama RSVP būsena
+Invalid status. Must be one of: {0},Netinkama būsena. Turi būti viena iš: {0}
+Invalid status: {0},Netinkama būsena: {0}
+Invalid status: {0}. Must be one of: {1},Netinkama būsena: {0}. Turi būti viena iš: {1}
+Invalid tracking context: {0},Netinkamas stebėjimo kontekstas: {0}
+Invalid visibility. Must be one of: {0},Netinkamas matomumas. Turi būti vienas iš: {0}
+Invitation: {0} - {1} at {2},"Kvietimas: {0} - {1}, {2}"
+Invite People,Pakviesti žmones
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Elementas pridėtas
+Item ID is required,Elemento ID yra privalomas
+Item removed,Elementas pašalintas
+Item type is required,Elemento tipas yra privalomas
+Item {0} not found,Elementas {0} nerastas
+Job title or role,Pareigų pavadinimas arba vaidmuo
+Join Meeting,Prisijungti prie susitikimo
+Just now,Ką tik
+just now,ką tik
+Kanban,Kanban
+Kanban Board,Kanban lenta
+Kanban View,Kanban rodinys
+Keyboard Shortcuts,Spartieji klavišai
+Keyboard shortcuts (?),Spartieji klavišai (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Paskutinį kartą atnaujinta
+Last updated:,Paskutinį kartą atnaujinta:
+Last Week,Praėjusią savaitę
+Latest Version,Latest Version
+Light,Šviesus
+Link failed,Susiejimas nepavyko
+Link Task,Susieti užduotį
+Linked,Susieta
+Linked employee not found,Susietas darbuotojas nerastas
+Linked Tasks,Susietos užduotys
+List,Sąrašas
+List View,Sąrašo rodinys
+Load failed,Įkėlimas nepavyko
+Load More,Įkelti daugiau
+Load more comments,Įkelti daugiau komentarų
+Loading activity...,Įkeliama veikla...
+Loading changes...,Įkeliami pakeitimai...
+Loading checklist...,Įkeliamas kontrolinis sąrašas...
+Loading comments...,Įkeliami komentarai...
+Loading contact...,Įkeliamas kontaktas...
+Loading contacts...,Įkeliami kontaktai...
+Loading dependencies...,Įkeliamos priklausomybės...
+Loading details...,Įkeliama informacija...
+Loading discussion...,Įkeliamas aptarimas...
+Loading events...,Įkeliami įvykiai...
+Loading files...,Įkeliami failai...
+Loading notes...,Įkeliamos pastabos...
+Loading preferences...,Įkeliamos nuostatos...
+Loading project...,Įkeliamas projektas...
+Loading projects...,Įkeliami projektai...
+Loading replies...,Įkeliami atsakymai...
+Loading report data...,Įkeliami ataskaitos duomenys...
+Loading settings...,Įkeliami nustatymai...
+Loading task...,Įkeliama užduotis...
+Loading templates...,Įkeliami šablonai...
+Loading time logs...,Įkeliami laiko įrašai...
+Loading your portal...,Įkeliamas jūsų portalas...
+Loading...,Įkeliama...
+Location,Vieta
+Log Time,Registruoti laiką
+Logout,Atsijungti
+Low,Žemas
+Make Offer,Pateikti pasiūlymą
+Manager,Vadovas
+Manual Entry,Rankinis įvedimas
+Margin,Marža
+Mark all as read,Žymėti viską kaip perskaityta
+Mark all read,Žymėti viską kaip perskaityta
+Mark as read,Žymėti kaip perskaityta
+Mark as unread,Žymėti kaip neperskaityta
+Mark read,Žymėti perskaityta
+Marking...,Žymima...
+Material,Medžiaga
+Maybe,Galbūt
+Medium,Vidutinis
+Meeting,Susitikimas
+Meeting Link,Susitikimo nuoroda
+Meeting title,Susitikimo pavadinimas
+Meeting URL,Susitikimo URL
+Meetings,Susitikimai
+Mention,Paminėjimas
+Message,Žinutė
+Message is required,Žinutė yra privaloma
+Message is required for '{0}' action,"Žinutė reikalinga veiksmui „{0}""
+Migrate,Perkelti
+Migration Complete,Perkėlimas baigtas
+Migration ID:,Perkėlimo ID:
+Migration log not found: {0},Perkėlimo žurnalas nerastas: {0}
+Milestone,Etapas
+Milestone ID is required,Etapo ID yra privalomas
+Milestone Name,Etapo pavadinimas
+Milestone created,Etapas sukurtas
+Milestone description has been saved.,Etapo aprašymas išsaugotas.
+Milestone marked as Missed (past due date),Etapas pažymėtas kaip praleistas (praėjęs terminas)
+Milestone moved,Etapas perkeltas
+Milestone name has been saved.,Etapo pavadinimas išsaugotas.
+Milestone name is required,Etapo pavadinimas yra privalomas
+Milestone updated,Etapas atnaujintas
+Milestone {0} not found,Etapas {0} nerastas
+Milestone {0} not in project {1},Etapas {0} nėra projekte {1}
+Milestones,Etapai
+Milestones:,Etapai:
+Minutes,Minutės
+Missed,Praleistas
+Mixed,Mišrus
+Mobile,Mobilus
+Moderate,Vidutinis
+Modify details, time, or attendees,Keisti informaciją"
+Migrate,Migruoti
+Migration Complete,Migracija baigta
+Migration ID:,Migracijos ID:
+Migration log not found: {0},Migracijos žurnalas nerastas: {0}
+milestone,etapas
+Milestone,Etapas
+Milestone created,Etapas sukurtas
+Milestone description has been saved.,Etapo aprašymas išsaugotas.
+Milestone ID is required,Etapo ID privalomas
+Milestone marked as Missed (past due date),Etapas pažymėtas kaip praleistas (praėjęs terminas)
+Milestone moved,Etapas perkeltas
+Milestone Name,Etapo pavadinimas
+Milestone name has been saved.,Etapo pavadinimas išsaugotas.
+Milestone name is required,Etapo pavadinimas privalomas
+Milestone updated,Etapas atnaujintas
+Milestone {0} not found,Etapas {0} nerastas
+Milestone {0} not in project {1},Etapas {0} nėra projekte {1}
+milestones,etapai
+Milestones,Etapai
+Milestones:,Etapai:
+Minutes,Minutės
+Missed,Praleista
+Mixed,Mišrus
+Mobile,Mobilusis
+Moderate,Vidutinis
+Modified,Pakeista
+"Modify details, time, or attendees","Keisti detales, laiką ar dalyvius"
+Mon,Pr
+Month,Mėnuo
+Move failed,Perkėlimas nepavyko
+Must be a positive number,Turi būti teigiamas skaičius
+Must finish before this finishes,Turi baigtis prieš tai baigiantis
+Must finish before this starts,Turi baigtis prieš tai prasidedant
+Must start before this finishes,Turi prasidėti prieš tai baigiantis
+Must start before this starts,Turi prasidėti prieš tai prasidedant
+My Assignments,Mano priskyrimai
+My Projects,Mano projektai
+My Schedule,Mano tvarkaraštis
+My Tasks,Mano užduotys
+N/A,Netaikoma
+Name,Pavadinimas
+Name (A-Z),Pavadinimas (A-Ž)
+Name (Z-A),Pavadinimas (Ž-A)
+Name cannot exceed 255 characters,Pavadinimas negali viršyti 255 simbolių
+Need help?,Reikia pagalbos?
+Needs Attention,Reikia dėmesio
+Never,Never
+new activities,naujos veiklos
+New Activity,Nauja veikla
+New activity,Nauja veikla
+New Event,Naujas įvykis
+New index is required,Naujas indeksas yra privalomas
+New Project,Naujas projektas
+New tasks will auto-trail by default.,Naujos užduotys pagal nutylėjimą bus automatiškai perkeliamos.
+Newest First,Naujausios pirma
+Next,Kitas
+Next 14 days,Artimiausi 14 dienų
+Next 30 days,Artimiausi 30 dienų
+Next 60 days,Artimiausi 60 dienų
+Next 7 days,Artimiausi 7 dienų
+Next 90 days,Artimiausi 90 dienų
+Next Week,Kitą savaitę
+Next:,Kitas:
+No,Ne
+No active assignments,Nėra aktyvių priskyrimų
+No active projects,Nėra aktyvių projektų
+No active timer found,Nerastas aktyvus laikmatis
+No activity selected,Nepasirinkta jokia veikla
+No assignments found,Priskyrimų nerasta
+No attendees,Nėra dalyvių
+no change,be pakeitimų
+No changes for this field.,Jokių šio lauko pakeitimų.
+No changes recorded for this activity.,Jokių šios veiklos pakeitimų neužregistruota.
+No checklist items yet,Dar nėra kontrolinio sąrašo elementų
+No checklist items yet.,Dar nėra kontrolinio sąrašo elementų.
+No comments yet,Dar nėra komentarų
+No comments yet.,Dar nėra komentarų.
+No contacts available,Nėra prieinamų kontaktų
+No content for this tab,Nėra turinio šiam skirtukui
+No data available,Nėra prieinamų duomenų
+No data available for the selected filters,Nėra duomenų pagal pasirinktus filtrus
+No data to export,Nėra duomenų eksportavimui
+No dates set,Datos nenustatytos
+No defects reported,Nepranešta jokių defektų
+No dependencies defined,Neapibrėžta jokių priklausomybių
+No description,Nėra aprašymo
+No discussion yet.,Dar nėra aptarimų.
+No documents attached,Nėra pridėtų dokumentų
+No due date,Nėra termino
+No employee linked to this resource,Joks darbuotojas nesusietas su šiuo kontaktu
+No ERPNext employee linked to resource,Joks ERPNext darbuotojas nesusietas su kontaktu
+No events found,Įvykių nerasta
+No files attached yet.,Dar nėra pridėtų failų.
+No Frappe Project linked,Joks Frappe projektas nesusietas
+No Grouping,Be grupavimo
+No items,Nėra elementų
+No matching tasks,Atitinkančių užduočių nerasta
+No matching tasks found,Atitinkančių užduočių nerasta
+No migration history,Nėra perkėlimo istorijos
+No Milestone,Joks etapas
+No milestones,Nėra etapų
+No milestones defined for this project.,Šiam projektui neapibrėžta jokių etapų.
+No notes yet.,Dar nėra pastabų.
+No notes yet. Add a due diligence note to track progress.,Dar nėra pastabų. Pridėkite patikrinimo pastabą eigai stebėti.
+No notifications,Nėra pranešimų
+No Orga Project linked to Frappe Project {0},Joks Orga projektas nesusietas su Frappe projektu {0}
+No overdue tasks,Nėra vėluojančių užduočių
+No pending cascade changes,Nėra laukiančių pakopinių pakeitimų
+No predecessors - this task can start independently,Nėra pirmtakų — ši užduotis gali prasidėti savarankiškai
+No project,Nėra projekto
+No projects found,Projektų nerasta
+No Projects Yet,Dar nėra projektų
+No recent activity,Nėra naujausios veiklos
+No related documents,Nėra susijusių dokumentų
+No resolved threads.,Nėra išspręstų temų.
+No resources found,Kontaktų nerasta
+No results found,Rezultatų nerasta
+No skills listed,Nėra išvardytų įgūdžių
+No skills recorded yet,Dar neužregistruota jokių įgūdžių
+No successors - no tasks are waiting for this one,Nėra įpėdinių — jokia užduotis nelaukia šios
+No task selected,Nepasirinkta jokia užduotis
+No tasks assigned to you,Jums nepriskirta jokių užduočių
+No tasks available to add,Nėra užduočių pridėjimui
+No tasks found,Užduočių nerasta
+No tasks linked to this milestone,Jokia užduotis nesusieta su šiuo etapu
+No tasks with dates to display,Nėra užduočių su datomis rodymui
+No tasks yet,Dar nėra užduočių
+No team members,Nėra komandos narių
+No template,Nėra šablono
+No templates yet,Dar nėra šablonų
+No time data found,Laiko duomenų nerasta
+No time logged today,Šiandien neregistruota laiko
+No time logged yet,Dar neregistruota laiko
+No time logs for this period,Nėra laiko įrašų šiam laikotarpiui
+No time logs found,Laiko įrašų nerasta
+No unread notifications,Nėra neperskaitytų pranešimų
+No update information available yet.,No update information available yet.
+None,Nėra
+Not found,Nerasta
+Not permitted,Neleidžiama
+Not permitted to access this project,Prieiga prie šio projekto neleidžiama
+Not permitted to access this task,Prieiga prie šios užduoties neleidžiama
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Jums neleidžiama komentuoti šio dokumento
+Not permitted to create clients,Jums neleidžiama kurti klientų
+Not permitted to delete this client,Jums neleidžiama ištrinti šio kliento
+Not permitted to delete this defect,Jums neleidžiama ištrinti šio defekto
+Not permitted to delete this note,Jums neleidžiama ištrinti šios pastabos
+Not permitted to delete this project,Jums neleidžiama ištrinti šio projekto
+Not permitted to delete this task,Jums neleidžiama ištrinti šios užduoties
+Not permitted to delete this time log,Jums neleidžiama ištrinti šio laiko įrašo
+Not permitted to invite clients,Jums neleidžiama kviesti klientų
+Not permitted to modify client access,Jums neleidžiama keisti kliento prieigos
+Not permitted to modify this project,Jums neleidžiama keisti šio projekto
+Not permitted to update settings,Jums neleidžiama keisti nustatymų
+Not permitted to update this client,Jums neleidžiama atnaujinti šio kliento
+Not permitted to view this client,Jums neleidžiama peržiūrėti šio kliento
+not sent,neišsiųsta
+Not set,Nenustatyta
+Not specified,Nenurodyta
+Note,Pastaba
+Note (optional),Pastaba (neprivaloma)
+Note Content,Pastabos turinys
+Note content is required,Pastabos turinys yra privalomas
+Note name is required,Pastabos pavadinimas yra privalomas
+Note not found,Pastaba nerasta
+Note Type,Pastabos tipas
+Notes,Pastabos
+Notification,Pranešimas
+Notification not found,Pranešimas nerastas
+Notifications,Pranešimai
+Off Track,Nukrypęs nuo plano
+Offer,Pasiūlymas
+Offer Prepared,Pasiūlymas paruoštas
+Oldest First,Seniausios pirma
+On Hold,Sulaikytas
+On Leave,Atostogaujantis
+On Track,Pagal planą
+On-Time Rate,Savalaikio įvykdymo rodiklis
+Only administrators can delete activities,Tik administratoriai gali ištrinti veiklas
+Only the comment author or administrators can delete comments,Tik komentaro autorius arba administratoriai gali ištrinti komentarus
+Only you and admins,Tik jūs ir administratoriai
+Open,Atviras
+Open in Desk,Atidaryti Desk aplinkoje
+Open Task Log,Atidaryti užduoties žurnalą
+Open Tasks,Atviros užduotys
+Optional,Neprivalomas
+optional,neprivalomas
+Or email us directly at,Arba rašykite mums tiesiogiai adresu
+Orga Project {0} from Frappe Projects,Orga projektas {0} iš Frappe Projects
+Orga Task {0} from Frappe,Orga užduotis {0} iš Frappe
+Organizer,Organizatorius
+Other,Kita
+Over Budget,Viršytas biudžetas
+Overall Progress,Bendra eiga
+Overall Utilization,Bendras panaudojimas
+Overallocated,Per daug paskirta
+Overdue,Vėluojanti
+overdue,vėluojanti
+Overdue Tasks,Vėluojančios užduotys
+Overview,Apžvalga
+Owner,Savininkas
+Page Not Found,Puslapis nerastas
+Parent,Tėvinis
+Parent comment must belong to the same document,Tėvinis komentaras turi priklausyti tam pačiam dokumentui
+Parent comment not found,Tėvinis komentaras nerastas
+Parent project not synced to Frappe yet,Tėvinis projektas dar nesinchronizuotas su Frappe
+Parent project sync not enabled,Tėvinio projekto sinchronizacija neįjungta
+Partner,Partneris
+Pending,Laukiantis
+per page,puslapyje
+Perform initial assessment and background check,Atlikti pirminį vertinimą ir patikrinimą
+Permanently remove this event,Negrįžtamai pašalinti šį įvykį
+Permanently remove this task,Negrįžtamai pašalinti šią užduotį
+Phone,Telefonas
+Pin,Prisegti
+Pin Activity,Prisegti veiklą
+Pin to top,Prisegti viršuje
+Pinned,Prisegta
+Planned budget for this task,Planuojamas biudžetas šiai užduočiai
+Planning,Planavimas
+Please describe your question or issue in detail...,Išsamiai aprašykite savo klausimą ar problemą...
+Please login to access Orga,Prisijunkite norėdami pasiekti Orga
+Please login to access the client portal,Prisijunkite norėdami pasiekti kliento portalą
+Please respond to this invitation in Orga,Atsakykite į šį kvietimą Orga sistemoje
+Please select an image file,Pasirinkite paveikslėlio failą
+Please try again,Bandykite dar kartą
+Please type,Įveskite
+Portal,Portalas
+Portal access revoked for {0},Portalo prieiga atšaukta {0}
+Portal user created successfully. Welcome email {0},Portalo naudotojas sėkmingai sukurtas. Sveikinimo laiškas {0}
+Post,Paskelbti
+Powered by,Veikia su
+Powered by Tonic,Veikia su Tonic
+Predecessors (Blocked By),Pirmtakai (blokuoja)
+Preferences,Nuostatos
+Preferences saved successfully,Nuostatos sėkmingai išsaugotos
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)","Automatiškai generuojamų projekto kodų priešdėlis (pvz., ORG-2026-0001)"
+Prepare and document offer terms,Paruošti ir dokumentuoti pasiūlymo sąlygas
+Press,Spauskite
+Preview,Peržiūra
+Preview cascade before applying,Peržiūrėti pakopinį perkėlimą prieš taikant
+Previous,Ankstesnis
+Priority,Prioritetas
+Priority assigned to new tasks,Prioritetas priskiriamas naujoms užduotims
+Priority updated,Prioritetas atnaujintas
+Proficiency,Kompetencija
+Profile,Profilis
+Progress,Eiga
+Progress (High-Low),Eiga (mažėjanti)
+Progress (Low-High),Eiga (didėjanti)
+Progress Overview,Eigos apžvalga
+Progress updated,Eiga atnaujinta
+Project,Projektas
+Project budget has been saved.,Projekto biudžetas išsaugotas.
+Project code (e.g. ORG-2026-0001),"Projekto kodas (pvz., ORG-2026-0001)"
+Project Code Prefix,Projekto kodo priešdėlis
+Project created,Projektas sukurtas
+Project deleted,Projektas ištrintas
+Project description has been saved.,Projekto aprašymas išsaugotas.
+Project Details,Projekto informacija
+Project end date has been saved.,Projekto pabaigos data išsaugota.
+Project Files,Projekto failai
+Project has no linked client,Projektas neturi susieto kliento
+Project Health,Projekto būklė
+Project Info,Projekto informacija
+Project is required,Projektas yra privalomas
+Project is required for project context,Projektas reikalingas projekto kontekstui
+Project is required when tracking context is 'project',"Projektas reikalingas, kai stebėjimo kontekstas yra „projektas""
+Project name and template name are required,Projekto pavadinimas ir šablono pavadinimas yra privalomi
+Project name is required,Projekto pavadinimas yra privalomas
+Project not found,Projektas nerastas
+Project not found or you do not have access,Projektas nerastas arba neturite prieigos
+Project settings,Projekto nustatymai
+Project start date has been saved.,Projekto pradžios data išsaugota.
+Project title has been saved.,Projekto pavadinimas išsaugotas.
+Project updated,Projektas atnaujintas
+Project {0} linked to client {1},Projektas {0} susietas su klientu {1}
+Project {0} not found,Projektas {0} nerastas
+Project {0} to Frappe Projects,Projektas {0} į Frappe Projects
+Project:,Projektas:
+Projects,Projektai
+Projects Overview,Projektų apžvalga
+Projects created:,Sukurti projektai:
+Projects skipped:,Praleisti projektai:
+Projects updated:,Atnaujinti projektai:
+Promote failed,Paaukštinimas nepavyko
+Promote to task,Paaukštinti į užduotį
+Promoted to task,Paaukštinta į užduotį
+Propose,Pasiūlyti
+Propose New Time,Pasiūlyti naują laiką
+Propose Time,Pasiūlyti laiką
+Proposed End,Siūloma pabaiga
+Proposed Start,Siūloma pradžia
+Public,Viešas
+Quick Action,Greitas veiksmas
+Quick Actions,Greiti veiksmai
+Quick Stats,Greita statistika
+RSVP,RSVP
+Rates,Tarifai
+Receive notifications via email,Gauti pranešimus el. paštu
+Receive notifications within the application,Gauti pranešimus programoje
+Recipient {0} is not a valid user,Gavėjas {0} nėra galiojantis naudotojas
+Recent Activity,Naujausia veikla
+Reference,Nuoroda
+Refresh,Atnaujinti
+Related,Susiję
+Related Company (optional),Susijusi įmonė (neprivaloma)
+Related Documents,Susiję dokumentai
+Related Project,Susijęs projektas
+Remaining,Likę
+Reminder,Priminimas
+Reminder Lead Time"""
+Project Manager,Projekto vadovas
+Project Name,Projekto pavadinimas
+Project name and template name are required,Projekto pavadinimas ir šablono pavadinimas privalomi
+Project name is required,Projekto pavadinimas privalomas
+Project not found,Projektas nerastas
+Project not found or you do not have access,Projektas nerastas arba neturite prieigos
+Project settings,Projekto nustatymai
+Project start date has been saved.,Projekto pradžios data išsaugota.
+Project title has been saved.,Projekto pavadinimas išsaugotas.
+Project Type,Projekto tipas
+Project updated,Projektas atnaujintas
+Project {0} linked to client {1},Projektas {0} susietas su klientu {1}
+Project {0} not found,Projektas {0} nerastas
+Project {0} to Frappe Projects,Projektas {0} į Frappe Projects
+Project:,Projektas:
+projects,projektai
+Projects,Projektai
+Projects created:,Sukurti projektai:
+Projects Overview,Projektų apžvalga
+Projects skipped:,Praleisti projektai:
+Projects updated:,Atnaujinti projektai:
+Promote failed,Paaukštinimas nepavyko
+Promote to task,Paaukštinti į užduotį
+Promoted to task,Paaukštinta į užduotį
+Propose,Pasiūlyti
+Propose New Time,Pasiūlyti naują laiką
+Propose Time,Pasiūlyti laiką
+Proposed End,Siūloma pabaiga
+Proposed Start,Siūloma pradžia
+Public,Viešas
+Quick Action,Greitas veiksmas
+Quick Actions,Greiti veiksmai
+Quick Stats,Greitoji statistika
+Rates,Tarifai
+Receive notifications via email,Gauti pranešimus el. paštu
+Receive notifications within the application,Gauti pranešimus programoje
+Recent Activity,Naujausia veikla
+Recipient {0} is not a valid user,Gavėjas {0} nėra galiojantis naudotojas
+Reference,Nuoroda
+Refresh,Atnaujinti
+Related,Susiję
+Related Company (optional),Susijusi įmonė (neprivaloma)
+Related Documents,Susiję dokumentai
+Related Project,Susijęs projektas
+Remaining,Likę
+Reminder,Priminimas
+Reminder Lead Time,Priminimo išankstinis laikas
+Reminder: {0} - {1} at {2},Priminimas: {0} - {1}
+Remove,Pašalinti
+Remove dependency,Pašalinti priklausomybę
+Remove dependency on,Pašalinti priklausomybę nuo
+Remove from group,Pašalinti iš grupės
+Remove group dependency,Pašalinti grupės priklausomybę
+Remove skill,Pašalinti įgūdį
+Reopen,Atidaryti iš naujo
+Reopen thread,Atidaryti temą iš naujo
+reopened,atidaryta iš naujo
+replies,atsakymai
+Reply,Atsakyti
+reply,atsakymas
+Replying to,Atsakoma
+Replying to comment,Atsakoma į komentarą
+Report Defect,Pranešti apie defektą
+Reported Date,Pranešimo data
+Reports,Ataskaitos
+Reports To,Atsiskaito
+Request Submitted!,Užklausa pateikta!
+Required,Privalomas
+required,privalomas
+Research,Tyrimas
+Reset to Defaults,Atkurti numatytąsias reikšmes
+Resolve,Išspręsti
+Resolve thread,Išspręsti temą
+Resolved,Išspręsta
+Resolved date cannot be before reported date,Išsprendimo data negali būti ankstesnė už pranešimo datą
+Resource,Kontaktas
+Resource and skill name are required,Kontaktas ir įgūdžio pavadinimas yra privalomi
+Resource is already an attendee,Kontaktas jau yra dalyvis
+Resource name is required,Kontakto vardas yra privalomas
+Resource not found,Kontaktas nerastas
+Resource synced from employee {0},Kontaktas sinchronizuotas iš darbuotojo {0}
+Resource {0} is already assigned to this task ({1}),Kontaktas {0} jau priskirtas šiai užduočiai ({1})
+Resource {0} not found,Kontaktas {0} nerastas
+Resources,Kontaktai
+Retry,Bandyti dar kartą
+Review,Peržiūra
+Review all relevant documents and contracts,Peržiūrėti visus susijusius dokumentus ir sutartis
+Reviews,Peržiūros
+Risk Assessment,Rizikos vertinimas
+Rollback,Atšaukti pakeitimus
+Rolled back,Pakeitimai atšaukti
+Room or address,Patalpa arba adresas
+RSVP,RSVP
+Safety,Sauga
+Sat,Šeš
+Save,Išsaugoti
+"Save a project as a template, or import one from a JSON file.",Išsaugokite projektą kaip šabloną arba importuokite iš JSON failo.
+Save as Template,Išsaugoti kaip šabloną
+Save Changes,Išsaugoti pakeitimus
+Save failed,Išsaugojimas nepavyko
+Save Preferences,Išsaugoti nuostatas
+Save Template,Išsaugoti šabloną
+Saving...,Saugoma...
+Schedule,Tvarkaraštis
+Schedule type is required for scheduled triggers,Tvarkaraščio tipas reikalingas suplanuotiems paleidikliams
+Scheduled,Suplanuota
+Search,Ieškoti
+"Search by name, email, or skill...","Ieškoti pagal vardą, el. paštą ar įgūdį..."
+Search for a project...,Ieškoti projekto...
+Search for a task...,Ieškoti užduoties...
+Search for an event...,Ieškoti įvykio...
+Search for people to invite...,Ieškoti žmonių pakvietimui...
+Search tasks to link...,Ieškoti užduočių susiejimui...
+Search tasks...,Ieškoti užduočių...
+Search...,Ieškoti...
+Searching...,Ieškoma...
+Seen,Peržiūrėta
+Select a project if your request is related to a specific project.,"Pasirinkite projektą, jei jūsų užklausa susijusi su konkrečiu projektu."
+Select a project...,Pasirinkite projektą...
+Select a task from the Gantt chart to view and manage its details.,"Pasirinkite užduotį iš Gantt diagramos, kad peržiūrėtumėte ir tvarkytumėte jos informaciją."
+Select a task from the list or Kanban board to view and manage its details.,"Pasirinkite užduotį iš sąrašo arba Kanban lentos, kad peržiūrėtumėte ir tvarkytumėte jos informaciją."
+Select a template...,Pasirinkite šabloną...
+Select priority...,Pasirinkite prioritetą...
+Select status...,Pasirinkite būseną...
+Select task...,Pasirinkite užduotį...
+Select type...,Pasirinkite tipą...
+Selection,Pasirinkimas
+Send,Siųsti
+Send comment,Siųsti komentarą
+Send email invitations to attendees,Siųsti kvietimus el. paštu dalyviams
+Send Invitations,Siųsti kvietimus
+Send notification when a task is assigned to a user,Siųsti pranešimą kai užduotis priskiriama naudotojui
+Send notification when task status changes,Siųsti pranešimą kai keičiasi užduoties būsena
+Send reminder before task due date,Siųsti priminimą prieš užduoties terminą
+sent,išsiųsta
+Set rate,Nustatyti tarifą
+Settings,Nustatymai
+Settings saved successfully,Nustatymai sėkmingai išsaugoti
+Severity,Sunkumas
+SF (Start-Finish),SF (Pradžia-Pabaiga)
+SF - Start-to-Finish,SF - Pradžia-Pabaiga
+Show,Rodyti
+Show all,Rodyti viską
+Show all changes,Rodyti visus pakeitimus
+Show Archived,Rodyti archyvuotus
+Show full diff,Rodyti visą skirtumą
+Show less,Rodyti mažiau
+Show more,Rodyti daugiau
+Skill added,Įgūdis pridėtas
+Skill is required,Įgūdis yra privalomas
+Skill Name,Įgūdžio pavadinimas
+Skill removed,Įgūdis pašalintas
+Skill {0} already exists for this resource,Įgūdis {0} jau egzistuoja šiam kontaktui
+Skills,Įgūdžiai
+Skills & Competencies,Įgūdžiai ir kompetencijos
+Skip already migrated projects,Praleisti jau perkeltus projektus
+Sort by,Rikiuoti pagal
+Sort: Due Date,Rikiavimas: Terminas
+Sort: Priority,Rikiavimas: Prioritetas
+Sort: Project,Rikiavimas: Projektas
+Sort: Status,Rikiavimas: Būsena
+Sort: Task,Rikiavimas: Užduotis
+Source Code,Programos kodas
+Spent,Išleista
+Spent:,Išleista:
+SS (Start-Start),SS (Pradžia-Pradžia)
+SS - Start-to-Start,SS - Pradžia-Pradžia
+Standalone,Savarankiškas
+Start,Pradžia
+Start a discussion below,Pradėkite aptarimą žemiau
+Start Date,Pradžios data
+Start date,Pradžios data
+Start Date (Earliest),Pradžios data (anksčiausia)
+Start date updated,Pradžios data atnaujinta
+Start date/time is required,Pradžios data/laikas yra privalomi
+Start Migration,Pradėti perkėlimą
+Start the conversation below.,Pradėkite pokalbį žemiau.
+Start Timer,Paleisti laikmatį
+Start typing to search...,Pradėkite rašyti norėdami ieškoti...
+Start-to-Finish,Pradžia-Pabaiga
+Start-to-Start,Pradžia-Pradžia
+Start:,Pradžia:
+Statistics reset,Statistika atkurta
+Status,Būsena
+Status assigned to new projects,Būsena priskiriama naujiems projektams
+Status assigned to new tasks,Būsena priskiriama naujoms užduotims
+Status Changes,Būsenos pakeitimai
+Status updated,Būsena atnaujinta
+Status:,Būsena:
+Stop,Sustabdyti
+Stop & Save,Sustabdyti ir išsaugoti
+Stop Timer,Sustabdyti laikmatį
+Stops current timer and starts for this event,Sustabdo dabartinį laikmatį ir paleidžia šiam įvykiui
+Stops current timer and starts for this task,Sustabdo dabartinį laikmatį ir paleidžia šiai užduočiai
+Subject,Tema
+Subject cannot exceed 255 characters,Tema negali viršyti 255 simbolių
+Subject is required,Tema yra privaloma
+Submit,Pateikti
+Submit Another Request,Pateikti kitą užklausą
+Submit Request,Pateikti užklausą
+Submitting...,Pateikiama...
+Successfully saved,Sėkmingai išsaugota
+Successors (Blocking),Įpėdiniai (blokuojantys)
+Sun,Sekm
+Supplier,Tiekėjas
+Support,Palaikymas
+Switch to this event,Perjungti į šį įvykį
+Switch to this task,Perjungti į šią užduotį
+Sync direction is set to Frappe to Orga only,Sinchronizacijos kryptis nustatyta tik iš Frappe į Orga
+Sync direction is set to Orga to Frappe only,Sinchronizacijos kryptis nustatyta tik iš Orga į Frappe
+Sync not enabled for this project,Sinchronizacija šiam projektui neįjungta
+System,Sistema
+Table,Lentelė
+Take ownership of this task,Prisiimti šią užduotį
+Target Date,Tikslinė data
+Target End,Tikslinė pabaiga
+Target Project,Tikslinis projektas
+Target user is required for '{0}' action,"Tikslinis naudotojas reikalingas veiksmui „{0}""
+Task,Užduotis
+Task '{0}' is due on {1}."""
+task,užduotis
+Task,Užduotis
+Task '{0}' is due on {1}.,Užduoties '{0}' terminas {1}.
+Task and resource are required,Užduotis ir kontaktas yra privalomi
+Task Assignment,Užduoties priskyrimas
+Task cannot be its own parent,Užduotis negali būti savo pačios tėvinė
+Task cannot depend on itself,Užduotis negali priklausyti nuo savęs pačios
+Task cannot depend on the group it belongs to,Užduotis negali priklausyti nuo grupės kuriai priklauso
+Task created,Užduotis sukurta
+Task deleted,Užduotis ištrinta
+Task description has been saved.,Užduoties aprašymas išsaugotas.
+Task Details,Užduoties informacija
+Task due in {0} days: {1},Užduoties terminas po {0} dienų: {1}
+Task due today: {0},Užduoties terminas šiandien: {0}
+Task due tomorrow: {0},Užduoties terminas rytoj: {0}
+Task duplicated,Užduotis dubliuota
+Task Group,Užduočių grupė
+Task ID is required,Užduoties ID yra privalomas
+Task is blocked by incomplete dependencies,Užduotis užblokuota dėl nebaigtų priklausomybių
+Task is cancelled,Užduotis atšaukta
+Task is completed,Užduotis užbaigta
+Task is no longer blocked by a group,Užduotis nebėra blokuojama grupės
+Task is required for task context,Užduotis reikalinga užduoties kontekstui
+Task is required when tracking context is 'task',"Užduotis reikalinga, kai stebėjimo kontekstas yra „užduotis""
+Task linked,Užduotis susieta
+Task moved,Užduotis perkelta
+Task name,Užduoties pavadinimas
+Task name is required,Užduoties pavadinimas yra privalomas
+Task removed from group,Užduotis pašalinta iš grupės
+Task subject is required,Užduoties tema yra privaloma
+Task unblocked: {0},Užduotis atblokuota: {0}
+Task unlinked,Užduotis atsieta
+Task updated,Užduotis atnaujinta
+Task {0} not found,Užduotis {0} nerasta
+Task {0} not in project {1},Užduotis {0} nėra projekte {1}
+Task {0} to Frappe,Užduotis {0} į Frappe
+Tasks and milestones will be created with dates relative to the project start date."""
+Task linked,Užduotis susieta
+Task moved,Užduotis perkelta
+Task name,Užduoties pavadinimas
+Task name is required,Užduoties pavadinimas privalomas
+Task removed from group,Užduotis pašalinta iš grupės
+Task Subject,Užduoties tema
+Task subject is required,Užduoties tema privaloma
+Task Type,Užduoties tipas
+Task unblocked: {0},Užduotis atblokuota: {0}
+Task unlinked,Užduotis atskirta
+Task updated,Užduotis atnaujinta
+Task {0} not found,Užduotis {0} nerasta
+Task {0} not in project {1},Užduotis {0} nėra projekte {1}
+Task {0} to Frappe,Užduotis {0} į Frappe
+Tasks,Užduotys
+tasks,užduotys
+Tasks and milestones will be created with dates relative to the project start date.,"Užduotys ir etapai bus sukurti su datomis, susietomis su projekto pradžios data."
+Tasks assigned to you across all projects.,Jums priskirtos užduotys visuose projektuose.
+Tasks created:,Sukurtos užduotys:
+Tasks from projects you manage.,Užduotys iš jūsų valdomų projektų.
+Tasks updated:,Atnaujintos užduotys:
+"Tasks, milestones, and dependencies have been created.","Užduotys, etapai ir priklausomybės sukurtos."
+Tasks:,Užduotys:
+TBD,Nustatytina
+Team,Komanda
+Team Members,Komandos nariai
+Template,Šablonas
+Template applied,Šablonas pritaikytas
+Template data is required in import data,Šablono duomenys reikalingi importo duomenyse
+Template has no data,Šablonas neturi duomenų
+Template Name,Šablono pavadinimas
+Template name,Šablono pavadinimas
+Template name is required,Šablono pavadinimas yra privalomas
+Template name is required in import data,Šablono pavadinimas reikalingas importo duomenyse
+Template saved,Šablonas išsaugotas
+Template updated successfully.,Šablonas sėkmingai atnaujintas.
+Template {0} not found,Šablonas {0} nerastas
+Templates,Šablonai
+Tentative,Preliminarus
+The comment has been deleted,Komentaras buvo ištrintas
+The project,Projektas
+The source document may have been deleted.,Šaltinio dokumentas galėjo būti ištrintas.
+The source document will not be affected.,Šaltinio dokumentas nebus paveiktas.
+The status of '{0}' was changed from {1} to {2}.,"„{0} būsena pakeista iš {1} į {2}."""
+Theme,Tema
+Theme preference,Temos nuostata
+This action,Šis veiksmas
+This action cannot be undone.,Šio veiksmo negalima atšaukti.
+This activity has been flagged for attention,Ši veikla pažymėta dėmesiui
+This is a reminder for your upcoming appointment,Tai priminimas apie jūsų artėjantį susitikimą
+This method is only meant for developer mode,Šis metodas skirtas tik kūrėjo režimui
+This page wandered off,This page wandered off
+This Week,Šią savaitę
+This will delete all notes and preferences associated with this activity.,Tai ištrins visas pastabas ir nuostatas susijusias su šia veikla.
+This will import all Frappe Projects into Orga. Continue?,Tai importuos visus Frappe projektus į Orga. Tęsti?
+This will permanently delete,Tai negrįžtamai ištrins
+This will permanently delete:,Tai negrįžtamai ištrins:
+Thu,Kt
+Time,Laikas
+Time & Billing,Laikas ir atsiskaitymai
+Time & Revenue,Laikas ir pajamos
+Time Entries,Laiko įrašai
+Time log name is required,Laiko įrašo pavadinimas yra privalomas
+Time Log not found,Laiko įrašas nerastas
+Time log {0} not found,Laiko įrašas {0} nerastas
+Time Logs,Laiko įrašai
+Time Summary,Laiko suvestinė
+Time Tracking,Laiko stebėjimas
+Timeline,Laiko juosta
+Timer active on,Laikmatis aktyvus
+Timer is not running,Laikmatis neveikia
+Timer Running,Laikmatis veikia
+Timer running,Laikmatis veikia
+Timesheet DocType not available,Darbo laiko lapo DocType neprieinamas
+Timesheets,Darbo laiko lapai
+Timezone,Laiko juosta
+Timezone is detected from your browser,Laiko juosta nustatoma iš jūsų naršyklės
+Title,Pavadinimas
+Title cannot exceed 255 characters,Pavadinimas negali viršyti 255 simbolių
+Title is required,Pavadinimas yra privalomas
+Title updated,Pavadinimas atnaujintas
+To,Iki
+to,iki
+to cancel,norėdami atšaukti
+to close,norėdami uždaryti
+to confirm:,norėdami patvirtinti:
+to edit,norėdami redaguoti
+"to save,","norėdami išsaugoti,"
+To Time cannot be before From Time,Pabaigos laikas negali būti ankstesnis už pradžios laiką
+Today,Šiandien
+today,šiandien
+Toggle billable,Perjungti apmokestinimą
+Toggle Details Panel,Rodyti/slėpti informacijos skydelį
+Toggle Manager Panel,Rodyti/slėpti vadovo skydelį
+Toggle Sidebar,Rodyti/slėpti šoninę juostą
+Tomorrow,Rytoj
+tomorrow,rytoj
+Total,Iš viso
+Total Budget,Bendras biudžetas
+Total Contacts,Iš viso kontaktų
+Total Cost,Bendra kaina
+Total Cost to Org,Bendra kaina organizacijai
+Total Defect Cost,Bendra defektų kaina
+Total Hours,Iš viso valandų
+Total Hours Logged,Iš viso registruotų valandų
+Total Projects,Iš viso projektų
+Total Spent,Iš viso išleista
+Total Tasks,Iš viso užduočių
+Total:,Iš viso:
+Tracked,Stebima
+trails to today while Open at 0%,perkeliama iki šiandien kol Atvira 0%
+Tried:,Tried:
+Try adjusting your filter criteria,Pabandykite pakeisti filtrų kriterijus
+Try adjusting your filters.,Pabandykite pakeisti filtrus.
+Try Again,Bandyti dar kartą
+Tue,Ant
+Type,Tipas
+Type updated,Tipas atnaujintas
+Type:,Tipas:
+Typical response time: 1-2 business days,Įprastas atsakymo laikas: 1–2 darbo dienos
+Unarchive,Išarchyvuoti
+Unarchive Activity,Išarchyvuoti veiklą
+Unassign,Atšaukti priskyrimą
+Unassigned,Nepriskirta
+Under Budget,Neišnaudotas biudžetas
+Ungrouped,Negrupuota
+Unknown,Nežinomas
+Unknown error,Nežinoma klaida
+Unlink failed,Atsiejimas nepavyko
+Unlink task from milestone,Atsieti užduotį nuo etapo
+Unpin,Atsegti
+Unpin Activity,Atsegti veiklą
+Unread,Neperskaityta
+Unread only,Tik neperskaityti
+Until,Iki
+Up to Date,Up to Date
+Upcoming,Artėjantys
+upcoming,artėjantys
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Atnaujinimas nepavyko
+Updated,Atnaujinta
+Updated successfully,Sėkmingai atnaujinta
+Updates,Updates
+Upload,Įkelti
+Upload failed,Įkėlimas nepavyko
+Upload files below to attach them to this task.,Įkelkite failus žemiau
+Upload to project,Įkelti į projektą
+Uploading...,Įkeliama...
+Urgent,Skubus
+User {0} is already linked to client {1},Naudotojas {0} jau susietas su klientu {1}
+User {0} is already linked to resource {1},Naudotojas {0} jau susietas su kontaktu {1}
+Utilization,Panaudojimas
+Valid,Galiojantis
+Value:,Reikšmė:
+Variance,Nuokrypis
+Variance:,Nuokrypis:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Peržiūrėti
+View All,Peržiūrėti viską
+View all active projects,Peržiūrėti visus aktyvius projektus
+View all open tasks,Peržiūrėti visas atviras užduotis
+View overdue tasks,Peržiūrėti vėluojančias užduotis
+View Release,View Release
+Visibility,Matomumas
+Waiting for this task,Laukiama šios užduoties
+Waits for:,Laukia:
+Warning: Resource {0} status is {1},Dėmesio: kontakto {0} būsena yra {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Dėmesio: naudojamas HTTP vietoj HTTPS. Webhook duomenys gali būti nesaugūs.
+Watch budget closely,Atidžiai stebėkite biudžetą
+We'll respond to:,Atsakysime adresu:
+Webhook deleted,Webhook ištrintas
+Webhook name is required,Webhook pavadinimas yra privalomas
+Webhook not found,Webhook nerastas
+Webhook URL is required,Webhook URL yra privalomas
+Webhook URL must start with http:// or https://,Webhook URL turi prasidėti http:// arba https://
+Wed,Tr
+Week,Savaitė
+Weekend,Savaitgalis
+Weekly Capacity,Savaitinis pajėgumas
+weekly capacity,savaitinis pajėgumas
+Weekly Capacity (h),Savaitinis pajėgumas (val.)
+Welcome,Sveiki
+Welcome back!,Sveiki sugrįžę!
+Welcome to Orga,Sveiki atvykę į Orga
+What are you working on?,Ką šiuo metu darote?
+What did you work on?,Ką dirbote?
+When,Kada
+When work begins,Kai darbas prasideda
+When work is due,Kai darbas turi būti atliktas
+Where,Kur
+Will capture:,Bus užfiksuota:
+Will create:,Bus sukurta:
+with checklist items,su kontrolinio sąrašo elementais
+Working,Vykdoma
+Workload,Darbo krūvis
+Workmanship,Darbo kokybė
+Write a comment...,Rašykite komentarą...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Rašykite komentarą... Naudokite @vardą paminėjimui (Ctrl+Enter siųsti)
+Year,Metai
+Yes,Taip
+Yesterday,Vakar
+yesterday,vakar
+You are not an attendee of this appointment,Jūs nesate šio susitikimo dalyvis
+You are not linked to any resource,Jūs nesate susietas su jokiu kontaktu
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Galite ištrinti tik savo komentarus
+You can only delete your own reactions,Galite ištrinti tik savo reakcijas
+You do not have access to the client portal. Please contact support.,Jūs neturite prieigos prie kliento portalo. Susisiekite su palaikymu.
+You have already reacted with '{0}',"Jūs jau reagavote „{0}""
+You have been assigned to task '{0}' in project '{1}'."""
+You have been assigned to task '{0}' in project '{1}'.,Jums priskirta užduotis '{0}' projekte '{1}'.
+You have been assigned to: {0},Jums priskirta: {0}
+You have been invited to the following appointment,Esate pakviestas į šį susitikimą
+You have no tasks assigned to you right now.,Šiuo metu jums nepriskirta jokių užduočių.
+You were mentioned in {0},Jūs buvote paminėtas {0}
+Your attendance,Jūsų dalyvavimas
+Your comment has been posted,Jūsų komentaras paskelbtas
+Your Projects,Jūsų projektai
+Your projects will appear here once they're assigned to you.,Jūsų projektai bus rodomi čia kai bus jums priskirti.
+Your Response,Jūsų atsakymas
+Your RSVP,Jūsų RSVP
+Your support request has been submitted successfully.,Jūsų palaikymo užklausa sėkmingai pateikta.
+Your support request has been submitted successfully. We'll get back to you shortly.,Jūsų palaikymo užklausa sėkmingai pateikta. Netrukus su jumis susisieksime.
+"Your task ""{0}"" is no longer blocked and can now be started.","Jūsų užduotis „{0} nebėra užblokuota ir gali būti pradėta."""
+{0} is required,{0} yra privalomas
+{0} new activities,{0} naujų veiklų
+{0} of {1} completed,{0} iš {1} užbaigta
+{0} projects already migrated (will be skipped or updated),{0} projektų jau perkelta (bus praleisti arba atnaujinti)
+{0} status changed to {1},{0} būsena pakeista į {1}
+{0} tasks remaining,liko {0} užduočių
+{0} tasks without projects will be skipped,{0} užduočių be projektų bus praleista
+{0} {1} not found,{0} {1} nerastas

@@ -1,0 +1,1492 @@
++ Add Milestone,+ Lisää välitavoite
++ Create Task,+ Luo tehtävä
++ Log Time,+ Kirjaa aika
+-- Select a project --,-- Valitse projekti --
+0m,0min
+1 day,1 päivä
+1 day ago,1 päivä sitten
+1 dependency,1 riippuvuus
+1 entry,1 merkintä
+1 file,1 tiedosto
+1 hour ago,1 tunti sitten
+1 member,1 jäsen
+1 milestone,1 välitavoite
+1 month,1 kuukausi
+1 task,1 tehtävä
+< 1m,< 1min
+"A clear, actionable title for the task","Selkeä, toteutettava otsikko tehtävälle"
+A client with email {0} already exists: {1},Asiakas sähköpostilla {0} on jo olemassa: {1}
+A key deliverable or checkpoint for the project,Projektin keskeinen tuotos tai tarkistuspiste
+Accept,Hyväksy
+Accepted,Hyväksytty
+Acknowledge,Kuittaa
+across,kaikissa
+Action,Toiminto
+Actions,Toiminnot
+Active,Aktiivinen
+Active Assignments,Aktiiviset toimeksiannot
+Active Projects,Aktiiviset projektit
+Activity,Toiminta
+Activity data deleted successfully,Toimintatiedot poistettu onnistuneesti
+Activity Info,Toimintatiedot
+Activity Stats,Toimintatilastot
+Activity will appear here as you work on tasks and projects.,Toiminta näkyy täällä sitä mukaa kun työskentelet tehtävien ja projektien parissa.
+Actual,Toteutunut
+Actual Cost,Toteutunut kustannus
+Actual cost cannot be negative,Toteutunut kustannus ei voi olla negatiivinen
+Actual end date cannot be before actual start date,Toteutunut päättymispäivä ei voi olla ennen toteutunutta aloituspäivää
+Actual Hours,Toteutuneet tunnit
+Add,Lisää
+Add a checklist item...,Lisää tarkistuslistan kohta...
+Add a comment...,Lisää kommentti...
+Add a comment... (Ctrl+Enter to send),Lisää kommentti... (Ctrl+Enter lähettääksesi)
+Add a description...,Lisää kuvaus...
+Add a milestone description...,Lisää välitavoitteen kuvaus...
+Add a note below to annotate this activity.,Lisää muistiinpano alle tämän toiminnan merkitsemiseksi.
+Add a note...,Lisää muistiinpano...
+Add a project description...,Lisää projektikuvaus...
+Add a task description...,Lisää tehtävän kuvaus...
+Add checklist item...,Lisää tarkistuslistan kohta...
+Add Contact,Lisää yhteyshenkilö
+Add contacts via the Desk interface or clear filters,Lisää yhteyshenkilöitä Desk-käyttöliittymän kautta tai tyhjennä suodattimet
+Add Dependency,Lisää riippuvuus
+Add details about this event...,Lisää tietoja tästä tapahtumasta...
+Add details about this milestone...,Lisää tietoja tästä välitavoitteesta...
+Add details about this task...,Lisää tietoja tästä tehtävästä...
+Add details or acceptance criteria for this milestone,Lisää tietoja tai hyväksymiskriteerit tälle välitavoitteelle
+"Add details, context, or acceptance criteria","Lisää tietoja, taustatietoja tai hyväksymiskriteerit"
+Add first dependency,Lisää ensimmäinen riippuvuus
+Add item,Lisää kohta
+Add items below to track progress.,Lisää kohtia alle edistymisen seuraamiseksi.
+Add items below to track subtasks,Lisää kohtia alle osatehtävien seuraamiseksi
+Add Milestone,Lisää välitavoite
+Add Milestone (Shift+M),Lisää välitavoite (Shift+M)
+Add milestones to track key deliverables.,Lisää välitavoitteita keskeisten tuotosten seuraamiseksi.
+Add New Contact,Lisää uusi yhteyshenkilö
+Add Note,Lisää muistiinpano
+Add note,Lisää muistiinpano
+Add notes about this contact...,Lisää muistiinpanoja tästä yhteyshenkilöstä...
+Add reaction,Lisää reaktio
+Add Skill,Lisää taito
+Add start and due dates to tasks to see them on the Gantt chart,Lisää aloitus- ja eräpäivät tehtäville nähdäksesi ne Gantt-kaaviossa
+Add Task,Lisää tehtävä
+Add Task (Shift+T),Lisää tehtävä (Shift+T)
+Added Finish-to-Start dependency,Lopusta-alkuun-riippuvuus lisätty
+Adding this dependency would create a circular reference: {0},Tämän riippuvuuden lisääminen loisi kehäviittauksen: {0}
+Adding...,Lisätään...
+Address,Osoite
+Advanced,Edistynyt
+All,Kaikki
+All Active,Kaikki aktiiviset
+All Assignees,Kaikki vastuuhenkilöt
+All Categories,Kaikki luokat
+All caught up!,Kaikki ajan tasalla!
+All Contexts,Kaikki kontekstit
+All day,Koko päivä
+All day event,Koko päivän tapahtuma
+All fields,Kaikki kentät
+All Priorities,Kaikki prioriteetit
+All Projects,Kaikki projektit
+All Status,Kaikki tilat
+All Statuses,Kaikki tilat
+All task dependencies & relative dates,Kaikki tehtäväriippuvuudet ja suhteelliset päivämäärät
+All Tasks,Kaikki tehtävät
+All tasks across all projects.,Kaikki tehtävät kaikista projekteista.
+All tasks are already linked,Kaikki tehtävät on jo linkitetty
+All team members,Kaikki tiimin jäsenet
+All Types,Kaikki tyypit
+All Users,Kaikki käyttäjät
+Allocated,Kohdennettu
+allocated,kohdennettu
+Allow users to log time against tasks,Salli käyttäjien kirjata aikaa tehtäville
+Already exported to timesheet {0},Jo viety tuntilistaan {0}
+Already Migrated,Jo siirretty
+Anyone with access,Kaikki joilla on pääsy
+anytime to show this help,milloin tahansa nähdäksesi tämän ohjeen
+App Updates,App Updates
+Appearance,Ulkoasu
+Apply,Käytä
+Apply cascade?,Käytetäänkö ketjutus?
+Apply Changes,Ota muutokset käyttöön
+Apply failed,Käyttöönotto epäonnistui
+Apply Template,Käytä mallia
+Applying...,Otetaan käyttöön...
+Appointment,Tapaaminen
+Appointment and resource are required,Tapaaminen ja resurssi ovat pakollisia
+Appointment name is required,Tapaamisen nimi on pakollinen
+Appointment not found,Tapaamista ei löytynyt
+Appointment {0} not found,Tapaamista {0} ei löytynyt
+Apps,Sovellukset
+Archive,Arkistoi
+Archive Activity,Arkistoi toiminta
+Archived,Arkistoitu
+Are you sure you want to delete this activity data? This cannot be undone.,Haluatko varmasti poistaa nämä toimintatiedot? Tätä ei voi kumota.
+Are you sure you want to delete this comment?,Haluatko varmasti poistaa tämän kommentin?
+Are you sure you want to delete this project?,Haluatko varmasti poistaa tämän projektin?
+Are you sure?,Oletko varma?
+Ascending -- click to reverse,Nouseva -- käännä napsauttamalla
+Assign To,Vastuuta
+Assign to Me,Vastuuta minulle
+Assigned Contact,Vastuutettu yhteyshenkilö
+Assigned To,Vastuutettu
+Assigned to,Vastuutettu
+Assigned to Me,Vastuutettu minulle
+Assignee,Vastuuhenkilö
+Assignment,Toimeksianto
+Assignment History,Toimeksiantohistoria
+Assignment name is required,Toimeksiannon nimi on pakollinen
+Assignment {0} not found,Toimeksiantoa {0} ei löytynyt
+Assignments,Toimeksiannot
+At least one action is required,Vähintään yksi toiminto vaaditaan
+At least one event is required,Vähintään yksi tapahtuma vaaditaan
+At least one event must be selected,Vähintään yksi tapahtuma on valittava
+Attachment,Liite
+Attachments,Liitteet
+Attendees,Osallistujat
+"Audit trail, assignments, version history","Jäljitysketju, toimeksiannot, versiohistoria"
+Auto,Automaattinen
+Auto Calculate Progress,Laske edistyminen automaattisesti
+Auto Set Missed Milestones,Merkitse ohitetut välitavoitteet automaattisesti
+Auto-shift dependents when dates change,Siirrä riippuvaiset automaattisesti päivämäärien muuttuessa
+Auto-Trail Start,Automaattinen liukuva alku
+Auto-Trail updated,Automaattinen liukuva alku päivitetty
+Automatically calculate project progress from task completion,Laske projektin edistyminen automaattisesti tehtävien valmistumisesta
+Automatically mark milestones as missed when overdue,Merkitse välitavoitteet automaattisesti ohitetuiksi niiden myöhästyessä
+Automation rule {0} not found,Automaatiosääntöä {0} ei löytynyt
+Automation: {0},Automaatio: {0}
+Availability,Saatavuus
+Available,Saatavilla
+Avatar updated successfully,Profiilikuva päivitetty onnistuneesti
+Avg Progress,Keskimääräinen edistyminen
+Back,Takaisin
+Back to Portal,Takaisin portaaliin
+Back to Projects,Takaisin projekteihin
+Beginner,Aloittelija
+Best regards,Ystävällisin terveisin
+Billable,Laskutettava
+Billable Amount,Laskutettava summa
+Billable Hours,Laskutettavat tunnit
+Billable Rate,Laskutushinta
+Billing Rate,Laskutushinta
+Blocked,Estetty
+Both dates are needed to display task as a bar in Gantt chart,Molemmat päivämäärät tarvitaan tehtävän näyttämiseksi palkkina Gantt-kaaviossa
+Both doctype and docname are required,Sekä doctype että docname vaaditaan
+Both proposed start and end times are required,Sekä ehdotettu alkamis- että päättymisaika vaaditaan
+Both task_name and depends_on are required,Sekä task_name että depends_on vaaditaan
+Breadcrumb,Navigointipolku
+Brief description of the defect or damage,Lyhyt kuvaus viasta tai vauriosta
+Brief description of this template,Lyhyt kuvaus tästä mallista
+Brief description of your request,Lyhyt kuvaus pyynnöstäsi
+Brief project description,Lyhyt projektikuvaus
+Budget,Budjetti
+Budget at risk,Budjetti vaarassa
+Budget Burn Rate,Budjetin kulutusvauhti
+Budget Status,Budjetin tila
+Budget updated,Budjetti päivitetty
+Budget:,Budjetti:
+Bug,Virhe
+Burn Rate,Kulutusvauhti
+Busy,Varattu
+By,Tekijä
+By Assignee,Vastuuhenkilön mukaan
+By Group,Ryhmän mukaan
+By Milestone,Välitavoitteen mukaan
+By Priority,Prioriteetin mukaan
+By Status,Tilan mukaan
+Cancel,Peruuta
+Cancelled,Peruutettu
+cannot be undone,ei voi kumota
+Cannot delete client with {0} linked projects. Unlink projects first.,Asiakasta ei voi poistaa {0} linkitetyn projektin kanssa. Poista linkitykset ensin.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Projektia ei voi poistaa {0} linkitetyn tehtävän kanssa. Poista tehtävät ensin.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Resurssia ei voi poistaa {0} aktiivisen toimeksiannon kanssa. Valmistele tai peruuta ne ensin.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Tehtävää ei voi poistaa {0} osatehtävän kanssa. Poista osatehtävät ensin.
+Capacity,Kapasiteetti
+capacity,kapasiteetti
+Capacity & Rates,Kapasiteetti ja hinnat
+Capture project structure for reuse,Tallenna projektirakenne uudelleenkäyttöä varten
+Cascade,Ketjutus
+Cascade Preview,Ketjutuksen esikatselu
+Category,Luokka
+Celebrate,Juhli
+Change,Muuta
+Change History,Muutoshistoria
+Change Priority,Vaihda prioriteetti
+Change Status,Vaihda tila
+Changes,Muutokset
+Changes appear when fields are modified.,Muutokset näkyvät kun kenttiä muokataan.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Tarkistuslista
+Checklist item name is required,Tarkistuslistan kohdan nimi on pakollinen
+Checklist item not found,Tarkistuslistan kohtaa ei löytynyt
+Checklist item title is required,Tarkistuslistan kohdan otsikko on pakollinen
+Checklist item {0} not found,Tarkistuslistan kohtaa {0} ei löytynyt
+Checklist item {0} not found in task,Tarkistuslistan kohtaa {0} ei löytynyt tehtävästä
+Child,Alitehtävä
+Choose file to upload,Valitse ladattava tiedosto
+Circular dependency detected: {0},Kehäriippuvuus havaittu: {0}
+Circular parent-child relationship detected,Kehämäinen ylä-alasuhde havaittu
+Clear,Tyhjennä
+Clear all read,Tyhjennä kaikki luetut
+Clear date,Tyhjennä päivämäärä
+Click on an activity from the list to view and manage its details.,Napsauta toimintaa listasta nähdäksesi ja hallitaksesi sen tietoja.
+Click the avatar to upload a new photo,Napsauta profiilikuvaa ladataksesi uuden kuvan
+Click to add description...,Napsauta lisätäksesi kuvaus...
+Click to add notes...,Napsauta lisätäksesi muistiinpanoja...
+Click to assign contact,Napsauta vastuuttaaksesi yhteyshenkilön
+Click to change status,Napsauta vaihtaaksesi tilan
+Click to change type,Napsauta vaihtaaksesi tyypin
+Click to edit,Napsauta muokataksesi
+Click to edit budget,Napsauta muokataksesi budjettia
+Click to edit description,Napsauta muokataksesi kuvausta
+Click to edit end date,Napsauta muokataksesi päättymispäivää
+Click to edit milestone name,Napsauta muokataksesi välitavoitteen nimeä
+Click to edit rate,Napsauta muokataksesi hintaa
+Click to edit start date,Napsauta muokataksesi aloituspäivää
+Click to edit title,Napsauta muokataksesi otsikkoa
+Click to load,Napsauta ladataksesi
+Click to set group dependency...,Napsauta asettaaksesi ryhmäriippuvuuden...
+Click to set group...,Napsauta asettaaksesi ryhmän...
+Click to view,Napsauta nähdäksesi
+Click to view at-risk projects,Napsauta nähdäksesi vaarassa olevat projektit
+Click to view critical projects,Napsauta nähdäksesi kriittiset projektit
+Click to view healthy projects,Napsauta nähdäksesi terveet projektit
+Client,Asiakas
+Client already has a portal user: {0},Asiakkaalla on jo portaalikäyttäjä: {0}
+Client already has portal access,Asiakkaalla on jo portaalipääsy
+Client has no portal user to revoke,Asiakkaalla ei ole portaalikäyttäjää peruttavaksi
+Client link removed from project {0},Asiakaslinkki poistettu projektista {0}
+Client Portal,Asiakasportaali
+Client {0} deleted successfully,Asiakas {0} poistettu onnistuneesti
+Close,Sulje
+Close (Esc),Sulje (Esc)
+Comment,Kommentti
+comment,kommentti
+Comment added,Kommentti lisätty
+Comment content is required,Kommentin sisältö on pakollinen
+Comment name is required,Kommentin nimi on pakollinen
+Comment not found,Kommenttia ei löytynyt
+Comment removed,Kommentti poistettu
+Comment {0} not found in task,Kommenttia {0} ei löytynyt tehtävästä
+Comments,Kommentit
+comments,kommenttia
+Community Edition,Community Edition
+Company,Yritys
+Company name...,Yrityksen nimi...
+Complete,Valmistele
+Completed,Valmis
+completed,valmis
+Completed Tasks,Valmiit tehtävät
+Compliance,Säädöstenmukaisuus
+Configure default values for new projects and tasks,Määritä oletusarvot uusille projekteille ja tehtäville
+Configure email notification settings,Määritä sähköposti-ilmoitusten asetukset
+Confirm,Vahvista
+Contact deleted,Yhteyshenkilö poistettu
+Contact Details,Yhteyshenkilön tiedot
+Contact Information,Yhteystiedot
+Contact name is required,Yhteyshenkilön nimi on pakollinen
+Contact Support,Ota yhteyttä tukeen
+Contact your project manager for more information.,Ota yhteyttä projektipäällikköön saadaksesi lisätietoja.
+Contact:,Yhteyshenkilö:
+Contacts,Yhteyshenkilöt
+Context,Konteksti
+Contractor,Alihankkija
+Cost estimate cannot be negative,Kustannusarvio ei voi olla negatiivinen
+Cost Impact,Kustannusvaikutus
+Cost Summary,Kustannusyhteenveto
+Could not apply the template. Please try again.,Mallin käyttöönotto epäonnistui. Yritä uudelleen.
+Could not attach file to project,Tiedoston liittäminen projektiin epäonnistui
+Could not change task priority,Tehtävän prioriteetin muuttaminen epäonnistui
+Could not change task status,Tehtävän tilan muuttaminen epäonnistui
+Could not delete the project. Please try again.,Projektin poistaminen epäonnistui. Yritä uudelleen.
+Could not delete the task. Please try again.,Tehtävän poistaminen epäonnistui. Yritä uudelleen.
+Could not delete the template.,Mallin poistaminen epäonnistui.
+Could not duplicate the task. Please try again.,Tehtävän kahdentaminen epäonnistui. Yritä uudelleen.
+Could not export the template.,Mallin vienti epäonnistui.
+Could not import the template. Please check the file format.,Mallin tuonti epäonnistui. Tarkista tiedostomuoto.
+Could not link task to milestone,Tehtävän linkittäminen välitavoitteeseen epäonnistui
+Could not load document details.,Dokumentin tietojen lataaminen epäonnistui.
+Could not load task details,Tehtävän tietojen lataaminen epäonnistui
+Could not promote checklist item to task.,Tarkistuslistan kohdan ylentäminen tehtäväksi epäonnistui.
+Could not remove task from milestone,Tehtävän poistaminen välitavoitteesta epäonnistui
+Could not save budget.,Budjetin tallentaminen epäonnistui.
+Could not save changes to the milestone,Välitavoitteen muutosten tallentaminen epäonnistui
+Could not save changes to the task,Tehtävän muutosten tallentaminen epäonnistui
+Could not save description.,Kuvauksen tallentaminen epäonnistui.
+Could not save end date.,Päättymispäivän tallentaminen epäonnistui.
+Could not save milestone name.,Välitavoitteen nimen tallentaminen epäonnistui.
+Could not save start date.,Aloituspäivän tallentaminen epäonnistui.
+Could not save the template. Please try again.,Mallin tallentaminen epäonnistui. Yritä uudelleen.
+Could not save title.,Otsikon tallentaminen epäonnistui.
+Could not update dependency mode.,Riippuvuustilan päivittäminen epäonnistui.
+Could not update milestone date,Välitavoitteen päivämäärän päivittäminen epäonnistui
+Could not update project status.,Projektin tilan päivittäminen epäonnistui.
+Could not update project type.,Projektin tyypin päivittäminen epäonnistui.
+Could not update setting.,Asetuksen päivittäminen epäonnistui.
+Could not update task dates,Tehtävän päivämäärien päivittäminen epäonnistui
+Could not update task status,Tehtävän tilan päivittäminen epäonnistui
+Could not update the template.,Mallin päivittäminen epäonnistui.
+Create a copy of this task,Luo kopio tästä tehtävästä
+Create Contact,Luo yhteyshenkilö
+Create Event,Luo tapahtuma
+Create Milestone,Luo välitavoite
+Create New Milestone,Luo uusi välitavoite
+Create New Task,Luo uusi tehtävä
+Create Project,Luo projekti
+Create Task,Luo tehtävä
+Create tasks and milestones from a template,Luo tehtäviä ja välitavoitteita mallista
+Create your first project to get started.,Luo ensimmäinen projekti aloittaaksesi.
+Create your first task to start tracking work on this project.,Luo ensimmäinen tehtävä aloittaaksesi työn seurannan tässä projektissa.
+Created,Luotu
+Creating...,Luodaan...
+Critical,Kriittinen
+Critical Path,Kriittinen polku
+"Currency used for budgets, costs, and billing rates","Valuutta budjetteihin, kustannuksiin ja laskutushintoihin"
+Current,Nykyinen
+Current Assignments,Nykyiset toimeksiannot
+Current scheduled time:,Nykyinen aikataulutettu aika:
+Currently running version,Currently running version
+d lag,pv viive
+Daily Availability,Päivittäinen saatavuus
+Daily Hours,Päivittäiset tunnit
+Danger Zone,Vaaravyöhyke
+Dark,Tumma
+Dashboard,Koontinäyttö
+Date,Päivämäärä
+Date changes on this task will show cascade impact here,Tämän tehtävän päivämäärämuutokset näyttävät ketjuvaikutuksen täällä
+Date cleared,Päivämäärä tyhjennetty
+Date of Joining,Liittymispäivä
+Date updated,Päivämäärä päivitetty
+Dates,Päivämäärät
+Dates cascaded,Päivämäärät ketjutettu
+Dates will be relative to the project's start date.,Päivämäärät ovat suhteessa projektin aloituspäivään.
+Day,Päivä
+day,päivä
+days,päivää
+Days before due date to send reminder,Päiviä ennen eräpäivää muistutuksen lähettämiseksi
+Days Overdue,Myöhässä päiviä
+Days Remaining,Päiviä jäljellä
+Deadline,Määräaika
+Deadlines,Määräajat
+Decision,Päätös
+Decline,Hylkää
+Declined,Hylätty
+Default Currency,Oletusvaluutta
+Default hours per week for contact capacity planning,Oletustunnit viikossa yhteyshenkilön kapasiteettisuunnitteluun
+Default Priority,Oletusprioriteetti
+Default Project Status,Projektin oletustila
+Default Task Status,Tehtävän oletustila
+Default task view,Oletustehtävänäkymä
+Default Values,Oletusarvot
+Default Weekly Capacity,Oletusviikkokapasiteetti
+Defaults,Oletusarvot
+Defect Cost Impact,Vian kustannusvaikutus
+Defect name is required,Vian nimi on pakollinen
+Defect Type,Vian tyyppi
+Defect {0} not found,Vikaa {0} ei löytynyt
+Defects,Viat
+Defects & Issues,Viat ja ongelmat
+Defects Resolved,Korjatut viat
+Delayed,Viivästynyt
+Delete,Poista
+Delete Activity Data,Poista toimintatiedot
+Delete all read notifications?,Poistetaanko kaikki luetut ilmoitukset?
+Delete comment,Poista kommentti
+Delete Contact,Poista yhteyshenkilö
+Delete Event,Poista tapahtuma
+Delete Event?,Poistetaanko tapahtuma?
+Delete failed,Poistaminen epäonnistui
+Delete file,Poista tiedosto
+Delete item,Poista kohta
+Delete note,Poista muistiinpano
+Delete Project,Poista projekti
+Delete Task,Poista tehtävä
+Delete this project,Poista tämä projekti
+Deleted,Poistettu
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Projekti ""{0}"" poistettu ({1} tehtävää, {2} välitavoitetta)"
+Deletes notes and preferences. Source document is not affected.,Poistaa muistiinpanot ja asetukset. Lähdedokumenttiin ei kosketa.
+Deleting...,Poistetaan...
+Department,Osasto
+Dependencies,Riippuvuudet
+dependencies,riippuvuudet
+Dependencies are informational only,Riippuvuudet ovat vain tiedoksi
+dependency,riippuvuus
+Dependency already exists,Riippuvuus on jo olemassa
+Dependency Chain,Riippuvuusketju
+Dependency created,Riippuvuus luotu
+Dependency mode updated,Riippuvuustila päivitetty
+Dependency name is required,Riippuvuuden nimi on pakollinen
+Dependency task {0} not found,Riippuvuustehtävää {0} ei löytynyt
+Dependency {0} not found,Riippuvuutta {0} ei löytynyt
+depends,riippuu
+Depends on Group,Riippuu ryhmästä
+Depends on task is required,Riippuvuustehtävä on pakollinen
+depends on...,riippuu...
+Descending -- click to reverse,Laskeva -- käännä napsauttamalla
+Describe the defect in detail...,Kuvaile vika yksityiskohtaisesti...
+Description,Kuvaus
+Description updated,Kuvaus päivitetty
+Designation,Nimike
+"Detailed description of the defect, location, and impact","Yksityiskohtainen kuvaus viasta, sijainnista ja vaikutuksesta"
+Details,Tiedot
+Discard timer,Hylkää ajastin
+Discussion,Keskustelu
+Dismiss,Dismiss
+Display,Näyttö
+Document,Dokumentti
+Document attached to project,Dokumentti liitetty projektiin
+Document final decision and rationale,Dokumentoi lopullinen päätös ja perustelut
+Documentation Review,Dokumentaation katselmus
+Documents,Dokumentit
+Done,Valmis
+Download,Lataa
+Drag to create dependency,Vedä luodaksesi riippuvuuden
+Dry Run,Koeajo
+Dry Run Complete,Koeajo valmis
+Due Date,Eräpäivä
+Due date,Eräpäivä
+Due Date (Earliest),Eräpäivä (aikaisin)
+Due date cannot be before start date,Eräpäivä ei voi olla ennen aloituspäivää
+Due date is in the past,Eräpäivä on menneisyydessä
+Due Date Reminders,Eräpäivämuistutukset
+Due Diligence,Ennakkoselvitys
+Due Diligence Checklist,Ennakkoselvityksen tarkistuslista
+Due This Week,Erääntyy tällä viikolla
+Due:,Eräpäivä:
+Duplicate events are not allowed,Päällekkäiset tapahtumat eivät ole sallittuja
+Duplicate failed,Kahdentaminen epäonnistui
+Duplicate Task,Kahdenna tehtävä
+Duration,Kesto
+Duration Summary,Keston yhteenveto
+Duration:,Kesto:
+e.g. Cracked wall finish in bathroom...,esim. Haljennut seinäpinta kylpyhuoneessa...
+"e.g. Electrical, Plumbing...","esim. Sähkö, Putkityöt..."
+Edit,Muokkaa
+Edit (E),Muokkaa (E)
+Edit dependency,Muokkaa riippuvuutta
+Edit Event,Muokkaa tapahtumaa
+Efficiency,Tehokkuus
+Either dependency_name or depends_on is required,Joko dependency_name tai depends_on vaaditaan
+Email,Sähköposti
+Email invitations to all attendees,Sähköpostikutsut kaikille osallistujille
+Email is required to create portal user,Sähköposti vaaditaan portaalikäyttäjän luomiseksi
+Email notifications,Sähköposti-ilmoitukset
+Employee,Työntekijä
+Employee DocType not available,Työntekijä-DocType ei ole saatavilla
+Employee not found,Työntekijää ei löytynyt
+Enable or disable optional features,Ota valinnaisia ominaisuuksia käyttöön tai poista ne käytöstä
+Enable Time Tracking,Ota aikaseuranta käyttöön
+End,Loppu
+End Date,Päättymispäivä
+End date,Päättymispäivä
+End Date cannot be before Start Date,Päättymispäivä ei voi olla ennen aloituspäivää
+End date cannot be before start date,Päättymispäivä ei voi olla ennen aloituspäivää
+End date updated,Päättymispäivä päivitetty
+End time was before start time. Adjusted to 1 hour after start.,Päättymisaika oli ennen alkamisaikaa. Muutettu 1 tunti alun jälkeen.
+End:,Loppu:
+Enter milestone name...,Syötä välitavoitteen nimi...
+Enter project name,Syötä projektin nimi
+Enter task title...,Syötä tehtävän otsikko...
+Enter template name,Syötä mallin nimi
+Enter your note... Use @name to mention someone,Kirjoita muistiinpanosi... Käytä @nimi mainitaksesi jonkun
+Error,Virhe
+Error loading activity,Virhe toiminnan lataamisessa
+Error loading contacts,Virhe yhteyshenkilöiden lataamisessa
+Error loading dashboard,Virhe koontinäytön lataamisessa
+Error loading project,Virhe projektin lataamisessa
+Error loading projects,Virhe projektien lataamisessa
+Error loading settings,Virhe asetusten lataamisessa
+Error loading tasks,Virhe tehtävien lataamisessa
+Error loading templates,Virhe mallien lataamisessa
+Est. Hours,Arv. tunnit
+Estimated,Arvioitu
+Estimated Cost,Arvioitu kustannus
+Estimated Cost (€),Arvioitu kustannus (€)
+Estimated Hours,Arvioidut tunnit
+Estimated:,Arvioitu:
+Evaluate potential risks and concerns,Arvioi mahdolliset riskit ja huolenaiheet
+Event,Tapahtuma
+Event is required for event context,Tapahtuma vaaditaan tapahtumakontekstissa
+Event is required when tracking context is 'event',Tapahtuma vaaditaan kun seurantakonteksti on 'tapahtuma'
+Event Type,Tapahtumatyyppi
+Events,Tapahtumat
+Events not available. Please run: bench --site orga.localhost migrate,Tapahtumat eivät ole saatavilla. Suorita: bench --site orga.localhost migrate
+Events:,Tapahtumat:
+Expert,Asiantuntija
+Explain why you are proposing a different time...,Selitä miksi ehdotat eri aikaa...
+Export,Vie
+Export failed,Vienti epäonnistui
+Export JSON,Vie JSON
+Exported,Viety
+Exported to timesheet {0},Viety tuntilistaan {0}
+External,Ulkoinen
+Failed to add item,Kohdan lisääminen epäonnistui
+Failed to add note,Muistiinpanon lisääminen epäonnistui
+Failed to add skill,Taidon lisääminen epäonnistui
+Failed to apply cascade changes: {0},Ketjumuutosten käyttöönotto epäonnistui: {0}
+Failed to create defect,Vian luominen epäonnistui
+Failed to create dependency,Riippuvuuden luominen epäonnistui
+Failed to create event,Tapahtuman luominen epäonnistui
+Failed to create milestone,Välitavoitteen luominen epäonnistui
+Failed to create project,Projektin luominen epäonnistui
+Failed to create task,Tehtävän luominen epäonnistui
+Failed to create time log,Aikamerkinnän luominen epäonnistui
+Failed to delete,Poistaminen epäonnistui
+Failed to delete comment,Kommentin poistaminen epäonnistui
+Failed to delete contact,Yhteyshenkilön poistaminen epäonnistui
+Failed to load,Lataaminen epäonnistui
+Failed to load activity,Toiminnan lataaminen epäonnistui
+Failed to load assignments,Toimeksiantojen lataaminen epäonnistui
+Failed to load contact,Yhteyshenkilön lataaminen epäonnistui
+Failed to load dashboard data,Koontinäytön tietojen lataaminen epäonnistui
+Failed to load defects,Vikojen lataaminen epäonnistui
+Failed to load events,Tapahtumien lataaminen epäonnistui
+Failed to load project,Projektin lataaminen epäonnistui
+Failed to load projects,Projektien lataaminen epäonnistui
+Failed to load report data,Raportin tietojen lataaminen epäonnistui
+Failed to load settings,Asetusten lataaminen epäonnistui
+Failed to load tasks,Tehtävien lataaminen epäonnistui
+Failed to move task,Tehtävän siirtäminen epäonnistui
+Failed to post comment,Kommentin julkaiseminen epäonnistui
+Failed to propose new time,Uuden ajan ehdottaminen epäonnistui
+Failed to remove item,Kohdan poistaminen epäonnistui
+Failed to remove skill,Taidon poistaminen epäonnistui
+Failed to reorder milestones: {0},Välitavoitteiden uudelleenjärjestäminen epäonnistui: {0}
+Failed to reorder tasks: {0},Tehtävien uudelleenjärjestäminen epäonnistui: {0}
+Failed to reschedule dependent tasks: {0},Riippuvaisten tehtävien aikatauluttaminen epäonnistui: {0}
+Failed to save,Tallentaminen epäonnistui
+Failed to save preferences,Asetusten tallentaminen epäonnistui
+Failed to save settings,Asetusten tallentaminen epäonnistui
+Failed to submit request. Please try again.,Pyynnön lähettäminen epäonnistui. Yritä uudelleen.
+Failed to update item,Kohdan päivittäminen epäonnistui
+Failed to update priority,Prioriteetin päivittäminen epäonnistui
+Failed to update task,Tehtävän päivittäminen epäonnistui
+Failed to update tasks: {0},Tehtävien päivittäminen epäonnistui: {0}
+Failed to upload avatar,Profiilikuvan lataaminen epäonnistui
+Feature,Ominaisuus
+Features,Ominaisuudet
+FF (Finish-Finish),FF (Loppu-Loppu)
+FF - Finish-to-Finish,FF - Lopusta-loppuun
+Field has been updated,Kenttä on päivitetty
+Field name is required for 'Set Field Value' action,Kentän nimi vaaditaan 'Aseta kentän arvo' -toiminnolle
+Field {0} is not a Link field,Kenttä {0} ei ole linkkikenttä
+Field {0} not found in {1},Kenttää {0} ei löytynyt kohteesta {1}
+File,Tiedosto
+file,tiedosto
+File does not belong to this task,Tiedosto ei kuulu tähän tehtävään
+File name is required,Tiedoston nimi on pakollinen
+File uploaded,Tiedosto ladattu
+File {0} not found,Tiedostoa {0} ei löytynyt
+Files,Tiedostot
+files,tiedostoa
+Filter,Suodatin
+Final Decision,Lopullinen päätös
+Finance,Talous
+Financial,Taloudellinen
+Finish-to-Finish,Lopusta-loppuun
+Finish-to-Start,Lopusta-alkuun
+Flag,Liputa
+Flag for attention,Liputa huomioitavaksi
+Flagged,Liputettu
+Focus Panel,Kohdistuspaneeli
+Follows your system preference. Currently:,Noudattaa järjestelmäasetustasi. Tällä hetkellä:
+Frappe Project {0} not found,Frappe-projektia {0} ei löytynyt
+Frappe Projects Migration,Frappe Projects -siirto
+Frappe Projects module not available,Frappe Projects -moduuli ei ole saatavilla
+Frappe Projects module not installed,Frappe Projects -moduulia ei ole asennettu
+Frappe Projects sync is not enabled,Frappe Projects -synkronointi ei ole käytössä
+Frappe Task DocType not found,Frappe-tehtävä-DocTypea ei löytynyt
+Frappe Task has no project,Frappe-tehtävällä ei ole projektia
+Frappe Task {0} not found,Frappe-tehtävää {0} ei löytynyt
+Fri,Pe
+From,Alkaen
+From Template,Mallista
+FS (Finish-Start),FS (Loppu-Alku)
+FS - Finish-to-Start (default),FS - Lopusta-alkuun (oletus)
+Full form view with audit trail,Täysi lomake-näkymä jäljitysketjulla
+Full name,Koko nimi
+Gantt,Gantt
+Gantt Chart,Gantt-kaavio
+Gantt View,Gantt-näkymä
+General Note,Yleinen muistiinpano
+Get started,Aloita
+Go back,Takaisin
+Go Back,Go Back
+Group by,Ryhmittele
+Group dependency removed,Ryhmäriippuvuus poistettu
+Group dependency set,Ryhmäriippuvuus asetettu
+Group removed,Ryhmä poistettu
+Group updated,Ryhmä päivitetty
+Hammock task dates are auto-calculated and cannot be changed manually,Riippukeinutehtävän päivämäärät lasketaan automaattisesti eikä niitä voi muuttaa käsin
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Onko sinulla kysyttävää tai tarvitsetko apua? Täytä alla oleva lomake niin tiimimme palaa asiaan.
+Health,Terveys
+Healthy,Terve
+Hello {0},Hei {0}
+Here's what's happening with your projects today.,Tässä on mitä projekteissasi tapahtuu tänään.
+Hide,Piilota
+High,Korkea
+History,Historia
+Home,Etusivu
+Hourly Cost,Tuntikustannus
+Hours,Tunnit
+hours,tuntia
+Hours Logged,Kirjatut tunnit
+ID,Tunnus
+Image must be smaller than 5 MB,Kuvan on oltava alle 5 Mt
+Import,Tuo
+Import existing projects and tasks from Frappe Projects module,Tuo olemassa olevat projektit ja tehtävät Frappe Projects -moduulista
+Import failed,Tuonti epäonnistui
+Import Template,Tuo malli
+Imported,Tuotu
+in,kohteessa
+In Progress,Käynnissä
+In Review,Katselmuksessa
+In-app notifications,Sovelluksen sisäiset ilmoitukset
+Inactive,Ei-aktiivinen
+Initial Review,Alustava katselmus
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Riittämättömät oikeudet kaikkien tehtävien näyttämiseen
+Intermediate,Keskitaso
+Internal,Sisäinen
+Invalid DocType,Virheellinen DocType
+Invalid DocType for import,Virheellinen DocType tuontiin
+Invalid item type: {0},Virheellinen kohdan tyyppi: {0}
+Invalid JSON data,Virheellinen JSON-data
+Invalid note type. Must be one of: {0},Virheellinen muistiinpanotyyppi. Täytyy olla jokin seuraavista: {0}
+Invalid project reference,Virheellinen projektiviite
+Invalid reaction type. Must be one of: {0},Virheellinen reaktiotyyppi. Täytyy olla jokin seuraavista: {0}
+Invalid RSVP status,Virheellinen RSVP-tila
+Invalid status. Must be one of: {0},Virheellinen tila. Täytyy olla jokin seuraavista: {0}
+Invalid status: {0},Virheellinen tila: {0}
+Invalid status: {0}. Must be one of: {1},Virheellinen tila: {0}. Täytyy olla jokin seuraavista: {1}
+Invalid tracking context: {0},Virheellinen seurantakonteksti: {0}
+Invalid visibility. Must be one of: {0},Virheellinen näkyvyys. Täytyy olla jokin seuraavista: {0}
+Invitation: {0} - {1} at {2},Kutsu: {0} - {1} klo {2}
+Invite People,Kutsu henkilöitä
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Kohta lisätty
+Item ID is required,Kohdan tunnus on pakollinen
+Item removed,Kohta poistettu
+Item type is required,Kohdan tyyppi on pakollinen
+Item {0} not found,Kohtaa {0} ei löytynyt
+Job title or role,Tehtävänimike tai rooli
+Join Meeting,Liity tapaamiseen
+Just now,Juuri nyt
+just now,juuri nyt
+Kanban,Kanban
+Kanban Board,Kanban-taulu
+Kanban View,Kanban-näkymä
+Keyboard Shortcuts,Pikanäppäimet
+Keyboard shortcuts (?),Pikanäppäimet (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Viimeksi päivitetty
+Last updated:,Viimeksi päivitetty:
+Last Week,Viime viikolla
+Latest Version,Latest Version
+Light,Vaalea
+Link failed,Linkittäminen epäonnistui
+Link Task,Linkitä tehtävä
+Linked,Linkitetty
+Linked employee not found,Linkitettyä työntekijää ei löytynyt
+Linked Tasks,Linkitetyt tehtävät
+List,Lista
+List View,Listanäkymä
+Load failed,Lataaminen epäonnistui
+Load More,Lataa lisää
+Load more comments,Lataa lisää kommentteja
+Loading activity...,Ladataan toimintaa...
+Loading changes...,Ladataan muutoksia...
+Loading checklist...,Ladataan tarkistuslistaa...
+Loading comments...,Ladataan kommentteja...
+Loading contact...,Ladataan yhteyshenkilöä...
+Loading contacts...,Ladataan yhteyshenkilöitä...
+Loading dependencies...,Ladataan riippuvuuksia...
+Loading details...,Ladataan tietoja...
+Loading discussion...,Ladataan keskustelua...
+Loading events...,Ladataan tapahtumia...
+Loading files...,Ladataan tiedostoja...
+Loading notes...,Ladataan muistiinpanoja...
+Loading preferences...,Ladataan asetuksia...
+Loading project...,Ladataan projektia...
+Loading projects...,Ladataan projekteja...
+Loading replies...,Ladataan vastauksia...
+Loading report data...,Ladataan raportin tietoja...
+Loading settings...,Ladataan asetuksia...
+Loading task...,Ladataan tehtävää...
+Loading templates...,Ladataan malleja...
+Loading time logs...,Ladataan aikamerkintöjä...
+Loading your portal...,Ladataan portaaliasi...
+Loading...,Ladataan...
+Location,Sijainti
+Log Time,Kirjaa aika
+Logout,Kirjaudu ulos
+Low,Matala
+Make Offer,Tee tarjous
+Manager,Esimies
+Manual Entry,Manuaalinen syöttö
+Margin,Marginaali
+Mark all as read,Merkitse kaikki luetuiksi
+Mark all read,Merkitse kaikki luetuiksi
+Mark as read,Merkitse luetuksi
+Mark as unread,Merkitse lukemattomaksi
+Mark read,Merkitse luetuksi
+Marking...,Merkitään...
+Material,Materiaali
+Maybe,Ehkä
+Medium,Keskitaso
+Meeting,Tapaaminen
+Meeting Link,Tapaamisen linkki
+Meeting title,Tapaamisen otsikko
+Meeting URL,Tapaamisen URL
+Meetings,Tapaamiset
+Mention,Maininta
+Message,Viesti
+Message is required,Viesti on pakollinen
+Message is required for '{0}' action,Viesti vaaditaan '{0}'-toiminnolle
+Migrate,Siirrä
+Migration Complete,Siirto valmis
+Migration ID:,Siirtotunnus:
+Migration log not found: {0},Siirtolokia ei löytynyt: {0}
+Milestone,Välitavoite
+milestone,välitavoite
+Milestone created,Välitavoite luotu
+Milestone description has been saved.,Välitavoitteen kuvaus on tallennettu.
+Milestone ID is required,Välitavoitteen tunnus on pakollinen
+Milestone marked as Missed (past due date),Välitavoite merkitty ohitetuksi (eräpäivä mennyt)
+Milestone moved,Välitavoite siirretty
+Milestone Name,Välitavoitteen nimi
+Milestone name has been saved.,Välitavoitteen nimi on tallennettu.
+Milestone name is required,Välitavoitteen nimi on pakollinen
+Milestone updated,Välitavoite päivitetty
+Milestone {0} not found,Välitavoitetta {0} ei löytynyt
+Milestone {0} not in project {1},Välitavoite {0} ei ole projektissa {1}
+Milestones,Välitavoitteet
+milestones,välitavoitetta
+Milestones:,Välitavoitteet:
+Minutes,Minuutit
+Missed,Ohitettu
+Mixed,Sekalainen
+Mobile,Mobiili
+Moderate,Kohtalainen
+Modified,Muokattu
+"Modify details, time, or attendees","Muokkaa tietoja, aikaa tai osallistujia"
+Mon,Ma
+Month,Kuukausi
+Move failed,Siirtäminen epäonnistui
+Must be a positive number,Täytyy olla positiivinen luku
+Must finish before this finishes,Täytyy valmistua ennen kuin tämä valmistuu
+Must finish before this starts,Täytyy valmistua ennen kuin tämä alkaa
+Must start before this finishes,Täytyy alkaa ennen kuin tämä valmistuu
+Must start before this starts,Täytyy alkaa ennen kuin tämä alkaa
+My Assignments,Toimeksiantoni
+My Projects,Projektini
+My Schedule,Aikatauluni
+My Tasks,Tehtäväni
+N/A,Ei sovellettavissa
+Name,Nimi
+Name (A-Z),Nimi (A-Ö)
+Name (Z-A),Nimi (Ö-A)
+Name cannot exceed 255 characters,Nimi ei voi ylittää 255 merkkiä
+Need help?,Tarvitsetko apua?
+Needs Attention,Vaatii huomiota
+Never,Never
+new activities,uutta toimintaa
+New Activity,Uusi toiminta
+New activity,Uusi toiminta
+New Event,Uusi tapahtuma
+New index is required,Uusi indeksi vaaditaan
+New Project,Uusi projekti
+New tasks will auto-trail by default.,Uudet tehtävät liukuvat automaattisesti oletuksena.
+Newest First,Uusin ensin
+Next,Seuraava
+Next 14 days,Seuraavat 14 päivää
+Next 30 days,Seuraavat 30 päivää
+Next 60 days,Seuraavat 60 päivää
+Next 7 days,Seuraavat 7 päivää
+Next 90 days,Seuraavat 90 päivää
+Next Week,Ensi viikolla
+Next:,Seuraava:
+No,Ei
+No active assignments,Ei aktiivisia toimeksiantoja
+No active projects,Ei aktiivisia projekteja
+No active timer found,Aktiivista ajastinta ei löytynyt
+No activity selected,Toimintaa ei ole valittu
+No assignments found,Toimeksiantoja ei löytynyt
+No attendees,Ei osallistujia
+no change,ei muutoksia
+No changes for this field.,Ei muutoksia tälle kentälle.
+No changes recorded for this activity.,Ei muutoksia kirjattu tälle toiminnalle.
+No checklist items yet,Ei tarkistuslistan kohtia vielä
+No checklist items yet.,Ei tarkistuslistan kohtia vielä.
+No comments yet,Ei kommentteja vielä
+No comments yet.,Ei kommentteja vielä.
+No contacts available,Ei yhteyshenkilöitä saatavilla
+No content for this tab,Ei sisältöä tälle välilehdelle
+No data available,Ei tietoja saatavilla
+No data available for the selected filters,Ei tietoja saatavilla valituille suodattimille
+No data to export,Ei tietoja vietäväksi
+No dates set,Päivämääriä ei ole asetettu
+No defects reported,Ei raportoituja vikoja
+No dependencies defined,Riippuvuuksia ei ole määritetty
+No description,Ei kuvausta
+No discussion yet.,Ei keskustelua vielä.
+No documents attached,Ei liitettyjä dokumentteja
+No due date,Ei eräpäivää
+No employee linked to this resource,Työntekijää ei ole linkitetty tähän resurssiin
+No ERPNext employee linked to resource,ERPNext-työntekijää ei ole linkitetty resurssiin
+No events found,Tapahtumia ei löytynyt
+No files attached yet.,Ei liitettyjä tiedostoja vielä.
+No Frappe Project linked,Frappe-projektia ei ole linkitetty
+No Grouping,Ei ryhmittelyä
+No items,Ei kohtia
+No matching tasks,Ei vastaavia tehtäviä
+No matching tasks found,Vastaavia tehtäviä ei löytynyt
+No migration history,Ei siirtohistoriaa
+No Milestone,Ei välitavoitetta
+No milestones,Ei välitavoitteita
+No milestones defined for this project.,Tälle projektille ei ole määritetty välitavoitteita.
+No notes yet.,Ei muistiinpanoja vielä.
+No notes yet. Add a due diligence note to track progress.,Ei muistiinpanoja vielä. Lisää ennakkoselvitysmuistiinpano edistymisen seuraamiseksi.
+No notifications,Ei ilmoituksia
+No Orga Project linked to Frappe Project {0},Orga-projektia ei ole linkitetty Frappe-projektiin {0}
+No overdue tasks,Ei myöhästyneitä tehtäviä
+No pending cascade changes,Ei odottavia ketjumuutoksia
+No predecessors - this task can start independently,Ei edeltäjiä — tämä tehtävä voi alkaa itsenäisesti
+No project,Ei projektia
+No projects found,Projekteja ei löytynyt
+No Projects Yet,Ei projekteja vielä
+No recent activity,Ei viimeaikaista toimintaa
+No related documents,Ei liittyviä dokumentteja
+No resolved threads.,Ei ratkaistuja keskusteluketjuja.
+No resources found,Resursseja ei löytynyt
+No results found,Tuloksia ei löytynyt
+No skills listed,Ei lueteltuja taitoja
+No skills recorded yet,Ei kirjattuja taitoja vielä
+No successors - no tasks are waiting for this one,Ei seuraajia — mikään tehtävä ei odota tätä
+No task selected,Tehtävää ei ole valittu
+No tasks assigned to you,Sinulle ei ole vastuutettu tehtäviä
+No tasks available to add,Ei lisättäviä tehtäviä
+No tasks found,Tehtäviä ei löytynyt
+No tasks linked to this milestone,Tähän välitavoitteeseen ei ole linkitetty tehtäviä
+No tasks with dates to display,Ei näytettäviä tehtäviä päivämäärillä
+No tasks yet,Ei tehtäviä vielä
+No team members,Ei tiimin jäseniä
+No template,Ei mallia
+No templates yet,Ei malleja vielä
+No time data found,Aikatietoja ei löytynyt
+No time logged today,Ei kirjattua aikaa tänään
+No time logged yet,Ei kirjattua aikaa vielä
+No time logs for this period,Ei aikamerkintöjä tälle jaksolle
+No time logs found,Aikamerkintöjä ei löytynyt
+No unread notifications,Ei lukemattomia ilmoituksia
+No update information available yet.,No update information available yet.
+None,Ei mitään
+Not found,Ei löytynyt
+Not permitted,Ei sallittu
+Not permitted to access this project,Pääsy tähän projektiin ei ole sallittu
+Not permitted to access this task,Pääsy tähän tehtävään ei ole sallittu
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Ei oikeutta kommentoida tätä dokumenttia
+Not permitted to create clients,Ei oikeutta luoda asiakkaita
+Not permitted to delete this client,Ei oikeutta poistaa tätä asiakasta
+Not permitted to delete this defect,Ei oikeutta poistaa tätä vikaa
+Not permitted to delete this note,Ei oikeutta poistaa tätä muistiinpanoa
+Not permitted to delete this project,Ei oikeutta poistaa tätä projektia
+Not permitted to delete this task,Ei oikeutta poistaa tätä tehtävää
+Not permitted to delete this time log,Ei oikeutta poistaa tätä aikamerkintää
+Not permitted to invite clients,Ei oikeutta kutsua asiakkaita
+Not permitted to modify client access,Ei oikeutta muokata asiakkaan pääsyä
+Not permitted to modify this project,Ei oikeutta muokata tätä projektia
+Not permitted to update settings,Ei oikeutta päivittää asetuksia
+Not permitted to update this client,Ei oikeutta päivittää tätä asiakasta
+Not permitted to view this client,Ei oikeutta nähdä tätä asiakasta
+not sent,ei lähetetty
+Not set,Ei asetettu
+Not specified,Ei määritetty
+Note,Muistiinpano
+Note (optional),Muistiinpano (valinnainen)
+Note Content,Muistiinpanon sisältö
+Note content is required,Muistiinpanon sisältö on pakollinen
+Note name is required,Muistiinpanon nimi on pakollinen
+Note not found,Muistiinpanoa ei löytynyt
+Note Type,Muistiinpanon tyyppi
+Notes,Muistiinpanot
+Notification,Ilmoitus
+Notification not found,Ilmoitusta ei löytynyt
+Notifications,Ilmoitukset
+Off Track,Pois raiteiltaan
+Offer,Tarjous
+Offer Prepared,Tarjous valmisteltu
+Oldest First,Vanhin ensin
+On Hold,Pidossa
+On Leave,Vapaalla
+On Track,Aikataulussa
+On-Time Rate,Ajallaan-prosentti
+Only administrators can delete activities,Vain ylläpitäjät voivat poistaa toimintoja
+Only the comment author or administrators can delete comments,Vain kommentin kirjoittaja tai ylläpitäjät voivat poistaa kommentteja
+Only you and admins,Vain sinä ja ylläpitäjät
+Open,Avoin
+Open in Desk,Avaa Desk-näkymässä
+Open Task Log,Avaa tehtäväloki
+Open Tasks,Avoimet tehtävät
+Optional,Valinnainen
+optional,valinnainen
+Or email us directly at,Tai lähetä meille sähköpostia suoraan osoitteeseen
+Orga Project {0} from Frappe Projects,Orga-projekti {0} Frappe Projects -moduulista
+Orga Task {0} from Frappe,Orga-tehtävä {0} Frappe-järjestelmästä
+Organizer,Järjestäjä
+Other,Muu
+Over Budget,Yli budjetin
+Overall Progress,Kokonaisedistyminen
+Overall Utilization,Kokonaiskäyttöaste
+Overallocated,Ylikuormitettu
+Overdue,Myöhässä
+overdue,myöhässä
+Overdue Tasks,Myöhästyneet tehtävät
+Overview,Yleiskatsaus
+Owner,Omistaja
+Page Not Found,Sivua ei löytynyt
+Parent,Ylätehtävä
+Parent comment must belong to the same document,Yläkommentin täytyy kuulua samaan dokumenttiin
+Parent comment not found,Yläkommenttia ei löytynyt
+Parent project not synced to Frappe yet,Yläprojektia ei ole vielä synkronoitu Frappe-järjestelmään
+Parent project sync not enabled,Yläprojektin synkronointi ei ole käytössä
+Partner,Kumppani
+Pending,Odottaa
+per page,sivua kohden
+Perform initial assessment and background check,Suorita alustava arviointi ja taustatarkistus
+Permanently remove this event,Poista tämä tapahtuma pysyvästi
+Permanently remove this task,Poista tämä tehtävä pysyvästi
+Phone,Puhelin
+Pin,Kiinnitä
+Pin Activity,Kiinnitä toiminta
+Pin to top,Kiinnitä ylös
+Pinned,Kiinnitetty
+Planned budget for this task,Tämän tehtävän suunniteltu budjetti
+Planning,Suunnittelu
+Please describe your question or issue in detail...,Kuvaile kysymyksesi tai ongelmasi yksityiskohtaisesti...
+Please login to access Orga,Kirjaudu sisään päästäksesi Orga-järjestelmään
+Please login to access the client portal,Kirjaudu sisään päästäksesi asiakasportaaliin
+Please respond to this invitation in Orga,Vastaa tähän kutsuun Orga-järjestelmässä
+Please select an image file,Valitse kuvatiedosto
+Please try again,Yritä uudelleen
+Please type,Kirjoita
+Portal,Portaali
+Portal access revoked for {0},Portaalipääsy peruutettu käyttäjältä {0}
+Portal user created successfully. Welcome email {0},Portaalikäyttäjä luotu onnistuneesti. Tervetulosähköposti {0}
+Post,Julkaise
+Powered by,Tekniikka
+Powered by Tonic,Tekniikka Tonic
+Predecessors (Blocked By),Edeltäjät (estetty)
+Preferences,Asetukset
+Preferences saved successfully,Asetukset tallennettu onnistuneesti
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Automaattisesti luotujen projektikoodien etuliite (esim. ORG-2026-0001)
+Prepare and document offer terms,Valmistele ja dokumentoi tarjousehdot
+Press,Paina
+Preview,Esikatselu
+Preview cascade before applying,Esikatsele ketjutus ennen käyttöönottoa
+Previous,Edellinen
+Priority,Prioriteetti
+Priority assigned to new tasks,Uusille tehtäville määrätty prioriteetti
+Priority updated,Prioriteetti päivitetty
+Proficiency,Osaamistaso
+Profile,Profiili
+Progress,Edistyminen
+Progress (High-Low),Edistyminen (laskeva)
+Progress (Low-High),Edistyminen (nouseva)
+Progress Overview,Edistymisen yleiskatsaus
+Progress updated,Edistyminen päivitetty
+Project,Projekti
+Project budget has been saved.,Projektin budjetti on tallennettu.
+Project code (e.g. ORG-2026-0001),Projektikoodi (esim. ORG-2026-0001)
+Project Code Prefix,Projektikoodin etuliite
+Project created,Projekti luotu
+Project deleted,Projekti poistettu
+Project description has been saved.,Projektin kuvaus on tallennettu.
+Project Details,Projektin tiedot
+Project end date has been saved.,Projektin päättymispäivä on tallennettu.
+Project Files,Projektitiedostot
+Project has no linked client,Projektilla ei ole linkitettyä asiakasta
+Project Health,Projektin terveys
+Project Info,Projektin tiedot
+Project is required,Projekti vaaditaan
+Project is required for project context,Projekti vaaditaan projektikontekstissa
+Project is required when tracking context is 'project',Projekti vaaditaan kun seurantakonteksti on 'projekti'
+Project Manager,Projektipäällikkö
+Project Name,Projektin nimi
+Project name and template name are required,Projektin nimi ja mallin nimi vaaditaan
+Project name is required,Projektin nimi on pakollinen
+Project not found,Projektia ei löytynyt
+Project not found or you do not have access,Projektia ei löytynyt tai sinulla ei ole pääsyä
+Project settings,Projektiasetukset
+Project start date has been saved.,Projektin aloituspäivä on tallennettu.
+Project title has been saved.,Projektin otsikko on tallennettu.
+Project Type,Projektin tyyppi
+Project updated,Projekti päivitetty
+Project {0} linked to client {1},Projekti {0} linkitetty asiakkaaseen {1}
+Project {0} not found,Projektia {0} ei löytynyt
+Project {0} to Frappe Projects,Projekti {0} Frappe Projects -järjestelmään
+Project:,Projekti:
+Projects,Projektit
+projects,projektia
+Projects created:,Luodut projektit:
+Projects Overview,Projektien yleiskatsaus
+Projects skipped:,Ohitetut projektit:
+Projects updated:,Päivitetyt projektit:
+Promote failed,Ylentäminen epäonnistui
+Promote to task,Ylennä tehtäväksi
+Promoted to task,Ylennetty tehtäväksi
+Propose,Ehdota
+Propose New Time,Ehdota uutta aikaa
+Propose Time,Ehdota aikaa
+Proposed End,Ehdotettu loppu
+Proposed Start,Ehdotettu alku
+Public,Julkinen
+Quick Action,Pikatoiminto
+Quick Actions,Pikatoiminnot
+Quick Stats,Pikatilastot
+Rates,Hinnat
+Receive notifications via email,Vastaanota ilmoituksia sähköpostitse
+Receive notifications within the application,Vastaanota ilmoituksia sovelluksen sisällä
+Recent Activity,Viimeaikainen toiminta
+Recipient {0} is not a valid user,Vastaanottaja {0} ei ole kelvollinen käyttäjä
+Reference,Viite
+Refresh,Päivitä
+Related,Liittyvä
+Related Company (optional),Liittyvä yritys (valinnainen)
+Related Documents,Liittyvät dokumentit
+Related Project,Liittyvä projekti
+Remaining,Jäljellä
+Reminder,Muistutus
+Reminder Lead Time,Muistutuksen ennakkoaika
+Reminder: {0} - {1} at {2},Muistutus: {0} - {1} klo {2}
+Remove,Poista
+Remove dependency,Poista riippuvuus
+Remove dependency on,Poista riippuvuus kohteesta
+Remove from group,Poista ryhmästä
+Remove group dependency,Poista ryhmäriippuvuus
+Remove skill,Poista taito
+Reopen,Avaa uudelleen
+Reopen thread,Avaa keskusteluketju uudelleen
+reopened,avattu uudelleen
+replies,vastausta
+Reply,Vastaa
+reply,vastaus
+Replying to,Vastataan
+Replying to comment,Vastataan kommenttiin
+Report Defect,Raportoi vika
+Reported Date,Raportointipäivä
+Reports,Raportit
+Reports To,Raportoi kenelle
+Request Submitted!,Pyyntö lähetetty!
+Required,Pakollinen
+required,pakollinen
+Research,Tutkimus
+Reset to Defaults,Palauta oletukset
+Resolve,Ratkaise
+Resolve thread,Ratkaise keskusteluketju
+Resolved,Ratkaistu
+Resolved date cannot be before reported date,Ratkaisupäivä ei voi olla ennen raportointipäivää
+Resource,Resurssi
+Resource and skill name are required,Resurssi ja taidon nimi vaaditaan
+Resource is already an attendee,Resurssi on jo osallistuja
+Resource name is required,Resurssin nimi on pakollinen
+Resource not found,Resurssia ei löytynyt
+Resource synced from employee {0},Resurssi synkronoitu työntekijästä {0}
+Resource {0} is already assigned to this task ({1}),Resurssi {0} on jo vastuutettu tähän tehtävään ({1})
+Resource {0} not found,Resurssia {0} ei löytynyt
+Resources,Yhteyshenkilöt
+Retry,Yritä uudelleen
+Review,Katselmus
+Review all relevant documents and contracts,Tarkista kaikki asiaankuuluvat dokumentit ja sopimukset
+Reviews,Katselmukset
+Risk Assessment,Riskiarviointi
+Rollback,Peruuta
+Rolled back,Peruutettu
+Room or address,Huone tai osoite
+RSVP,RSVP
+Safety,Turvallisuus
+Sat,La
+Save,Tallenna
+"Save a project as a template, or import one from a JSON file.",Tallenna projekti malliksi tai tuo malli JSON-tiedostosta.
+Save as Template,Tallenna malliksi
+Save Changes,Tallenna muutokset
+Save failed,Tallentaminen epäonnistui
+Save Preferences,Tallenna asetukset
+Save Template,Tallenna malli
+Saving...,Tallennetaan...
+Schedule,Aikataulu
+Schedule type is required for scheduled triggers,Aikataulutyyppi vaaditaan ajastetuille käynnistimille
+Scheduled,Aikataulutettu
+Search,Hae
+"Search by name, email, or skill...","Hae nimellä, sähköpostilla tai taidolla..."
+Search for a project...,Hae projektia...
+Search for a task...,Hae tehtävää...
+Search for an event...,Hae tapahtumaa...
+Search for people to invite...,Hae kutsuttavia henkilöitä...
+Search tasks to link...,Hae linkitettäviä tehtäviä...
+Search tasks...,Hae tehtäviä...
+Search...,Hae...
+Searching...,Haetaan...
+Seen,Nähty
+Select a project if your request is related to a specific project.,Valitse projekti jos pyyntösi liittyy tiettyyn projektiin.
+Select a project...,Valitse projekti...
+Select a task from the Gantt chart to view and manage its details.,Valitse tehtävä Gantt-kaaviosta nähdäksesi ja hallitaksesi sen tietoja.
+Select a task from the list or Kanban board to view and manage its details.,Valitse tehtävä listasta tai Kanban-taulusta nähdäksesi ja hallitaksesi sen tietoja.
+Select a template...,Valitse malli...
+Select priority...,Valitse prioriteetti...
+Select status...,Valitse tila...
+Select task...,Valitse tehtävä...
+Select type...,Valitse tyyppi...
+Selection,Valinta
+Send,Lähetä
+Send comment,Lähetä kommentti
+Send email invitations to attendees,Lähetä sähköpostikutsut osallistujille
+Send Invitations,Lähetä kutsut
+Send notification when a task is assigned to a user,Lähetä ilmoitus kun tehtävä vastuutetaan käyttäjälle
+Send notification when task status changes,Lähetä ilmoitus kun tehtävän tila muuttuu
+Send reminder before task due date,Lähetä muistutus ennen tehtävän eräpäivää
+sent,lähetetty
+Set rate,Aseta hinta
+Settings,Asetukset
+Settings saved successfully,Asetukset tallennettu onnistuneesti
+Severity,Vakavuus
+SF (Start-Finish),SF (Alku-Loppu)
+SF - Start-to-Finish,SF - Alusta-loppuun
+Show,Näytä
+Show all,Näytä kaikki
+Show all changes,Näytä kaikki muutokset
+Show Archived,Näytä arkistoidut
+Show full diff,Näytä koko ero
+Show less,Näytä vähemmän
+Show more,Näytä lisää
+Skill added,Taito lisätty
+Skill is required,Taito vaaditaan
+Skill Name,Taidon nimi
+Skill removed,Taito poistettu
+Skill {0} already exists for this resource,Taito {0} on jo olemassa tälle resurssille
+Skills,Taidot
+Skills & Competencies,Taidot ja pätevyydet
+Skip already migrated projects,Ohita jo siirretyt projektit
+Sort by,Lajittele
+Sort: Due Date,Lajittelu: Eräpäivä
+Sort: Priority,Lajittelu: Prioriteetti
+Sort: Project,Lajittelu: Projekti
+Sort: Status,Lajittelu: Tila
+Sort: Task,Lajittelu: Tehtävä
+Source Code,Lähdekoodi
+Spent,Käytetty
+Spent:,Käytetty:
+SS (Start-Start),SS (Alku-Alku)
+SS - Start-to-Start,SS - Alusta-alkuun
+Standalone,Itsenäinen
+Start,Alku
+Start a discussion below,Aloita keskustelu alla
+Start Date,Aloituspäivä
+Start date,Aloituspäivä
+Start Date (Earliest),Aloituspäivä (aikaisin)
+Start date updated,Aloituspäivä päivitetty
+Start date/time is required,Aloituspäivä/-aika vaaditaan
+Start Migration,Aloita siirto
+Start the conversation below.,Aloita keskustelu alla.
+Start Timer,Käynnistä ajastin
+Start typing to search...,Ala kirjoittaa hakeaksesi...
+Start-to-Finish,Alusta-loppuun
+Start-to-Start,Alusta-alkuun
+Start:,Alku:
+Statistics reset,Tilastot nollattu
+Status,Tila
+Status assigned to new projects,Uusille projekteille määrätty tila
+Status assigned to new tasks,Uusille tehtäville määrätty tila
+Status Changes,Tilamuutokset
+Status updated,Tila päivitetty
+Status:,Tila:
+Stop,Pysäytä
+Stop & Save,Pysäytä ja tallenna
+Stop Timer,Pysäytä ajastin
+Stops current timer and starts for this event,Pysäyttää nykyisen ajastimen ja käynnistää tälle tapahtumalle
+Stops current timer and starts for this task,Pysäyttää nykyisen ajastimen ja käynnistää tälle tehtävälle
+Subject,Aihe
+Subject cannot exceed 255 characters,Aihe ei voi ylittää 255 merkkiä
+Subject is required,Aihe on pakollinen
+Submit,Lähetä
+Submit Another Request,Lähetä toinen pyyntö
+Submit Request,Lähetä pyyntö
+Submitting...,Lähetetään...
+Successfully saved,Tallennettu onnistuneesti
+Successors (Blocking),Seuraajat (estävät)
+Sun,Su
+Supplier,Toimittaja
+Support,Tuki
+Switch to this event,Vaihda tähän tapahtumaan
+Switch to this task,Vaihda tähän tehtävään
+Sync direction is set to Frappe to Orga only,Synkronointisuunta on asetettu vain Frappe-järjestelmästä Orga-järjestelmään
+Sync direction is set to Orga to Frappe only,Synkronointisuunta on asetettu vain Orga-järjestelmästä Frappe-järjestelmään
+Sync not enabled for this project,Synkronointi ei ole käytössä tälle projektille
+System,Järjestelmä
+Table,Taulukko
+Take ownership of this task,Ota tämä tehtävä vastuullesi
+Target Date,Tavoitepäivä
+Target End,Tavoitteen loppu
+Target Project,Kohdeprojekti
+Target user is required for '{0}' action,Kohdekäyttäjä vaaditaan '{0}'-toiminnolle
+Task,Tehtävä
+task,tehtävä
+Task '{0}' is due on {1}.,Tehtävän '{0}' eräpäivä on {1}.
+Task and resource are required,Tehtävä ja resurssi vaaditaan
+Task Assignment,Tehtävän toimeksianto
+Task cannot be its own parent,Tehtävä ei voi olla oma ylätehtävänsä
+Task cannot depend on itself,Tehtävä ei voi riippua itsestään
+Task cannot depend on the group it belongs to,Tehtävä ei voi riippua ryhmästä johon se kuuluu
+Task created,Tehtävä luotu
+Task deleted,Tehtävä poistettu
+Task description has been saved.,Tehtävän kuvaus on tallennettu.
+Task Details,Tehtävän tiedot
+Task due in {0} days: {1},Tehtävä erääntyy {0} päivän kuluttua: {1}
+Task due today: {0},Tänään erääntyvä tehtävä: {0}
+Task due tomorrow: {0},Huomenna erääntyvä tehtävä: {0}
+Task duplicated,Tehtävä kahdennettu
+Task Group,Tehtäväryhmä
+Task ID is required,Tehtävän tunnus on pakollinen
+Task is blocked by incomplete dependencies,Tehtävän estävät keskeneräiset riippuvuudet
+Task is cancelled,Tehtävä on peruutettu
+Task is completed,Tehtävä on valmis
+Task is no longer blocked by a group,Tehtävää ei enää estä ryhmä
+Task is required for task context,Tehtävä vaaditaan tehtäväkontekstissa
+Task is required when tracking context is 'task',Tehtävä vaaditaan kun seurantakonteksti on 'tehtävä'
+Task linked,Tehtävä linkitetty
+Task moved,Tehtävä siirretty
+Task name,Tehtävän nimi
+Task name is required,Tehtävän nimi on pakollinen
+Task removed from group,Tehtävä poistettu ryhmästä
+Task Subject,Tehtävän aihe
+Task subject is required,Tehtävän aihe on pakollinen
+Task Type,Tehtävätyyppi
+Task unblocked: {0},Tehtävä vapautettu: {0}
+Task unlinked,Tehtävän linkitys poistettu
+Task updated,Tehtävä päivitetty
+Task {0} not found,Tehtävää {0} ei löytynyt
+Task {0} not in project {1},Tehtävä {0} ei ole projektissa {1}
+Task {0} to Frappe,Tehtävä {0} Frappe-järjestelmään
+Tasks,Tehtävät
+tasks,tehtävää
+Tasks and milestones will be created with dates relative to the project start date.,Tehtävät ja välitavoitteet luodaan projektin aloituspäivään suhteutetuilla päivämäärillä.
+Tasks assigned to you across all projects.,Sinulle vastuutetut tehtävät kaikista projekteista.
+Tasks created:,Luodut tehtävät:
+Tasks from projects you manage.,Tehtävät hallinnoimistasi projekteista.
+Tasks updated:,Päivitetyt tehtävät:
+"Tasks, milestones, and dependencies have been created.","Tehtävät, välitavoitteet ja riippuvuudet on luotu."
+Tasks:,Tehtävät:
+TBD,Myöhemmin määritettävä
+Team,Tiimi
+Team Members,Tiimin jäsenet
+Template,Malli
+Template applied,Malli otettu käyttöön
+Template data is required in import data,Mallin tiedot vaaditaan tuontitiedoissa
+Template has no data,Mallissa ei ole tietoja
+Template Name,Mallin nimi
+Template name,Mallin nimi
+Template name is required,Mallin nimi on pakollinen
+Template name is required in import data,Mallin nimi vaaditaan tuontitiedoissa
+Template saved,Malli tallennettu
+Template updated successfully.,Malli päivitetty onnistuneesti.
+Template {0} not found,Mallia {0} ei löytynyt
+Templates,Mallit
+Tentative,Alustava
+The comment has been deleted,Kommentti on poistettu
+The project,Projekti
+The source document may have been deleted.,Lähdedokumentti on saattanut olla poistettu.
+The source document will not be affected.,Lähdedokumenttiin ei kosketa.
+The status of '{0}' was changed from {1} to {2}.,Kohteen '{0}' tila muutettiin tilasta {1} tilaan {2}.
+Theme,Teema
+Theme preference,Teema-asetus
+This action,Tämä toiminto
+This action cannot be undone.,Tätä toimintoa ei voi kumota.
+This activity has been flagged for attention,Tämä toiminta on liputettu huomioitavaksi
+This is a reminder for your upcoming appointment,Tämä on muistutus tulevasta tapaamisestasi
+This method is only meant for developer mode,Tämä menetelmä on tarkoitettu vain kehittäjätilaan
+This page wandered off,This page wandered off
+This Week,Tällä viikolla
+This will delete all notes and preferences associated with this activity.,Tämä poistaa kaikki tähän toimintaan liittyvät muistiinpanot ja asetukset.
+This will import all Frappe Projects into Orga. Continue?,Tämä tuo kaikki Frappe-projektit Orga-järjestelmään. Jatketaanko?
+This will permanently delete,Tämä poistaa pysyvästi
+This will permanently delete:,Tämä poistaa pysyvästi:
+Thu,To
+Time,Aika
+Time & Billing,Aika ja laskutus
+Time & Revenue,Aika ja tuotto
+Time Entries,Aikamerkinnät
+Time log name is required,Aikamerkinnän nimi on pakollinen
+Time Log not found,Aikamerkintää ei löytynyt
+Time log {0} not found,Aikamerkintää {0} ei löytynyt
+Time Logs,Aikamerkinnät
+Time Summary,Ajan yhteenveto
+Time Tracking,Aikaseuranta
+Timeline,Aikajana
+Timer active on,Ajastin aktiivinen kohteessa
+Timer is not running,Ajastin ei ole käynnissä
+Timer Running,Ajastin käynnissä
+Timer running,Ajastin käynnissä
+Timesheet DocType not available,Tuntilista-DocType ei ole saatavilla
+Timesheets,Tuntilistat
+Timezone,Aikavyöhyke
+Timezone is detected from your browser,Aikavyöhyke tunnistetaan selaimestasi
+Title,Otsikko
+Title cannot exceed 255 characters,Otsikko ei voi ylittää 255 merkkiä
+Title is required,Otsikko on pakollinen
+Title updated,Otsikko päivitetty
+To,Asti
+to,asti
+to cancel,peruuttaaksesi
+to close,sulkeaksesi
+to confirm:,vahvistaaksesi:
+to edit,muokataksesi
+"to save,","tallentaaksesi,"
+To Time cannot be before From Time,Loppuaika ei voi olla ennen alkuaikaa
+Today,Tänään
+today,tänään
+Toggle billable,Vaihda laskutettavuus
+Toggle Details Panel,Näytä/piilota tietopaneeli
+Toggle Manager Panel,Näytä/piilota hallintapaneeli
+Toggle Sidebar,Näytä/piilota sivupalkki
+Tomorrow,Huomenna
+tomorrow,huomenna
+Total,Yhteensä
+Total Budget,Kokonaisbudjetti
+Total Contacts,Yhteyshenkilöitä yhteensä
+Total Cost,Kokonaiskustannus
+Total Cost to Org,Kokonaiskustannus organisaatiolle
+Total Defect Cost,Vikojen kokonaiskustannus
+Total Hours,Tunnit yhteensä
+Total Hours Logged,Kirjatut tunnit yhteensä
+Total Projects,Projekteja yhteensä
+Total Spent,Käytetty yhteensä
+Total Tasks,Tehtäviä yhteensä
+Total:,Yhteensä:
+Tracked,Seurattu
+trails to today while Open at 0%,liukuu tähän päivään niin kauan kuin Avoin ja 0%
+Tried:,Tried:
+Try adjusting your filter criteria,Kokeile muuttaa suodatinkriteerejä
+Try adjusting your filters.,Kokeile muuttaa suodattimia.
+Try Again,Yritä uudelleen
+Tue,Ti
+Type,Tyyppi
+Type updated,Tyyppi päivitetty
+Type:,Tyyppi:
+Typical response time: 1-2 business days,Tyypillinen vastausaika: 1-2 arkipäivää
+Unarchive,Palauta arkistosta
+Unarchive Activity,Palauta toiminta arkistosta
+Unassign,Poista vastuutus
+Unassigned,Vastuuttamaton
+Under Budget,Budjetin alla
+Ungrouped,Ryhmittelemätön
+Unknown,Tuntematon
+Unknown error,Tuntematon virhe
+Unlink failed,Linkityksen poisto epäonnistui
+Unlink task from milestone,Poista tehtävän linkitys välitavoitteesta
+Unpin,Poista kiinnitys
+Unpin Activity,Poista toiminnan kiinnitys
+Unread,Lukematon
+Unread only,Vain lukemattomat
+Until,Asti
+Up to Date,Up to Date
+Upcoming,Tulossa
+upcoming,tulossa
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Päivittäminen epäonnistui
+Updated,Päivitetty
+Updated successfully,Päivitetty onnistuneesti
+Updates,Updates
+Upload,Lataa
+Upload failed,Lataaminen epäonnistui
+Upload files below to attach them to this task.,Lataa tiedostoja alle liittääksesi ne tähän tehtävään.
+Upload to project,Lataa projektiin
+Uploading...,Ladataan...
+Urgent,Kiireellinen
+User {0} is already linked to client {1},Käyttäjä {0} on jo linkitetty asiakkaaseen {1}
+User {0} is already linked to resource {1},Käyttäjä {0} on jo linkitetty resurssiin {1}
+Utilization,Käyttöaste
+Valid,Kelvollinen
+Value:,Arvo:
+Variance,Poikkeama
+Variance:,Poikkeama:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Näkymä
+View All,Näytä kaikki
+View all active projects,Näytä kaikki aktiiviset projektit
+View all open tasks,Näytä kaikki avoimet tehtävät
+View overdue tasks,Näytä myöhästyneet tehtävät
+View Release,View Release
+Visibility,Näkyvyys
+Waiting for this task,Odottaa tätä tehtävää
+Waits for:,Odottaa:
+Warning: Resource {0} status is {1},Varoitus: Resurssin {0} tila on {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Varoitus: Käytetään HTTP:tä HTTPS:n sijaan. Webhook-tiedot eivät välttämättä ole turvallisia.
+Watch budget closely,Seuraa budjettia tarkasti
+We'll respond to:,Vastaamme osoitteeseen:
+Webhook deleted,Webhook poistettu
+Webhook name is required,Webhookin nimi on pakollinen
+Webhook not found,Webhookia ei löytynyt
+Webhook URL is required,Webhook-URL on pakollinen
+Webhook URL must start with http:// or https://,Webhook-URL:n täytyy alkaa http:// tai https://
+Wed,Ke
+Week,Viikko
+Weekend,Viikonloppu
+Weekly Capacity,Viikkokapasiteetti
+weekly capacity,viikkokapasiteetti
+Weekly Capacity (h),Viikkokapasiteetti (t)
+Welcome,Tervetuloa
+Welcome back!,Tervetuloa takaisin!
+Welcome to Orga,Tervetuloa Orga-järjestelmään
+What are you working on?,Mitä teet juuri nyt?
+What did you work on?,Mitä teit?
+When,Milloin
+When work begins,Kun työ alkaa
+When work is due,Kun työ erääntyy
+Where,Missä
+Will capture:,Tallentaa:
+Will create:,Luo:
+with checklist items,tarkistuslistan kohtineen
+Working,Työn alla
+Workload,Työkuorma
+Workmanship,Työn laatu
+Write a comment...,Kirjoita kommentti...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Kirjoita kommentti... Käytä @nimi mainitaksesi (Ctrl+Enter lähettääksesi)
+Year,Vuosi
+Yes,Kyllä
+Yesterday,Eilen
+yesterday,eilen
+You are not an attendee of this appointment,Et ole tämän tapaamisen osallistuja
+You are not linked to any resource,Sinua ei ole linkitetty mihinkään resurssiin
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Voit poistaa vain omat kommenttisi
+You can only delete your own reactions,Voit poistaa vain omat reaktiosi
+You do not have access to the client portal. Please contact support.,Sinulla ei ole pääsyä asiakasportaaliin. Ota yhteyttä tukeen.
+You have already reacted with '{0}',Olet jo reagoinut '{0}'-reaktiolla
+You have been assigned to task '{0}' in project '{1}'.,Sinut on vastuutettu tehtävään '{0}' projektissa '{1}'.
+You have been assigned to: {0},Sinut on vastuutettu: {0}
+You have been invited to the following appointment,Sinut on kutsuttu seuraavaan tapaamiseen
+You have no tasks assigned to you right now.,Sinulle ei ole vastuutettu tehtäviä juuri nyt.
+You were mentioned in {0},Sinut mainittiin kohteessa {0}
+Your attendance,Osallistumisesi
+Your comment has been posted,Kommenttisi on julkaistu
+Your Projects,Projektisi
+Your projects will appear here once they're assigned to you.,Projektisi näkyvät täällä kun ne on vastuutettu sinulle.
+Your Response,Vastauksesi
+Your RSVP,RSVP-vastauksesi
+Your support request has been submitted successfully.,Tukipyyntösi on lähetetty onnistuneesti.
+Your support request has been submitted successfully. We'll get back to you shortly.,Tukipyyntösi on lähetetty onnistuneesti. Palaamme asiaan pian.
+"Your task ""{0}"" is no longer blocked and can now be started.",Tehtäväsi '{0}' ei ole enää estetty ja sen voi nyt aloittaa.
+{0} is required,{0} on pakollinen
+{0} new activities,{0} uutta toimintaa
+{0} of {1} completed,{0} / {1} valmis
+{0} projects already migrated (will be skipped or updated),{0} projektia jo siirretty (ohitetaan tai päivitetään)
+{0} status changed to {1},{0} tila muutettu tilaan {1}
+{0} tasks remaining,{0} tehtävää jäljellä
+{0} tasks without projects will be skipped,{0} tehtävää ilman projektia ohitetaan
+{0} {1} not found,{0} {1} ei löytynyt

@@ -1,0 +1,677 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Orga Design System CSS Variables */
+:root {
+  /* Brand Colors */
+  --orga-primary: #018137;
+  --orga-primary-light: #e6f4ec;
+  --orga-primary-dark: #015a27;
+
+  /* Secondary Accent */
+  --orga-secondary: #B4138D;
+  --orga-secondary-light: #f9e6f4;
+  --orga-secondary-dark: #8a0f6c;
+
+  /* Status */
+  --orga-status-active: #018137;
+  --orga-status-at-risk: #f39c12;
+  --orga-status-delayed: #e74c3c;
+  --orga-status-on-hold: #95a5a6;
+  --orga-status-completed: #018137;
+
+  /* Priority */
+  --orga-priority-critical: #c0392b;
+  --orga-priority-high: #e67e22;
+  --orga-priority-medium: #3498db;
+  --orga-priority-low: #95a5a6;
+
+  /* Activity Types */
+  --orga-activity-task: #3498db;
+  --orga-activity-comment: #7f8c8d;
+  --orga-activity-assignment: #9b59b6;
+  --orga-activity-milestone: #f1c40f;
+  --orga-activity-event: #2980b9;
+  --orga-activity-project: #1abc9c;
+
+  /* Gantt Chart */
+  --orga-gantt-bar-default: #17a2b8;
+  --orga-gantt-bar-highlight: #B4138D;
+  --orga-gantt-bar-milestone: #f1c40f;
+  --orga-gantt-bar-at-risk: #e67e22;
+  --orga-gantt-bar-completed: #95a5a6;
+
+  /* Task Status Colors (Semantic - for WCAG compliance: color + icon + text) */
+  --status-task-open: #3B82F6;        /* Blue - clarity, openness */
+  --status-task-in-progress: #F59E0B; /* Amber - active work */
+  --status-task-review: #8B5CF6;      /* Purple - evaluation */
+  --status-task-completed: #10B981;   /* Green - success */
+  --status-task-cancelled: #6B7280;   /* Gray - inactive */
+
+  /* Milestone Status Colors */
+  --status-milestone-upcoming: #3B82F6;
+  --status-milestone-in-progress: #F59E0B;
+  --status-milestone-completed: #10B981;
+  --status-milestone-missed: #EF4444;
+
+  /* Neutral Colors (Light Mode) - WCAG AA compliant */
+  --orga-bg: #ffffff;
+  --orga-bg-secondary: #f8f9fa;
+  --orga-bg-tertiary: #f3f4f6;
+  --orga-surface: #ffffff;
+  --orga-surface-hover: #f9fafb;
+  --orga-text: #1f2937;
+  --orga-text-secondary: #4B5563;     /* Updated from #6b7280 for WCAG AA (4.5:1 contrast) */
+  --orga-text-muted: #6B7280;         /* Updated from #9ca3af */
+  --orga-text-disabled: #9CA3AF;
+  --orga-border: #e5e7eb;
+  --orga-border-light: #f3f4f6;
+  --orga-shadow: rgba(0, 0, 0, 0.1);
+
+  /* Legacy aliases */
+  --orga-dark: #1f2937;
+  --orga-gray: #6b7280;
+  --orga-light-gray: #f8f9fa;
+  --orga-white: #ffffff;
+}
+
+/* Dark Mode Variables */
+:root.dark {
+  /* Neutral Colors (Dark Mode) */
+  --orga-bg: #0f172a;
+  --orga-bg-secondary: #1e293b;
+  --orga-bg-tertiary: #334155;
+  --orga-surface: #1e293b;
+  --orga-surface-hover: #334155;
+  --orga-text: #f1f5f9;
+  --orga-text-secondary: #94a3b8;
+  --orga-text-muted: #64748b;
+  --orga-border: #334155;
+  --orga-border-light: #1e293b;
+  --orga-shadow: rgba(0, 0, 0, 0.4);
+
+  /* Legacy aliases */
+  --orga-dark: #f1f5f9;
+  --orga-gray: #94a3b8;
+  --orga-light-gray: #1e293b;
+  --orga-white: #0f172a;
+
+  /* Adjust brand colors for dark mode contrast */
+  --orga-primary-light: #065f46;
+  --orga-secondary-light: #701a75;
+}
+
+/* Color scheme fallback for browsers supporting prefers-color-scheme */
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color-scheme: light;
+  }
+}
+
+/* Override Frappe primary with Orga brand */
+:root {
+  --primary: var(--orga-primary);
+  --primary-light: var(--orga-primary-light);
+  --primary-dark: var(--orga-primary-dark);
+}
+
+/* ============================================
+   Typography System
+   ============================================ */
+
+:root {
+  /* Font Family */
+  --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+  --font-mono: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, monospace;
+
+  /* Typography Scale */
+  --text-display: 2rem;        /* 32px */
+  --text-h1: 1.75rem;          /* 28px */
+  --text-h2: 1.5rem;           /* 24px */
+  --text-h3: 1.25rem;          /* 20px */
+  --text-h4: 1rem;             /* 16px */
+  --text-subtitle: 0.875rem;   /* 14px */
+  --text-body: 0.875rem;       /* 14px */
+  --text-caption: 0.75rem;     /* 12px */
+  --text-overline: 0.6875rem;  /* 11px */
+
+  /* Line Heights */
+  --leading-tight: 1.2;
+  --leading-snug: 1.25;
+  --leading-normal: 1.4;
+  --leading-relaxed: 1.5;
+
+  /* Font Weights */
+  --font-normal: 400;
+  --font-medium: 500;
+  --font-semibold: 600;
+  --font-bold: 700;
+}
+
+/* Typography Utility Classes */
+.text-display {
+  font-size: var(--text-display);
+  font-weight: var(--font-bold);
+  line-height: var(--leading-tight);
+  letter-spacing: -0.02em;
+}
+
+.text-h1 {
+  font-size: var(--text-h1);
+  font-weight: var(--font-bold);
+  line-height: var(--leading-tight);
+  letter-spacing: -0.01em;
+}
+
+.text-h2 {
+  font-size: var(--text-h2);
+  font-weight: var(--font-semibold);
+  line-height: var(--leading-snug);
+}
+
+.text-h3 {
+  font-size: var(--text-h3);
+  font-weight: var(--font-semibold);
+  line-height: var(--leading-normal);
+}
+
+.text-h4 {
+  font-size: var(--text-h4);
+  font-weight: var(--font-semibold);
+  line-height: var(--leading-normal);
+}
+
+.text-subtitle {
+  font-size: var(--text-subtitle);
+  font-weight: var(--font-medium);
+  line-height: var(--leading-normal);
+}
+
+.text-body {
+  font-size: var(--text-body);
+  font-weight: var(--font-normal);
+  line-height: var(--leading-relaxed);
+}
+
+.text-caption {
+  font-size: var(--text-caption);
+  font-weight: var(--font-normal);
+  line-height: var(--leading-relaxed);
+}
+
+.text-overline {
+  font-size: var(--text-overline);
+  font-weight: var(--font-semibold);
+  line-height: var(--leading-relaxed);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Base styles */
+body {
+  font-family: var(--font-sans);
+  font-size: var(--text-body);
+  line-height: var(--leading-relaxed);
+  margin: 0;
+  padding: 0;
+  background: var(--orga-bg-secondary);
+  color: var(--orga-text);
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+/* Dark mode transitions for smoother theme switching */
+.dark body,
+.dark * {
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+}
+
+/* ============================================
+   Responsive Design Utilities
+   ============================================ */
+
+/* Touch-friendly minimum target size (44px per WCAG 2.1) */
+.touch-target {
+  min-height: 44px;
+  min-width: 44px;
+}
+
+/* Mobile-first container padding */
+@media (max-width: 640px) {
+  .container-responsive {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+/* Prevent text overflow on mobile */
+.text-truncate-mobile {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+@media (min-width: 640px) {
+  .text-truncate-mobile {
+    overflow: visible;
+    text-overflow: clip;
+    white-space: normal;
+  }
+}
+
+/* Mobile overlay panel base styles */
+.mobile-panel-overlay {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 40;
+}
+
+@media (min-width: 1024px) {
+  .mobile-panel-overlay {
+    display: none;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--orga-light-gray);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--orga-border);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--orga-gray);
+}
+
+/* ============================================
+   Focus States for Accessibility (WCAG 2.1 AA)
+   ============================================ */
+
+/* Global focus-visible styles */
+:focus-visible {
+  outline: 2px solid var(--orga-primary);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+/* Remove default outline when focus-visible applies */
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* Enhanced focus for interactive cards */
+.kanban-card:focus-visible,
+.task-row:focus-visible,
+.project-card:focus-visible {
+  outline: 2px solid var(--orga-primary);
+  outline-offset: 2px;
+  box-shadow: 0 0 0 4px rgba(1, 129, 55, 0.15);
+}
+
+/* ============================================
+   Hover States for Interactive Elements
+   ============================================ */
+
+/* Kanban card hover */
+.kanban-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  cursor: pointer;
+}
+
+.kanban-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+/* Task row hover */
+.task-row {
+  transition: background-color 0.15s ease;
+  cursor: pointer;
+}
+
+.task-row:hover {
+  background-color: #EFF6FF;
+}
+
+.dark .task-row:hover {
+  background-color: rgba(59, 130, 246, 0.1);
+}
+
+/* Project card hover */
+.project-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  cursor: pointer;
+}
+
+.project-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+/* Dashboard stat card hover */
+.stat-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.stat-card:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Button hover states */
+.btn-primary {
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+}
+
+.btn-primary:hover:not(:disabled) {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.btn-secondary {
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.btn-secondary:hover:not(:disabled) {
+  background-color: #F9FAFB;
+  border-color: #D1D5DB;
+}
+
+.dark .btn-secondary:hover:not(:disabled) {
+  background-color: #374151;
+  border-color: #4B5563;
+}
+
+/* ============================================
+   Sticky Headers for List Views
+   ============================================ */
+
+.list-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  border-bottom: 2px solid var(--orga-border);
+}
+
+.dark .list-header {
+  border-color: rgb(55 65 81); /* gray-700 for dark mode */
+}
+
+/* ============================================
+   Drag & Drop Feedback for Kanban
+   ============================================ */
+
+/* Dragging card state */
+.kanban-card.dragging {
+  opacity: 0.6;
+  transform: scale(1.02) rotate(2deg);
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.15), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+  cursor: grabbing;
+}
+
+/* Drop zone highlight when dragging over */
+.kanban-column.drop-target {
+  background-color: rgba(5, 150, 105, 0.08);
+  border: 2px dashed rgba(5, 150, 105, 0.5);
+  border-radius: 0.75rem;
+}
+
+.dark .kanban-column.drop-target {
+  background-color: rgba(5, 150, 105, 0.15);
+  border-color: rgba(16, 185, 129, 0.5);
+}
+
+/* Drop indicator line */
+.drop-indicator {
+  height: 3px;
+  background: linear-gradient(90deg, transparent, var(--orga-primary), transparent);
+  border-radius: 2px;
+  margin: 4px 0;
+  animation: pulse-indicator 1s ease-in-out infinite;
+}
+
+@keyframes pulse-indicator {
+  0%, 100% { opacity: 0.5; }
+  50% { opacity: 1; }
+}
+
+/* Success animation on drop */
+.kanban-card.just-dropped {
+  animation: drop-success 0.3s ease-out;
+}
+
+@keyframes drop-success {
+  0% {
+    transform: scale(1.05);
+    box-shadow: 0 0 0 4px rgba(5, 150, 105, 0.3);
+  }
+  50% {
+    transform: scale(0.98);
+  }
+  100% {
+    transform: scale(1);
+    box-shadow: none;
+  }
+}
+
+/* Kanban card hover state (when not dragging) */
+.kanban-card:not(.dragging):hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px -2px rgba(0, 0, 0, 0.1);
+}
+
+/* Transitions */
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.2s ease;
+}
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}
+
+.slide-enter-active,
+.slide-leave-active {
+  transition: transform 0.2s ease;
+}
+
+.slide-enter-from,
+.slide-leave-to {
+  transform: translateX(-100%);
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ============================================
+   Dark Mode Component Utilities
+   ============================================ */
+
+/* Cards and Panels */
+.dark .card,
+.dark [class*="bg-white"] {
+  --tw-bg-opacity: 1;
+}
+
+/* Input fields in dark mode */
+.dark input:not([type="checkbox"]):not([type="radio"]),
+.dark select,
+.dark textarea {
+  background-color: rgb(31 41 55);
+  border-color: rgb(55 65 81);
+  color: rgb(243 244 246);
+}
+
+.dark input::placeholder,
+.dark textarea::placeholder {
+  color: rgb(107 114 128);
+}
+
+/* Focus rings in dark mode */
+.dark :focus-visible {
+  outline-color: var(--orga-primary);
+}
+
+/* Scrollbar in dark mode */
+.dark ::-webkit-scrollbar-track {
+  background: rgb(31 41 55);
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: rgb(75 85 99);
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: rgb(107 114 128);
+}
+
+/* ============================================
+   Dark Mode Kanban Styles (Global)
+   ============================================
+   These MUST be global (not Vue scoped) to reliably
+   override Tailwind dark: utilities and light-mode
+   scoped styles from ProjectDetail.vue.
+   ============================================ */
+
+/* --- Column Backgrounds --- */
+/* !important overrides Vue scoped light-mode gradients (higher specificity from [data-v-xxx]) */
+.dark .column-open {
+  background: linear-gradient(180deg, rgba(59, 130, 246, 0.08) 0%, rgba(59, 130, 246, 0.03) 100%) !important;
+  border-top-color: #3B82F6 !important;
+}
+
+.dark .column-in-progress {
+  background: linear-gradient(180deg, rgba(245, 158, 11, 0.08) 0%, rgba(245, 158, 11, 0.03) 100%) !important;
+  border-top-color: #F59E0B !important;
+}
+
+.dark .column-review {
+  background: linear-gradient(180deg, rgba(167, 139, 250, 0.08) 0%, rgba(167, 139, 250, 0.03) 100%) !important;
+  border-top-color: #A78BFA !important;
+}
+
+.dark .column-completed {
+  background: linear-gradient(180deg, rgba(52, 211, 153, 0.08) 0%, rgba(52, 211, 153, 0.03) 100%) !important;
+  border-top-color: #34D399 !important;
+}
+
+/* Column header text */
+.dark .kanban-column h3 {
+  color: rgb(243 244 246);             /* Gray-100 */
+}
+
+/* --- Card Base --- */
+/* Cards use gray-700 (#374151) to stand out from gray-800 columns.
+   !important overrides Vue scoped styles (which have [data-v-xxx] specificity). */
+.dark .kanban-card {
+  background: rgb(55 65 81) !important;  /* Gray-700 */
+  color: rgb(243 244 246) !important;    /* Gray-100 */
+  border-color: rgb(75 85 99) !important; /* Gray-600 */
+}
+
+/* Card title - high contrast */
+.dark .kanban-card h4 {
+  color: rgb(243 244 246);             /* Gray-100 */
+}
+
+/* Date text */
+.dark .kanban-card .text-xs {
+  color: rgb(209 213 219);             /* Gray-300 */
+}
+
+/* Footer text (assignee, progress) */
+.dark .kanban-card .text-\\[10px\\] {
+  color: rgb(156 163 175);             /* Gray-400 */
+}
+
+/* Calendar icon */
+.dark .kanban-card .fa-calendar {
+  color: rgb(156 163 175);             /* Gray-400 */
+}
+
+/* --- Card Status States --- */
+/* All card states share the same dark bg.
+   !important overrides Vue scoped styles. */
+.dark .card-open,
+.dark .card-in-progress,
+.dark .card-review,
+.dark .card-completed {
+  background: rgb(55 65 81) !important;  /* Gray-700 */
+  color: rgb(243 244 246) !important;    /* Gray-100 */
+  border-color: rgb(75 85 99) !important; /* Gray-600 */
+}
+
+/* Preserve status left-border colors */
+.dark .card-open {
+  border-left-color: #3B82F6 !important;
+}
+
+.dark .card-in-progress {
+  border-left-color: #F59E0B !important;
+}
+
+.dark .card-review {
+  border-left-color: #A78BFA !important;
+}
+
+.dark .card-completed {
+  border-left-color: #34D399 !important;
+  opacity: 0.95;
+}
+
+/* Selected card */
+.dark .card-selected {
+  background: rgb(55 65 81) !important;
+  border-color: rgb(75 85 99) !important;
+  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+}
+
+/* --- Card Hover States --- */
+/* Status-tinted glow on hover */
+.dark .card-open:hover {
+  box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3) !important;
+  border-color: rgb(107 114 128) !important;
+}
+
+.dark .card-in-progress:hover {
+  box-shadow: 0 4px 12px rgba(245, 158, 11, 0.3) !important;
+  border-color: rgb(107 114 128) !important;
+}
+
+.dark .card-review:hover {
+  box-shadow: 0 4px 12px rgba(167, 139, 250, 0.3) !important;
+  border-color: rgb(107 114 128) !important;
+}
+
+.dark .card-completed:hover {
+  box-shadow: 0 4px 12px rgba(52, 211, 153, 0.3) !important;
+  border-color: rgb(107 114 128) !important;
+  opacity: 1;
+}
+
+/* Generic card hover */
+.dark .kanban-card:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.5) !important;
+  border-color: rgb(107 114 128) !important;
+}

@@ -1,0 +1,54 @@
+{
+ "actions": [],
+ "allow_rename": 0,
+ "creation": "2026-02-03 12:00:00.000000",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "depends_on",
+  "dependency_type",
+  "lag_days"
+ ],
+ "fields": [
+  {
+   "fieldname": "depends_on",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Depends On",
+   "options": "Orga Task",
+   "reqd": 1,
+   "columns": 5
+  },
+  {
+   "default": "Finish to Start",
+   "fieldname": "dependency_type",
+   "fieldtype": "Select",
+   "in_list_view": 1,
+   "label": "Type",
+   "options": "Finish to Start\nStart to Start\nFinish to Finish\nStart to Finish",
+   "columns": 3
+  },
+  {
+   "default": "0",
+   "fieldname": "lag_days",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "Lag (Days)",
+   "columns": 2
+  }
+ ],
+ "index_web_pages_for_search": 0,
+ "istable": 1,
+ "links": [],
+ "modified": "2026-02-03 12:00:00.000000",
+ "modified_by": "Administrator",
+ "module": "Orga",
+ "name": "Orga Task Dependency",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "idx",
+ "sort_order": "ASC",
+ "states": [],
+ "track_changes": 0
+}

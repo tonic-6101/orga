@@ -1,0 +1,53 @@
+{
+ "actions": [],
+ "allow_rename": 0,
+ "creation": "2026-02-03 12:00:00.000000",
+ "doctype": "DocType",
+ "editable_grid": 0,
+ "engine": "InnoDB",
+ "field_order": [
+  "comment_by",
+  "comment_time",
+  "content"
+ ],
+ "fields": [
+  {
+   "fieldname": "comment_by",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Comment By",
+   "options": "User",
+   "read_only": 1,
+   "columns": 2
+  },
+  {
+   "fieldname": "comment_time",
+   "fieldtype": "Datetime",
+   "in_list_view": 1,
+   "label": "Time",
+   "read_only": 1,
+   "columns": 2
+  },
+  {
+   "fieldname": "content",
+   "fieldtype": "Text",
+   "in_list_view": 1,
+   "label": "Comment",
+   "reqd": 1,
+   "columns": 6
+  }
+ ],
+ "index_web_pages_for_search": 0,
+ "istable": 1,
+ "links": [],
+ "modified": "2026-02-03 12:00:00.000000",
+ "modified_by": "Administrator",
+ "module": "Orga",
+ "name": "Orga Task Comment",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "idx",
+ "sort_order": "DESC",
+ "states": [],
+ "track_changes": 0
+}

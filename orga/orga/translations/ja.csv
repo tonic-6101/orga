@@ -1,0 +1,1492 @@
++ Add Milestone,+ マイルストーンを追加
++ Create Task,+ タスクを作成
++ Log Time,+ 時間を記録
+-- Select a project --,-- プロジェクトを選択 --
+0m,0分
+1 day,1日
+1 day ago,1日前
+1 dependency,依存関係1件
+1 entry,1件
+1 file,ファイル1件
+1 hour ago,1時間前
+1 member,メンバー1人
+1 milestone,マイルストーン1件
+1 month,1か月
+1 task,タスク1件
+< 1m,< 1分
+"A clear, actionable title for the task",タスクの内容がわかる明確なタイトル
+A client with email {0} already exists: {1},メールアドレス {0} のクライアントは既に存在します：{1}
+A key deliverable or checkpoint for the project,プロジェクトの重要な成果物またはチェックポイント
+Accept,承諾する
+Accepted,承諾済み
+Acknowledge,確認する
+across,全体で
+Action,アクション
+Actions,アクション
+Active,有効
+Active Assignments,有効な割り当て
+Active Projects,進行中のプロジェクト
+Activity,アクティビティ
+Activity data deleted successfully,アクティビティデータを削除しました
+Activity Info,アクティビティ情報
+Activity Stats,アクティビティ統計
+Activity will appear here as you work on tasks and projects.,タスクやプロジェクトで作業すると、アクティビティがここに表示されます。
+Actual,実績
+Actual Cost,実績コスト
+Actual cost cannot be negative,実績コストは負の値にできません
+Actual end date cannot be before actual start date,実績終了日は実績開始日より前にできません
+Actual Hours,実績時間
+Add,追加
+Add a checklist item...,チェックリスト項目を追加...
+Add a comment...,コメントを追加...
+Add a comment... (Ctrl+Enter to send),コメントを追加... (Ctrl+Enterで送信)
+Add a description...,説明を追加...
+Add a milestone description...,マイルストーンの説明を追加...
+Add a note below to annotate this activity.,このアクティビティにメモを追加してください。
+Add a note...,メモを追加...
+Add a project description...,プロジェクトの説明を追加...
+Add a task description...,タスクの説明を追加...
+Add checklist item...,チェックリスト項目を追加...
+Add Contact,連絡先を追加
+Add contacts via the Desk interface or clear filters,Desk画面から連絡先を追加するか、フィルターを解除してください
+Add Dependency,依存関係を追加
+Add details about this event...,このイベントの詳細を追加...
+Add details about this milestone...,このマイルストーンの詳細を追加...
+Add details about this task...,このタスクの詳細を追加...
+Add details or acceptance criteria for this milestone,このマイルストーンの詳細または完了条件を追加
+"Add details, context, or acceptance criteria",詳細、背景情報、または完了条件を追加
+Add first dependency,最初の依存関係を追加
+Add item,項目を追加
+Add items below to track progress.,以下に項目を追加して進捗を管理しましょう。
+Add items below to track subtasks,以下に項目を追加してサブタスクを管理しましょう
+Add Milestone,マイルストーンを追加
+Add Milestone (Shift+M),マイルストーンを追加 (Shift+M)
+Add milestones to track key deliverables.,マイルストーンを追加して重要な成果物を管理しましょう。
+Add New Contact,新しい連絡先を追加
+Add Note,メモを追加
+Add note,メモを追加
+Add notes about this contact...,この連絡先についてのメモを追加...
+Add reaction,リアクションを追加
+Add Skill,スキルを追加
+Add start and due dates to tasks to see them on the Gantt chart,タスクに開始日と期限を設定するとGanttチャートに表示されます
+Add Task,タスクを追加
+Add Task (Shift+T),タスクを追加 (Shift+T)
+Added Finish-to-Start dependency,終了-開始の依存関係を追加しました
+Adding this dependency would create a circular reference: {0},この依存関係を追加すると循環参照が発生します：{0}
+Adding...,追加中...
+Address,住所
+Advanced,詳細設定
+All,すべて
+All Active,すべての有効
+All Assignees,すべての担当者
+All Categories,すべてのカテゴリー
+All caught up!,すべて対応済みです！
+All Contexts,すべてのコンテキスト
+All day,終日
+All day event,終日イベント
+All fields,すべてのフィールド
+All Priorities,すべての優先度
+All Projects,すべてのプロジェクト
+All Status,すべてのステータス
+All Statuses,すべてのステータス
+All task dependencies & relative dates,すべてのタスク依存関係と相対日付
+All Tasks,すべてのタスク
+All tasks across all projects.,すべてのプロジェクトのすべてのタスク。
+All tasks are already linked,すべてのタスクは既にリンクされています
+All team members,すべてのチームメンバー
+All Types,すべてのタイプ
+All Users,すべてのユーザー
+Allocated,割り当て済み
+allocated,割り当て済み
+Allow users to log time against tasks,タスクへの時間記録を許可する
+Already exported to timesheet {0},タイムシート {0} にエクスポート済みです
+Already Migrated,移行済み
+Anyone with access,アクセス権のある全員
+anytime to show this help,いつでもこのヘルプを表示
+App Updates,App Updates
+Appearance,外観
+Apply,適用
+Apply cascade?,カスケードを適用しますか？
+Apply Changes,変更を適用
+Apply failed,適用に失敗しました
+Apply Template,テンプレートを適用
+Applying...,適用中...
+Appointment,予定
+Appointment and resource are required,予定とリソースは必須です
+Appointment name is required,予定名は必須です
+Appointment not found,予定が見つかりません
+Appointment {0} not found,予定 {0} が見つかりません
+Apps,アプリ
+Archive,アーカイブ
+Archive Activity,アクティビティをアーカイブ
+Archived,アーカイブ済み
+Are you sure you want to delete this activity data? This cannot be undone.,このアクティビティデータを削除しますか？この操作は取り消せません。
+Are you sure you want to delete this comment?,このコメントを削除しますか？
+Are you sure you want to delete this project?,このプロジェクトを削除しますか？
+Are you sure?,よろしいですか？
+Ascending -- click to reverse,昇順 -- クリックで逆順に
+Assign To,担当者を設定
+Assign to Me,自分に割り当て
+Assigned Contact,割り当て済み連絡先
+Assigned To,担当者
+Assigned to,担当者
+Assigned to Me,自分に割り当て済み
+Assignee,担当者
+Assignment,割り当て
+Assignment History,割り当て履歴
+Assignment name is required,割り当て名は必須です
+Assignment {0} not found,割り当て {0} が見つかりません
+Assignments,割り当て
+At least one action is required,アクションを1つ以上指定してください
+At least one event is required,イベントを1つ以上指定してください
+At least one event must be selected,イベントを1つ以上選択してください
+Attachment,添付ファイル
+Attachments,添付ファイル
+Attendees,参加者
+"Audit trail, assignments, version history",変更履歴、割り当て、バージョン履歴
+Auto,自動
+Auto Calculate Progress,進捗を自動計算
+Auto Set Missed Milestones,期限切れマイルストーンを自動設定
+Auto-shift dependents when dates change,日付変更時に依存タスクを自動調整
+Auto-Trail Start,自動スライド開始
+Auto-Trail updated,自動スライドを更新しました
+Automatically calculate project progress from task completion,タスクの完了状況からプロジェクトの進捗を自動計算する
+Automatically mark milestones as missed when overdue,期限を過ぎたマイルストーンを自動的に未達にする
+Automation rule {0} not found,自動化ルール {0} が見つかりません
+Automation: {0},自動化：{0}
+Availability,空き状況
+Available,空き
+Avatar updated successfully,アバターを更新しました
+Avg Progress,平均進捗
+Back,戻る
+Back to Portal,ポータルに戻る
+Back to Projects,プロジェクト一覧に戻る
+Beginner,初級
+Best regards,よろしくお願いいたします
+Billable,請求対象
+Billable Amount,請求金額
+Billable Hours,請求対象時間
+Billable Rate,請求単価
+Billing Rate,請求レート
+Blocked,ブロック中
+Both dates are needed to display task as a bar in Gantt chart,Ganttチャートにバーとして表示するには両方の日付が必要です
+Both doctype and docname are required,doctypeとdocnameの両方が必要です
+Both proposed start and end times are required,提案する開始時刻と終了時刻の両方が必要です
+Both task_name and depends_on are required,task_nameとdepends_onの両方が必要です
+Breadcrumb,パンくずリスト
+Brief description of the defect or damage,不具合または損傷の簡単な説明
+Brief description of this template,このテンプレートの簡単な説明
+Brief description of your request,ご依頼内容の簡単な説明
+Brief project description,プロジェクトの簡単な説明
+Budget,予算
+Budget at risk,予算にリスクあり
+Budget Burn Rate,予算消化率
+Budget Status,予算ステータス
+Budget updated,予算を更新しました
+Budget:,予算：
+Bug,バグ
+Burn Rate,消化率
+Busy,多忙
+By,作成者
+By Assignee,担当者別
+By Group,グループ別
+By Milestone,マイルストーン別
+By Priority,優先度別
+By Status,ステータス別
+Cancel,キャンセル
+Cancelled,キャンセル済み
+cannot be undone,取り消せません
+Cannot delete client with {0} linked projects. Unlink projects first.,リンクされたプロジェクトが {0} 件あるため、クライアントを削除できません。先にプロジェクトのリンクを解除してください。
+Cannot delete project with {0} linked tasks. Delete tasks first.,リンクされたタスクが {0} 件あるため、プロジェクトを削除できません。先にタスクを削除してください。
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,有効な割り当てが {0} 件あるため、リソースを削除できません。先に完了またはキャンセルしてください。
+Cannot delete task with {0} subtasks. Delete subtasks first.,サブタスクが {0} 件あるため、タスクを削除できません。先にサブタスクを削除してください。
+Capacity,キャパシティ
+capacity,キャパシティ
+Capacity & Rates,キャパシティと単価
+Capture project structure for reuse,プロジェクト構成を再利用用に保存
+Cascade,カスケード
+Cascade Preview,カスケードプレビュー
+Category,カテゴリー
+Celebrate,お祝い
+Change,変更
+Change History,変更履歴
+Change Priority,優先度を変更
+Change Status,ステータスを変更
+Changes,変更
+Changes appear when fields are modified.,フィールドが変更されると、変更内容がここに表示されます。
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,チェックリスト
+Checklist item name is required,チェックリスト項目名は必須です
+Checklist item not found,チェックリスト項目が見つかりません
+Checklist item title is required,チェックリスト項目のタイトルは必須です
+Checklist item {0} not found,チェックリスト項目 {0} が見つかりません
+Checklist item {0} not found in task,タスク内にチェックリスト項目 {0} が見つかりません
+Child,子
+Choose file to upload,アップロードするファイルを選択
+Circular dependency detected: {0},循環依存を検出しました：{0}
+Circular parent-child relationship detected,親子関係の循環を検出しました
+Clear,クリア
+Clear all read,既読をすべてクリア
+Clear date,日付をクリア
+Click on an activity from the list to view and manage its details.,リストからアクティビティをクリックして詳細を表示・管理できます。
+Click the avatar to upload a new photo,アバターをクリックして新しい写真をアップロード
+Click to add description...,クリックして説明を追加...
+Click to add notes...,クリックしてメモを追加...
+Click to assign contact,クリックして連絡先を割り当て
+Click to change status,クリックしてステータスを変更
+Click to change type,クリックしてタイプを変更
+Click to edit,クリックして編集
+Click to edit budget,クリックして予算を編集
+Click to edit description,クリックして説明を編集
+Click to edit end date,クリックして終了日を編集
+Click to edit milestone name,クリックしてマイルストーン名を編集
+Click to edit rate,クリックして単価を編集
+Click to edit start date,クリックして開始日を編集
+Click to edit title,クリックしてタイトルを編集
+Click to load,クリックして読み込み
+Click to set group dependency...,クリックしてグループ依存関係を設定...
+Click to set group...,クリックしてグループを設定...
+Click to view,クリックして表示
+Click to view at-risk projects,リスクのあるプロジェクトを表示
+Click to view critical projects,重要なプロジェクトを表示
+Click to view healthy projects,順調なプロジェクトを表示
+Client,クライアント
+Client already has a portal user: {0},このクライアントには既にポータルユーザーがあります：{0}
+Client already has portal access,クライアントは既にポータルにアクセスできます
+Client has no portal user to revoke,取り消すポータルユーザーがありません
+Client link removed from project {0},プロジェクト {0} からクライアントのリンクを削除しました
+Client Portal,クライアントポータル
+Client {0} deleted successfully,クライアント {0} を削除しました
+Close,閉じる
+Close (Esc),閉じる (Esc)
+Comment,コメント
+comment,コメント
+Comment added,コメントを追加しました
+Comment content is required,コメントの内容は必須です
+Comment name is required,コメント名は必須です
+Comment not found,コメントが見つかりません
+Comment removed,コメントを削除しました
+Comment {0} not found in task,タスク内にコメント {0} が見つかりません
+Comments,コメント
+comments,コメント
+Community Edition,Community Edition
+Company,会社
+Company name...,会社名...
+Complete,完了する
+Completed,完了
+completed,完了
+Completed Tasks,完了済みタスク
+Compliance,コンプライアンス
+Configure default values for new projects and tasks,新しいプロジェクトとタスクのデフォルト値を設定
+Configure email notification settings,メール通知の設定
+Confirm,確認
+Contact deleted,連絡先を削除しました
+Contact Details,連絡先の詳細
+Contact Information,連絡先情報
+Contact name is required,連絡先名は必須です
+Contact Support,サポートに連絡
+Contact your project manager for more information.,詳細はプロジェクトマネージャーにお問い合わせください。
+Contact:,連絡先：
+Contacts,連絡先
+Context,コンテキスト
+Contractor,外注先
+Cost estimate cannot be negative,コスト見積もりは負の値にできません
+Cost Impact,コストへの影響
+Cost Summary,コスト概要
+Could not apply the template. Please try again.,テンプレートを適用できませんでした。もう一度お試しください。
+Could not attach file to project,プロジェクトにファイルを添付できませんでした
+Could not change task priority,タスクの優先度を変更できませんでした
+Could not change task status,タスクのステータスを変更できませんでした
+Could not delete the project. Please try again.,プロジェクトを削除できませんでした。もう一度お試しください。
+Could not delete the task. Please try again.,タスクを削除できませんでした。もう一度お試しください。
+Could not delete the template.,テンプレートを削除できませんでした。
+Could not duplicate the task. Please try again.,タスクを複製できませんでした。もう一度お試しください。
+Could not export the template.,テンプレートをエクスポートできませんでした。
+Could not import the template. Please check the file format.,テンプレートをインポートできませんでした。ファイル形式を確認してください。
+Could not link task to milestone,タスクをマイルストーンにリンクできませんでした
+Could not load document details.,ドキュメントの詳細を読み込めませんでした。
+Could not load task details,タスクの詳細を読み込めませんでした
+Could not promote checklist item to task.,チェックリスト項目をタスクに昇格できませんでした。
+Could not remove task from milestone,マイルストーンからタスクを削除できませんでした
+Could not save budget.,予算を保存できませんでした。
+Could not save changes to the milestone,マイルストーンの変更を保存できませんでした
+Could not save changes to the task,タスクの変更を保存できませんでした
+Could not save description.,説明を保存できませんでした。
+Could not save end date.,終了日を保存できませんでした。
+Could not save milestone name.,マイルストーン名を保存できませんでした。
+Could not save start date.,開始日を保存できませんでした。
+Could not save the template. Please try again.,テンプレートを保存できませんでした。もう一度お試しください。
+Could not save title.,タイトルを保存できませんでした。
+Could not update dependency mode.,依存関係モードを更新できませんでした。
+Could not update milestone date,マイルストーンの日付を更新できませんでした
+Could not update project status.,プロジェクトのステータスを更新できませんでした。
+Could not update project type.,プロジェクトのタイプを更新できませんでした。
+Could not update setting.,設定を更新できませんでした。
+Could not update task dates,タスクの日付を更新できませんでした
+Could not update task status,タスクのステータスを更新できませんでした
+Could not update the template.,テンプレートを更新できませんでした。
+Create a copy of this task,このタスクのコピーを作成
+Create Contact,連絡先を作成
+Create Event,イベントを作成
+Create Milestone,マイルストーンを作成
+Create New Milestone,新しいマイルストーンを作成
+Create New Task,新しいタスクを作成
+Create Project,プロジェクトを作成
+Create Task,タスクを作成
+Create tasks and milestones from a template,テンプレートからタスクとマイルストーンを作成
+Create your first project to get started.,最初のプロジェクトを作成して始めましょう。
+Create your first task to start tracking work on this project.,最初のタスクを作成して、このプロジェクトの作業管理を始めましょう。
+Created,作成済み
+Creating...,作成中...
+Critical,重大
+Critical Path,クリティカルパス
+"Currency used for budgets, costs, and billing rates",予算、コスト、請求レートに使用する通貨
+Current,現在
+Current Assignments,現在の割り当て
+Current scheduled time:,現在の予定時刻：
+Currently running version,Currently running version
+d lag,日の遅延
+Daily Availability,1日の空き時間
+Daily Hours,1日の時間
+Danger Zone,危険な操作
+Dark,ダーク
+Dashboard,ダッシュボード
+Date,日付
+Date changes on this task will show cascade impact here,このタスクの日付変更のカスケード影響がここに表示されます
+Date cleared,日付をクリアしました
+Date of Joining,入社日
+Date updated,日付を更新しました
+Dates,日付
+Dates cascaded,日付をカスケードしました
+Dates will be relative to the project's start date.,日付はプロジェクトの開始日からの相対日数になります。
+Day,日
+day,日
+days,日
+Days before due date to send reminder,期限の何日前にリマインダーを送信するか
+Days Overdue,遅延日数
+Days Remaining,残り日数
+Deadline,締め切り
+Deadlines,締め切り
+Decision,決定
+Decline,辞退する
+Declined,辞退済み
+Default Currency,デフォルト通貨
+Default hours per week for contact capacity planning,連絡先のキャパシティ計画用のデフォルト週間時間
+Default Priority,デフォルト優先度
+Default Project Status,デフォルトのプロジェクトステータス
+Default Task Status,デフォルトのタスクステータス
+Default task view,デフォルトのタスク表示
+Default Values,デフォルト値
+Default Weekly Capacity,デフォルト週間キャパシティ
+Defaults,デフォルト
+Defect Cost Impact,不具合のコスト影響
+Defect name is required,不具合名は必須です
+Defect Type,不具合の種類
+Defect {0} not found,不具合 {0} が見つかりません
+Defects,不具合
+Defects & Issues,不具合と問題
+Defects Resolved,解決済みの不具合
+Delayed,遅延
+Delete,削除
+Delete Activity Data,アクティビティデータを削除
+Delete all read notifications?,既読の通知をすべて削除しますか？
+Delete comment,コメントを削除
+Delete Contact,連絡先を削除
+Delete Event,イベントを削除
+Delete Event?,イベントを削除しますか？
+Delete failed,削除に失敗しました
+Delete file,ファイルを削除
+Delete item,項目を削除
+Delete note,メモを削除
+Delete Project,プロジェクトを削除
+Delete Task,タスクを削除
+Delete this project,このプロジェクトを削除
+Deleted,削除済み
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)",プロジェクト「{0}」を削除しました（タスク {1} 件、マイルストーン {2} 件）
+Deletes notes and preferences. Source document is not affected.,メモと設定を削除します。元のドキュメントには影響しません。
+Deleting...,削除中...
+Department,部署
+Dependencies,依存関係
+dependencies,依存関係
+Dependencies are informational only,依存関係は参考情報です
+dependency,依存関係
+Dependency already exists,依存関係は既に存在します
+Dependency Chain,依存関係チェーン
+Dependency created,依存関係を作成しました
+Dependency mode updated,依存関係モードを更新しました
+Dependency name is required,依存関係名は必須です
+Dependency task {0} not found,依存タスク {0} が見つかりません
+Dependency {0} not found,依存関係 {0} が見つかりません
+depends,依存
+Depends on Group,グループに依存
+Depends on task is required,依存タスクは必須です
+depends on...,依存先...
+Descending -- click to reverse,降順 -- クリックで逆順に
+Describe the defect in detail...,不具合を詳しく説明してください...
+Description,説明
+Description updated,説明を更新しました
+Designation,役職
+"Detailed description of the defect, location, and impact",不具合の詳細、場所、影響の説明
+Details,詳細
+Discard timer,タイマーを破棄
+Discussion,ディスカッション
+Dismiss,Dismiss
+Display,表示
+Document,ドキュメント
+Document attached to project,プロジェクトにドキュメントを添付しました
+Document final decision and rationale,最終決定と理由を記録
+Documentation Review,ドキュメントレビュー
+Documents,ドキュメント
+Done,完了
+Download,ダウンロード
+Drag to create dependency,ドラッグして依存関係を作成
+Dry Run,テスト実行
+Dry Run Complete,テスト実行完了
+Due Date,期限
+Due date,期限
+Due Date (Earliest),期限（最も早い）
+Due date cannot be before start date,期限は開始日より前にできません
+Due date is in the past,期限が過去の日付です
+Due Date Reminders,期限リマインダー
+Due Diligence,デューデリジェンス
+Due Diligence Checklist,デューデリジェンスチェックリスト
+Due This Week,今週が期限
+Due:,期限：
+Duplicate events are not allowed,イベントの重複は許可されていません
+Duplicate failed,複製に失敗しました
+Duplicate Task,タスクを複製
+Duration,期間
+Duration Summary,期間の概要
+Duration:,期間：
+e.g. Cracked wall finish in bathroom...,例：浴室の壁仕上げのひび割れ...
+"e.g. Electrical, Plumbing...",例：電気、配管...
+Edit,編集
+Edit (E),編集 (E)
+Edit dependency,依存関係を編集
+Edit Event,イベントを編集
+Efficiency,効率
+Either dependency_name or depends_on is required,dependency_nameまたはdepends_onが必要です
+Email,メール
+Email invitations to all attendees,すべての参加者にメールで招待を送信
+Email is required to create portal user,ポータルユーザーの作成にはメールアドレスが必要です
+Email notifications,メール通知
+Employee,従業員
+Employee DocType not available,従業員DocTypeが利用できません
+Employee not found,従業員が見つかりません
+Enable or disable optional features,オプション機能の有効・無効を切り替え
+Enable Time Tracking,時間記録を有効にする
+End,終了
+End Date,終了日
+End date,終了日
+End Date cannot be before Start Date,終了日は開始日より前にできません
+End date cannot be before start date,終了日は開始日より前にできません
+End date updated,終了日を更新しました
+End time was before start time. Adjusted to 1 hour after start.,終了時刻が開始時刻より前でした。開始の1時間後に調整しました。
+End:,終了：
+Enter milestone name...,マイルストーン名を入力...
+Enter project name,プロジェクト名を入力
+Enter task title...,タスクのタイトルを入力...
+Enter template name,テンプレート名を入力
+Enter your note... Use @name to mention someone,メモを入力... @名前でメンション
+Error,エラー
+Error loading activity,アクティビティの読み込みエラー
+Error loading contacts,連絡先の読み込みエラー
+Error loading dashboard,ダッシュボードの読み込みエラー
+Error loading project,プロジェクトの読み込みエラー
+Error loading projects,プロジェクト一覧の読み込みエラー
+Error loading settings,設定の読み込みエラー
+Error loading tasks,タスクの読み込みエラー
+Error loading templates,テンプレートの読み込みエラー
+Est. Hours,見積時間
+Estimated,見積
+Estimated Cost,見積コスト
+Estimated Cost (€),見積コスト (€)
+Estimated Hours,見積時間
+Estimated:,見積：
+Evaluate potential risks and concerns,潜在的なリスクと懸念事項を評価
+Event,イベント
+Event is required for event context,イベントコンテキストにはイベントが必要です
+Event is required when tracking context is 'event',追跡コンテキストが「イベント」の場合、イベントは必須です
+Event Type,イベントタイプ
+Events,イベント
+Events not available. Please run: bench --site orga.localhost migrate,イベントが利用できません。以下を実行してください：bench --site orga.localhost migrate
+Events:,イベント：
+Expert,上級
+Explain why you are proposing a different time...,別の時間を提案する理由を説明してください...
+Export,エクスポート
+Export failed,エクスポートに失敗しました
+Export JSON,JSONをエクスポート
+Exported,エクスポート済み
+Exported to timesheet {0},タイムシート {0} にエクスポートしました
+External,外部
+Failed to add item,項目の追加に失敗しました
+Failed to add note,メモの追加に失敗しました
+Failed to add skill,スキルの追加に失敗しました
+Failed to apply cascade changes: {0},カスケード変更の適用に失敗しました：{0}
+Failed to create defect,不具合の作成に失敗しました
+Failed to create dependency,依存関係の作成に失敗しました
+Failed to create event,イベントの作成に失敗しました
+Failed to create milestone,マイルストーンの作成に失敗しました
+Failed to create project,プロジェクトの作成に失敗しました
+Failed to create task,タスクの作成に失敗しました
+Failed to create time log,時間記録の作成に失敗しました
+Failed to delete,削除に失敗しました
+Failed to delete comment,コメントの削除に失敗しました
+Failed to delete contact,連絡先の削除に失敗しました
+Failed to load,読み込みに失敗しました
+Failed to load activity,アクティビティの読み込みに失敗しました
+Failed to load assignments,割り当ての読み込みに失敗しました
+Failed to load contact,連絡先の読み込みに失敗しました
+Failed to load dashboard data,ダッシュボードデータの読み込みに失敗しました
+Failed to load defects,不具合の読み込みに失敗しました
+Failed to load events,イベントの読み込みに失敗しました
+Failed to load project,プロジェクトの読み込みに失敗しました
+Failed to load projects,プロジェクト一覧の読み込みに失敗しました
+Failed to load report data,レポートデータの読み込みに失敗しました
+Failed to load settings,設定の読み込みに失敗しました
+Failed to load tasks,タスクの読み込みに失敗しました
+Failed to move task,タスクの移動に失敗しました
+Failed to post comment,コメントの投稿に失敗しました
+Failed to propose new time,新しい時間の提案に失敗しました
+Failed to remove item,項目の削除に失敗しました
+Failed to remove skill,スキルの削除に失敗しました
+Failed to reorder milestones: {0},マイルストーンの並べ替えに失敗しました：{0}
+Failed to reorder tasks: {0},タスクの並べ替えに失敗しました：{0}
+Failed to reschedule dependent tasks: {0},依存タスクの再スケジュールに失敗しました：{0}
+Failed to save,保存に失敗しました
+Failed to save preferences,設定の保存に失敗しました
+Failed to save settings,設定の保存に失敗しました
+Failed to submit request. Please try again.,リクエストの送信に失敗しました。もう一度お試しください。
+Failed to update item,項目の更新に失敗しました
+Failed to update priority,優先度の更新に失敗しました
+Failed to update task,タスクの更新に失敗しました
+Failed to update tasks: {0},タスクの更新に失敗しました：{0}
+Failed to upload avatar,アバターのアップロードに失敗しました
+Feature,機能
+Features,機能
+FF (Finish-Finish),FF（終了-終了）
+FF - Finish-to-Finish,FF - 終了-終了
+Field has been updated,フィールドを更新しました
+Field name is required for 'Set Field Value' action,「フィールド値を設定」アクションにはフィールド名が必要です
+Field {0} is not a Link field,フィールド {0} はリンクフィールドではありません
+Field {0} not found in {1},{1} にフィールド {0} が見つかりません
+File,ファイル
+file,ファイル
+File does not belong to this task,ファイルはこのタスクに属していません
+File name is required,ファイル名は必須です
+File uploaded,ファイルをアップロードしました
+File {0} not found,ファイル {0} が見つかりません
+Files,ファイル
+files,ファイル
+Filter,フィルター
+Final Decision,最終決定
+Finance,財務
+Financial,財務
+Finish-to-Finish,終了-終了
+Finish-to-Start,終了-開始
+Flag,フラグ
+Flag for attention,注意フラグを付ける
+Flagged,フラグ付き
+Focus Panel,フォーカスパネル
+Follows your system preference. Currently:,システムの設定に従います。現在：
+Frappe Project {0} not found,Frappeプロジェクト {0} が見つかりません
+Frappe Projects Migration,Frappe Projects移行
+Frappe Projects module not available,Frappe Projectsモジュールが利用できません
+Frappe Projects module not installed,Frappe Projectsモジュールがインストールされていません
+Frappe Projects sync is not enabled,Frappe Projects同期が有効になっていません
+Frappe Task DocType not found,FrappeタスクDocTypeが見つかりません
+Frappe Task has no project,Frappeタスクにプロジェクトがありません
+Frappe Task {0} not found,Frappeタスク {0} が見つかりません
+Fri,金
+From,開始
+From Template,テンプレートから
+FS (Finish-Start),FS（終了-開始）
+FS - Finish-to-Start (default),FS - 終了-開始（デフォルト）
+Full form view with audit trail,変更履歴付きの完全なフォーム表示
+Full name,氏名
+Gantt,Gantt
+Gantt Chart,Ganttチャート
+Gantt View,Ganttビュー
+General Note,一般メモ
+Get started,始める
+Go back,戻る
+Go Back,戻る
+Group by,グループ化
+Group dependency removed,グループ依存関係を削除しました
+Group dependency set,グループ依存関係を設定しました
+Group removed,グループを削除しました
+Group updated,グループを更新しました
+Hammock task dates are auto-calculated and cannot be changed manually,ハンモックタスクの日付は自動計算されるため手動で変更できません
+Have a question or need assistance? Fill out the form below and our team will get back to you.,ご質問やサポートが必要ですか？以下のフォームにご記入ください。担当者からご連絡いたします。
+Health,健全性
+Healthy,良好
+Hello {0},こんにちは {0}
+Here's what's happening with your projects today.,本日のプロジェクトの状況をお知らせします。
+Hide,非表示
+High,高
+History,履歴
+Home,ホーム
+Hourly Cost,時間単価
+Hours,時間
+hours,時間
+Hours Logged,記録済み時間
+ID,ID
+Image must be smaller than 5 MB,画像は5MB以下にしてください
+Import,インポート
+Import existing projects and tasks from Frappe Projects module,Frappe Projectsモジュールから既存のプロジェクトとタスクをインポート
+Import failed,インポートに失敗しました
+Import Template,テンプレートをインポート
+Imported,インポート済み
+in,内
+In Progress,進行中
+In Review,レビュー中
+In-app notifications,アプリ内通知
+Inactive,無効
+Initial Review,初回レビュー
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,すべてのタスクを表示する権限がありません
+Intermediate,中級
+Internal,内部
+Invalid DocType,無効なDocType
+Invalid DocType for import,インポートに無効なDocType
+Invalid item type: {0},無効な項目タイプ：{0}
+Invalid JSON data,無効なJSONデータ
+Invalid note type. Must be one of: {0},無効なメモタイプです。次のいずれかである必要があります：{0}
+Invalid project reference,無効なプロジェクト参照
+Invalid reaction type. Must be one of: {0},無効なリアクションタイプです。次のいずれかである必要があります：{0}
+Invalid RSVP status,無効なRSVPステータス
+Invalid status. Must be one of: {0},無効なステータスです。次のいずれかである必要があります：{0}
+Invalid status: {0},無効なステータス：{0}
+Invalid status: {0}. Must be one of: {1},無効なステータス：{0}。次のいずれかである必要があります：{1}
+Invalid tracking context: {0},無効な追跡コンテキスト：{0}
+Invalid visibility. Must be one of: {0},無効な公開範囲です。次のいずれかである必要があります：{0}
+Invitation: {0} - {1} at {2},招待：{0} - {1}（{2}）
+Invite People,メンバーを招待
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.",あなたのせいではありません、リンクの問題です。お探しのページは移動、名前変更されたか、コーヒーブレイク中かもしれません。プロジェクトとデータは完全に安全です。
+Item added,項目を追加しました
+Item ID is required,項目IDは必須です
+Item removed,項目を削除しました
+Item type is required,項目タイプは必須です
+Item {0} not found,項目 {0} が見つかりません
+Job title or role,役職
+Join Meeting,会議に参加
+Just now,たった今
+just now,たった今
+Kanban,Kanban
+Kanban Board,Kanbanボード
+Kanban View,Kanbanビュー
+Keyboard Shortcuts,キーボードショートカット
+Keyboard shortcuts (?),キーボードショートカット (?)
+Last checked: {0},Last checked: {0}
+Last Updated,最終更新
+Last updated:,最終更新：
+Last Week,先週
+Latest Version,Latest Version
+Light,ライト
+Link failed,リンクに失敗しました
+Link Task,タスクをリンク
+Linked,リンク済み
+Linked employee not found,リンクされた従業員が見つかりません
+Linked Tasks,リンク済みタスク
+List,リスト
+List View,リストビュー
+Load failed,読み込みに失敗しました
+Load More,もっと読み込む
+Load more comments,コメントをもっと読み込む
+Loading activity...,アクティビティを読み込み中...
+Loading changes...,変更を読み込み中...
+Loading checklist...,チェックリストを読み込み中...
+Loading comments...,コメントを読み込み中...
+Loading contact...,連絡先を読み込み中...
+Loading contacts...,連絡先一覧を読み込み中...
+Loading dependencies...,依存関係を読み込み中...
+Loading details...,詳細を読み込み中...
+Loading discussion...,ディスカッションを読み込み中...
+Loading events...,イベントを読み込み中...
+Loading files...,ファイルを読み込み中...
+Loading notes...,メモを読み込み中...
+Loading preferences...,設定を読み込み中...
+Loading project...,プロジェクトを読み込み中...
+Loading projects...,プロジェクト一覧を読み込み中...
+Loading replies...,返信を読み込み中...
+Loading report data...,レポートデータを読み込み中...
+Loading settings...,設定を読み込み中...
+Loading task...,タスクを読み込み中...
+Loading templates...,テンプレートを読み込み中...
+Loading time logs...,時間記録を読み込み中...
+Loading your portal...,ポータルを読み込み中...
+Loading...,読み込み中...
+Location,場所
+Log Time,時間を記録
+Logout,ログアウト
+Low,低
+Make Offer,提案する
+Manager,マネージャー
+Manual Entry,手動入力
+Margin,マージン
+Mark all as read,すべて既読にする
+Mark all read,すべて既読にする
+Mark as read,既読にする
+Mark as unread,未読にする
+Mark read,既読にする
+Marking...,処理中...
+Material,資材
+Maybe,未定
+Medium,中
+Meeting,会議
+Meeting Link,会議リンク
+Meeting title,会議タイトル
+Meeting URL,会議URL
+Meetings,会議
+Mention,メンション
+Message,メッセージ
+Message is required,メッセージは必須です
+Message is required for '{0}' action,「{0}」アクションにはメッセージが必要です
+Migrate,移行
+Migration Complete,移行完了
+Migration ID:,移行ID：
+Migration log not found: {0},移行ログが見つかりません：{0}
+Milestone,マイルストーン
+milestone,マイルストーン
+Milestone created,マイルストーンを作成しました
+Milestone description has been saved.,マイルストーンの説明を保存しました。
+Milestone ID is required,マイルストーンIDは必須です
+Milestone marked as Missed (past due date),マイルストーンを未達に設定しました（期限超過）
+Milestone moved,マイルストーンを移動しました
+Milestone Name,マイルストーン名
+Milestone name has been saved.,マイルストーン名を保存しました。
+Milestone name is required,マイルストーン名は必須です
+Milestone updated,マイルストーンを更新しました
+Milestone {0} not found,マイルストーン {0} が見つかりません
+Milestone {0} not in project {1},マイルストーン {0} はプロジェクト {1} に含まれていません
+Milestones,マイルストーン
+milestones,マイルストーン
+Milestones:,マイルストーン：
+Minutes,分
+Missed,未達
+Mixed,混合
+Mobile,モバイル
+Moderate,中程度
+Modified,更新日
+"Modify details, time, or attendees",詳細、時間、または参加者を変更
+Mon,月
+Month,月
+Move failed,移動に失敗しました
+Must be a positive number,正の数である必要があります
+Must finish before this finishes,これが終了する前に完了する必要があります
+Must finish before this starts,これが開始する前に完了する必要があります
+Must start before this finishes,これが終了する前に開始する必要があります
+Must start before this starts,これが開始する前に開始する必要があります
+My Assignments,自分の割り当て
+My Projects,自分のプロジェクト
+My Schedule,自分のスケジュール
+My Tasks,自分のタスク
+N/A,該当なし
+Name,名前
+Name (A-Z),名前 (A-Z)
+Name (Z-A),名前 (Z-A)
+Name cannot exceed 255 characters,名前は255文字以内にしてください
+Need help?,お困りですか？
+Needs Attention,要対応
+Never,Never
+new activities,新しいアクティビティ
+New Activity,新しいアクティビティ
+New activity,新しいアクティビティ
+New Event,新しいイベント
+New index is required,新しいインデックスは必須です
+New Project,新しいプロジェクト
+New tasks will auto-trail by default.,新しいタスクはデフォルトで自動スライドが有効になります。
+Newest First,新しい順
+Next,次へ
+Next 14 days,今後14日間
+Next 30 days,今後30日間
+Next 60 days,今後60日間
+Next 7 days,今後7日間
+Next 90 days,今後90日間
+Next Week,来週
+Next:,次：
+No,いいえ
+No active assignments,有効な割り当てはありません
+No active projects,進行中のプロジェクトはありません
+No active timer found,実行中のタイマーが見つかりません
+No activity selected,アクティビティが選択されていません
+No assignments found,割り当てが見つかりません
+No attendees,参加者なし
+no change,変更なし
+No changes for this field.,このフィールドに変更はありません。
+No changes recorded for this activity.,このアクティビティの変更は記録されていません。
+No checklist items yet,チェックリスト項目はまだありません
+No checklist items yet.,チェックリスト項目はまだありません。
+No comments yet,コメントはまだありません
+No comments yet.,コメントはまだありません。
+No contacts available,利用可能な連絡先はありません
+No content for this tab,このタブにコンテンツはありません
+No data available,データがありません
+No data available for the selected filters,選択したフィルターに該当するデータがありません
+No data to export,エクスポートするデータがありません
+No dates set,日付が設定されていません
+No defects reported,不具合の報告はありません
+No dependencies defined,依存関係が定義されていません
+No description,説明なし
+No discussion yet.,ディスカッションはまだありません。
+No documents attached,添付ドキュメントはありません
+No due date,期限なし
+No employee linked to this resource,このリソースにリンクされた従業員はいません
+No ERPNext employee linked to resource,リソースにERPNext従業員がリンクされていません
+No events found,イベントが見つかりません
+No files attached yet.,添付ファイルはまだありません。
+No Frappe Project linked,Frappeプロジェクトがリンクされていません
+No Grouping,グループ化なし
+No items,項目なし
+No matching tasks,一致するタスクはありません
+No matching tasks found,一致するタスクが見つかりません
+No migration history,移行履歴はありません
+No Milestone,マイルストーンなし
+No milestones,マイルストーンなし
+No milestones defined for this project.,このプロジェクトにマイルストーンは定義されていません。
+No notes yet.,メモはまだありません。
+No notes yet. Add a due diligence note to track progress.,メモはまだありません。デューデリジェンスのメモを追加して進捗を管理しましょう。
+No notifications,通知はありません
+No Orga Project linked to Frappe Project {0},Frappeプロジェクト {0} にOrgaプロジェクトがリンクされていません
+No overdue tasks,遅延タスクはありません
+No pending cascade changes,保留中のカスケード変更はありません
+No predecessors - this task can start independently,先行タスクなし — このタスクは独立して開始できます
+No project,プロジェクトなし
+No projects found,プロジェクトが見つかりません
+No Projects Yet,プロジェクトはまだありません
+No recent activity,最近のアクティビティはありません
+No related documents,関連ドキュメントはありません
+No resolved threads.,解決済みのスレッドはありません。
+No resources found,リソースが見つかりません
+No results found,結果が見つかりません
+No skills listed,登録されたスキルはありません
+No skills recorded yet,スキルはまだ登録されていません
+No successors - no tasks are waiting for this one,後続タスクなし — このタスクを待っているタスクはありません
+No task selected,タスクが選択されていません
+No tasks assigned to you,あなたに割り当てられたタスクはありません
+No tasks available to add,追加できるタスクはありません
+No tasks found,タスクが見つかりません
+No tasks linked to this milestone,このマイルストーンにリンクされたタスクはありません
+No tasks with dates to display,表示する日付付きタスクはありません
+No tasks yet,タスクはまだありません
+No team members,チームメンバーはいません
+No template,テンプレートなし
+No templates yet,テンプレートはまだありません
+No time data found,時間データが見つかりません
+No time logged today,本日の時間記録はありません
+No time logged yet,時間記録はまだありません
+No time logs for this period,この期間の時間記録はありません
+No time logs found,時間記録が見つかりません
+No unread notifications,未読通知はありません
+No update information available yet.,No update information available yet.
+None,なし
+Not found,見つかりません
+Not permitted,権限がありません
+Not permitted to access this project,このプロジェクトへのアクセスは許可されていません
+Not permitted to access this task,このタスクへのアクセスは許可されていません
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,このドキュメントへのコメントは許可されていません
+Not permitted to create clients,クライアントの作成は許可されていません
+Not permitted to delete this client,このクライアントの削除は許可されていません
+Not permitted to delete this defect,この不具合の削除は許可されていません
+Not permitted to delete this note,このメモの削除は許可されていません
+Not permitted to delete this project,このプロジェクトの削除は許可されていません
+Not permitted to delete this task,このタスクの削除は許可されていません
+Not permitted to delete this time log,この時間記録の削除は許可されていません
+Not permitted to invite clients,クライアントの招待は許可されていません
+Not permitted to modify client access,クライアントのアクセス権変更は許可されていません
+Not permitted to modify this project,このプロジェクトの変更は許可されていません
+Not permitted to update settings,設定の更新は許可されていません
+Not permitted to update this client,このクライアントの更新は許可されていません
+Not permitted to view this client,このクライアントの閲覧は許可されていません
+not sent,未送信
+Not set,未設定
+Not specified,未指定
+Note,メモ
+Note (optional),メモ（任意）
+Note Content,メモの内容
+Note content is required,メモの内容は必須です
+Note name is required,メモ名は必須です
+Note not found,メモが見つかりません
+Note Type,メモの種類
+Notes,メモ
+Notification,通知
+Notification not found,通知が見つかりません
+Notifications,通知
+Off Track,遅れ
+Offer,提案
+Offer Prepared,提案書作成済み
+Oldest First,古い順
+On Hold,保留中
+On Leave,休暇中
+On Track,順調
+On-Time Rate,定時完了率
+Only administrators can delete activities,アクティビティを削除できるのは管理者のみです
+Only the comment author or administrators can delete comments,コメントを削除できるのは投稿者または管理者のみです
+Only you and admins,自分と管理者のみ
+Open,未着手
+Open in Desk,Deskで開く
+Open Task Log,タスクログを開く
+Open Tasks,未完了タスク
+Optional,任意
+optional,任意
+Or email us directly at,またはメールでお問い合わせ：
+Orga Project {0} from Frappe Projects,Frappe ProjectsからのOrgaプロジェクト {0}
+Orga Task {0} from Frappe,FrappeからのOrgaタスク {0}
+Organizer,主催者
+Other,その他
+Over Budget,予算超過
+Overall Progress,全体の進捗
+Overall Utilization,全体の稼働率
+Overallocated,過剰割り当て
+Overdue,期限超過
+overdue,期限超過
+Overdue Tasks,期限超過タスク
+Overview,概要
+Owner,オーナー
+Page Not Found,ページが見つかりません
+Parent,親
+Parent comment must belong to the same document,親コメントは同じドキュメントに属している必要があります
+Parent comment not found,親コメントが見つかりません
+Parent project not synced to Frappe yet,親プロジェクトはまだFrappeに同期されていません
+Parent project sync not enabled,親プロジェクトの同期が有効になっていません
+Partner,パートナー
+Pending,保留
+per page,件/ページ
+Perform initial assessment and background check,初期評価と経歴確認を実施
+Permanently remove this event,このイベントを完全に削除
+Permanently remove this task,このタスクを完全に削除
+Phone,電話
+Pin,ピン留め
+Pin Activity,アクティビティをピン留め
+Pin to top,先頭にピン留め
+Pinned,ピン留め済み
+Planned budget for this task,このタスクの予定予算
+Planning,計画中
+Please describe your question or issue in detail...,ご質問や問題を詳しく説明してください...
+Please login to access Orga,Orgaにアクセスするにはログインしてください
+Please login to access the client portal,クライアントポータルにアクセスするにはログインしてください
+Please respond to this invitation in Orga,Orgaでこの招待に返答してください
+Please select an image file,画像ファイルを選択してください
+Please try again,もう一度お試しください
+Please type,入力してください
+Portal,ポータル
+Portal access revoked for {0},{0} のポータルアクセスを取り消しました
+Portal user created successfully. Welcome email {0},ポータルユーザーを作成しました。ウェルカムメール {0}
+Post,投稿
+Powered by,提供元
+Powered by Tonic,提供元：Tonic
+Predecessors (Blocked By),先行タスク（ブロック元）
+Preferences,設定
+Preferences saved successfully,設定を保存しました
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",自動生成プロジェクトコードのプレフィックス（例：ORG-2026-0001）
+Prepare and document offer terms,提案条件を準備・記録
+Press,押す
+Preview,プレビュー
+Preview cascade before applying,適用前にカスケードをプレビュー
+Previous,前へ
+Priority,優先度
+Priority assigned to new tasks,新しいタスクに割り当てる優先度
+Priority updated,優先度を更新しました
+Proficiency,習熟度
+Profile,プロフィール
+Progress,進捗
+Progress (High-Low),進捗（高い順）
+Progress (Low-High),進捗（低い順）
+Progress Overview,進捗の概要
+Progress updated,進捗を更新しました
+Project,プロジェクト
+Project budget has been saved.,プロジェクト予算を保存しました。
+Project code (e.g. ORG-2026-0001),プロジェクトコード（例：ORG-2026-0001）
+Project Code Prefix,プロジェクトコードプレフィックス
+Project created,プロジェクトを作成しました
+Project deleted,プロジェクトを削除しました
+Project description has been saved.,プロジェクトの説明を保存しました。
+Project Details,プロジェクトの詳細
+Project end date has been saved.,プロジェクトの終了日を保存しました。
+Project Files,プロジェクトファイル
+Project has no linked client,プロジェクトにクライアントがリンクされていません
+Project Health,プロジェクトの健全性
+Project Info,プロジェクト情報
+Project is required,プロジェクトは必須です
+Project is required for project context,プロジェクトコンテキストにはプロジェクトが必要です
+Project is required when tracking context is 'project',追跡コンテキストが「プロジェクト」の場合、プロジェクトは必須です
+Project Manager,プロジェクトマネージャー
+Project Name,プロジェクト名
+Project name and template name are required,プロジェクト名とテンプレート名は必須です
+Project name is required,プロジェクト名は必須です
+Project not found,プロジェクトが見つかりません
+Project not found or you do not have access,プロジェクトが見つからないか、アクセス権がありません
+Project settings,プロジェクト設定
+Project start date has been saved.,プロジェクトの開始日を保存しました。
+Project title has been saved.,プロジェクトのタイトルを保存しました。
+Project Type,プロジェクトタイプ
+Project updated,プロジェクトを更新しました
+Project {0} linked to client {1},プロジェクト {0} をクライアント {1} にリンクしました
+Project {0} not found,プロジェクト {0} が見つかりません
+Project {0} to Frappe Projects,プロジェクト {0} をFrappe Projectsへ
+Project:,プロジェクト：
+Projects,プロジェクト
+projects,プロジェクト
+Projects created:,作成済みプロジェクト：
+Projects Overview,プロジェクト概要
+Projects skipped:,スキップされたプロジェクト：
+Projects updated:,更新済みプロジェクト：
+Promote failed,昇格に失敗しました
+Promote to task,タスクに昇格
+Promoted to task,タスクに昇格しました
+Propose,提案する
+Propose New Time,新しい時間を提案
+Propose Time,時間を提案
+Proposed End,提案終了
+Proposed Start,提案開始
+Public,公開
+Quick Action,クイックアクション
+Quick Actions,クイックアクション
+Quick Stats,簡易統計
+Rates,単価
+Receive notifications via email,メールで通知を受け取る
+Receive notifications within the application,アプリ内で通知を受け取る
+Recent Activity,最近のアクティビティ
+Recipient {0} is not a valid user,受信者 {0} は有効なユーザーではありません
+Reference,参照
+Refresh,更新
+Related,関連
+Related Company (optional),関連会社（任意）
+Related Documents,関連ドキュメント
+Related Project,関連プロジェクト
+Remaining,残り
+Reminder,リマインダー
+Reminder Lead Time,リマインダーのリードタイム
+Reminder: {0} - {1} at {2},リマインダー：{0} - {1}（{2}）
+Remove,削除
+Remove dependency,依存関係を削除
+Remove dependency on,次への依存関係を削除
+Remove from group,グループから削除
+Remove group dependency,グループ依存関係を削除
+Remove skill,スキルを削除
+Reopen,再開する
+Reopen thread,スレッドを再開
+reopened,再開済み
+replies,返信
+Reply,返信
+reply,返信
+Replying to,返信先
+Replying to comment,コメントに返信
+Report Defect,不具合を報告
+Reported Date,報告日
+Reports,レポート
+Reports To,上司
+Request Submitted!,リクエストを送信しました！
+Required,必須
+required,必須
+Research,調査
+Reset to Defaults,デフォルトにリセット
+Resolve,解決する
+Resolve thread,スレッドを解決
+Resolved,解決済み
+Resolved date cannot be before reported date,解決日は報告日より前にできません
+Resource,リソース
+Resource and skill name are required,リソースとスキル名は必須です
+Resource is already an attendee,このリソースは既に参加者です
+Resource name is required,リソース名は必須です
+Resource not found,リソースが見つかりません
+Resource synced from employee {0},従業員 {0} からリソースを同期しました
+Resource {0} is already assigned to this task ({1}),リソース {0} は既にこのタスク（{1}）に割り当てられています
+Resource {0} not found,リソース {0} が見つかりません
+Resources,リソース
+Retry,再試行
+Review,レビュー
+Review all relevant documents and contracts,すべての関連ドキュメントと契約を確認
+Reviews,レビュー
+Risk Assessment,リスク評価
+Rollback,ロールバック
+Rolled back,ロールバックしました
+Room or address,部屋または住所
+RSVP,RSVP
+Safety,安全
+Sat,土
+Save,保存
+"Save a project as a template, or import one from a JSON file.",プロジェクトをテンプレートとして保存するか、JSONファイルからインポートします。
+Save as Template,テンプレートとして保存
+Save Changes,変更を保存
+Save failed,保存に失敗しました
+Save Preferences,設定を保存
+Save Template,テンプレートを保存
+Saving...,保存中...
+Schedule,スケジュール
+Schedule type is required for scheduled triggers,スケジュールトリガーにはスケジュールタイプが必要です
+Scheduled,予定済み
+Search,検索
+"Search by name, email, or skill...",名前、メール、スキルで検索...
+Search for a project...,プロジェクトを検索...
+Search for a task...,タスクを検索...
+Search for an event...,イベントを検索...
+Search for people to invite...,招待する人を検索...
+Search tasks to link...,リンクするタスクを検索...
+Search tasks...,タスクを検索...
+Search...,検索...
+Searching...,検索中...
+Seen,確認済み
+Select a project if your request is related to a specific project.,特定のプロジェクトに関連するリクエストの場合は、プロジェクトを選択してください。
+Select a project...,プロジェクトを選択...
+Select a task from the Gantt chart to view and manage its details.,Ganttチャートからタスクを選択して、詳細を表示・管理できます。
+Select a task from the list or Kanban board to view and manage its details.,リストまたはKanbanボードからタスクを選択して、詳細を表示・管理できます。
+Select a template...,テンプレートを選択...
+Select priority...,優先度を選択...
+Select status...,ステータスを選択...
+Select task...,タスクを選択...
+Select type...,タイプを選択...
+Selection,選択
+Send,送信
+Send comment,コメントを送信
+Send email invitations to attendees,参加者にメールで招待を送信
+Send Invitations,招待を送信
+Send notification when a task is assigned to a user,タスクが割り当てられたときに通知を送信
+Send notification when task status changes,タスクのステータスが変更されたときに通知を送信
+Send reminder before task due date,タスクの期限前にリマインダーを送信
+sent,送信済み
+Set rate,単価を設定
+Settings,設定
+Settings saved successfully,設定を保存しました
+Severity,重要度
+SF (Start-Finish),SF（開始-終了）
+SF - Start-to-Finish,SF - 開始-終了
+Show,表示
+Show all,すべて表示
+Show all changes,すべての変更を表示
+Show Archived,アーカイブ済みを表示
+Show full diff,完全な差分を表示
+Show less,折りたたむ
+Show more,もっと見る
+Skill added,スキルを追加しました
+Skill is required,スキルは必須です
+Skill Name,スキル名
+Skill removed,スキルを削除しました
+Skill {0} already exists for this resource,スキル {0} はこのリソースに既に存在します
+Skills,スキル
+Skills & Competencies,スキルと能力
+Skip already migrated projects,移行済みプロジェクトをスキップ
+Sort by,並べ替え
+Sort: Due Date,並べ替え：期限
+Sort: Priority,並べ替え：優先度
+Sort: Project,並べ替え：プロジェクト
+Sort: Status,並べ替え：ステータス
+Sort: Task,並べ替え：タスク
+Source Code,ソースコード
+Spent,使用済み
+Spent:,使用済み：
+SS (Start-Start),SS（開始-開始）
+SS - Start-to-Start,SS - 開始-開始
+Standalone,独立
+Start,開始
+Start a discussion below,以下でディスカッションを開始
+Start Date,開始日
+Start date,開始日
+Start Date (Earliest),開始日（最も早い）
+Start date updated,開始日を更新しました
+Start date/time is required,開始日時は必須です
+Start Migration,移行を開始
+Start the conversation below.,以下で会話を始めましょう。
+Start Timer,タイマーを開始
+Start typing to search...,文字を入力して検索...
+Start-to-Finish,開始-終了
+Start-to-Start,開始-開始
+Start:,開始：
+Statistics reset,統計をリセットしました
+Status,ステータス
+Status assigned to new projects,新しいプロジェクトに割り当てるステータス
+Status assigned to new tasks,新しいタスクに割り当てるステータス
+Status Changes,ステータス変更
+Status updated,ステータスを更新しました
+Status:,ステータス：
+Stop,停止
+Stop & Save,停止して保存
+Stop Timer,タイマーを停止
+Stops current timer and starts for this event,現在のタイマーを停止してこのイベント用に開始
+Stops current timer and starts for this task,現在のタイマーを停止してこのタスク用に開始
+Subject,件名
+Subject cannot exceed 255 characters,件名は255文字以内にしてください
+Subject is required,件名は必須です
+Submit,送信
+Submit Another Request,別のリクエストを送信
+Submit Request,リクエストを送信
+Submitting...,送信中...
+Successfully saved,保存しました
+Successors (Blocking),後続タスク（ブロック中）
+Sun,日
+Supplier,サプライヤー
+Support,サポート
+Switch to this event,このイベントに切り替え
+Switch to this task,このタスクに切り替え
+Sync direction is set to Frappe to Orga only,同期方向はFrappeからOrgaへのみに設定されています
+Sync direction is set to Orga to Frappe only,同期方向はOrgaからFrappeへのみに設定されています
+Sync not enabled for this project,このプロジェクトの同期は有効になっていません
+System,システム
+Table,テーブル
+Take ownership of this task,このタスクの担当になる
+Target Date,目標日
+Target End,目標終了日
+Target Project,対象プロジェクト
+Target user is required for '{0}' action,「{0}」アクションには対象ユーザーが必要です
+Task,タスク
+task,タスク
+Task '{0}' is due on {1}.,タスク「{0}」の期限は {1} です。
+Task and resource are required,タスクとリソースは必須です
+Task Assignment,タスクの割り当て
+Task cannot be its own parent,タスクは自分自身の親にできません
+Task cannot depend on itself,タスクは自分自身に依存できません
+Task cannot depend on the group it belongs to,タスクは所属するグループに依存できません
+Task created,タスクを作成しました
+Task deleted,タスクを削除しました
+Task description has been saved.,タスクの説明を保存しました。
+Task Details,タスクの詳細
+Task due in {0} days: {1},{0} 日後が期限のタスク：{1}
+Task due today: {0},本日が期限のタスク：{0}
+Task due tomorrow: {0},明日が期限のタスク：{0}
+Task duplicated,タスクを複製しました
+Task Group,タスクグループ
+Task ID is required,タスクIDは必須です
+Task is blocked by incomplete dependencies,未完了の依存関係によりタスクがブロックされています
+Task is cancelled,タスクはキャンセルされています
+Task is completed,タスクは完了しています
+Task is no longer blocked by a group,タスクはグループによるブロックが解除されました
+Task is required for task context,タスクコンテキストにはタスクが必要です
+Task is required when tracking context is 'task',追跡コンテキストが「タスク」の場合、タスクは必須です
+Task linked,タスクをリンクしました
+Task moved,タスクを移動しました
+Task name,タスク名
+Task name is required,タスク名は必須です
+Task removed from group,タスクをグループから削除しました
+Task Subject,タスクの件名
+Task subject is required,タスクの件名は必須です
+Task Type,タスクタイプ
+Task unblocked: {0},タスクのブロックを解除しました：{0}
+Task unlinked,タスクのリンクを解除しました
+Task updated,タスクを更新しました
+Task {0} not found,タスク {0} が見つかりません
+Task {0} not in project {1},タスク {0} はプロジェクト {1} に含まれていません
+Task {0} to Frappe,タスク {0} をFrappeへ
+Tasks,タスク
+tasks,タスク
+Tasks and milestones will be created with dates relative to the project start date.,タスクとマイルストーンはプロジェクト開始日からの相対日付で作成されます。
+Tasks assigned to you across all projects.,すべてのプロジェクトであなたに割り当てられたタスク。
+Tasks created:,作成済みタスク：
+Tasks from projects you manage.,あなたが管理するプロジェクトのタスク。
+Tasks updated:,更新済みタスク：
+"Tasks, milestones, and dependencies have been created.",タスク、マイルストーン、依存関係を作成しました。
+Tasks:,タスク：
+TBD,未定
+Team,チーム
+Team Members,チームメンバー
+Template,テンプレート
+Template applied,テンプレートを適用しました
+Template data is required in import data,インポートデータにテンプレートデータが必要です
+Template has no data,テンプレートにデータがありません
+Template Name,テンプレート名
+Template name,テンプレート名
+Template name is required,テンプレート名は必須です
+Template name is required in import data,インポートデータにテンプレート名が必要です
+Template saved,テンプレートを保存しました
+Template updated successfully.,テンプレートを更新しました。
+Template {0} not found,テンプレート {0} が見つかりません
+Templates,テンプレート
+Tentative,仮
+The comment has been deleted,コメントは削除されました
+The project,プロジェクト
+The source document may have been deleted.,元のドキュメントが削除された可能性があります。
+The source document will not be affected.,元のドキュメントには影響しません。
+The status of '{0}' was changed from {1} to {2}.,「{0}」のステータスが {1} から {2} に変更されました。
+Theme,テーマ
+Theme preference,テーマの設定
+This action,この操作
+This action cannot be undone.,この操作は取り消せません。
+This activity has been flagged for attention,このアクティビティには注意フラグが付けられています
+This is a reminder for your upcoming appointment,近日中の予定のリマインダーです
+This method is only meant for developer mode,このメソッドは開発者モード専用です
+This page wandered off,このページは迷子になりました
+This Week,今週
+This will delete all notes and preferences associated with this activity.,このアクティビティに関連するすべてのメモと設定が削除されます。
+This will import all Frappe Projects into Orga. Continue?,すべてのFrappeプロジェクトをOrgaにインポートします。続行しますか？
+This will permanently delete,完全に削除されます
+This will permanently delete:,完全に削除されるもの：
+Thu,木
+Time,時間
+Time & Billing,時間と請求
+Time & Revenue,時間と収益
+Time Entries,時間記録
+Time log name is required,時間記録名は必須です
+Time Log not found,時間記録が見つかりません
+Time log {0} not found,時間記録 {0} が見つかりません
+Time Logs,時間記録
+Time Summary,時間の概要
+Time Tracking,時間管理
+Timeline,タイムライン
+Timer active on,タイマー実行中の対象
+Timer is not running,タイマーは実行されていません
+Timer Running,タイマー実行中
+Timer running,タイマー実行中
+Timesheet DocType not available,タイムシートDocTypeが利用できません
+Timesheets,タイムシート
+Timezone,タイムゾーン
+Timezone is detected from your browser,タイムゾーンはブラウザから自動検出されます
+Title,タイトル
+Title cannot exceed 255 characters,タイトルは255文字以内にしてください
+Title is required,タイトルは必須です
+Title updated,タイトルを更新しました
+To,終了
+to,まで
+to cancel,キャンセルするには
+to close,閉じるには
+to confirm:,確認するには：
+to edit,編集するには
+"to save,",保存するには、
+To Time cannot be before From Time,終了時刻は開始時刻より前にできません
+Today,今日
+today,今日
+Toggle billable,請求対象の切り替え
+Toggle Details Panel,詳細パネルの表示切り替え
+Toggle Manager Panel,管理パネルの表示切り替え
+Toggle Sidebar,サイドバーの表示切り替え
+Tomorrow,明日
+tomorrow,明日
+Total,合計
+Total Budget,合計予算
+Total Contacts,連絡先合計
+Total Cost,合計コスト
+Total Cost to Org,組織への合計コスト
+Total Defect Cost,不具合の合計コスト
+Total Hours,合計時間
+Total Hours Logged,合計記録時間
+Total Projects,プロジェクト合計
+Total Spent,合計使用額
+Total Tasks,タスク合計
+Total:,合計：
+Tracked,追跡済み
+trails to today while Open at 0%,未着手(0%)のまま今日までスライド
+Tried:,試行:
+Try adjusting your filter criteria,フィルター条件を調整してみてください
+Try adjusting your filters.,フィルターを調整してみてください。
+Try Again,再試行
+Tue,火
+Type,タイプ
+Type updated,タイプを更新しました
+Type:,タイプ：
+Typical response time: 1-2 business days,通常の返答時間：1〜2営業日
+Unarchive,アーカイブ解除
+Unarchive Activity,アクティビティのアーカイブ解除
+Unassign,割り当て解除
+Unassigned,未割り当て
+Under Budget,予算内
+Ungrouped,グループなし
+Unknown,不明
+Unknown error,不明なエラー
+Unlink failed,リンク解除に失敗しました
+Unlink task from milestone,マイルストーンからタスクのリンクを解除
+Unpin,ピン留め解除
+Unpin Activity,アクティビティのピン留め解除
+Unread,未読
+Unread only,未読のみ
+Until,まで
+Up to Date,Up to Date
+Upcoming,今後の予定
+upcoming,今後
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,更新に失敗しました
+Updated,更新済み
+Updated successfully,更新しました
+Updates,Updates
+Upload,アップロード
+Upload failed,アップロードに失敗しました
+Upload files below to attach them to this task.,以下にファイルをアップロードしてこのタスクに添付してください。
+Upload to project,プロジェクトにアップロード
+Uploading...,アップロード中...
+Urgent,緊急
+User {0} is already linked to client {1},ユーザー {0} は既にクライアント {1} にリンクされています
+User {0} is already linked to resource {1},ユーザー {0} は既にリソース {1} にリンクされています
+Utilization,稼働率
+Valid,有効
+Value:,値：
+Variance,差異
+Variance:,差異：
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,表示
+View All,すべて表示
+View all active projects,すべての進行中プロジェクトを表示
+View all open tasks,すべての未完了タスクを表示
+View overdue tasks,期限超過タスクを表示
+View Release,View Release
+Visibility,公開範囲
+Waiting for this task,このタスクの完了を待機中
+Waits for:,待機対象：
+Warning: Resource {0} status is {1},警告：リソース {0} のステータスは {1} です
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,警告：HTTPSではなくHTTPを使用しています。Webhookのデータが安全でない可能性があります。
+Watch budget closely,予算を注意深く監視
+We'll respond to:,返信先：
+Webhook deleted,Webhookを削除しました
+Webhook name is required,Webhook名は必須です
+Webhook not found,Webhookが見つかりません
+Webhook URL is required,Webhook URLは必須です
+Webhook URL must start with http:// or https://,Webhook URLは http:// または https:// で始まる必要があります
+Wed,水
+Week,週
+Weekend,週末
+Weekly Capacity,週間キャパシティ
+weekly capacity,週間キャパシティ
+Weekly Capacity (h),週間キャパシティ (時間)
+Welcome,ようこそ
+Welcome back!,おかえりなさい！
+Welcome to Orga,Orgaへようこそ
+What are you working on?,何に取り組んでいますか？
+What did you work on?,何に取り組みましたか？
+When,日時
+When work begins,作業開始日
+When work is due,作業期限日
+Where,場所
+Will capture:,取り込む内容：
+Will create:,作成する内容：
+with checklist items,チェックリスト項目付き
+Working,作業中
+Workload,作業量
+Workmanship,施工品質
+Write a comment...,コメントを入力...
+Write a comment... Use @name to mention (Ctrl+Enter to send),コメントを入力... @名前でメンション (Ctrl+Enterで送信)
+Year,年
+Yes,はい
+Yesterday,昨日
+yesterday,昨日
+You are not an attendee of this appointment,この予定の参加者ではありません
+You are not linked to any resource,リソースにリンクされていません
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,自分のコメントのみ削除できます
+You can only delete your own reactions,自分のリアクションのみ削除できます
+You do not have access to the client portal. Please contact support.,クライアントポータルへのアクセス権がありません。サポートにお問い合わせください。
+You have already reacted with '{0}',既に「{0}」でリアクション済みです
+You have been assigned to task '{0}' in project '{1}'.,プロジェクト「{1}」のタスク「{0}」に割り当てられました。
+You have been assigned to: {0},割り当てられました：{0}
+You have been invited to the following appointment,次の予定に招待されました
+You have no tasks assigned to you right now.,現在、割り当てられたタスクはありません。
+You were mentioned in {0},{0} でメンションされました
+Your attendance,あなたの出欠
+Your comment has been posted,コメントを投稿しました
+Your Projects,あなたのプロジェクト
+Your projects will appear here once they're assigned to you.,プロジェクトが割り当てられると、ここに表示されます。
+Your Response,あなたの返答
+Your RSVP,あなたのRSVP
+Your support request has been submitted successfully.,サポートリクエストを送信しました。
+Your support request has been submitted successfully. We'll get back to you shortly.,サポートリクエストを送信しました。まもなくご連絡いたします。
+"Your task ""{0}"" is no longer blocked and can now be started.",タスク「{0}」のブロックが解除され、開始できるようになりました。
+{0} is required,{0} は必須です
+{0} new activities,{0} 件の新しいアクティビティ
+{0} of {1} completed,{1} 件中 {0} 件完了
+{0} projects already migrated (will be skipped or updated),{0} 件のプロジェクトは移行済みです（スキップまたは更新されます）
+{0} status changed to {1},{0} のステータスが {1} に変更されました
+{0} tasks remaining,残りタスク {0} 件
+{0} tasks without projects will be skipped,プロジェクトなしのタスク {0} 件はスキップされます
+{0} {1} not found,{0} {1} が見つかりません

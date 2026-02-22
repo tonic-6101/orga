@@ -1,0 +1,1622 @@
++ Add Milestone,+ Přidat milník
++ Create Task,+ Vytvořit úkol
++ Log Time,+ Zaznamenat čas
+-- Select a project --,-- Vyberte projekt --
+0m,0m
+1 day,1 den
+1 day ago,před 1 dnem
+1 dependency,1 závislost
+1 entry,1 záznam
+1 file,1 soubor
+1 hour ago,před 1 hodinou
+1 member,1 člen
+1 milestone,1 milník
+1 month,1 měsíc
+1 task,1 úkol
+< 1m,< 1m
+"A clear, actionable title for the task",Jasný a konkrétní název úkolu
+A client with email {0} already exists: {1},Klient s e-mailem {0} již existuje: {1}
+A key deliverable or checkpoint for the project,Klíčový výstup nebo kontrolní bod projektu
+Accept,Přijmout
+Accepted,Přijato
+Acknowledge,Potvrdit přijetí
+across,ve
+Action,Akce
+Actions,Akce
+Active,Aktivní
+Active Assignments,Aktivní přiřazení
+Active Projects,Aktivní projekty
+Activity,Aktivita
+Activity data deleted successfully,Data aktivity byla úspěšně smazána
+Activity Info,Informace o aktivitě
+Activity Stats,Statistiky aktivity
+Activity will appear here as you work on tasks and projects.,Aktivita se zde zobrazí jakmile začnete pracovat na úkolech a projektech.
+Actual,Skutečný
+Actual Cost,Skutečné náklady
+Actual cost cannot be negative,Skutečné náklady nemohou být záporné
+Actual end date cannot be before actual start date,Skutečné datum ukončení nemůže být před skutečným datem zahájení
+Actual Hours,Skutečné hodiny
+Add,Přidat
+Add a checklist item...,Přidat položku kontrolního seznamu...
+Add a comment...,Přidat komentář...
+Add a comment... (Ctrl+Enter to send),Přidat komentář... (Ctrl+Enter pro odeslání)
+Add a description...,Přidat popis...
+Add a milestone description...,Přidat popis milníku...
+Add a note below to annotate this activity.,Přidejte poznámku níže k popisu této aktivity.
+Add a note...,Přidat poznámku...
+Add a project description...,Přidat popis projektu...
+Add a task description...,Přidat popis úkolu...
+Add checklist item...,Přidat položku kontrolního seznamu...
+Add Contact,Přidat kontakt
+Add contacts via the Desk interface or clear filters,Přidejte kontakty přes rozhraní Desk nebo vymažte filtry
+Add Dependency,Přidat závislost
+Add details about this event...,Přidat podrobnosti o této události...
+Add details about this milestone...,Přidat podrobnosti o tomto milníku...
+Add details about this task...,Přidat podrobnosti o tomto úkolu...
+Add details or acceptance criteria for this milestone,Přidat podrobnosti nebo kritéria přijetí pro tento milník
+"Add details, context, or acceptance criteria","Přidat podrobnosti, kontext nebo kritéria přijetí"
+Add first dependency,Přidat první závislost
+Add item,Přidat položku
+Add items below to track progress.,Přidejte položky níže pro sledování postupu.
+Add items below to track subtasks,Přidejte položky níže pro sledování dílčích úkolů
+Add Milestone,Přidat milník
+Add Milestone (Shift+M),Přidat milník (Shift+M)
+Add milestones to track key deliverables.,Přidejte milníky pro sledování klíčových výstupů.
+Add New Contact,Přidat nový kontakt
+Add Note,Přidat poznámku
+Add note,Přidat poznámku
+Add notes about this contact...,Přidat poznámky o tomto kontaktu...
+Add reaction,Přidat reakci
+Add Skill,Přidat dovednost
+Add start and due dates to tasks to see them on the Gantt chart,Přidejte data zahájení a termíny k úkolům aby se zobrazily v Gantt diagramu
+Add Task,Přidat úkol
+Add Task (Shift+T),Přidat úkol (Shift+T)
+Added Finish-to-Start dependency,Přidána závislost Konec-Začátek
+Adding this dependency would create a circular reference: {0},Přidání této závislosti by vytvořilo cyklický odkaz: {0}
+Adding...,Přidávání...
+Address,Adresa
+Advanced,Pokročilé
+All,Vše
+All Active,Všechny aktivní
+All Assignees,Všichni přiřazení
+All Categories,Všechny kategorie
+All caught up!,Vše je aktuální!
+All Contexts,Všechny kontexty
+All day,Celý den
+All day event,Celodenní událost
+All fields,Všechna pole
+All Priorities,Všechny priority
+All Projects,Všechny projekty
+All Status,Všechny stavy
+All Statuses,Všechny stavy
+All task dependencies & relative dates,Všechny závislosti úkolů a relativní data
+All Tasks,Všechny úkoly
+All tasks across all projects.,Všechny úkoly ze všech projektů.
+All tasks are already linked,Všechny úkoly jsou již propojeny
+All team members,Všichni členové týmu
+All Types,Všechny typy
+All Users,Všichni uživatelé
+Allocated,Přiděleno
+allocated,přiděleno
+Allow users to log time against tasks,Povolit uživatelům zaznamenávat čas k úkolům
+Already exported to timesheet {0},Již exportováno do výkazu práce {0}
+Already Migrated,Již migrováno
+Anyone with access,Kdokoli s přístupem
+anytime to show this help,kdykoli pro zobrazení této nápovědy
+App Updates,App Updates
+Appearance,Vzhled
+Apply,Použít
+Apply cascade?,Použít kaskádu?
+Apply Changes,Použít změny
+Apply failed,Použití se nezdařilo
+Apply Template,Použít šablonu
+Applying...,Používání...
+Appointment,Schůzka
+Appointment and resource are required,Schůzka a zdroj jsou povinné
+Appointment name is required,Název schůzky je povinný
+Appointment not found,Schůzka nenalezena
+Appointment {0} not found,Schůzka {0} nenalezena
+Apps,Aplikace
+Archive,Archivovat
+Archive Activity,Archivovat aktivitu
+Archived,Archivováno
+Are you sure you want to delete this activity data? This cannot be undone.,Opravdu chcete smazat tato data aktivity? Tuto akci nelze vrátit zpět.
+Are you sure you want to delete this comment?,Opravdu chcete smazat tento komentář?
+Are you sure you want to delete this project?,Opravdu chcete smazat tento projekt?
+Are you sure?,Opravdu?
+Ascending -- click to reverse,Vzestupně -- klikněte pro obrácení
+Assign To,Přiřadit komu
+Assign to Me,Přiřadit mně
+Assigned Contact,Přiřazený kontakt
+Assigned To,Přiřazeno komu
+Assigned to,Přiřazeno komu
+Assigned to Me,Přiřazeno mně
+Assignee,Přiřazený
+Assignment,Přiřazení
+Assignment History,Historie přiřazení
+Assignment name is required,Název přiřazení je povinný
+Assignment {0} not found,Přiřazení {0} nenalezeno
+Assignments,Přiřazení
+At least one action is required,Je vyžadována alespoň jedna akce
+At least one event is required,Je vyžadována alespoň jedna událost
+At least one event must be selected,Musí být vybrána alespoň jedna událost
+Attachment,Příloha
+Attachments,Přílohy
+Attendees,Účastníci
+"Audit trail, assignments, version history","Záznam auditu, přiřazení, historie verzí"
+Auto,Automaticky
+Auto Calculate Progress,Automaticky počítat postup
+Auto Set Missed Milestones,Automaticky označit zmeškané milníky
+Auto-shift dependents when dates change,Automaticky posunout závislé při změně dat
+Auto-Trail Start,Automatické posouvání začátku
+Auto-Trail updated,Automatické posouvání aktualizováno
+Automatically calculate project progress from task completion,Automaticky počítat postup projektu z dokončení úkolů
+Automatically mark milestones as missed when overdue,Automaticky označit milníky jako zmeškané když jsou po termínu
+Automation rule {0} not found,Pravidlo automatizace {0} nenalezeno
+Automation: {0},Automatizace: {0}
+Availability,Dostupnost
+Available,Dostupný
+Avatar updated successfully,Avatar úspěšně aktualizován
+Avg Progress,Průměrný postup
+Back,Zpět
+Back to Portal,Zpět na portál
+Back to Projects,Zpět na projekty
+Beginner,Začátečník
+Best regards,S pozdravem
+Billable,Fakturovatelné
+Billable Amount,Fakturovatelná částka
+Billable Hours,Fakturovatelné hodiny
+Billable Rate,Fakturovatelná sazba
+Billing Rate,Fakturační sazba
+Blocked,Zablokováno
+Both dates are needed to display task as a bar in Gantt chart,Obě data jsou potřebná pro zobrazení úkolu jako pruhu v Gantt diagramu
+Both doctype and docname are required,Doctype i docname jsou povinné
+Both proposed start and end times are required,Navrhovaný čas začátku i konce jsou povinné
+Both task_name and depends_on are required,task_name i depends_on jsou povinné
+Breadcrumb,Navigační cesta
+Brief description of the defect or damage,Stručný popis vady nebo poškození
+Brief description of this template,Stručný popis této šablony
+Brief description of your request,Stručný popis vašeho požadavku
+Brief project description,Stručný popis projektu
+Budget,Rozpočet
+Budget at risk,Rozpočet ohrožen
+Budget Burn Rate,Tempo čerpání rozpočtu
+Budget Status,Stav rozpočtu
+Budget updated,Rozpočet aktualizován
+Budget:,Rozpočet:
+Bug,Chyba
+Burn Rate,Tempo čerpání
+Busy,Zaneprázdněn
+By,Od
+By Assignee,Podle přiřazeného
+By Group,Podle skupiny
+By Milestone,Podle milníku
+By Priority,Podle priority
+By Status,Podle stavu
+Cancel,Zrušit
+Cancelled,Zrušeno
+cannot be undone,nelze vrátit zpět
+Cannot delete client with {0} linked projects. Unlink projects first.,Nelze smazat klienta s {0} propojenými projekty. Nejprve odpojte projekty.
+Cannot delete project with {0} linked tasks. Delete tasks first.,Nelze smazat projekt s {0} propojenými úkoly. Nejprve smažte úkoly.
+Cannot delete resource with {0} active assignments. Complete or cancel them first.,Nelze smazat zdroj s {0} aktivními přiřazeními. Nejprve je dokončete nebo zrušte.
+Cannot delete task with {0} subtasks. Delete subtasks first.,Nelze smazat úkol s {0} dílčími úkoly. Nejprve smažte dílčí úkoly.
+Capacity,Kapacita
+capacity,kapacita
+Capacity & Rates,Kapacita a sazby
+Capture project structure for reuse,Uložit strukturu projektu pro opakované použití
+Cascade,Kaskáda
+Cascade Preview,Náhled kaskády
+Category,Kategorie
+Celebrate,Oslavit
+Change,Změnit
+Change History,Historie změn
+Change Priority,Změnit prioritu
+Change Status,Změnit stav
+Changes,Změny
+Changes appear when fields are modified.,Změny se zobrazí při úpravě polí.
+Check for new versions of Orga,Check for new versions of Orga
+Check for Updates,Check for Updates
+Checking...,Checking...
+Checklist,Kontrolní seznam
+Checklist item name is required,Název položky kontrolního seznamu je povinný
+Checklist item not found,Položka kontrolního seznamu nenalezena
+Checklist item title is required,Název položky kontrolního seznamu je povinný
+Checklist item {0} not found,Položka kontrolního seznamu {0} nenalezena
+Checklist item {0} not found in task,Položka kontrolního seznamu {0} nenalezena v úkolu
+Child,Podřízený
+Choose file to upload,Vyberte soubor k nahrání
+Circular dependency detected: {0},Zjištěna cyklická závislost: {0}
+Circular parent-child relationship detected,Zjištěn cyklický vztah nadřízený-podřízený
+Clear,Vymazat
+Clear all read,Vymazat všechny přečtené
+Clear date,Vymazat datum
+Click on an activity from the list to view and manage its details.,Klikněte na aktivitu ze seznamu pro zobrazení a správu jejích podrobností.
+Click the avatar to upload a new photo,Klikněte na avatar pro nahrání nové fotky
+Click to add description...,Klikněte pro přidání popisu...
+Click to add notes...,Klikněte pro přidání poznámek...
+Click to assign contact,Klikněte pro přiřazení kontaktu
+Click to change status,Klikněte pro změnu stavu
+Click to change type,Klikněte pro změnu typu
+Click to edit,Klikněte pro úpravu
+Click to edit budget,Klikněte pro úpravu rozpočtu
+Click to edit description,Klikněte pro úpravu popisu
+Click to edit end date,Klikněte pro úpravu data ukončení
+Click to edit milestone name,Klikněte pro úpravu názvu milníku
+Click to edit rate,Klikněte pro úpravu sazby
+Click to edit start date,Klikněte pro úpravu data zahájení
+Click to edit title,Klikněte pro úpravu názvu
+Click to load,Klikněte pro načtení
+Click to set group dependency...,Klikněte pro nastavení závislosti skupiny...
+Click to set group...,Klikněte pro nastavení skupiny...
+Click to view,Klikněte pro zobrazení
+Click to view at-risk projects,Klikněte pro zobrazení ohrožených projektů
+Click to view critical projects,Klikněte pro zobrazení kritických projektů
+Click to view healthy projects,Klikněte pro zobrazení zdravých projektů
+Client,Klient
+Client already has a portal user: {0},Klient již má uživatele portálu: {0}
+Client already has portal access,Klient již má přístup k portálu
+Client has no portal user to revoke,Klient nemá uživatele portálu k odvolání
+Client link removed from project {0},Propojení s klientem odebráno z projektu {0}
+Client Portal,Klientský portál
+Client {0} deleted successfully,Klient {0} úspěšně smazán
+Close,Zavřít
+Close (Esc),Zavřít (Esc)
+Comment,Komentář
+comment,komentář
+Comment added,Komentář přidán
+Comment content is required,Obsah komentáře je povinný
+Comment name is required,Název komentáře je povinný
+Comment not found,Komentář nenalezen
+Comment removed,Komentář odstraněn
+Comment {0} not found in task,Komentář {0} nenalezen v úkolu
+Comments,Komentáře
+comments,komentáře
+Community Edition,Community Edition
+Company,Společnost
+Company name...,Název společnosti...
+Complete,Dokončit
+Completed,Dokončeno
+completed,dokončeno
+Completed Tasks,Dokončené úkoly
+Compliance,Soulad
+Configure default values for new projects and tasks,Nastavit výchozí hodnoty pro nové projekty a úkoly
+Configure email notification settings,Nastavit e-mailová upozornění
+Confirm,Potvrdit
+Contact deleted,Kontakt smazán
+Contact Details,Kontaktní údaje
+Contact Information,Kontaktní informace
+Contact name is required,Jméno kontaktu je povinné
+Contact Support,Kontaktovat podporu
+Contact your project manager for more information.,Pro více informací kontaktujte svého vedoucího projektu.
+Contact:,Kontakt:
+Contacts,Kontakty
+Context,Kontext
+Contractor,Dodavatel
+Cost estimate cannot be negative,Odhad nákladů nemůže být záporný
+Cost Impact,Dopad na náklady
+Cost Summary,Souhrn nákladů
+Could not apply the template. Please try again.,Nepodařilo se použít šablonu. Zkuste to znovu.
+Could not attach file to project,Nepodařilo se připojit soubor k projektu
+Could not change task priority,Nepodařilo se změnit prioritu úkolu
+Could not change task status,Nepodařilo se změnit stav úkolu
+Could not delete the project. Please try again.,Nepodařilo se smazat projekt. Zkuste to znovu.
+Could not delete the task. Please try again.,Nepodařilo se smazat úkol. Zkuste to znovu.
+Could not delete the template.,Nepodařilo se smazat šablonu.
+Could not duplicate the task. Please try again.,Nepodařilo se duplikovat úkol. Zkuste to znovu.
+Could not export the template.,Nepodařilo se exportovat šablonu.
+Could not import the template. Please check the file format.,Nepodařilo se importovat šablonu. Zkontrolujte formát souboru.
+Could not link task to milestone,Nepodařilo se propojit úkol s milníkem
+Could not load document details.,Nepodařilo se načíst podrobnosti dokumentu.
+Could not load task details,Nepodařilo se načíst podrobnosti úkolu
+Could not promote checklist item to task.,Nepodařilo se povýšit položku kontrolního seznamu na úkol.
+Could not remove task from milestone,Nepodařilo se odebrat úkol z milníku
+Could not save budget.,Nepodařilo se uložit rozpočet.
+Could not save changes to the milestone,Nepodařilo se uložit změny milníku
+Could not save changes to the task,Nepodařilo se uložit změny úkolu
+Could not save description.,Nepodařilo se uložit popis.
+Could not save end date.,Nepodařilo se uložit datum ukončení.
+Could not save milestone name.,Nepodařilo se uložit název milníku.
+Could not save start date.,Nepodařilo se uložit datum zahájení.
+Could not save the template. Please try again.,Nepodařilo se uložit šablonu. Zkuste to znovu.
+Could not save title.,Nepodařilo se uložit název.
+Could not update dependency mode.,Nepodařilo se aktualizovat režim závislosti.
+Could not update milestone date,Nepodařilo se aktualizovat datum milníku
+Could not update project status.,Nepodařilo se aktualizovat stav projektu.
+Could not update project type.,Nepodařilo se aktualizovat typ projektu.
+Could not update setting.,Nepodařilo se aktualizovat nastavení.
+Could not update task dates,Nepodařilo se aktualizovat data úkolu
+Could not update task status,Nepodařilo se aktualizovat stav úkolu
+Could not update the template.,Nepodařilo se aktualizovat šablonu.
+Create a copy of this task,Vytvořit kopii tohoto úkolu
+Create Contact,Vytvořit kontakt
+Create Event,Vytvořit událost
+Create Milestone,Vytvořit milník
+Create New Milestone,Vytvořit nový milník
+Create New Task,Vytvořit nový úkol
+Create Project,Vytvořit projekt
+Create Task,Vytvořit úkol
+Create tasks and milestones from a template,Vytvořit úkoly a milníky ze šablony
+Create your first project to get started.,Vytvořte svůj první projekt a začněte.
+Create your first task to start tracking work on this project.,Vytvořte svůj první úkol a začněte sledovat práci na tomto projektu.
+Created,Vytvořeno
+Creating...,Vytváření...
+Critical,Kritický
+Critical Path,Kritická cesta
+"Currency used for budgets, costs, and billing rates","Měna používaná pro rozpočty, náklady a fakturační sazby"
+Current,Aktuální
+Current Assignments,Aktuální přiřazení
+Current scheduled time:,Aktuálně naplánovaný čas:
+Currently running version,Currently running version
+d lag,d zpoždění
+Daily Availability,Denní dostupnost
+Daily Hours,Denní hodiny
+Danger Zone,Nebezpečná zóna
+Dark,Tmavý
+Dashboard,Přehled
+Date,Datum
+Date changes on this task will show cascade impact here,Změny dat tohoto úkolu zobrazí kaskádový dopad zde
+Date cleared,Datum vymazáno
+Date of Joining,Datum nástupu
+Date updated,Datum aktualizováno
+Dates,Data
+Dates cascaded,Data kaskádově aktualizována
+Dates will be relative to the project's start date.,Data budou relativní k datu zahájení projektu.
+Day,Den
+day,den
+days,dny
+Days before due date to send reminder,Dní před termínem pro odeslání připomínky
+Days Overdue,Dní po termínu
+Days Remaining,Zbývající dny
+Deadline,Termín
+Deadlines,Termíny
+Decision,Rozhodnutí
+Decline,Odmítnout
+Declined,Odmítnuto
+Default Currency,Výchozí měna
+Default hours per week for contact capacity planning,Výchozí hodiny za týden pro plánování kapacity kontaktů
+Default Priority,Výchozí priorita
+Default Project Status,Výchozí stav projektu
+Default Task Status,Výchozí stav úkolu
+Default task view,Výchozí zobrazení úkolů
+Default Values,Výchozí hodnoty
+Default Weekly Capacity,Výchozí týdenní kapacita
+Defaults,Výchozí hodnoty
+Defect Cost Impact,Finanční dopad vady
+Defect name is required,Název vady je povinný
+Defect Type,Typ vady
+Defect {0} not found,Vada {0} nenalezena
+Defects,Vady
+Defects & Issues,Vady a problémy
+Defects Resolved,Vyřešené vady
+Delayed,Zpožděno
+Delete,Smazat
+Delete Activity Data,Smazat data aktivity
+Delete all read notifications?,Smazat všechna přečtená upozornění?
+Delete comment,Smazat komentář
+Delete Contact,Smazat kontakt
+Delete Event,Smazat událost
+Delete Event?,Smazat událost?
+Delete failed,Smazání se nezdařilo
+Delete file,Smazat soubor
+Delete item,Smazat položku
+Delete note,Smazat poznámku
+Delete Project,Smazat projekt
+Delete Task,Smazat úkol
+Delete this project,Smazat tento projekt
+Deleted,Smazáno
+"Deleted project ""{0}"" ({1} tasks, {2} milestones)","Smazán projekt ""{0}"" ({1} úkolů, {2} milníků)"
+Deletes notes and preferences. Source document is not affected.,Smaže poznámky a předvolby. Zdrojový dokument není ovlivněn.
+Deleting...,Mazání...
+Department,Oddělení
+Dependencies,Závislosti
+dependencies,závislosti
+Dependencies are informational only,Závislosti jsou pouze informativní
+dependency,závislost
+Dependency already exists,Závislost již existuje
+Dependency Chain,Řetězec závislostí
+Dependency created,Závislost vytvořena
+Dependency mode updated,Režim závislosti aktualizován
+Dependency name is required,Název závislosti je povinný
+Dependency task {0} not found,Závislý úkol {0} nenalezen
+Dependency {0} not found,Závislost {0} nenalezena
+depends,závisí
+Depends on Group,Závisí na skupině
+Depends on task is required,Závislý úkol je povinný
+depends on...,závisí na...
+Descending -- click to reverse,Sestupně -- klikněte pro obrácení
+Describe the defect in detail...,Popište vadu podrobně...
+Description,Popis
+Description updated,Popis aktualizován
+Designation,Funkce
+"Detailed description of the defect, location, and impact","Podrobný popis vady, umístění a dopadu"
+Details,Podrobnosti
+Discard timer,Zahodit stopky
+Discussion,Diskuse
+Dismiss,Dismiss
+Display,Zobrazení
+Document,Dokument
+Document attached to project,Dokument připojen k projektu
+Document final decision and rationale,Zaznamenat konečné rozhodnutí a odůvodnění
+Documentation Review,Revize dokumentace
+Documents,Dokumenty
+Done,Hotovo
+Download,Stáhnout
+Drag to create dependency,Přetáhněte pro vytvoření závislosti
+Dry Run,Simulace
+Dry Run Complete,Simulace dokončena
+Due Date,Termín
+Due date,Termín
+Due Date (Earliest),Termín (nejbližší)
+Due date cannot be before start date,Termín nemůže být před datem zahájení
+Due date is in the past,Termín je v minulosti
+Due Date Reminders,Připomínky termínů
+Due Diligence,Hloubková kontrola
+Due Diligence Checklist,Kontrolní seznam hloubkové kontroly
+Due This Week,Termín tento týden
+Due:,Termín:
+Duplicate events are not allowed,Duplicitní události nejsou povoleny
+Duplicate failed,Duplikování se nezdařilo
+Duplicate Task,Duplikovat úkol
+Duration,Doba trvání
+Duration Summary,Souhrn doby trvání
+Duration:,Doba trvání:
+e.g. Cracked wall finish in bathroom...,např. Popraskané omítky v koupelně...
+"e.g. Electrical, Plumbing...","např. Elektro, Instalatérství..."
+Edit,Upravit
+Edit (E),Upravit (E)
+Edit dependency,Upravit závislost
+Edit Event,Upravit událost
+Efficiency,Efektivita
+Either dependency_name or depends_on is required,Je vyžadován dependency_name nebo depends_on
+Email,E-mail
+Email invitations to all attendees,E-mailové pozvánky všem účastníkům
+Email is required to create portal user,E-mail je vyžadován pro vytvoření uživatele portálu
+Email notifications,E-mailová upozornění
+Employee,Zaměstnanec
+Employee DocType not available,DocType Zaměstnanec není dostupný
+Employee not found,Zaměstnanec nenalezen
+Enable or disable optional features,Povolit nebo zakázat volitelné funkce
+Enable Time Tracking,Povolit sledování času
+End,Konec
+End Date,Datum ukončení
+End date,Datum ukončení
+End Date cannot be before Start Date,Datum ukončení nemůže být před datem zahájení
+End date cannot be before start date,Datum ukončení nemůže být před datem zahájení
+End date updated,Datum ukončení aktualizováno
+End time was before start time. Adjusted to 1 hour after start.,Čas ukončení byl před časem zahájení. Upraven na 1 hodinu po zahájení.
+End:,Konec:
+Enter milestone name...,Zadejte název milníku...
+Enter project name,Zadejte název projektu
+Enter task title...,Zadejte název úkolu...
+Enter template name,Zadejte název šablony
+Enter your note... Use @name to mention someone,Zadejte poznámku... Použijte @jméno pro zmínění někoho
+Error,Chyba
+Error loading activity,Chyba při načítání aktivity
+Error loading contacts,Chyba při načítání kontaktů
+Error loading dashboard,Chyba při načítání přehledu
+Error loading project,Chyba při načítání projektu
+Error loading projects,Chyba při načítání projektů
+Error loading settings,Chyba při načítání nastavení
+Error loading tasks,Chyba při načítání úkolů
+Error loading templates,Chyba při načítání šablon
+Est. Hours,Odh. hodiny
+Estimated,Odhadovaný
+Estimated Cost,Odhadované náklady
+Estimated Cost (€),Odhadované náklady (€)
+Estimated Hours,Odhadované hodiny
+Estimated:,Odhadovaný:
+Evaluate potential risks and concerns,Vyhodnotit potenciální rizika a problémy
+Event,Událost
+Event is required for event context,Událost je vyžadována pro kontext události
+Event is required when tracking context is 'event',"Událost je vyžadována když je kontext sledování „událost""
+Events not available. Please run: bench --site orga.localhost migrate"""
+Event Type,Typ události
+Events,Události
+Events not available. Please run: bench --site orga.localhost migrate,Události nejsou k dispozici. Spusťte prosím: bench --site orga.localhost migrate
+Events:,Události:
+Expert,Expert
+Explain why you are proposing a different time...,Vysvětlete proč navrhujete jiný čas...
+Export,Exportovat
+Export failed,Export se nezdařil
+Export JSON,Exportovat JSON
+Exported,Exportováno
+Exported to timesheet {0},Exportováno do výkazu práce {0}
+External,Externí
+Failed to add item,Nepodařilo se přidat položku
+Failed to add note,Nepodařilo se přidat poznámku
+Failed to add skill,Nepodařilo se přidat dovednost
+Failed to apply cascade changes: {0},Nepodařilo se použít kaskádové změny: {0}
+Failed to create defect,Nepodařilo se vytvořit vadu
+Failed to create dependency,Nepodařilo se vytvořit závislost
+Failed to create event,Nepodařilo se vytvořit událost
+Failed to create milestone,Nepodařilo se vytvořit milník
+Failed to create project,Nepodařilo se vytvořit projekt
+Failed to create task,Nepodařilo se vytvořit úkol
+Failed to create time log,Nepodařilo se vytvořit záznam času
+Failed to delete,Nepodařilo se smazat
+Failed to delete comment,Nepodařilo se smazat komentář
+Failed to delete contact,Nepodařilo se smazat kontakt
+Failed to load,Nepodařilo se načíst
+Failed to load activity,Nepodařilo se načíst aktivitu
+Failed to load assignments,Nepodařilo se načíst přiřazení
+Failed to load contact,Nepodařilo se načíst kontakt
+Failed to load dashboard data,Nepodařilo se načíst data přehledu
+Failed to load defects,Nepodařilo se načíst vady
+Failed to load events,Nepodařilo se načíst události
+Failed to load project,Nepodařilo se načíst projekt
+Failed to load projects,Nepodařilo se načíst projekty
+Failed to load report data,Nepodařilo se načíst data sestavy
+Failed to load settings,Nepodařilo se načíst nastavení
+Failed to load tasks,Nepodařilo se načíst úkoly
+Failed to move task,Nepodařilo se přesunout úkol
+Failed to post comment,Nepodařilo se odeslat komentář
+Failed to propose new time,Nepodařilo se navrhnout nový čas
+Failed to remove item,Nepodařilo se odebrat položku
+Failed to remove skill,Nepodařilo se odebrat dovednost
+Failed to reorder milestones: {0},Nepodařilo se změnit pořadí milníků: {0}
+Failed to reorder tasks: {0},Nepodařilo se změnit pořadí úkolů: {0}
+Failed to reschedule dependent tasks: {0},Nepodařilo se přeplánovat závislé úkoly: {0}
+Failed to save,Nepodařilo se uložit
+Failed to save preferences,Nepodařilo se uložit předvolby
+Failed to save settings,Nepodařilo se uložit nastavení
+Failed to submit request. Please try again.,Nepodařilo se odeslat požadavek. Zkuste to znovu.
+Failed to update item,Nepodařilo se aktualizovat položku
+Failed to update priority,Nepodařilo se aktualizovat prioritu
+Failed to update task,Nepodařilo se aktualizovat úkol
+Failed to update tasks: {0},Nepodařilo se aktualizovat úkoly: {0}
+Failed to upload avatar,Nepodařilo se nahrát avatar
+Feature,Funkce
+Features,Funkce
+FF (Finish-Finish),FF (Konec-Konec)
+FF - Finish-to-Finish,FF - Konec-Konec
+Field has been updated,Pole bylo aktualizováno
+Field name is required for 'Set Field Value' action,"Název pole je povinný pro akci „Nastavit hodnotu pole""
+Field {0} is not a Link field,Pole {0} není pole typu Odkaz
+Field {0} not found in {1},Pole {0} nenalezeno v {1}
+File,Soubor
+File does not belong to this task,Soubor nepatří k tomuto úkolu
+File name is required,Název souboru je povinný
+File uploaded,Soubor nahrán
+File {0} not found,Soubor {0} nenalezen
+Files,Soubory
+Filter,Filtr
+Final Decision,Konečné rozhodnutí
+Finance,Finance
+Financial,Finanční
+Finish-to-Finish,Konec-Konec
+Finish-to-Start,Konec-Začátek
+Flag,Označit
+Flag for attention,Označit k pozornosti
+Flagged,Označeno
+Follows your system preference. Currently:,Odpovídá vašim systémovým předvolbám. Aktuálně:
+Focus Panel,Panel zaměření
+Frappe Project {0} not found,Projekt Frappe {0} nenalezen
+Frappe Projects Migration,Migrace Frappe Projects
+Frappe Projects module not available,Modul Frappe Projects není dostupný
+Frappe Projects module not installed,Modul Frappe Projects není nainstalován
+Frappe Projects sync is not enabled,Synchronizace Frappe Projects není povolena
+Frappe Task DocType not found,DocType Úkol Frappe nenalezen
+Frappe Task has no project,Úkol Frappe nemá projekt
+Frappe Task {0} not found,Úkol Frappe {0} nenalezen
+Fri,Pá
+From,Od
+From Template,Ze šablony
+Full form view with audit trail,Úplné zobrazení formuláře se záznamem auditu
+Full name,Celé jméno
+Gantt,Gantt
+Gantt Chart,Gantt diagram
+Gantt View,Gantt zobrazení
+General Note,Obecná poznámka
+Get started,Začít
+Go back,Jít zpět
+Group by,Seskupit podle
+Group dependency removed,Závislost skupiny odebrána
+Group dependency set,Závislost skupiny nastavena
+Group removed,Skupina odebrána
+Group updated,Skupina aktualizována
+Hammock task dates are auto-calculated and cannot be changed manually,Data hamakových úkolů jsou automaticky vypočítána a nelze je měnit ručně
+Have a question or need assistance? Fill out the form below and our team will get back to you."""
+Field {0} is not a Link field,Pole {0} není odkazové pole
+Field {0} not found in {1},Pole {0} nebylo nalezeno v {1}
+file,soubor
+File,Soubor
+File does not belong to this task,Soubor nepatří k tomuto úkolu
+File name is required,Název souboru je povinný
+File uploaded,Soubor nahrán
+File {0} not found,Soubor {0} nebyl nalezen
+files,soubory
+Files,Soubory
+Filter,Filtr
+Final Decision,Konečné rozhodnutí
+Finance,Finance
+Financial,Finanční
+Finish-to-Finish,Konec-konec
+Finish-to-Start,Konec-začátek
+Flag,Označit
+Flag for attention,Označit k pozornosti
+Flagged,Označeno
+Focus Panel,Panel zaměření
+Follows your system preference. Currently:,Sleduje nastavení systému. Aktuálně:
+Frappe Project {0} not found,Frappe projekt {0} nebyl nalezen
+Frappe Projects Migration,Migrace Frappe Projects
+Frappe Projects module not available,Modul Frappe Projects není k dispozici
+Frappe Projects module not installed,Modul Frappe Projects není nainstalován
+Frappe Projects sync is not enabled,Synchronizace s Frappe Projects není povolena
+Frappe Task DocType not found,DocType Frappe Task nebyl nalezen
+Frappe Task has no project,Frappe Task nemá přiřazený projekt
+Frappe Task {0} not found,Frappe Task {0} nebyl nalezen
+Fri,Pá
+From,Od
+From Template,Ze šablony
+FS (Finish-Start),FS (Konec-Začátek)
+FS - Finish-to-Start (default),FS - Konec-Začátek (výchozí)
+Full form view with audit trail,Úplné zobrazení formuláře s protokolem změn
+Full name,Celé jméno
+Gantt,Gantt
+Gantt Chart,Ganttův diagram
+Gantt View,Ganttův pohled
+General Note,Obecná poznámka
+Get started,Začít
+Go back,Zpět
+Go Back,Go Back
+Group by,Seskupit podle
+Group dependency removed,Skupinová závislost odebrána
+Group dependency set,Skupinová závislost nastavena
+Group removed,Skupina odebrána
+Group updated,Skupina aktualizována
+Hammock task dates are auto-calculated and cannot be changed manually,Data houpacího úkolu jsou automaticky vypočítána a nelze je měnit ručně
+Have a question or need assistance? Fill out the form below and our team will get back to you.,Máte otázku nebo potřebujete pomoc? Vyplňte formulář níže a náš tým se vám ozve.
+Health,Zdraví
+Healthy,Zdravý
+Hello {0},Dobrý den {0}
+Here's what's happening with your projects today.,Zde je přehled vašich projektů dnes.
+Hide,Skrýt
+High,Vysoká
+History,Historie
+Home,Domů
+Hourly Cost,Hodinové náklady
+Hours,Hodiny
+hours,hodiny
+Hours Logged,Zaznamenané hodiny
+ID,ID
+Image must be smaller than 5 MB,Obrázek musí být menší než 5 MB
+Import,Importovat
+Import existing projects and tasks from Frappe Projects module,Importovat existující projekty a úkoly z modulu Frappe Projects
+Import failed,Import se nezdařil
+Import Template,Importovat šablonu
+Imported,Importováno
+in,v
+In Progress,Probíhá
+In Review,V revizi
+In-app notifications,Upozornění v aplikaci
+Inactive,Neaktivní
+Initial Review,Úvodní revize
+Installed Version,Installed Version
+Insufficient permissions to view all tasks,Nedostatečná oprávnění k zobrazení všech úkolů
+Intermediate,Pokročilý
+Internal,Interní
+Invalid DocType,Neplatný DocType
+Invalid DocType for import,Neplatný DocType pro import
+Invalid item type: {0},Neplatný typ položky: {0}
+Invalid JSON data,Neplatná data JSON
+Invalid note type. Must be one of: {0},Neplatný typ poznámky. Musí být jeden z: {0}
+Invalid project reference,Neplatný odkaz na projekt
+Invalid reaction type. Must be one of: {0},Neplatný typ reakce. Musí být jeden z: {0}
+Invalid RSVP status,Neplatný stav RSVP
+Invalid status. Must be one of: {0},Neplatný stav. Musí být jeden z: {0}
+Invalid status: {0},Neplatný stav: {0}
+Invalid status: {0}. Must be one of: {1},Neplatný stav: {0}. Musí být jeden z: {1}
+Invalid tracking context: {0},Neplatný kontext sledování: {0}
+Invalid visibility. Must be one of: {0},Neplatná viditelnost. Musí být jedna z: {0}
+Invitation: {0} - {1} at {2},Pozvánka: {0} - {1} v {2}
+Invite People,Pozvat lidi
+"It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe.","It's not you, it's the link. The page you're looking for might have been moved, renamed, or is taking a well-deserved coffee break. Your projects and data are perfectly safe."
+Item added,Položka přidána
+Item ID is required,ID položky je povinné
+Item removed,Položka odebrána
+Item type is required,Typ položky je povinný
+Item {0} not found,Položka {0} nenalezena
+Job title or role,Pracovní pozice nebo role
+Join Meeting,Připojit se ke schůzce
+Just now,Právě teď
+just now,právě teď
+Kanban,Kanban
+Kanban Board,Kanban nástěnka
+Kanban View,Kanban zobrazení
+Keyboard Shortcuts,Klávesové zkratky
+Keyboard shortcuts (?),Klávesové zkratky (?)
+Last checked: {0},Last checked: {0}
+Last Updated,Naposledy aktualizováno
+Last updated:,Naposledy aktualizováno:
+Last Week,Minulý týden
+Latest Version,Latest Version
+Light,Světlý
+Link failed,Propojení se nezdařilo
+Link Task,Propojit úkol
+Linked,Propojeno
+Linked employee not found,Propojený zaměstnanec nenalezen
+Linked Tasks,Propojené úkoly
+List,Seznam
+List View,Zobrazení seznamu
+Load failed,Načtení se nezdařilo
+Load More,Načíst více
+Load more comments,Načíst více komentářů
+Loading activity...,Načítání aktivity...
+Loading changes...,Načítání změn...
+Loading checklist...,Načítání kontrolního seznamu...
+Loading comments...,Načítání komentářů...
+Loading contact...,Načítání kontaktu...
+Loading contacts...,Načítání kontaktů...
+Loading dependencies...,Načítání závislostí...
+Loading details...,Načítání podrobností...
+Loading discussion...,Načítání diskuse...
+Loading events...,Načítání událostí...
+Loading files...,Načítání souborů...
+Loading notes...,Načítání poznámek...
+Loading preferences...,Načítání předvoleb...
+Loading project...,Načítání projektu...
+Loading projects...,Načítání projektů...
+Loading replies...,Načítání odpovědí...
+Loading report data...,Načítání dat sestavy...
+Loading settings...,Načítání nastavení...
+Loading task...,Načítání úkolu...
+Loading templates...,Načítání šablon...
+Loading time logs...,Načítání záznamů času...
+Loading your portal...,Načítání vašeho portálu...
+Loading...,Načítání...
+Location,Místo
+Log Time,Zaznamenat čas
+Logout,Odhlásit se
+Low,Nízká
+Make Offer,Učinit nabídku
+Manager,Vedoucí
+Manual Entry,Ruční záznam
+Margin,Marže
+Mark all as read,Označit vše jako přečtené
+Mark all read,Označit vše jako přečtené
+Mark as read,Označit jako přečtené
+Mark as unread,Označit jako nepřečtené
+Mark read,Označit jako přečtené
+Marking...,Označování...
+Material,Materiál
+Maybe,Možná
+Medium,Střední
+Meeting,Schůzka
+Meeting Link,Odkaz na schůzku
+Meeting title,Název schůzky
+Meeting URL,URL schůzky
+Meetings,Schůzky
+Mention,Zmínka
+Message,Zpráva
+Message is required,Zpráva je povinná
+Message is required for '{0}' action,"Zpráva je povinná pro akci „{0}""
+Migrate,Migrovat
+Migration Complete,Migrace dokončena
+Migration ID:,ID migrace:
+Migration log not found: {0},Záznam migrace nenalezen: {0}
+Milestone,Milník
+Milestone ID is required,ID milníku je povinné
+Milestone Name,Název milníku
+Milestone created,Milník vytvořen
+Milestone description has been saved.,Popis milníku byl uložen.
+Milestone marked as Missed (past due date),Milník označen jako zmeškaný (po termínu)
+Milestone moved,Milník přesunut
+Milestone name has been saved.,Název milníku byl uložen.
+Milestone name is required,Název milníku je povinný
+Milestone updated,Milník aktualizován
+Milestone {0} not found,Milník {0} nenalezen
+Milestone {0} not in project {1},Milník {0} není v projektu {1}
+Milestones,Milníky
+Milestones:,Milníky:
+Minutes,Minuty
+Missed,Zmeškáno
+Mixed,Smíšený
+Mobile,Mobil
+Moderate,Mírný
+Modify details, time, or attendees,Upravit podrobnosti"
+Migrate,Migrovat
+Migration Complete,Migrace dokončena
+Migration ID:,ID migrace:
+Migration log not found: {0},Protokol migrace nebyl nalezen: {0}
+milestone,milník
+Milestone,Milník
+Milestone created,Milník vytvořen
+Milestone description has been saved.,Popis milníku byl uložen.
+Milestone ID is required,ID milníku je povinné
+Milestone marked as Missed (past due date),Milník označen jako zmeškaný (po termínu)
+Milestone moved,Milník přesunut
+Milestone Name,Název milníku
+Milestone name has been saved.,Název milníku byl uložen.
+Milestone name is required,Název milníku je povinný
+Milestone updated,Milník aktualizován
+Milestone {0} not found,Milník {0} nebyl nalezen
+Milestone {0} not in project {1},Milník {0} není v projektu {1}
+milestones,milníky
+Milestones,Milníky
+Milestones:,Milníky:
+Minutes,Minuty
+Missed,Zmeškaný
+Mixed,Smíšený
+Mobile,Mobil
+Moderate,Střední
+Modified,Upraveno
+"Modify details, time, or attendees","Upravit detaily, čas nebo účastníky"
+Mon,Po
+Month,Měsíc
+Move failed,Přesunutí se nezdařilo
+Must be a positive number,Musí být kladné číslo
+Must finish before this finishes,Musí skončit před dokončením tohoto
+Must finish before this starts,Musí skončit před zahájením tohoto
+Must start before this finishes,Musí začít před dokončením tohoto
+Must start before this starts,Musí začít před zahájením tohoto
+My Assignments,Moje přiřazení
+My Projects,Moje projekty
+My Schedule,Můj plán
+My Tasks,Moje úkoly
+N/A,Nepoužitelné
+Name,Název
+Name (A-Z),Název (A-Z)
+Name (Z-A),Název (Z-A)
+Name cannot exceed 255 characters,Název nesmí přesáhnout 255 znaků
+Need help?,Potřebujete pomoc?
+Needs Attention,Vyžaduje pozornost
+Never,Never
+new activities,nové aktivity
+New Activity,Nová aktivita
+New activity,Nová aktivita
+New Event,Nová událost
+New index is required,Nový index je povinný
+New Project,Nový projekt
+New tasks will auto-trail by default.,Nové úkoly se budou ve výchozím nastavení automaticky posouvat.
+Newest First,Nejnovější první
+Next,Další
+Next 14 days,Příštích 14 dní
+Next 30 days,Příštích 30 dní
+Next 60 days,Příštích 60 dní
+Next 7 days,Příštích 7 dní
+Next 90 days,Příštích 90 dní
+Next Week,Příští týden
+Next:,Další:
+No,Ne
+No active assignments,Žádná aktivní přiřazení
+No active projects,Žádné aktivní projekty
+No active timer found,Nenalezeny žádné aktivní stopky
+No activity selected,Nebyla vybrána žádná aktivita
+No assignments found,Nenalezena žádná přiřazení
+No attendees,Žádní účastníci
+no change,žádná změna
+No changes for this field.,Žádné změny pro toto pole.
+No changes recorded for this activity.,Žádné zaznamenané změny pro tuto aktivitu.
+No checklist items yet,Zatím žádné položky kontrolního seznamu
+No checklist items yet.,Zatím žádné položky kontrolního seznamu.
+No comments yet,Zatím žádné komentáře
+No comments yet.,Zatím žádné komentáře.
+No contacts available,Žádné dostupné kontakty
+No content for this tab,Žádný obsah pro tuto záložku
+No data available,Žádná dostupná data
+No data available for the selected filters,Žádná data pro vybrané filtry
+No data to export,Žádná data k exportu
+No dates set,Žádná nastavená data
+No defects reported,Žádné nahlášené vady
+No dependencies defined,Žádné definované závislosti
+No description,Žádný popis
+No discussion yet.,Zatím žádná diskuse.
+No documents attached,Žádné připojené dokumenty
+No due date,Žádný termín
+No employee linked to this resource,Žádný zaměstnanec propojený s tímto zdrojem
+No ERPNext employee linked to resource,Žádný zaměstnanec ERPNext propojený se zdrojem
+No events found,Nenalezeny žádné události
+No files attached yet.,Zatím žádné připojené soubory.
+No Frappe Project linked,Žádný propojený projekt Frappe
+No Grouping,Bez seskupení
+No items,Žádné položky
+No matching tasks,Žádné odpovídající úkoly
+No matching tasks found,Nenalezeny žádné odpovídající úkoly
+No migration history,Žádná historie migrace
+No Milestone,Žádný milník
+No milestones,Žádné milníky
+No milestones defined for this project.,Žádné milníky definované pro tento projekt.
+No notes yet.,Zatím žádné poznámky.
+No notes yet. Add a due diligence note to track progress.,Zatím žádné poznámky. Přidejte poznámku hloubkové kontroly pro sledování postupu.
+No notifications,Žádná upozornění
+No Orga Project linked to Frappe Project {0},Žádný projekt Orga propojený s projektem Frappe {0}
+No overdue tasks,Žádné úkoly po termínu
+No pending cascade changes,Žádné čekající kaskádové změny
+No predecessors - this task can start independently,Žádní předchůdci — tento úkol může začít nezávisle
+No project,Žádný projekt
+No projects found,Nenalezeny žádné projekty
+No Projects Yet,Zatím žádné projekty
+No recent activity,Žádná nedávná aktivita
+No related documents,Žádné související dokumenty
+No resolved threads.,Žádná vyřešená vlákna.
+No resources found,Nenalezeny žádné zdroje
+No results found,Nenalezeny žádné výsledky
+No skills listed,Žádné uvedené dovednosti
+No skills recorded yet,Zatím žádné zaznamenané dovednosti
+No successors - no tasks are waiting for this one,Žádní následníci — žádné úkoly na tento nečekají
+No task selected,Nebyl vybrán žádný úkol
+No tasks assigned to you,Žádné úkoly vám přiřazené
+No tasks available to add,Žádné dostupné úkoly k přidání
+No tasks found,Nenalezeny žádné úkoly
+No tasks linked to this milestone,Žádné úkoly propojené s tímto milníkem
+No tasks with dates to display,Žádné úkoly s daty k zobrazení
+No tasks yet,Zatím žádné úkoly
+No team members,Žádní členové týmu
+No template,Žádná šablona
+No templates yet,Zatím žádné šablony
+No time data found,Nenalezena žádná časová data
+No time logged today,Dnes žádný zaznamenaný čas
+No time logged yet,Zatím žádný zaznamenaný čas
+No time logs for this period,Žádné záznamy času pro toto období
+No time logs found,Nenalezeny žádné záznamy času
+No unread notifications,Žádná nepřečtená upozornění
+No update information available yet.,No update information available yet.
+None,Žádný
+Not found,Nenalezeno
+Not permitted,Nedovoleno
+Not permitted to access this project,Nemáte oprávnění k přístupu k tomuto projektu
+Not permitted to access this task,Nemáte oprávnění k přístupu k tomuto úkolu
+Not permitted to check for updates,Not permitted to check for updates
+Not permitted to comment on this document,Nemáte oprávnění komentovat tento dokument
+Not permitted to create clients,Nemáte oprávnění vytvářet klienty
+Not permitted to delete this client,Nemáte oprávnění smazat tohoto klienta
+Not permitted to delete this defect,Nemáte oprávnění smazat tuto vadu
+Not permitted to delete this note,Nemáte oprávnění smazat tuto poznámku
+Not permitted to delete this project,Nemáte oprávnění smazat tento projekt
+Not permitted to delete this task,Nemáte oprávnění smazat tento úkol
+Not permitted to delete this time log,Nemáte oprávnění smazat tento záznam času
+Not permitted to invite clients,Nemáte oprávnění zvát klienty
+Not permitted to modify client access,Nemáte oprávnění měnit přístup klienta
+Not permitted to modify this project,Nemáte oprávnění upravovat tento projekt
+Not permitted to update settings,Nemáte oprávnění aktualizovat nastavení
+Not permitted to update this client,Nemáte oprávnění aktualizovat tohoto klienta
+Not permitted to view this client,Nemáte oprávnění zobrazit tohoto klienta
+not sent,neodesláno
+Not set,Nenastaveno
+Not specified,Neuvedeno
+Note,Poznámka
+Note (optional),Poznámka (volitelné)
+Note Content,Obsah poznámky
+Note content is required,Obsah poznámky je povinný
+Note name is required,Název poznámky je povinný
+Note not found,Poznámka nenalezena
+Note Type,Typ poznámky
+Notes,Poznámky
+Notification,Upozornění
+Notification not found,Upozornění nenalezeno
+Notifications,Upozornění
+Off Track,Mimo plán
+Offer,Nabídka
+Offer Prepared,Nabídka připravena
+Oldest First,Nejstarší první
+On Hold,Pozastaveno
+On Leave,Na dovolené
+On Track,Podle plánu
+On-Time Rate,Míra včasnosti
+Only administrators can delete activities,Pouze správci mohou mazat aktivity
+Only the comment author or administrators can delete comments,Pouze autor komentáře nebo správci mohou mazat komentáře
+Only you and admins,Pouze vy a správci
+Open,Otevřený
+Open in Desk,Otevřít v Desk
+Open Task Log,Otevřít záznam úkolu
+Open Tasks,Otevřené úkoly
+Optional,Volitelné
+optional,volitelné
+Or email us directly at,Nebo nám napište přímo na
+Orga Project {0} from Frappe Projects,Projekt Orga {0} z Frappe Projects
+Orga Task {0} from Frappe,Úkol Orga {0} z Frappe
+Organizer,Organizátor
+Other,Ostatní
+Over Budget,Překročení rozpočtu
+Overall Progress,Celkový postup
+Overall Utilization,Celkové využití
+Overallocated,Přetíženo
+Overdue,Po termínu
+overdue,po termínu
+Overdue Tasks,Úkoly po termínu
+Overview,Přehled
+Owner,Vlastník
+Page Not Found,Stránka nenalezena
+Parent,Nadřízený
+Parent comment must belong to the same document,Nadřízený komentář musí patřit ke stejnému dokumentu
+Parent comment not found,Nadřízený komentář nenalezen
+Parent project not synced to Frappe yet,Nadřízený projekt ještě není synchronizován s Frappe
+Parent project sync not enabled,Synchronizace nadřízeného projektu není povolena
+Partner,Partner
+Pending,Čekající
+per page,na stránku
+Perform initial assessment and background check,Provést úvodní hodnocení a prověrku
+Permanently remove this event,Trvale odstranit tuto událost
+Permanently remove this task,Trvale odstranit tento úkol
+Phone,Telefon
+Pin,Připnout
+Pin Activity,Připnout aktivitu
+Pin to top,Připnout nahoru
+Pinned,Připnuto
+Planned budget for this task,Plánovaný rozpočet pro tento úkol
+Planning,Plánování
+Please describe your question or issue in detail...,Popište podrobně svůj dotaz nebo problém...
+Please login to access Orga,Pro přístup k Orga se přihlaste
+Please login to access the client portal,Pro přístup ke klientskému portálu se přihlaste
+Please respond to this invitation in Orga,Odpovězte prosím na tuto pozvánku v Orga
+Please select an image file,Vyberte prosím soubor s obrázkem
+Please try again,Zkuste to prosím znovu
+Please type,Zadejte prosím
+Portal,Portál
+Portal access revoked for {0},Přístup k portálu odvolán pro {0}
+Portal user created successfully. Welcome email {0},Uživatel portálu úspěšně vytvořen. Uvítací e-mail {0}
+Post,Odeslat
+Powered by,Používá technologii
+Powered by Tonic,Používá technologii Tonic
+Predecessors (Blocked By),Předchůdci (blokováno)
+Preferences,Předvolby
+Preferences saved successfully,Předvolby úspěšně uloženy
+"Prefix for auto-generated project codes (e.g., ORG-2026-0001)",Předpona pro automaticky generované kódy projektů (např. ORG-2026-0001)
+Prepare and document offer terms,Připravit a zdokumentovat podmínky nabídky
+Press,Stiskněte
+Preview,Náhled
+Preview cascade before applying,Náhled kaskády před použitím
+Previous,Předchozí
+Priority,Priorita
+Priority assigned to new tasks,Priorita přiřazená novým úkolům
+Priority updated,Priorita aktualizována
+Proficiency,Úroveň dovednosti
+Profile,Profil
+Progress,Postup
+Progress (High-Low),Postup (sestupně)
+Progress (Low-High),Postup (vzestupně)
+Progress Overview,Přehled postupu
+Progress updated,Postup aktualizován
+Project,Projekt
+Project budget has been saved.,Rozpočet projektu byl uložen.
+Project code (e.g. ORG-2026-0001),Kód projektu (např. ORG-2026-0001)
+Project Code Prefix,Předpona kódu projektu
+Project created,Projekt vytvořen
+Project deleted,Projekt smazán
+Project description has been saved.,Popis projektu byl uložen.
+Project Details,Podrobnosti projektu
+Project end date has been saved.,Datum ukončení projektu bylo uloženo.
+Project Files,Soubory projektu
+Project has no linked client,Projekt nemá propojeného klienta
+Project Health,Zdraví projektu
+Project Info,Informace o projektu
+Project is required,Projekt je povinný
+Project is required for project context,Projekt je povinný pro kontext projektu
+Project is required when tracking context is 'project',"Projekt je povinný když je kontext sledování „projekt""
+Project name and template name are required,Název projektu a název šablony jsou povinné
+Project name is required,Název projektu je povinný
+Project not found,Projekt nenalezen
+Project not found or you do not have access,Projekt nenalezen nebo nemáte přístup
+Project settings,Nastavení projektu
+Project start date has been saved.,Datum zahájení projektu bylo uloženo.
+Project title has been saved.,Název projektu byl uložen.
+Project updated,Projekt aktualizován
+Project {0} linked to client {1},Projekt {0} propojen s klientem {1}
+Project {0} not found,Projekt {0} nenalezen
+Project {0} to Frappe Projects,Projekt {0} do Frappe Projects
+Project:,Projekt:
+Projects,Projekty
+Projects Overview,Přehled projektů
+Projects created:,Vytvořené projekty:
+Projects skipped:,Přeskočené projekty:
+Projects updated:,Aktualizované projekty:
+Promote failed,Povýšení se nezdařilo
+Promote to task,Povýšit na úkol
+Promoted to task,Povýšeno na úkol
+Propose,Navrhnout
+Propose New Time,Navrhnout nový čas
+Propose Time,Navrhnout čas
+Proposed End,Navrhovaný konec
+Proposed Start,Navrhovaný začátek
+Public,Veřejný
+Quick Action,Rychlá akce
+Quick Actions,Rychlé akce
+Quick Stats,Rychlé statistiky
+RSVP,RSVP
+Rates,Sazby
+Receive notifications via email,Dostávat upozornění e-mailem
+Receive notifications within the application,Dostávat upozornění v aplikaci
+Recipient {0} is not a valid user,Příjemce {0} není platný uživatel
+Recent Activity,Nedávná aktivita
+Reference,Reference
+Refresh,Obnovit
+Related,Související
+Related Company (optional),Související společnost (volitelné)
+Related Documents,Související dokumenty
+Related Project,Související projekt
+Remaining,Zbývající
+Reminder,Připomínka
+Reminder Lead Time"""
+Project Manager,Vedoucí projektu
+Project Name,Název projektu
+Project name and template name are required,Název projektu a název šablony jsou povinné
+Project name is required,Název projektu je povinný
+Project not found,Projekt nebyl nalezen
+Project not found or you do not have access,Projekt nebyl nalezen nebo k němu nemáte přístup
+Project settings,Nastavení projektu
+Project start date has been saved.,Datum zahájení projektu bylo uloženo.
+Project title has been saved.,Název projektu byl uložen.
+Project Type,Typ projektu
+Project updated,Projekt aktualizován
+Project {0} linked to client {1},Projekt {0} propojen s klientem {1}
+Project {0} not found,Projekt {0} nebyl nalezen
+Project {0} to Frappe Projects,Projekt {0} do Frappe Projects
+Project:,Projekt:
+projects,projekty
+Projects,Projekty
+Projects created:,Vytvořené projekty:
+Projects Overview,Přehled projektů
+Projects skipped:,Přeskočené projekty:
+Projects updated:,Aktualizované projekty:
+Promote failed,Povýšení selhalo
+Promote to task,Povýšit na úkol
+Promoted to task,Povýšeno na úkol
+Propose,Navrhnout
+Propose New Time,Navrhnout nový čas
+Propose Time,Navrhnout čas
+Proposed End,Navrhovaný konec
+Proposed Start,Navrhovaný začátek
+Public,Veřejný
+Quick Action,Rychlá akce
+Quick Actions,Rychlé akce
+Quick Stats,Rychlé statistiky
+Rates,Sazby
+Receive notifications via email,Dostávat oznámení e-mailem
+Receive notifications within the application,Dostávat oznámení v aplikaci
+Recent Activity,Nedávná aktivita
+Recipient {0} is not a valid user,Příjemce {0} není platný uživatel
+Reference,Reference
+Refresh,Obnovit
+Related,Související
+Related Company (optional),Související společnost (volitelné)
+Related Documents,Související dokumenty
+Related Project,Související projekt
+Remaining,Zbývající
+Reminder,Připomínka
+Reminder Lead Time,Předstih připomínky
+Reminder: {0} - {1} at {2},Připomínka: {0} - {1} v {2}
+Remove,Odebrat
+Remove dependency,Odebrat závislost
+Remove dependency on,Odebrat závislost na
+Remove from group,Odebrat ze skupiny
+Remove group dependency,Odebrat závislost skupiny
+Remove skill,Odebrat dovednost
+Reopen,Znovu otevřít
+Reopen thread,Znovu otevřít vlákno
+reopened,znovu otevřeno
+replies,odpovědi
+Reply,Odpovědět
+reply,odpověď
+Replying to,Odpověď na
+Replying to comment,Odpověď na komentář
+Report Defect,Nahlásit vadu
+Reported Date,Datum nahlášení
+Reports,Sestavy
+Reports To,Podřízený
+Request Submitted!,Požadavek odeslán!
+Required,Povinné
+required,povinné
+Research,Výzkum
+Reset to Defaults,Obnovit výchozí hodnoty
+Resolve,Vyřešit
+Resolve thread,Vyřešit vlákno
+Resolved,Vyřešeno
+Resolved date cannot be before reported date,Datum vyřešení nemůže být před datem nahlášení
+Resource,Zdroj
+Resource and skill name are required,Zdroj a název dovednosti jsou povinné
+Resource is already an attendee,Zdroj je již účastníkem
+Resource name is required,Název zdroje je povinný
+Resource not found,Zdroj nenalezen
+Resource synced from employee {0},Zdroj synchronizován ze zaměstnance {0}
+Resource {0} is already assigned to this task ({1}),Zdroj {0} je již přiřazen k tomuto úkolu ({1})
+Resource {0} not found,Zdroj {0} nenalezen
+Resources,Zdroje
+Retry,Zkusit znovu
+Review,Revize
+Review all relevant documents and contracts,Zkontrolovat všechny relevantní dokumenty a smlouvy
+Reviews,Revize
+Risk Assessment,Hodnocení rizik
+Rollback,Vrátit zpět
+Rolled back,Vráceno zpět
+Room or address,Místnost nebo adresa
+RSVP,RSVP
+Safety,Bezpečnost
+Sat,So
+Save,Uložit
+"Save a project as a template, or import one from a JSON file.",Uložte projekt jako šablonu nebo importujte ze souboru JSON.
+Save as Template,Uložit jako šablonu
+Save Changes,Uložit změny
+Save failed,Uložení se nezdařilo
+Save Preferences,Uložit předvolby
+Save Template,Uložit šablonu
+Saving...,Ukládání...
+Schedule,Plán
+Schedule type is required for scheduled triggers,Typ plánu je povinný pro plánované spouštěče
+Scheduled,Naplánováno
+Search,Hledat
+"Search by name, email, or skill...","Hledat podle jména, e-mailu nebo dovednosti..."
+Search for a project...,Hledat projekt...
+Search for a task...,Hledat úkol...
+Search for an event...,Hledat událost...
+Search for people to invite...,Hledat lidi k pozvání...
+Search tasks to link...,Hledat úkoly k propojení...
+Search tasks...,Hledat úkoly...
+Search...,Hledat...
+Searching...,Hledání...
+Seen,Viděno
+Select a project if your request is related to a specific project.,Vyberte projekt pokud se váš požadavek týká konkrétního projektu.
+Select a project...,Vyberte projekt...
+Select a task from the Gantt chart to view and manage its details.,Vyberte úkol z Gantt diagramu pro zobrazení a správu jeho podrobností.
+Select a task from the list or Kanban board to view and manage its details.,Vyberte úkol ze seznamu nebo Kanban nástěnky pro zobrazení a správu jeho podrobností.
+Select a template...,Vyberte šablonu...
+Select priority...,Vyberte prioritu...
+Select status...,Vyberte stav...
+Select task...,Vyberte úkol...
+Select type...,Vyberte typ...
+Selection,Výběr
+Send,Odeslat
+Send comment,Odeslat komentář
+Send email invitations to attendees,Odeslat e-mailové pozvánky účastníkům
+Send Invitations,Odeslat pozvánky
+Send notification when a task is assigned to a user,Odeslat upozornění při přiřazení úkolu uživateli
+Send notification when task status changes,Odeslat upozornění při změně stavu úkolu
+Send reminder before task due date,Odeslat připomínku před termínem úkolu
+sent,odesláno
+Set rate,Nastavit sazbu
+Settings,Nastavení
+Settings saved successfully,Nastavení úspěšně uložena
+Severity,Závažnost
+SF (Start-Finish),SF (Začátek-Konec)
+SF - Start-to-Finish,SF - Začátek-Konec
+Show,Zobrazit
+Show all,Zobrazit vše
+Show all changes,Zobrazit všechny změny
+Show Archived,Zobrazit archivované
+Show full diff,Zobrazit úplné rozdíly
+Show less,Zobrazit méně
+Show more,Zobrazit více
+Skill added,Dovednost přidána
+Skill is required,Dovednost je povinná
+Skill Name,Název dovednosti
+Skill removed,Dovednost odebrána
+Skill {0} already exists for this resource,Dovednost {0} již existuje pro tento zdroj
+Skills,Dovednosti
+Skills & Competencies,Dovednosti a kompetence
+Skip already migrated projects,Přeskočit již migrované projekty
+Sort by,Seřadit podle
+Sort: Due Date,Seřadit: Termín
+Sort: Priority,Seřadit: Priorita
+Sort: Project,Seřadit: Projekt
+Sort: Status,Seřadit: Stav
+Sort: Task,Seřadit: Úkol
+Source Code,Zdrojový kód
+Spent,Vynaloženo
+Spent:,Vynaloženo:
+SS (Start-Start),SS (Začátek-Začátek)
+SS - Start-to-Start,SS - Začátek-Začátek
+Standalone,Samostatný
+Start,Začátek
+Start a discussion below,Zahajte diskusi níže
+Start Date,Datum zahájení
+Start date,Datum zahájení
+Start Date (Earliest),Datum zahájení (nejbližší)
+Start date updated,Datum zahájení aktualizováno
+Start date/time is required,Datum/čas zahájení je povinný
+Start Migration,Zahájit migraci
+Start the conversation below.,Zahajte konverzaci níže.
+Start Timer,Spustit stopky
+Start typing to search...,Začněte psát pro hledání...
+Start-to-Finish,Začátek-Konec
+Start-to-Start,Začátek-Začátek
+Start:,Začátek:
+Statistics reset,Statistiky resetovány
+Status,Stav
+Status assigned to new projects,Stav přiřazený novým projektům
+Status assigned to new tasks,Stav přiřazený novým úkolům
+Status Changes,Změny stavu
+Status updated,Stav aktualizován
+Status:,Stav:
+Stop,Zastavit
+Stop & Save,Zastavit a uložit
+Stop Timer,Zastavit stopky
+Stops current timer and starts for this event,Zastaví aktuální stopky a spustí pro tuto událost
+Stops current timer and starts for this task,Zastaví aktuální stopky a spustí pro tento úkol
+Subject,Předmět
+Subject cannot exceed 255 characters,Předmět nesmí přesáhnout 255 znaků
+Subject is required,Předmět je povinný
+Submit,Odeslat
+Submit Another Request,Odeslat další požadavek
+Submit Request,Odeslat požadavek
+Submitting...,Odesílání...
+Successfully saved,Úspěšně uloženo
+Successors (Blocking),Následníci (blokující)
+Sun,Ne
+Supplier,Dodavatel
+Support,Podpora
+Switch to this event,Přepnout na tuto událost
+Switch to this task,Přepnout na tento úkol
+Sync direction is set to Frappe to Orga only,Směr synchronizace nastaven pouze z Frappe do Orga
+Sync direction is set to Orga to Frappe only,Směr synchronizace nastaven pouze z Orga do Frappe
+Sync not enabled for this project,Synchronizace není povolena pro tento projekt
+System,Systém
+Table,Tabulka
+Take ownership of this task,Převzít tento úkol
+Target Date,Cílové datum
+Target End,Cílový konec
+Target Project,Cílový projekt
+Target user is required for '{0}' action,"Cílový uživatel je povinný pro akci „{0}""
+Task,Úkol
+Task '{0}' is due on {1}."""
+task,úkol
+Task,Úkol
+Task '{0}' is due on {1}.,"Úkol ""{0}"" má termín {1}."
+Task and resource are required,Úkol a zdroj jsou povinné
+Task Assignment,Přiřazení úkolu
+Task cannot be its own parent,Úkol nemůže být svým vlastním nadřízeným
+Task cannot depend on itself,Úkol nemůže záviset sám na sobě
+Task cannot depend on the group it belongs to,Úkol nemůže záviset na skupině ke které patří
+Task created,Úkol vytvořen
+Task deleted,Úkol smazán
+Task description has been saved.,Popis úkolu byl uložen.
+Task Details,Podrobnosti úkolu
+Task due in {0} days: {1},Termín úkolu za {0} dní: {1}
+Task due today: {0},Termín úkolu dnes: {0}
+Task due tomorrow: {0},Termín úkolu zítra: {0}
+Task duplicated,Úkol duplikován
+Task Group,Skupina úkolů
+Task ID is required,ID úkolu je povinné
+Task is blocked by incomplete dependencies,Úkol je blokován nedokončenými závislostmi
+Task is cancelled,Úkol je zrušen
+Task is completed,Úkol je dokončen
+Task is no longer blocked by a group,Úkol již není blokován skupinou
+Task is required for task context,Úkol je povinný pro kontext úkolu
+Task is required when tracking context is 'task',"Úkol je povinný když je kontext sledování „úkol""
+Task linked,Úkol propojen
+Task moved,Úkol přesunut
+Task name,Název úkolu
+Task name is required,Název úkolu je povinný
+Task removed from group,Úkol odebrán ze skupiny
+Task subject is required,Předmět úkolu je povinný
+Task unblocked: {0},Úkol odblokován: {0}
+Task unlinked,Úkol odpojen
+Task updated,Úkol aktualizován
+Task {0} not found,Úkol {0} nenalezen
+Task {0} not in project {1},Úkol {0} není v projektu {1}
+Task {0} to Frappe,Úkol {0} do Frappe
+Tasks and milestones will be created with dates relative to the project start date."""
+Task linked,Úkol propojen
+Task moved,Úkol přesunut
+Task name,Název úkolu
+Task name is required,Název úkolu je povinný
+Task removed from group,Úkol odebrán ze skupiny
+Task Subject,Předmět úkolu
+Task subject is required,Předmět úkolu je povinný
+Task Type,Typ úkolu
+Task unblocked: {0},Úkol odblokován: {0}
+Task unlinked,Úkol odpojen
+Task updated,Úkol aktualizován
+Task {0} not found,Úkol {0} nebyl nalezen
+Task {0} not in project {1},Úkol {0} není v projektu {1}
+Task {0} to Frappe,Úkol {0} do Frappe
+Tasks,Úkoly
+tasks,úkoly
+Tasks and milestones will be created with dates relative to the project start date.,Úkoly a milníky budou vytvořeny s daty relativními k datu zahájení projektu.
+Tasks assigned to you across all projects.,Úkoly přiřazené vám ve všech projektech.
+Tasks created:,Vytvořené úkoly:
+Tasks from projects you manage.,Úkoly z projektů které řídíte.
+Tasks updated:,Aktualizované úkoly:
+"Tasks, milestones, and dependencies have been created.","Úkoly, milníky a závislosti byly vytvořeny."
+Tasks:,Úkoly:
+TBD,Bude upřesněno
+Team,Tým
+Team Members,Členové týmu
+Template,Šablona
+Template applied,Šablona použita
+Template data is required in import data,Data šablony jsou povinná v importovaných datech
+Template has no data,Šablona nemá žádná data
+Template Name,Název šablony
+Template name,Název šablony
+Template name is required,Název šablony je povinný
+Template name is required in import data,Název šablony je povinný v importovaných datech
+Template saved,Šablona uložena
+Template updated successfully.,Šablona úspěšně aktualizována.
+Template {0} not found,Šablona {0} nenalezena
+Templates,Šablony
+Tentative,Předběžný
+The comment has been deleted,Komentář byl smazán
+The project,Projekt
+The source document may have been deleted.,Zdrojový dokument mohl být smazán.
+The source document will not be affected.,Zdrojový dokument nebude ovlivněn.
+The status of '{0}' was changed from {1} to {2}.,"Stav „{0} byl změněn z {1} na {2}."""
+Theme,Motiv
+Theme preference,Předvolba motivu
+This action,Tato akce
+This action cannot be undone.,Tuto akci nelze vrátit zpět.
+This activity has been flagged for attention,Tato aktivita byla označena k pozornosti
+This is a reminder for your upcoming appointment,Toto je připomínka vaší nadcházející schůzky
+This method is only meant for developer mode,Tato metoda je určena pouze pro vývojářský režim
+This page wandered off,This page wandered off
+This Week,Tento týden
+This will delete all notes and preferences associated with this activity.,Toto smaže všechny poznámky a předvolby spojené s touto aktivitou.
+This will import all Frappe Projects into Orga. Continue?,Toto importuje všechny projekty Frappe do Orga. Pokračovat?
+This will permanently delete,Toto trvale smaže
+This will permanently delete:,Toto trvale smaže:
+Thu,Čt
+Time,Čas
+Time & Billing,Čas a fakturace
+Time & Revenue,Čas a výnosy
+Time Entries,Záznamy času
+Time log name is required,Název záznamu času je povinný
+Time Log not found,Záznam času nenalezen
+Time log {0} not found,Záznam času {0} nenalezen
+Time Logs,Záznamy času
+Time Summary,Souhrn času
+Time Tracking,Sledování času
+Timeline,Časová osa
+Timer active on,Stopky aktivní na
+Timer is not running,Stopky neběží
+Timer Running,Stopky běží
+Timer running,Stopky běží
+Timesheet DocType not available,DocType Výkaz práce není dostupný
+Timesheets,Výkazy práce
+Timezone,Časové pásmo
+Timezone is detected from your browser,Časové pásmo je detekováno z vašeho prohlížeče
+Title,Název
+Title cannot exceed 255 characters,Název nesmí přesáhnout 255 znaků
+Title is required,Název je povinný
+Title updated,Název aktualizován
+To,Do
+to,do
+to cancel,pro zrušení
+to close,pro zavření
+to confirm:,pro potvrzení:
+to edit,pro úpravu
+"to save,","pro uložení,"
+To Time cannot be before From Time,Čas konce nemůže být před časem začátku
+Today,Dnes
+today,dnes
+Toggle billable,Přepnout fakturovatelnost
+Toggle Details Panel,Přepnout panel podrobností
+Toggle Manager Panel,Přepnout panel vedoucího
+Toggle Sidebar,Přepnout postranní panel
+Tomorrow,Zítra
+tomorrow,zítra
+Total,Celkem
+Total Budget,Celkový rozpočet
+Total Contacts,Celkem kontaktů
+Total Cost,Celkové náklady
+Total Cost to Org,Celkové náklady pro organizaci
+Total Defect Cost,Celkové náklady vad
+Total Hours,Celkem hodin
+Total Hours Logged,Celkem zaznamenaných hodin
+Total Projects,Celkem projektů
+Total Spent,Celkem vynaloženo
+Total Tasks,Celkem úkolů
+Total:,Celkem:
+Tracked,Sledováno
+trails to today while Open at 0%,posouvá se k dnešku dokud je Otevřený na 0%
+Tried:,Tried:
+Try adjusting your filter criteria,Zkuste upravit kritéria filtru
+Try adjusting your filters.,Zkuste upravit filtry.
+Try Again,Zkusit znovu
+Tue,Út
+Type,Typ
+Type updated,Typ aktualizován
+Type:,Typ:
+Typical response time: 1-2 business days,Obvyklá doba odpovědi: 1–2 pracovní dny
+Unarchive,Odarchivovat
+Unarchive Activity,Odarchivovat aktivitu
+Unassign,Zrušit přiřazení
+Unassigned,Nepřiřazený
+Under Budget,V rámci rozpočtu
+Ungrouped,Neseskupeno
+Unknown,Neznámý
+Unknown error,Neznámá chyba
+Unlink failed,Odpojení se nezdařilo
+Unlink task from milestone,Odpojit úkol od milníku
+Unpin,Odepnout
+Unpin Activity,Odepnout aktivitu
+Unread,Nepřečtené
+Unread only,Pouze nepřečtené
+Until,Do
+Up to Date,Up to Date
+Upcoming,Nadcházející
+upcoming,nadcházející
+Update,Update
+Update Available,Update Available
+Update available,Update available
+Update available: v{0},Update available: v{0}
+Update check failed: {0},Update check failed: {0}
+Update failed,Aktualizace se nezdařila
+Updated,Aktualizováno
+Updated successfully,Úspěšně aktualizováno
+Updates,Updates
+Upload,Nahrát
+Upload failed,Nahrání se nezdařilo
+Upload files below to attach them to this task.,Nahrejte soubory níže pro připojení k tomuto úkolu.
+Upload to project,Nahrát do projektu
+Uploading...,Nahrávání...
+Urgent,Urgentní
+User {0} is already linked to client {1},Uživatel {0} je již propojen s klientem {1}
+User {0} is already linked to resource {1},Uživatel {0} je již propojen se zdrojem {1}
+Utilization,Využití
+Valid,Platný
+Value:,Hodnota:
+Variance,Odchylka
+Variance:,Odchylka:
+Version {0} is available. You are running {1}.,Version {0} is available. You are running {1}.
+View,Zobrazení
+View All,Zobrazit vše
+View all active projects,Zobrazit všechny aktivní projekty
+View all open tasks,Zobrazit všechny otevřené úkoly
+View overdue tasks,Zobrazit úkoly po termínu
+View Release,View Release
+Visibility,Viditelnost
+Waiting for this task,Čekání na tento úkol
+Waits for:,Čeká na:
+Warning: Resource {0} status is {1},Upozornění: Stav zdroje {0} je {1}
+Warning: Using HTTP instead of HTTPS. Webhook payloads may not be secure.,Upozornění: Použit HTTP místo HTTPS. Data webhooků nemusí být bezpečná.
+Watch budget closely,Pečlivě sledovat rozpočet
+We'll respond to:,Odpovíme na:
+Webhook deleted,Webhook smazán
+Webhook name is required,Název webhooku je povinný
+Webhook not found,Webhook nenalezen
+Webhook URL is required,URL webhooku je povinná
+Webhook URL must start with http:// or https://,URL webhooku musí začínat http:// nebo https://
+Wed,St
+Week,Týden
+Weekend,Víkend
+Weekly Capacity,Týdenní kapacita
+weekly capacity,týdenní kapacita
+Weekly Capacity (h),Týdenní kapacita (h)
+Welcome,Vítejte
+Welcome back!,Vítejte zpět!
+Welcome to Orga,Vítejte v Orga
+What are you working on?,Na čem pracujete?
+What did you work on?,Na čem jste pracovali?
+When,Kdy
+When work begins,Kdy práce začíná
+When work is due,Kdy je práce splatná
+Where,Kde
+Will capture:,Zachytí:
+Will create:,Vytvoří:
+with checklist items,s položkami kontrolního seznamu
+Working,Probíhá
+Workload,Pracovní vytížení
+Workmanship,Kvalita provedení
+Write a comment...,Napište komentář...
+Write a comment... Use @name to mention (Ctrl+Enter to send),Napište komentář... Použijte @jméno pro zmínění (Ctrl+Enter pro odeslání)
+Year,Rok
+Yes,Ano
+Yesterday,Včera
+yesterday,včera
+You are not an attendee of this appointment,Nejste účastníkem této schůzky
+You are not linked to any resource,Nejste propojeni s žádným zdrojem
+You are running the latest version of Orga.,You are running the latest version of Orga.
+You can only delete your own comments,Můžete mazat pouze vlastní komentáře
+You can only delete your own reactions,Můžete mazat pouze vlastní reakce
+You do not have access to the client portal. Please contact support.,Nemáte přístup ke klientskému portálu. Kontaktujte prosím podporu.
+You have already reacted with '{0}',"Již jste reagovali pomocí „{0}""
+You have been assigned to task '{0}' in project '{1}'."""
+You have been assigned to task '{0}' in project '{1}'.,"Byli jste přiřazeni k úkolu ""{0}"" v projektu ""{1}""."
+You have been assigned to: {0},Byli jste přiřazeni k: {0}
+You have been invited to the following appointment,Byli jste pozváni na následující schůzku
+You have no tasks assigned to you right now.,Momentálně nemáte přiřazené žádné úkoly.
+You were mentioned in {0},Byli jste zmíněni v {0}
+Your attendance,Vaše účast
+Your comment has been posted,Váš komentář byl odeslán
+Your Projects,Vaše projekty
+Your projects will appear here once they're assigned to you.,Vaše projekty se zde zobrazí jakmile vám budou přiřazeny.
+Your Response,Vaše odpověď
+Your RSVP,Vaše odpověď RSVP
+Your support request has been submitted successfully.,Váš požadavek na podporu byl úspěšně odeslán.
+Your support request has been submitted successfully. We'll get back to you shortly.,Váš požadavek na podporu byl úspěšně odeslán. Brzy se vám ozveme.
+"Your task ""{0}"" is no longer blocked and can now be started.","Váš úkol „{0} již není blokován a může být zahájen."""
+{0} is required,{0} je povinný
+{0} new activities,{0} nových aktivit
+{0} of {1} completed,{0} z {1} dokončeno
+{0} projects already migrated (will be skipped or updated),{0} projektů již migrováno (budou přeskočeny nebo aktualizovány)
+{0} status changed to {1},Stav {0} změněn na {1}
+{0} tasks remaining,Zbývá {0} úkolů
+{0} tasks without projects will be skipped,{0} úkolů bez projektů bude přeskočeno
+{0} {1} not found,{0} {1} nenalezeno
