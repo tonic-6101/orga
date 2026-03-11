@@ -245,8 +245,19 @@ onMounted(loadContacts)
           ]"
         >
           <!-- Avatar -->
-          <div class="w-16 h-16 rounded-full bg-teal-500 text-white text-2xl font-semibold flex items-center justify-center mx-auto mb-3">
-            {{ contact.initials }}
+          <div class="w-16 h-16 rounded-full mx-auto mb-3 overflow-hidden flex-shrink-0">
+            <img
+              v-if="contact.image"
+              :src="contact.image"
+              :alt="contact.resource_name"
+              class="w-full h-full object-cover"
+            />
+            <span
+              v-else
+              class="w-full h-full bg-teal-500 text-white text-2xl font-semibold flex items-center justify-center"
+            >
+              {{ contact.initials }}
+            </span>
           </div>
 
           <h3 class="text-base font-semibold text-gray-800 dark:text-gray-100 m-0">{{ contact.resource_name }}</h3>

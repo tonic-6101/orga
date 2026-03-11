@@ -6,6 +6,7 @@
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
+  "image",
   "resource_name",
   "user",
   "employee",
@@ -41,6 +42,12 @@
   "notes"
  ],
  "fields": [
+  {
+   "fieldname": "image",
+   "fieldtype": "Attach Image",
+   "label": "Avatar",
+   "hidden": 1
+  },
   {
    "fieldname": "resource_name",
    "fieldtype": "Data",

@@ -1490,3 +1490,11 @@ Your support request has been submitted successfully. We'll get back to you shor
 {0} tasks remaining,{0} பணிகள் மீதமுள்ளன
 {0} tasks without projects will be skipped,திட்டங்கள் இல்லாத {0} பணிகள் தவிர்க்கப்படும்
 {0} {1} not found,{0} {1} கிடைக்கவில்லை
+Change photo,Change photo
+Could not read file,Could not read file
+Failed to upload photo,Failed to upload photo
+Photo uploaded successfully,Photo uploaded successfully
+File too large,File too large
+Invalid file,Invalid file
+Please select an image file,Please select an image file
+Please select an image under 5MB,Please select an image under 5MB

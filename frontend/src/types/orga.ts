@@ -198,6 +198,7 @@ export interface OrgaContact extends OrgaDocument {
   utilization_percent?: number
   workload_status?: string
   initials?: string
+  image?: string
 }
 
 export interface OrgaContactSkill {

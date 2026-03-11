@@ -278,7 +278,7 @@ def get_project(name):
                     res_info = frappe.db.get_value(
                         "Orga Resource",
                         res_name,
-                        ["resource_name", "user", "email"],
+                        ["resource_name", "user", "email", "image"],
                         as_dict=True
                     )
                     if res_info:
@@ -288,7 +288,7 @@ def get_project(name):
                         team_members.append({
                             "user": res_info.user or res_info.email or res_name,
                             "full_name": res_info.resource_name or res_name,
-                            "user_image": None,
+                            "user_image": res_info.image or None,
                             "is_manager": False,
                             "source": "resource"
                         })

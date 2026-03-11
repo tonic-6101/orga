@@ -51,7 +51,7 @@ def get_resources(status=None, department=None, resource_type=None, skill=None, 
         fields=[
             "name", "resource_name", "user", "email", "phone", "mobile_no",
             "resource_type", "status", "department", "designation", "company",
-            "availability_hours", "weekly_capacity"
+            "availability_hours", "weekly_capacity", "image"
         ],
         order_by="resource_name asc",
         limit_page_length=int(limit),
@@ -243,7 +243,7 @@ def update_resource(name, data):
         "resource_type", "status", "department", "designation", "company",
         "reports_to", "date_of_joining", "address",
         "availability_hours", "weekly_capacity", "hourly_cost",
-        "billable_rate", "notes"
+        "billable_rate", "notes", "image"
     ]
 
     for field, value in data.items():
@@ -273,19 +273,44 @@ def delete_resource(name):
     if not frappe.db.exists("Orga Resource", name):
         frappe.throw(_("Resource {0} not found").format(name), frappe.DoesNotExistError)
 
-    # Check for active assignments
-    active_assignments = frappe.db.count(
-        "Orga Assignment",
-        {"resource": name, "status": ["in", ["Assigned", "In Progress"]]}
-    )
-    if active_assignments > 0:
-        frappe.throw(
-            _("Cannot delete resource with {0} active assignments. Complete or cancel them first.").format(
-                active_assignments
-            )
-        )
+    # Delete all assignments regardless of status
+    for asgn in frappe.get_all("Orga Assignment", filters={"resource": name}, fields=["name"]):
+        frappe.delete_doc("Orga Assignment", asgn.name, ignore_permissions=True, force=1)
 
-    frappe.delete_doc("Orga Resource", name)
+    # Nullify resource link on time logs (preserve the log records, just remove the pointer)
+    frappe.db.set_value(
+        "Orga Time Log",
+        {"resource": name},
+        "resource",
+        None,
+        update_modified=False,
+    )
+
+    # Clear reports_to on any resources that reported to this one
+    frappe.db.set_value(
+        "Orga Resource",
+        {"reports_to": name},
+        "reports_to",
+        None,
+        update_modified=False,
+    )
+
+    # Nullify resource link on appointment attendees (child table — use direct SQL)
+    frappe.db.sql(
+        "UPDATE `tabOrga Appointment Attendee` SET `resource` = NULL WHERE `resource` = %s",
+        name,
+    )
+
+    # Nullify contact link on defects (preserve the defect record)
+    frappe.db.set_value(
+        "Orga Defect",
+        {"contact": name},
+        "contact",
+        None,
+        update_modified=False,
+    )
+
+    frappe.delete_doc("Orga Resource", name, ignore_permissions=True, force=1)
     frappe.db.commit()
 
     return {"success": True}
@@ -623,3 +648,46 @@ def get_contact_timeline(name, limit=20, offset=0):
     """, (name, int(limit), int(offset)), as_dict=True)
 
     return {"timeline": timeline, "total": total}
+
+
+@frappe.whitelist()
+def upload_resource_avatar(name, file_data, filename):
+    """
+    Upload an avatar image for a resource.
+
+    Args:
+        name: Resource name (e.g. RES-00001)
+        file_data: Base64-encoded file content
+        filename: Original filename (e.g. photo.jpg)
+
+    Returns:
+        dict: {image: file_url}
+    """
+    import base64
+    from frappe.utils.file_manager import save_file
+
+    if not name:
+        frappe.throw(_("Resource name is required"))
+    if not frappe.db.exists("Orga Resource", name):
+        frappe.throw(_("Resource {0} not found").format(name), frappe.DoesNotExistError)
+    if not file_data:
+        frappe.throw(_("No file data provided"))
+
+    # Strip data URL prefix if present (data:image/jpeg;base64,...)
+    if "," in file_data:
+        file_data = file_data.split(",", 1)[1]
+
+    decoded = base64.b64decode(file_data)
+
+    file_doc = save_file(
+        filename,
+        decoded,
+        "Orga Resource",
+        name,
+        is_private=0,
+        df="image"
+    )
+
+    frappe.db.set_value("Orga Resource", name, "image", file_doc.file_url, update_modified=False)
+
+    return {"image": file_doc.file_url}
