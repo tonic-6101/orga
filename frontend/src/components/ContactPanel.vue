@@ -152,8 +152,19 @@ watch(() => props.contact?.name, (newVal) => {
     <div v-else class="flex-1 overflow-auto">
       <!-- Contact Header -->
       <div class="p-4 border-b border-gray-200 dark:border-gray-700 text-center">
-        <div class="w-20 h-20 rounded-full bg-teal-500 text-white text-3xl font-semibold flex items-center justify-center mx-auto mb-3">
-          {{ contactDetail?.initials || getInitials(contactDetail?.resource_name) }}
+        <div class="w-20 h-20 rounded-full mx-auto mb-3 overflow-hidden flex-shrink-0">
+          <img
+            v-if="contactDetail?.image"
+            :src="contactDetail.image"
+            :alt="contactDetail.resource_name"
+            class="w-full h-full object-cover"
+          />
+          <span
+            v-else
+            class="w-full h-full bg-teal-500 text-white text-3xl font-semibold flex items-center justify-center"
+          >
+            {{ contactDetail?.initials || getInitials(contactDetail?.resource_name) }}
+          </span>
         </div>
         <h4 class="text-xl font-semibold text-gray-800 dark:text-gray-100 m-0 mb-1">{{ contactDetail?.resource_name }}</h4>
         <p class="text-sm text-gray-500 dark:text-gray-400 m-0 mb-3">{{ contactDetail?.designation || contactDetail?.resource_type }}</p>

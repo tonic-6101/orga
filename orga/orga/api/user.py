@@ -67,7 +67,7 @@ def get_assignable_users(
             ["name", "like", f"%{search}%"],
         ]
 
-    users = frappe.get_all(
+    return frappe.get_all(
         "User",
         filters=filters,
         or_filters=or_filters,
@@ -75,28 +75,3 @@ def get_assignable_users(
         order_by="full_name",
         limit_page_length=limit,
     )
-
-    # Also include Orga Resources that have no linked User account
-    # These are team members managed only as resources
-    resource_filters = {"user": ["is", "not set"], "status": "Active"}
-    if search:
-        resource_filters["resource_name"] = ["like", f"%{search}%"]
-
-    unlinked_resources = frappe.get_all(
-        "Orga Resource",
-        filters=resource_filters,
-        fields=["name", "resource_name", "email"],
-        order_by="resource_name",
-        limit_page_length=limit,
-    )
-
-    # Map unlinked resources to the same shape: use email as name (for assigned_to Link field)
-    for res in unlinked_resources:
-        if res.email:
-            users.append({
-                "name": res.email,
-                "full_name": res.resource_name,
-                "user_image": None,
-            })
-
-    return users

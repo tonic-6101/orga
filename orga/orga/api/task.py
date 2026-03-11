@@ -60,7 +60,11 @@ def _enrich_assigned_to(task):
         )
         if user_info:
             task["assigned_to_name"] = user_info.get("full_name") or task["assigned_to"]
-            task["assigned_to_image"] = user_info.get("user_image") or ""
+            # Prefer the Orga Resource custom avatar over the Frappe User image
+            resource_image = frappe.db.get_value(
+                "Orga Resource", {"user": task["assigned_to"]}, "image"
+            )
+            task["assigned_to_image"] = resource_image or user_info.get("user_image") or ""
         else:
             task["assigned_to_name"] = task["assigned_to"]
             task["assigned_to_image"] = ""
@@ -84,14 +88,18 @@ def _enrich_task_resource(task):
         order_by="creation desc"
     )
     if assignment:
-        resource_name = frappe.db.get_value(
-            "Orga Resource", assignment.resource, "resource_name"
+        res_info = frappe.db.get_value(
+            "Orga Resource", assignment.resource, ["resource_name", "image"], as_dict=True
         )
+        resource_name = res_info.resource_name if res_info else ""
         task["assigned_resource"] = assignment.resource
         task["assigned_resource_name"] = resource_name or ""
-        # If task has no assigned_to but has a resource assignment, use resource name
+        # If task has no assigned_to but has a resource assignment, use resource name/image
         if not task.get("assigned_to_name") and resource_name:
             task["assigned_to_name"] = resource_name
+        # Resource custom avatar takes priority over Frappe user image
+        if res_info and res_info.image:
+            task["assigned_to_image"] = res_info.image
     else:
         task["assigned_resource"] = ""
         task["assigned_resource_name"] = ""

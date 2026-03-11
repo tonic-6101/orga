@@ -263,6 +263,71 @@ async function removeSkill(skillName: string): Promise<void> {
   }
 }
 
+// Avatar upload
+const isUploadingAvatar = ref(false)
+const avatarInputRef = ref<HTMLInputElement | null>(null)
+const avatarPreview = ref<string | null>(null)
+
+function triggerAvatarUpload(): void {
+  avatarInputRef.value?.click()
+}
+
+async function onAvatarFileChange(e: Event): Promise<void> {
+  const input = e.target as HTMLInputElement
+  const file = input.files?.[0]
+  input.value = ''
+  if (!file || !contact.value) return
+
+  if (!file.type.startsWith('image/')) {
+    showError(__('Invalid file'), __('Please select an image file'))
+    return
+  }
+  if (file.size > 5 * 1024 * 1024) {
+    showError(__('File too large'), __('Please select an image under 5MB'))
+    return
+  }
+
+  // Show local preview immediately
+  const objectUrl = URL.createObjectURL(file)
+  avatarPreview.value = objectUrl
+  isUploadingAvatar.value = true
+
+  try {
+    const form = new FormData()
+    form.append('file', file, file.name)
+    form.append('doctype', 'Orga Resource')
+    form.append('docname', contact.value.name)
+    form.append('fieldname', 'image')
+    form.append('is_private', '0')
+
+    const res = await fetch('/api/method/upload_file', {
+      method: 'POST',
+      headers: { 'X-Frappe-CSRF-Token': (window as Window & { csrf_token?: string }).csrf_token ?? '' },
+      body: form
+    })
+
+    if (!res.ok) throw new Error(`${res.status} ${res.statusText}`)
+
+    const data = await res.json() as { message?: { file_url?: string } }
+    const fileUrl = data.message?.file_url
+    if (!fileUrl) throw new Error(__('Upload failed: no file URL returned'))
+
+    // Explicitly persist the image field (upload_file may not always set it)
+    await contactApi.updateContact(contact.value.name, { image: fileUrl })
+
+    // Reload from server so all components get fresh data
+    await loadContact()
+    showSuccess(__('Photo uploaded successfully'))
+  } catch (err) {
+    avatarPreview.value = null
+    showError(__('Failed to upload photo'), (err as Error).message)
+  } finally {
+    URL.revokeObjectURL(objectUrl)
+    isUploadingAvatar.value = false
+    if (avatarPreview.value === objectUrl) avatarPreview.value = null
+  }
+}
+
 // Delete contact
 async function deleteContact(): Promise<void> {
   try {
@@ -330,9 +395,41 @@ watch(contactId, () => {
             <i class="fa-solid fa-arrow-left"></i>
           </button>
 
-          <div class="w-14 h-14 rounded-full bg-teal-500 text-white text-xl font-semibold flex items-center justify-center flex-shrink-0">
-            {{ contact.initials || getInitials(contact.resource_name) }}
-          </div>
+          <!-- Avatar: click to upload -->
+          <button
+            type="button"
+            class="relative w-14 h-14 rounded-full flex-shrink-0 group focus:outline-none cursor-pointer"
+            :title="__('Change photo')"
+            @click="triggerAvatarUpload"
+            :disabled="isUploadingAvatar"
+          >
+            <img
+              v-if="avatarPreview || contact.image"
+              :src="avatarPreview || contact.image"
+              :alt="contact.resource_name"
+              class="w-14 h-14 rounded-full object-cover"
+            />
+            <span
+              v-else
+              class="w-14 h-14 rounded-full bg-teal-500 text-white text-xl font-semibold flex items-center justify-center"
+            >
+              {{ contact.initials || getInitials(contact.resource_name) }}
+            </span>
+            <!-- Hover overlay -->
+            <span class="absolute inset-0 rounded-full bg-black/40 flex items-center justify-center transition-opacity"
+              :class="isUploadingAvatar ? 'opacity-100' : 'opacity-0 group-hover:opacity-100'"
+            >
+              <i v-if="isUploadingAvatar" class="fa-solid fa-spinner fa-spin text-white text-sm"></i>
+              <i v-else class="fa-solid fa-camera text-white text-sm"></i>
+            </span>
+          </button>
+          <input
+            ref="avatarInputRef"
+            type="file"
+            accept="image/*"
+            class="hidden"
+            @change="onAvatarFileChange"
+          />
 
           <div>
             <h1 class="text-2xl font-bold text-gray-800 dark:text-gray-100">

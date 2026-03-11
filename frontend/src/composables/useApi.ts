@@ -853,6 +853,7 @@ interface UseContactApiReturn extends UseApiReturn {
   removeSkill: (contactName: string, skillName: string) => Promise<{ success: boolean }>
   getContactStats: (name: string) => Promise<ContactStats>
   getContactTimeline: (name: string, limit?: number, offset?: number) => Promise<{ timeline: OrgaAssignment[]; total: number }>
+  uploadAvatar: (name: string, fileData: string, filename: string) => Promise<{ image: string }>
 }
 
 /**
@@ -915,6 +916,13 @@ export function useContactApi(): UseContactApiReturn {
         name,
         limit,
         offset
+      }),
+
+    uploadAvatar: (name: string, fileData: string, filename: string) =>
+      call<{ image: string }>('orga.orga.api.resource.upload_resource_avatar', {
+        name,
+        file_data: fileData,
+        filename
       })
   }
 }
