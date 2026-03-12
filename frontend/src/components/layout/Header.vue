@@ -4,6 +4,7 @@
 -->
 <script setup lang="ts">
 import { ref, onMounted, onUnmounted } from 'vue'
+import { Menu } from 'lucide-vue-next'
 import { useRouter } from 'vue-router'
 import NotificationBell from '@/components/NotificationBell.vue'
 import FloatingTimer from '@/components/FloatingTimer.vue'
@@ -98,20 +99,19 @@ onUnmounted(() => {
 <template>
   <header class="h-14 bg-white dark:bg-gray-900 border-b border-gray-200 dark:border-gray-700 flex items-center justify-between px-4 sticky top-0 z-50 transition-colors">
     <!-- Left: Toggle + Logo -->
-    <div class="flex items-center gap-4">
+    <div class="flex items-center gap-2">
       <button
-        class="sidebar-toggle w-9 h-9 flex items-center justify-center rounded hover:bg-gray-100 dark:hover:bg-gray-800 text-gray-600 dark:text-gray-400 transition-colors"
+        class="sidebar-toggle w-8 h-8 flex items-center justify-center rounded-md hover:bg-black/5 dark:hover:bg-white/10 text-gray-500 dark:text-gray-400 transition-colors"
         @click="emit('toggle-sidebar')"
+        aria-label="Toggle sidebar"
         :title="__('Toggle Sidebar')"
       >
-        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
-        </svg>
+        <Menu class="w-5 h-5" />
       </button>
 
-      <router-link to="/orga" class="flex items-center gap-2 font-bold text-lg no-underline">
-        <img :src="orgaLogo" alt="Orga" class="w-6 h-6" />
-        <span class="text-gray-800 dark:text-gray-100">ORGA</span>
+      <router-link to="/orga" class="flex items-center gap-2 no-underline min-w-0">
+        <img :src="orgaLogo" alt="Orga" class="w-6 h-6 rounded-md flex-shrink-0" />
+        <span class="text-sm font-medium text-gray-900 dark:text-gray-100 truncate max-w-[140px]">Orga</span>
       </router-link>
     </div>
 
@@ -159,7 +159,7 @@ onUnmounted(() => {
     </div>
 
     <!-- Right: Timer + Notifications + Apps + User -->
-    <div class="flex items-center gap-4">
+    <div class="flex items-center gap-1">
       <!-- Floating Timer -->
       <FloatingTimer />
 

@@ -32,6 +32,15 @@ add_to_apps_screen = [
     }
 ]
 
+# Dock ecosystem integration
+# Declares Orga to Dock's app switcher — read at boot via frappe.get_hooks("dock_app_registry")
+dock_app_registry = {
+    "label": "Orga",
+    "icon": "/assets/orga/images/orga-icon.svg",
+    "color": "#16a34a",
+    "route": "/orga",
+}
+
 # Include in HTML Head
 # --------------------
 

@@ -21,7 +21,7 @@ export default {
         'overline': ['0.6875rem', { lineHeight: '1.5', fontWeight: '600', letterSpacing: '0.05em' }], // 11px
       },
       fontFamily: {
-        sans: ['-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'sans-serif'],
+        sans: ['Inter', 'ui-sans-serif', 'system-ui', 'sans-serif'],
         mono: ['SF Mono', 'Monaco', 'Cascadia Code', 'Roboto Mono', 'Consolas', 'monospace'],
       },
       colors: {

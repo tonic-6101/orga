@@ -77,7 +77,7 @@ function frappeManifestPlugin(): Plugin {
     <script>
       // Prevent flash of wrong theme before Vue loads
       (function() {
-        var stored = localStorage.getItem('orga-theme');
+        var stored = localStorage.getItem('dock-theme');
         var isDark = stored === 'dark' ||
           (!stored || stored === 'auto') && window.matchMedia('(prefers-color-scheme: dark)').matches;
         if (isDark) document.documentElement.classList.add('dark');
@@ -104,9 +104,23 @@ function frappeManifestPlugin(): Plugin {
   }
 }
 
+// Vite plugin: resolve any /assets/dock/* import as external.
+// Dock's ESM bundle is served by Frappe at runtime when Dock is installed.
+// Without this, Rollup errors on the unresolvable URL at build time.
+const dockExternalPlugin: Plugin = {
+  name: 'dock-external',
+  enforce: 'pre',
+  resolveId(id: string) {
+    if (id.startsWith('/assets/dock/')) {
+      return { id, external: true }
+    }
+  },
+}
+
 export default defineConfig({
   base: '/assets/orga/frontend/',
   plugins: [
+    dockExternalPlugin,
     vue(),
     frappeui && frappeui({
       frappeProxy: true,
