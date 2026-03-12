@@ -1,0 +1,1 @@
+import{d as t,a6 as a,ak as s,al as i}from"./main-DyP4lfE0.js";const c=t({__name:"InsertLink",props:{editor:{}},setup(o){const e=o;function n(){e.editor.commands.openLinkEditor()}return(r,p)=>a(r.$slots,"default",s(i({onClick:n})))}});export{c as default};
