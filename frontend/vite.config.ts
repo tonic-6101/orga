@@ -117,9 +117,24 @@ const dockExternalPlugin: Plugin = {
   },
 }
 
+// Vite plugin: share Vue runtime with Dock.
+// Dock ships Vue's ESM browser build at /assets/dock/js/vendor/vue.esm.js.
+// By externalizing `vue` here, Orga uses the SAME Vue instance as Dock's
+// components (DockLayout, DockNavbar), preventing dual-instance crashes.
+const vueSharedPlugin: Plugin = {
+  name: 'vue-shared',
+  enforce: 'pre',
+  resolveId(id: string) {
+    if (id === 'vue' || id === '@vue/runtime-dom' || id === '@vue/runtime-core' || id === '@vue/reactivity') {
+      return { id: '/assets/dock/js/vendor/vue.esm.js', external: true }
+    }
+  },
+}
+
 export default defineConfig({
   base: '/assets/orga/frontend/',
   plugins: [
+    vueSharedPlugin,
     dockExternalPlugin,
     vue(),
     frappeui && frappeui({

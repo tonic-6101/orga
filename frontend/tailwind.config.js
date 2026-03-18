@@ -5,6 +5,9 @@ export default {
     "./index.html",
     "./src/**/*.{vue,js,ts,jsx,tsx}",
     "./node_modules/frappe-ui/src/components/**/*.{vue,js,ts,jsx,tsx}",
+    // Dock navbar components loaded at runtime via ESM — scan source so
+    // Tailwind generates the utility classes they use (search bar, bell, etc.)
+    "../../dock/frontend/src/**/*.{vue,js,ts,jsx,tsx}",
   ],
   theme: {
     extend: {

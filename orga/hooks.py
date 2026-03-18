@@ -41,6 +41,56 @@ dock_app_registry = {
     "route": "/orga",
 }
 
+dock_search_sections = [
+    {
+        "label": "Projects",
+        "doctype": "Orga Project",
+        "search_fields": ["project_name", "project_code", "description"],
+        "display_field": "project_name",
+        "description_field": "project_code",
+        "status_field": "status",
+        "route_template": "/orga/projects/{name}",
+    },
+    {
+        "label": "Tasks",
+        "doctype": "Orga Task",
+        "search_fields": ["subject", "description"],
+        "display_field": "subject",
+        "description_field": "project",
+        "status_field": "status",
+        "meta_field": "priority",
+        "category": "task",
+        "route_template": "/orga/my-tasks",
+    },
+    {
+        "label": "Contacts",
+        "doctype": "Orga Resource",
+        "search_fields": ["resource_name", "email", "department"],
+        "display_field": "resource_name",
+        "description_field": "department",
+        "status_field": "status",
+        "route_template": "/orga/contacts/{name}",
+    },
+    {
+        "label": "Milestones",
+        "doctype": "Orga Milestone",
+        "search_fields": ["milestone_name", "description"],
+        "display_field": "milestone_name",
+        "description_field": "project",
+        "status_field": "status",
+        "meta_field": "due_date",
+        "route_template": "/orga/projects/{name}",
+    },
+    {
+        "label": "Events",
+        "doctype": "Orga Appointment",
+        "search_fields": ["subject", "description"],
+        "display_field": "subject",
+        "description_field": "appointment_type",
+        "route_template": "/orga/schedule",
+    },
+]
+
 # Include in HTML Head
 # --------------------
 
