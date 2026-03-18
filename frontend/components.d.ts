@@ -48,7 +48,6 @@ declare module 'vue' {
     FormField: typeof import('./src/components/common/FormField.vue')['default']
     GanttChart: typeof import('./src/components/gantt/GanttChart.vue')['default']
     GanttFocusPanel: typeof import('./src/components/gantt/GanttFocusPanel.vue')['default']
-    Header: typeof import('./src/components/layout/Header.vue')['default']
     KanbanColumnQuickAdd: typeof import('./src/components/project/KanbanColumnQuickAdd.vue')['default']
     KeyboardShortcutsModal: typeof import('./src/components/activity/KeyboardShortcutsModal.vue')['default']
     LinkInput: typeof import('./src/components/common/LinkInput.vue')['default']

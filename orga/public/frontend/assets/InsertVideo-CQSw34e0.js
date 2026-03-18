@@ -1,1 +1,0 @@
-import{d as r,a6 as s,ak as t,al as d}from"./main-DyP4lfE0.js";const p=r({__name:"InsertVideo",props:{editor:{}},setup(e){const o=e;function a(){o.editor.chain().focus().selectAndUploadVideo().run()}return(n,i)=>s(n.$slots,"default",t(d({onClick:a})))}});export{p as default};

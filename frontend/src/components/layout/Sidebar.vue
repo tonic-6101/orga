@@ -147,7 +147,7 @@ const iconClasses = (item: NavItem): string[] => [
           <i class="fa-brands fa-github" :class="props.collapsed ? 'text-xl' : 'text-base'"></i>
         </a>
         <a
-          href="https://www.linkedin.com/in/tonic-frappe-solution-1642a0273/"
+          href="https://www.linkedin.com/in/tonic-s-solutions-1642a0273/"
           target="_blank"
           rel="noopener noreferrer"
           class="text-orga-200 hover:text-white transition-colors"
