@@ -38,7 +38,6 @@ const navItems: NavItem[] = [
   { path: '/orga/activity', name: __('Activity'), icon: 'fa-solid fa-comments', badge: unreadCount },
   { path: '/orga/projects', name: __('Projects'), icon: 'fa-solid fa-folder-open' },
   { path: '/orga/contacts', name: __('Contacts'), icon: 'fa-solid fa-users' },
-  { path: '/orga/schedule', name: __('Schedule'), icon: 'fa-solid fa-calendar-days' },
   { path: '/orga/timesheets', name: __('Timesheets'), icon: 'fa-solid fa-stopwatch' },
   { path: '/orga/reports', name: __('Reports'), icon: 'fa-solid fa-chart-bar' },
   { path: '/orga/templates', name: __('Templates'), icon: 'fa-solid fa-copy' },
