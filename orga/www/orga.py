@@ -33,6 +33,17 @@ def get_context_for_dev():
     return get_boot()
 
 
+def _get_dock_boot():
+    """Return dock boot info if dock is installed, else None."""
+    if "dock" not in frappe.get_installed_apps():
+        return None
+    try:
+        from dock.boot import get_boot as dock_get_boot
+        return dock_get_boot()
+    except Exception:
+        return {"installed": True}
+
+
 def get_boot():
     """Build boot data for Vue SPA including user session info."""
     user = frappe.session.user
@@ -49,6 +60,7 @@ def get_boot():
                         "user_image": user_info.user_image or "",
                     },
                     "user_roles": frappe.get_roles(user),
+                    "dock": _get_dock_boot(),
                 },
                 "csrf_token": frappe.sessions.get_csrf_token(),
             },
