@@ -84,7 +84,15 @@ const routes: RouteRecordRaw[] = [
     path: '/orga/schedule',
     name: 'Schedule',
     component: Schedule,
-    meta: { title: 'Schedule', layout: 'default' }
+    meta: { title: 'Schedule', layout: 'default' },
+    beforeEnter: (_to, _from, next) => {
+      const dock = (window as any).frappe?.boot?.dock
+      if (dock?.installed) {
+        window.location.href = '/dock/calendar?source=orga'
+      } else {
+        next()
+      }
+    },
   },
   {
     path: '/orga/calendar',

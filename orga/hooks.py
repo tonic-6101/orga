@@ -90,6 +90,12 @@ dock_search_sections = [
         "route_template": "/orga/schedule",
     },
 ]
+dock_calendar_sources = {
+    "event_label":           "Appointment",
+    "create_route_template": "/orga/appointments/new?date={date}&time={time}",
+}
+
+dock_backfill_calendar = "orga.orga.integrations.dock_calendar.backfill_dock_events"
 
 # Include in HTML Head
 # --------------------
@@ -194,9 +200,13 @@ doc_events = {
 		"on_update": [
 			"orga.orga.automation.engine.run_automation",
 			"orga.orga.integrations.frappe_projects.on_orga_task_update",
-			"orga.orga.webhooks.dispatcher.trigger_on_update"
+			"orga.orga.webhooks.dispatcher.trigger_on_update",
+			"orga.orga.integrations.dock_calendar.sync_task",
 		],
-		"on_trash": "orga.orga.webhooks.dispatcher.trigger_on_trash"
+		"on_trash": [
+			"orga.orga.webhooks.dispatcher.trigger_on_trash",
+			"orga.orga.integrations.dock_calendar.remove_event",
+		]
 	},
 	"Orga Project": {
 		"after_insert": [
@@ -232,12 +242,22 @@ doc_events = {
 	},
 	"Orga Appointment": {
 		"after_insert": "orga.orga.webhooks.dispatcher.trigger_on_insert",
-		"on_update": "orga.orga.webhooks.dispatcher.trigger_on_update",
-		"on_trash": "orga.orga.webhooks.dispatcher.trigger_on_trash"
+		"on_update": [
+			"orga.orga.webhooks.dispatcher.trigger_on_update",
+			"orga.orga.integrations.dock_calendar.sync_appointment",
+		],
+		"on_trash": [
+			"orga.orga.webhooks.dispatcher.trigger_on_trash",
+			"orga.orga.integrations.dock_calendar.remove_event",
+		]
 	},
 	"Orga Milestone": {
 		"after_insert": "orga.orga.webhooks.dispatcher.trigger_on_insert",
-		"on_update": "orga.orga.webhooks.dispatcher.trigger_on_update"
+		"on_update": [
+			"orga.orga.webhooks.dispatcher.trigger_on_update",
+			"orga.orga.integrations.dock_calendar.sync_milestone",
+		],
+		"on_trash": "orga.orga.integrations.dock_calendar.remove_event",
 	},
 	"Orga Time Log": {
 		"after_insert": "orga.orga.webhooks.dispatcher.trigger_on_insert"
