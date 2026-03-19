@@ -170,3 +170,6 @@ def after_install():
     """Called after app installation"""
     setup_roles()
     setup_orga()
+    if "dock" in frappe.get_installed_apps():
+        from orga.orga.integrations.dock_calendar import backfill_dock_events
+        backfill_dock_events()
