@@ -51,8 +51,7 @@ import TaskChecklistTab from '@/components/manager/tabs/TaskChecklistTab.vue'
 import ActivityDiscussionTab from '@/components/manager/tabs/ActivityDiscussionTab.vue'
 import TaskAttachmentsTab from '@/components/manager/tabs/TaskAttachmentsTab.vue'
 import TaskActionsTab from '@/components/manager/tabs/TaskActionsTab.vue'
-import TaskTimeTab from '@/components/manager/tabs/TaskTimeTab.vue'
-import ManualTimeEntryModal from '@/components/ManualTimeEntryModal.vue'
+import WatchTimeTab from '@/components/manager/tabs/WatchTimeTab.vue'
 
 // Kanban column interface
 interface KanbanColumn {
@@ -141,11 +140,10 @@ const baseTabs: ManagerTab[] = [
   { id: 'actions', icon: 'fa-bolt', label: __('Actions') }
 ]
 
-const showManualTimeEntry = ref(false)
 const timeTabKey = ref(0)
 
 function loadTaskData(): void {
-  // Increment key to force TaskTimeTab to remount and reload data
+  // Increment key to force WatchTimeTab to remount and reload data
   timeTabKey.value++
   // Notify parent to refresh task data (actual_hours, progress, etc.)
   emit('update')
@@ -847,13 +845,12 @@ watch(() => props.task?.name, (newVal) => {
         </div>
       </template>
 
-      <!-- Time Tab -->
+      <!-- Time Tab (Watch integration) -->
       <template #time>
-        <TaskTimeTab
+        <WatchTimeTab
           :key="timeTabKey"
           :task="task"
           @update="loadTaskData()"
-          @open-manual-entry="showManualTimeEntry = true"
         />
       </template>
 
@@ -922,15 +919,6 @@ watch(() => props.task?.name, (newVal) => {
         />
       </template>
     </ManagerTabContent>
-
-    <!-- Manual Time Entry Modal -->
-    <ManualTimeEntryModal
-      :show="showManualTimeEntry"
-      default-context="task"
-      :default-task="task.name"
-      @close="showManualTimeEntry = false"
-      @created="loadTaskData()"
-    />
 
     <!-- Delete Confirmation Modal (Teleported to body to escape overflow-hidden) -->
     <Teleport to="body">

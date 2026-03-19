@@ -13,6 +13,7 @@ class OrgaResource(Document):
     def validate(self):
         self.validate_user_uniqueness()
         self.set_full_name_from_user()
+        self.auto_link_contact()
 
     def validate_user_uniqueness(self):
         """Ensure each user is linked to only one resource"""
@@ -33,6 +34,56 @@ class OrgaResource(Document):
         """Auto-fill resource name from user if not set"""
         if self.user and not self.resource_name:
             self.resource_name = frappe.db.get_value("User", self.user, "full_name")
+
+    def auto_link_contact(self):
+        """Auto-link to a Frappe Contact if not already linked.
+
+        If ``user`` is set but ``contact`` is empty, search for an existing
+        Contact whose email matches the user's email.  If no match, create a
+        new Contact and mark it as shared (``dock_shared = 1``) so the team
+        can see it in Dock People.
+        """
+        if self.contact:
+            return
+
+        if not self.user:
+            return
+
+        user_email = frappe.db.get_value("User", self.user, "email")
+        if not user_email:
+            return
+
+        # Try to find existing Contact by email
+        existing = frappe.db.get_value(
+            "Contact Email",
+            {"email_id": user_email, "parenttype": "Contact"},
+            "parent",
+        )
+        if existing:
+            self.contact = existing
+            return
+
+        # Create a new Contact
+        user_doc = frappe.get_doc("User", self.user)
+        contact = frappe.get_doc({
+            "doctype": "Contact",
+            "first_name": user_doc.first_name or self.resource_name,
+            "last_name": user_doc.last_name or "",
+            "designation": frappe.db.get_value("Employee", self.employee, "designation") if self.employee else None,
+            "company_name": frappe.db.get_value("Employee", self.employee, "company") if self.employee else None,
+        })
+        contact.append("email_ids", {"email_id": user_email, "is_primary": 1})
+        if user_doc.mobile_no:
+            contact.append("phone_nos", {"phone": user_doc.mobile_no, "is_primary_mobile_no": 1})
+        if user_doc.phone:
+            contact.append("phone_nos", {"phone": user_doc.phone, "is_primary_phone": 1})
+
+        # Set dock_shared if the custom field exists
+        if frappe.db.exists("Custom Field", {"dt": "Contact", "fieldname": "dock_shared"}):
+            contact.dock_shared = 1
+
+        contact.insert(ignore_permissions=True)
+        self.contact = contact.name
 
     def get_current_workload(self, start_date=None, end_date=None):
         """

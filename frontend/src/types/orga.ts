@@ -159,55 +159,63 @@ export interface OrgaMilestone extends OrgaDocument {
 }
 
 // ============================================
-// Orga Contact
+// Orga Resource (domain enrichment of Frappe Contact)
 // ============================================
 
-export type ContactStatus = 'Active' | 'Inactive' | 'On Leave'
+export type ResourceStatus = 'Active' | 'Inactive' | 'On Leave'
 export type ProficiencyLevel = 'Beginner' | 'Intermediate' | 'Advanced' | 'Expert'
 
-export type ContactType = 'Employee' | 'Contractor' | 'External'
+export type ResourceType = 'Employee' | 'Contractor' | 'External'
 
-export interface OrgaContact extends OrgaDocument {
+// Backwards-compatible aliases
+export type ContactStatus = ResourceStatus
+export type ContactType = ResourceType
+
+export interface OrgaResource extends OrgaDocument {
   resource_name: string
-  email?: string
-  phone?: string
-  mobile_no?: string
+  contact?: string
   user?: string
   department?: string
-  designation?: string
-  company?: string
-  job_title?: string
-  resource_type?: ContactType
-  status: ContactStatus
+  resource_type?: ResourceType
+  status: ResourceStatus
   reports_to?: string
   reports_to_name?: string
   date_of_joining?: string
-  address?: string
   availability_hours?: number
   weekly_capacity: number
   hourly_cost?: number
   billable_rate?: number
   notes?: string
   // Child tables
-  skills?: OrgaContactSkill[]
+  skills?: OrgaResourceSkill[]
+  // Resolved from linked Contact (via API enrichment)
+  email?: string
+  phone?: string
+  mobile_no?: string
+  designation?: string
+  company?: string
+  image?: string
   // Computed (from API enrichment)
-  current_allocation?: number
-  available_hours?: number
   active_assignments?: number
   allocated_hours?: number
   utilization_percent?: number
   workload_status?: string
   initials?: string
-  image?: string
 }
 
-export interface OrgaContactSkill {
+// Backwards-compatible alias
+export type OrgaContact = OrgaResource
+
+export interface OrgaResourceSkill {
   name?: string
   skill_name: string
   proficiency: ProficiencyLevel
   years_experience?: number
   notes?: string
 }
+
+// Backwards-compatible alias
+export type OrgaContactSkill = OrgaResourceSkill
 
 // ============================================
 // Orga Assignment
@@ -259,7 +267,7 @@ export interface OrgaDefect extends OrgaDocument {
 }
 
 // ============================================
-// Contact Stats (for Contact Detail page)
+// Resource Stats
 // ============================================
 
 export interface ContactStats {
@@ -332,49 +340,6 @@ export interface OrgaEventAttendee {
   email?: string
   rsvp_status: RsvpStatus
   required?: 0 | 1
-}
-
-// ============================================
-// Orga Time Log
-// ============================================
-
-export type TrackingContext = 'task' | 'event' | 'project' | 'standalone'
-
-export interface OrgaTimeLog extends OrgaDocument {
-  tracking_context: TrackingContext
-  task?: string
-  task_subject?: string
-  event?: string
-  event_subject?: string
-  project?: string
-  project_name?: string
-  resource?: string
-  resource_name?: string
-  user: string
-  user_name?: string
-  hours: number
-  log_date: string
-  description?: string
-  billable: 0 | 1
-  from_time?: string
-  to_time?: string
-  is_running: 0 | 1
-  timer_started_at?: string
-}
-
-export interface TimerState {
-  isRunning: boolean
-  activeTimeLog: OrgaTimeLog | null
-  elapsedSeconds: number
-  context: TrackingContext | null
-  contextLabel: string
-}
-
-export interface TodayTimeSummary {
-  total_hours: number
-  log_count: number
-  logs: OrgaTimeLog[]
-  active_timer: OrgaTimeLog | null
 }
 
 // ============================================
@@ -473,7 +438,7 @@ export interface DashboardStats {
   task_count: number
   completed_tasks: number
   overdue_tasks: number
-  contact_count: number
+  resource_count: number
   upcoming_events: number
   active_assignments: number
   projects_by_status?: Record<string, number>
@@ -824,7 +789,7 @@ export interface ContactUtilizationReport {
   resources: ContactUtilization[]
   date_range: { from: string; to: string }
   summary: {
-    total_contacts: number
+    total_resources: number
     overallocated: number
     busy: number
     available: number
@@ -943,17 +908,6 @@ export interface EventFilters {
   event_type?: EventType
   start_date?: string
   end_date?: string
-  limit?: number
-  offset?: number
-}
-
-export interface TimeLogFilters {
-  [key: string]: unknown
-  task?: string
-  project?: string
-  user?: string
-  event?: string
-  tracking_context?: TrackingContext
   limit?: number
   offset?: number
 }
@@ -1281,7 +1235,7 @@ export interface SearchResultItem {
 export interface SearchResults {
   projects: SearchResultItem[]
   tasks: SearchResultItem[]
-  contacts: SearchResultItem[]
+  contacts: SearchResultItem[]  // "contacts" key kept for API compat (maps from "resource" category)
   milestones: SearchResultItem[]
   events: SearchResultItem[]
 }

@@ -10,12 +10,10 @@ import Sidebar from './components/layout/Sidebar.vue'
 import PortalLayout from './components/layout/PortalLayout.vue'
 import ToastContainer from './components/common/ToastContainer.vue'
 import { useSidebar } from './composables/useSidebar'
-import { useTimer } from './composables/useTimer'
 import { useCurrency } from './composables/useCurrency'
 
 const route = useRoute()
 const { collapsed, mobileOpen, toggle, closeMobile } = useSidebar()
-const { loadActiveTimer } = useTimer()
 const { loadCurrency } = useCurrency()
 
 const isPortalLayout = computed(() => {
@@ -39,7 +37,6 @@ function handleClickOutside(e: MouseEvent): void {
 onMounted(() => {
   document.addEventListener('click', handleClickOutside)
   window.addEventListener('dock:toggleSidebar', onDockToggle)
-  loadActiveTimer()
   loadCurrency()
 })
 

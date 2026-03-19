@@ -16,9 +16,6 @@ import type {
   OrgaContact,
   OrgaAssignment,
   OrgaEvent,
-  OrgaTimeLog,
-  TrackingContext,
-  TodayTimeSummary,
   OrgaMilestone,
   OrgaSettings,
   OrgaTaskChecklist,
@@ -51,7 +48,6 @@ import type {
   TaskFilters,
   ContactFilters,
   EventFilters,
-  TimeLogFilters,
   ProficiencyLevel,
   RsvpStatus,
   NoteType,
@@ -724,92 +720,6 @@ export function useActivityApi(): UseActivityApiReturn {
 }
 
 // ============================================
-// Time Log API
-// ============================================
-
-interface UseTimeLogApiReturn extends UseApiReturn {
-  getTimeLogs: (filters?: TimeLogFilters) => Promise<{ logs: OrgaTimeLog[]; total: number }>
-  getTimeLog: (name: string) => Promise<OrgaTimeLog>
-  createTimeLog: (data: {
-    hours: number
-    task?: string | null
-    event?: string | null
-    project?: string | null
-    tracking_context?: TrackingContext
-    description?: string | null
-    from_time?: string | null
-    log_date?: string | null
-    billable?: number
-  }) => Promise<OrgaTimeLog>
-  updateTimeLog: (name: string, data: Partial<OrgaTimeLog>) => Promise<OrgaTimeLog>
-  deleteTimeLog: (name: string) => Promise<{ success: boolean }>
-  getTimeSummary: (filters?: TimeLogFilters & { group_by?: string }) => Promise<{ total_hours: number; log_count: number; grouped?: Array<{ group_key: string; total_hours: number; log_count: number }> }>
-  getMyTimeLogs: (limit?: number) => Promise<{ logs: OrgaTimeLog[]; total: number }>
-  // Timer endpoints
-  startTimer: (trackingContext: TrackingContext, task?: string, event?: string, project?: string, description?: string) => Promise<OrgaTimeLog>
-  stopTimer: (name?: string) => Promise<OrgaTimeLog>
-  getActiveTimer: () => Promise<OrgaTimeLog | null>
-  discardTimer: (name?: string) => Promise<{ success: boolean }>
-  getTodaySummary: () => Promise<TodayTimeSummary>
-}
-
-/**
- * Time Log API composable
- */
-export function useTimeLogApi(): UseTimeLogApiReturn {
-  const { call, loading, error } = useApi()
-
-  return {
-    loading,
-    error,
-    call,
-
-    getTimeLogs: (filters: TimeLogFilters = {}) =>
-      call<{ logs: OrgaTimeLog[]; total: number }>('orga.orga.api.timelog.get_time_logs', filters),
-
-    getTimeLog: (name: string) =>
-      call<OrgaTimeLog>('orga.orga.api.timelog.get_time_log', { name }),
-
-    createTimeLog: (data) =>
-      call<OrgaTimeLog>('orga.orga.api.timelog.create_time_log', data as Record<string, unknown>),
-
-    updateTimeLog: (name: string, data: Partial<OrgaTimeLog>) =>
-      call<OrgaTimeLog>('orga.orga.api.timelog.update_time_log', { name, ...data }),
-
-    deleteTimeLog: (name: string) =>
-      call<{ success: boolean }>('orga.orga.api.timelog.delete_time_log', { name }),
-
-    getTimeSummary: (filters: TimeLogFilters & { group_by?: string } = {}) =>
-      call<{ total_hours: number; log_count: number; grouped?: Array<{ group_key: string; total_hours: number; log_count: number }> }>('orga.orga.api.timelog.get_time_summary', filters),
-
-    getMyTimeLogs: (limit: number = 20) =>
-      call<{ logs: OrgaTimeLog[]; total: number }>('orga.orga.api.timelog.get_my_time_logs', { limit }),
-
-    // Timer endpoints
-    startTimer: (trackingContext: TrackingContext, task?: string, event?: string, project?: string, description?: string) =>
-      call<OrgaTimeLog>('orga.orga.api.timelog.start_timer', {
-        tracking_context: trackingContext,
-        task: task || null,
-        event: event || null,
-        project: project || null,
-        description: description || null
-      }),
-
-    stopTimer: (name?: string) =>
-      call<OrgaTimeLog>('orga.orga.api.timelog.stop_timer', { name: name || null }),
-
-    getActiveTimer: () =>
-      call<OrgaTimeLog | null>('orga.orga.api.timelog.get_active_timer', {}),
-
-    discardTimer: (name?: string) =>
-      call<{ success: boolean }>('orga.orga.api.timelog.discard_timer', { name: name || null }),
-
-    getTodaySummary: () =>
-      call<TodayTimeSummary>('orga.orga.api.timelog.get_today_summary', {})
-  }
-}
-
-// ============================================
 // Settings API
 // ============================================
 
@@ -838,49 +748,45 @@ export function useSettingsApi(): UseSettingsApiReturn {
 }
 
 // ============================================
-// Contact API
+// Resource API (was Contact API)
 // ============================================
 
-interface UseContactApiReturn extends UseApiReturn {
-  getContacts: (filters?: ContactFilters) => Promise<{ resources: OrgaContact[]; total: number }>
-  getContact: (name: string) => Promise<OrgaContact>
-  createContact: (data: Partial<OrgaContact>) => Promise<{ name: string }>
-  updateContact: (name: string, data: Partial<OrgaContact>) => Promise<{ name: string; modified: string }>
-  deleteContact: (name: string) => Promise<{ success: boolean }>
+interface UseResourceApiReturn extends UseApiReturn {
+  getResources: (filters?: ContactFilters) => Promise<{ resources: OrgaContact[]; total: number }>
+  getResource: (name: string) => Promise<OrgaContact>
   getWorkload: (name: string, startDate?: string | null, endDate?: string | null) => Promise<{ allocated_hours: number; available_hours: number; utilization: number }>
   searchBySkill: (skill: string, minProficiency?: ProficiencyLevel | null) => Promise<OrgaContact[]>
-  addSkill: (contactName: string, skillName: string, proficiency?: ProficiencyLevel) => Promise<OrgaContactSkill>
-  removeSkill: (contactName: string, skillName: string) => Promise<{ success: boolean }>
-  getContactStats: (name: string) => Promise<ContactStats>
-  getContactTimeline: (name: string, limit?: number, offset?: number) => Promise<{ timeline: OrgaAssignment[]; total: number }>
-  uploadAvatar: (name: string, fileData: string, filename: string) => Promise<{ image: string }>
+  addSkill: (resourceName: string, skillName: string, proficiency?: ProficiencyLevel) => Promise<OrgaContactSkill>
+  removeSkill: (resourceName: string, skillName: string) => Promise<{ success: boolean }>
+  getResourceStats: (name: string) => Promise<ContactStats>
+  getResourceTimeline: (name: string, limit?: number, offset?: number) => Promise<{ timeline: OrgaAssignment[]; total: number }>
+  // Backwards-compatible aliases
+  getContacts: (filters?: ContactFilters) => Promise<{ resources: OrgaContact[]; total: number }>
+  getContact: (name: string) => Promise<OrgaContact>
 }
 
 /**
- * Contact API composable
+ * Resource API composable (renamed from useContactApi)
  */
-export function useContactApi(): UseContactApiReturn {
+export function useResourceApi(): UseResourceApiReturn {
   const { call, loading, error } = useApi()
+
+  const getResources = (filters: ContactFilters = {}) =>
+    call<{ resources: OrgaContact[]; total: number }>('orga.orga.api.resource.get_resources', filters)
+
+  const getResource = (name: string) =>
+    call<OrgaContact>('orga.orga.api.resource.get_resource', { name })
 
   return {
     loading,
     error,
     call,
 
-    getContacts: (filters: ContactFilters = {}) =>
-      call<{ resources: OrgaContact[]; total: number }>('orga.orga.api.resource.get_resources', filters),
-
-    getContact: (name: string) =>
-      call<OrgaContact>('orga.orga.api.resource.get_resource', { name }),
-
-    createContact: (data: Partial<OrgaContact>) =>
-      call<{ name: string }>('orga.orga.api.resource.create_resource', { data: JSON.stringify(data) }),
-
-    updateContact: (name: string, data: Partial<OrgaContact>) =>
-      call<{ name: string; modified: string }>('orga.orga.api.resource.update_resource', { name, data: JSON.stringify(data) }),
-
-    deleteContact: (name: string) =>
-      call<{ success: boolean }>('orga.orga.api.resource.delete_resource', { name }),
+    getResources,
+    getResource,
+    // Backwards-compatible aliases
+    getContacts: getResources,
+    getContact: getResource,
 
     getWorkload: (name: string, startDate: string | null = null, endDate: string | null = null) =>
       call<{ allocated_hours: number; available_hours: number; utilization: number }>('orga.orga.api.resource.get_resource_workload', {
@@ -895,37 +801,33 @@ export function useContactApi(): UseContactApiReturn {
         min_proficiency: minProficiency
       }),
 
-    addSkill: (contactName: string, skillName: string, proficiency: ProficiencyLevel = 'Intermediate') =>
+    addSkill: (resourceName: string, skillName: string, proficiency: ProficiencyLevel = 'Intermediate') =>
       call<OrgaContactSkill>('orga.orga.api.resource.add_resource_skill', {
-        resource_name: contactName,
+        resource_name: resourceName,
         skill_name: skillName,
         proficiency
       }),
 
-    removeSkill: (contactName: string, skillName: string) =>
+    removeSkill: (resourceName: string, skillName: string) =>
       call<{ success: boolean }>('orga.orga.api.resource.remove_resource_skill', {
-        resource_name: contactName,
+        resource_name: resourceName,
         skill_name: skillName
       }),
 
-    getContactStats: (name: string) =>
-      call<ContactStats>('orga.orga.api.resource.get_contact_stats', { name }),
+    getResourceStats: (name: string) =>
+      call<ContactStats>('orga.orga.api.resource.get_resource_stats', { name }),
 
-    getContactTimeline: (name: string, limit = 20, offset = 0) =>
-      call<{ timeline: OrgaAssignment[]; total: number }>('orga.orga.api.resource.get_contact_timeline', {
+    getResourceTimeline: (name: string, limit = 20, offset = 0) =>
+      call<{ timeline: OrgaAssignment[]; total: number }>('orga.orga.api.resource.get_resource_timeline', {
         name,
         limit,
         offset
       }),
-
-    uploadAvatar: (name: string, fileData: string, filename: string) =>
-      call<{ image: string }>('orga.orga.api.resource.upload_resource_avatar', {
-        name,
-        file_data: fileData,
-        filename
-      })
   }
 }
+
+/** @deprecated Use useResourceApi instead */
+export const useContactApi = useResourceApi
 
 // ============================================
 // User API (meta-driven link field queries)
@@ -1463,9 +1365,10 @@ interface UseOrgaApiReturn {
   task: ReturnType<typeof useTaskApi>
   dashboard: ReturnType<typeof useDashboardApi>
   activity: ReturnType<typeof useActivityApi>
-  timeLog: ReturnType<typeof useTimeLogApi>
   settings: ReturnType<typeof useSettingsApi>
-  contact: ReturnType<typeof useContactApi>
+  resource: ReturnType<typeof useResourceApi>
+  /** @deprecated Use resource instead */
+  contact: ReturnType<typeof useResourceApi>
   assignment: ReturnType<typeof useAssignmentApi>
   defect: ReturnType<typeof useDefectApi>
   event: ReturnType<typeof useEventApi>
@@ -1486,9 +1389,9 @@ export function useOrgaApi(): UseOrgaApiReturn {
     task: useTaskApi(),
     dashboard: useDashboardApi(),
     activity: useActivityApi(),
-    timeLog: useTimeLogApi(),
     settings: useSettingsApi(),
-    contact: useContactApi(),
+    resource: useResourceApi(),
+    contact: useResourceApi(),
     assignment: useAssignmentApi(),
     defect: useDefectApi(),
     event: useEventApi(),

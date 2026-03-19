@@ -159,143 +159,8 @@ def export_resources(status: str = None, department: str = None, format: str = "
         return _create_csv_file(resources, filename)
 
 
-@frappe.whitelist()
-def export_time_logs(project: str = None, resource: str = None,
-                     from_date: str = None, to_date: str = None, format: str = "csv"):
-    """
-    Export time logs to CSV or JSON.
-
-    Args:
-        project: Filter by project (optional)
-        resource: Filter by resource (optional)
-        from_date: Filter by start date (optional)
-        to_date: Filter by end date (optional)
-        format: Output format ('csv' or 'json')
-
-    Returns:
-        dict: {file_url: str} for download
-    """
-    filters = {}
-    if project:
-        filters["project"] = project
-    if resource:
-        filters["resource"] = resource
-
-    if from_date and to_date:
-        filters["log_date"] = ["between", [from_date, to_date]]
-    elif from_date:
-        filters["log_date"] = [">=", from_date]
-    elif to_date:
-        filters["log_date"] = ["<=", to_date]
-
-    time_logs = frappe.get_all(
-        "Orga Time Log",
-        filters=filters,
-        fields=[
-            "name", "task", "project", "user", "resource",
-            "log_date", "from_time", "to_time", "hours",
-            "billable", "description"
-        ],
-        order_by="log_date desc"
-    )
-
-    if not time_logs:
-        return {"file_url": None, "message": _("No time logs found")}
-
-    # Enrich with names
-    for log in time_logs:
-        if log.get("task"):
-            log["task_subject"] = frappe.db.get_value("Orga Task", log["task"], "subject")
-        if log.get("project"):
-            log["project_name"] = frappe.db.get_value("Orga Project", log["project"], "project_name")
-        if log.get("resource"):
-            log["resource_name"] = frappe.db.get_value("Orga Resource", log["resource"], "resource_name")
-
-    filename = f"orga_time_logs_export_{now_datetime().strftime('%Y%m%d_%H%M%S')}"
-
-    if format == "json":
-        return _create_json_file({"time_logs": time_logs}, filename)
-    else:
-        return _create_csv_file(time_logs, filename)
-
-
-@frappe.whitelist()
-def export_timesheet_report(project: str = None, from_date: str = None,
-                            to_date: str = None, format: str = "csv"):
-    """
-    Export aggregated timesheet report.
-
-    Args:
-        project: Filter by project (optional)
-        from_date: Report start date
-        to_date: Report end date
-        format: Output format ('csv' or 'json')
-
-    Returns:
-        dict: {file_url: str} for download
-    """
-    filters = {}
-    if project:
-        filters["project"] = project
-
-    if from_date and to_date:
-        filters["log_date"] = ["between", [from_date, to_date]]
-    elif from_date:
-        filters["log_date"] = [">=", from_date]
-    elif to_date:
-        filters["log_date"] = ["<=", to_date]
-
-    # Get aggregated data by resource and date
-    time_logs = frappe.get_all(
-        "Orga Time Log",
-        filters=filters,
-        fields=["resource", "log_date", "hours", "billable", "project"]
-    )
-
-    # Aggregate by resource and date
-    aggregated = {}
-    for log in time_logs:
-        key = (log.get("resource") or "Unassigned", str(log.get("log_date")))
-        if key not in aggregated:
-            aggregated[key] = {
-                "resource": log.get("resource") or "Unassigned",
-                "date": str(log.get("log_date")),
-                "total_hours": 0,
-                "billable_hours": 0,
-                "non_billable_hours": 0
-            }
-
-        hours = flt(log.get("hours"))
-        aggregated[key]["total_hours"] += hours
-        if log.get("billable"):
-            aggregated[key]["billable_hours"] += hours
-        else:
-            aggregated[key]["non_billable_hours"] += hours
-
-    # Convert to list and enrich with resource names
-    report = list(aggregated.values())
-    for row in report:
-        if row["resource"] != "Unassigned":
-            row["resource_name"] = frappe.db.get_value(
-                "Orga Resource", row["resource"], "resource_name"
-            )
-        else:
-            row["resource_name"] = "Unassigned"
-
-        # Round hours
-        row["total_hours"] = round(row["total_hours"], 2)
-        row["billable_hours"] = round(row["billable_hours"], 2)
-        row["non_billable_hours"] = round(row["non_billable_hours"], 2)
-
-    if not report:
-        return {"file_url": None, "message": _("No time data found")}
-
-    filename = f"orga_timesheet_report_{now_datetime().strftime('%Y%m%d_%H%M%S')}"
-
-    if format == "json":
-        return _create_json_file({"report": report}, filename)
-    else:
-        return _create_csv_file(report, filename)
+# Time log and timesheet export removed — time tracking now in Watch app.
+# Watch has its own export functionality.
 
 
 # =============================================================================
@@ -608,9 +473,6 @@ def get_import_template(doctype: str):
             "department", "designation", "weekly_capacity",
             "hourly_cost", "billable_rate"
         ],
-        "Orga Time Log": [
-            "task", "log_date", "hours", "billable", "description"
-        ]
     }
 
     if doctype not in templates:
@@ -633,11 +495,6 @@ def get_import_template(doctype: str):
             "John Doe", "john@example.com", "Employee", "Active",
             "Engineering", "Software Engineer", "40", "50", "100"
         ])
-    elif doctype == "Orga Time Log":
-        writer.writerow([
-            "TASK-00001", "2026-02-01", "8", "1", "Worked on feature"
-        ])
-
     filename = f"orga_{doctype.lower().replace(' ', '_')}_template"
     return _create_csv_file_from_string(output.getvalue(), filename)
 

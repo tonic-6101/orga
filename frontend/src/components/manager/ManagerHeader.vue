@@ -69,7 +69,7 @@
  * - Custom actions slot
  * - Close button
  *
- * Used by: ActivityPanel, TaskPanel, ContactPanel, EventPanel
+ * Used by: ActivityPanel, TaskPanel, EventPanel
  */
 import { __ } from '@/composables/useTranslate'
 

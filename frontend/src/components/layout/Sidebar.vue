@@ -37,11 +37,8 @@ const navItems: NavItem[] = [
   { path: '/orga/my-tasks', name: __('My Tasks'), icon: 'fa-solid fa-circle-check' },
   { path: '/orga/activity', name: __('Activity'), icon: 'fa-solid fa-comments', badge: unreadCount },
   { path: '/orga/projects', name: __('Projects'), icon: 'fa-solid fa-folder-open' },
-  { path: '/orga/contacts', name: __('Contacts'), icon: 'fa-solid fa-users' },
-  { path: '/orga/timesheets', name: __('Timesheets'), icon: 'fa-solid fa-stopwatch' },
   { path: '/orga/reports', name: __('Reports'), icon: 'fa-solid fa-chart-bar' },
   { path: '/orga/templates', name: __('Templates'), icon: 'fa-solid fa-copy' },
-  { path: '/orga/settings', name: __('Settings'), icon: 'fa-solid fa-gear' },
 ]
 
 const isActive = (item: NavItem): boolean => {
@@ -115,7 +112,7 @@ const iconClasses = (item: NavItem): string[] => [
           <span class="text-xs text-orga-200">v{{ appVersion }}</span>
           <router-link
             v-if="updateAvailable"
-            to="/orga/settings"
+            to="/dock/settings/app/orga"
             class="flex items-center gap-1 text-xs text-amber-300 hover:text-amber-200 transition-colors no-underline"
             :title="__('Update available: v{0}', [updateInfo?.latest_version || ''])"
             @click="emit('close')"
@@ -128,7 +125,7 @@ const iconClasses = (item: NavItem): string[] => [
       <!-- Collapsed: update dot -->
       <div v-if="props.collapsed && updateAvailable" class="flex justify-center pb-2">
         <router-link
-          to="/orga/settings"
+          to="/dock/settings/app/orga"
           class="w-2.5 h-2.5 rounded-full bg-amber-400 animate-pulse block"
           :title="__('Update available')"
           @click="emit('close')"

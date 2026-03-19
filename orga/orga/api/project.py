@@ -457,8 +457,8 @@ def delete_project(name):
     for assignment in frappe.get_all("Orga Assignment", filters={"project": name}, pluck="name"):
         frappe.delete_doc("Orga Assignment", assignment, force=True)
 
-    # Clear project reference on time logs and appointments (preserve the records)
-    frappe.db.set_value("Orga Time Log", {"project": name}, "project", "", update_modified=False)
+    # Clear project reference on appointments (preserve the records)
+    # Note: time tracking moved to Watch app (Watch Entry.orga_project custom field stays as historical ref)
     frappe.db.set_value("Orga Appointment", {"project": name}, "project", "", update_modified=False)
 
     if frappe.db.exists("DocType", "Orga Defect"):

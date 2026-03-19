@@ -11,7 +11,7 @@ app_license = "AGPL-3.0-or-later"
 # Apps
 # ------------------
 
-# required_apps = []
+required_apps = ["frappe", "dock"]
 
 # Website Route Rules (for Vue SPA)
 website_route_rules = [
@@ -63,13 +63,13 @@ dock_search_sections = [
         "route_template": "/orga/my-tasks",
     },
     {
-        "label": "Contacts",
+        "label": "Team",
         "doctype": "Orga Resource",
-        "search_fields": ["resource_name", "email", "department"],
+        "search_fields": ["resource_name", "department"],
         "display_field": "resource_name",
         "description_field": "department",
         "status_field": "status",
-        "route_template": "/orga/contacts/{name}",
+        "route_template": "/orga/people",
     },
     {
         "label": "Milestones",
@@ -90,11 +90,30 @@ dock_search_sections = [
         "route_template": "/orga/calendar",
     },
 ]
+dock_settings_sections = [
+    {
+        "label": "Orga",
+        "icon": "/assets/orga/images/orga-icon.svg",
+        "icon_url": "/assets/orga/images/orga-icon.svg",
+        "route": "orga",
+        "component": "OrgaSettings",
+        "bundle": "/assets/orga/js/orga-settings.esm.js",
+        "sections": [
+            {"label": "Defaults", "key": "defaults"},
+            {"label": "Features", "key": "features"},
+            {"label": "Notifications", "key": "notifications"},
+            {"label": "Updates", "key": "updates"},
+        ],
+    }
+]
+
 dock_calendar_sources = {
     "event_label": "Appointment",
 }
 
 dock_backfill_calendar = "orga.orga.integrations.dock_calendar.backfill_dock_events"
+
+dock_people_context = "orga.orga.integrations.dock_people.get_people_context"
 
 # Include in HTML Head
 # --------------------
@@ -145,6 +164,7 @@ role_home_page = {
 
 # before_install = "orga.install.before_install"
 after_install = "orga.install.after_install"
+after_migrate = "orga.install.setup_watch_custom_fields"
 
 # Uninstallation
 # ------------
@@ -258,8 +278,9 @@ doc_events = {
 		],
 		"on_trash": "orga.orga.integrations.dock_calendar.remove_event",
 	},
-	"Orga Time Log": {
-		"after_insert": "orga.orga.webhooks.dispatcher.trigger_on_insert"
+	"Watch Entry": {
+		"on_update": "orga.orga.integrations.watch.on_watch_entry_update",
+		"on_trash": "orga.orga.integrations.watch.on_watch_entry_delete",
 	},
 	"Orga Client": {
 		"after_insert": "orga.orga.webhooks.dispatcher.trigger_on_insert",

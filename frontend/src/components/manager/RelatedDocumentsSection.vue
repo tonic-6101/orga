@@ -141,7 +141,7 @@ function navigateToDocument(doc: RelatedDocument) {
   const routes: Record<string, string> = {
     'Orga Project': '/orga/projects',
     'Orga Task': '/orga/tasks',
-    'Orga Resource': '/orga/contacts',
+    'Orga Resource': '/orga/people',
     'Orga Appointment': '/orga/schedule',
     'Orga Milestone': '/orga/projects'
   }

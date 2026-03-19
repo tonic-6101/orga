@@ -5,7 +5,7 @@
 <script setup lang="ts">
 import { ref, computed, onMounted, onUnmounted, watch, nextTick } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
-import { useProjectApi, useTaskApi, useMilestoneApi, useGanttApi, useApi, useContactApi } from '@/composables/useApi'
+import { useProjectApi, useTaskApi, useMilestoneApi, useGanttApi, useApi, useResourceApi } from '@/composables/useApi'
 import { __ } from '@/composables/useTranslate'
 import { sanitizeHtml } from '@/utils/sanitize'
 import { useProjectShortcuts } from '@/composables/useProjectShortcuts'
@@ -32,7 +32,7 @@ const { getTasksByStatus, updateStatus, updateTask, applyCascade, addDependency 
 const { call: apiCall } = useApi()
 const { updateMilestone } = useMilestoneApi()
 const { reorderItem } = useGanttApi()
-const { getContacts } = useContactApi()
+const { getResources } = useResourceApi()
 const { success: showSuccess, error: showError } = useToast()
 const { formatCurrency, currencySymbol } = useCurrency()
 
@@ -1224,7 +1224,7 @@ async function loadProject(): Promise<void> {
       getProject(projectId.value),
       getTasksByStatus(projectId.value),
       apiCall<ProjectDependencyEdge[]>('orga.orga.api.project.get_project_dependencies', { project_name: projectId.value }),
-      getContacts({ status: 'Active' })
+      getResources({ status: 'Active' })
     ])
 
     project.value = projectData.project

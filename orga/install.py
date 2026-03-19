@@ -166,10 +166,76 @@ def update_workspace_icon():
         print("Workspace Orga not found")
 
 
+def setup_watch_custom_fields():
+    """Add Orga context fields to Watch Entry.
+
+    Called on after_install and after_migrate so fields stay in sync.
+    Uses Frappe's Custom Field API — fields only exist when Orga is installed.
+    """
+    if "watch" not in frappe.get_installed_apps():
+        return
+
+    from frappe.custom.doctype.custom_field.custom_field import create_custom_fields
+
+    custom_fields = {
+        "Watch Entry": [
+            {
+                "fieldname": "orga_context_section",
+                "fieldtype": "Section Break",
+                "label": "Orga Context",
+                "insert_after": "is_running",
+                "collapsible": 1,
+                "depends_on": "eval:doc.orga_tracking_context",
+            },
+            {
+                "fieldname": "orga_tracking_context",
+                "fieldtype": "Select",
+                "label": "Tracking Context",
+                "options": "\ntask\nevent\nproject\nstandalone",
+                "insert_after": "orga_context_section",
+            },
+            {
+                "fieldname": "orga_task",
+                "fieldtype": "Link",
+                "label": "Task",
+                "options": "Orga Task",
+                "insert_after": "orga_tracking_context",
+                "depends_on": "eval:doc.orga_tracking_context === 'task'",
+                "mandatory_depends_on": "eval:doc.orga_tracking_context === 'task'",
+            },
+            {
+                "fieldname": "orga_col_break_context",
+                "fieldtype": "Column Break",
+                "insert_after": "orga_task",
+            },
+            {
+                "fieldname": "orga_event",
+                "fieldtype": "Link",
+                "label": "Event",
+                "options": "Orga Appointment",
+                "insert_after": "orga_col_break_context",
+                "depends_on": "eval:doc.orga_tracking_context === 'event'",
+                "mandatory_depends_on": "eval:doc.orga_tracking_context === 'event'",
+            },
+            {
+                "fieldname": "orga_project",
+                "fieldtype": "Link",
+                "label": "Project",
+                "options": "Orga Project",
+                "insert_after": "orga_event",
+                "depends_on": "eval:['task', 'event', 'project'].includes(doc.orga_tracking_context)",
+            },
+        ],
+    }
+
+    create_custom_fields(custom_fields, update=True)
+
+
 def after_install():
     """Called after app installation"""
     setup_roles()
     setup_orga()
+    setup_watch_custom_fields()
     if "dock" in frappe.get_installed_apps():
         from orga.orga.integrations.dock_calendar import backfill_dock_events
         backfill_dock_events()

@@ -70,6 +70,8 @@ function frappeManifestPlugin(): Plugin {
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
     <link rel="icon" type="image/svg+xml" href="/assets/orga/images/orga-icon.svg" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+    <link rel="stylesheet" href="/assets/dock/css/dock-tokens.css">
+    <link rel="stylesheet" href="/assets/dock/css/dock-navbar.css">
     <script type="module" crossorigin src="/assets/orga/frontend/assets/${jsFile}"></script>
     <link rel="stylesheet" crossorigin href="/assets/orga/frontend/assets/${cssFile}">
   </head>
@@ -131,6 +133,57 @@ const vueSharedPlugin: Plugin = {
   },
 }
 
+// ── Settings ESM build ──────────────────────────────────────────────
+// Builds orga-settings.esm.js — a standalone ESM bundle that exports
+// OrgaSettings component for Dock's unified settings hub.
+// This runs as a secondary build after the main SPA build.
+function settingsEsmPlugin(): Plugin {
+  return {
+    name: 'orga-settings-esm',
+    async closeBundle() {
+      const { build } = await import('vite')
+      await build({
+        configFile: false,
+        base: '/assets/orga/js/',
+        plugins: [
+          vueSharedPlugin,
+          vue(),
+          ...(frappeui ? [frappeui({ frappeProxy: false, lucideIcons: true, jinjaBootData: false })] : []),
+        ],
+        resolve: {
+          alias: {
+            '@': path.resolve(__dirname, 'src'),
+          },
+        },
+        build: {
+          outDir: path.resolve(__dirname, '../orga/public/js'),
+          emptyOutDir: false,
+          lib: {
+            entry: path.resolve(__dirname, 'src/dock-settings.ts'),
+            formats: ['es'],
+            fileName: () => 'orga-settings.esm.js',
+          },
+          rollupOptions: {
+            external: [
+              'vue',
+              '@vue/runtime-dom',
+              '@vue/runtime-core',
+              '@vue/reactivity',
+              /^\/assets\/dock\//,
+            ],
+            output: {
+              paths: {
+                vue: '/assets/dock/js/vendor/vue.esm.js',
+              },
+            },
+          },
+        },
+      })
+      console.log('Built orga-settings.esm.js')
+    },
+  }
+}
+
 export default defineConfig({
   base: '/assets/orga/frontend/',
   plugins: [
@@ -142,7 +195,8 @@ export default defineConfig({
       lucideIcons: true,
       jinjaBootData: true
     }),
-    frappeManifestPlugin()
+    frappeManifestPlugin(),
+    settingsEsmPlugin(),
   ].filter(Boolean) as Plugin[],
   resolve: {
     alias: {
