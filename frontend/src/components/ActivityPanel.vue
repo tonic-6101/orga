@@ -215,7 +215,7 @@ function navigateToReference() {
   const routes: Record<string, string> = {
     'Orga Task': '/orga/tasks',
     'Orga Project': '/orga/projects',
-    'Orga Resource': '/orga/contacts',
+    'Orga Resource': '/orga/people',
     'Orga Appointment': '/orga/schedule',
     'Orga Milestone': '/orga/projects'
   }

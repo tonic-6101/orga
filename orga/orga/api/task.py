@@ -773,8 +773,8 @@ def delete_task(name):
     for assignment in frappe.get_all("Orga Assignment", filters={"task": name}, pluck="name"):
         frappe.delete_doc("Orga Assignment", assignment, force=True)
 
-    # Clear task reference on time logs, appointments, defects (preserve the records)
-    frappe.db.set_value("Orga Time Log", {"task": name}, "task", "", update_modified=False)
+    # Clear task reference on appointments, defects (preserve the records)
+    # Note: time tracking moved to Watch app (Watch Entry.orga_task custom field stays as historical ref)
     frappe.db.set_value("Orga Appointment", {"task": name}, "task", "", update_modified=False)
     if frappe.db.exists("DocType", "Orga Defect"):
         frappe.db.set_value("Orga Defect", {"task": name}, "task", "", update_modified=False)

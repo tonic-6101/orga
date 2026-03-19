@@ -6,24 +6,18 @@
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "image",
   "resource_name",
+  "contact",
   "user",
   "employee",
   "column_break_1",
-  "email",
-  "phone",
-  "mobile_no",
   "resource_type",
   "status",
   "section_organization",
   "department",
-  "designation",
-  "company",
   "column_break_org",
   "reports_to",
   "date_of_joining",
-  "address",
   "section_capacity",
   "availability_hours",
   "weekly_capacity",
@@ -43,18 +37,19 @@
  ],
  "fields": [
   {
-   "fieldname": "image",
-   "fieldtype": "Attach Image",
-   "label": "Avatar",
-   "hidden": 1
-  },
-  {
    "fieldname": "resource_name",
    "fieldtype": "Data",
    "label": "Resource Name",
    "reqd": 1,
    "in_list_view": 1,
    "in_standard_filter": 1
+  },
+  {
+   "fieldname": "contact",
+   "fieldtype": "Link",
+   "label": "Contact",
+   "options": "Contact",
+   "description": "Linked Frappe Contact (identity: name, email, phone)"
   },
   {
    "fieldname": "user",
@@ -73,26 +68,6 @@
   {
    "fieldname": "column_break_1",
    "fieldtype": "Column Break"
-  },
-  {
-   "fieldname": "email",
-   "fieldtype": "Data",
-   "label": "Email",
-   "options": "Email",
-   "fetch_from": "user.email",
-   "read_only_depends_on": "eval:doc.user"
-  },
-  {
-   "fieldname": "phone",
-   "fieldtype": "Data",
-   "label": "Phone",
-   "options": "Phone"
-  },
-  {
-   "fieldname": "mobile_no",
-   "fieldtype": "Data",
-   "label": "Mobile",
-   "options": "Phone"
   },
   {
    "fieldname": "resource_type",
@@ -126,17 +101,6 @@
    "in_standard_filter": 1
   },
   {
-   "fieldname": "designation",
-   "fieldtype": "Data",
-   "label": "Designation"
-  },
-  {
-   "fieldname": "company",
-   "fieldtype": "Data",
-   "label": "Company",
-   "description": "Company or organization name (for contractors/external)"
-  },
-  {
    "fieldname": "column_break_org",
    "fieldtype": "Column Break"
   },
@@ -150,11 +114,6 @@
    "fieldname": "date_of_joining",
    "fieldtype": "Date",
    "label": "Date of Joining"
-  },
-  {
-   "fieldname": "address",
-   "fieldtype": "Small Text",
-   "label": "Address"
   },
   {
    "fieldname": "section_capacity",
@@ -297,7 +256,7 @@
    "role": "Orga User"
   }
  ],
- "search_fields": "resource_name, email, phone, department, company",
+ "search_fields": "resource_name, department",
  "sort_field": "resource_name",
  "sort_order": "ASC",
  "states": [],

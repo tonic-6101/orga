@@ -100,7 +100,7 @@ async function handleNotificationClick(notification: OrgaNotification): Promise<
       router.push('/orga/schedule')
       break
     case 'Orga Resource':
-      router.push('/orga/contacts')
+      router.push('/orga/people')
       break
     case 'Orga Milestone':
       // Milestones belong to a project — look up the project

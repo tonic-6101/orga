@@ -42,7 +42,7 @@ WEBHOOK_EVENTS = {
     "event.rsvp": "When an attendee responds to an invitation",
     "milestone.created": "When a new milestone is created",
     "milestone.completed": "When a milestone is marked complete",
-    "time_log.created": "When a new time log is created"
+    # time_log.created removed — time tracking moved to Watch app
 }
 
 
@@ -273,7 +273,6 @@ def trigger_on_insert(doc, method):
         "Orga Assignment": "assignment.created",
         "Orga Appointment": "event.created",
         "Orga Milestone": "milestone.created",
-        "Orga Time Log": "time_log.created"
     }
 
     event = doctype_event_map.get(doc.doctype)

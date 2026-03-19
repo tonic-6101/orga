@@ -7,11 +7,9 @@
 """
 Resource API endpoints for Orga.
 
-Usage from frontend:
-    frappe.call({
-        method: 'orga.orga.api.resource.get_resources',
-        args: { status: 'Active' }
-    })
+Identity fields (email, phone, address, designation, company, image) now
+live on the linked Frappe Contact.  Orga Resource holds only domain data:
+skills, capacity, rates, status, and ERPNext integration.
 """
 
 import json
@@ -44,14 +42,13 @@ def get_resources(status=None, department=None, resource_type=None, skill=None, 
     if resource_type:
         filters["resource_type"] = resource_type
 
-    # Base query
     resources = frappe.get_all(
         "Orga Resource",
         filters=filters,
         fields=[
-            "name", "resource_name", "user", "email", "phone", "mobile_no",
-            "resource_type", "status", "department", "designation", "company",
-            "availability_hours", "weekly_capacity", "image"
+            "name", "resource_name", "contact", "user",
+            "resource_type", "status", "department",
+            "availability_hours", "weekly_capacity",
         ],
         order_by="resource_name asc",
         limit_page_length=int(limit),
@@ -60,8 +57,10 @@ def get_resources(status=None, department=None, resource_type=None, skill=None, 
 
     total = frappe.db.count("Orga Resource", filters)
 
-    # Enrich with skills and workload
     for resource in resources:
+        # Resolve identity from linked Contact
+        _enrich_from_contact(resource)
+
         # Get skills
         resource["skills"] = frappe.get_all(
             "Orga Resource Skill",
@@ -77,7 +76,6 @@ def get_resources(status=None, department=None, resource_type=None, skill=None, 
         )
         resource["active_assignments"] = len(assignments)
 
-        # Calculate workload/utilization
         allocated_hours = sum(a.get("allocated_hours") or 0 for a in assignments)
         weekly_capacity = resource.get("weekly_capacity") or 40
         utilization = (allocated_hours / weekly_capacity * 100) if weekly_capacity else 0
@@ -129,6 +127,9 @@ def get_resource(name):
 
     doc = frappe.get_doc("Orga Resource", name)
     resource = doc.as_dict()
+
+    # Resolve identity from linked Contact
+    _enrich_from_contact(resource)
 
     # Get skills
     resource["skills"] = [s.as_dict() for s in doc.skills] if doc.skills else []
@@ -196,9 +197,9 @@ def create_resource(data):
             frappe.throw(_("{0} is required").format(field))
 
     allowed_fields = [
-        "resource_name", "user", "employee", "email", "phone", "mobile_no",
-        "resource_type", "status", "department", "designation", "company",
-        "reports_to", "date_of_joining", "address",
+        "resource_name", "contact", "user", "employee",
+        "resource_type", "status", "department",
+        "reports_to", "date_of_joining",
         "availability_hours", "weekly_capacity", "hourly_cost",
         "billable_rate", "notes"
     ]
@@ -239,11 +240,11 @@ def update_resource(name, data):
     doc = frappe.get_doc("Orga Resource", name)
 
     allowed_fields = [
-        "resource_name", "user", "employee", "email", "phone", "mobile_no",
-        "resource_type", "status", "department", "designation", "company",
-        "reports_to", "date_of_joining", "address",
+        "resource_name", "contact", "user", "employee",
+        "resource_type", "status", "department",
+        "reports_to", "date_of_joining",
         "availability_hours", "weekly_capacity", "hourly_cost",
-        "billable_rate", "notes", "image"
+        "billable_rate", "notes"
     ]
 
     for field, value in data.items():
@@ -277,7 +278,7 @@ def delete_resource(name):
     for asgn in frappe.get_all("Orga Assignment", filters={"resource": name}, fields=["name"]):
         frappe.delete_doc("Orga Assignment", asgn.name, ignore_permissions=True, force=1)
 
-    # Nullify resource link on time logs (preserve the log records, just remove the pointer)
+    # Nullify resource link on time logs
     frappe.db.set_value(
         "Orga Time Log",
         {"resource": name},
@@ -295,13 +296,13 @@ def delete_resource(name):
         update_modified=False,
     )
 
-    # Nullify resource link on appointment attendees (child table — use direct SQL)
+    # Nullify resource link on appointment attendees
     frappe.db.sql(
         "UPDATE `tabOrga Appointment Attendee` SET `resource` = NULL WHERE `resource` = %s",
         name,
     )
 
-    # Nullify contact link on defects (preserve the defect record)
+    # Nullify contact link on defects
     frappe.db.set_value(
         "Orga Defect",
         {"contact": name},
@@ -318,17 +319,7 @@ def delete_resource(name):
 
 @frappe.whitelist()
 def get_resource_workload(name, start_date=None, end_date=None):
-    """
-    Get resource workload and utilization.
-
-    Args:
-        name: Resource name/ID
-        start_date: Period start (default: today)
-        end_date: Period end (default: 7 days from start)
-
-    Returns:
-        dict: Workload details
-    """
+    """Get resource workload and utilization."""
     if not name:
         frappe.throw(_("Resource name is required"))
 
@@ -339,7 +330,6 @@ def get_resource_workload(name, start_date=None, end_date=None):
 
     resource = frappe.get_doc("Orga Resource", name)
 
-    # Get assignments in date range
     assignments = frappe.get_all(
         "Orga Assignment",
         filters={
@@ -376,30 +366,18 @@ def get_resource_workload(name, start_date=None, end_date=None):
 
 @frappe.whitelist()
 def search_resources_by_skill(skill, min_proficiency=None, status="Active"):
-    """
-    Find resources with a specific skill.
-
-    Args:
-        skill: Skill name to search
-        min_proficiency: Minimum proficiency level
-        status: Resource status filter
-
-    Returns:
-        list: Matching resources with skill details
-    """
+    """Find resources with a specific skill."""
     if not skill:
         frappe.throw(_("Skill is required"))
 
     proficiency_order = ["Beginner", "Intermediate", "Advanced", "Expert"]
 
-    # Find resources with this skill
     skill_entries = frappe.get_all(
         "Orga Resource Skill",
         filters={"skill_name": ["like", f"%{skill}%"]},
         fields=["parent", "skill_name", "proficiency", "years_experience"]
     )
 
-    # Filter by proficiency if specified
     if min_proficiency and min_proficiency in proficiency_order:
         min_idx = proficiency_order.index(min_proficiency)
         skill_entries = [
@@ -407,13 +385,11 @@ def search_resources_by_skill(skill, min_proficiency=None, status="Active"):
             if proficiency_order.index(s.get("proficiency", "Beginner")) >= min_idx
         ]
 
-    # Get unique resource IDs
     resource_ids = list(set(s["parent"] for s in skill_entries))
 
     if not resource_ids:
         return []
 
-    # Get resource details
     filters = {"name": ["in", resource_ids]}
     if status:
         filters["status"] = status
@@ -422,12 +398,14 @@ def search_resources_by_skill(skill, min_proficiency=None, status="Active"):
         "Orga Resource",
         filters=filters,
         fields=[
-            "name", "resource_name", "email", "status",
-            "department", "designation", "weekly_capacity"
+            "name", "resource_name", "contact", "status",
+            "department", "weekly_capacity"
         ]
     )
 
-    # Attach matching skill info
+    for resource in resources:
+        _enrich_from_contact(resource)
+
     skill_map = {s["parent"]: s for s in skill_entries}
     for resource in resources:
         resource["matched_skill"] = skill_map.get(resource["name"])
@@ -437,24 +415,12 @@ def search_resources_by_skill(skill, min_proficiency=None, status="Active"):
 
 @frappe.whitelist()
 def add_resource_skill(resource_name, skill_name, proficiency="Intermediate", years_experience=0):
-    """
-    Add a skill to a resource.
-
-    Args:
-        resource_name: Resource name/ID
-        skill_name: Skill name
-        proficiency: Proficiency level
-        years_experience: Years of experience
-
-    Returns:
-        dict: Updated resource skills
-    """
+    """Add a skill to a resource."""
     if not resource_name or not skill_name:
         frappe.throw(_("Resource and skill name are required"))
 
     resource = frappe.get_doc("Orga Resource", resource_name)
 
-    # Check if skill already exists
     for skill in resource.skills:
         if skill.skill_name.lower() == skill_name.lower():
             frappe.throw(_("Skill {0} already exists for this resource").format(skill_name))
@@ -473,23 +439,12 @@ def add_resource_skill(resource_name, skill_name, proficiency="Intermediate", ye
 
 @frappe.whitelist()
 def remove_resource_skill(resource_name, skill_name):
-    """
-    Remove a skill from a resource.
-
-    Args:
-        resource_name: Resource name/ID
-        skill_name: Skill name to remove
-
-    Returns:
-        dict: {success: True}
-    """
+    """Remove a skill from a resource."""
     if not resource_name or not skill_name:
         frappe.throw(_("Resource and skill name are required"))
 
     resource = frappe.get_doc("Orga Resource", resource_name)
-
     resource.skills = [s for s in resource.skills if s.skill_name.lower() != skill_name.lower()]
-
     resource.save()
     frappe.db.commit()
 
@@ -497,9 +452,9 @@ def remove_resource_skill(resource_name, skill_name):
 
 
 @frappe.whitelist()
-def get_contact_stats(name):
+def get_resource_stats(name):
     """
-    Get comprehensive statistics for a contact.
+    Get comprehensive statistics for a resource.
 
     Args:
         name: Resource name/ID
@@ -527,8 +482,8 @@ def get_contact_stats(name):
         "Orga Assignment", {"resource": name, "status": "Cancelled"}
     )
 
-    # Time log stats - query by user (primary link)
-    user_email = resource.user or resource.email
+    # Time log stats
+    user_email = resource.user
     time_stats = {"total_hours": 0, "billable_hours": 0, "log_count": 0}
     if user_email:
         time_result = frappe.db.sql("""
@@ -565,9 +520,9 @@ def get_contact_stats(name):
                     "total_estimate": float(d.total_estimate or 0)
                 }
     except Exception:
-        pass  # Defect table not yet created
+        pass
 
-    # Project stats - distinct projects from assignments
+    # Project stats
     project_rows = frappe.db.sql("""
         SELECT DISTINCT a.project, p.project_name, p.status
         FROM `tabOrga Assignment` a
@@ -576,7 +531,6 @@ def get_contact_stats(name):
     """, (name,), as_dict=True)
     active_projects = [p for p in project_rows if p.status in ("Planning", "Active")]
 
-    # Financial calculations
     total_billed_hours = float(time_stats.get("billable_hours") or 0)
     hourly_cost = float(resource.hourly_cost or 0)
     billable_rate = float(resource.billable_rate or 0)
@@ -613,18 +567,8 @@ def get_contact_stats(name):
 
 
 @frappe.whitelist()
-def get_contact_timeline(name, limit=20, offset=0):
-    """
-    Get assignment history over time for a contact.
-
-    Args:
-        name: Resource name/ID
-        limit: Max results (default 20)
-        offset: Pagination offset
-
-    Returns:
-        dict: {timeline: [...], total: int}
-    """
+def get_resource_timeline(name, limit=20, offset=0):
+    """Get assignment history over time for a resource."""
     if not name:
         frappe.throw(_("Resource name is required"))
 
@@ -650,44 +594,40 @@ def get_contact_timeline(name, limit=20, offset=0):
     return {"timeline": timeline, "total": total}
 
 
-@frappe.whitelist()
-def upload_resource_avatar(name, file_data, filename):
-    """
-    Upload an avatar image for a resource.
+# Backwards-compatible aliases for old API names
+get_contact_stats = get_resource_stats
+get_contact_timeline = get_resource_timeline
 
-    Args:
-        name: Resource name (e.g. RES-00001)
-        file_data: Base64-encoded file content
-        filename: Original filename (e.g. photo.jpg)
 
-    Returns:
-        dict: {image: file_url}
-    """
-    import base64
-    from frappe.utils.file_manager import save_file
+def _enrich_from_contact(resource: dict):
+    """Resolve identity fields from the linked Frappe Contact."""
+    contact_name = resource.get("contact")
+    if not contact_name:
+        resource.setdefault("email", "")
+        resource.setdefault("phone", "")
+        resource.setdefault("mobile_no", "")
+        resource.setdefault("image", "")
+        resource.setdefault("designation", "")
+        resource.setdefault("company", "")
+        return
 
-    if not name:
-        frappe.throw(_("Resource name is required"))
-    if not frappe.db.exists("Orga Resource", name):
-        frappe.throw(_("Resource {0} not found").format(name), frappe.DoesNotExistError)
-    if not file_data:
-        frappe.throw(_("No file data provided"))
-
-    # Strip data URL prefix if present (data:image/jpeg;base64,...)
-    if "," in file_data:
-        file_data = file_data.split(",", 1)[1]
-
-    decoded = base64.b64decode(file_data)
-
-    file_doc = save_file(
-        filename,
-        decoded,
-        "Orga Resource",
-        name,
-        is_private=0,
-        df="image"
+    contact = frappe.db.get_value(
+        "Contact",
+        contact_name,
+        ["email_id", "phone", "mobile_no", "image", "designation", "company_name"],
+        as_dict=True,
     )
-
-    frappe.db.set_value("Orga Resource", name, "image", file_doc.file_url, update_modified=False)
-
-    return {"image": file_doc.file_url}
+    if contact:
+        resource["email"] = contact.email_id or ""
+        resource["phone"] = contact.phone or ""
+        resource["mobile_no"] = contact.mobile_no or ""
+        resource["image"] = contact.image or ""
+        resource["designation"] = contact.designation or ""
+        resource["company"] = contact.company_name or ""
+    else:
+        resource["email"] = ""
+        resource["phone"] = ""
+        resource["mobile_no"] = ""
+        resource["image"] = ""
+        resource["designation"] = ""
+        resource["company"] = ""

@@ -9,8 +9,6 @@ import { __ } from './composables/useTranslate'
 import Dashboard from './pages/Dashboard.vue'
 import Activity from './pages/Activity.vue'
 import Projects from './pages/Projects.vue'
-import Contacts from './pages/Contacts.vue'
-import Settings from './pages/Settings.vue'
 
 // Dock shared pages — calendar, people, notifications, bookmarks rendered inside Orga's layout.
 // Each route lazily loads its component from Dock's ESM bundle at navigation time.
@@ -101,33 +99,23 @@ const routes: RouteRecordRaw[] = [
     props: true,
     meta: { title: 'Project Details', layout: 'default' }
   },
+  // Legacy redirects — contacts now live in Dock People
   {
     path: '/orga/contacts',
-    name: 'Contacts',
-    component: Contacts,
-    meta: { title: 'Contacts', layout: 'default' }
+    redirect: '/orga/people'
   },
   {
     path: '/orga/contacts/:id',
-    name: 'ContactDetail',
-    component: () => import('./pages/ContactDetail.vue'),
-    props: true,
-    meta: { title: 'Contact Details', layout: 'default' }
+    redirect: '/orga/people'
   },
   {
     path: '/orga/resources',
-    redirect: '/orga/contacts'
+    redirect: '/orga/people'
   },
   // Legacy redirect — old /orga/schedule URLs now go to Dock's shared calendar
   {
     path: '/orga/schedule',
     redirect: '/orga/calendar',
-  },
-  {
-    path: '/orga/timesheets',
-    name: 'Timesheets',
-    component: () => import('./pages/Timesheets.vue'),
-    meta: { title: 'Timesheets', layout: 'default' }
   },
   {
     path: '/orga/reports',
@@ -141,12 +129,7 @@ const routes: RouteRecordRaw[] = [
     component: () => import('./pages/Templates.vue'),
     meta: { title: 'Templates', layout: 'default' }
   },
-  {
-    path: '/orga/settings',
-    name: 'Settings',
-    component: Settings,
-    meta: { title: 'Settings', layout: 'default' }
-  },
+  // Settings live in Dock unified settings hub (/dock/settings/app/orga)
   {
     path: '/orga/preferences',
     name: 'Preferences',

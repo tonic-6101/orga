@@ -34,11 +34,11 @@ SEARCH_CONFIG = [
     {
         "doctype": "Orga Resource",
         "category": "resource",
-        "search_fields": ["resource_name", "email", "department"],
-        "return_fields": ["name", "resource_name", "email", "department", "status"],
+        "search_fields": ["resource_name", "department"],
+        "return_fields": ["name", "resource_name", "department", "status"],
         "label_field": "resource_name",
         "description_field": "department",
-        "extra_field": "email",
+        "extra_field": None,
     },
     {
         "doctype": "Orga Milestone",
