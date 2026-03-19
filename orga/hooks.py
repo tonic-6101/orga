@@ -87,12 +87,11 @@ dock_search_sections = [
         "search_fields": ["subject", "description"],
         "display_field": "subject",
         "description_field": "appointment_type",
-        "route_template": "/orga/schedule",
+        "route_template": "/orga/calendar",
     },
 ]
 dock_calendar_sources = {
-    "event_label":           "Appointment",
-    "create_route_template": "/orga/appointments/new?date={date}&time={time}",
+    "event_label": "Appointment",
 }
 
 dock_backfill_calendar = "orga.orga.integrations.dock_calendar.backfill_dock_events"

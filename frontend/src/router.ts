@@ -10,8 +10,45 @@ import Dashboard from './pages/Dashboard.vue'
 import Activity from './pages/Activity.vue'
 import Projects from './pages/Projects.vue'
 import Contacts from './pages/Contacts.vue'
-import Schedule from './pages/Schedule.vue'
 import Settings from './pages/Settings.vue'
+
+// Dock shared pages — calendar, people, notifications, bookmarks rendered inside Orga's layout.
+// Each route lazily loads its component from Dock's ESM bundle at navigation time.
+const dockEsm = '/assets/dock/js/dock-navbar.esm.js'
+const dockInstalled = !!(window as any).frappe?.boot?.dock?.installed
+
+const dockSharedRoutes: RouteRecordRaw[] = dockInstalled ? [
+  {
+    path: '/orga/calendar',
+    name: 'dock-calendar',
+    component: () => import(/* @vite-ignore */ dockEsm).then(m => m.dockSharedRoutes('/orga').find((r: any) => r.name === 'dock-calendar').component()),
+    meta: { dockShared: true, title: 'Calendar', layout: 'default' },
+  },
+  {
+    path: '/orga/people',
+    name: 'dock-people',
+    component: () => import(/* @vite-ignore */ dockEsm).then(m => m.dockSharedRoutes('/orga').find((r: any) => r.name === 'dock-people').component()),
+    meta: { dockShared: true, title: 'People', layout: 'default' },
+  },
+  {
+    path: '/orga/people/:name',
+    name: 'dock-person',
+    component: () => import(/* @vite-ignore */ dockEsm).then(m => m.dockSharedRoutes('/orga').find((r: any) => r.name === 'dock-person').component()),
+    meta: { dockShared: true, title: 'Contact', layout: 'default' },
+  },
+  {
+    path: '/orga/notifications',
+    name: 'dock-notifications',
+    component: () => import(/* @vite-ignore */ dockEsm).then(m => m.dockSharedRoutes('/orga').find((r: any) => r.name === 'dock-notifications').component()),
+    meta: { dockShared: true, title: 'Notifications', layout: 'default' },
+  },
+  {
+    path: '/orga/bookmarks',
+    name: 'dock-bookmarks',
+    component: () => import(/* @vite-ignore */ dockEsm).then(m => m.dockSharedRoutes('/orga').find((r: any) => r.name === 'dock-bookmarks').component()),
+    meta: { dockShared: true, title: 'Bookmarks', layout: 'default' },
+  },
+] : []
 
 /**
  * Extended route meta for Orga
@@ -22,6 +59,7 @@ declare module 'vue-router' {
     layout?: 'default' | 'portal'
     requiresRole?: string
     requiresAuth?: boolean
+    dockShared?: boolean
   }
 }
 
@@ -80,23 +118,10 @@ const routes: RouteRecordRaw[] = [
     path: '/orga/resources',
     redirect: '/orga/contacts'
   },
+  // Legacy redirect — old /orga/schedule URLs now go to Dock's shared calendar
   {
     path: '/orga/schedule',
-    name: 'Schedule',
-    component: Schedule,
-    meta: { title: 'Schedule', layout: 'default' },
-    beforeEnter: (_to, _from, next) => {
-      const dock = (window as any).frappe?.boot?.dock
-      if (dock?.installed) {
-        window.location.href = '/dock/calendar?source=orga'
-      } else {
-        next()
-      }
-    },
-  },
-  {
-    path: '/orga/calendar',
-    redirect: '/orga/schedule'
+    redirect: '/orga/calendar',
   },
   {
     path: '/orga/timesheets',
@@ -179,6 +204,11 @@ const routes: RouteRecordRaw[] = [
     path: '/orga_portal/support',
     redirect: '/orga/portal/support'
   },
+
+  // ============================================
+  // Dock Shared Pages (Calendar, People, Notifications, Bookmarks)
+  // ============================================
+  ...dockSharedRoutes,
 
   // ============================================
   // 404 Catch-All (must be last)
