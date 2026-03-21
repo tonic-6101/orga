@@ -10,14 +10,16 @@ import Sidebar from './components/layout/Sidebar.vue'
 import PortalLayout from './components/layout/PortalLayout.vue'
 import ToastContainer from './components/common/ToastContainer.vue'
 import { useSidebar } from './composables/useSidebar'
-import { useCurrency } from './composables/useCurrency'
 
 const route = useRoute()
 const { collapsed, mobileOpen, toggle, closeMobile } = useSidebar()
-const { loadCurrency } = useCurrency()
 
 const isPortalLayout = computed(() => {
   return route.meta.layout === 'portal'
+})
+
+const isGuestLayout = computed(() => {
+  return route.meta.layout === 'guest'
 })
 
 // Bridge: DockNavbar dispatches this event when sidebar toggle is clicked
@@ -37,7 +39,6 @@ function handleClickOutside(e: MouseEvent): void {
 onMounted(() => {
   document.addEventListener('click', handleClickOutside)
   window.addEventListener('dock:toggleSidebar', onDockToggle)
-  loadCurrency()
 })
 
 onUnmounted(() => {
@@ -49,8 +50,11 @@ onUnmounted(() => {
 <template>
   <ToastContainer />
 
+  <!-- Guest Layout (inside Dock Guest Portal iframe — bare, no chrome) -->
+  <router-view v-if="isGuestLayout" />
+
   <!-- Portal Layout (for Orga Client users) -->
-  <PortalLayout v-if="isPortalLayout">
+  <PortalLayout v-else-if="isPortalLayout">
     <router-view />
   </PortalLayout>
 

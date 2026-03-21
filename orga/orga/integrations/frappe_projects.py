@@ -90,6 +90,29 @@ def get_sync_direction():
 
 
 # =============================================================================
+# BRIDGE STATUS (for Dock Integrations dashboard)
+# =============================================================================
+
+@frappe.whitelist()
+def get_sync_status() -> dict:
+    """Bridge status for Dock's Integrations dashboard."""
+    if not is_sync_enabled():
+        return {"active": False, "reason": _("Frappe Projects sync is not enabled")}
+
+    synced_count = frappe.db.count(
+        "Orga Project",
+        {"sync_with_frappe_projects": 1},
+    )
+    direction = get_sync_direction()
+
+    return {
+        "active": True,
+        "synced_projects": synced_count,
+        "direction": direction,
+    }
+
+
+# =============================================================================
 # PROJECT SYNC: ORGA -> FRAPPE
 # =============================================================================
 

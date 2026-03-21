@@ -187,9 +187,9 @@
       "fieldname": "client",
       "fieldtype": "Link",
       "label": "Client",
-      "options": "Orga Client",
+      "options": "Contact",
       "in_standard_filter": 1,
-      "description": "Link to Orga Client for portal access"
+      "description": "Link to Contact with is_orga_client=1"
     },
     {
       "fieldname": "section_team",

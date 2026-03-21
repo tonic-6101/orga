@@ -278,15 +278,6 @@ def delete_resource(name):
     for asgn in frappe.get_all("Orga Assignment", filters={"resource": name}, fields=["name"]):
         frappe.delete_doc("Orga Assignment", asgn.name, ignore_permissions=True, force=1)
 
-    # Nullify resource link on time logs
-    frappe.db.set_value(
-        "Orga Time Log",
-        {"resource": name},
-        "resource",
-        None,
-        update_modified=False,
-    )
-
     # Clear reports_to on any resources that reported to this one
     frappe.db.set_value(
         "Orga Resource",
@@ -482,17 +473,17 @@ def get_resource_stats(name):
         "Orga Assignment", {"resource": name, "status": "Cancelled"}
     )
 
-    # Time log stats
+    # Time stats from Watch Entry (soft dependency)
     user_email = resource.user
     time_stats = {"total_hours": 0, "billable_hours": 0, "log_count": 0}
-    if user_email:
+    if user_email and "watch" in frappe.get_installed_apps():
         time_result = frappe.db.sql("""
             SELECT
-                COALESCE(SUM(hours), 0) as total_hours,
-                COALESCE(SUM(CASE WHEN billable = 1 THEN hours ELSE 0 END), 0) as billable_hours,
+                COALESCE(SUM(duration_hours), 0) as total_hours,
+                COALESCE(SUM(CASE WHEN entry_type = 'billable' THEN duration_hours ELSE 0 END), 0) as billable_hours,
                 COUNT(*) as log_count
-            FROM `tabOrga Time Log`
-            WHERE user = %s
+            FROM `tabWatch Entry`
+            WHERE user = %s AND is_running = 0
         """, (user_email,), as_dict=True)
         time_stats = time_result[0] if time_result else time_stats
 
@@ -542,10 +533,10 @@ def get_resource_stats(name):
             "completed": assignment_completed,
             "cancelled": assignment_cancelled
         },
-        "time_logs": {
+        "time_entries": {
             "total_hours": float(time_stats.get("total_hours") or 0),
             "billable_hours": total_billed_hours,
-            "log_count": time_stats.get("log_count") or 0
+            "entry_count": time_stats.get("log_count") or 0
         },
         "defects": defect_stats,
         "projects": {

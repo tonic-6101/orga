@@ -9,19 +9,32 @@ no_cache = 1
 
 
 def get_context():
-    # Require login - redirect to login page if not authenticated
-    if frappe.session.user == "Guest":
+    # Guest portal routes (/orga/guest/*) are public — loaded inside Dock guest portal iframe.
+    # All other /orga/* routes require a logged-in user.
+    path = frappe.request.path if frappe.request else ""
+    is_guest_route = frappe.session.user == "Guest" and "/guest/" in path
+
+    if frappe.session.user == "Guest" and not is_guest_route:
         frappe.throw(_("Please login to access Orga"), frappe.PermissionError)
-    csrf_token = frappe.sessions.get_csrf_token()
-    frappe.db.commit()
 
     context = frappe._dict()
-    context.boot = get_boot()
-    context.boot.csrf_token = csrf_token
-    context.csrf_token = csrf_token
     context.site_name = frappe.local.site
     context.title = "Orga"
     context.description = "Project Management System"
+
+    if is_guest_route:
+        # Minimal boot — no user data, no CSRF needed (guest API uses allow_guest=True)
+        context.boot = frappe._dict({
+            "is_guest": True,
+            "site_name": frappe.local.site,
+        })
+        context.csrf_token = ""
+    else:
+        csrf_token = frappe.sessions.get_csrf_token()
+        frappe.db.commit()
+        context.boot = get_boot()
+        context.boot.csrf_token = csrf_token
+        context.csrf_token = csrf_token
 
     return context
 

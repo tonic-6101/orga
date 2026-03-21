@@ -15,10 +15,13 @@ from frappe.utils import getdate, today, date_diff
 
 def _get_current_client() -> dict:
     """
-    Get the Orga Client record for the current user.
+    Get the Contact record for the current portal user.
+
+    Looks up Contact by user link with is_orga_client=1 and orga_portal_enabled=1.
+    Falls back to legacy Orga Client lookup for unmigrated records.
 
     Returns:
-        dict: Client record
+        dict: Contact record with client fields
 
     Raises:
         frappe.PermissionError: If user is not a valid portal client
@@ -26,24 +29,44 @@ def _get_current_client() -> dict:
     if frappe.session.user == "Guest":
         frappe.throw(_("Please login to access the client portal"), frappe.PermissionError)
 
-    client = frappe.db.get_value(
-        "Orga Client",
+    # Primary lookup: Contact with Orga client custom fields
+    contact = frappe.db.get_value(
+        "Contact",
         {
             "user": frappe.session.user,
-            "portal_enabled": 1,
-            "status": "Active"
+            "is_orga_client": 1,
+            "orga_portal_enabled": 1,
         },
-        ["name", "client_name", "company", "email", "phone"],
-        as_dict=True
+        ["name", "first_name", "last_name", "company_name", "email_id", "phone"],
+        as_dict=True,
     )
 
-    if not client:
-        frappe.throw(
-            _("You do not have access to the client portal. Please contact support."),
-            frappe.PermissionError
-        )
+    if contact:
+        # Normalize field names for backward compatibility with portal templates
+        contact["client_name"] = f"{contact.first_name or ''} {contact.last_name or ''}".strip()
+        contact["company"] = contact.company_name
+        contact["email"] = contact.email_id
+        return contact
 
-    return client
+    # Fallback: legacy Orga Client (for unmigrated records)
+    if frappe.db.exists("DocType", "Orga Client"):
+        legacy = frappe.db.get_value(
+            "Orga Client",
+            {
+                "user": frappe.session.user,
+                "portal_enabled": 1,
+                "status": "Active",
+            },
+            ["name", "client_name", "company", "email", "phone"],
+            as_dict=True,
+        )
+        if legacy:
+            return legacy
+
+    frappe.throw(
+        _("You do not have access to the client portal. Please contact support."),
+        frappe.PermissionError
+    )
 
 
 def _get_status_color(status: str) -> str:

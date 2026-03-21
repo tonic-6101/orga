@@ -15,7 +15,7 @@
    "label": "Event",
    "reqd": 1,
    "in_list_view": 1,
-   "options": "*\nproject.created\nproject.updated\nproject.completed\nproject.deleted\ntask.created\ntask.updated\ntask.completed\ntask.assigned\ntask.deleted\nresource.created\nresource.updated\nresource.deleted\nassignment.created\nassignment.updated\nassignment.deleted\nappointment.created\nappointment.updated\nappointment.deleted\nappointment.rsvp\nmilestone.created\nmilestone.completed\ntime_log.created"
+   "options": "*\nproject.created\nproject.updated\nproject.completed\nproject.deleted\ntask.created\ntask.updated\ntask.completed\ntask.assigned\ntask.deleted\nresource.created\nresource.updated\nresource.deleted\nassignment.created\nassignment.updated\nassignment.deleted\nappointment.created\nappointment.updated\nappointment.deleted\nappointment.rsvp\nmilestone.created\nmilestone.completed"
   },
   {
    "fieldname": "description",

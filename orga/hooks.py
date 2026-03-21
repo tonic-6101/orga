@@ -107,13 +107,59 @@ dock_settings_sections = [
     }
 ]
 
+dock_bridges = [
+    {
+        "label": "ERPNext Employee Sync",
+        "target_app": "erpnext",
+        "target_doctype": "Employee",
+        "source_doctype": "Orga Resource",
+        "direction": "one_way",
+        "status_endpoint": "orga.orga.integrations.erpnext.get_sync_status",
+        "sync_endpoint": "orga.orga.integrations.erpnext.sync_all_resources_from_employees",
+        "settings_route": "/dock/settings/app/orga",
+    },
+    {
+        "label": "Frappe Projects Sync",
+        "target_app": "frappe",
+        "target_doctype": "Project",
+        "source_doctype": "Orga Project",
+        "direction": "two_way",
+        "status_endpoint": "orga.orga.integrations.frappe_projects.get_sync_status",
+        "sync_endpoint": "orga.orga.integrations.frappe_projects.sync_all_projects",
+        "settings_route": "/dock/settings/app/orga",
+    },
+]
+
+dock_notification_types = [
+    {"type": "task_assigned", "label": "Task Assigned", "icon": "check-square"},
+    {"type": "task_status_change", "label": "Task Status Changed", "icon": "refresh-cw"},
+    {"type": "deadline_reminder", "label": "Deadline Reminder", "icon": "clock"},
+    {"type": "milestone_due", "label": "Milestone Due", "icon": "flag"},
+    {"type": "comment_mention", "label": "Mentioned in Comment", "icon": "at-sign"},
+    {"type": "appointment_reminder", "label": "Appointment Reminder", "icon": "calendar"},
+]
+
+dock_guest_views = [
+    {
+        "view_id": "orga.project_status",
+        "label": "Project Status",
+        "route": "/orga/guest/project/{name}",
+    },
+]
+
 dock_calendar_sources = {
-    "event_label": "Appointment",
+    "event_label": "Orga",
+    "event_types": [
+        "orga.appointment", "orga.task", "orga.milestone",
+    ],
+    "create_route_template": "/orga/appointments/new?date={date}",
 }
 
 dock_backfill_calendar = "orga.orga.integrations.dock_calendar.backfill_dock_events"
 
 dock_people_context = "orga.orga.integrations.dock_people.get_people_context"
+
+dock_calendar_context = "orga.orga.integrations.dock_calendar_context.get_calendar_context"
 
 # Include in HTML Head
 # --------------------
@@ -127,7 +173,10 @@ fixtures = [
     {"dt": "Module Def", "filters": [["module_name", "=", "Orga"]]},
     {"dt": "Page", "filters": [["module", "=", "Orga"]]},
     {"dt": "Workspace", "filters": [["module", "=", "Orga"]]},
-    {"dt": "Role", "filters": [["role_name", "in", ["Orga Manager", "Orga User", "Orga Client"]]]}
+    {"dt": "Role", "filters": [["role_name", "in", ["Orga Manager", "Orga User", "Orga Client"]]]},
+    {"dt": "Custom Field", "filters": [["dt", "=", "Dock Event"], ["fieldname", "like", "orga_%"]]},
+    {"dt": "Custom Field", "filters": [["dt", "=", "Contact"], ["fieldname", "like", "orga_client%"]]},
+    {"dt": "Custom Field", "filters": [["dt", "=", "Contact"], ["fieldname", "=", "is_orga_client"]]},
 ]
 
 # Include CSS in web pages
@@ -214,18 +263,19 @@ doc_events = {
 	"Orga Task": {
 		"after_insert": [
 			"orga.orga.automation.engine.run_automation",
-			"orga.orga.webhooks.dispatcher.trigger_on_insert"
+			"orga.orga.webhooks.dispatcher.trigger_on_insert",
 		],
 		"on_update": [
 			"orga.orga.automation.engine.run_automation",
 			"orga.orga.integrations.frappe_projects.on_orga_task_update",
 			"orga.orga.webhooks.dispatcher.trigger_on_update",
 			"orga.orga.integrations.dock_calendar.sync_task",
+			"orga.orga.integrations.dock_notification.on_task_update",
 		],
 		"on_trash": [
 			"orga.orga.webhooks.dispatcher.trigger_on_trash",
 			"orga.orga.integrations.dock_calendar.remove_event",
-		]
+		],
 	},
 	"Orga Project": {
 		"after_insert": [
@@ -275,6 +325,7 @@ doc_events = {
 		"on_update": [
 			"orga.orga.webhooks.dispatcher.trigger_on_update",
 			"orga.orga.integrations.dock_calendar.sync_milestone",
+			"orga.orga.integrations.dock_notification.on_milestone_update",
 		],
 		"on_trash": "orga.orga.integrations.dock_calendar.remove_event",
 	},
@@ -304,10 +355,7 @@ scheduler_events = {
 		# Check GitHub for app updates
 		"orga.orga.scheduled_jobs.version_check.check_for_app_updates"
 	],
-	"weekly": [
-		# Clean up old read notifications
-		"orga.orga.scheduled_jobs.deadline_reminders.cleanup_old_notifications"
-	],
+	"weekly": [],
 	"hourly": [
 		# Frappe Projects sync (runs hourly, checks settings internally)
 		"orga.orga.integrations.frappe_projects.scheduled_sync"
@@ -350,7 +398,7 @@ scheduler_events = {
 # Ignore links to specified DocTypes when deleting documents
 # -----------------------------------------------------------
 
-ignore_links_on_delete = ["Orga Notification"]
+ignore_links_on_delete = []
 
 # Request Events
 # ----------------

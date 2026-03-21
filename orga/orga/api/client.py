@@ -8,10 +8,59 @@
 Client API Module
 
 Provides API endpoints for managing Orga Clients and portal access.
+
+Migration note (v0.15): Orga Client is being migrated to Frappe Contact
+with is_orga_client=1 custom field. During the transition, get_clients()
+queries both sources. New clients should be created as Contacts.
 """
 
 import frappe
 from frappe import _
+
+
+@frappe.whitelist()
+def get_clients_from_contacts(
+    status: str = None,
+    company: str = None,
+    portal_enabled: int = None,
+    limit: int = 100,
+    offset: int = 0,
+) -> dict:
+    """Get clients from Contact (post-migration).
+
+    Returns Contacts with is_orga_client=1, matching the same response shape
+    as get_clients() for backward compatibility.
+    """
+    filters = {"is_orga_client": 1}
+    if status:
+        filters["orga_client_status"] = status
+    if company:
+        filters["company_name"] = ["like", f"%{company}%"]
+    if portal_enabled is not None:
+        filters["orga_portal_enabled"] = portal_enabled
+
+    total = frappe.db.count("Contact", filters=filters)
+
+    contacts = frappe.get_all(
+        "Contact",
+        filters=filters,
+        fields=[
+            "name", "first_name", "last_name", "company_name", "email_id",
+            "phone", "orga_client_status as status", "orga_portal_enabled as portal_enabled",
+            "user", "orga_project_count as project_count", "creation",
+        ],
+        order_by="first_name asc",
+        start=offset,
+        limit_page_length=limit,
+    )
+
+    # Normalize field names for backward compat
+    for c in contacts:
+        c["client_name"] = f"{c.get('first_name', '')} {c.get('last_name', '')}".strip()
+        c["company"] = c.get("company_name", "")
+        c["email"] = c.get("email_id", "")
+
+    return {"clients": contacts, "total": total}
 
 
 @frappe.whitelist()

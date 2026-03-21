@@ -90,11 +90,13 @@ def get_appointments_needing_reminder():
 
 def send_reminder_for_appointment(appointment):
     """
-    Send reminder email to all attendees of an appointment.
+    Send reminder email + Dock bell notification to all attendees.
 
     Args:
         appointment: dict with appointment data
     """
+    from orga.orga.integrations.dock_notification import publish as dock_publish
+
     # Get attendees with their email addresses
     attendees = get_appointment_attendees(appointment.name)
 
@@ -117,8 +119,22 @@ def send_reminder_for_appointment(appointment):
     formatted_date = start_dt.strftime("%A, %B %d, %Y")
     formatted_time = start_dt.strftime("%I:%M %p")
 
-    # Send email to each attendee
+    # Send email + Dock notification to each attendee
     for attendee in attendees:
+        # Dock bell notification (for attendees with a linked Frappe user)
+        if attendee.user:
+            dock_publish(
+                notification_type="appointment_reminder",
+                title=_("Upcoming: {0} at {1}").format(appointment.title, formatted_time),
+                for_user=attendee.user,
+                message=_("Your appointment '{0}' starts on {1} at {2}.").format(
+                    appointment.title, formatted_date, formatted_time
+                ),
+                reference_doctype="Orga Appointment",
+                reference_name=appointment.name,
+            )
+
+        # Email notification
         if not attendee.email:
             continue
 

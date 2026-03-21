@@ -294,20 +294,20 @@ class OrgaTask(Document):
                 )
 
     def _notify_task_unblocked(self, task):
-        """Send notification when a dependent task becomes unblocked"""
+        """Send notification when a dependent task becomes unblocked."""
         try:
-            from orga.orga.doctype.orga_notification.orga_notification import create_notification
+            from orga.orga.integrations.dock_notification import publish
             recipient = getattr(task, "assigned_to", None) or task.owner
-            create_notification(
-                notification_type="System",
-                subject=_("Task unblocked: {0}").format(task.subject),
-                recipient=recipient,
-                message=_('Your task "{0}" is no longer blocked and can now be started.').format(task.subject),
-                reference_doctype="Orga Task",
-                reference_name=task.name
-            )
+            if recipient and recipient != frappe.session.user:
+                publish(
+                    notification_type="task_status_change",
+                    title=_("Task unblocked: {0}").format(task.subject),
+                    for_user=recipient,
+                    message=_('Your task "{0}" is no longer blocked and can now be started.').format(task.subject),
+                    reference_doctype="Orga Task",
+                    reference_name=task.name,
+                )
         except Exception as e:
-            # Don't break task updates if notification fails
             frappe.log_error(f"Task unblocked notification failed: {e}", "Orga Task Notification")
 
     def on_trash(self):

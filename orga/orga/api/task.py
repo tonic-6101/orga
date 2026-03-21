@@ -779,12 +779,6 @@ def delete_task(name):
     if frappe.db.exists("DocType", "Orga Defect"):
         frappe.db.set_value("Orga Defect", {"task": name}, "task", "", update_modified=False)
 
-    # Delete notifications referencing this task (Dynamic Link)
-    if frappe.db.exists("DocType", "Orga Notification"):
-        for notif in frappe.get_all("Orga Notification",
-            filters={"reference_doctype": "Orga Task", "reference_name": name}, pluck="name"):
-            frappe.delete_doc("Orga Notification", notif, force=True)
-
     # Delete activity comments and reactions referencing this task
     if frappe.db.exists("DocType", "Orga Activity Comment"):
         for comment in frappe.get_all("Orga Activity Comment",

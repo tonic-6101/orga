@@ -409,7 +409,6 @@ This release introduces client management capabilities. Organizations can now re
 #### ERPNext Integration (Optional)
 - Link resources to ERPNext Employee records
 - Auto-populate resource details from Employee data
-- Export Orga time logs to ERPNext Timesheets
 - Calculate project billing summaries from time entries
 - Sync employee status changes automatically
 

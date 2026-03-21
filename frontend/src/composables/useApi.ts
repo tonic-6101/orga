@@ -24,8 +24,6 @@ import type {
   TaskDependency,
   DependencyType,
   OrgaContactSkill,
-  OrgaNotification,
-  NotificationFilters,
   DashboardStats,
   ProjectHealth,
   HealthOverview,
@@ -1145,58 +1143,6 @@ export function useReportsApi(): UseReportsApiReturn {
 }
 
 // ============================================
-// Notification API
-// ============================================
-
-interface UseNotificationApiReturn extends UseApiReturn {
-  getMyNotifications: (filters?: NotificationFilters) => Promise<{ notifications: OrgaNotification[]; total: number; unread_count: number }>
-  getUnreadCount: () => Promise<number>
-  markAsRead: (name: string) => Promise<{ success: boolean }>
-  markAsUnread: (name: string) => Promise<{ success: boolean }>
-  markAllAsRead: () => Promise<{ success: boolean; count: number }>
-  deleteNotification: (name: string) => Promise<{ success: boolean }>
-  deleteAllRead: () => Promise<{ success: boolean; count: number }>
-}
-
-/**
- * Notification API composable
- */
-export function useNotificationApi(): UseNotificationApiReturn {
-  const { call, loading, error } = useApi()
-
-  return {
-    loading,
-    error,
-    call,
-
-    getMyNotifications: (filters: NotificationFilters = {}) =>
-      call<{ notifications: OrgaNotification[]; total: number; unread_count: number }>('orga.orga.api.notification.get_my_notifications', {
-        limit: filters.limit || 50,
-        offset: filters.offset || 0,
-        unread_only: filters.unread_only || false
-      }),
-
-    getUnreadCount: () =>
-      call<number>('orga.orga.api.notification.get_unread_count'),
-
-    markAsRead: (name: string) =>
-      call<{ success: boolean }>('orga.orga.api.notification.mark_as_read', { name }),
-
-    markAsUnread: (name: string) =>
-      call<{ success: boolean }>('orga.orga.api.notification.mark_as_unread', { name }),
-
-    markAllAsRead: () =>
-      call<{ success: boolean; count: number }>('orga.orga.api.notification.mark_all_as_read'),
-
-    deleteNotification: (name: string) =>
-      call<{ success: boolean }>('orga.orga.api.notification.delete_notification', { name }),
-
-    deleteAllRead: () =>
-      call<{ success: boolean; count: number }>('orga.orga.api.notification.delete_all_read')
-  }
-}
-
-// ============================================
 // Milestone API
 // ============================================
 
@@ -1374,7 +1320,6 @@ interface UseOrgaApiReturn {
   event: ReturnType<typeof useEventApi>
   health: ReturnType<typeof useHealthApi>
   reports: ReturnType<typeof useReportsApi>
-  notification: ReturnType<typeof useNotificationApi>
   milestone: ReturnType<typeof useMilestoneApi>
   gantt: ReturnType<typeof useGanttApi>
   template: ReturnType<typeof useTemplateApi>
@@ -1397,7 +1342,6 @@ export function useOrgaApi(): UseOrgaApiReturn {
     event: useEventApi(),
     health: useHealthApi(),
     reports: useReportsApi(),
-    notification: useNotificationApi(),
     milestone: useMilestoneApi(),
     gantt: useGanttApi(),
     template: useTemplateApi()

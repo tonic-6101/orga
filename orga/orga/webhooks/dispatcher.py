@@ -42,7 +42,6 @@ WEBHOOK_EVENTS = {
     "event.rsvp": "When an attendee responds to an invitation",
     "milestone.created": "When a new milestone is created",
     "milestone.completed": "When a milestone is marked complete",
-    # time_log.created removed — time tracking moved to Watch app
 }
 
 

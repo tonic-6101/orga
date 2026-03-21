@@ -9,9 +9,6 @@ ERPNext Integration Module
 
 Provides integration with ERPNext modules:
 - Employee linking and sync
-
-Note: Timesheet export and project billing via Orga Time Log have been removed.
-Time tracking is now handled by the Watch app, which has its own ERPNext bridge.
 """
 
 import frappe
@@ -218,6 +215,32 @@ def sync_all_resources_from_employees():
         "synced": synced,
         "failed": failed,
         "errors": errors
+    }
+
+
+# =============================================================================
+# BRIDGE STATUS (for Dock Integrations dashboard)
+# =============================================================================
+
+@frappe.whitelist()
+def get_sync_status() -> dict:
+    """Bridge status for Dock's Integrations dashboard."""
+    if not is_employee_doctype_available():
+        return {"active": False, "reason": _("Employee DocType not available")}
+
+    linked_count = frappe.db.count(
+        "Orga Resource",
+        {"employee": ["is", "set"], "sync_with_erpnext": 1},
+    )
+    unsynced_count = frappe.db.count(
+        "Orga Resource",
+        {"employee": ["is", "set"], "sync_with_erpnext": 1, "erpnext_sync_status": ["!=", "Synced"]},
+    )
+
+    return {
+        "active": True,
+        "linked_resources": linked_count,
+        "unsynced_count": unsynced_count,
     }
 
 
