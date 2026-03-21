@@ -1,0 +1,50 @@
+version: 2
+updates:
+  # npm dependencies (frontend/) — this is where the value is
+  - package-ecosystem: "npm"
+    directory: "/frontend"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+    open-pull-requests-limit: 5
+    labels:
+      - "dependencies"
+    groups:
+      # Group minor+patch bumps into one PR to reduce noise
+      vue-ecosystem:
+        patterns:
+          - "vue*"
+          - "vue-router"
+        update-types:
+          - "minor"
+          - "patch"
+      dev-tools:
+        patterns:
+          - "vite*"
+          - "@vitejs/*"
+          - "typescript"
+          - "vue-tsc"
+          - "tailwindcss"
+          - "postcss"
+          - "autoprefixer"
+        update-types:
+          - "minor"
+          - "patch"
+
+  # pip — mostly empty, check monthly just in case
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    open-pull-requests-limit: 3
+    labels:
+      - "dependencies"
+
+  # GitHub Actions — keep your workflows up to date
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    open-pull-requests-limit: 3
+    labels:
+      - "dependencies"
