@@ -11,7 +11,16 @@ import { sanitizeHtml } from '@/utils/sanitize'
 import { useProjectShortcuts } from '@/composables/useProjectShortcuts'
 import { useToast } from '@/composables/useToast'
 import { useCurrency } from '@/composables/useCurrency'
+import { useDockRecent } from '@/composables/useDockRecent'
+import { defineAsyncComponent } from 'vue'
 import TaskManager from '@/components/TaskManager.vue'
+
+// Dock Guest Share button — loaded from Dock ESM bundle (hidden when Dock not installed)
+const dockEsm = '/assets/dock/js/dock-navbar.esm.js'
+const dockInstalled = !!(window as any).frappe?.boot?.dock?.installed
+const DockGuestShareButton = dockInstalled
+  ? defineAsyncComponent(() => import(/* @vite-ignore */ dockEsm).then(m => m.DockGuestShareButton))
+  : null
 import GanttChart from '@/components/gantt/GanttChart.vue'
 // GanttFocusPanel replaced by unified TaskManager with viewType='gantt'
 import CreateTaskModal from '@/components/project/CreateTaskModal.vue'
@@ -35,6 +44,7 @@ const { reorderItem } = useGanttApi()
 const { getResources } = useResourceApi()
 const { success: showSuccess, error: showError } = useToast()
 const { formatCurrency, currencySymbol } = useCurrency()
+const { trackRecent } = useDockRecent()
 
 // Kanban column definition
 interface KanbanColumn {
@@ -1300,6 +1310,10 @@ useProjectShortcuts({
 
 onMounted(async () => {
   await loadProject()
+  // Track in Dock recent items
+  if (project.value) {
+    trackRecent('Orga Project', project.value.name, project.value.project_name)
+  }
   // Auto-select task or milestone from query params (e.g. navigated from Activity page)
   const taskQuery = route.query.task as string | undefined
   const milestoneQuery = route.query.milestone as string | undefined
@@ -1456,6 +1470,15 @@ onUnmounted(() => {
                 <i class="fa-solid fa-flag"></i>
                 <span class="hidden md:inline">{{ __('Add Milestone') }}</span>
               </button>
+              <!-- Guest Portal share button (Dock integration) -->
+              <DockGuestShareButton
+                v-if="DockGuestShareButton"
+                view-id="orga.project_status"
+                source-app="orga"
+                source-doctype="Orga Project"
+                :source-name="project.name"
+                :label="project.project_name"
+              />
             </div>
 
             <!-- Dependency Mode Selector -->

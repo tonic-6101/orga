@@ -4,61 +4,52 @@
 /**
  * Global currency composable (singleton pattern).
  *
- * Uses module-level refs so all components share the same currency setting.
- * Loads the configured default_currency from Orga Settings and provides
- * a shared formatCurrency() function using Intl.NumberFormat.
+ * Reads currency from Dock Settings (ecosystem-wide org default)
+ * and provides shared formatCurrency() / currencySymbol / currencyIcon
+ * for all Orga components.
  */
 
 import { ref, computed } from 'vue'
-import { useSettingsApi } from './useApi'
 
 // ============================================
 // Module-level singleton state
 // ============================================
 
-const currency = ref('USD')
+const currency = ref('EUR')
 let initialized = false
+
+function readDockCurrency(): string {
+  try {
+    return (window as any).frappe?.boot?.dock?.settings?.currency || 'EUR'
+  } catch {
+    return 'EUR'
+  }
+}
 
 /**
  * Composable providing shared currency formatting.
  *
- * Auto-initializes on first use by loading from Orga Settings.
+ * Reads currency from Dock Settings (via frappe.boot.dock.settings.currency).
  * All components that call useCurrency() share the same currency ref.
  */
 export function useCurrency() {
-  const { getSettings } = useSettingsApi()
-
-  async function loadCurrency(): Promise<void> {
-    try {
-      const settings = await getSettings()
-      currency.value = settings.default_currency || 'USD'
-      initialized = true
-    } catch (e) {
-      console.error('Failed to load currency setting:', e)
-      // Keep fallback 'USD'
-    }
+  function loadCurrency(): void {
+    currency.value = readDockCurrency()
+    initialized = true
   }
 
   function formatCurrency(value: number | null | undefined): string {
-    if (!value && value !== 0) {
-      return new Intl.NumberFormat('en-US', {
-        style: 'currency',
-        currency: currency.value,
-        minimumFractionDigits: 0,
-        maximumFractionDigits: 0
-      }).format(0)
-    }
     return new Intl.NumberFormat('en-US', {
       style: 'currency',
       currency: currency.value,
       minimumFractionDigits: 0,
       maximumFractionDigits: 0
-    }).format(value)
+    }).format(value ?? 0)
   }
 
   // Auto-initialize on first use
   if (!initialized) {
-    initialized = true // Prevent duplicate fetches
+    initialized = true
     loadCurrency()
   }
 

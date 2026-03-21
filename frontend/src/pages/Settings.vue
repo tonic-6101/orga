@@ -5,14 +5,12 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue'
 import { useSettingsApi } from '@/composables/useApi'
-import { useCurrency } from '@/composables/useCurrency'
 import { useUpdateChecker } from '@/composables/useUpdateChecker'
 import { __ } from '@/composables/useTranslate'
 import { version as appVersion } from '../../package.json'
 import type { OrgaSettings } from '@/types/orga'
 
 const { getSettings, updateSettings } = useSettingsApi()
-const { loadCurrency } = useCurrency()
 const { updateInfo, updateAvailable, isChecking, checkError, forceCheck, dismissUpdate } = useUpdateChecker()
 
 // Tab definition
@@ -42,7 +40,6 @@ const settings = ref<OrgaSettings>({
   default_project_status: 'Planning',
   project_code_prefix: 'ORG',
   default_priority: 'Medium',
-  default_currency: 'USD',
   auto_calculate_progress: 1,
   auto_set_missed_milestones: 1,
   enable_time_tracking: 0,
@@ -71,7 +68,6 @@ async function loadSettings(): Promise<void> {
       default_project_status: data.default_project_status || 'Planning',
       project_code_prefix: data.project_code_prefix || 'ORG',
       default_priority: data.default_priority || 'Medium',
-      default_currency: data.default_currency || 'USD',
       auto_calculate_progress: data.auto_calculate_progress ? 1 : 0,
       auto_set_missed_milestones: data.auto_set_missed_milestones ? 1 : 0,
       enable_time_tracking: data.enable_time_tracking ? 1 : 0,
@@ -96,8 +92,6 @@ async function saveSettings(): Promise<void> {
 
   try {
     await updateSettings(settings.value)
-    // Reload the global currency ref so all components update immediately
-    await loadCurrency()
     saveMessage.value = { type: 'success', text: __('Settings saved successfully') }
     setTimeout(() => { saveMessage.value = null }, 3000)
   } catch (e) {
@@ -115,7 +109,6 @@ function resetDefaults(): void {
     default_project_status: 'Planning',
     project_code_prefix: 'ORG',
     default_priority: 'Medium',
-    default_currency: 'USD',
     auto_calculate_progress: 1,
     auto_set_missed_milestones: 1,
     enable_time_tracking: 0,
@@ -235,7 +228,7 @@ onMounted(loadSettings)
             </div>
 
             <!-- Default Priority -->
-            <div class="flex justify-between items-center py-3 border-b border-gray-100 dark:border-gray-700">
+            <div class="flex justify-between items-center py-3">
               <div>
                 <h4 class="text-sm font-medium text-gray-900 dark:text-gray-100 m-0">{{ __('Default Priority') }}</h4>
                 <p class="text-xs text-gray-500 dark:text-gray-400 m-0 mt-1">{{ __('Priority assigned to new tasks') }}</p>
@@ -248,38 +241,6 @@ onMounted(loadSettings)
               </select>
             </div>
 
-            <!-- Default Currency -->
-            <div class="flex justify-between items-center py-3">
-              <div>
-                <h4 class="text-sm font-medium text-gray-900 dark:text-gray-100 m-0">{{ __('Default Currency') }}</h4>
-                <p class="text-xs text-gray-500 dark:text-gray-400 m-0 mt-1">{{ __('Currency used for budgets, costs, and billing rates') }}</p>
-              </div>
-              <select v-model="settings.default_currency" class="px-3 py-2 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm min-w-[150px] text-gray-900 dark:text-gray-100 focus:outline-none focus:border-orga-500 dark:focus:border-orga-400">
-                <option value="USD">USD — US Dollar</option>
-                <option value="EUR">EUR — Euro</option>
-                <option value="GBP">GBP — British Pound</option>
-                <option value="CHF">CHF — Swiss Franc</option>
-                <option value="JPY">JPY — Japanese Yen</option>
-                <option value="CAD">CAD — Canadian Dollar</option>
-                <option value="AUD">AUD — Australian Dollar</option>
-                <option value="INR">INR — Indian Rupee</option>
-                <option value="CNY">CNY — Chinese Yuan</option>
-                <option value="BRL">BRL — Brazilian Real</option>
-                <option value="SEK">SEK — Swedish Krona</option>
-                <option value="NOK">NOK — Norwegian Krone</option>
-                <option value="DKK">DKK — Danish Krone</option>
-                <option value="PLN">PLN — Polish Zloty</option>
-                <option value="CZK">CZK — Czech Koruna</option>
-                <option value="HUF">HUF — Hungarian Forint</option>
-                <option value="TRY">TRY — Turkish Lira</option>
-                <option value="ZAR">ZAR — South African Rand</option>
-                <option value="SGD">SGD — Singapore Dollar</option>
-                <option value="HKD">HKD — Hong Kong Dollar</option>
-                <option value="NZD">NZD — New Zealand Dollar</option>
-                <option value="MXN">MXN — Mexican Peso</option>
-                <option value="KRW">KRW — South Korean Won</option>
-              </select>
-            </div>
           </div>
         </template>
 

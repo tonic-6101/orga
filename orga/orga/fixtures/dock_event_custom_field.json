@@ -1,0 +1,45 @@
+[
+  {
+    "doctype": "Custom Field",
+    "dt": "Dock Event",
+    "fieldname": "orga_section",
+    "fieldtype": "Section Break",
+    "label": "Orga Context",
+    "insert_after": "description",
+    "collapsible": 1
+  },
+  {
+    "doctype": "Custom Field",
+    "dt": "Dock Event",
+    "fieldname": "orga_project",
+    "fieldtype": "Link",
+    "label": "Project",
+    "options": "Orga Project",
+    "insert_after": "orga_section"
+  },
+  {
+    "doctype": "Custom Field",
+    "dt": "Dock Event",
+    "fieldname": "orga_column_break",
+    "fieldtype": "Column Break",
+    "insert_after": "orga_project"
+  },
+  {
+    "doctype": "Custom Field",
+    "dt": "Dock Event",
+    "fieldname": "orga_task",
+    "fieldtype": "Link",
+    "label": "Task",
+    "options": "Orga Task",
+    "insert_after": "orga_column_break"
+  },
+  {
+    "doctype": "Custom Field",
+    "dt": "Dock Event",
+    "fieldname": "orga_milestone",
+    "fieldtype": "Link",
+    "label": "Milestone",
+    "options": "Orga Milestone",
+    "insert_after": "orga_task"
+  }
+]

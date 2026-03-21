@@ -7,18 +7,18 @@
 """
 Scheduled job for deadline reminder notifications.
 
-Runs daily to check for tasks with upcoming deadlines and sends reminder
-notifications to assigned users or task owners.
+Runs daily to check for tasks and milestones with upcoming deadlines and
+publishes notifications to Dock's bell icon.
 """
 
 import frappe
 from frappe import _
-from frappe.utils import add_days, today, getdate
+from frappe.utils import add_days, today
 
 
 def send_deadline_reminders():
     """
-    Check for tasks with upcoming deadlines and send reminders.
+    Check for tasks and milestones with upcoming deadlines and send reminders.
 
     Runs daily. Sends reminders for:
     - Tasks due today (0 days)
@@ -26,8 +26,12 @@ def send_deadline_reminders():
     - Tasks due in 3 days (configurable)
 
     Skips tasks that are already completed or cancelled.
+    Publishes to Dock bell icon via dock.api.notifications.publish().
     """
-    from orga.orga.doctype.orga_notification.orga_notification import notify_deadline
+    from orga.orga.integrations.dock_notification import publish, _dock_installed
+
+    if not _dock_installed():
+        return
 
     # Default reminder days: today, tomorrow, 3 days out
     reminder_days = [0, 1, 3]
@@ -44,7 +48,7 @@ def send_deadline_reminders():
     for days in reminder_days:
         target_date = add_days(today(), days)
 
-        # Find tasks due on target date that aren't complete
+        # --- Task deadline reminders ---
         tasks = frappe.get_all(
             "Orga Task",
             filters={
@@ -55,69 +59,85 @@ def send_deadline_reminders():
         )
 
         for task_data in tasks:
-            # Check if we've already sent a reminder for this task today
-            existing_reminder = frappe.db.exists(
-                "Orga Notification",
+            # Deduplicate: check if Dock already has a reminder for this task today
+            existing = frappe.db.exists(
+                "Dock Notification",
                 {
-                    "notification_type": "Deadline",
+                    "notification_type": "deadline_reminder",
                     "reference_doctype": "Orga Task",
                     "reference_name": task_data.name,
-                    "creation": [">=", today()]
-                }
+                    "creation": [">=", today()],
+                },
+            )
+            if existing:
+                continue
+
+            recipient = task_data.assigned_to or task_data.owner
+            if not recipient:
+                continue
+
+            if days == 0:
+                subject = _("Task due today: {0}").format(task_data.subject)
+            elif days == 1:
+                subject = _("Task due tomorrow: {0}").format(task_data.subject)
+            else:
+                subject = _("Task due in {0} days: {1}").format(days, task_data.subject)
+
+            publish(
+                notification_type="deadline_reminder",
+                title=subject,
+                for_user=recipient,
+                message=_("Task '{0}' is due on {1}.").format(task_data.subject, task_data.due_date),
+                reference_doctype="Orga Task",
+                reference_name=task_data.name,
             )
 
-            if existing_reminder:
-                continue  # Skip, already notified today
-
-            # Create a minimal task object for the notification function
-            class TaskProxy:
-                def __init__(self, data):
-                    self.name = data.name
-                    self.subject = data.subject
-                    self.due_date = data.due_date
-                    self.assigned_to = data.assigned_to
-                    self.owner = data.owner
-                    self.project = data.project
-
-            task = TaskProxy(task_data)
-            notify_deadline(task, days)
-
-    frappe.db.commit()
-
-
-def cleanup_old_notifications():
-    """
-    Remove old read notifications to keep the database clean.
-
-    Runs weekly. Deletes notifications that:
-    - Are older than 30 days
-    - Have been read
-
-    Keeps unread notifications regardless of age.
-    """
-    from frappe.utils import add_days, today
-
-    cutoff_date = add_days(today(), -30)
-
-    old_notifications = frappe.get_all(
-        "Orga Notification",
-        filters={
-            "is_read": 1,
-            "creation": ["<", cutoff_date]
-        },
-        pluck="name"
-    )
-
-    for name in old_notifications:
-        try:
-            frappe.delete_doc("Orga Notification", name, ignore_permissions=True)
-        except Exception as e:
-            frappe.log_error(f"Failed to clean notification {name}: {e}", "Orga Notification Cleanup")
-
-    frappe.db.commit()
-
-    if old_notifications:
-        frappe.log_error(
-            title="Notification Cleanup",
-            message=f"Deleted {len(old_notifications)} old notifications"
+        # --- Milestone deadline reminders ---
+        milestones = frappe.get_all(
+            "Orga Milestone",
+            filters={
+                "due_date": target_date,
+                "status": ["not in", ["Completed", "Cancelled"]],
+            },
+            fields=["name", "milestone_name", "due_date", "project", "owner"],
         )
+
+        for ms in milestones:
+            existing = frappe.db.exists(
+                "Dock Notification",
+                {
+                    "notification_type": "milestone_due",
+                    "reference_doctype": "Orga Milestone",
+                    "reference_name": ms.name,
+                    "creation": [">=", today()],
+                },
+            )
+            if existing:
+                continue
+
+            project_owner = (
+                frappe.db.get_value("Orga Project", ms.project, "owner")
+                if ms.project
+                else None
+            )
+            recipient = project_owner or ms.owner
+            if not recipient:
+                continue
+
+            if days == 0:
+                subject = _("Milestone due today: {0}").format(ms.milestone_name)
+            elif days == 1:
+                subject = _("Milestone due tomorrow: {0}").format(ms.milestone_name)
+            else:
+                subject = _("Milestone due in {0} days: {1}").format(days, ms.milestone_name)
+
+            publish(
+                notification_type="milestone_due",
+                title=subject,
+                for_user=recipient,
+                message=_("Milestone '{0}' is due on {1}.").format(ms.milestone_name, ms.due_date),
+                reference_doctype="Orga Milestone",
+                reference_name=ms.name,
+            )
+
+    frappe.db.commit()

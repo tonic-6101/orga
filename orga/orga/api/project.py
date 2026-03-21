@@ -464,12 +464,6 @@ def delete_project(name):
     if frappe.db.exists("DocType", "Orga Defect"):
         frappe.db.set_value("Orga Defect", {"project": name}, "project", "", update_modified=False)
 
-    # Delete notifications referencing this project
-    if frappe.db.exists("DocType", "Orga Notification"):
-        for notif in frappe.get_all("Orga Notification",
-            filters={"reference_doctype": "Orga Project", "reference_name": name}, pluck="name"):
-            frappe.delete_doc("Orga Notification", notif, force=True)
-
     # Delete activity comments and reactions referencing this project
     if frappe.db.exists("DocType", "Orga Activity Comment"):
         for comment in frappe.get_all("Orga Activity Comment",

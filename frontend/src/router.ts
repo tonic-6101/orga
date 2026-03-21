@@ -54,7 +54,7 @@ const dockSharedRoutes: RouteRecordRaw[] = dockInstalled ? [
 declare module 'vue-router' {
   interface RouteMeta {
     title?: string
-    layout?: 'default' | 'portal'
+    layout?: 'default' | 'portal' | 'guest'
     requiresRole?: string
     requiresAuth?: boolean
     dockShared?: boolean
@@ -135,6 +135,21 @@ const routes: RouteRecordRaw[] = [
     name: 'Preferences',
     component: () => import('./pages/Preferences.vue'),
     meta: { title: 'Preferences', layout: 'default' }
+  },
+
+  // ============================================
+  // Guest Portal Routes (loaded inside Dock Guest Portal iframe, no auth)
+  // ============================================
+  {
+    path: '/orga/guest/project/:name',
+    name: 'GuestProjectStatus',
+    component: () => import('./pages/guest/GuestProjectStatus.vue'),
+    props: true,
+    meta: {
+      title: 'Project Status',
+      layout: 'guest',
+      requiresAuth: false
+    }
   },
 
   // ============================================

@@ -18,35 +18,6 @@ import frappe
 from frappe import _
 
 
-def _get_currency_from_db():
-    """Read default_currency directly from tabSingles via raw SQL.
-
-    This bypasses DocType meta validation so it works even before
-    ``bench migrate`` has picked up the new field definition.
-    """
-    rows = frappe.db.sql(
-        "SELECT `value` FROM `tabSingles` "
-        "WHERE `doctype`='Orga Settings' AND `field`='default_currency'",
-    )
-    return rows[0][0] if rows else None
-
-
-def _set_currency_in_db(value):
-    """Write default_currency directly to tabSingles via raw SQL.
-
-    Same bypass rationale as ``_get_currency_from_db``.
-    """
-    frappe.db.sql(
-        "DELETE FROM `tabSingles` "
-        "WHERE `doctype`='Orga Settings' AND `field`='default_currency'",
-    )
-    frappe.db.sql(
-        "INSERT INTO `tabSingles` (`doctype`, `field`, `value`) "
-        "VALUES ('Orga Settings', 'default_currency', %s)",
-        (value,),
-    )
-
-
 @frappe.whitelist()
 def get_settings():
     """
@@ -56,13 +27,7 @@ def get_settings():
         dict: Settings document fields
     """
     settings = frappe.get_single("Orga Settings")
-    result = settings.as_dict()
-
-    # Ensure default_currency is present (may be absent from meta before migration)
-    if not result.get("default_currency"):
-        result["default_currency"] = _get_currency_from_db() or "USD"
-
-    return result
+    return settings.as_dict()
 
 
 @frappe.whitelist()
@@ -106,19 +71,9 @@ def update_settings(data):
             setattr(settings, field, value)
 
     settings.save()
-
-    # Persist default_currency directly to tabSingles via raw SQL so it
-    # works even before bench migrate picks up the new DocType field.
-    if "default_currency" in data and data["default_currency"]:
-        _set_currency_in_db(data["default_currency"])
-
     frappe.db.commit()
 
-    result = settings.as_dict()
-    if not result.get("default_currency"):
-        result["default_currency"] = _get_currency_from_db() or "USD"
-
-    return result
+    return settings.as_dict()
 
 
 @frappe.whitelist()

@@ -84,20 +84,27 @@ def parse_mentions(text: str) -> list:
 
 def process_comment_mentions(doc, comment_text: str):
     """
-    Process mentions in a comment and send notifications.
+    Process mentions in a comment and publish notifications to Dock.
 
     Args:
         doc: Parent document (Task, Project, etc.)
         comment_text: Comment text to parse
     """
-    from orga.orga.doctype.orga_notification.orga_notification import notify_mention
+    from orga.orga.integrations.dock_notification import publish
 
     mentions = parse_mentions(comment_text)
 
     for user in mentions:
-        # Don't notify self
         if user != frappe.session.user:
-            notify_mention(doc, user, comment_text)
+            truncated = (comment_text[:200] + "...") if len(comment_text) > 200 else comment_text
+            publish(
+                notification_type="comment_mention",
+                title=_("You were mentioned in {0}").format(doc.name),
+                for_user=user,
+                message=truncated,
+                reference_doctype=doc.doctype,
+                reference_name=doc.name,
+            )
 
 
 def get_user_mentions_autocomplete(search: str, limit: int = 10) -> list:

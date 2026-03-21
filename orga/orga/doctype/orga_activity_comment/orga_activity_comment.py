@@ -61,7 +61,9 @@ class OrgaActivityComment(Document):
         self.notify_mentions()
 
     def notify_mentions(self):
-        """Send realtime notifications to mentioned users."""
+        """Send realtime notifications to mentioned users and publish to Dock bell."""
+        from orga.orga.integrations.dock_notification import publish
+
         for mention in self.mentions:
             if mention.user != frappe.session.user:
                 frappe.publish_realtime(
@@ -77,6 +79,17 @@ class OrgaActivityComment(Document):
                         "content_preview": self.content[:100] if self.content else ""
                     },
                     user=mention.user
+                )
+
+                # Dock bell notification
+                truncated = (self.content[:200] + "...") if self.content and len(self.content) > 200 else (self.content or "")
+                publish(
+                    notification_type="comment_mention",
+                    title=_("You were mentioned in {0}").format(self.reference_name),
+                    for_user=mention.user,
+                    message=truncated,
+                    reference_doctype=self.reference_doctype,
+                    reference_name=self.reference_name,
                 )
 
     def on_trash(self):

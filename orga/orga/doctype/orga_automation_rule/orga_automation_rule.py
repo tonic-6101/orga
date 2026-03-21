@@ -149,17 +149,16 @@ class OrgaAutomationRule(Document):
                 doc.assigned_to = action.target_user
 
         elif action.action_type == "Send Notification":
-            from orga.orga.doctype.orga_notification.orga_notification import create_notification
+            from orga.orga.integrations.dock_notification import publish
 
             recipient = action.target_user or doc.owner
-            create_notification(
-                notification_type="System",
-                subject=_("Automation: {0}").format(self.rule_name),
-                recipient=recipient,
+            publish(
+                notification_type="task_status_change",
+                title=_("Automation: {0}").format(self.rule_name),
+                for_user=recipient,
                 message=action.message,
                 reference_doctype=doc.doctype,
                 reference_name=doc.name,
-                from_user=None  # System notification
             )
 
         elif action.action_type == "Add Comment":

@@ -629,99 +629,6 @@ POST /api/method/orga.orga.api.task.remove_task_dependency
 
 ---
 
-## Time Tracking API
-
-### Get Time Logs
-
-Retrieve time log entries with optional filters.
-
-```
-POST /api/method/orga.orga.api.timelog.get_time_logs
-```
-
-**Parameters:**
-| Name | Type | Description |
-|------|------|-------------|
-| task | string | Filter by task ID |
-| project | string | Filter by project ID |
-| user | string | Filter by user |
-| limit | integer | Maximum results (default: 50) |
-
-**Response:**
-```json
-{
-  "message": [
-    {
-      "name": "TL-00001",
-      "task": "TASK-00001",
-      "task_subject": "Design homepage",
-      "project": "ORG-2026-0001",
-      "user": "jane@example.com",
-      "user_name": "Jane Smith",
-      "from_time": "2026-02-03 09:00:00",
-      "to_time": "2026-02-03 12:00:00",
-      "hours": 3.0,
-      "description": "Initial mockups"
-    }
-  ]
-}
-```
-
-### Create Time Log
-
-Log time against a task.
-
-```
-POST /api/method/orga.orga.api.timelog.create_time_log
-```
-
-**Parameters:**
-| Name | Type | Required | Description |
-|------|------|----------|-------------|
-| task | string | Yes | Task ID |
-| hours | float | Yes | Hours to log |
-| description | string | No | Work description |
-| from_time | datetime | No | Start time (defaults to now) |
-
-### Get Time Summary
-
-Get aggregated time statistics.
-
-```
-POST /api/method/orga.orga.api.timelog.get_time_summary
-```
-
-**Parameters:**
-| Name | Type | Description |
-|------|------|-------------|
-| project | string | Filter by project |
-| user | string | Filter by user |
-
-**Response:**
-```json
-{
-  "message": {
-    "total_hours": 45.5,
-    "log_count": 12
-  }
-}
-```
-
-### Get My Time Logs
-
-Get time logs for the current user.
-
-```
-POST /api/method/orga.orga.api.timelog.get_my_time_logs
-```
-
-**Parameters:**
-| Name | Type | Description |
-|------|------|-------------|
-| limit | integer | Maximum results (default: 20) |
-
----
-
 ## Settings API
 
 ### Get Settings
@@ -2002,95 +1909,11 @@ POST /api/method/orga.orga.api.workflow.activate_workflow
 
 ---
 
-## Notifications API
+## Notifications
 
-### Get My Notifications
-
-Retrieve notifications for the current user.
-
-```
-POST /api/method/orga.orga.api.notification.get_my_notifications
-```
-
-**Parameters:**
-| Name | Type | Description |
-|------|------|-------------|
-| limit | integer | Maximum results (default: 50) |
-| offset | integer | Pagination offset |
-| unread_only | boolean | Only return unread notifications |
-
-**Response:**
-```json
-{
-  "message": {
-    "notifications": [
-      {
-        "name": "abc123",
-        "notification_type": "Assignment",
-        "subject": "You have been assigned to: Design homepage",
-        "message": "You have been assigned to task 'Design homepage' in project 'Website Redesign'.",
-        "is_read": 0,
-        "reference_doctype": "Orga Task",
-        "reference_name": "TASK-00001",
-        "from_user": "john@example.com",
-        "from_user_name": "John Doe",
-        "creation": "2026-02-03 10:30:00"
-      }
-    ],
-    "total": 15,
-    "unread_count": 3
-  }
-}
-```
-
-### Get Unread Count
-
-Get the count of unread notifications for the current user.
-
-```
-POST /api/method/orga.orga.api.notification.get_unread_count
-```
-
-**Response:**
-```json
-{
-  "message": 5
-}
-```
-
-### Mark as Read
-
-Mark a specific notification as read.
-
-```
-POST /api/method/orga.orga.api.notification.mark_as_read
-```
-
-**Parameters:**
-| Name | Type | Required | Description |
-|------|------|----------|-------------|
-| name | string | Yes | Notification ID |
-
-### Mark All as Read
-
-Mark all notifications as read for the current user.
-
-```
-POST /api/method/orga.orga.api.notification.mark_all_as_read
-```
-
-### Delete Notification
-
-Remove a notification.
-
-```
-POST /api/method/orga.orga.api.notification.delete_notification
-```
-
-**Parameters:**
-| Name | Type | Required | Description |
-|------|------|----------|-------------|
-| name | string | Yes | Notification ID |
+> **Removed.** Notifications are now handled by Dock's cross-app notification system.
+> Orga publishes notifications via `dock.api.notifications.publish()`.
+> See the [Dock API documentation](https://dock.localhost/spec/API.md) for notification endpoints.
 
 ---
 
@@ -2870,57 +2693,6 @@ POST /api/method/orga.orga.integrations.erpnext.sync_all_resources_from_employee
 }
 ```
 
-### Export Time Log to Timesheet
-
-Export an Orga Time Log to an ERPNext Timesheet.
-
-```
-POST /api/method/orga.orga.integrations.erpnext.export_time_log_to_timesheet
-```
-
-**Parameters:**
-| Name | Type | Required | Description |
-|------|------|----------|-------------|
-| time_log_name | string | Yes | Orga Time Log ID |
-
-**Response:**
-```json
-{
-  "message": {
-    "success": true,
-    "timesheet": "TS-00001",
-    "message": "Exported to timesheet TS-00001"
-  }
-}
-```
-
-### Export Project Time Logs
-
-Export all time logs for a project to ERPNext timesheets.
-
-```
-POST /api/method/orga.orga.integrations.erpnext.export_project_time_logs
-```
-
-**Parameters:**
-| Name | Type | Required | Description |
-|------|------|----------|-------------|
-| project_name | string | Yes | Orga Project ID |
-| from_date | date | No | Filter by start date |
-| to_date | date | No | Filter by end date |
-
-**Response:**
-```json
-{
-  "message": {
-    "success": true,
-    "exported": 15,
-    "skipped": 5,
-    "errors": []
-  }
-}
-```
-
 ### Get Project Billing Summary
 
 Get billing summary for a project including billable hours and estimated revenue.
@@ -3066,7 +2838,6 @@ POST /api/method/orga.orga.api.webhook.create_webhook
 - `assignment.created`, `assignment.updated`, `assignment.deleted`
 - `appointment.created`, `appointment.updated`, `appointment.deleted`, `appointment.rsvp`
 - `milestone.created`, `milestone.completed`
-- `time_log.created`
 - `workflow.action`
 
 ### Test Webhook
@@ -3216,39 +2987,6 @@ POST /api/method/orga.orga.api.import_export.export_tasks
 | status | string | Filter by status |
 | format | string | Output format: 'csv' or 'json' |
 
-### Export Time Logs
-
-Export time logs with optional date range filter.
-
-```
-POST /api/method/orga.orga.api.import_export.export_time_logs
-```
-
-**Parameters:**
-| Name | Type | Description |
-|------|------|-------------|
-| project | string | Filter by project |
-| resource | string | Filter by resource |
-| from_date | date | Period start |
-| to_date | date | Period end |
-| format | string | Output format: 'csv' or 'json' |
-
-### Export Timesheet Report
-
-Export aggregated timesheet data by resource and date.
-
-```
-POST /api/method/orga.orga.api.import_export.export_timesheet_report
-```
-
-**Parameters:**
-| Name | Type | Description |
-|------|------|-------------|
-| project | string | Filter by project |
-| from_date | date | Report start date |
-| to_date | date | Report end date |
-| format | string | Output format: 'csv' or 'json' |
-
 ### Import Tasks
 
 Import tasks from a CSV file.
@@ -3318,7 +3056,7 @@ POST /api/method/orga.orga.api.import_export.get_import_template
 **Parameters:**
 | Name | Type | Required | Description |
 |------|------|----------|-------------|
-| doctype | string | Yes | DocType name ('Orga Task', 'Orga Resource', 'Orga Time Log') |
+| doctype | string | Yes | DocType name ('Orga Task', 'Orga Resource') |
 
 **Response:**
 ```json

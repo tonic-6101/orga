@@ -277,10 +277,10 @@ export interface ContactStats {
     completed: number
     cancelled: number
   }
-  time_logs: {
+  time_entries: {
     total_hours: number
     billable_hours: number
-    log_count: number
+    entry_count: number
   }
   defects: {
     total: number
@@ -408,7 +408,6 @@ export interface TemplateFilters {
 export interface OrgaSettings {
   default_project_status: ProjectStatus
   default_task_priority: TaskPriority
-  default_currency: string
   enable_time_tracking: 0 | 1
   time_tracking_mandatory: 0 | 1
   default_weekly_capacity: number
@@ -908,39 +907,6 @@ export interface EventFilters {
   event_type?: EventType
   start_date?: string
   end_date?: string
-  limit?: number
-  offset?: number
-}
-
-// ============================================
-// Orga Notification Types (Phase 6)
-// ============================================
-
-export type NotificationType =
-  | 'Assignment'
-  | 'Status Change'
-  | 'Comment'
-  | 'Mention'
-  | 'Deadline'
-  | 'System'
-
-export interface OrgaNotification extends OrgaDocument {
-  notification_type: NotificationType
-  subject: string
-  message?: string
-  recipient: string
-  is_read: 0 | 1
-  read_at?: string
-  reference_doctype?: string
-  reference_name?: string
-  from_user?: string
-  from_user_name?: string
-  email_sent: 0 | 1
-}
-
-export interface NotificationFilters {
-  [key: string]: unknown
-  unread_only?: boolean
   limit?: number
   offset?: number
 }
