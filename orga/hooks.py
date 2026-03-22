@@ -147,6 +147,29 @@ dock_guest_views = [
     },
 ]
 
+watch_timer_contexts = [
+    {
+        "doctype": "Orga Project",
+        "label": "Project",
+        "search_fields": ["project_name", "project_code"],
+        "display_field": "project_name",
+    },
+    {
+        "doctype": "Orga Task",
+        "label": "Task",
+        "search_fields": ["subject"],
+        "display_field": "subject",
+        "parent_field": "project",
+        "parent_doctype": "Orga Project",
+    },
+    {
+        "doctype": "Orga Appointment",
+        "label": "Event",
+        "search_fields": ["subject"],
+        "display_field": "subject",
+    },
+]
+
 dock_calendar_sources = {
     "event_label": "Orga",
     "event_types": [
