@@ -95,7 +95,6 @@ export interface OrgaTask extends OrgaDocument {
   billing_rate?: number
   // Child tables
   checklist?: OrgaTaskChecklist[]
-  comments?: OrgaTaskComment[]
   dependencies?: OrgaTaskDependency[]
 }
 
@@ -107,17 +106,8 @@ export interface OrgaTaskChecklist {
   completed_on?: string
 }
 
-export interface OrgaTaskComment {
-  name?: string
-  content: string
-  comment_by: string
-  comment_by_name?: string
-  posted_on: string
-}
-
 // Aliases for backwards compatibility with TaskManager
 export type TaskChecklistItem = OrgaTaskChecklist
-export type TaskComment = OrgaTaskComment
 
 export interface OrgaTaskDependency {
   name?: string
@@ -432,6 +422,34 @@ export interface ApiResponse<T> {
   message: T
 }
 
+/**
+ * Activity item returned by get_recent_activity / get_activity_since.
+ */
+export interface ActivityItem {
+  type: string
+  action: string
+  name: string
+  title?: string
+  status?: string
+  project?: string
+  project_name?: string
+  timestamp: string
+  user: string
+  user_name?: string
+  user_image?: string
+  reference_doctype?: string
+  reference_name?: string
+  // Appointment-specific
+  event_type?: string
+  start_datetime?: string
+  end_datetime?: string
+  location?: string
+  is_attendee?: boolean
+  user_rsvp_status?: string
+  attendee_stats?: AttendeeStats
+  attendees?: EventAttendee[]
+}
+
 export interface DashboardStats {
   project_count: number
   task_count: number
@@ -492,78 +510,12 @@ export interface ActivityChange {
 }
 
 /**
- * Represents a user note/annotation on an activity.
- * Stored as Comment doctype with comment_type "Info".
- */
-export interface ActivityNote {
-  name: string
-  content: string
-  created_by: string
-  created_by_name: string
-  created_by_image?: string | null
-  creation: string
-}
-
-/**
- * Represents an inline comment on an activity (threaded).
- * Stored as Orga Activity Comment DocType.
- */
-export interface ActivityComment {
-  name: string
-  user: string
-  user_fullname: string
-  user_image?: string
-  content: string
-  creation: string
-  parent_comment?: string
-  reply_count: number
-  replies: ActivityComment[]
-  can_delete: boolean
-}
-
-/**
- * Response from get_activity_comments API
- */
-export interface ActivityCommentsResponse {
-  comments: ActivityComment[]
-  has_more: boolean
-  total: number
-}
-
-/**
  * User info for @mention autocomplete
  */
 export interface MentionUser {
   name: string
   full_name: string
   user_image?: string
-}
-
-// ============================================
-// Activity Reactions
-// ============================================
-
-/**
- * Valid reaction types for activities
- */
-export type ReactionType = 'acknowledge' | 'celebrate' | 'seen' | 'flag'
-
-/**
- * User info for reaction display
- */
-export interface ReactionUser {
-  user: string
-  user_fullname: string
-}
-
-/**
- * Response from toggle_reaction or get_reactions API
- */
-export interface ReactionResponse {
-  reacted?: boolean
-  counts: Record<string, number>
-  users: Record<string, ReactionUser[]>
-  user_reactions: string[]
 }
 
 // ============================================
@@ -619,106 +571,6 @@ export interface EventRSVPInfo {
   user_rsvp_status: RSVPStatus | null
   attendee_stats: AttendeeStats
   attendees: EventAttendee[]
-}
-
-/**
- * Activity feed item with optional manager action fields.
- * Extended from basic activity to support pin, archive, notes, and changes.
- */
-export interface ActivityItem {
-  // Core identity
-  doctype: string
-  name: string
-  subject?: string
-  action: string
-  timestamp: string
-  user: string
-  user_fullname?: string
-  user_name?: string
-  user_image?: string
-  reference_doctype?: string
-  reference_name?: string
-
-  // Extended fields for Activity view
-  type?: string
-  title?: string
-  status?: string
-  project?: string
-  project_name?: string
-  modified?: string
-  modified_by?: string
-  modified_by_name?: string
-
-  // Manager action fields (populated by get_activity_details)
-  is_pinned?: boolean
-  is_archived?: boolean
-  notes?: ActivityNote[]
-  changes?: ActivityChange[]
-  can_delete?: boolean
-
-  // Inline comments
-  comment_count?: number
-
-  // Reactions
-  reaction_counts?: Record<string, number>
-  user_reactions?: string[]
-
-  // Event-specific (RSVP)
-  event_type?: string
-  start_datetime?: string
-  end_datetime?: string
-  location?: string
-  is_attendee?: boolean
-  user_rsvp_status?: string
-  attendee_stats?: AttendeeStats
-  attendees?: EventAttendee[]
-}
-
-// ============================================
-// Activity Grouping & Aggregation
-// ============================================
-
-/**
- * A group of activities under a date label (Today, Yesterday, etc.)
- */
-export interface ActivityGroup {
-  label: string
-  date: string
-  items: (ActivityItem | AggregatedActivity)[]
-}
-
-/**
- * Multiple consecutive same-user/type/action activities collapsed into one card
- */
-export interface AggregatedActivity {
-  isAggregated: true
-  user: string
-  user_name: string
-  user_image?: string
-  type: string
-  action: string
-  count: number
-  items: ActivityItem[]
-  timestamp: string
-  projects: string[]
-}
-
-/**
- * Response from get_activity_details API.
- * Contains full activity details including changes and notes.
- */
-export interface ActivityDetails {
-  doctype: string
-  name: string
-  title: string
-  modified: string
-  modified_by: string
-  modified_by_name: string
-  changes: ActivityChange[]
-  notes: ActivityNote[]
-  is_pinned: boolean
-  is_archived: boolean
-  can_delete: boolean
 }
 
 // ============================================
@@ -1070,55 +922,7 @@ export interface ClientWithProjects extends OrgaClient {
 // Due Diligence / External Company Types (Phase 4)
 // ============================================
 
-/**
- * Note types for categorizing activity comments
- */
-export type NoteType = 'General' | 'Due Diligence' | 'Offer' | 'Decision'
-
-/**
- * Visibility levels for notes
- */
-export type NoteVisibility = 'Internal' | 'Team' | 'Public'
-
-/**
- * Due diligence note with extended fields
- */
-export interface DueDiligenceNote {
-  name: string
-  user: string
-  user_fullname: string
-  user_image?: string
-  content: string
-  creation: string
-  note_type: NoteType
-  visibility: NoteVisibility
-  related_company?: string
-  can_delete: boolean
-}
-
-/**
- * Response from get_due_diligence_notes API
- */
-export interface DueDiligenceNotesResponse {
-  notes: DueDiligenceNote[]
-  has_more: boolean
-  total: number
-  type_counts: Record<NoteType, number>
-}
-
-/**
- * Compliance/due diligence status for an activity
- */
-export interface ComplianceStatus {
-  has_due_diligence: boolean
-  due_diligence_count: number
-  has_decision: boolean
-  has_offer: boolean
-  is_flagged: boolean
-  last_note_date: string | null
-  checklist_progress: number
-  type_counts: Record<NoteType, number>
-}
+// Activity types removed — comments, reactions, discussions now handled by Dock (#40-42)
 
 /**
  * External company activity info for display
@@ -1129,19 +933,6 @@ export interface ExternalCompanyInfo {
   contact_email?: string
   value?: number
   can_make_offer: boolean
-}
-
-/**
- * Extended ActivityItem with external company fields
- */
-export interface ExternalActivityItem extends ActivityItem {
-  company_name?: string
-  contact_name?: string
-  contact_email?: string
-  value?: number
-  can_make_offer?: boolean
-  due_diligence_notes?: DueDiligenceNote[]
-  compliance_status?: ComplianceStatus
 }
 
 // ============================================

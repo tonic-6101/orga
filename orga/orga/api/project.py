@@ -440,9 +440,6 @@ def delete_project(name):
     if not frappe.has_permission("Orga Project", "delete", name):
         frappe.throw(_("Not permitted to delete this project"), frappe.PermissionError)
 
-    # Capture project info before deletion for the activity log
-    project_label = frappe.db.get_value("Orga Project", name, "project_name") or name
-
     # Count and delete associated tasks (use delete_task API for full cleanup)
     tasks = frappe.get_all("Orga Task", filters={"project": name})
     for task in tasks:
@@ -464,34 +461,8 @@ def delete_project(name):
     if frappe.db.exists("DocType", "Orga Defect"):
         frappe.db.set_value("Orga Defect", {"project": name}, "project", "", update_modified=False)
 
-    # Delete activity comments and reactions referencing this project
-    if frappe.db.exists("DocType", "Orga Activity Comment"):
-        for comment in frappe.get_all("Orga Activity Comment",
-            filters={"reference_doctype": "Orga Project", "reference_name": name}, pluck="name"):
-            frappe.delete_doc("Orga Activity Comment", comment, force=True)
-    if frappe.db.exists("DocType", "Orga Activity Reaction"):
-        for reaction in frappe.get_all("Orga Activity Reaction",
-            filters={"reference_doctype": "Orga Project", "reference_name": name}, pluck="name"):
-            frappe.delete_doc("Orga Activity Reaction", reaction, force=True)
-
     # Delete project (force=True to handle any remaining links)
     frappe.delete_doc("Orga Project", name, force=True)
-
-    # Log deletion as a system activity comment so it appears in the activity feed
-    try:
-        comment = frappe.get_doc({
-            "doctype": "Orga Activity Comment",
-            "reference_doctype": "Orga Project",
-            "reference_name": name,
-            "note_type": "System",
-            "content": _('Deleted project "{0}" ({1} tasks, {2} milestones)').format(project_label, len(tasks), len(milestones)),
-            "user": frappe.session.user,
-            "visibility": "Team"
-        })
-        comment.insert(ignore_permissions=True)
-    except Exception:
-        # Don't let activity logging failure block deletion
-        pass
 
     frappe.db.commit()
 

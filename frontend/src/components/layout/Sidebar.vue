@@ -5,7 +5,6 @@
 <script setup lang="ts">
 import { computed, type Ref } from 'vue'
 import { useRoute } from 'vue-router'
-import { useActivityUnread } from '@/composables/useActivityUnread'
 import { useUpdateChecker } from '@/composables/useUpdateChecker'
 import { __ } from '@/composables/useTranslate'
 import { version as appVersion } from '../../../package.json'
@@ -29,13 +28,11 @@ const emit = defineEmits<{
 }>()
 
 const route = useRoute()
-const { unreadCount } = useActivityUnread()
 const { updateAvailable, updateInfo } = useUpdateChecker()
 
 const navItems: NavItem[] = [
   { path: '/orga', name: __('Dashboard'), icon: 'fa-solid fa-gauge-high' },
   { path: '/orga/my-tasks', name: __('My Tasks'), icon: 'fa-solid fa-circle-check' },
-  { path: '/orga/activity', name: __('Activity'), icon: 'fa-solid fa-comments', badge: unreadCount },
   { path: '/orga/projects', name: __('Projects'), icon: 'fa-solid fa-folder-open' },
   { path: '/orga/reports', name: __('Reports'), icon: 'fa-solid fa-chart-bar' },
   { path: '/orga/templates', name: __('Templates'), icon: 'fa-solid fa-copy' },

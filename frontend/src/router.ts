@@ -7,7 +7,6 @@ import { __ } from './composables/useTranslate'
 
 // Page components - eager loaded for main navigation
 import Dashboard from './pages/Dashboard.vue'
-import Activity from './pages/Activity.vue'
 import Projects from './pages/Projects.vue'
 
 // Dock shared pages — calendar, people, notifications, bookmarks rendered inside Orga's layout.
@@ -46,6 +45,30 @@ const dockSharedRoutes: RouteRecordRaw[] = dockInstalled ? [
     component: () => import(/* @vite-ignore */ dockEsm).then(m => m.dockSharedRoutes('/orga').find((r: any) => r.name === 'dock-bookmarks').component()),
     meta: { dockShared: true, title: 'Bookmarks', layout: 'default' },
   },
+  {
+    path: '/orga/notes',
+    name: 'dock-notes',
+    component: () => import(/* @vite-ignore */ dockEsm).then(m => m.dockSharedRoutes('/orga').find((r: any) => r.name === 'dock-notes').component()),
+    meta: { dockShared: true, title: 'Notes', layout: 'default' },
+  },
+  {
+    path: '/orga/activity',
+    name: 'dock-activity',
+    component: () => import(/* @vite-ignore */ dockEsm).then(m => m.dockSharedRoutes('/orga').find((r: any) => r.name === 'dock-activity').component()),
+    meta: { dockShared: true, title: 'Activity', layout: 'default' },
+  },
+  {
+    path: '/orga/discussions',
+    name: 'dock-discussions',
+    component: () => import(/* @vite-ignore */ dockEsm).then(m => m.dockSharedRoutes('/orga').find((r: any) => r.name === 'dock-discussions').component()),
+    meta: { dockShared: true, title: 'Discussions', layout: 'default' },
+  },
+  {
+    path: '/orga/discussions/:name',
+    name: 'dock-discussion-detail',
+    component: () => import(/* @vite-ignore */ dockEsm).then(m => m.dockSharedRoutes('/orga').find((r: any) => r.name === 'dock-discussion-detail').component()),
+    meta: { dockShared: true, title: 'Discussion', layout: 'default' },
+  },
 ] : []
 
 /**
@@ -73,12 +96,6 @@ const routes: RouteRecordRaw[] = [
     name: 'Dashboard',
     component: Dashboard,
     meta: { title: 'Dashboard', layout: 'default' }
-  },
-  {
-    path: '/orga/activity',
-    name: 'Activity',
-    component: Activity,
-    meta: { title: 'Activity', layout: 'default' }
   },
   {
     path: '/orga/my-tasks',

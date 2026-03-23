@@ -135,7 +135,6 @@ dock_notification_types = [
     {"type": "task_status_change", "label": "Task Status Changed", "icon": "refresh-cw"},
     {"type": "deadline_reminder", "label": "Deadline Reminder", "icon": "clock"},
     {"type": "milestone_due", "label": "Milestone Due", "icon": "flag"},
-    {"type": "comment_mention", "label": "Mentioned in Comment", "icon": "at-sign"},
     {"type": "appointment_reminder", "label": "Appointment Reminder", "icon": "calendar"},
 ]
 
@@ -169,6 +168,49 @@ watch_timer_contexts = [
         "display_field": "subject",
     },
 ]
+
+# Activity feed — Dock aggregates Version + Comment for these doctypes
+dock_activity_sources = [
+    {
+        "doctype": "Orga Task",
+        "label": "Task",
+        "icon": "check-square",
+        "events": ["after_insert", "on_update", "on_trash"],
+        "tracked_fields": ["status", "assigned_to", "priority", "due_date"],
+        "summary_template": "{modified_by} {action} task {subject}",
+    },
+    {
+        "doctype": "Orga Milestone",
+        "label": "Milestone",
+        "icon": "flag",
+        "events": ["after_insert", "on_update"],
+        "tracked_fields": ["status", "progress"],
+        "summary_template": "{modified_by} {action} milestone {milestone_name}",
+    },
+    {
+        "doctype": "Orga Appointment",
+        "label": "Appointment",
+        "icon": "calendar",
+        "events": ["after_insert", "on_update"],
+        "tracked_fields": ["status", "appointment_type"],
+        "summary_template": "{modified_by} {action} appointment {subject}",
+    },
+    {
+        "doctype": "Orga Project",
+        "label": "Project",
+        "icon": "folder",
+        "events": ["after_insert", "on_update"],
+        "tracked_fields": ["status", "progress"],
+        "summary_template": "{modified_by} {action} project {project_name}",
+    },
+]
+
+# Custom activity renderers for richer summaries
+dock_activity_renderers = {
+    "Orga Task": "orga.orga.integrations.dock_activity.render_task",
+    "Orga Appointment": "orga.orga.integrations.dock_activity.render_appointment",
+    "Orga Milestone": "orga.orga.integrations.dock_activity.render_milestone",
+}
 
 dock_calendar_sources = {
     "event_label": "Orga",
