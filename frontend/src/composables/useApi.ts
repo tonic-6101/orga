@@ -19,7 +19,6 @@ import type {
   OrgaMilestone,
   OrgaSettings,
   OrgaTaskChecklist,
-  OrgaTaskComment,
   OrgaTaskDependency,
   TaskDependency,
   DependencyType,
@@ -28,12 +27,7 @@ import type {
   ProjectHealth,
   HealthOverview,
   ActivityItem,
-  ActivityNote,
-  ActivityDetails,
-  ActivityComment,
-  ActivityCommentsResponse,
   MentionUser,
-  ReactionResponse,
   RSVPUpdateResponse,
   EventRSVPInfo,
   CalendarEvent,
@@ -48,12 +42,6 @@ import type {
   EventFilters,
   ProficiencyLevel,
   RsvpStatus,
-  NoteType,
-  NoteVisibility,
-  DueDiligenceNote,
-  DueDiligenceNotesResponse,
-  ComplianceStatus,
-  RelatedDocument,
   OrgaFileAttachment,
   OrgaDefect,
   DefectFilters,
@@ -206,10 +194,6 @@ interface UseTaskApiReturn extends UseApiReturn {
   addChecklistItem: (taskName: string, title: string) => Promise<OrgaTaskChecklist>
   toggleChecklistItem: (taskName: string, itemName: string) => Promise<{ success: boolean }>
   deleteChecklistItem: (taskName: string, itemName: string) => Promise<{ success: boolean }>
-  // Comment operations
-  getComments: (taskName: string) => Promise<OrgaTaskComment[]>
-  addComment: (taskName: string, content: string) => Promise<OrgaTaskComment>
-  deleteComment: (taskName: string, commentName: string) => Promise<{ success: boolean }>
   // Dependency operations
   getDependencies: (taskName: string) => Promise<{ predecessors: TaskDependency[]; successors: TaskDependency[] }>
   addDependency: (taskName: string, dependsOn: string, dependencyType?: DependencyType, lagDays?: number) => Promise<{ predecessors: TaskDependency[]; successors: TaskDependency[] }>
@@ -295,16 +279,6 @@ export function useTaskApi(): UseTaskApiReturn {
 
     deleteChecklistItem: (taskName: string, itemName: string) =>
       call<{ success: boolean }>('orga.orga.api.task.delete_checklist_item', { task_name: taskName, item_name: itemName }),
-
-    // Comment operations
-    getComments: (taskName: string) =>
-      call<OrgaTaskComment[]>('orga.orga.api.task.get_task_comments', { task_name: taskName }),
-
-    addComment: (taskName: string, content: string) =>
-      call<OrgaTaskComment>('orga.orga.api.task.add_task_comment', { task_name: taskName, content }),
-
-    deleteComment: (taskName: string, commentName: string) =>
-      call<{ success: boolean }>('orga.orga.api.task.delete_task_comment', { task_name: taskName, comment_name: commentName }),
 
     // Dependency operations
     getDependencies: (taskName: string) =>
@@ -420,300 +394,6 @@ export function useDashboardApi(): UseDashboardApiReturn {
 
     getWorkloadByUser: (project: string | null = null) =>
       call<Array<{ user: string; task_count: number; hours: number }>>('orga.orga.api.dashboard.get_workload_by_user', { project })
-  }
-}
-
-// ============================================
-// Activity API
-// ============================================
-
-interface UseActivityApiReturn extends UseApiReturn {
-  getActivityDetails: (doctype: string, docname: string) => Promise<ActivityDetails>
-  addActivityNote: (doctype: string, docname: string, content: string) => Promise<ActivityNote>
-  deleteActivityNote: (noteName: string) => Promise<{ success: boolean }>
-  toggleActivityPin: (doctype: string, docname: string) => Promise<{ is_pinned: boolean }>
-  toggleActivityArchive: (doctype: string, docname: string) => Promise<{ is_archived: boolean }>
-  getPinnedActivities: () => Promise<Array<{ doctype: string; name: string }>>
-  getArchivedActivities: () => Promise<Array<{ doctype: string; name: string }>>
-  deleteActivity: (doctype: string, docname: string) => Promise<{ success: boolean; message: string; deleted_notes: number }>
-  // Read/Unread state
-  markActivityViewed: () => Promise<{ last_viewed: string }>
-  getActivityLastViewed: () => Promise<{ last_viewed: string | null }>
-  getUnreadActivityCount: () => Promise<number>
-  // Inline comments (threaded)
-  getActivityComments: (doctype: string, docname: string, limit?: number, offset?: number) => Promise<ActivityCommentsResponse>
-  getCommentReplies: (commentName: string, limit?: number) => Promise<ActivityComment[]>
-  addActivityComment: (doctype: string, docname: string, content: string, parentComment?: string) => Promise<ActivityComment>
-  deleteActivityComment: (commentName: string) => Promise<{ success: boolean }>
-  // Comment resolve/pin
-  resolveComment: (commentName: string) => Promise<{ success: boolean; is_resolved: boolean; resolved_by: string; resolved_at: string }>
-  unresolveComment: (commentName: string) => Promise<{ success: boolean; is_resolved: boolean }>
-  pinComment: (commentName: string) => Promise<{ success: boolean; is_pinned: boolean; pinned_by: string; pinned_at: string }>
-  unpinComment: (commentName: string) => Promise<{ success: boolean; is_pinned: boolean }>
-  getUsersForMention: (search?: string, limit?: number) => Promise<MentionUser[]>
-  // Reactions
-  toggleReaction: (doctype: string, docname: string, reactionType: string) => Promise<ReactionResponse>
-  getReactions: (doctype: string, docname: string) => Promise<ReactionResponse>
-  // Due Diligence Notes
-  addDueDiligenceNote: (
-    doctype: string,
-    docname: string,
-    content: string,
-    noteType?: NoteType,
-    visibility?: NoteVisibility,
-    relatedCompany?: string
-  ) => Promise<DueDiligenceNote>
-  getDueDiligenceNotes: (
-    doctype: string,
-    docname: string,
-    noteType?: NoteType,
-    limit?: number,
-    offset?: number
-  ) => Promise<DueDiligenceNotesResponse>
-  getComplianceStatus: (doctype: string, docname: string) => Promise<ComplianceStatus>
-  // Related Documents
-  getRelatedDocuments: (doctype: string, docname: string) => Promise<RelatedDocument[]>
-  // Source Document Info (for Overview tab)
-  getSourceDocumentInfo: (doctype: string, docname: string) => Promise<Record<string, unknown>>
-}
-
-/**
- * Activity API composable
- *
- * Provides functions for activity management including:
- * - Fetching activity details with changes and notes
- * - Adding/deleting notes on activities
- * - Pinning/archiving activities
- * - Admin delete functionality
- */
-export function useActivityApi(): UseActivityApiReturn {
-  const { call, loading, error } = useApi()
-
-  return {
-    loading,
-    error,
-    call,
-
-    /**
-     * Get full activity details including changes, notes, and user preferences
-     */
-    getActivityDetails: (doctype: string, docname: string) =>
-      call<ActivityDetails>('orga.orga.api.activity.get_activity_details', { doctype, docname }),
-
-    /**
-     * Add a note/annotation to an activity
-     */
-    addActivityNote: (doctype: string, docname: string, content: string) =>
-      call<ActivityNote>('orga.orga.api.activity.add_activity_note', { doctype, docname, content }),
-
-    /**
-     * Delete an activity note (author or admin only)
-     */
-    deleteActivityNote: (noteName: string) =>
-      call<{ success: boolean }>('orga.orga.api.activity.delete_activity_note', { note_name: noteName }),
-
-    /**
-     * Toggle pin status for an activity
-     */
-    toggleActivityPin: (doctype: string, docname: string) =>
-      call<{ is_pinned: boolean }>('orga.orga.api.activity.toggle_activity_pin', { doctype, docname }),
-
-    /**
-     * Toggle archive status for an activity
-     */
-    toggleActivityArchive: (doctype: string, docname: string) =>
-      call<{ is_archived: boolean }>('orga.orga.api.activity.toggle_activity_archive', { doctype, docname }),
-
-    /**
-     * Get list of pinned activities for current user
-     */
-    getPinnedActivities: () =>
-      call<Array<{ doctype: string; name: string }>>('orga.orga.api.activity.get_pinned_activities'),
-
-    /**
-     * Get list of archived activities for current user
-     */
-    getArchivedActivities: () =>
-      call<Array<{ doctype: string; name: string }>>('orga.orga.api.activity.get_archived_activities'),
-
-    /**
-     * Delete activity data (admin only) - removes notes and user preferences
-     */
-    deleteActivity: (doctype: string, docname: string) =>
-      call<{ success: boolean; message: string; deleted_notes: number }>('orga.orga.api.activity.delete_activity', { doctype, docname }),
-
-    // ============================================
-    // Read/Unread State
-    // ============================================
-
-    /**
-     * Mark current timestamp as last viewed (call when leaving Activity page)
-     */
-    markActivityViewed: () =>
-      call<{ last_viewed: string }>('orga.orga.api.activity.mark_activity_viewed'),
-
-    /**
-     * Get the user's last activity view timestamp
-     */
-    getActivityLastViewed: () =>
-      call<{ last_viewed: string | null }>('orga.orga.api.activity.get_activity_last_viewed'),
-
-    /**
-     * Get count of activities newer than last viewed (capped at 99)
-     */
-    getUnreadActivityCount: () =>
-      call<number>('orga.orga.api.activity.get_unread_activity_count'),
-
-    // ============================================
-    // Inline Comments (Threaded)
-    // ============================================
-
-    /**
-     * Get inline comments for an activity with pagination
-     */
-    getActivityComments: (doctype: string, docname: string, limit: number = 10, offset: number = 0) =>
-      call<ActivityCommentsResponse>('orga.orga.api.activity.get_activity_comments', { doctype, docname, limit, offset }),
-
-    /**
-     * Get replies to a specific comment
-     */
-    getCommentReplies: (commentName: string, limit: number = 20) =>
-      call<ActivityComment[]>('orga.orga.api.activity.get_comment_replies', { comment_name: commentName, limit }),
-
-    /**
-     * Add an inline comment to an activity (with optional parent for replies)
-     */
-    addActivityComment: (doctype: string, docname: string, content: string, parentComment?: string) =>
-      call<ActivityComment>('orga.orga.api.activity.add_activity_comment', {
-        doctype,
-        docname,
-        content,
-        parent_comment: parentComment || null
-      }),
-
-    /**
-     * Delete an inline comment (author or admin only)
-     */
-    deleteActivityComment: (commentName: string) =>
-      call<{ success: boolean }>('orga.orga.api.activity.delete_activity_comment', { comment_name: commentName }),
-
-    /**
-     * Mark a comment thread as resolved
-     */
-    resolveComment: (commentName: string) =>
-      call<{ success: boolean; is_resolved: boolean; resolved_by: string; resolved_at: string }>('orga.orga.api.activity.resolve_comment', { comment_name: commentName }),
-
-    /**
-     * Reopen a resolved comment thread
-     */
-    unresolveComment: (commentName: string) =>
-      call<{ success: boolean; is_resolved: boolean }>('orga.orga.api.activity.unresolve_comment', { comment_name: commentName }),
-
-    /**
-     * Pin a comment to the top of the discussion (one per document)
-     */
-    pinComment: (commentName: string) =>
-      call<{ success: boolean; is_pinned: boolean; pinned_by: string; pinned_at: string }>('orga.orga.api.activity.pin_comment', { comment_name: commentName }),
-
-    /**
-     * Unpin a comment
-     */
-    unpinComment: (commentName: string) =>
-      call<{ success: boolean; is_pinned: boolean }>('orga.orga.api.activity.unpin_comment', { comment_name: commentName }),
-
-    /**
-     * Get users for @mention autocomplete
-     */
-    getUsersForMention: (search: string = '', limit: number = 10) =>
-      call<MentionUser[]>('orga.orga.api.activity.get_users_for_mention', { search, limit }),
-
-    // ============================================
-    // Reactions
-    // ============================================
-
-    /**
-     * Toggle a reaction on an activity (add if not present, remove if present)
-     */
-    toggleReaction: (doctype: string, docname: string, reactionType: string) =>
-      call<ReactionResponse>('orga.orga.api.activity.toggle_reaction', {
-        doctype,
-        docname,
-        reaction_type: reactionType
-      }),
-
-    /**
-     * Get reactions for an activity
-     */
-    getReactions: (doctype: string, docname: string) =>
-      call<ReactionResponse>('orga.orga.api.activity.get_reactions', { doctype, docname }),
-
-    // ============================================
-    // Due Diligence Notes
-    // ============================================
-
-    /**
-     * Add a due diligence or typed note to an activity
-     */
-    addDueDiligenceNote: (
-      doctype: string,
-      docname: string,
-      content: string,
-      noteType: NoteType = 'Due Diligence',
-      visibility: NoteVisibility = 'Internal',
-      relatedCompany?: string
-    ) =>
-      call<DueDiligenceNote>('orga.orga.api.activity.add_due_diligence_note', {
-        doctype,
-        docname,
-        content,
-        note_type: noteType,
-        visibility,
-        related_company: relatedCompany || null
-      }),
-
-    /**
-     * Get due diligence notes for an activity with optional filtering
-     */
-    getDueDiligenceNotes: (
-      doctype: string,
-      docname: string,
-      noteType?: NoteType,
-      limit: number = 20,
-      offset: number = 0
-    ) =>
-      call<DueDiligenceNotesResponse>('orga.orga.api.activity.get_due_diligence_notes', {
-        doctype,
-        docname,
-        note_type: noteType || null,
-        limit,
-        offset
-      }),
-
-    /**
-     * Get compliance/due diligence status for an activity
-     */
-    getComplianceStatus: (doctype: string, docname: string) =>
-      call<ComplianceStatus>('orga.orga.api.activity.get_compliance_status', { doctype, docname }),
-
-    // ============================================
-    // Related Documents
-    // ============================================
-
-    /**
-     * Get related/linked documents for an activity
-     */
-    getRelatedDocuments: (doctype: string, docname: string) =>
-      call<RelatedDocument[]>('orga.orga.api.activity.get_related_documents', { doctype, docname }),
-
-    // ============================================
-    // Source Document Info (for Overview tab)
-    // ============================================
-
-    /**
-     * Get key fields from the source document for the Activity Overview tab
-     */
-    getSourceDocumentInfo: (doctype: string, docname: string) =>
-      call<Record<string, unknown>>('orga.orga.api.activity.get_source_document_info', { doctype, docname })
   }
 }
 
@@ -1310,7 +990,6 @@ interface UseOrgaApiReturn {
   project: ReturnType<typeof useProjectApi>
   task: ReturnType<typeof useTaskApi>
   dashboard: ReturnType<typeof useDashboardApi>
-  activity: ReturnType<typeof useActivityApi>
   settings: ReturnType<typeof useSettingsApi>
   resource: ReturnType<typeof useResourceApi>
   /** @deprecated Use resource instead */
@@ -1333,7 +1012,6 @@ export function useOrgaApi(): UseOrgaApiReturn {
     project: useProjectApi(),
     task: useTaskApi(),
     dashboard: useDashboardApi(),
-    activity: useActivityApi(),
     settings: useSettingsApi(),
     resource: useResourceApi(),
     contact: useResourceApi(),

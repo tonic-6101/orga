@@ -164,12 +164,6 @@ def get_recent_activity(limit=20):
 
         user_info = frappe.db.get_value("User", task.modified_by, ["full_name", "user_image"], as_dict=True) or {}
 
-        # Get comment count for this task
-        comment_count = _get_activity_comment_count("Orga Task", task.name)
-
-        # Get reaction data for this task
-        reaction_data = _get_activity_reaction_summary("Orga Task", task.name)
-
         activity.append({
             "type": "task",
             "action": "updated",
@@ -184,9 +178,6 @@ def get_recent_activity(limit=20):
             "user_image": user_info.get("user_image"),
             "reference_doctype": "Orga Task",
             "reference_name": task.name,
-            "comment_count": comment_count,
-            "reaction_counts": reaction_data.get("counts", {}),
-            "user_reactions": reaction_data.get("user_reactions", [])
         })
 
     # Get recent milestone updates
@@ -204,12 +195,6 @@ def get_recent_activity(limit=20):
 
         user_info = frappe.db.get_value("User", ms.modified_by, ["full_name", "user_image"], as_dict=True) or {}
 
-        # Get comment count for this milestone
-        comment_count = _get_activity_comment_count("Orga Milestone", ms.name)
-
-        # Get reaction data for this milestone
-        reaction_data = _get_activity_reaction_summary("Orga Milestone", ms.name)
-
         activity.append({
             "type": "milestone",
             "action": "updated",
@@ -224,9 +209,6 @@ def get_recent_activity(limit=20):
             "user_image": user_info.get("user_image"),
             "reference_doctype": "Orga Milestone",
             "reference_name": ms.name,
-            "comment_count": comment_count,
-            "reaction_counts": reaction_data.get("counts", {}),
-            "user_reactions": reaction_data.get("user_reactions", [])
         })
 
     # Get recent appointment updates
@@ -253,12 +235,6 @@ def get_recent_activity(limit=20):
             if diff < 5:
                 action = "created"
 
-        # Get comment count for this appointment
-        comment_count = _get_activity_comment_count("Orga Appointment", appt.name)
-
-        # Get reaction data for this appointment
-        reaction_data = _get_activity_reaction_summary("Orga Appointment", appt.name)
-
         # Get RSVP info for this appointment
         rsvp_info = _get_appointment_rsvp_info(appt.name)
 
@@ -280,53 +256,12 @@ def get_recent_activity(limit=20):
             "start_datetime": str(appt.start_datetime) if appt.start_datetime else None,
             "end_datetime": str(appt.end_datetime) if appt.end_datetime else None,
             "location": appt.location,
-            "comment_count": comment_count,
-            "reaction_counts": reaction_data.get("counts", {}),
-            "user_reactions": reaction_data.get("user_reactions", []),
             # RSVP info
             "is_attendee": rsvp_info.get("is_attendee", False),
             "user_rsvp_status": rsvp_info.get("user_rsvp_status"),
             "attendee_stats": rsvp_info.get("attendee_stats", {}),
             "attendees": rsvp_info.get("attendees", [])
         })
-
-    # Get system events (project deletions, etc.)
-    if frappe.db.exists("DocType", "Orga Activity Comment"):
-        system_comments = frappe.get_all(
-            "Orga Activity Comment",
-            filters={"note_type": "System"},
-            fields=["name", "reference_doctype", "reference_name", "content", "user", "creation"],
-            order_by="creation desc",
-            limit_page_length=int(limit) // 2
-        )
-
-        for sc in system_comments:
-            user_info = frappe.db.get_value(
-                "User", sc.user, ["full_name", "user_image"], as_dict=True
-            ) or {}
-
-            # Determine type from reference_doctype
-            event_type = "project" if sc.reference_doctype == "Orga Project" else "task"
-
-            activity.append({
-                "type": event_type,
-                "action": "deleted",
-                "name": sc.name,
-                "title": sc.content,
-                "status": "Deleted",
-                "project": None,
-                "project_name": None,
-                "timestamp": sc.creation,
-                "user": sc.user,
-                "user_name": user_info.get("full_name"),
-                "user_image": user_info.get("user_image"),
-                "comment_count": 0,
-                "reaction_counts": {},
-                "user_reactions": [],
-                "is_system_event": True,
-                "reference_doctype": sc.reference_doctype,
-                "reference_name": sc.reference_name
-            })
 
     # Sort by timestamp and limit
     activity.sort(key=lambda x: x["timestamp"], reverse=True)
@@ -821,69 +756,6 @@ def recalculate_project_health(project_name):
 
     from orga.orga.services.health_calculator import update_project_health
     return update_project_health(project_name)
-
-
-def _get_activity_comment_count(doctype: str, docname: str) -> int:
-    """
-    Get the count of activity comments for a document.
-
-    Args:
-        doctype: Reference document type
-        docname: Reference document name
-
-    Returns:
-        int: Number of comments (including replies)
-    """
-    try:
-        return frappe.db.count(
-            "Orga Activity Comment",
-            filters={
-                "reference_doctype": doctype,
-                "reference_name": docname
-            }
-        )
-    except Exception:
-        # Return 0 if table doesn't exist yet
-        return 0
-
-
-def _get_activity_reaction_summary(doctype: str, docname: str) -> dict:
-    """
-    Get a summary of reactions for an activity.
-
-    Args:
-        doctype: Reference document type
-        docname: Reference document name
-
-    Returns:
-        dict: {counts: {type: count}, user_reactions: [types]}
-    """
-    try:
-        reactions = frappe.get_all(
-            "Orga Activity Reaction",
-            filters={
-                "reference_doctype": doctype,
-                "reference_name": docname
-            },
-            fields=["reaction_type", "user"]
-        )
-
-        counts = {}
-        user_reactions = []
-
-        for r in reactions:
-            rtype = r["reaction_type"]
-            counts[rtype] = counts.get(rtype, 0) + 1
-            if r["user"] == frappe.session.user:
-                user_reactions.append(rtype)
-
-        return {
-            "counts": counts,
-            "user_reactions": user_reactions
-        }
-    except Exception:
-        # Return empty if table doesn't exist yet
-        return {"counts": {}, "user_reactions": []}
 
 
 def _get_appointment_rsvp_info(appointment_name: str) -> dict:

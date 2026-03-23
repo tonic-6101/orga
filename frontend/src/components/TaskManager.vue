@@ -48,7 +48,7 @@ import TaskDetailsTab from '@/components/manager/tabs/TaskDetailsTab.vue'
 import TaskDependenciesTab from '@/components/manager/tabs/TaskDependenciesTab.vue'
 import TaskFinanceTab from '@/components/manager/tabs/TaskFinanceTab.vue'
 import TaskChecklistTab from '@/components/manager/tabs/TaskChecklistTab.vue'
-import ActivityDiscussionTab from '@/components/manager/tabs/ActivityDiscussionTab.vue'
+import DockDiscussionsTab from '@/components/manager/tabs/DockDiscussionsTab.vue'
 import TaskAttachmentsTab from '@/components/manager/tabs/TaskAttachmentsTab.vue'
 import TaskActionsTab from '@/components/manager/tabs/TaskActionsTab.vue'
 import WatchTimeTab from '@/components/manager/tabs/WatchTimeTab.vue'
@@ -887,7 +887,7 @@ watch(() => props.task?.name, (newVal) => {
 
       <!-- Discussion Tab -->
       <template #discussion>
-        <ActivityDiscussionTab
+        <DockDiscussionsTab
           doctype="Orga Task"
           :docname="task.name"
         />

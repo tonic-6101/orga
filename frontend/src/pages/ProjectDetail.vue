@@ -1777,7 +1777,7 @@ onUnmounted(() => {
         <!-- Unified for all views (Kanban, List, Gantt) -->
         <aside
           v-if="showManager"
-          class="fixed inset-y-0 right-0 w-full max-w-sm z-50 lg:relative lg:z-auto lg:w-80 lg:max-w-none bg-white dark:bg-gray-900 border-l border-gray-200 dark:border-gray-700 flex flex-col flex-shrink-0 overflow-hidden transition-all"
+          class="fixed inset-y-0 right-0 w-full max-w-sm z-50 lg:relative lg:z-auto lg:w-96 lg:max-w-none bg-white dark:bg-gray-900 border-l border-gray-200 dark:border-gray-700 flex flex-col flex-shrink-0 overflow-hidden transition-all"
         >
           <TaskManager
             v-if="selectedTask"
