@@ -6,6 +6,7 @@
 -->
 <script setup lang="ts">
 import { ref, watch, computed } from 'vue'
+import { Play, X, ClipboardList, Flag, Link, Loader2 } from 'lucide-vue-next'
 import { useTemplateApi, useProjectApi } from '@/composables/useApi'
 import { useToast } from '@/composables/useToast'
 import { __ } from '@/composables/useTranslate'
@@ -113,8 +114,8 @@ function handleClose(): void {
       <div class="relative bg-white dark:bg-gray-900 rounded-xl shadow-2xl w-full max-w-md border border-gray-200 dark:border-gray-700">
         <!-- Header -->
         <div class="flex items-center gap-3 p-5 pb-4 border-b border-gray-200 dark:border-gray-700">
-          <div class="w-10 h-10 rounded-full bg-orga-100 dark:bg-orga-900/50 flex items-center justify-center flex-shrink-0">
-            <i class="fa-solid fa-play text-orga-600 dark:text-orga-400 text-lg"></i>
+          <div class="w-10 h-10 rounded-full bg-accent-100 dark:bg-accent-900/50 flex items-center justify-center flex-shrink-0">
+            <Play class="w-5 h-5 text-accent-600 dark:text-accent-400" aria-hidden="true" />
           </div>
           <div class="flex-1 min-w-0">
             <h2 class="text-lg font-semibold text-gray-900 dark:text-gray-100 m-0">{{ __('Apply Template') }}</h2>
@@ -125,7 +126,7 @@ function handleClose(): void {
             :disabled="isApplying"
             class="text-gray-400 dark:text-gray-500 hover:text-gray-600 dark:hover:text-gray-300 transition-colors disabled:opacity-50"
           >
-            <i class="fa-solid fa-xmark text-lg"></i>
+            <X class="w-5 h-5" aria-hidden="true" />
           </button>
         </div>
 
@@ -133,7 +134,7 @@ function handleClose(): void {
         <div class="p-5 space-y-4">
           <!-- Loading -->
           <div v-if="isLoadingData" class="text-center py-4">
-            <i class="fa-solid fa-spinner fa-spin text-orga-500 text-xl"></i>
+            <Loader2 class="w-5 h-5 text-accent-500 animate-spin" aria-hidden="true" />
           </div>
 
           <template v-else>
@@ -143,7 +144,7 @@ function handleClose(): void {
               <select
                 v-model="selectedTemplate"
                 :disabled="isApplying"
-                class="w-full px-3 py-2 text-sm border rounded-lg transition-colors bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 border-gray-300 dark:border-gray-600 focus:border-orga-500 dark:focus:border-orga-400 focus:ring-1 focus:ring-orga-500 dark:focus:ring-orga-400 focus:outline-none disabled:opacity-50"
+                class="w-full px-3 py-2 text-sm border rounded-lg transition-colors bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 border-gray-300 dark:border-gray-600 focus:border-accent-500 dark:focus:border-accent-400 focus:ring-1 focus:ring-accent-500 dark:focus:ring-accent-400 focus:outline-none disabled:opacity-50"
               >
                 <option value="">{{ __('Select a template...') }}</option>
                 <option v-for="tpl in templates" :key="tpl.name" :value="tpl.name">
@@ -157,15 +158,15 @@ function handleClose(): void {
               <p class="text-xs font-semibold text-gray-600 dark:text-gray-300 uppercase tracking-wider m-0">{{ __('Will create:') }}</p>
               <ul class="list-none p-0 m-0 space-y-1">
                 <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
-                  <i class="fa-solid fa-list-check text-xs w-4 text-center text-orga-500"></i>
+                  <ClipboardList class="w-3 h-3 text-accent-500" aria-hidden="true" />
                   {{ selectedTemplateData.task_count }} {{ selectedTemplateData.task_count === 1 ? __('task') : __('tasks') }}
                 </li>
                 <li class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
-                  <i class="fa-solid fa-flag text-xs w-4 text-center text-orga-500"></i>
+                  <Flag class="w-3 h-3 text-accent-500" aria-hidden="true" />
                   {{ selectedTemplateData.milestone_count }} {{ selectedTemplateData.milestone_count === 1 ? __('milestone') : __('milestones') }}
                 </li>
                 <li v-if="selectedTemplateData.dependency_count" class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300">
-                  <i class="fa-solid fa-link text-xs w-4 text-center text-orga-500"></i>
+                  <Link class="w-3 h-3 text-accent-500" aria-hidden="true" />
                   {{ selectedTemplateData.dependency_count }} {{ selectedTemplateData.dependency_count === 1 ? __('dependency') : __('dependencies') }}
                 </li>
               </ul>
@@ -177,7 +178,7 @@ function handleClose(): void {
               <select
                 v-model="selectedProject"
                 :disabled="isApplying"
-                class="w-full px-3 py-2 text-sm border rounded-lg transition-colors bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 border-gray-300 dark:border-gray-600 focus:border-orga-500 dark:focus:border-orga-400 focus:ring-1 focus:ring-orga-500 dark:focus:ring-orga-400 focus:outline-none disabled:opacity-50"
+                class="w-full px-3 py-2 text-sm border rounded-lg transition-colors bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 border-gray-300 dark:border-gray-600 focus:border-accent-500 dark:focus:border-accent-400 focus:ring-1 focus:ring-accent-500 dark:focus:ring-accent-400 focus:outline-none disabled:opacity-50"
               >
                 <option value="">{{ __('Select a project...') }}</option>
                 <option v-for="proj in projects" :key="proj.name" :value="proj.name">
@@ -203,10 +204,10 @@ function handleClose(): void {
           <button
             @click="handleApply"
             :disabled="!canApply"
-            class="px-4 py-2 text-sm font-medium text-white bg-orga-500 rounded-lg hover:bg-orga-600 transition-colors flex items-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
+            class="px-4 py-2 text-sm font-medium text-white bg-accent-500 rounded-lg hover:bg-accent-600 transition-colors flex items-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
           >
-            <i v-if="isApplying" class="fa-solid fa-spinner fa-spin"></i>
-            <i v-else class="fa-solid fa-play"></i>
+            <Loader2 v-if="isApplying" class="w-4 h-4 animate-spin" aria-hidden="true" />
+            <Play v-else class="w-4 h-4" aria-hidden="true" />
             {{ isApplying ? __('Applying...') : __('Apply Template') }}
           </button>
         </div>

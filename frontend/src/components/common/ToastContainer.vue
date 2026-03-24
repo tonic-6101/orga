@@ -12,17 +12,18 @@
   - Accessible with ARIA live region
 -->
 <script setup lang="ts">
-import { computed } from 'vue'
+import { type Component } from 'vue'
+import { CircleCheck, AlertCircle, TriangleAlert, Info, X } from 'lucide-vue-next'
 import { useToast, type Toast, type ToastType } from '@/composables/useToast'
 
 const { toasts, dismiss } = useToast()
 
 // Icon configuration by toast type
-const iconConfig: Record<ToastType, { icon: string; color: string }> = {
-  success: { icon: 'fa-check-circle', color: 'text-green-500' },
-  error: { icon: 'fa-exclamation-circle', color: 'text-red-500' },
-  warning: { icon: 'fa-exclamation-triangle', color: 'text-amber-500' },
-  info: { icon: 'fa-info-circle', color: 'text-blue-500' }
+const iconConfig: Record<ToastType, { icon: Component; color: string }> = {
+  success: { icon: CircleCheck, color: 'text-green-500' },
+  error: { icon: AlertCircle, color: 'text-red-500' },
+  warning: { icon: TriangleAlert, color: 'text-amber-500' },
+  info: { icon: Info, color: 'text-blue-500' }
 }
 
 // Background colors by toast type
@@ -41,37 +42,22 @@ const progressConfig: Record<ToastType, string> = {
   info: 'bg-blue-500'
 }
 
-/**
- * Get the icon class for a toast type
- */
-function getIcon(type: ToastType): string {
+function getIcon(type: ToastType): Component {
   return iconConfig[type].icon
 }
 
-/**
- * Get the icon color for a toast type
- */
 function getIconColor(type: ToastType): string {
   return iconConfig[type].color
 }
 
-/**
- * Get the background class for a toast type
- */
 function getBgClass(type: ToastType): string {
   return bgConfig[type]
 }
 
-/**
- * Get the progress bar class for a toast type
- */
 function getProgressClass(type: ToastType): string {
   return progressConfig[type]
 }
 
-/**
- * Handle keyboard dismiss
- */
 function handleKeydown(event: KeyboardEvent, toast: Toast): void {
   if (event.key === 'Enter' || event.key === ' ') {
     event.preventDefault()
@@ -108,14 +94,11 @@ function handleKeydown(event: KeyboardEvent, toast: Toast): void {
         <div class="flex items-start gap-3 p-4">
           <!-- Icon -->
           <div class="flex-shrink-0 mt-0.5">
-            <i
-              :class="[
-                'fa-solid text-lg',
-                getIcon(toast.type),
-                getIconColor(toast.type)
-              ]"
+            <component
+              :is="getIcon(toast.type)"
+              :class="['w-5 h-5', getIconColor(toast.type)]"
               aria-hidden="true"
-            ></i>
+            />
           </div>
 
           <!-- Text content -->
@@ -135,12 +118,12 @@ function handleKeydown(event: KeyboardEvent, toast: Toast): void {
           <button
             v-if="toast.dismissible"
             type="button"
-            class="flex-shrink-0 p-1 rounded-md text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 hover:bg-gray-200/50 dark:hover:bg-gray-700/50 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-orga-500"
+            class="flex-shrink-0 p-1 rounded-md text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 hover:bg-gray-200/50 dark:hover:bg-gray-700/50 transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent-500"
             @click="dismiss(toast.id)"
             @keydown="handleKeydown($event, toast)"
             :aria-label="__('Dismiss {0} notification', [toast.title])"
           >
-            <i class="fa-solid fa-xmark text-sm" aria-hidden="true"></i>
+            <X class="w-4 h-4" aria-hidden="true" />
           </button>
         </div>
 

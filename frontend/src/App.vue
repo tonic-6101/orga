@@ -3,48 +3,43 @@
   Copyright (C) 2024-2026 Tonic
 -->
 <script setup lang="ts">
-import { computed, onMounted, onUnmounted } from 'vue'
+import { computed } from 'vue'
 import { useRoute } from 'vue-router'
-import { DockLayout } from '/assets/dock/js/dock-navbar.esm.js'
-import Sidebar from './components/layout/Sidebar.vue'
+// @ts-ignore — served by Dock's built assets
+import { DockLayout, DockSidebarShell } from '/assets/dock/js/dock-navbar.esm.js'
+import {
+  LayoutDashboard, CircleCheckBig, FolderOpen, BarChart3, Copy, Linkedin,
+} from 'lucide-vue-next'
 import PortalLayout from './components/layout/PortalLayout.vue'
 import ToastContainer from './components/common/ToastContainer.vue'
-import { useSidebar } from './composables/useSidebar'
+import { useUpdateChecker } from '@/composables/useUpdateChecker'
+import { __ } from '@/composables/useTranslate'
+const appVersion: string = __APP_VERSION__
 
 const route = useRoute()
-const { collapsed, mobileOpen, toggle, closeMobile } = useSidebar()
+const { updateAvailable } = useUpdateChecker()
 
-const isPortalLayout = computed(() => {
-  return route.meta.layout === 'portal'
-})
+const isPortalLayout = computed(() => route.meta.layout === 'portal')
+const isGuestLayout = computed(() => route.meta.layout === 'guest')
 
-const isGuestLayout = computed(() => {
-  return route.meta.layout === 'guest'
-})
+const navItems = [
+  { key: 'dashboard', label: __('Dashboard'),  icon: LayoutDashboard, path: '/orga',           exact: true },
+  { key: 'tasks',     label: __('My Tasks'),    icon: CircleCheckBig,  path: '/orga/my-tasks' },
+  { key: 'projects',  label: __('Projects'),    icon: FolderOpen,      path: '/orga/projects' },
+  { key: 'reports',   label: __('Reports'),     icon: BarChart3,       path: '/orga/reports' },
+  { key: 'templates', label: __('Templates'),   icon: Copy,            path: '/orga/templates' },
+]
 
-// Bridge: DockNavbar dispatches this event when sidebar toggle is clicked
-function onDockToggle() { toggle() }
-
-// Close mobile sidebar when clicking outside
-function handleClickOutside(e: MouseEvent): void {
-  if (mobileOpen.value) {
-    const sidebar = document.querySelector('.orga-sidebar')
-    const toggleBtn = document.querySelector('.sidebar-toggle')
-    if (sidebar && !sidebar.contains(e.target as Node) && toggleBtn && !toggleBtn.contains(e.target as Node)) {
-      closeMobile()
-    }
-  }
-}
-
-onMounted(() => {
-  document.addEventListener('click', handleClickOutside)
-  window.addEventListener('dock:toggleSidebar', onDockToggle)
-})
-
-onUnmounted(() => {
-  document.removeEventListener('click', handleClickOutside)
-  window.removeEventListener('dock:toggleSidebar', onDockToggle)
-})
+const footer = computed(() => ({
+  edition: __('Community Edition'),
+  version: appVersion,
+  sourceUrl: 'https://github.com/tonic-6101/orga',
+  updateAvailable: updateAvailable.value,
+  updateUrl: '/dock/settings/app/orga',
+  links: [
+    { label: 'LinkedIn', url: 'https://www.linkedin.com/in/tonic-s-solutions-1642a0273/', icon: Linkedin },
+  ],
+}))
 </script>
 
 <template>
@@ -60,10 +55,11 @@ onUnmounted(() => {
 
   <!-- Default Layout (for internal users) -->
   <DockLayout v-else>
-    <Sidebar
-      :collapsed="collapsed"
-      :mobile-open="mobileOpen"
-      @close="closeMobile"
+    <DockSidebarShell
+      color="#018137"
+      :items="navItems"
+      :footer="footer"
+      aria-label="Orga navigation"
     />
     <main class="flex-1 overflow-y-auto bg-gray-100 dark:bg-gray-950 transition-colors">
       <router-view />

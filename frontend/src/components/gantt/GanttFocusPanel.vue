@@ -29,6 +29,7 @@
  */
 
 import { ref, computed, watch, onMounted, onUnmounted } from 'vue'
+import { BarChart3, Pencil, X, ChevronDown, Calendar, Euro, FileText, Check, Loader2 } from 'lucide-vue-next'
 import type {
   GanttTask,
   OrgaProject,
@@ -350,24 +351,24 @@ onUnmounted(() => {
       <!-- Header -->
       <div class="p-4 border-b border-gray-200 flex items-center justify-between bg-gray-50">
         <div class="flex items-center gap-2">
-          <i class="fa-solid fa-bars-progress text-orga-500"></i>
+          <BarChart3 class="w-4 h-4 text-accent-500" aria-hidden="true" />
           <h3 class="font-semibold text-gray-800 m-0">{{ __('Task Details') }}</h3>
         </div>
         <div class="flex items-center gap-2">
           <button
             v-if="editable && !isEditing"
             @click="startEditing"
-            class="text-gray-400 hover:text-orga-500 px-2 py-1 rounded hover:bg-orga-50"
+            class="text-gray-400 hover:text-accent-500 px-2 py-1 rounded hover:bg-accent-50"
             :title="__('Edit (E)')"
           >
-            <i class="fa-solid fa-pen-to-square"></i>
+            <Pencil class="w-4 h-4" aria-hidden="true" />
           </button>
           <button
             @click="emit('close')"
             class="text-gray-400 hover:text-gray-600 px-2 py-1"
             :title="__('Close (Esc)')"
           >
-            <i class="fa-solid fa-xmark"></i>
+            <X class="w-4 h-4" aria-hidden="true" />
           </button>
         </div>
       </div>
@@ -401,7 +402,7 @@ onUnmounted(() => {
               >
                 <option v-for="p in priorityOptions" :key="p" :value="p">{{ __(p) }}</option>
               </select>
-              <i class="fa-solid fa-chevron-down absolute right-2 top-1/2 -translate-y-1/2 text-[8px] pointer-events-none"></i>
+              <ChevronDown class="w-3 h-3 absolute right-2 top-1/2 -translate-y-1/2 pointer-events-none" aria-hidden="true" />
             </div>
 
             <!-- Status badge -->
@@ -415,7 +416,7 @@ onUnmounted(() => {
             <input
               v-model="editedTask.subject"
               type="text"
-              class="w-full text-lg font-semibold text-gray-800 border border-gray-200 rounded px-2 py-1 focus:border-orga-500 focus:outline-none"
+              class="w-full text-lg font-semibold text-gray-800 border border-gray-200 rounded px-2 py-1 focus:border-accent-500 focus:outline-none"
               :placeholder="__('Task name')"
             />
           </div>
@@ -427,14 +428,14 @@ onUnmounted(() => {
         <!-- Description -->
         <div class="p-4 border-b border-gray-200">
           <h5 class="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-2 flex items-center gap-2">
-            <i class="fa-solid fa-align-left text-orga-500"></i>
+            <FileText class="w-3 h-3 text-accent-500" aria-hidden="true" />
             {{ __('Description') }}
           </h5>
           <div v-if="isEditing">
             <textarea
               v-model="editedTask.description"
               rows="3"
-              class="w-full text-sm text-gray-700 border border-gray-200 rounded px-2 py-1.5 focus:border-orga-500 focus:outline-none resize-none"
+              class="w-full text-sm text-gray-700 border border-gray-200 rounded px-2 py-1.5 focus:border-accent-500 focus:outline-none resize-none"
               :placeholder="__('Add a description...')"
             ></textarea>
           </div>
@@ -446,7 +447,7 @@ onUnmounted(() => {
         <!-- Timeline Section -->
         <div class="p-4 border-b border-gray-200">
           <h5 class="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-3 flex items-center gap-2">
-            <i class="fa-solid fa-calendar text-orga-500"></i>
+            <Calendar class="w-3 h-3 text-accent-500" aria-hidden="true" />
             {{ __('Timeline') }}
           </h5>
 
@@ -455,7 +456,7 @@ onUnmounted(() => {
             <div class="flex items-center justify-between">
               <span class="text-sm text-gray-500">{{ __('Assigned To') }}</span>
               <div v-if="task.assigned_to_name" class="flex items-center gap-2">
-                <div class="w-6 h-6 rounded-full bg-orga-500 flex items-center justify-center text-white text-xs font-medium">
+                <div class="w-6 h-6 rounded-full bg-accent-500 flex items-center justify-center text-white text-xs font-medium">
                   {{ getInitials(task.assigned_to_name) }}
                 </div>
                 <span class="text-sm font-medium text-gray-800">{{ task.assigned_to_name }}</span>
@@ -479,7 +480,7 @@ onUnmounted(() => {
                 type="date"
                 :value="editedTask.start_date"
                 @change="handleDateChange('start_date', ($event.target as HTMLInputElement).value)"
-                class="text-sm font-medium text-gray-800 border border-gray-200 rounded px-2 py-0.5 focus:border-orga-500 focus:outline-none"
+                class="text-sm font-medium text-gray-800 border border-gray-200 rounded px-2 py-0.5 focus:border-accent-500 focus:outline-none"
               />
               <span v-else class="text-sm font-medium text-gray-800">{{ formatDate(task.start_date) }}</span>
             </div>
@@ -492,7 +493,7 @@ onUnmounted(() => {
                 type="date"
                 :value="editedTask.due_date"
                 @change="handleDateChange('due_date', ($event.target as HTMLInputElement).value)"
-                class="text-sm font-medium text-gray-800 border border-gray-200 rounded px-2 py-0.5 focus:border-orga-500 focus:outline-none"
+                class="text-sm font-medium text-gray-800 border border-gray-200 rounded px-2 py-0.5 focus:border-accent-500 focus:outline-none"
               />
               <span v-else class="text-sm font-medium text-gray-800">{{ formatDate(task.due_date) }}</span>
             </div>
@@ -512,7 +513,7 @@ onUnmounted(() => {
         <!-- Budget Section -->
         <div v-if="showBudget && hasBudget" class="p-4 border-b border-gray-200">
           <h5 class="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-3 flex items-center gap-2">
-            <i class="fa-solid fa-euro-sign text-orga-500"></i>
+            <Euro class="w-3 h-3 text-accent-500" aria-hidden="true" />
             {{ __('Budget') }}
           </h5>
           <BudgetBurnRate
@@ -550,10 +551,10 @@ onUnmounted(() => {
             <button
               @click="saveChanges"
               :disabled="isSaving"
-              class="px-4 py-2 text-sm text-white bg-orga-500 hover:bg-orga-600 rounded disabled:opacity-50 flex items-center gap-2"
+              class="px-4 py-2 text-sm text-white bg-accent-500 hover:bg-accent-600 rounded disabled:opacity-50 flex items-center gap-2"
             >
-              <i v-if="isSaving" class="fa-solid fa-spinner fa-spin"></i>
-              <i v-else class="fa-solid fa-check"></i>
+              <Loader2 v-if="isSaving" class="w-4 h-4 animate-spin" aria-hidden="true" />
+              <Check v-else class="w-4 h-4" aria-hidden="true" />
               {{ __('Save Changes') }}
             </button>
           </div>

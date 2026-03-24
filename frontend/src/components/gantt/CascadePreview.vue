@@ -11,6 +11,7 @@
  */
 
 import { computed } from 'vue'
+import { TriangleAlert, ArrowRight, ArrowLeft, Eye, Check, Loader2 } from 'lucide-vue-next'
 import type { CascadeChange } from '@/types/orga'
 import { __ } from '@/composables/useTranslate'
 
@@ -62,7 +63,7 @@ function formatShift(days: number): string {
   >
     <!-- Header -->
     <div class="flex items-start gap-2 mb-2">
-      <i class="fa-solid fa-exclamation-triangle text-yellow-600 mt-0.5"></i>
+      <TriangleAlert class="w-4 h-4 text-yellow-600 mt-0.5 shrink-0" aria-hidden="true" />
       <div class="flex-1">
         <h4 class="text-sm font-medium text-yellow-800">
           {{ affectedCount === 1 ? __('This change will affect {0} dependent task', [affectedCount]) : __('This change will affect {0} dependent tasks', [affectedCount]) }}
@@ -94,11 +95,11 @@ function formatShift(days: number): string {
     <!-- Summary if many changes -->
     <div v-if="changes.length > 5" class="ml-6 mb-3 text-xs text-yellow-700">
       <span v-if="positiveChanges.length > 0">
-        <i class="fa-solid fa-arrow-right"></i>
+        <ArrowRight class="w-3 h-3 inline-block" aria-hidden="true" />
         {{ positiveChanges.length === 1 ? __('{0} task will be delayed', [positiveChanges.length]) : __('{0} tasks will be delayed', [positiveChanges.length]) }}
       </span>
       <span v-if="negativeChanges.length > 0" class="ml-3">
-        <i class="fa-solid fa-arrow-left"></i>
+        <ArrowLeft class="w-3 h-3 inline-block" aria-hidden="true" />
         {{ negativeChanges.length === 1 ? __('{0} task will move earlier', [negativeChanges.length]) : __('{0} tasks will move earlier', [negativeChanges.length]) }}
       </span>
     </div>
@@ -117,7 +118,7 @@ function formatShift(days: number): string {
         :disabled="loading"
         class="px-3 py-1.5 text-sm text-yellow-700 bg-yellow-100 hover:bg-yellow-200 rounded disabled:opacity-50"
       >
-        <i class="fa-solid fa-eye mr-1"></i>
+        <Eye class="w-3.5 h-3.5 mr-1 inline-block" aria-hidden="true" />
         {{ __('Preview') }}
       </button>
       <button
@@ -125,8 +126,8 @@ function formatShift(days: number): string {
         :disabled="loading"
         class="px-3 py-1.5 text-sm text-white bg-yellow-600 hover:bg-yellow-700 rounded disabled:opacity-50 flex items-center gap-1"
       >
-        <i v-if="loading" class="fa-solid fa-spinner fa-spin"></i>
-        <i v-else class="fa-solid fa-check"></i>
+        <Loader2 v-if="loading" class="w-4 h-4 animate-spin" aria-hidden="true" />
+        <Check v-else class="w-4 h-4" aria-hidden="true" />
         {{ __('Apply Changes') }}
       </button>
     </div>

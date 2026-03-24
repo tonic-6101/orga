@@ -8,6 +8,7 @@
 <script setup lang="ts">
 import { ref, watch, computed, onMounted, onBeforeUnmount, nextTick } from 'vue'
 import { frappeRequest } from 'frappe-ui'
+import { Loader2, X } from 'lucide-vue-next'
 import type { SearchCategory, SearchResultItem, SearchResponse } from '@/types/orga'
 import { __ } from '@/composables/useTranslate'
 
@@ -244,7 +245,7 @@ watch(() => props.modelValue, (newVal) => {
         :class="[
           'w-full px-3 py-2 text-sm rounded-lg transition-colors outline-none',
           'bg-white dark:bg-gray-700 text-gray-800 dark:text-gray-100',
-          'border border-gray-200 dark:border-gray-600 focus:border-orga-500',
+          'border border-gray-200 dark:border-gray-600 focus:border-accent-500',
           'placeholder-gray-400',
           modelValue ? 'pr-8' : 'pr-3',
           disabled ? 'opacity-50 cursor-not-allowed' : ''
@@ -255,7 +256,7 @@ watch(() => props.modelValue, (newVal) => {
       />
       <!-- Loading indicator -->
       <div v-if="loading" class="absolute right-2.5 top-1/2 -translate-y-1/2">
-        <i class="fa-solid fa-spinner fa-spin text-xs text-gray-400"></i>
+        <Loader2 class="w-3.5 h-3.5 text-gray-400 animate-spin" />
       </div>
       <!-- Clear button -->
       <button
@@ -263,7 +264,7 @@ watch(() => props.modelValue, (newVal) => {
         @mousedown.prevent="clearSelection"
         class="absolute right-2 top-1/2 -translate-y-1/2 p-0.5 text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 rounded"
       >
-        <i class="fa-solid fa-xmark text-xs"></i>
+        <X class="w-3.5 h-3.5" />
       </button>
     </div>
 
@@ -281,7 +282,7 @@ watch(() => props.modelValue, (newVal) => {
         :class="[
           'w-full px-3 py-2 text-left text-sm hover:bg-gray-50 dark:hover:bg-gray-600 transition-colors',
           'flex flex-col gap-0.5',
-          idx === activeIndex ? 'bg-orga-50 dark:bg-orga-900/30' : ''
+          idx === activeIndex ? 'bg-accent-50 dark:bg-accent-900/30' : ''
         ]"
       >
         <div class="flex items-center justify-between">

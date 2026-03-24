@@ -14,6 +14,8 @@ import type {
   ProjectStatus
 } from '@/types/portal'
 import { PROJECT_STATUS_COLORS, HEALTH_STATUS_COLORS } from '@/types/portal'
+import { Loader2, TriangleAlert, FolderOpen, Heart, CircleCheck, Calendar, Flag, Headset } from 'lucide-vue-next'
+import OrgaIcon from '@/components/common/OrgaIcon.vue'
 
 const { getPortalDashboard, loading, error } = usePortalApi()
 const { user } = useAuth()
@@ -72,25 +74,25 @@ const statsCards = computed(() => {
     {
       label: __('Total Projects'),
       value: stats.value.total_projects,
-      icon: 'fa-folder',
-      color: 'text-orga-500'
+      icon: 'folder',
+      color: 'text-accent-500'
     },
     {
       label: __('Active'),
       value: stats.value.active_projects,
-      icon: 'fa-play-circle',
+      icon: 'play',
       color: 'text-blue-500'
     },
     {
       label: __('Completed'),
       value: stats.value.completed_projects,
-      icon: 'fa-check-circle',
+      icon: 'circle-check',
       color: 'text-green-500'
     },
     {
       label: __('Overall Progress'),
       value: `${stats.value.overall_progress}%`,
-      icon: 'fa-chart-line',
+      icon: 'trending-up',
       color: 'text-purple-500'
     }
   ]
@@ -102,7 +104,7 @@ const statsCards = computed(() => {
     <!-- Loading State -->
     <div v-if="loading" class="flex items-center justify-center py-12">
       <div class="text-center">
-        <i class="fa-solid fa-spinner fa-spin text-3xl text-orga-500 mb-3"></i>
+        <Loader2 class="w-8 h-8 text-accent-500 mb-3 animate-spin" aria-hidden="true" />
         <p class="text-gray-500">{{ __('Loading your portal...') }}</p>
       </div>
     </div>
@@ -110,7 +112,7 @@ const statsCards = computed(() => {
     <!-- Error State -->
     <div v-else-if="error" class="bg-red-50 border border-red-200 rounded-lg p-6">
       <div class="flex items-center gap-3">
-        <i class="fa-solid fa-exclamation-triangle text-red-500 text-xl"></i>
+        <TriangleAlert class="w-5 h-5 text-red-500" aria-hidden="true" />
         <div>
           <h3 class="text-red-800 font-medium">{{ __('Error loading dashboard') }}</h3>
           <p class="text-red-600 text-sm">{{ error }}</p>
@@ -135,7 +137,7 @@ const statsCards = computed(() => {
           :key="stat.label"
           class="bg-white rounded-lg p-5 border border-gray-200 shadow-sm"
         >
-          <i :class="['fa-solid float-right text-2xl opacity-30', stat.icon, stat.color]"></i>
+          <OrgaIcon :name="stat.icon" :class="['w-6 h-6 float-right opacity-30', stat.color]" />
           <div class="text-xs text-gray-500 uppercase mb-2">{{ stat.label }}</div>
           <div :class="['text-3xl font-bold', stat.color]">{{ stat.value }}</div>
         </div>
@@ -144,7 +146,7 @@ const statsCards = computed(() => {
       <!-- Projects Section -->
       <div class="mb-4">
         <h2 class="text-lg font-semibold text-gray-800 flex items-center gap-2">
-          <i class="fa-solid fa-folder-open text-orga-500"></i>
+          <FolderOpen class="w-5 h-5 text-accent-500" aria-hidden="true" />
           {{ __('Your Projects') }}
         </h2>
       </div>
@@ -167,7 +169,7 @@ const statsCards = computed(() => {
                 v-if="project.health_status"
                 :class="['px-2 py-1 text-xs font-medium rounded-full', getHealthClass(project.health_status)]"
               >
-                <i class="fa-solid fa-heart mr-1"></i>
+                <Heart class="w-3 h-3 inline mr-1" aria-hidden="true" />
                 {{ project.health_status }}
               </span>
             </div>
@@ -193,7 +195,7 @@ const statsCards = computed(() => {
               </div>
               <div class="h-2 bg-gray-100 rounded-full overflow-hidden">
                 <div
-                  class="h-full bg-orga-500 rounded-full transition-all"
+                  class="h-full bg-accent-500 rounded-full transition-all"
                   :style="{ width: `${project.progress || 0}%` }"
                 ></div>
               </div>
@@ -202,11 +204,11 @@ const statsCards = computed(() => {
             <!-- Task Stats -->
             <div class="flex items-center justify-between text-sm text-gray-500 mb-2">
               <span>
-                <i class="fa-solid fa-check-circle text-green-500 mr-1"></i>
+                <CircleCheck class="w-3.5 h-3.5 text-green-500 inline mr-1" aria-hidden="true" />
                 {{ __("{0}/{1} tasks", [project.completed_tasks, project.task_count]) }}
               </span>
               <span v-if="project.end_date">
-                <i class="fa-regular fa-calendar mr-1"></i>
+                <Calendar class="w-3.5 h-3.5 inline mr-1" aria-hidden="true" />
                 {{ formatDate(project.end_date) }}
               </span>
             </div>
@@ -216,7 +218,7 @@ const statsCards = computed(() => {
               v-if="project.upcoming_milestone"
               class="bg-blue-50 border border-blue-100 rounded p-2 text-sm"
             >
-              <i class="fa-solid fa-flag text-blue-500 mr-1"></i>
+              <Flag class="w-3.5 h-3.5 text-blue-500 inline mr-1" aria-hidden="true" />
               <span class="font-medium text-blue-700">{{ __('Next:') }}</span>
               <span class="text-blue-600 ml-1">{{ project.upcoming_milestone.milestone_name }}</span>
               <span v-if="project.upcoming_milestone.due_date" class="text-blue-400 text-xs ml-1">
@@ -229,7 +231,7 @@ const statsCards = computed(() => {
 
       <!-- Empty State -->
       <div v-else class="text-center py-12 bg-white rounded-lg border border-gray-200">
-        <i class="fa-solid fa-folder-open text-5xl text-gray-300 mb-4"></i>
+        <FolderOpen class="w-12 h-12 text-gray-300 mb-4 mx-auto" aria-hidden="true" />
         <h3 class="text-lg font-medium text-gray-800 mb-2">{{ __('No Projects Yet') }}</h3>
         <p class="text-gray-500 mb-4">
           {{ __("Your projects will appear here once they're assigned to you.") }}<br>
@@ -237,9 +239,9 @@ const statsCards = computed(() => {
         </p>
         <router-link
           to="/orga/portal/support"
-          class="inline-flex items-center gap-2 px-4 py-2 bg-orga-500 text-white rounded hover:bg-orga-600 no-underline"
+          class="inline-flex items-center gap-2 px-4 py-2 bg-accent-500 text-white rounded hover:bg-accent-600 no-underline"
         >
-          <i class="fa-solid fa-headset"></i>
+          <Headset class="w-4 h-4 inline" aria-hidden="true" />
           {{ __('Contact Support') }}
         </router-link>
       </div>

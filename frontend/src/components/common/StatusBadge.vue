@@ -11,7 +11,12 @@
   - Contrast ratios meet AA requirements
 -->
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, type Component } from 'vue'
+import {
+  LockOpen, Hourglass, Eye, Check, X, Ban, Lock, Circle,
+  CircleCheck, Calendar, Flag, FlagTriangleRight, TriangleAlert,
+  Compass, Play, Pause, ArrowDown, Minus, ArrowUp, Flame,
+} from 'lucide-vue-next'
 
 type TaskStatus = 'Open' | 'In Progress' | 'Review' | 'Completed' | 'Cancelled'
 type MilestoneStatus = 'Upcoming' | 'In Progress' | 'Completed' | 'Missed'
@@ -32,7 +37,7 @@ const props = withDefaults(defineProps<Props>(), {
 })
 
 interface StatusConfig {
-  icon: string
+  icon: Component
   bg: string
   text: string
   border: string
@@ -44,7 +49,7 @@ interface StatusConfig {
 // Task status configuration (semantic colors)
 const taskStatusConfig: Record<string, StatusConfig> = {
   'Open': {
-    icon: 'fa-lock-open',
+    icon: LockOpen,
     bg: 'bg-blue-100',
     text: 'text-blue-700',
     border: 'border-blue-300',
@@ -53,7 +58,7 @@ const taskStatusConfig: Record<string, StatusConfig> = {
     darkBorder: 'dark:border-blue-700'
   },
   'In Progress': {
-    icon: 'fa-hourglass-half',
+    icon: Hourglass,
     bg: 'bg-amber-100',
     text: 'text-amber-700',
     border: 'border-amber-300',
@@ -62,7 +67,7 @@ const taskStatusConfig: Record<string, StatusConfig> = {
     darkBorder: 'dark:border-amber-700'
   },
   'Review': {
-    icon: 'fa-eye',
+    icon: Eye,
     bg: 'bg-purple-100',
     text: 'text-purple-700',
     border: 'border-purple-300',
@@ -71,7 +76,7 @@ const taskStatusConfig: Record<string, StatusConfig> = {
     darkBorder: 'dark:border-purple-700'
   },
   'Completed': {
-    icon: 'fa-check',
+    icon: Check,
     bg: 'bg-green-100',
     text: 'text-green-700',
     border: 'border-green-300',
@@ -80,7 +85,7 @@ const taskStatusConfig: Record<string, StatusConfig> = {
     darkBorder: 'dark:border-green-700'
   },
   'Cancelled': {
-    icon: 'fa-xmark',
+    icon: X,
     bg: 'bg-gray-100',
     text: 'text-gray-600',
     border: 'border-gray-300',
@@ -93,7 +98,7 @@ const taskStatusConfig: Record<string, StatusConfig> = {
 // Milestone status configuration
 const milestoneStatusConfig: Record<string, StatusConfig> = {
   'Upcoming': {
-    icon: 'fa-calendar',
+    icon: Calendar,
     bg: 'bg-blue-100',
     text: 'text-blue-700',
     border: 'border-blue-300',
@@ -102,7 +107,7 @@ const milestoneStatusConfig: Record<string, StatusConfig> = {
     darkBorder: 'dark:border-blue-700'
   },
   'In Progress': {
-    icon: 'fa-flag',
+    icon: Flag,
     bg: 'bg-amber-100',
     text: 'text-amber-700',
     border: 'border-amber-300',
@@ -111,7 +116,7 @@ const milestoneStatusConfig: Record<string, StatusConfig> = {
     darkBorder: 'dark:border-amber-700'
   },
   'Completed': {
-    icon: 'fa-flag-checkered',
+    icon: FlagTriangleRight,
     bg: 'bg-green-100',
     text: 'text-green-700',
     border: 'border-green-300',
@@ -120,7 +125,7 @@ const milestoneStatusConfig: Record<string, StatusConfig> = {
     darkBorder: 'dark:border-green-700'
   },
   'Missed': {
-    icon: 'fa-triangle-exclamation',
+    icon: TriangleAlert,
     bg: 'bg-red-100',
     text: 'text-red-700',
     border: 'border-red-300',
@@ -133,7 +138,7 @@ const milestoneStatusConfig: Record<string, StatusConfig> = {
 // Project status configuration
 const projectStatusConfig: Record<string, StatusConfig> = {
   'Planning': {
-    icon: 'fa-compass-drafting',
+    icon: Compass,
     bg: 'bg-slate-100',
     text: 'text-slate-700',
     border: 'border-slate-300',
@@ -142,7 +147,7 @@ const projectStatusConfig: Record<string, StatusConfig> = {
     darkBorder: 'dark:border-slate-600'
   },
   'Active': {
-    icon: 'fa-play',
+    icon: Play,
     bg: 'bg-green-100',
     text: 'text-green-700',
     border: 'border-green-300',
@@ -151,7 +156,7 @@ const projectStatusConfig: Record<string, StatusConfig> = {
     darkBorder: 'dark:border-green-700'
   },
   'On Hold': {
-    icon: 'fa-pause',
+    icon: Pause,
     bg: 'bg-yellow-100',
     text: 'text-yellow-700',
     border: 'border-yellow-300',
@@ -160,7 +165,7 @@ const projectStatusConfig: Record<string, StatusConfig> = {
     darkBorder: 'dark:border-yellow-700'
   },
   'Completed': {
-    icon: 'fa-circle-check',
+    icon: CircleCheck,
     bg: 'bg-green-100',
     text: 'text-green-700',
     border: 'border-green-300',
@@ -169,7 +174,7 @@ const projectStatusConfig: Record<string, StatusConfig> = {
     darkBorder: 'dark:border-green-700'
   },
   'Cancelled': {
-    icon: 'fa-ban',
+    icon: Ban,
     bg: 'bg-gray-100',
     text: 'text-gray-600',
     border: 'border-gray-300',
@@ -182,7 +187,7 @@ const projectStatusConfig: Record<string, StatusConfig> = {
 // Priority configuration
 const priorityConfig: Record<string, StatusConfig> = {
   'Low': {
-    icon: 'fa-arrow-down',
+    icon: ArrowDown,
     bg: 'bg-gray-100',
     text: 'text-gray-600',
     border: 'border-gray-300',
@@ -191,7 +196,7 @@ const priorityConfig: Record<string, StatusConfig> = {
     darkBorder: 'dark:border-gray-600'
   },
   'Medium': {
-    icon: 'fa-minus',
+    icon: Minus,
     bg: 'bg-blue-100',
     text: 'text-blue-700',
     border: 'border-blue-300',
@@ -200,7 +205,7 @@ const priorityConfig: Record<string, StatusConfig> = {
     darkBorder: 'dark:border-blue-800'
   },
   'High': {
-    icon: 'fa-arrow-up',
+    icon: ArrowUp,
     bg: 'bg-orange-100',
     text: 'text-orange-700',
     border: 'border-orange-300',
@@ -209,7 +214,7 @@ const priorityConfig: Record<string, StatusConfig> = {
     darkBorder: 'dark:border-orange-800'
   },
   'Urgent': {
-    icon: 'fa-fire',
+    icon: Flame,
     bg: 'bg-red-100',
     text: 'text-red-700',
     border: 'border-red-300',
@@ -222,7 +227,7 @@ const priorityConfig: Record<string, StatusConfig> = {
 // Blocked status configuration
 const blockedConfig: Record<string, StatusConfig> = {
   'Blocked': {
-    icon: 'fa-lock',
+    icon: Lock,
     bg: 'bg-amber-100',
     text: 'text-amber-700',
     border: 'border-amber-300',
@@ -234,7 +239,7 @@ const blockedConfig: Record<string, StatusConfig> = {
 
 // Default fallback config
 const defaultConfig: StatusConfig = {
-  icon: 'fa-circle',
+  icon: Circle,
   bg: 'bg-gray-100',
   text: 'text-gray-600',
   border: 'border-gray-300',
@@ -282,11 +287,11 @@ const sizeClasses = computed(() => {
 const iconSizeClass = computed(() => {
   switch (props.size) {
     case 'sm':
-      return 'text-[10px]'
+      return 'w-2.5 h-2.5'
     case 'lg':
-      return 'text-sm'
+      return 'w-4 h-4'
     default:
-      return 'text-xs'
+      return 'w-3 h-3'
   }
 })
 </script>
@@ -306,11 +311,12 @@ const iconSizeClass = computed(() => {
     role="status"
     :aria-label="__('Status: {0}', [status])"
   >
-    <i
+    <component
       v-if="showIcon"
-      :class="['fa-solid', config.icon, iconSizeClass]"
+      :is="config.icon"
+      :class="iconSizeClass"
       aria-hidden="true"
-    ></i>
+    />
     <span>{{ status }}</span>
   </span>
 </template>

@@ -14,7 +14,7 @@
       </div>
       <div class="h-2 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
         <div
-          class="h-full bg-orga-500 transition-all duration-300"
+          class="h-full bg-accent-500 transition-all duration-300"
           :style="{ width: progress + '%' }"
         ></div>
       </div>
@@ -22,7 +22,7 @@
 
     <!-- Loading State -->
     <div v-if="isLoading" class="text-center py-8">
-      <i class="fa-solid fa-spinner fa-spin text-gray-400 dark:text-gray-500 text-xl"></i>
+      <Loader2 class="w-5 h-5 animate-spin text-gray-400 dark:text-gray-500 mx-auto" aria-hidden="true" />
       <p class="text-sm text-gray-400 dark:text-gray-500 mt-2">{{ __('Loading checklist...') }}</p>
     </div>
 
@@ -38,11 +38,11 @@
           :class="[
             'w-5 h-5 rounded border flex items-center justify-center transition-colors shrink-0',
             item.is_completed
-              ? 'bg-orga-500 border-orga-500 text-white'
-              : 'border-gray-300 dark:border-gray-600 hover:border-orga-500'
+              ? 'bg-accent-500 border-accent-500 text-white'
+              : 'border-gray-300 dark:border-gray-600 hover:border-accent-500'
           ]"
         >
-          <i v-if="item.is_completed" class="fa-solid fa-check text-xs"></i>
+          <Check v-if="item.is_completed" class="w-3 h-3" aria-hidden="true" />
         </button>
         <span :class="[
           'text-sm flex-1',
@@ -55,23 +55,23 @@
         <button
           v-if="!item.is_completed"
           @click="emit('promote', item)"
-          class="text-gray-300 dark:text-gray-600 hover:text-orga-500 opacity-0 group-hover:opacity-100 transition-opacity"
+          class="text-gray-300 dark:text-gray-600 hover:text-accent-500 opacity-0 group-hover:opacity-100 transition-opacity"
           :title="__('Promote to task')"
         >
-          <i class="fa-solid fa-arrow-up-right-from-square text-xs"></i>
+          <ExternalLink class="w-3 h-3" aria-hidden="true" />
         </button>
         <button
           @click="emit('delete', item)"
           class="text-gray-300 dark:text-gray-600 hover:text-red-500 opacity-0 group-hover:opacity-100 transition-opacity"
           :title="__('Delete item')"
         >
-          <i class="fa-solid fa-trash-can text-xs"></i>
+          <Trash2 class="w-3 h-3" aria-hidden="true" />
         </button>
       </div>
 
       <!-- Empty State -->
       <div v-if="!checklist.length && !isLoading" class="text-center py-8">
-        <i class="fa-solid fa-list-check fa-2x text-gray-300 dark:text-gray-600 mb-3 block"></i>
+        <ListChecks class="w-6 h-6 text-gray-300 dark:text-gray-600 mb-3 mx-auto" aria-hidden="true" />
         <p class="text-sm text-gray-400 dark:text-gray-500">{{ __('No checklist items yet.') }}</p>
         <p class="text-xs text-gray-300 dark:text-gray-600 mt-1">{{ __('Add items below to track progress.') }}</p>
       </div>
@@ -86,15 +86,16 @@
           type="text"
           :placeholder="__('Add checklist item...')"
           :disabled="isAdding"
-          class="flex-1 px-3 py-2 text-sm border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 rounded-lg focus:border-orga-500 focus:outline-none focus:ring-1 focus:ring-orga-500/20 disabled:opacity-50 placeholder-gray-400 dark:placeholder-gray-500"
+          class="flex-1 px-3 py-2 text-sm border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 text-gray-900 dark:text-gray-100 rounded-lg focus:border-accent-500 focus:outline-none focus:ring-1 focus:ring-accent-500/20 disabled:opacity-50 placeholder-gray-400 dark:placeholder-gray-500"
         />
         <button
           @click="handleAddItem"
           :disabled="isAdding || !newItem.trim()"
-          class="px-3 py-2 bg-orga-500 text-white rounded-lg hover:bg-orga-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+          class="px-3 py-2 bg-accent-500 text-white rounded-lg hover:bg-accent-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
           :title="__('Add item')"
         >
-          <i :class="['fa-solid', isAdding ? 'fa-spinner fa-spin' : 'fa-plus']"></i>
+          <Loader2 v-if="isAdding" class="w-4 h-4 animate-spin" aria-hidden="true" />
+          <Plus v-else class="w-4 h-4" aria-hidden="true" />
         </button>
       </div>
     </div>
@@ -103,7 +104,9 @@
 
 <script setup lang="ts">
 import { ref, computed } from 'vue'
+import { __ } from '@/composables/useTranslate'
 import type { TaskChecklistItem } from '@/types/orga'
+import { Loader2, Check, ExternalLink, Trash2, ListChecks, Plus } from 'lucide-vue-next'
 
 interface Props {
   checklist: TaskChecklistItem[]

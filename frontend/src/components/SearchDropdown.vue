@@ -86,7 +86,7 @@ function statusColor(status: string): string {
             :key="item.name"
             class="w-full px-3 py-2 flex items-center gap-3 text-left text-sm transition-colors"
             :class="getFlatIndex(section.key, idx) === activeIndex
-              ? 'bg-orga-50 dark:bg-orga-900/30 text-orga-700 dark:text-orga-300'
+              ? 'bg-accent-50 dark:bg-accent-900/30 text-accent-700 dark:text-accent-300'
               : 'hover:bg-gray-50 dark:hover:bg-gray-700/50 text-gray-700 dark:text-gray-300'"
             @click="emit('select', item)"
           >

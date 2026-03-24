@@ -5,6 +5,7 @@
 <script setup lang="ts">
 import { useRouter } from 'vue-router'
 import { __ } from '@/composables/useTranslate'
+import { ArrowLeft, Home } from 'lucide-vue-next'
 
 const router = useRouter()
 
@@ -34,10 +35,10 @@ function goBack() {
             <circle cx="140" cy="100" r="90" class="fill-gray-100 dark:fill-gray-800" />
 
             <!-- Desk surface -->
-            <rect x="50" y="120" width="180" height="8" rx="3" class="fill-orga-400 dark:fill-orga-600" />
+            <rect x="50" y="120" width="180" height="8" rx="3" class="fill-accent-400 dark:fill-accent-600" />
             <!-- Desk legs -->
-            <rect x="65" y="128" width="6" height="40" rx="2" class="fill-orga-300 dark:fill-orga-700" />
-            <rect x="209" y="128" width="6" height="40" rx="2" class="fill-orga-300 dark:fill-orga-700" />
+            <rect x="65" y="128" width="6" height="40" rx="2" class="fill-accent-300 dark:fill-accent-700" />
+            <rect x="209" y="128" width="6" height="40" rx="2" class="fill-accent-300 dark:fill-accent-700" />
 
             <!-- Coffee mug -->
             <rect x="175" y="104" width="18" height="16" rx="3" class="fill-amber-200 dark:fill-amber-700" />
@@ -71,11 +72,11 @@ function goBack() {
 
             <!-- Magnifying glass (searching) -->
             <g transform="rotate(-20 155 72)">
-              <circle cx="155" cy="65" r="16" stroke-width="3" fill="none" class="stroke-orga-500" />
-              <circle cx="155" cy="65" r="13" class="fill-orga-100/50 dark:fill-orga-900/30" />
-              <line x1="167" y1="77" x2="178" y2="88" stroke-width="4" stroke-linecap="round" class="stroke-orga-400 dark:stroke-orga-600" />
+              <circle cx="155" cy="65" r="16" stroke-width="3" fill="none" class="stroke-accent-500" />
+              <circle cx="155" cy="65" r="13" class="fill-accent-100/50 dark:fill-accent-900/30" />
+              <line x1="167" y1="77" x2="178" y2="88" stroke-width="4" stroke-linecap="round" class="stroke-accent-400 dark:stroke-accent-600" />
               <!-- Question mark in lens -->
-              <text x="150" y="71" font-size="16" font-weight="bold" class="fill-orga-500 dark:fill-orga-400">?</text>
+              <text x="150" y="71" font-size="16" font-weight="bold" class="fill-accent-500 dark:fill-accent-400">?</text>
             </g>
 
             <!-- Small plant on desk -->
@@ -88,7 +89,7 @@ function goBack() {
       </div>
 
       <!-- 404 text -->
-      <h1 class="text-6xl font-bold text-orga-500 mb-3">404</h1>
+      <h1 class="text-6xl font-bold text-accent-500 mb-3">404</h1>
 
       <h2 class="text-xl font-semibold text-gray-800 dark:text-gray-100 mb-3">
         {{ __('This page wandered off') }}
@@ -104,14 +105,14 @@ function goBack() {
           @click="goBack"
           class="px-5 py-2.5 border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors text-sm flex items-center gap-2"
         >
-          <i class="fa-solid fa-arrow-left"></i>
+          <ArrowLeft class="w-4 h-4" aria-hidden="true" />
           {{ __('Go Back') }}
         </button>
         <button
           @click="goHome"
-          class="px-5 py-2.5 bg-orga-500 text-white rounded-lg hover:bg-orga-600 transition-colors text-sm flex items-center gap-2"
+          class="px-5 py-2.5 bg-accent-500 text-white rounded-lg hover:bg-accent-600 transition-colors text-sm flex items-center gap-2"
         >
-          <i class="fa-solid fa-house"></i>
+          <Home class="w-4 h-4" aria-hidden="true" />
           {{ __('Dashboard') }}
         </button>
       </div>

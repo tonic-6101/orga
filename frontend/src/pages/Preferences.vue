@@ -6,6 +6,7 @@
 import { ref, computed, onMounted } from 'vue'
 import { useTheme, type ThemeMode } from '@/composables/useTheme'
 import { __ } from '@/composables/useTranslate'
+import { SlidersHorizontal, Loader2, User, Bell, Palette, Monitor, Sun, Moon, Camera, Check } from 'lucide-vue-next'
 
 const { mode: themeMode, isDark, setMode: setThemeMode } = useTheme()
 
@@ -184,7 +185,7 @@ onMounted(loadPreferences)
     <!-- Header -->
     <div class="flex justify-between items-center px-5 py-3 border-b border-gray-200 dark:border-gray-700 bg-gray-50 dark:bg-gray-900">
       <span class="text-sm font-semibold text-gray-800 dark:text-gray-100">
-        <i class="fa-solid fa-sliders text-orga-500 mr-2"></i>
+        <SlidersHorizontal class="w-4 h-4 text-accent-500 inline mr-2" aria-hidden="true" />
         {{ __('Preferences') }}
       </span>
     </div>
@@ -192,7 +193,7 @@ onMounted(loadPreferences)
     <!-- Loading State -->
     <div v-if="isLoading" class="flex-1 flex items-center justify-center">
       <div class="text-center">
-        <i class="fa-solid fa-spinner fa-spin text-3xl text-orga-500 mb-3"></i>
+        <Loader2 class="w-8 h-8 text-accent-500 mb-3 animate-spin" aria-hidden="true" />
         <p class="text-gray-500 dark:text-gray-400">{{ __('Loading preferences...') }}</p>
       </div>
     </div>
@@ -203,7 +204,7 @@ onMounted(loadPreferences)
         <!-- Profile Section -->
         <section>
           <h2 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-4 flex items-center gap-2">
-            <i class="fa-solid fa-user text-orga-500"></i>
+            <User class="w-5 h-5 text-accent-500" aria-hidden="true" />
             {{ __('Profile') }}
           </h2>
           <div class="bg-gray-50 dark:bg-gray-800 rounded-lg p-4">
@@ -212,7 +213,7 @@ onMounted(loadPreferences)
               <button
                 @click="triggerAvatarUpload"
                 :disabled="isUploadingAvatar"
-                class="relative w-16 h-16 rounded-full overflow-hidden shrink-0 group cursor-pointer focus:outline-none focus:ring-2 focus:ring-orga-500 focus:ring-offset-2 dark:focus:ring-offset-gray-800 disabled:cursor-wait"
+                class="relative w-16 h-16 rounded-full overflow-hidden shrink-0 group cursor-pointer focus:outline-none focus:ring-2 focus:ring-accent-500 focus:ring-offset-2 dark:focus:ring-offset-gray-800 disabled:cursor-wait"
               >
                 <img
                   v-if="user.avatar"
@@ -222,7 +223,7 @@ onMounted(loadPreferences)
                 />
                 <div
                   v-else
-                  class="w-full h-full bg-orga-500 text-white flex items-center justify-center font-semibold text-xl"
+                  class="w-full h-full bg-accent-500 text-white flex items-center justify-center font-semibold text-xl"
                 >
                   {{ userInitials }}
                 </div>
@@ -231,13 +232,13 @@ onMounted(loadPreferences)
                   v-if="isUploadingAvatar"
                   class="absolute inset-0 bg-black/60 flex items-center justify-center"
                 >
-                  <i class="fa-solid fa-spinner fa-spin text-white text-lg"></i>
+                  <Loader2 class="w-5 h-5 text-white animate-spin" aria-hidden="true" />
                 </div>
                 <div
                   v-else
                   class="absolute inset-0 bg-black/50 flex flex-col items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity"
                 >
-                  <i class="fa-solid fa-camera text-white text-sm"></i>
+                  <Camera class="w-3.5 h-3.5 text-white" aria-hidden="true" />
                   <span class="text-white text-[9px] mt-0.5 font-medium">{{ __('Change') }}</span>
                 </div>
               </button>
@@ -262,7 +263,7 @@ onMounted(loadPreferences)
         <!-- Notifications Section -->
         <section>
           <h2 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-4 flex items-center gap-2">
-            <i class="fa-solid fa-bell text-orga-500"></i>
+            <Bell class="w-5 h-5 text-accent-500" aria-hidden="true" />
             {{ __('Notifications') }}
           </h2>
           <div class="space-y-4">
@@ -274,7 +275,7 @@ onMounted(loadPreferences)
               <input
                 v-model="preferences.notifications_enabled"
                 type="checkbox"
-                class="w-5 h-5 text-orga-500 rounded border-gray-300 dark:border-gray-600 focus:ring-orga-500"
+                class="w-5 h-5 text-accent-500 rounded border-gray-300 dark:border-gray-600 focus:ring-accent-500"
               />
             </label>
 
@@ -286,7 +287,7 @@ onMounted(loadPreferences)
               <input
                 v-model="preferences.email_notifications"
                 type="checkbox"
-                class="w-5 h-5 text-orga-500 rounded border-gray-300 dark:border-gray-600 focus:ring-orga-500"
+                class="w-5 h-5 text-accent-500 rounded border-gray-300 dark:border-gray-600 focus:ring-accent-500"
               />
             </label>
           </div>
@@ -295,7 +296,7 @@ onMounted(loadPreferences)
         <!-- Appearance Section -->
         <section>
           <h2 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-4 flex items-center gap-2">
-            <i class="fa-solid fa-palette text-orga-500"></i>
+            <Palette class="w-5 h-5 text-accent-500" aria-hidden="true" />
             {{ __('Appearance') }}
           </h2>
           <div class="p-4 bg-gray-50 dark:bg-gray-800 rounded-lg">
@@ -306,11 +307,11 @@ onMounted(loadPreferences)
                 :class="[
                   'flex flex-col items-center gap-2 p-3 rounded-lg border-2 transition-all',
                   themeMode === 'light'
-                    ? 'border-orga-500 bg-orga-50 dark:bg-orga-900/20'
+                    ? 'border-accent-500 bg-accent-50 dark:bg-accent-900/20'
                     : 'border-gray-200 dark:border-gray-600 hover:border-gray-300 dark:hover:border-gray-500'
                 ]"
               >
-                <i class="fa-solid fa-sun text-lg text-amber-500"></i>
+                <Sun class="w-5 h-5 text-amber-500" aria-hidden="true" />
                 <span class="text-sm font-medium text-gray-700 dark:text-gray-300">{{ __('Light') }}</span>
               </button>
               <button
@@ -318,11 +319,11 @@ onMounted(loadPreferences)
                 :class="[
                   'flex flex-col items-center gap-2 p-3 rounded-lg border-2 transition-all',
                   themeMode === 'dark'
-                    ? 'border-orga-500 bg-orga-50 dark:bg-orga-900/20'
+                    ? 'border-accent-500 bg-accent-50 dark:bg-accent-900/20'
                     : 'border-gray-200 dark:border-gray-600 hover:border-gray-300 dark:hover:border-gray-500'
                 ]"
               >
-                <i class="fa-solid fa-moon text-lg text-indigo-400"></i>
+                <Moon class="w-5 h-5 text-indigo-400" aria-hidden="true" />
                 <span class="text-sm font-medium text-gray-700 dark:text-gray-300">{{ __('Dark') }}</span>
               </button>
               <button
@@ -330,11 +331,11 @@ onMounted(loadPreferences)
                 :class="[
                   'flex flex-col items-center gap-2 p-3 rounded-lg border-2 transition-all',
                   themeMode === 'auto'
-                    ? 'border-orga-500 bg-orga-50 dark:bg-orga-900/20'
+                    ? 'border-accent-500 bg-accent-50 dark:bg-accent-900/20'
                     : 'border-gray-200 dark:border-gray-600 hover:border-gray-300 dark:hover:border-gray-500'
                 ]"
               >
-                <i class="fa-solid fa-circle-half-stroke text-lg text-gray-500 dark:text-gray-400"></i>
+                <Monitor class="w-5 h-5 text-gray-500 dark:text-gray-400" aria-hidden="true" />
                 <span class="text-sm font-medium text-gray-700 dark:text-gray-300">{{ __('Auto') }}</span>
               </button>
             </div>
@@ -352,7 +353,7 @@ onMounted(loadPreferences)
         <!-- Display Section -->
         <section>
           <h2 class="text-lg font-semibold text-gray-800 dark:text-gray-100 mb-4 flex items-center gap-2">
-            <i class="fa-solid fa-display text-orga-500"></i>
+            <Monitor class="w-5 h-5 text-accent-500" aria-hidden="true" />
             {{ __('Display') }}
           </h2>
           <div class="space-y-4">
@@ -361,7 +362,7 @@ onMounted(loadPreferences)
                 <span class="font-medium text-gray-800 dark:text-gray-100">{{ __('Default task view') }}</span>
                 <select
                   v-model="preferences.default_view"
-                  class="mt-2 block w-full px-3 py-2 border border-gray-200 dark:border-gray-600 rounded-lg text-sm bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 focus:border-orga-500 focus:ring-1 focus:ring-orga-500"
+                  class="mt-2 block w-full px-3 py-2 border border-gray-200 dark:border-gray-600 rounded-lg text-sm bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 focus:border-accent-500 focus:ring-1 focus:ring-accent-500"
                 >
                   <option value="kanban">{{ __('Kanban Board') }}</option>
                   <option value="list">{{ __('List View') }}</option>
@@ -394,9 +395,9 @@ onMounted(loadPreferences)
           <button
             @click="savePreferences"
             :disabled="isSaving"
-            class="px-4 py-2 bg-orga-500 text-white rounded-lg hover:bg-orga-600 disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
+            class="px-4 py-2 bg-accent-500 text-white rounded-lg hover:bg-accent-600 disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
           >
-            <i :class="['fa-solid', isSaving ? 'fa-spinner fa-spin' : 'fa-check']"></i>
+            <Loader2 v-if="isSaving" class="w-4 h-4 animate-spin" aria-hidden="true" /><Check v-else class="w-4 h-4" aria-hidden="true" />
             {{ isSaving ? __('Saving...') : __('Save Preferences') }}
           </button>
         </div>

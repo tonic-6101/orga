@@ -32,6 +32,8 @@ import StatusBadge from '@/components/common/StatusBadge.vue'
 import Breadcrumb from '@/components/common/Breadcrumb.vue'
 import EmptyState from '@/components/common/EmptyState.vue'
 import UserAvatar from '@/components/common/UserAvatar.vue'
+import { Loader2, TriangleAlert, ArrowLeft, Plus, Flag, BarChart3, Table2, List as ListIcon, Info, SlidersHorizontal, Settings as SettingsIcon, ChevronUp, Star, X, Pencil, Check, FolderOpen, Folder, CloudUpload, PieChart, ListChecks, Hourglass, Wallet, Calculator, Users, SkipForward, Copy, Trash2 } from 'lucide-vue-next'
+import OrgaIcon from '@/components/common/OrgaIcon.vue'
 import type { OrgaProject, OrgaTask, OrgaMilestone, OrgaContact, TaskStatus, TaskPriority, GanttTask, GanttItem, GanttMilestone, CascadeChange, ProjectDependencyEdge, TaskDependencyInfo, DependencyType } from '@/types/orga'
 
 const route = useRoute()
@@ -865,11 +867,11 @@ const isSavingStatus = ref(false)
 const statusDropdownRef = ref<HTMLElement | null>(null)
 
 const projectStatusOptions: Array<{ value: string; icon: string; color: string }> = [
-  { value: 'Planning', icon: 'fa-compass-drafting', color: 'text-slate-600 dark:text-slate-400' },
-  { value: 'Active', icon: 'fa-play', color: 'text-green-600 dark:text-green-400' },
-  { value: 'On Hold', icon: 'fa-pause', color: 'text-yellow-600 dark:text-yellow-400' },
-  { value: 'Completed', icon: 'fa-circle-check', color: 'text-green-600 dark:text-green-400' },
-  { value: 'Cancelled', icon: 'fa-ban', color: 'text-gray-500 dark:text-gray-400' }
+  { value: 'Planning', icon: 'compass', color: 'text-slate-600 dark:text-slate-400' },
+  { value: 'Active', icon: 'play', color: 'text-green-600 dark:text-green-400' },
+  { value: 'On Hold', icon: 'pause', color: 'text-yellow-600 dark:text-yellow-400' },
+  { value: 'Completed', icon: 'circle-check', color: 'text-green-600 dark:text-green-400' },
+  { value: 'Cancelled', icon: 'ban', color: 'text-gray-500 dark:text-gray-400' }
 ]
 
 function toggleStatusDropdown(): void {
@@ -913,10 +915,10 @@ const isSavingType = ref(false)
 const typeDropdownRef = ref<HTMLElement | null>(null)
 
 const projectTypeOptions: Array<{ value: string; icon: string; color: string }> = [
-  { value: 'Internal', icon: 'fa-building', color: 'text-blue-600 dark:text-blue-400' },
-  { value: 'External', icon: 'fa-arrow-up-right-from-square', color: 'text-green-600 dark:text-green-400' },
-  { value: 'Maintenance', icon: 'fa-wrench', color: 'text-yellow-600 dark:text-yellow-400' },
-  { value: 'Research', icon: 'fa-flask', color: 'text-purple-600 dark:text-purple-400' }
+  { value: 'Internal', icon: 'building-2', color: 'text-blue-600 dark:text-blue-400' },
+  { value: 'External', icon: 'external-link', color: 'text-green-600 dark:text-green-400' },
+  { value: 'Maintenance', icon: 'wrench', color: 'text-yellow-600 dark:text-yellow-400' },
+  { value: 'Research', icon: 'flask-conical', color: 'text-purple-600 dark:text-purple-400' }
 ]
 
 function toggleTypeDropdown(): void {
@@ -948,16 +950,16 @@ const isSavingDepMode = ref(false)
 const depModeDropdownRef = ref<HTMLElement | null>(null)
 
 const dependencyModeOptions = computed<Array<{ value: string; icon: string; description: string }>>(() => [
-  { value: 'Strict', icon: 'fa-link', description: __('Auto-shift dependents when dates change') },
-  { value: 'Flexible', icon: 'fa-arrows-left-right', description: __('Preview cascade before applying') },
-  { value: 'Off', icon: 'fa-link-slash', description: __('Dependencies are informational only') }
+  { value: 'Strict', icon: 'link', description: __('Auto-shift dependents when dates change') },
+  { value: 'Flexible', icon: 'move-horizontal', description: __('Preview cascade before applying') },
+  { value: 'Off', icon: 'link-off', description: __('Dependencies are informational only') }
 ])
 
 const currentDepMode = computed(() => project.value?.dependency_mode || 'Flexible')
 
 const depModeIcon = computed(() => {
   const opt = dependencyModeOptions.value.find(o => o.value === currentDepMode.value)
-  return opt?.icon || 'fa-arrows-left-right'
+  return opt?.icon || 'move-horizontal'
 })
 
 async function changeDependencyMode(mode: string): Promise<void> {
@@ -1158,13 +1160,13 @@ const documentSummary = computed(() => {
 function getDocIcon(doc: ProjectDocument): string {
   const name = doc.file_name || ''
   const type = doc.file_type || ''
-  if (type.includes('pdf') || name.endsWith('.pdf')) return 'fa-file-pdf text-red-500'
-  if (type.includes('image') || /\.(png|jpg|jpeg|gif|svg|webp)$/i.test(name)) return 'fa-file-image text-blue-500'
-  if (type.includes('word') || /\.(doc|docx)$/i.test(name)) return 'fa-file-word text-blue-600'
-  if (type.includes('excel') || /\.(xls|xlsx|csv)$/i.test(name)) return 'fa-file-excel text-green-600'
-  if (/\.(dwg|dxf)$/i.test(name)) return 'fa-drafting-compass text-orange-500'
-  if (/\.(zip|rar|7z|tar|gz)$/i.test(name)) return 'fa-file-zipper text-yellow-600'
-  return 'fa-file text-gray-400'
+  if (type.includes('pdf') || name.endsWith('.pdf')) return 'file-text text-red-500'
+  if (type.includes('image') || /\.(png|jpg|jpeg|gif|svg|webp)$/i.test(name)) return 'image text-blue-500'
+  if (type.includes('word') || /\.(doc|docx)$/i.test(name)) return 'file-text text-blue-600'
+  if (type.includes('excel') || /\.(xls|xlsx|csv)$/i.test(name)) return 'file-spreadsheet text-green-600'
+  if (/\.(dwg|dxf)$/i.test(name)) return 'compass text-orange-500'
+  if (/\.(zip|rar|7z|tar|gz)$/i.test(name)) return 'archive text-yellow-600'
+  return 'file text-gray-400'
 }
 
 function toggleDocDrawer(): void {
@@ -1350,7 +1352,7 @@ onUnmounted(() => {
     <!-- Loading State -->
     <div v-if="isLoading" class="flex-1 flex items-center justify-center">
       <div class="text-center">
-        <i class="fa-solid fa-spinner fa-spin text-3xl text-orga-500 mb-3"></i>
+        <Loader2 class="w-8 h-8 text-accent-500 mb-3 animate-spin" aria-hidden="true" />
         <p class="text-gray-600 dark:text-gray-400">{{ __('Loading project...') }}</p>
       </div>
     </div>
@@ -1358,7 +1360,7 @@ onUnmounted(() => {
     <!-- Error State -->
     <div v-else-if="loadError" class="flex-1 flex items-center justify-center p-6">
       <div class="bg-red-50 dark:bg-red-950/30 border border-red-200 dark:border-red-800 rounded-lg p-6 max-w-md text-center">
-        <i class="fa-solid fa-exclamation-triangle text-red-500 dark:text-red-400 text-3xl mb-3"></i>
+        <TriangleAlert class="w-8 h-8 text-red-500 dark:text-red-400 mb-3" aria-hidden="true" />
         <h3 class="text-red-800 dark:text-red-200 font-medium mb-2">{{ __('Error loading project') }}</h3>
         <p class="text-red-600 dark:text-red-400 text-sm mb-4">{{ loadError }}</p>
         <button
@@ -1392,7 +1394,7 @@ onUnmounted(() => {
               class="min-h-[44px] min-w-[44px] flex items-center justify-center text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-gray-200 transition-colors"
               :title="__('Go back')"
             >
-              <i class="fa-solid fa-arrow-left text-lg"></i>
+              <ArrowLeft class="w-5 h-5" aria-hidden="true" />
             </button>
             <div class="min-w-0 flex-1">
               <input
@@ -1402,13 +1404,13 @@ onUnmounted(() => {
                 @keydown.escape="cancelEditTitle"
                 @blur="saveTitle"
                 ref="titleInputRef"
-                class="text-h3 sm:text-h2 text-gray-800 dark:text-gray-100 m-0 w-full bg-transparent border-b-2 border-orga-500 outline-none"
+                class="text-h3 sm:text-h2 text-gray-800 dark:text-gray-100 m-0 w-full bg-transparent border-b-2 border-accent-500 outline-none"
                 :disabled="isSavingTitle"
               />
               <h1
                 v-else
                 @click="startEditTitle"
-                class="text-h3 sm:text-h2 text-gray-800 dark:text-gray-100 m-0 truncate cursor-text hover:text-orga-600 dark:hover:text-orga-400 transition-colors"
+                class="text-h3 sm:text-h2 text-gray-800 dark:text-gray-100 m-0 truncate cursor-text hover:text-accent-600 dark:hover:text-accent-400 transition-colors"
                 :title="__('Click to edit title')"
               >{{ project.project_name }}</h1>
               <p class="text-caption sm:text-body text-gray-600 dark:text-gray-400 m-0 truncate">{{ project.project_code }} · {{ project.project_type }}</p>
@@ -1425,7 +1427,7 @@ onUnmounted(() => {
                 ]"
                 :title="__('Gantt View')"
               >
-                <i class="fa-solid fa-bars-progress"></i>
+                <BarChart3 class="w-4 h-4" aria-hidden="true" />
                 <span class="hidden sm:inline">{{ __('Gantt') }}</span>
               </button>
               <button
@@ -1436,7 +1438,7 @@ onUnmounted(() => {
                 ]"
                 :title="__('Kanban View')"
               >
-                <i class="fa-solid fa-table-columns"></i>
+                <Table2 class="w-4 h-4" aria-hidden="true" />
                 <span class="hidden sm:inline">{{ __('Kanban') }}</span>
               </button>
               <button
@@ -1447,7 +1449,7 @@ onUnmounted(() => {
                 ]"
                 :title="__('List View')"
               >
-                <i class="fa-solid fa-list"></i>
+                <ListIcon class="w-4 h-4" aria-hidden="true" />
                 <span class="hidden sm:inline">{{ __('List') }}</span>
               </button>
             </div>
@@ -1456,10 +1458,10 @@ onUnmounted(() => {
             <div class="flex gap-2 ml-2 sm:ml-4">
               <button
                 @click="isTaskModalOpen = true"
-                class="min-h-[44px] min-w-[44px] sm:min-w-0 px-3 py-2 sm:py-1.5 text-sm font-medium text-white bg-orga-500 rounded-lg hover:bg-orga-600 flex items-center justify-center gap-2"
+                class="min-h-[44px] min-w-[44px] sm:min-w-0 px-3 py-2 sm:py-1.5 text-sm font-medium text-white bg-accent-500 rounded-lg hover:bg-accent-600 flex items-center justify-center gap-2"
                 :title="__('Add Task (Shift+T)')"
               >
-                <i class="fa-solid fa-plus"></i>
+                <Plus class="w-4 h-4" aria-hidden="true" />
                 <span class="hidden sm:inline">{{ __('Add Task') }}</span>
               </button>
               <button
@@ -1467,7 +1469,7 @@ onUnmounted(() => {
                 class="min-h-[44px] min-w-[44px] sm:min-w-0 px-3 py-2 sm:py-1.5 text-sm font-medium text-gray-700 dark:text-gray-300 bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-600 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700 flex items-center justify-center gap-2"
                 :title="__('Add Milestone (Shift+M)')"
               >
-                <i class="fa-solid fa-flag"></i>
+                <Flag class="w-4 h-4" aria-hidden="true" />
                 <span class="hidden md:inline">{{ __('Add Milestone') }}</span>
               </button>
               <!-- Guest Portal share button (Dock integration) -->
@@ -1488,7 +1490,7 @@ onUnmounted(() => {
                 class="min-h-[44px] min-w-[44px] sm:min-w-0 px-2 sm:px-3 py-2 sm:py-1.5 rounded-lg text-sm font-medium transition-all flex items-center justify-center gap-2 border bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-400 border-gray-200 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-700"
                 :title="__('Dependency Mode: {0}', [currentDepMode])"
               >
-                <i :class="['fa-solid', depModeIcon]"></i>
+                <OrgaIcon :name="depModeIcon" class="w-4 h-4" />
                 <span class="hidden lg:inline">{{ currentDepMode }}</span>
               </button>
               <div
@@ -1502,16 +1504,16 @@ onUnmounted(() => {
                   :class="[
                     'w-full text-left px-3 py-2 text-sm flex items-start gap-2 transition-colors',
                     opt.value === currentDepMode
-                      ? 'bg-orga-50 dark:bg-orga-900/20 text-orga-700 dark:text-orga-300'
+                      ? 'bg-accent-50 dark:bg-accent-900/20 text-accent-700 dark:text-accent-300'
                       : 'text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700'
                   ]"
                 >
-                  <i :class="['fa-solid', opt.icon, 'mt-0.5 w-4 text-center']"></i>
+                  <OrgaIcon :name="opt.icon" class="w-4 h-4 mt-0.5" />
                   <div>
                     <div class="font-medium">{{ opt.value }}</div>
                     <div class="text-xs text-gray-500 dark:text-gray-400">{{ opt.description }}</div>
                   </div>
-                  <i v-if="opt.value === currentDepMode" class="fa-solid fa-check ml-auto mt-0.5 text-orga-500"></i>
+                  <Check v-if="opt.value === currentDepMode" class="w-3.5 h-3.5 ml-auto mt-0.5 text-accent-500" aria-hidden="true" />
                 </button>
               </div>
             </div>
@@ -1523,12 +1525,12 @@ onUnmounted(() => {
                 :class="[
                   'min-h-[44px] min-w-[44px] sm:min-w-0 px-2 sm:px-3 py-2 sm:py-1.5 rounded-lg text-sm font-medium transition-all flex items-center justify-center gap-2 border',
                   showDetails
-                    ? 'bg-orga-500 text-white border-orga-500'
+                    ? 'bg-accent-500 text-white border-accent-500'
                     : 'bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-400 border-gray-200 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-700'
                 ]"
                 :title="__('Toggle Details Panel')"
               >
-                <i class="fa-solid fa-circle-info"></i>
+                <Info class="w-4 h-4" aria-hidden="true" />
                 <span class="hidden lg:inline">{{ __('Details') }}</span>
               </button>
               <button
@@ -1536,12 +1538,12 @@ onUnmounted(() => {
                 :class="[
                   'min-h-[44px] min-w-[44px] sm:min-w-0 px-2 sm:px-3 py-2 sm:py-1.5 rounded-lg text-sm font-medium transition-all flex items-center justify-center gap-2 border',
                   showManager
-                    ? 'bg-orga-500 text-white border-orga-500'
+                    ? 'bg-accent-500 text-white border-accent-500'
                     : 'bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-400 border-gray-200 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-700'
                 ]"
                 :title="__('Toggle Manager Panel')"
               >
-                <i class="fa-solid fa-sliders"></i>
+                <SlidersHorizontal class="w-4 h-4" aria-hidden="true" />
                 <span class="hidden lg:inline">{{ __('Manager') }}</span>
               </button>
             </div>
@@ -1553,7 +1555,7 @@ onUnmounted(() => {
                 class="min-h-[44px] min-w-[44px] sm:min-w-0 px-2 sm:px-3 py-2 sm:py-1.5 rounded-lg text-sm font-medium transition-all flex items-center justify-center border bg-white dark:bg-gray-800 text-gray-600 dark:text-gray-400 border-gray-200 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-700"
                 :title="__('Project settings')"
               >
-                <i class="fa-solid fa-gear"></i>
+                <SettingsIcon class="w-4 h-4" aria-hidden="true" />
               </button>
               <!-- Dropdown -->
               <div
@@ -1569,16 +1571,16 @@ onUnmounted(() => {
                     ? 'text-blue-600 dark:text-blue-400'
                     : 'text-gray-700 dark:text-gray-300'"
                 >
-                  <i class="fa-solid fa-forward text-xs w-4 text-center"></i>
+                  <SkipForward class="w-3 h-3" aria-hidden="true" />
                   {{ __('Auto-Trail Start') }}
-                  <i v-if="autoTrailDefault" class="fa-solid fa-check ml-auto text-xs text-blue-500"></i>
+                  <Check v-if="autoTrailDefault" class="w-3 h-3 ml-auto text-blue-500" aria-hidden="true" />
                 </button>
                 <div class="border-t border-gray-100 dark:border-gray-700 my-1"></div>
                 <button
                   @click="showSettingsMenu = false; isSaveTemplateModalOpen = true"
                   class="w-full flex items-center gap-2 px-4 py-2.5 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors text-left"
                 >
-                  <i class="fa-solid fa-copy text-xs w-4 text-center"></i>
+                  <Copy class="w-3 h-3" aria-hidden="true" />
                   {{ __('Save as Template') }}
                 </button>
                 <div class="border-t border-gray-100 dark:border-gray-700 my-1"></div>
@@ -1586,7 +1588,7 @@ onUnmounted(() => {
                   @click="showSettingsMenu = false; isDeleteModalOpen = true"
                   class="w-full flex items-center gap-2 px-4 py-2.5 text-sm text-red-600 dark:text-red-400 hover:bg-red-50 dark:hover:bg-red-950/30 transition-colors text-left"
                 >
-                  <i class="fa-solid fa-trash text-xs w-4 text-center"></i>
+                  <Trash2 class="w-3 h-3" aria-hidden="true" />
                   {{ __('Delete Project') }}
                 </button>
               </div>
@@ -1646,7 +1648,7 @@ onUnmounted(() => {
                     'hover:shadow-md dark:hover:shadow-lg dark:hover:shadow-black/30',
                     'hover:border-gray-300 dark:hover:border-gray-600',
                     selectedTask?.name === task.name
-                      ? 'ring-2 ring-orga-300 card-selected'
+                      ? 'ring-2 ring-accent-300 card-selected'
                       : task.status === 'Open' ? 'card-open'
                       : task.status === 'In Progress' ? 'card-in-progress'
                       : task.status === 'Review' ? 'card-review'
@@ -1666,7 +1668,7 @@ onUnmounted(() => {
                     </div>
                   </div>
                   <div v-if="task.due_date" class="text-xs text-gray-600 dark:text-gray-300 mb-2">
-                    <i class="fa-regular fa-calendar mr-1 text-gray-500 dark:text-gray-400"></i>
+                    <span class="mr-1 text-gray-500 dark:text-gray-400 inline-flex"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 2v4"/><path d="M16 2v4"/><rect width="18" height="18" x="3" y="4" rx="2"/><path d="M3 10h18"/></svg></span>
                     {{ formatDate(task.due_date) }}
                   </div>
                   <div class="flex items-center justify-between">
@@ -1702,7 +1704,7 @@ onUnmounted(() => {
                   tabindex="0"
                   :class="[
                     'task-row border-b border-gray-100 dark:border-gray-700',
-                    selectedTask?.name === task.name ? 'bg-orga-50 dark:bg-orga-900/20' : '',
+                    selectedTask?.name === task.name ? 'bg-accent-50 dark:bg-accent-900/20' : '',
                     task.is_blocked && 'opacity-60'
                   ]"
                   :title="task.is_blocked ? getBlockedByTooltip(task.name) : undefined"
@@ -1739,7 +1741,7 @@ onUnmounted(() => {
             <!-- Empty State for List View -->
             <EmptyState
               v-if="tasks.length === 0"
-              icon="fa-list-check"
+              icon="list-checks"
               :title="__('No tasks yet')"
               :description="__('Create your first task to start tracking work on this project.')"
               :action-label="__('+ Create Task')"
@@ -1804,10 +1806,10 @@ onUnmounted(() => {
             <!-- Header -->
             <div class="p-4 border-b border-gray-200 dark:border-gray-700 flex items-center justify-between">
               <h3 class="font-semibold text-gray-800 dark:text-gray-100 m-0 flex items-center gap-2">
-                <i class="fa-solid fa-flag text-indigo-500"></i> {{ __('Milestone') }}
+                <Flag class="w-4 h-4 text-indigo-500" aria-hidden="true" /> {{ __('Milestone') }}
               </h3>
               <button @click="showManager = false; selectedMilestone = null" class="text-gray-400 dark:text-gray-500 hover:text-gray-600 dark:hover:text-gray-300 transition-colors">
-                <i class="fa-solid fa-xmark"></i>
+                <X class="w-4 h-4" aria-hidden="true" />
               </button>
             </div>
 
@@ -1820,34 +1822,34 @@ onUnmounted(() => {
                     v-model="editMilestoneName"
                     type="text"
                     maxlength="255"
-                    class="flex-1 text-lg font-semibold px-2 py-1 border border-gray-300 dark:border-gray-600 rounded bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-100 focus:outline-none focus:border-orga-500 dark:focus:border-orga-400 focus:ring-1 focus:ring-orga-500 dark:focus:ring-orga-400"
+                    class="flex-1 text-lg font-semibold px-2 py-1 border border-gray-300 dark:border-gray-600 rounded bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-100 focus:outline-none focus:border-accent-500 dark:focus:border-accent-400 focus:ring-1 focus:ring-accent-500 dark:focus:ring-accent-400"
                     @keydown.enter="saveMilestoneName"
                     @keydown.escape="cancelEditMilestoneName"
                   />
                   <button
                     @click="saveMilestoneName"
                     :disabled="isSavingMilestoneName || !editMilestoneName.trim()"
-                    class="p-1.5 text-xs text-white bg-orga-500 rounded hover:bg-orga-600 transition-colors disabled:opacity-50"
+                    class="p-1.5 text-xs text-white bg-accent-500 rounded hover:bg-accent-600 transition-colors disabled:opacity-50"
                   >
-                    <i v-if="isSavingMilestoneName" class="fa-solid fa-spinner fa-spin"></i>
-                    <i v-else class="fa-solid fa-check"></i>
+                    <Loader2 v-if="isSavingMilestoneName" class="w-3 h-3 animate-spin" aria-hidden="true" />
+                    <Check v-else class="w-3 h-3" aria-hidden="true" />
                   </button>
                   <button
                     @click="cancelEditMilestoneName"
                     :disabled="isSavingMilestoneName"
                     class="p-1.5 text-xs text-gray-600 dark:text-gray-400 bg-gray-100 dark:bg-gray-700 rounded hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors disabled:opacity-50"
                   >
-                    <i class="fa-solid fa-xmark"></i>
+                    <X class="w-4 h-4" aria-hidden="true" />
                   </button>
                 </div>
                 <h4
                   v-else
                   @click="startEditMilestoneName"
-                  class="text-lg font-semibold text-gray-800 dark:text-gray-100 cursor-pointer group hover:ring-1 hover:ring-orga-300 dark:hover:ring-orga-600 rounded px-1 -mx-1 transition-all"
+                  class="text-lg font-semibold text-gray-800 dark:text-gray-100 cursor-pointer group hover:ring-1 hover:ring-accent-300 dark:hover:ring-accent-600 rounded px-1 -mx-1 transition-all"
                   :title="__('Click to edit milestone name')"
                 >
                   {{ selectedMilestone.subject }}
-                  <i class="fa-solid fa-pen-to-square text-[10px] text-gray-400 dark:text-gray-500 ml-1 opacity-0 group-hover:opacity-100 transition-opacity"></i>
+                  <Pencil class="w-2.5 h-2.5 text-gray-400 dark:text-gray-500 ml-1 opacity-0 group-hover:opacity-100 transition-opacity inline" aria-hidden="true" />
                 </h4>
               </div>
 
@@ -1912,7 +1914,7 @@ onUnmounted(() => {
                   <textarea
                     v-model="editMilestoneDesc"
                     rows="3"
-                    class="w-full px-2 py-1.5 text-sm border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 focus:outline-none focus:border-orga-500 dark:focus:border-orga-400 focus:ring-1 focus:ring-orga-500 dark:focus:ring-orga-400 resize-y"
+                    class="w-full px-2 py-1.5 text-sm border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 focus:outline-none focus:border-accent-500 dark:focus:border-accent-400 focus:ring-1 focus:ring-accent-500 dark:focus:ring-accent-400 resize-y"
                     :placeholder="__('Add a milestone description...')"
                     @keydown.escape="cancelEditMilestoneDesc"
                   ></textarea>
@@ -1927,9 +1929,9 @@ onUnmounted(() => {
                     <button
                       @click="saveMilestoneDesc"
                       :disabled="isSavingMilestoneDesc"
-                      class="px-2.5 py-1 text-xs font-medium text-white bg-orga-500 rounded hover:bg-orga-600 transition-colors disabled:opacity-50 flex items-center gap-1"
+                      class="px-2.5 py-1 text-xs font-medium text-white bg-accent-500 rounded hover:bg-accent-600 transition-colors disabled:opacity-50 flex items-center gap-1"
                     >
-                      <i v-if="isSavingMilestoneDesc" class="fa-solid fa-spinner fa-spin"></i>
+                      <Loader2 v-if="isSavingMilestoneDesc" class="w-3 h-3 animate-spin" aria-hidden="true" />
                       {{ isSavingMilestoneDesc ? __('Saving...') : __('Save') }}
                     </button>
                   </div>
@@ -1941,13 +1943,13 @@ onUnmounted(() => {
                   class="cursor-pointer group"
                   :title="__('Click to edit description')"
                 >
-                  <p v-if="selectedMilestone.description" class="text-sm text-gray-700 dark:text-gray-300 bg-gray-50 dark:bg-gray-800 rounded-lg p-3 group-hover:ring-1 group-hover:ring-orga-300 dark:group-hover:ring-orga-600 transition-all">
+                  <p v-if="selectedMilestone.description" class="text-sm text-gray-700 dark:text-gray-300 bg-gray-50 dark:bg-gray-800 rounded-lg p-3 group-hover:ring-1 group-hover:ring-accent-300 dark:group-hover:ring-accent-600 transition-all">
                     {{ selectedMilestone.description }}
-                    <i class="fa-solid fa-pen-to-square text-[10px] text-gray-400 dark:text-gray-500 ml-1 opacity-0 group-hover:opacity-100 transition-opacity"></i>
+                    <Pencil class="w-2.5 h-2.5 text-gray-400 dark:text-gray-500 ml-1 opacity-0 group-hover:opacity-100 transition-opacity inline" aria-hidden="true" />
                   </p>
-                  <p v-else class="text-sm text-gray-400 dark:text-gray-500 italic bg-gray-50 dark:bg-gray-800 rounded-lg p-3 group-hover:ring-1 group-hover:ring-orga-300 dark:group-hover:ring-orga-600 transition-all">
+                  <p v-else class="text-sm text-gray-400 dark:text-gray-500 italic bg-gray-50 dark:bg-gray-800 rounded-lg p-3 group-hover:ring-1 group-hover:ring-accent-300 dark:group-hover:ring-accent-600 transition-all">
                     {{ __('Click to add description...') }}
-                    <i class="fa-solid fa-pen-to-square text-[10px] ml-1 opacity-0 group-hover:opacity-100 transition-opacity"></i>
+                    <Pencil class="w-2.5 h-2.5 ml-1 opacity-0 group-hover:opacity-100 transition-opacity inline" aria-hidden="true" />
                   </p>
                 </div>
               </div>
@@ -1961,9 +1963,9 @@ onUnmounted(() => {
                   <button
                     v-if="!isLinkingTask"
                     @click="isLinkingTask = true; linkTaskSearch = ''"
-                    class="text-xs text-orga-500 hover:text-orga-600 dark:text-orga-400 dark:hover:text-orga-300 font-medium flex items-center gap-1 transition-colors"
+                    class="text-xs text-accent-500 hover:text-accent-600 dark:text-accent-400 dark:hover:text-accent-300 font-medium flex items-center gap-1 transition-colors"
                   >
-                    <i class="fa-solid fa-plus text-[10px]"></i> {{ __('Link Task') }}
+                    <Plus class="w-2.5 h-2.5" aria-hidden="true" /> {{ __('Link Task') }}
                   </button>
                   <button
                     v-else
@@ -1980,7 +1982,7 @@ onUnmounted(() => {
                     v-model="linkTaskSearch"
                     type="text"
                     :placeholder="__('Search tasks to link...')"
-                    class="w-full px-2.5 py-1.5 text-sm border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 focus:outline-none focus:border-orga-500 dark:focus:border-orga-400 focus:ring-1 focus:ring-orga-500 dark:focus:ring-orga-400"
+                    class="w-full px-2.5 py-1.5 text-sm border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 focus:outline-none focus:border-accent-500 dark:focus:border-accent-400 focus:ring-1 focus:ring-accent-500 dark:focus:ring-accent-400"
                   />
                   <div class="mt-1 max-h-40 overflow-y-auto rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
                     <div
@@ -2011,7 +2013,7 @@ onUnmounted(() => {
                     <StatusBadge :status="task.status" size="sm" />
                     <span
                       @click="selectedMilestone = null; selectTask(task)"
-                      class="text-sm text-gray-700 dark:text-gray-300 truncate flex-1 cursor-pointer hover:text-orga-600 dark:hover:text-orga-400"
+                      class="text-sm text-gray-700 dark:text-gray-300 truncate flex-1 cursor-pointer hover:text-accent-600 dark:hover:text-accent-400"
                     >
                       {{ task.subject }}
                     </span>
@@ -2020,7 +2022,7 @@ onUnmounted(() => {
                       class="text-gray-300 dark:text-gray-600 hover:text-red-500 dark:hover:text-red-400 opacity-0 group-hover:opacity-100 transition-all shrink-0"
                       :title="__('Unlink task from milestone')"
                     >
-                      <i class="fa-solid fa-xmark text-xs"></i>
+                      <X class="w-3 h-3" aria-hidden="true" />
                     </button>
                   </div>
                   <p
@@ -2044,15 +2046,15 @@ onUnmounted(() => {
           <div v-else class="flex-1 flex flex-col">
             <div class="p-4 border-b border-gray-200 dark:border-gray-700 flex items-center justify-between">
               <h3 class="font-semibold text-gray-800 dark:text-gray-100 m-0 flex items-center gap-2">
-                <i class="fa-solid fa-sliders text-orga-500"></i> {{ __('Manager') }}
+                <SlidersHorizontal class="w-4 h-4 text-accent-500" aria-hidden="true" /> {{ __('Manager') }}
               </h3>
               <button @click="showManager = false" class="text-gray-400 dark:text-gray-500 hover:text-gray-600 dark:hover:text-gray-300 transition-colors">
-                <i class="fa-solid fa-xmark"></i>
+                <X class="w-4 h-4" aria-hidden="true" />
               </button>
             </div>
             <div class="flex-1 flex items-center justify-center">
               <EmptyState
-                icon="fa-hand-pointer"
+                icon="mouse-pointer"
                 :title="__('No task selected')"
                 :description="view === 'gantt'
                   ? __('Select a task from the Gantt chart to view and manage its details.')
@@ -2070,15 +2072,15 @@ onUnmounted(() => {
         <div class="flex items-center gap-4 px-4 py-2.5 border-b border-gray-100 dark:border-gray-700/50">
           <!-- Progress -->
           <div class="flex items-center gap-2.5">
-            <div class="w-7 h-7 rounded-md bg-orga-50 dark:bg-orga-900/30 flex items-center justify-center">
-              <i class="fa-solid fa-chart-pie text-orga-500 text-xs"></i>
+            <div class="w-7 h-7 rounded-md bg-accent-50 dark:bg-accent-900/30 flex items-center justify-center">
+              <PieChart class="w-3 h-3 text-accent-500" aria-hidden="true" />
             </div>
             <div class="flex items-center gap-2">
               <span class="text-xs text-gray-500 dark:text-gray-400">{{ __('Progress') }}</span>
               <span class="text-sm font-semibold text-gray-800 dark:text-gray-100">{{ progressPercentage }}%</span>
             </div>
             <div class="w-20 h-1.5 bg-gray-100 dark:bg-gray-700 rounded-full overflow-hidden hidden sm:block">
-              <div class="h-full bg-orga-500 rounded-full transition-all" :style="{ width: `${progressPercentage}%` }"></div>
+              <div class="h-full bg-accent-500 rounded-full transition-all" :style="{ width: `${progressPercentage}%` }"></div>
             </div>
           </div>
 
@@ -2087,7 +2089,7 @@ onUnmounted(() => {
           <!-- Tasks -->
           <div class="flex items-center gap-2.5">
             <div class="w-7 h-7 rounded-md bg-blue-50 dark:bg-blue-900/30 flex items-center justify-center">
-              <i class="fa-solid fa-list-check text-blue-600 dark:text-blue-400 text-xs"></i>
+              <ListChecks class="w-3 h-3 text-blue-600 dark:text-blue-400" aria-hidden="true" />
             </div>
             <div class="flex items-center gap-2">
               <span class="text-xs text-gray-500 dark:text-gray-400">{{ __('Tasks') }}</span>
@@ -2100,7 +2102,7 @@ onUnmounted(() => {
           <!-- Milestones -->
           <div class="flex items-center gap-2.5">
             <div class="w-7 h-7 rounded-md bg-purple-50 dark:bg-purple-900/30 flex items-center justify-center">
-              <i class="fa-solid fa-flag text-purple-600 dark:text-purple-400 text-xs"></i>
+              <Flag class="w-3 h-3 text-purple-600 dark:text-purple-400" aria-hidden="true" />
             </div>
             <div class="flex items-center gap-2">
               <span class="text-xs text-gray-500 dark:text-gray-400">{{ __('Milestones') }}</span>
@@ -2113,7 +2115,7 @@ onUnmounted(() => {
             <div class="w-px h-5 bg-gray-200 dark:bg-gray-700"></div>
             <div class="flex items-center gap-2.5">
               <div class="w-7 h-7 rounded-md bg-emerald-50 dark:bg-emerald-900/30 flex items-center justify-center">
-                <i class="fa-solid fa-wallet text-emerald-600 dark:text-emerald-400 text-xs"></i>
+                <Wallet class="w-3 h-3 text-emerald-600 dark:text-emerald-400" aria-hidden="true" />
               </div>
               <div class="flex items-center gap-2">
                 <span class="text-xs text-gray-500 dark:text-gray-400">{{ __('Budget') }}</span>
@@ -2134,7 +2136,7 @@ onUnmounted(() => {
             <div class="w-px h-5 bg-gray-200 dark:bg-gray-700"></div>
             <div class="flex items-center gap-2.5">
               <div class="w-7 h-7 rounded-md bg-blue-50 dark:bg-blue-900/30 flex items-center justify-center">
-                <i class="fa-solid fa-calculator text-blue-600 dark:text-blue-400 text-xs"></i>
+                <Calculator class="w-3 h-3 text-blue-600 dark:text-blue-400" aria-hidden="true" />
               </div>
               <div class="flex items-center gap-2">
                 <span class="text-xs text-gray-500 dark:text-gray-400">{{ __('Estimated') }}</span>
@@ -2148,7 +2150,7 @@ onUnmounted(() => {
             <div class="w-px h-5 bg-gray-200 dark:bg-gray-700"></div>
             <div class="flex items-center gap-2.5">
               <div class="w-7 h-7 rounded-md bg-amber-50 dark:bg-amber-900/30 flex items-center justify-center">
-                <i class="fa-solid fa-hourglass-half text-amber-600 dark:text-amber-400 text-xs"></i>
+                <Hourglass class="w-3 h-3 text-amber-600 dark:text-amber-400" aria-hidden="true" />
               </div>
               <div class="flex items-center gap-2">
                 <span class="text-xs text-gray-500 dark:text-gray-400">{{ __('Duration') }}</span>
@@ -2174,14 +2176,14 @@ onUnmounted(() => {
           <!-- Project Info -->
           <div class="flex-1 p-4">
             <h4 class="text-overline text-gray-600 dark:text-gray-400 mb-3 flex items-center gap-2">
-              <i class="fa-solid fa-circle-info"></i> {{ __('Project Info') }}
+              <Info class="w-4 h-4" aria-hidden="true" /> {{ __('Project Info') }}
             </h4>
             <div class="grid grid-cols-2 gap-3 text-sm">
               <div ref="statusDropdownRef" class="relative flex items-center gap-2">
                 <span class="text-gray-600 dark:text-gray-400">{{ __('Status:') }}</span>
                 <button
                   @click.stop="toggleStatusDropdown"
-                  class="cursor-pointer hover:ring-2 hover:ring-orga-300 dark:hover:ring-orga-600 rounded-full transition-all"
+                  class="cursor-pointer hover:ring-2 hover:ring-accent-300 dark:hover:ring-accent-600 rounded-full transition-all"
                   :title="__('Click to change status')"
                   :disabled="isSavingStatus"
                 >
@@ -2199,13 +2201,13 @@ onUnmounted(() => {
                     :class="[
                       'w-full text-left px-3 py-1.5 text-sm flex items-center gap-2 transition-colors',
                       opt.value === project.status
-                        ? 'bg-orga-50 dark:bg-orga-900/30 font-medium'
+                        ? 'bg-accent-50 dark:bg-accent-900/30 font-medium'
                         : 'hover:bg-gray-50 dark:hover:bg-gray-700'
                     ]"
                   >
-                    <i :class="['fa-solid', opt.icon, opt.color, 'w-4 text-center text-xs']"></i>
+                    <OrgaIcon :name="opt.icon" :class="['w-4 h-4', opt.color]" />
                     <span class="text-gray-700 dark:text-gray-200">{{ opt.value }}</span>
-                    <i v-if="opt.value === project.status" class="fa-solid fa-check text-orga-500 text-xs ml-auto"></i>
+                    <Check v-if="opt.value === project.status" class="w-3 h-3 text-accent-500 ml-auto" aria-hidden="true" />
                   </button>
                 </div>
               </div>
@@ -2213,11 +2215,11 @@ onUnmounted(() => {
                 <span class="text-gray-600 dark:text-gray-400">{{ __('Type:') }}</span>
                 <button
                   @click.stop="toggleTypeDropdown"
-                  class="ml-2 text-gray-800 dark:text-gray-100 cursor-pointer hover:text-orga-600 dark:hover:text-orga-400 transition-colors flex items-center gap-1"
+                  class="ml-2 text-gray-800 dark:text-gray-100 cursor-pointer hover:text-accent-600 dark:hover:text-accent-400 transition-colors flex items-center gap-1"
                   :title="__('Click to change type')"
                   :disabled="isSavingType"
                 >
-                  <i :class="['fa-solid', projectTypeOptions.find(o => o.value === project?.project_type)?.icon || 'fa-folder', projectTypeOptions.find(o => o.value === project?.project_type)?.color || 'text-gray-500', 'text-xs']"></i>
+                  <OrgaIcon :name="projectTypeOptions.find(o => o.value === project?.project_type)?.icon || 'folder'" :class="['w-3 h-3', projectTypeOptions.find(o => o.value === project?.project_type)?.color || 'text-gray-500']" />
                   {{ project?.project_type }}
                 </button>
                 <div
@@ -2231,13 +2233,13 @@ onUnmounted(() => {
                     :class="[
                       'w-full text-left px-3 py-1.5 text-sm flex items-center gap-2 transition-colors',
                       opt.value === project.project_type
-                        ? 'bg-orga-50 dark:bg-orga-900/30 font-medium'
+                        ? 'bg-accent-50 dark:bg-accent-900/30 font-medium'
                         : 'hover:bg-gray-50 dark:hover:bg-gray-700'
                     ]"
                   >
-                    <i :class="['fa-solid', opt.icon, opt.color, 'w-4 text-center text-xs']"></i>
+                    <OrgaIcon :name="opt.icon" :class="['w-4 h-4', opt.color]" />
                     <span class="text-gray-700 dark:text-gray-200">{{ opt.value }}</span>
-                    <i v-if="opt.value === project.project_type" class="fa-solid fa-check text-orga-500 text-xs ml-auto"></i>
+                    <Check v-if="opt.value === project.project_type" class="w-3 h-3 text-accent-500 ml-auto" aria-hidden="true" />
                   </button>
                 </div>
               </div>
@@ -2252,13 +2254,13 @@ onUnmounted(() => {
                     @keydown.escape="cancelEditStartDate"
                     @blur="saveStartDate"
                     :disabled="isSavingStartDate"
-                    class="ml-2 px-1.5 py-0.5 text-sm border-b-2 border-orga-500 bg-transparent outline-none text-gray-800 dark:text-gray-100 dark:[color-scheme:dark]"
+                    class="ml-2 px-1.5 py-0.5 text-sm border-b-2 border-accent-500 bg-transparent outline-none text-gray-800 dark:text-gray-100 dark:[color-scheme:dark]"
                   />
                 </template>
                 <span
                   v-else
                   @click="startEditStartDate"
-                  class="ml-2 text-gray-800 dark:text-gray-100 cursor-text hover:text-orga-600 dark:hover:text-orga-400 transition-colors"
+                  class="ml-2 text-gray-800 dark:text-gray-100 cursor-text hover:text-accent-600 dark:hover:text-accent-400 transition-colors"
                   :title="__('Click to edit start date')"
                 >{{ formatDate(project.start_date) }}</span>
               </div>
@@ -2273,13 +2275,13 @@ onUnmounted(() => {
                     @keydown.escape="cancelEditEndDate"
                     @blur="saveEndDate"
                     :disabled="isSavingEndDate"
-                    class="ml-2 px-1.5 py-0.5 text-sm border-b-2 border-orga-500 bg-transparent outline-none text-gray-800 dark:text-gray-100 dark:[color-scheme:dark]"
+                    class="ml-2 px-1.5 py-0.5 text-sm border-b-2 border-accent-500 bg-transparent outline-none text-gray-800 dark:text-gray-100 dark:[color-scheme:dark]"
                   />
                 </template>
                 <span
                   v-else
                   @click="startEditEndDate"
-                  class="ml-2 text-gray-800 dark:text-gray-100 cursor-text hover:text-orga-600 dark:hover:text-orga-400 transition-colors"
+                  class="ml-2 text-gray-800 dark:text-gray-100 cursor-text hover:text-accent-600 dark:hover:text-accent-400 transition-colors"
                   :title="__('Click to edit end date')"
                 >{{ formatDate(project.end_date) }}</span>
               </div>
@@ -2310,14 +2312,14 @@ onUnmounted(() => {
                       @keydown.escape="cancelEditBudget"
                       @blur="saveBudget"
                       :disabled="isSavingBudget"
-                      class="w-28 px-1.5 py-0.5 text-sm border-b-2 border-orga-500 bg-transparent outline-none text-gray-800 dark:text-gray-100"
+                      class="w-28 px-1.5 py-0.5 text-sm border-b-2 border-accent-500 bg-transparent outline-none text-gray-800 dark:text-gray-100"
                     />
                   </div>
                 </template>
                 <span
                   v-else
                   @click="startEditBudget"
-                  class="ml-2 text-gray-800 dark:text-gray-100 cursor-text hover:text-orga-600 dark:hover:text-orga-400 transition-colors"
+                  class="ml-2 text-gray-800 dark:text-gray-100 cursor-text hover:text-accent-600 dark:hover:text-accent-400 transition-colors"
                   :title="__('Click to edit budget')"
                 >{{ project.budget ? formatCurrency(project.budget) : __('Not set') }}</span>
               </div>
@@ -2349,7 +2351,7 @@ onUnmounted(() => {
                 <textarea
                   v-model="editDescription"
                   rows="3"
-                  class="w-full px-2 py-1.5 text-sm border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 focus:outline-none focus:border-orga-500 dark:focus:border-orga-400 focus:ring-1 focus:ring-orga-500 dark:focus:ring-orga-400 resize-y"
+                  class="w-full px-2 py-1.5 text-sm border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 focus:outline-none focus:border-accent-500 dark:focus:border-accent-400 focus:ring-1 focus:ring-accent-500 dark:focus:ring-accent-400 resize-y"
                   :placeholder="__('Add a project description...')"
                   @keydown.escape="cancelEditDescription"
                 ></textarea>
@@ -2364,9 +2366,9 @@ onUnmounted(() => {
                   <button
                     @click="saveDescription"
                     :disabled="isSavingDescription"
-                    class="px-2.5 py-1 text-xs font-medium text-white bg-orga-500 rounded hover:bg-orga-600 transition-colors disabled:opacity-50 flex items-center gap-1"
+                    class="px-2.5 py-1 text-xs font-medium text-white bg-accent-500 rounded hover:bg-accent-600 transition-colors disabled:opacity-50 flex items-center gap-1"
                   >
-                    <i v-if="isSavingDescription" class="fa-solid fa-spinner fa-spin"></i>
+                    <Loader2 v-if="isSavingDescription" class="w-3 h-3 animate-spin" aria-hidden="true" />
                     {{ isSavingDescription ? __('Saving...') : __('Save') }}
                   </button>
                 </div>
@@ -2380,10 +2382,10 @@ onUnmounted(() => {
               >
                 <p
                   v-if="project.description"
-                  class="text-sm text-gray-700 dark:text-gray-300 m-0 line-clamp-2 group-hover:text-orga-600 dark:group-hover:text-orga-400 transition-colors"
+                  class="text-sm text-gray-700 dark:text-gray-300 m-0 line-clamp-2 group-hover:text-accent-600 dark:group-hover:text-accent-400 transition-colors"
                   v-html="sanitizeHtml(project.description)"
                 ></p>
-                <p v-else class="text-sm text-gray-400 dark:text-gray-500 m-0 italic group-hover:text-orga-500 dark:group-hover:text-orga-400 transition-colors">
+                <p v-else class="text-sm text-gray-400 dark:text-gray-500 m-0 italic group-hover:text-accent-500 dark:group-hover:text-accent-400 transition-colors">
                   {{ __('Click to add description...') }}
                 </p>
               </div>
@@ -2393,7 +2395,7 @@ onUnmounted(() => {
           <!-- Team (Users assigned to project tasks) -->
           <div class="w-48 p-4">
             <h4 class="text-overline text-gray-600 dark:text-gray-400 mb-3 flex items-center gap-2">
-              <i class="fa-solid fa-users"></i> {{ __('Team') }}
+              <Users class="w-4 h-4" aria-hidden="true" /> {{ __('Team') }}
             </h4>
             <div v-if="teamMembers.length > 0" class="flex flex-wrap gap-1">
               <div
@@ -2407,22 +2409,22 @@ onUnmounted(() => {
                   :src="member.user_image"
                   :alt="member.full_name"
                   class="w-8 h-8 rounded-full object-cover border-2"
-                  :class="member.is_manager ? 'border-orga-500' : 'border-white dark:border-gray-700'"
+                  :class="member.is_manager ? 'border-accent-500' : 'border-white dark:border-gray-700'"
                 />
                 <div
                   v-else
                   class="w-8 h-8 rounded-full flex items-center justify-center text-xs font-medium text-white border-2"
                   :class="[
-                    member.is_manager ? 'bg-orga-600 border-orga-500' : 'bg-gray-500 border-white dark:border-gray-700'
+                    member.is_manager ? 'bg-accent-600 border-accent-500' : 'bg-gray-500 border-white dark:border-gray-700'
                   ]"
                 >
                   {{ getInitials(member.full_name) }}
                 </div>
                 <div
                   v-if="member.is_manager"
-                  class="absolute -top-1 -right-1 w-3 h-3 bg-orga-500 rounded-full flex items-center justify-center"
+                  class="absolute -top-1 -right-1 w-3 h-3 bg-accent-500 rounded-full flex items-center justify-center"
                 >
-                  <i class="fa-solid fa-star text-[6px] text-white"></i>
+                  <Star class="w-1.5 h-1.5 text-white" aria-hidden="true" />
                 </div>
               </div>
             </div>
@@ -2432,7 +2434,7 @@ onUnmounted(() => {
           <!-- Milestones -->
           <div class="flex-1 min-w-0 p-4">
             <h4 class="text-overline text-gray-600 dark:text-gray-400 mb-3 flex items-center gap-2">
-              <i class="fa-solid fa-flag"></i> {{ __('Milestones') }}
+              <Flag class="w-4 h-4" aria-hidden="true" /> {{ __('Milestones') }}
             </h4>
             <div v-if="milestones.length > 0" class="space-y-1.5 max-h-20 overflow-auto">
               <div v-for="milestone in milestones" :key="milestone.name" class="flex items-center gap-2 text-sm">
@@ -2445,7 +2447,7 @@ onUnmounted(() => {
             </div>
             <EmptyState
               v-else
-              icon="fa-flag"
+              icon="flag"
               :title="__('No milestones')"
               :description="__('Add milestones to track key deliverables.')"
               :action-label="__('+ Add Milestone')"
@@ -2457,29 +2459,29 @@ onUnmounted(() => {
           <!-- Documents (expandable grouped drawer) -->
           <div class="w-64 p-4 relative">
             <h4 class="text-overline text-gray-600 dark:text-gray-400 mb-3 flex items-center gap-2">
-              <i class="fa-solid fa-folder-open"></i> {{ __('Documents') }}
+              <FolderOpen class="w-4 h-4" aria-hidden="true" /> {{ __('Documents') }}
             </h4>
 
             <!-- Summary / Toggle -->
             <button
               v-if="groupedDocuments.totalCount > 0"
               @click="toggleDocDrawer"
-              class="w-full text-left text-sm text-gray-700 dark:text-gray-300 hover:text-orga-600 dark:hover:text-orga-400 transition-colors"
+              class="w-full text-left text-sm text-gray-700 dark:text-gray-300 hover:text-accent-600 dark:hover:text-accent-400 transition-colors"
             >
               <span class="font-medium">{{ groupedDocuments.totalCount === 1 ? __('1 file') : __('{0} files', [groupedDocuments.totalCount]) }}</span>
               <span v-if="documentSummary" class="text-xs text-gray-500 dark:text-gray-400 ml-1">({{ documentSummary }})</span>
-              <i :class="['fa-solid fa-chevron-up text-xs ml-1 transition-transform', isDocDrawerOpen ? '' : 'rotate-180']"></i>
+              <ChevronUp :class="['w-3 h-3 ml-1 transition-transform inline', isDocDrawerOpen ? '' : 'rotate-180']" aria-hidden="true" />
             </button>
             <p v-else class="text-xs text-gray-500 dark:text-gray-400">{{ __('No documents attached') }}</p>
 
             <!-- Upload button (always visible) -->
-            <label class="mt-2 flex items-center gap-1.5 text-xs text-gray-400 dark:text-gray-500 hover:text-orga-500 cursor-pointer transition-colors">
-              <i class="fa-solid fa-cloud-arrow-up"></i>
+            <label class="mt-2 flex items-center gap-1.5 text-xs text-gray-400 dark:text-gray-500 hover:text-accent-500 cursor-pointer transition-colors">
+              <CloudUpload class="w-3 h-3" aria-hidden="true" />
               <span>{{ __('Upload to project') }}</span>
               <input type="file" class="hidden" @change="handleProjectFileUpload" :disabled="isUploadingProjectFile" />
             </label>
             <div v-if="isUploadingProjectFile" class="mt-1 h-1 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
-              <div class="h-full bg-orga-500 transition-all duration-300" :style="{ width: projectUploadProgress + '%' }"></div>
+              <div class="h-full bg-accent-500 transition-all duration-300" :style="{ width: projectUploadProgress + '%' }"></div>
             </div>
 
             <!-- Expandable Document Drawer -->
@@ -2490,7 +2492,7 @@ onUnmounted(() => {
               <!-- Project Files -->
               <div v-if="groupedDocuments.project.length > 0" class="p-3 border-b border-gray-100 dark:border-gray-800">
                 <h5 class="text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wide mb-2">
-                  <i class="fa-solid fa-folder text-orga-500 mr-1"></i> {{ __('Project Files') }}
+                  <Folder class="w-3 h-3 text-accent-500 inline mr-1" aria-hidden="true" /> {{ __('Project Files') }}
                 </h5>
                 <div class="space-y-1">
                   <a
@@ -2498,9 +2500,9 @@ onUnmounted(() => {
                     :key="doc.name"
                     :href="doc.file_url"
                     target="_blank"
-                    class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300 hover:text-orga-600 dark:hover:text-orga-400 group"
+                    class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300 hover:text-accent-600 dark:hover:text-accent-400 group"
                   >
-                    <i :class="['fa-solid text-xs', getDocIcon(doc)]"></i>
+                    <OrgaIcon :name="getDocIcon(doc)" class="w-3 h-3" />
                     <span class="truncate flex-1 group-hover:underline">{{ doc.file_name }}</span>
                     <span class="text-xs text-gray-400 dark:text-gray-500 whitespace-nowrap">{{ formatFileSize(doc.file_size) }}</span>
                   </a>
@@ -2514,7 +2516,7 @@ onUnmounted(() => {
                 class="p-3 border-b border-gray-100 dark:border-gray-800 last:border-b-0"
               >
                 <h5 class="text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wide mb-2">
-                  <i class="fa-solid fa-check-square text-blue-500 mr-1"></i> {{ group.taskSubject }}
+                  <span class="w-3 h-3 text-blue-500 inline mr-1"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 11 3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1-2 2h11"/></svg></span> {{ group.taskSubject }}
                 </h5>
                 <div class="space-y-1">
                   <a
@@ -2522,9 +2524,9 @@ onUnmounted(() => {
                     :key="doc.name"
                     :href="doc.file_url"
                     target="_blank"
-                    class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300 hover:text-orga-600 dark:hover:text-orga-400 group"
+                    class="flex items-center gap-2 text-sm text-gray-700 dark:text-gray-300 hover:text-accent-600 dark:hover:text-accent-400 group"
                   >
-                    <i :class="['fa-solid text-xs', getDocIcon(doc)]"></i>
+                    <OrgaIcon :name="getDocIcon(doc)" class="w-3 h-3" />
                     <span class="truncate flex-1 group-hover:underline">{{ doc.file_name }}</span>
                     <span class="text-xs text-gray-400 dark:text-gray-500 whitespace-nowrap">{{ formatFileSize(doc.file_size) }}</span>
                   </a>
@@ -2669,7 +2671,7 @@ onUnmounted(() => {
 
 /* Selected Card */
 .card-selected {
-  border-left: 4px solid var(--orga-500, #6366f1);
+  border-left: 4px solid var(--accent-500, #6366f1);
   box-shadow: 0 4px 12px rgba(99, 102, 241, 0.2);
 }
 

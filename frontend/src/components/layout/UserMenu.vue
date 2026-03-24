@@ -7,6 +7,8 @@ import { ref, computed, onMounted, onUnmounted } from 'vue'
 import { useRouter } from 'vue-router'
 import { useTheme } from '@/composables/useTheme'
 import { __ } from '@/composables/useTranslate'
+import OrgaIcon from '@/components/common/OrgaIcon.vue'
+import { Moon, Sun } from 'lucide-vue-next'
 
 const router = useRouter()
 const { mode: themeMode, isDark, setMode: setThemeMode } = useTheme()
@@ -43,12 +45,12 @@ const user = computed<UserInfo>(() => {
 })
 
 const menuItems: MenuItem[] = [
-  { label: __('My Assignments'), icon: 'fa-clipboard-list', to: '/orga/projects' },
-  { label: __('My Schedule'), icon: 'fa-calendar', to: '/orga/schedule' },
-  { label: __('Preferences'), icon: 'fa-sliders', to: '/orga/preferences' },
+  { label: __('My Assignments'), icon: 'clipboard-list', to: '/orga/projects' },
+  { label: __('My Schedule'), icon: 'calendar', to: '/orga/schedule' },
+  { label: __('Preferences'), icon: 'sliders', to: '/orga/preferences' },
   { isThemeToggle: true },
   { divider: true },
-  { label: __('Logout'), icon: 'fa-right-from-bracket', action: 'logout', danger: true }
+  { label: __('Logout'), icon: 'right-from-bracket', action: 'logout', danger: true }
 ]
 
 function toggleMenu(): void {
@@ -103,7 +105,7 @@ onUnmounted(() => {
     <!-- Avatar Trigger -->
     <button
       @click="toggleMenu"
-      class="w-9 h-9 rounded-full overflow-hidden cursor-pointer focus:outline-none focus:ring-2 focus:ring-orga-500 focus:ring-offset-2"
+      class="w-9 h-9 rounded-full overflow-hidden cursor-pointer focus:outline-none focus:ring-2 focus:ring-accent-500 focus:ring-offset-2"
       :title="user.name"
       aria-haspopup="true"
       :aria-expanded="isOpen"
@@ -116,7 +118,7 @@ onUnmounted(() => {
       />
       <div
         v-else
-        class="w-full h-full bg-orga-500 text-white flex items-center justify-center font-semibold text-sm"
+        class="w-full h-full bg-accent-500 text-white flex items-center justify-center font-semibold text-sm"
       >
         {{ user.initial }}
       </div>
@@ -155,7 +157,8 @@ onUnmounted(() => {
               @click.stop
             >
               <div class="flex items-center gap-2 mb-3">
-                <i :class="['fa-solid w-4 text-center', isDark ? 'fa-moon' : 'fa-sun']" class="text-gray-500 dark:text-gray-400"></i>
+                <Moon v-if="isDark" class="w-4 h-4 text-gray-500 dark:text-gray-400" aria-hidden="true" />
+                <Sun v-else class="w-4 h-4 text-gray-500 dark:text-gray-400" aria-hidden="true" />
                 <span class="text-xs font-medium text-gray-500 dark:text-gray-400 uppercase tracking-wide">{{ __('Theme') }}</span>
               </div>
               <div class="flex gap-1 bg-gray-100 dark:bg-gray-900 rounded-lg p-1" role="radiogroup" :aria-label="__('Theme preference')">
@@ -190,7 +193,7 @@ onUnmounted(() => {
                   :class="[
                     'flex-1 px-3 py-2 text-xs font-medium rounded transition-colors',
                     themeMode === 'dark'
-                      ? 'bg-orga-500 text-white'
+                      ? 'bg-accent-500 text-white'
                       : 'text-gray-500 dark:text-gray-400 hover:bg-gray-200 dark:hover:bg-gray-700'
                   ]"
                   role="radio"
@@ -213,7 +216,7 @@ onUnmounted(() => {
               ]"
               role="menuitem"
             >
-              <i :class="['fa-solid w-4 text-center', item.icon]"></i>
+              <OrgaIcon v-if="item.icon" :name="item.icon" class="w-4 h-4" />
               <span>{{ item.label }}</span>
             </button>
           </template>

@@ -6,18 +6,20 @@
     <title>Orga - Project Management</title>
     <meta name="description" content="Orga - Project Management System" />
     <link rel="icon" type="image/svg+xml" href="/assets/orga/images/orga-icon.svg" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
-    <script type="module" crossorigin src="/assets/orga/frontend/assets/main-BtUA0LmT.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/orga/frontend/assets/main-DadXn07P.css">
+    <script type="module" crossorigin src="/assets/orga/frontend/assets/main-RUEyGdwk.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/orga/frontend/assets/main-d5NZNONT.css">
   </head>
   <body>
     <script>
-      // Prevent flash of wrong theme before Vue loads
+      // Prevent flash of wrong theme/color-mode before Vue loads
       (function() {
         var stored = localStorage.getItem('orga-theme');
         var isDark = stored === 'dark' ||
           (!stored || stored === 'auto') && window.matchMedia('(prefers-color-scheme: dark)').matches;
         if (isDark) document.documentElement.classList.add('dark');
+        // Color mode: neutral removes app brand colors
+        var cm = localStorage.getItem('color-mode');
+        if (cm === 'neutral') document.documentElement.setAttribute('data-color-mode', 'neutral');
       })();
     </script>
     <div id="app" class="h-screen"></div>

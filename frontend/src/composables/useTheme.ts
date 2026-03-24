@@ -95,7 +95,7 @@ if (typeof window !== 'undefined') {
  *
  * <template>
  *   <button @click="toggle">
- *     <i :class="isDark ? 'fa-sun' : 'fa-moon'" />
+ *     <LucideIcon :name="isDark ? 'sun' : 'moon'" />
  *   </button>
  * </template>
  * ```

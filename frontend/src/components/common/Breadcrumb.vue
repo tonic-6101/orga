@@ -8,8 +8,10 @@
   Can auto-generate from route or accept custom items.
 -->
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, type Component } from 'vue'
 import { useRoute } from 'vue-router'
+import { Home, ChevronRight } from 'lucide-vue-next'
+import OrgaIcon from './OrgaIcon.vue'
 import { __ } from '@/composables/useTranslate'
 
 export interface BreadcrumbItem {
@@ -17,7 +19,7 @@ export interface BreadcrumbItem {
   label: string
   /** Route path or name */
   to?: string
-  /** Icon class (Font Awesome) */
+  /** Lucide icon name (resolved by OrgaIcon) */
   icon?: string
   /** Mark as current page (not clickable) */
   current?: boolean
@@ -30,14 +32,11 @@ interface Props {
   showHome?: boolean
   /** Home route path */
   homePath?: string
-  /** Separator icon */
-  separator?: string
 }
 
 const props = withDefaults(defineProps<Props>(), {
   showHome: true,
   homePath: '/orga',
-  separator: 'fa-chevron-right'
 })
 
 const route = useRoute()
@@ -93,35 +92,31 @@ const breadcrumbs = computed((): BreadcrumbItem[] => {
     <router-link
       v-if="showHome"
       :to="homePath"
-      class="text-gray-500 dark:text-gray-400 hover:text-orga-600 dark:hover:text-orga-400 transition-colors"
+      class="text-gray-500 dark:text-gray-400 hover:text-accent-600 dark:hover:text-accent-400 transition-colors"
       :aria-label="__('Home')"
     >
-      <i class="fa-solid fa-home"></i>
+      <Home class="w-4 h-4" />
     </router-link>
 
     <!-- Breadcrumb items -->
     <template v-for="(item, index) in breadcrumbs" :key="index">
       <!-- Separator -->
-      <i
-        :class="[
-          'fa-solid',
-          separator,
-          'text-xs text-gray-400 dark:text-gray-500'
-        ]"
+      <ChevronRight
+        class="w-3 h-3 text-gray-400 dark:text-gray-500"
         aria-hidden="true"
-      ></i>
+      />
 
       <!-- Breadcrumb link or text -->
       <router-link
         v-if="item.to && !item.current"
         :to="item.to"
-        class="text-gray-500 dark:text-gray-400 hover:text-orga-600 dark:hover:text-orga-400 transition-colors inline-flex items-center gap-1.5"
+        class="text-gray-500 dark:text-gray-400 hover:text-accent-600 dark:hover:text-accent-400 transition-colors inline-flex items-center gap-1.5"
       >
-        <i
+        <OrgaIcon
           v-if="item.icon"
-          :class="['fa-solid', item.icon, 'text-xs']"
-          aria-hidden="true"
-        ></i>
+          :name="item.icon"
+          class="w-3 h-3"
+        />
         {{ item.label }}
       </router-link>
 
@@ -130,11 +125,11 @@ const breadcrumbs = computed((): BreadcrumbItem[] => {
         class="text-gray-800 dark:text-gray-100 font-medium inline-flex items-center gap-1.5"
         :aria-current="item.current ? 'page' : undefined"
       >
-        <i
+        <OrgaIcon
           v-if="item.icon"
-          :class="['fa-solid', item.icon, 'text-xs']"
-          aria-hidden="true"
-        ></i>
+          :name="item.icon"
+          class="w-3 h-3"
+        />
         {{ item.label }}
       </span>
     </template>

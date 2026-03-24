@@ -4,6 +4,9 @@
 // src/types/frappe.d.ts
 // Type definitions for Frappe globals available in Vue frontend
 
+// Vite build-time constants
+declare const __APP_VERSION__: string
+
 interface FrappeCallOptions {
   method: string
   args?: Record<string, unknown>

@@ -1,0 +1,19 @@
+/* SPDX-License-Identifier: AGPL-3.0-or-later */
+/* Copyright (C) 2024-2026 Tonic */
+
+/* Orga app accent — green (per app-colors.md)
+   Overrides --app-accent-* from dock/tokens.css */
+
+:root {
+  --app-accent-50:  #f0fdf4;
+  --app-accent-100: #dcfce7;
+  --app-accent-200: #bbf7d0;
+  --app-accent-300: #86efac;
+  --app-accent-400: #4ade80;
+  --app-accent-500: #22c55e;
+  --app-accent-600: #16a34a;
+  --app-accent-700: #15803d;
+  --app-accent-800: #166534;
+  --app-accent-900: #14532d;
+  --app-accent-950: #052e16;
+}

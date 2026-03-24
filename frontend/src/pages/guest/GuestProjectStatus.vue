@@ -12,6 +12,7 @@ export default { name: 'GuestProjectStatus' }
 
 <script setup lang="ts">
 import { ref, onMounted, computed } from 'vue'
+import { TriangleAlert, CircleCheck, AlertCircle, Clock, Check } from 'lucide-vue-next'
 import { useRoute } from 'vue-router'
 
 interface ProjectStatus {
@@ -140,7 +141,7 @@ onMounted(loadData)
     <div v-else-if="error" class="flex items-center justify-center min-h-[60vh] px-4">
       <div class="text-center max-w-sm">
         <div class="w-12 h-12 mx-auto mb-4 bg-red-100 rounded-full flex items-center justify-center">
-          <i class="fa-solid fa-exclamation-triangle text-red-500"></i>
+          <TriangleAlert class="w-5 h-5 text-red-500" aria-hidden="true" />
         </div>
         <p class="text-gray-600 text-sm">{{ error }}</p>
       </div>
@@ -221,9 +222,9 @@ onMounted(loadData)
         <div class="divide-y divide-gray-100">
           <div v-for="m in milestones" :key="m.milestone_name" class="px-4 py-3 flex items-center gap-3">
             <div class="flex-shrink-0">
-              <i v-if="m.status === 'Completed'" class="fa-solid fa-check-circle text-green-500"></i>
-              <i v-else-if="m.is_overdue" class="fa-solid fa-exclamation-circle text-red-500"></i>
-              <i v-else class="fa-regular fa-clock text-blue-500"></i>
+              <CircleCheck v-if="m.status === 'Completed'" class="w-4 h-4 text-green-500" aria-hidden="true" />
+              <AlertCircle v-else-if="m.is_overdue" class="w-4 h-4 text-red-500" aria-hidden="true" />
+              <Clock v-else class="w-4 h-4 text-blue-500" aria-hidden="true" />
             </div>
             <div class="flex-1 min-w-0">
               <div class="text-sm font-medium text-gray-800 truncate">{{ m.milestone_name }}</div>
@@ -257,7 +258,7 @@ onMounted(loadData)
         </div>
         <div class="divide-y divide-gray-100">
           <div v-for="item in recentCompletions" :key="item.subject" class="px-4 py-2.5 flex items-center gap-3">
-            <i class="fa-solid fa-check text-green-500 text-xs flex-shrink-0"></i>
+            <Check class="w-3 h-3 text-green-500 flex-shrink-0" aria-hidden="true" />
             <span class="text-sm text-gray-700 flex-1 truncate">{{ item.subject }}</span>
             <span class="text-xs text-gray-400 flex-shrink-0">{{ formatRelative(item.modified) }}</span>
           </div>

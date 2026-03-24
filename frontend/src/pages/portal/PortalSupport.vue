@@ -8,6 +8,7 @@ import { useRoute } from 'vue-router'
 import { usePortalApi } from '@/composables/usePortalApi'
 import { useAuth } from '@/composables/useAuth'
 import { __ } from '@/composables/useTranslate'
+import { Headset, CircleCheck, AlertCircle, Info, Loader2, Send, ArrowLeft, Mail } from 'lucide-vue-next'
 import type { PortalProject } from '@/types/portal'
 
 const route = useRoute()
@@ -100,7 +101,7 @@ function resetForm() {
     <!-- Page Header -->
     <div class="text-center mb-8">
       <div class="mb-4">
-        <i class="fa-solid fa-headset text-5xl text-orga-500"></i>
+        <Headset class="w-12 h-12 text-accent-500 mx-auto" aria-hidden="true" />
       </div>
       <h1 class="text-2xl font-bold text-gray-800 mb-2">{{ __('Contact Support') }}</h1>
       <p class="text-gray-500">
@@ -114,7 +115,7 @@ function resetForm() {
       class="bg-green-50 border border-green-200 rounded-lg p-6 mb-6"
     >
       <div class="flex items-center gap-3">
-        <i class="fa-solid fa-check-circle text-green-500 text-2xl"></i>
+        <CircleCheck class="w-6 h-6 text-green-500" aria-hidden="true" />
         <div>
           <h3 class="text-green-800 font-medium">{{ __('Request Submitted!') }}</h3>
           <p class="text-green-600 text-sm">
@@ -136,7 +137,7 @@ function resetForm() {
       class="bg-red-50 border border-red-200 rounded-lg p-4 mb-6"
     >
       <div class="flex items-center gap-3">
-        <i class="fa-solid fa-exclamation-circle text-red-500"></i>
+        <AlertCircle class="w-4 h-4 text-red-500" aria-hidden="true" />
         <span class="text-red-600">{{ submitError }}</span>
       </div>
     </div>
@@ -152,7 +153,7 @@ function resetForm() {
           <select
             id="project"
             v-model="selectedProject"
-            class="w-full px-3 py-2 border border-gray-200 rounded focus:border-orga-500 focus:outline-none"
+            class="w-full px-3 py-2 border border-gray-200 rounded focus:border-accent-500 focus:outline-none"
           >
             <option value="">{{ __('-- Select a project --') }}</option>
             <option v-for="p in projects" :key="p.name" :value="p.name">
@@ -175,7 +176,7 @@ function resetForm() {
             type="text"
             required
             :placeholder="__('Brief description of your request')"
-            class="w-full px-3 py-2 border border-gray-200 rounded focus:border-orga-500 focus:outline-none"
+            class="w-full px-3 py-2 border border-gray-200 rounded focus:border-accent-500 focus:outline-none"
           />
         </div>
 
@@ -190,14 +191,14 @@ function resetForm() {
             rows="6"
             required
             :placeholder="__('Please describe your question or issue in detail...')"
-            class="w-full px-3 py-2 border border-gray-200 rounded focus:border-orga-500 focus:outline-none resize-none"
+            class="w-full px-3 py-2 border border-gray-200 rounded focus:border-accent-500 focus:outline-none resize-none"
           ></textarea>
         </div>
 
         <!-- Contact Info (read-only) -->
         <div class="bg-gray-50 rounded p-3">
           <p class="text-sm text-gray-500">
-            <i class="fa-solid fa-info-circle mr-1"></i>
+            <Info class="w-3.5 h-3.5 inline mr-1" aria-hidden="true" />
             {{ __("We'll respond to:") }} <strong class="text-gray-700">{{ userEmail }}</strong>
           </p>
         </div>
@@ -207,9 +208,9 @@ function resetForm() {
           <button
             type="submit"
             :disabled="!isFormValid || isSubmitting"
-            class="w-full flex items-center justify-center gap-2 px-4 py-3 bg-orga-500 text-white rounded-lg hover:bg-orga-600 disabled:opacity-50 disabled:cursor-not-allowed"
+            class="w-full flex items-center justify-center gap-2 px-4 py-3 bg-accent-500 text-white rounded-lg hover:bg-accent-600 disabled:opacity-50 disabled:cursor-not-allowed"
           >
-            <i :class="['fa-solid', isSubmitting ? 'fa-spinner fa-spin' : 'fa-paper-plane']"></i>
+            <Loader2 v-if="isSubmitting" class="w-4 h-4 animate-spin" aria-hidden="true" /><Send v-else class="w-4 h-4" aria-hidden="true" />
             {{ isSubmitting ? __('Submitting...') : __('Submit Request') }}
           </button>
 
@@ -217,7 +218,7 @@ function resetForm() {
             to="/orga/portal"
             class="block w-full text-center px-4 py-2 text-gray-600 border border-gray-200 rounded-lg hover:bg-gray-50 no-underline"
           >
-            <i class="fa-solid fa-arrow-left mr-2"></i>
+            <ArrowLeft class="w-4 h-4 inline mr-2" aria-hidden="true" />
             {{ __('Back to Portal') }}
           </router-link>
         </div>
@@ -227,9 +228,9 @@ function resetForm() {
     <!-- Contact Info Footer -->
     <div class="text-center mt-8">
       <p class="text-gray-500 text-sm mb-1">
-        <i class="fa-solid fa-envelope mr-1"></i>
+        <Mail class="w-3.5 h-3.5 inline mr-1" aria-hidden="true" />
         {{ __('Or email us directly at') }}
-        <a href="mailto:support@orga.localhost" class="text-orga-500 hover:underline">
+        <a href="mailto:support@orga.localhost" class="text-accent-500 hover:underline">
           support@orga.localhost
         </a>
       </p>

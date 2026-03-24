@@ -9,6 +9,8 @@ import { useReportsApi, useProjectApi } from '../composables/useApi'
 import { useCurrency } from '../composables/useCurrency'
 import { useTheme } from '../composables/useTheme'
 import { __ } from '@/composables/useTranslate'
+import { Loader2, TriangleAlert, BarChart3, ArrowUp, ArrowDown, ArrowUpDown } from 'lucide-vue-next'
+import OrgaIcon from '@/components/common/OrgaIcon.vue'
 import type {
   OrgaProject,
   ProjectSummaryReport,
@@ -37,11 +39,11 @@ interface TabDef {
 }
 
 const tabs = computed<TabDef[]>(() => [
-  { key: 'project-summary', label: __('Projects'), icon: 'fa-solid fa-folder-open' },
-  { key: 'resource-utilization', label: __('Utilization'), icon: 'fa-solid fa-users' },
-  { key: 'task-completion', label: __('Tasks'), icon: 'fa-solid fa-check-circle' },
+  { key: 'project-summary', label: __('Projects'), icon: 'folder-open' },
+  { key: 'resource-utilization', label: __('Utilization'), icon: 'users' },
+  { key: 'task-completion', label: __('Tasks'), icon: 'circle-check' },
   { key: 'budget', label: __('Budget'), icon: currencyIcon.value },
-  { key: 'milestones', label: __('Milestones'), icon: 'fa-solid fa-flag' }
+  { key: 'milestones', label: __('Milestones'), icon: 'flag' }
 ])
 
 const activeTab = ref('project-summary')
@@ -537,9 +539,9 @@ function toggleSort(col: string): void {
   }
 }
 
-function sortIcon(col: string): string {
-  if (sortColumn.value !== col) return 'fa-sort'
-  return sortAsc.value ? 'fa-sort-up' : 'fa-sort-down'
+function sortIcon(col: string): 'sort' | 'sort-up' | 'sort-down' {
+  if (sortColumn.value !== col) return 'sort'
+  return sortAsc.value ? 'sort-up' : 'sort-down'
 }
 
 function sortedArray<T>(arr: T[], key: string): T[] {
@@ -630,7 +632,7 @@ onMounted(() => {
         <select
           v-if="showProjectFilter"
           v-model="filterProject"
-          class="px-3 py-1.5 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm text-gray-900 dark:text-gray-100 focus:outline-none focus:border-orga-500"
+          class="px-3 py-1.5 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm text-gray-900 dark:text-gray-100 focus:outline-none focus:border-accent-500"
         >
           <option value="">{{ __('All Projects') }}</option>
           <option v-for="p in projects" :key="p.name" :value="p.name">{{ p.project_name }}</option>
@@ -640,21 +642,21 @@ onMounted(() => {
           v-if="showDateFilters"
           v-model="filterDateFrom"
           type="date"
-          class="px-3 py-1.5 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm text-gray-900 dark:text-gray-100 focus:outline-none focus:border-orga-500"
+          class="px-3 py-1.5 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm text-gray-900 dark:text-gray-100 focus:outline-none focus:border-accent-500"
           :placeholder="__('From')"
         />
         <input
           v-if="showDateFilters"
           v-model="filterDateTo"
           type="date"
-          class="px-3 py-1.5 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm text-gray-900 dark:text-gray-100 focus:outline-none focus:border-orga-500"
+          class="px-3 py-1.5 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm text-gray-900 dark:text-gray-100 focus:outline-none focus:border-accent-500"
           :placeholder="__('To')"
         />
 
         <select
           v-if="showDaysAhead"
           v-model.number="filterDaysAhead"
-          class="px-3 py-1.5 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm text-gray-900 dark:text-gray-100 focus:outline-none focus:border-orga-500"
+          class="px-3 py-1.5 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm text-gray-900 dark:text-gray-100 focus:outline-none focus:border-accent-500"
         >
           <option :value="7">{{ __('Next 7 days') }}</option>
           <option :value="14">{{ __('Next 14 days') }}</option>
@@ -674,28 +676,28 @@ onMounted(() => {
         :class="[
           'flex items-center gap-2 px-4 py-2.5 text-sm font-medium whitespace-nowrap transition-colors border-b-2 -mb-px',
           activeTab === tab.key
-            ? 'border-orga-500 text-orga-600 dark:text-orga-400'
+            ? 'border-accent-500 text-accent-600 dark:text-accent-400'
             : 'border-transparent text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-300 hover:border-gray-300 dark:hover:border-gray-500'
         ]"
       >
-        <i :class="[tab.icon, 'text-xs']"></i>
+        <OrgaIcon :name="tab.icon" class="w-3.5 h-3.5" />
         {{ tab.label }}
       </button>
     </div>
 
     <!-- Loading State -->
     <div v-if="loadingTab" class="py-16 text-center">
-      <i class="fa-solid fa-spinner fa-spin text-gray-400 text-2xl"></i>
+      <Loader2 class="w-6 h-6 text-gray-400 animate-spin" aria-hidden="true" />
       <p class="text-sm text-gray-400 mt-3 m-0">{{ __('Loading report data...') }}</p>
     </div>
 
     <!-- Error State -->
     <div v-else-if="errorMessage" class="py-16 text-center">
-      <i class="fa-solid fa-triangle-exclamation text-red-400 text-2xl"></i>
+      <TriangleAlert class="w-6 h-6 text-red-400" aria-hidden="true" />
       <p class="text-sm text-red-500 dark:text-red-400 mt-3 m-0">{{ errorMessage }}</p>
       <button
         @click="loadActiveTab(true)"
-        class="mt-3 px-4 py-1.5 bg-orga-500 text-white text-sm rounded hover:bg-orga-600 transition-colors"
+        class="mt-3 px-4 py-1.5 bg-accent-500 text-white text-sm rounded hover:bg-accent-600 transition-colors"
       >
         {{ __('Retry') }}
       </button>
@@ -703,7 +705,7 @@ onMounted(() => {
 
     <!-- Empty State -->
     <div v-else-if="!hasData" class="py-16 text-center">
-      <i class="fa-regular fa-chart-bar text-3xl text-gray-300 dark:text-gray-600 mb-3"></i>
+      <BarChart3 class="w-8 h-8 text-gray-300 dark:text-gray-600 mb-3 mx-auto" aria-hidden="true" />
       <p class="text-gray-500 dark:text-gray-400 m-0">{{ __('No data available for the selected filters') }}</p>
       <p class="text-xs text-gray-400 dark:text-gray-500 mt-1 m-0">{{ __('Try adjusting your filter criteria') }}</p>
     </div>
@@ -747,22 +749,22 @@ onMounted(() => {
             <thead>
               <tr class="bg-gray-50 dark:bg-gray-700/50 border-b border-gray-200 dark:border-gray-700">
                 <th class="px-4 py-3 text-left font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100" @click="toggleSort('project_name')">
-                  {{ __('Name') }} <i :class="['fa-solid text-xs ml-1', sortIcon('project_name')]"></i>
+                  {{ __('Name') }} <ArrowUp v-if="sortIcon('project_name') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('project_name') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-left font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100" @click="toggleSort('status')">
-                  {{ __('Status') }} <i :class="['fa-solid text-xs ml-1', sortIcon('status')]"></i>
+                  {{ __('Status') }} <ArrowUp v-if="sortIcon('status') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('status') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-left font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100" @click="toggleSort('health_status')">
-                  {{ __('Health') }} <i :class="['fa-solid text-xs ml-1', sortIcon('health_status')]"></i>
+                  {{ __('Health') }} <ArrowUp v-if="sortIcon('health_status') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('health_status') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-right font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100" @click="toggleSort('progress')">
-                  {{ __('Progress') }} <i :class="['fa-solid text-xs ml-1', sortIcon('progress')]"></i>
+                  {{ __('Progress') }} <ArrowUp v-if="sortIcon('progress') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('progress') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-right font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100 hidden md:table-cell" @click="toggleSort('budget')">
-                  {{ __('Budget') }} <i :class="['fa-solid text-xs ml-1', sortIcon('budget')]"></i>
+                  {{ __('Budget') }} <ArrowUp v-if="sortIcon('budget') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('budget') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-right font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100 hidden md:table-cell" @click="toggleSort('spent')">
-                  {{ __('Spent') }} <i :class="['fa-solid text-xs ml-1', sortIcon('spent')]"></i>
+                  {{ __('Spent') }} <ArrowUp v-if="sortIcon('spent') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('spent') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
               </tr>
             </thead>
@@ -785,7 +787,7 @@ onMounted(() => {
                 <td class="px-4 py-3 text-right text-gray-700 dark:text-gray-300">
                   <div class="flex items-center justify-end gap-2">
                     <div class="w-16 h-1.5 bg-gray-200 dark:bg-gray-600 rounded-full overflow-hidden">
-                      <div class="h-full bg-orga-500 rounded-full" :style="{ width: `${Math.min(proj.progress || 0, 100)}%` }"></div>
+                      <div class="h-full bg-accent-500 rounded-full" :style="{ width: `${Math.min(proj.progress || 0, 100)}%` }"></div>
                     </div>
                     <span class="text-xs">{{ formatPercent(proj.progress) }}</span>
                   </div>
@@ -838,22 +840,22 @@ onMounted(() => {
             <thead>
               <tr class="bg-gray-50 dark:bg-gray-700/50 border-b border-gray-200 dark:border-gray-700">
                 <th class="px-4 py-3 text-left font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100" @click="toggleSort('resource_name')">
-                  {{ __('Name') }} <i :class="['fa-solid text-xs ml-1', sortIcon('resource_name')]"></i>
+                  {{ __('Name') }} <ArrowUp v-if="sortIcon('resource_name') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('resource_name') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-left font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100 hidden md:table-cell" @click="toggleSort('department')">
-                  {{ __('Department') }} <i :class="['fa-solid text-xs ml-1', sortIcon('department')]"></i>
+                  {{ __('Department') }} <ArrowUp v-if="sortIcon('department') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('department') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-right font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100" @click="toggleSort('weekly_capacity')">
-                  {{ __('Capacity') }} <i :class="['fa-solid text-xs ml-1', sortIcon('weekly_capacity')]"></i>
+                  {{ __('Capacity') }} <ArrowUp v-if="sortIcon('weekly_capacity') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('weekly_capacity') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-right font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100" @click="toggleSort('allocated_hours')">
-                  {{ __('Allocated') }} <i :class="['fa-solid text-xs ml-1', sortIcon('allocated_hours')]"></i>
+                  {{ __('Allocated') }} <ArrowUp v-if="sortIcon('allocated_hours') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('allocated_hours') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-right font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100" @click="toggleSort('utilization_percent')">
-                  {{ __('Utilization') }} <i :class="['fa-solid text-xs ml-1', sortIcon('utilization_percent')]"></i>
+                  {{ __('Utilization') }} <ArrowUp v-if="sortIcon('utilization_percent') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('utilization_percent') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-left font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100" @click="toggleSort('status')">
-                  {{ __('Status') }} <i :class="['fa-solid text-xs ml-1', sortIcon('status')]"></i>
+                  {{ __('Status') }} <ArrowUp v-if="sortIcon('status') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('status') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
               </tr>
             </thead>
@@ -928,19 +930,19 @@ onMounted(() => {
             <thead>
               <tr class="bg-gray-50 dark:bg-gray-700/50 border-b border-gray-200 dark:border-gray-700">
                 <th class="px-4 py-3 text-left font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100" @click="toggleSort('subject')">
-                  {{ __('Task') }} <i :class="['fa-solid text-xs ml-1', sortIcon('subject')]"></i>
+                  {{ __('Task') }} <ArrowUp v-if="sortIcon('subject') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('subject') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-left font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100 hidden md:table-cell" @click="toggleSort('project')">
-                  {{ __('Project') }} <i :class="['fa-solid text-xs ml-1', sortIcon('project')]"></i>
+                  {{ __('Project') }} <ArrowUp v-if="sortIcon('project') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('project') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-left font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100" @click="toggleSort('priority')">
-                  {{ __('Priority') }} <i :class="['fa-solid text-xs ml-1', sortIcon('priority')]"></i>
+                  {{ __('Priority') }} <ArrowUp v-if="sortIcon('priority') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('priority') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-right font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100 hidden md:table-cell" @click="toggleSort('estimated_hours')">
-                  {{ __('Est. Hours') }} <i :class="['fa-solid text-xs ml-1', sortIcon('estimated_hours')]"></i>
+                  {{ __('Est. Hours') }} <ArrowUp v-if="sortIcon('estimated_hours') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('estimated_hours') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-right font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100 hidden md:table-cell" @click="toggleSort('actual_hours')">
-                  {{ __('Actual Hours') }} <i :class="['fa-solid text-xs ml-1', sortIcon('actual_hours')]"></i>
+                  {{ __('Actual Hours') }} <ArrowUp v-if="sortIcon('actual_hours') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('actual_hours') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
               </tr>
             </thead>
@@ -1003,25 +1005,25 @@ onMounted(() => {
             <thead>
               <tr class="bg-gray-50 dark:bg-gray-700/50 border-b border-gray-200 dark:border-gray-700">
                 <th class="px-4 py-3 text-left font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100" @click="toggleSort('project_name')">
-                  {{ __('Project') }} <i :class="['fa-solid text-xs ml-1', sortIcon('project_name')]"></i>
+                  {{ __('Project') }} <ArrowUp v-if="sortIcon('project_name') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('project_name') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-left font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100" @click="toggleSort('status')">
-                  {{ __('Status') }} <i :class="['fa-solid text-xs ml-1', sortIcon('status')]"></i>
+                  {{ __('Status') }} <ArrowUp v-if="sortIcon('status') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('status') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-right font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100" @click="toggleSort('budget')">
-                  {{ __('Budget') }} <i :class="['fa-solid text-xs ml-1', sortIcon('budget')]"></i>
+                  {{ __('Budget') }} <ArrowUp v-if="sortIcon('budget') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('budget') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-right font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100" @click="toggleSort('spent')">
-                  {{ __('Spent') }} <i :class="['fa-solid text-xs ml-1', sortIcon('spent')]"></i>
+                  {{ __('Spent') }} <ArrowUp v-if="sortIcon('spent') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('spent') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-right font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100 hidden md:table-cell" @click="toggleSort('remaining')">
-                  {{ __('Remaining') }} <i :class="['fa-solid text-xs ml-1', sortIcon('remaining')]"></i>
+                  {{ __('Remaining') }} <ArrowUp v-if="sortIcon('remaining') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('remaining') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-right font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100 hidden md:table-cell" @click="toggleSort('utilization_percent')">
-                  {{ __('Utilization') }} <i :class="['fa-solid text-xs ml-1', sortIcon('utilization_percent')]"></i>
+                  {{ __('Utilization') }} <ArrowUp v-if="sortIcon('utilization_percent') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('utilization_percent') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-left font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100" @click="toggleSort('budget_status')">
-                  {{ __('Budget Status') }} <i :class="['fa-solid text-xs ml-1', sortIcon('budget_status')]"></i>
+                  {{ __('Budget Status') }} <ArrowUp v-if="sortIcon('budget_status') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('budget_status') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
               </tr>
             </thead>
@@ -1087,16 +1089,16 @@ onMounted(() => {
             <thead>
               <tr class="bg-gray-50 dark:bg-gray-700/50 border-b border-gray-200 dark:border-gray-700">
                 <th class="px-4 py-3 text-left font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100" @click="toggleSort('milestone_name')">
-                  {{ __('Name') }} <i :class="['fa-solid text-xs ml-1', sortIcon('milestone_name')]"></i>
+                  {{ __('Name') }} <ArrowUp v-if="sortIcon('milestone_name') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('milestone_name') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-left font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100 hidden md:table-cell" @click="toggleSort('project')">
-                  {{ __('Project') }} <i :class="['fa-solid text-xs ml-1', sortIcon('project')]"></i>
+                  {{ __('Project') }} <ArrowUp v-if="sortIcon('project') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('project') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-left font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100" @click="toggleSort('status')">
-                  {{ __('Status') }} <i :class="['fa-solid text-xs ml-1', sortIcon('status')]"></i>
+                  {{ __('Status') }} <ArrowUp v-if="sortIcon('status') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('status') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-left font-medium text-gray-600 dark:text-gray-300 cursor-pointer hover:text-gray-800 dark:hover:text-gray-100" @click="toggleSort('due_date')">
-                  {{ __('Due Date') }} <i :class="['fa-solid text-xs ml-1', sortIcon('due_date')]"></i>
+                  {{ __('Due Date') }} <ArrowUp v-if="sortIcon('due_date') === 'sort-up'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowDown v-else-if="sortIcon('due_date') === 'sort-down'" class="w-3 h-3 ml-1 inline" aria-hidden="true" /><ArrowUpDown v-else class="w-3 h-3 ml-1 inline opacity-40" aria-hidden="true" />
                 </th>
                 <th class="px-4 py-3 text-right font-medium text-gray-600 dark:text-gray-300">
                   {{ __('Timeline') }}

@@ -13,6 +13,7 @@
  */
 
 import { computed } from 'vue'
+import { TriangleAlert, AlertCircle } from 'lucide-vue-next'
 import { useCurrency } from '@/composables/useCurrency'
 
 interface Props {
@@ -100,11 +101,11 @@ const barHeight = computed<string>(() => {
 
     <!-- Warning indicator -->
     <div v-if="burnRate > 95" class="mt-2 flex items-center gap-1 text-xs text-red-600">
-      <i class="fa-solid fa-exclamation-triangle"></i>
+      <TriangleAlert class="w-3 h-3 shrink-0" aria-hidden="true" />
       <span>{{ __('Budget at risk') }}</span>
     </div>
     <div v-else-if="burnRate > 80" class="mt-2 flex items-center gap-1 text-xs text-yellow-600">
-      <i class="fa-solid fa-exclamation-circle"></i>
+      <AlertCircle class="w-3 h-3 shrink-0" aria-hidden="true" />
       <span>{{ __('Watch budget closely') }}</span>
     </div>
   </div>

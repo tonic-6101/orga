@@ -18,6 +18,7 @@ import { useRouter } from 'vue-router'
 import { useTaskApi, useAssignmentApi } from '@/composables/useApi'
 import { useToast } from '@/composables/useToast'
 import { __ } from '@/composables/useTranslate'
+import { SlidersHorizontal, X, Network, TrendingUp, TriangleAlert, Loader2, Trash2 } from 'lucide-vue-next'
 import type {
   OrgaTask,
   OrgaProject,
@@ -130,14 +131,14 @@ const isDeleting = ref(false)
 
 // Tab configuration - base tabs for all views
 const baseTabs: ManagerTab[] = [
-  { id: 'details', icon: 'fa-file-alt', label: __('Details') },
-  { id: 'dependencies', icon: 'fa-project-diagram', label: __('Dependencies') },
-  { id: 'time', icon: 'fa-stopwatch', label: __('Time') },
-  { id: 'finance', icon: 'fa-euro-sign', label: __('Finance') },
-  { id: 'checklist', icon: 'fa-list-check', label: __('Checklist') },
-  { id: 'discussion', icon: 'fa-comments', label: __('Discussion') },
-  { id: 'attachments', icon: 'fa-paperclip', label: __('Files') },
-  { id: 'actions', icon: 'fa-bolt', label: __('Actions') }
+  { id: 'details', icon: 'file-alt', label: __('Details') },
+  { id: 'dependencies', icon: 'project-diagram', label: __('Dependencies') },
+  { id: 'time', icon: 'stopwatch', label: __('Time') },
+  { id: 'finance', icon: 'euro-sign', label: __('Finance') },
+  { id: 'checklist', icon: 'list-check', label: __('Checklist') },
+  { id: 'discussion', icon: 'comments', label: __('Discussion') },
+  { id: 'attachments', icon: 'paperclip', label: __('Files') },
+  { id: 'actions', icon: 'bolt', label: __('Actions') }
 ]
 
 const timeTabKey = ref(0)
@@ -154,7 +155,7 @@ const taskTabs = computed<ManagerTab[]>(() => {
   if (props.viewType === 'gantt' && hasDependents.value) {
     return [
       ...baseTabs.slice(0, 2),  // details, dependencies
-      { id: 'cascade', icon: 'fa-sitemap', label: __('Cascade') },
+      { id: 'cascade', icon: 'sitemap', label: __('Cascade') },
       ...baseTabs.slice(2)  // time, financial, checklist, discussion, files, actions
     ]
   }
@@ -497,6 +498,11 @@ function handleAutoTrailChange(value: boolean): void {
   emit('field-update', { field: 'auto_trail_start', value: value ? 1 : 0, task_id: props.task.name })
 }
 
+// Handle project change from TaskDetailsTab
+function handleProjectChange(value: string | null): void {
+  emit('field-update', { field: 'project', value: value || '', task_id: props.task.name })
+}
+
 // Handle contact assignment from TaskDetailsTab
 async function handleAssignContact(contactName: string | null): Promise<void> {
   const oldAssigned = (props.task as Record<string, unknown>).assigned_to
@@ -755,7 +761,7 @@ watch(() => props.task?.name, (newVal) => {
     <!-- Header -->
     <div class="p-4 border-b border-gray-200 dark:border-gray-700 flex items-center justify-between shrink-0">
       <h3 class="font-semibold text-gray-800 dark:text-gray-100 m-0 flex items-center gap-2">
-        <i class="fa-solid fa-sliders text-orga-500"></i>
+        <SlidersHorizontal class="w-4 h-4 text-accent-500" aria-hidden="true" />
         <span>{{ __('Manager') }}</span>
       </h3>
       <button
@@ -763,7 +769,7 @@ watch(() => props.task?.name, (newVal) => {
         class="p-1.5 text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
         :title="__('Close')"
       >
-        <i class="fa-solid fa-xmark"></i>
+        <X class="w-4 h-4" aria-hidden="true" />
       </button>
     </div>
 
@@ -793,6 +799,7 @@ watch(() => props.task?.name, (newVal) => {
           @task-type-change="handleTaskTypeChange"
           @depends-on-group-change="handleDependsOnGroupChange"
           @auto-trail-change="handleAutoTrailChange"
+          @project-change="handleProjectChange"
         />
       </template>
 
@@ -838,7 +845,7 @@ watch(() => props.task?.name, (newVal) => {
             @cancel="handleCascadeCancel"
           />
           <div v-else class="text-center py-8 text-gray-400">
-            <i class="fa-solid fa-sitemap text-3xl mb-3 opacity-50"></i>
+            <Network class="w-8 h-8 mb-3 opacity-50 mx-auto" aria-hidden="true" />
             <p class="text-sm">{{ __('No pending cascade changes') }}</p>
             <p class="text-xs mt-2">{{ __('Date changes on this task will show cascade impact here') }}</p>
           </div>
@@ -859,7 +866,7 @@ watch(() => props.task?.name, (newVal) => {
         <!-- Include BudgetBurnRate for Gantt view with budget -->
         <div v-if="isGanttView && hasBudget && ganttTask" class="p-4 border-b border-gray-200 dark:border-gray-700">
           <h5 class="text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wide mb-3 flex items-center gap-2">
-            <i class="fa-solid fa-chart-line text-orga-500"></i>
+            <TrendingUp class="w-3.5 h-3.5 text-accent-500" aria-hidden="true" />
             {{ __('Budget Burn Rate') }}
           </h5>
           <BudgetBurnRate
@@ -933,7 +940,7 @@ watch(() => props.task?.name, (newVal) => {
         <div class="relative bg-white dark:bg-gray-900 rounded-xl shadow-2xl w-full max-w-sm border border-gray-200 dark:border-gray-700">
           <div class="flex items-center gap-3 p-5 pb-4 border-b border-red-200 dark:border-red-900/50 bg-red-50 dark:bg-red-950/30 rounded-t-xl">
             <div class="w-10 h-10 rounded-full bg-red-100 dark:bg-red-900/50 flex items-center justify-center flex-shrink-0">
-              <i class="fa-solid fa-triangle-exclamation text-red-600 dark:text-red-400 text-lg"></i>
+              <TriangleAlert class="w-5 h-5 text-red-600 dark:text-red-400" aria-hidden="true" />
             </div>
             <h3 class="text-lg font-semibold text-red-900 dark:text-red-200 m-0">{{ __('Delete Task') }}</h3>
             <button
@@ -941,7 +948,7 @@ watch(() => props.task?.name, (newVal) => {
               :disabled="isDeleting"
               class="ml-auto text-gray-400 dark:text-gray-500 hover:text-gray-600 dark:hover:text-gray-300 transition-colors disabled:opacity-50"
             >
-              <i class="fa-solid fa-xmark text-lg"></i>
+              <X class="w-5 h-5" aria-hidden="true" />
             </button>
           </div>
           <div class="p-5">
@@ -962,8 +969,8 @@ watch(() => props.task?.name, (newVal) => {
               :disabled="isDeleting"
               class="px-4 py-2 text-sm font-medium text-white bg-red-600 rounded-lg hover:bg-red-700 transition-colors flex items-center gap-2 disabled:opacity-75 disabled:cursor-not-allowed"
             >
-              <i v-if="isDeleting" class="fa-solid fa-spinner fa-spin"></i>
-              <i v-else class="fa-solid fa-trash"></i>
+              <Loader2 v-if="isDeleting" class="w-4 h-4 animate-spin" aria-hidden="true" />
+              <Trash2 v-else class="w-4 h-4" aria-hidden="true" />
               {{ isDeleting ? __('Deleting...') : __('Delete') }}
             </button>
           </div>

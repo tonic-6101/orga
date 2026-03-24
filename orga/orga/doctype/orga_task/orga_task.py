@@ -14,12 +14,21 @@ from frappe.utils import getdate, nowdate, now_datetime
 
 class OrgaTask(Document):
     def validate(self):
+        self.clear_project_scoped_fields()
         self.trail_start_date()
         self.validate_dates()
         self.validate_parent_task()
         self.validate_dependencies()
         self.validate_group_dependency()
         self.update_blocked_status()
+
+    def clear_project_scoped_fields(self):
+        """Clear milestone and group dependency when project is removed."""
+        if not self.project:
+            if getattr(self, "milestone", None):
+                self.milestone = None
+            if getattr(self, "depends_on_group", None):
+                self.depends_on_group = None
 
     def trail_start_date(self):
         """If auto-trail is enabled and task is untouched, snap start_date to today."""

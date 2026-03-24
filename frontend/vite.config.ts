@@ -69,7 +69,6 @@ function frappeManifestPlugin(): Plugin {
     <meta name="description" content="Orga - Project Management System" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
     <link rel="icon" type="image/svg+xml" href="/assets/orga/images/orga-icon.svg" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
     <link rel="stylesheet" href="/assets/dock/css/dock-tokens.css">
     <link rel="stylesheet" href="/assets/dock/css/dock-navbar.css">
     <script type="module" crossorigin src="/assets/orga/frontend/assets/${jsFile}"></script>
@@ -83,6 +82,8 @@ function frappeManifestPlugin(): Plugin {
         var isDark = stored === 'dark' ||
           (!stored || stored === 'auto') && window.matchMedia('(prefers-color-scheme: dark)').matches;
         if (isDark) document.documentElement.classList.add('dark');
+        var cm = localStorage.getItem('color-mode');
+        if (cm === 'neutral') document.documentElement.setAttribute('data-color-mode', 'neutral');
       })();
     </script>
     <div id="app" class="h-screen"></div>
@@ -119,16 +120,20 @@ const dockExternalPlugin: Plugin = {
   },
 }
 
-// Vite plugin: share Vue runtime with Dock.
-// Dock ships Vue's ESM browser build at /assets/dock/js/vendor/vue.esm.js.
-// By externalizing `vue` here, Orga uses the SAME Vue instance as Dock's
-// components (DockLayout, DockNavbar), preventing dual-instance crashes.
+// Vite plugin: share Vue + Vue Router runtimes with Dock.
+// Dock ships Vue's ESM browser build at /assets/dock/js/vendor/vue.esm.js
+// and Vue Router at /assets/dock/js/vendor/vue-router.esm.js.
+// By externalizing both, Orga uses the SAME instances as Dock's components
+// (DockLayout, DockSidebarShell), preventing dual-instance injection failures.
 const vueSharedPlugin: Plugin = {
   name: 'vue-shared',
   enforce: 'pre',
   resolveId(id: string) {
     if (id === 'vue' || id === '@vue/runtime-dom' || id === '@vue/runtime-core' || id === '@vue/reactivity') {
       return { id: '/assets/dock/js/vendor/vue.esm.js', external: true }
+    }
+    if (id === 'vue-router') {
+      return { id: '/assets/dock/js/vendor/vue-router.esm.js', external: true }
     }
   },
 }
@@ -166,6 +171,7 @@ function settingsEsmPlugin(): Plugin {
           rollupOptions: {
             external: [
               'vue',
+              'vue-router',
               '@vue/runtime-dom',
               '@vue/runtime-core',
               '@vue/reactivity',
@@ -174,6 +180,7 @@ function settingsEsmPlugin(): Plugin {
             output: {
               paths: {
                 vue: '/assets/dock/js/vendor/vue.esm.js',
+                'vue-router': '/assets/dock/js/vendor/vue-router.esm.js',
               },
             },
           },
@@ -184,8 +191,14 @@ function settingsEsmPlugin(): Plugin {
   }
 }
 
+// Read version from package.json for build-time injection
+const pkg = JSON.parse(fs.readFileSync(path.resolve(__dirname, 'package.json'), 'utf-8'))
+
 export default defineConfig({
   base: '/assets/orga/frontend/',
+  define: {
+    __APP_VERSION__: JSON.stringify(pkg.version),
+  },
   plugins: [
     vueSharedPlugin,
     dockExternalPlugin,

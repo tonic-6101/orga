@@ -8,7 +8,7 @@
   <div class="flex flex-col h-full">
     <!-- Loading State -->
     <div v-if="isLoading" class="text-center py-8">
-      <i class="fa-solid fa-spinner fa-spin text-gray-400 dark:text-gray-500 text-xl"></i>
+      <Loader2 class="w-5 h-5 animate-spin text-gray-400 dark:text-gray-500 mx-auto" aria-hidden="true" />
       <p class="text-sm text-gray-400 dark:text-gray-500 mt-2">{{ __('Loading files...') }}</p>
     </div>
 
@@ -19,11 +19,11 @@
         :key="file.name"
         class="flex items-center gap-2 group px-1 py-1.5 rounded hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors"
       >
-        <i :class="['fa-solid text-sm w-4 text-center', getFileIcon(file)]"></i>
+        <OrgaIcon :name="getFileIconName(file)" :class="['w-3.5 h-3.5', getFileIconColor(file)]" />
         <a
           :href="file.file_url"
           target="_blank"
-          class="text-sm text-gray-700 dark:text-gray-300 hover:text-orga-600 dark:hover:text-orga-400 truncate flex-1 hover:underline"
+          class="text-sm text-gray-700 dark:text-gray-300 hover:text-accent-600 dark:hover:text-accent-400 truncate flex-1 hover:underline"
         >
           {{ file.file_name }}
         </a>
@@ -35,13 +35,13 @@
           class="text-gray-300 dark:text-gray-600 hover:text-red-500 opacity-0 group-hover:opacity-100 transition-opacity shrink-0"
           :title="__('Delete file')"
         >
-          <i class="fa-solid fa-trash-can text-xs"></i>
+          <Trash2 class="w-3 h-3" aria-hidden="true" />
         </button>
       </div>
 
       <!-- Empty State -->
       <div v-if="!attachments.length && !isLoading" class="text-center py-8">
-        <i class="fa-solid fa-paperclip fa-2x text-gray-300 dark:text-gray-600 mb-3 block"></i>
+        <Paperclip class="w-6 h-6 text-gray-300 dark:text-gray-600 mb-3 mx-auto" aria-hidden="true" />
         <p class="text-sm text-gray-400 dark:text-gray-500">{{ __('No files attached yet.') }}</p>
         <p class="text-xs text-gray-300 dark:text-gray-600 mt-1">{{ __('Upload files below to attach them to this task.') }}</p>
       </div>
@@ -52,13 +52,13 @@
       <!-- Upload Progress -->
       <div v-if="isUploading" class="mb-2">
         <div class="flex items-center gap-2 text-xs text-gray-500 dark:text-gray-400 mb-1">
-          <i class="fa-solid fa-spinner fa-spin"></i>
+          <Loader2 class="w-3 h-3 animate-spin" aria-hidden="true" />
           <span>{{ __('Uploading...') }}</span>
           <span v-if="uploadProgress > 0">{{ uploadProgress }}%</span>
         </div>
         <div class="h-1.5 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
           <div
-            class="h-full bg-orga-500 transition-all duration-300"
+            class="h-full bg-accent-500 transition-all duration-300"
             :style="{ width: (uploadProgress || 0) + '%' }"
           ></div>
         </div>
@@ -70,10 +70,10 @@
           'flex items-center justify-center gap-2 px-3 py-2.5 border-2 border-dashed rounded-lg cursor-pointer transition-colors text-sm',
           isUploading
             ? 'border-gray-200 dark:border-gray-700 text-gray-300 dark:text-gray-600 cursor-not-allowed'
-            : 'border-gray-300 dark:border-gray-600 text-gray-500 dark:text-gray-400 hover:border-orga-500 hover:text-orga-500'
+            : 'border-gray-300 dark:border-gray-600 text-gray-500 dark:text-gray-400 hover:border-accent-500 hover:text-accent-500'
         ]"
       >
-        <i class="fa-solid fa-cloud-arrow-up"></i>
+        <CloudUpload class="w-4 h-4" aria-hidden="true" />
         <span>{{ __('Choose file to upload') }}</span>
         <input
           type="file"
@@ -88,6 +88,9 @@
 
 <script setup lang="ts">
 import type { OrgaFileAttachment } from '@/types/orga'
+import { __ } from '@/composables/useTranslate'
+import { Loader2, Trash2, Paperclip, CloudUpload } from 'lucide-vue-next'
+import OrgaIcon from '@/components/common/OrgaIcon.vue'
 
 interface Props {
   attachments: OrgaFileAttachment[]
@@ -112,17 +115,30 @@ function handleFileSelect(event: Event): void {
   }
 }
 
-function getFileIcon(file: OrgaFileAttachment): string {
+function getFileIconName(file: OrgaFileAttachment): string {
   const name = file.file_name || ''
   const type = file.file_type || ''
-  if (type.includes('pdf') || name.endsWith('.pdf')) return 'fa-file-pdf text-red-500'
-  if (type.includes('image') || /\.(png|jpg|jpeg|gif|svg|webp)$/i.test(name)) return 'fa-file-image text-blue-500'
-  if (type.includes('word') || /\.(doc|docx)$/i.test(name)) return 'fa-file-word text-blue-600'
-  if (type.includes('excel') || /\.(xls|xlsx|csv)$/i.test(name)) return 'fa-file-excel text-green-600'
-  if (/\.(dwg|dxf)$/i.test(name)) return 'fa-drafting-compass text-orange-500'
-  if (/\.(zip|rar|7z|tar|gz)$/i.test(name)) return 'fa-file-zipper text-yellow-600'
-  if (type.includes('text') || /\.(txt|md)$/i.test(name)) return 'fa-file-lines text-gray-500'
-  return 'fa-file text-gray-400'
+  if (type.includes('pdf') || name.endsWith('.pdf')) return 'file-pdf'
+  if (type.includes('image') || /\.(png|jpg|jpeg|gif|svg|webp)$/i.test(name)) return 'file-image'
+  if (type.includes('word') || /\.(doc|docx)$/i.test(name)) return 'file-word'
+  if (type.includes('excel') || /\.(xls|xlsx|csv)$/i.test(name)) return 'file-excel'
+  if (/\.(dwg|dxf)$/i.test(name)) return 'compass-drafting'
+  if (/\.(zip|rar|7z|tar|gz)$/i.test(name)) return 'file-zipper'
+  if (type.includes('text') || /\.(txt|md)$/i.test(name)) return 'file-lines'
+  return 'file'
+}
+
+function getFileIconColor(file: OrgaFileAttachment): string {
+  const name = file.file_name || ''
+  const type = file.file_type || ''
+  if (type.includes('pdf') || name.endsWith('.pdf')) return 'text-red-500'
+  if (type.includes('image') || /\.(png|jpg|jpeg|gif|svg|webp)$/i.test(name)) return 'text-blue-500'
+  if (type.includes('word') || /\.(doc|docx)$/i.test(name)) return 'text-blue-600'
+  if (type.includes('excel') || /\.(xls|xlsx|csv)$/i.test(name)) return 'text-green-600'
+  if (/\.(dwg|dxf)$/i.test(name)) return 'text-orange-500'
+  if (/\.(zip|rar|7z|tar|gz)$/i.test(name)) return 'text-yellow-600'
+  if (type.includes('text') || /\.(txt|md)$/i.test(name)) return 'text-gray-500'
+  return 'text-gray-400'
 }
 
 function formatFileSize(bytes: number | null | undefined): string {

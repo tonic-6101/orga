@@ -33,12 +33,12 @@ import PortalHeader from '@/components/layout/PortalHeader.vue'
           href="https://github.com/tonic-6101/orga"
           target="_blank"
           rel="noopener noreferrer"
-          class="text-orga-500 hover:underline"
+          class="text-accent-500 hover:underline"
         >
           Orga
         </a>
         &middot;
-        <router-link to="/orga/portal/support" class="text-gray-500 hover:text-orga-500 no-underline">
+        <router-link to="/orga/portal/support" class="text-gray-500 hover:text-accent-500 no-underline">
           {{ __('Need help?') }}
         </router-link>
       </p>

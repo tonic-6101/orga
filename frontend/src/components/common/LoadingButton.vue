@@ -9,6 +9,8 @@
 -->
 <script setup lang="ts">
 import { computed } from 'vue'
+import { Loader2 } from 'lucide-vue-next'
+import OrgaIcon from './OrgaIcon.vue'
 import { __ } from '@/composables/useTranslate'
 
 interface Props {
@@ -26,7 +28,7 @@ interface Props {
   type?: 'button' | 'submit' | 'reset'
   /** Full width button */
   fullWidth?: boolean
-  /** Icon class (Font Awesome) to show before text */
+  /** Lucide icon name to show before text */
   icon?: string
 }
 
@@ -53,10 +55,10 @@ const handleClick = (event: MouseEvent) => {
 const variantClasses = computed(() => {
   const variants = {
     primary: [
-      'bg-orga-500 text-white',
-      'hover:bg-orga-600',
-      'focus:ring-orga-500',
-      'disabled:bg-orga-300'
+      'bg-accent-500 text-white',
+      'hover:bg-accent-600',
+      'focus:ring-accent-500',
+      'disabled:bg-accent-300'
     ],
     secondary: [
       'bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300',
@@ -112,18 +114,19 @@ const isDisabled = computed(() => props.loading || props.disabled)
     @click="handleClick"
   >
     <!-- Loading spinner -->
-    <i
+    <Loader2
       v-if="loading"
-      class="fa-solid fa-spinner fa-spin"
+      class="w-4 h-4 animate-spin"
       aria-hidden="true"
-    ></i>
+    />
 
     <!-- Icon (when not loading) -->
-    <i
+    <OrgaIcon
       v-else-if="icon"
-      :class="['fa-solid', icon]"
+      :name="icon"
+      class="w-4 h-4"
       aria-hidden="true"
-    ></i>
+    />
 
     <!-- Button text -->
     <span>
