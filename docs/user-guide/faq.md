@@ -9,7 +9,7 @@ Orga is a project management module for Frappe that helps teams organize project
 No. Orga is a standalone Frappe app and works with any Frappe installation. ERPNext is not required.
 
 ### What Frappe version is required?
-Orga requires Frappe v15 or later.
+Orga requires Frappe v16 or later.
 
 ## Projects
 

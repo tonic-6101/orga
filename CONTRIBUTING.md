@@ -12,8 +12,8 @@ Be respectful and constructive. We're building something useful together.
 
 - [Frappe Manager](https://github.com/rtCamp/Frappe-Manager) (Docker-based development environment)
 - Frappe Framework v15+
-- Python 3.10+
-- Node.js 18+
+- Python 3.14+
+- Node.js 24+
 - MariaDB 10.6+
 
 ### Development Setup

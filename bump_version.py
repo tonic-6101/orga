@@ -4,6 +4,8 @@
 
 """
 Version bump script — updates all version references in a single command.
+Also audits platform requirements (Frappe, Python, Node, MariaDB) across
+all docs and code to catch stale references after a platform migration.
 
 Usage:
     python3 bump_version.py 0.4.0          # explicit version
@@ -12,6 +14,8 @@ Usage:
     python3 bump_version.py major          # 0.3.0 → 1.0.0
     python3 bump_version.py --from-changelog
     python3 bump_version.py 0.4.0 --dry-run
+    python3 bump_version.py --check-platform          # audit only
+    python3 bump_version.py 0.4.0 --check-platform    # bump + audit
 """
 
 import argparse
@@ -84,6 +88,64 @@ def update_file(path: Path, pattern: str, replacement: str, label: str, dry_run:
     return True
 
 
+def read_platform() -> dict[str, str]:
+    """Read canonical platform requirements from platform.json."""
+    platform_file = ROOT / "platform.json"
+    if not platform_file.exists():
+        return {}
+    return json.loads(platform_file.read_text())
+
+
+# Patterns that match stale platform references in docs/code.
+# Each entry: (key in platform.json, regex that captures the version part, description)
+PLATFORM_PATTERNS: list[tuple[str, str, str]] = [
+    ("frappe", r"[Ff]rappe[\s_-]*v(\d+)", "Frappe version"),
+    ("frappe", r"frappe-v(\d+)\+", "Frappe badge"),
+    ("python", r"Python\s+(\d+\.\d+)", "Python version"),
+    ("node", r"Node(?:\.?js)?\s+(\d+)", "Node version"),
+    ("mariadb", r"MariaDB\s+(\d+\.\d+)", "MariaDB version"),
+]
+
+
+def audit_platform(dry_run: bool = True) -> int:
+    """Scan all .md files and README for stale platform references.
+
+    Returns the number of stale references found.
+    """
+    platform = read_platform()
+    if not platform:
+        print("  SKIP  platform audit (no platform.json)")
+        return 0
+
+    stale_count = 0
+    scan_globs = ["*.md", "docs/*.md", "docs/**/*.md"]
+    files: set[Path] = set()
+    for g in scan_globs:
+        files.update(ROOT.glob(g))
+
+    for fpath in sorted(files):
+        content = fpath.read_text()
+        rel = fpath.relative_to(ROOT)
+        for key, pattern, desc in PLATFORM_PATTERNS:
+            expected = platform.get(key)
+            if not expected:
+                continue
+            for m in re.finditer(pattern, content):
+                found = m.group(1)
+                if found != expected:
+                    stale_count += 1
+                    action = "WOULD FIX" if dry_run else "FIX"
+                    print(f"  {action}  {rel}: {desc} {found} → {expected}")
+                    if not dry_run:
+                        content = content[:m.start(1)] + expected + content[m.end(1):]
+        if not dry_run:
+            fpath.write_text(content)
+
+    if stale_count == 0:
+        print("  OK    All platform references match platform.json")
+    return stale_count
+
+
 def update_json(path: Path, key: str, version: str, label: str, dry_run: bool) -> bool:
     if not path.exists():
         print(f"  SKIP  {label} (not found)")
@@ -105,9 +167,17 @@ def main():
                         help="New version (e.g. 0.4.0) or level (patch/minor/major)")
     parser.add_argument("--from-changelog", action="store_true",
                         help="Read version from latest CHANGELOG.md entry")
+    parser.add_argument("--check-platform", action="store_true",
+                        help="Audit docs for stale platform requirements (from platform.json)")
     parser.add_argument("--dry-run", action="store_true",
                         help="Show what would change without writing")
     args = parser.parse_args()
+
+    # Platform-only audit (no version bump needed)
+    if args.check_platform and not args.version and not args.from_changelog:
+        print("\nPlatform requirements audit\n")
+        stale = audit_platform(dry_run=args.dry_run)
+        sys.exit(1 if stale and args.dry_run else 0)
 
     app_name = detect_app_name()
     current = read_current_version()
@@ -193,6 +263,11 @@ def main():
     ok = sum(1 for r in results if r)
     total = len(results)
     print(f"\n{'[dry-run] ' if args.dry_run else ''}Updated {ok}/{total} targets to {new_version}")
+
+    # Always audit platform requirements during a bump
+    if read_platform():
+        print("\nPlatform requirements audit\n")
+        audit_platform(dry_run=args.dry_run)
 
     if not args.dry_run:
         print(f"\n  git add -p && git commit -m 'chore: bump version to {new_version}'")
