@@ -3,7 +3,7 @@
 **Project Management for Frappe Framework**
 
 [![Version](https://img.shields.io/badge/version-0.15.1-blue.svg)](https://github.com/tonic-6101/orga/releases)
-[![Frappe](https://img.shields.io/badge/frappe-v15+-green.svg)](https://frappeframework.com)
+[![Frappe](https://img.shields.io/badge/frappe-v16+-green.svg)](https://frappeframework.com)
 [![License](https://img.shields.io/badge/license-AGPL--3.0-orange.svg)](LICENSE)
 
 Orga is a comprehensive project management application built on Frappe Framework. Designed for teams who need powerful project tracking without leaving their Frappe ecosystem, Orga offers everything from simple task management to team coordination.
@@ -134,8 +134,8 @@ Connect Orga to external systems and other Frappe applications.
 ### Prerequisites
 
 - Frappe Framework v15 or higher
-- Python 3.10+
-- Node.js 18+
+- Python 3.14+
+- Node.js 24+
 - MariaDB 10.6+
 
 ### Install via Bench
@@ -181,7 +181,7 @@ After installation, access Orga at: `https://your-site.localhost/orga`
 
 ## Technology Stack
 
-- **Backend**: Frappe Framework, Python 3.10+
+- **Backend**: Frappe Framework, Python 3.14+
 - **Frontend**: Vue 3, TypeScript, Tailwind CSS
 - **UI Components**: FrappeUI
 - **Database**: MariaDB
