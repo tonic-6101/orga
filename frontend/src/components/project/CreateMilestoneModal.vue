@@ -6,6 +6,7 @@
 -->
 <script setup lang="ts">
 import { ref, computed, watch } from 'vue'
+import { X, Loader2 } from 'lucide-vue-next'
 import { useMilestoneApi } from '@/composables/useApi'
 import { useToast } from '@/composables/useToast'
 import { __ } from '@/composables/useTranslate'
@@ -154,7 +155,7 @@ watch(() => props.isOpen, (open) => {
             @click="handleClose"
             class="p-1 text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 rounded"
           >
-            <i class="fa-solid fa-xmark text-xl"></i>
+            <X class="w-5 h-5" aria-hidden="true" />
           </button>
         </div>
 
@@ -188,7 +189,7 @@ watch(() => props.isOpen, (open) => {
                     ? 'border-red-500 focus:ring-red-500/20 focus:border-red-500'
                     : isValid
                     ? 'border-green-500 focus:ring-green-500/20 focus:border-green-500'
-                    : 'border-gray-300 dark:border-gray-600 focus:ring-orga-500/20 focus:border-orga-500'
+                    : 'border-gray-300 dark:border-gray-600 focus:ring-accent-500/20 focus:border-accent-500'
                 ]"
               />
             </template>
@@ -205,7 +206,7 @@ watch(() => props.isOpen, (open) => {
                 v-model="formData.description"
                 rows="3"
                 :placeholder="__('Add details about this milestone...')"
-                class="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg text-sm bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-100 focus:outline-none focus:ring-2 focus:ring-orga-500/20 focus:border-orga-500 transition-colors"
+                class="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg text-sm bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-100 focus:outline-none focus:ring-2 focus:ring-accent-500/20 focus:border-accent-500 transition-colors"
               ></textarea>
             </template>
           </FormField>
@@ -259,9 +260,9 @@ watch(() => props.isOpen, (open) => {
             type="submit"
             @click="handleSubmit"
             :disabled="isSubmitting || !isValid"
-            class="px-4 py-2 text-sm font-medium text-white bg-orga-500 rounded-lg hover:bg-orga-600 disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
+            class="px-4 py-2 text-sm font-medium text-white bg-accent-500 rounded-lg hover:bg-accent-600 disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
           >
-            <i v-if="isSubmitting" class="fa-solid fa-spinner fa-spin"></i>
+            <Loader2 v-if="isSubmitting" class="w-4 h-4 animate-spin" aria-hidden="true" />
             {{ isSubmitting ? __('Creating...') : __('Create Milestone') }}
           </button>
         </div>

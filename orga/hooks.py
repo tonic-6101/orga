@@ -222,6 +222,15 @@ dock_calendar_sources = {
 
 dock_backfill_calendar = "orga.orga.integrations.dock_calendar.backfill_dock_events"
 
+dock_note_actions = [
+    {
+        "action": "convert_to_task",
+        "label": "Convert to Task",
+        "icon": "check-square",
+        "handler": "orga.orga.integrations.dock_notes.convert_to_task",
+    },
+]
+
 dock_people_context = "orga.orga.integrations.dock_people.get_people_context"
 
 dock_calendar_context = "orga.orga.integrations.dock_calendar_context.get_calendar_context"

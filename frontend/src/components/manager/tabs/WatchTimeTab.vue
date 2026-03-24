@@ -11,6 +11,7 @@ import { ref, computed, onMounted, watch } from 'vue'
 import { frappeRequest } from 'frappe-ui'
 import { __ } from '@/composables/useTranslate'
 import type { OrgaTask } from '@/types/orga'
+import { Timer as TimerIcon, ExternalLink, Loader2, Circle } from 'lucide-vue-next'
 
 interface WatchEntry {
   name: string
@@ -91,7 +92,7 @@ onMounted(() => loadEntries())
   <div class="p-4">
     <!-- Watch not installed -->
     <div v-if="!watchInstalled" class="text-center py-8">
-      <i class="fa-solid fa-stopwatch text-3xl text-gray-300 dark:text-gray-600 mb-3"></i>
+      <TimerIcon class="w-8 h-8 text-gray-300 dark:text-gray-600 mb-3 mx-auto" aria-hidden="true" />
       <p class="text-sm text-gray-500 dark:text-gray-400">{{ __('Time tracking requires Watch') }}</p>
       <p class="text-xs text-gray-400 dark:text-gray-500 mt-1">{{ __('Install the Watch app to track time on tasks') }}</p>
     </div>
@@ -101,7 +102,7 @@ onMounted(() => loadEntries())
       <!-- Summary -->
       <div class="flex items-center justify-between mb-4">
         <div class="flex items-center gap-2">
-          <i class="fa-solid fa-stopwatch text-orga-500"></i>
+          <TimerIcon class="w-4 h-4 text-accent-500" aria-hidden="true" />
           <span class="text-sm font-semibold text-gray-700 dark:text-gray-300">
             {{ formatHours(totalHours) }}
           </span>
@@ -112,10 +113,10 @@ onMounted(() => loadEntries())
         <a
           href="/watch"
           target="_blank"
-          class="text-xs text-orga-500 hover:text-orga-600 dark:text-orga-400 dark:hover:text-orga-300 no-underline"
+          class="text-xs text-accent-500 hover:text-accent-600 dark:text-accent-400 dark:hover:text-accent-300 no-underline"
         >
           {{ __('Open Watch') }}
-          <i class="fa-solid fa-arrow-up-right-from-square text-[10px] ml-0.5"></i>
+          <ExternalLink class="w-2.5 h-2.5 inline ml-0.5" aria-hidden="true" />
         </a>
       </div>
 
@@ -124,7 +125,7 @@ onMounted(() => loadEntries())
         <div class="w-full h-1.5 bg-gray-200 dark:bg-gray-700 rounded-full overflow-hidden">
           <div
             class="h-full rounded-full transition-all duration-300"
-            :class="totalHours > (props.task.estimated_hours || 0) ? 'bg-red-500' : 'bg-orga-500'"
+            :class="totalHours > (props.task.estimated_hours || 0) ? 'bg-red-500' : 'bg-accent-500'"
             :style="{ width: Math.min((totalHours / (props.task.estimated_hours || 1)) * 100, 100) + '%' }"
           ></div>
         </div>
@@ -132,7 +133,7 @@ onMounted(() => loadEntries())
 
       <!-- Loading -->
       <div v-if="loading" class="py-6 text-center">
-        <i class="fa-solid fa-spinner fa-spin text-gray-400"></i>
+        <Loader2 class="w-4 h-4 animate-spin text-gray-400 mx-auto" aria-hidden="true" />
       </div>
 
       <!-- Empty state -->
@@ -158,7 +159,7 @@ onMounted(() => loadEntries())
               {{ formatDate(entry.date) }}
               <span v-if="entry.start_time"> &middot; {{ entry.start_time?.slice(0, 5) }}</span>
               <span v-if="entry.entry_type === 'billable'" class="text-green-500 ml-1">
-                <i class="fa-solid fa-circle text-[6px]"></i>
+                <Circle class="w-1.5 h-1.5 inline fill-current" aria-hidden="true" />
               </span>
             </p>
           </div>

@@ -8,6 +8,8 @@ import { useSettingsApi } from '@/composables/useApi'
 import { useUpdateChecker } from '@/composables/useUpdateChecker'
 import { __ } from '@/composables/useTranslate'
 import { version as appVersion } from '../../package.json'
+import { Loader2, TriangleAlert, CircleCheck, AlertCircle, ArrowUpCircle, RotateCcw } from 'lucide-vue-next'
+import OrgaIcon from '@/components/common/OrgaIcon.vue'
 import type { OrgaSettings } from '@/types/orga'
 
 const { getSettings, updateSettings } = useSettingsApi()
@@ -28,10 +30,10 @@ interface SaveMessage {
 
 const activeTab = ref<string>('defaults')
 const tabs: Tab[] = [
-  { id: 'defaults', name: __('Defaults'), icon: 'sliders' },
-  { id: 'features', name: __('Features'), icon: 'toggle-on' },
+  { id: 'defaults', name: __('Defaults'), icon: 'sliders-horizontal' },
+  { id: 'features', name: __('Features'), icon: 'toggle-right' },
   { id: 'notifications', name: __('Notifications'), icon: 'bell' },
-  { id: 'updates', name: __('Updates'), icon: 'arrow-up-from-bracket' }
+  { id: 'updates', name: __('Updates'), icon: 'arrow-up-circle' }
 ]
 
 // State
@@ -133,7 +135,7 @@ onMounted(loadSettings)
     <!-- Loading State -->
     <div v-if="isLoading" class="flex items-center justify-center py-20">
       <div class="text-center">
-        <i class="fa-solid fa-spinner fa-spin text-3xl text-orga-500 mb-3"></i>
+        <Loader2 class="w-8 h-8 text-accent-500 mb-3 animate-spin" aria-hidden="true" />
         <p class="text-gray-500 dark:text-gray-400">{{ __('Loading settings...') }}</p>
       </div>
     </div>
@@ -141,7 +143,7 @@ onMounted(loadSettings)
     <!-- Error State -->
     <div v-else-if="loadError" class="flex items-center justify-center py-20">
       <div class="bg-red-50 dark:bg-red-950/30 border border-red-200 dark:border-red-800 rounded-lg p-6 max-w-md text-center">
-        <i class="fa-solid fa-exclamation-triangle text-red-500 text-3xl mb-3"></i>
+        <TriangleAlert class="w-8 h-8 text-red-500 mb-3" aria-hidden="true" />
         <h3 class="text-red-800 dark:text-red-300 font-medium mb-2">{{ __('Error loading settings') }}</h3>
         <p class="text-red-600 dark:text-red-400 text-sm mb-4">{{ loadError }}</p>
         <button @click="loadSettings" class="px-4 py-2 bg-red-100 dark:bg-red-900/40 text-red-700 dark:text-red-300 rounded hover:bg-red-200 dark:hover:bg-red-900/60">
@@ -161,12 +163,12 @@ onMounted(loadSettings)
           :class="[
             'flex items-center gap-3 px-5 py-3 text-sm transition-all no-underline',
             activeTab === tab.id
-              ? 'text-orga-500 dark:text-orga-400 bg-orga-50 dark:bg-orga-950/30 border-l-[3px] border-orga-500 dark:border-orga-400'
+              ? 'text-accent-500 dark:text-accent-400 bg-accent-50 dark:bg-accent-950/30 border-l-[3px] border-accent-500 dark:border-accent-400'
               : 'text-gray-500 dark:text-gray-400 hover:text-gray-800 dark:hover:text-gray-200 hover:bg-gray-50 dark:hover:bg-gray-700'
           ]"
           @click.prevent="activeTab = tab.id"
         >
-          <i :class="['fa-solid', `fa-${tab.icon}`, 'w-5 text-center']"></i>
+          <OrgaIcon :name="tab.icon" class="w-5 h-5" />
           <span>{{ tab.name }}</span>
         </a>
       </nav>
@@ -178,7 +180,7 @@ onMounted(loadSettings)
           'px-4 py-3 text-sm',
           saveMessage.type === 'success' ? 'bg-green-50 dark:bg-green-950/30 text-green-700 dark:text-green-400 border-b border-green-200 dark:border-green-800' : 'bg-red-50 dark:bg-red-950/30 text-red-700 dark:text-red-400 border-b border-red-200 dark:border-red-800'
         ]">
-          <i :class="['fa-solid mr-2', saveMessage.type === 'success' ? 'fa-check-circle' : 'fa-exclamation-circle']"></i>
+          <CircleCheck v-if="saveMessage.type === 'success'" class="w-4 h-4 inline mr-2" aria-hidden="true" /><AlertCircle v-else class="w-4 h-4 inline mr-2" aria-hidden="true" />
           {{ saveMessage.text }}
         </div>
 
@@ -195,7 +197,7 @@ onMounted(loadSettings)
                 <h4 class="text-sm font-medium text-gray-900 dark:text-gray-100 m-0">{{ __('Default Task Status') }}</h4>
                 <p class="text-xs text-gray-500 dark:text-gray-400 m-0 mt-1">{{ __('Status assigned to new tasks') }}</p>
               </div>
-              <select v-model="settings.default_task_status" class="px-3 py-2 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm min-w-[150px] text-gray-900 dark:text-gray-100 focus:outline-none focus:border-orga-500 dark:focus:border-orga-400">
+              <select v-model="settings.default_task_status" class="px-3 py-2 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm min-w-[150px] text-gray-900 dark:text-gray-100 focus:outline-none focus:border-accent-500 dark:focus:border-accent-400">
                 <option value="Open">{{ __('Open') }}</option>
                 <option value="In Progress">{{ __('In Progress') }}</option>
               </select>
@@ -207,7 +209,7 @@ onMounted(loadSettings)
                 <h4 class="text-sm font-medium text-gray-900 dark:text-gray-100 m-0">{{ __('Default Project Status') }}</h4>
                 <p class="text-xs text-gray-500 dark:text-gray-400 m-0 mt-1">{{ __('Status assigned to new projects') }}</p>
               </div>
-              <select v-model="settings.default_project_status" class="px-3 py-2 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm min-w-[150px] text-gray-900 dark:text-gray-100 focus:outline-none focus:border-orga-500 dark:focus:border-orga-400">
+              <select v-model="settings.default_project_status" class="px-3 py-2 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm min-w-[150px] text-gray-900 dark:text-gray-100 focus:outline-none focus:border-accent-500 dark:focus:border-accent-400">
                 <option value="Planning">{{ __('Planning') }}</option>
                 <option value="Active">{{ __('Active') }}</option>
               </select>
@@ -222,7 +224,7 @@ onMounted(loadSettings)
               <input
                 v-model="settings.project_code_prefix"
                 type="text"
-                class="px-3 py-2 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm w-32 text-gray-900 dark:text-gray-100 placeholder-gray-500 dark:placeholder-gray-400 focus:outline-none focus:border-orga-500 dark:focus:border-orga-400"
+                class="px-3 py-2 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm w-32 text-gray-900 dark:text-gray-100 placeholder-gray-500 dark:placeholder-gray-400 focus:outline-none focus:border-accent-500 dark:focus:border-accent-400"
                 maxlength="10"
               />
             </div>
@@ -233,7 +235,7 @@ onMounted(loadSettings)
                 <h4 class="text-sm font-medium text-gray-900 dark:text-gray-100 m-0">{{ __('Default Priority') }}</h4>
                 <p class="text-xs text-gray-500 dark:text-gray-400 m-0 mt-1">{{ __('Priority assigned to new tasks') }}</p>
               </div>
-              <select v-model="settings.default_priority" class="px-3 py-2 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm min-w-[150px] text-gray-900 dark:text-gray-100 focus:outline-none focus:border-orga-500 dark:focus:border-orga-400">
+              <select v-model="settings.default_priority" class="px-3 py-2 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm min-w-[150px] text-gray-900 dark:text-gray-100 focus:outline-none focus:border-accent-500 dark:focus:border-accent-400">
                 <option value="Low">{{ __('Low') }}</option>
                 <option value="Medium">{{ __('Medium') }}</option>
                 <option value="High">{{ __('High') }}</option>
@@ -259,7 +261,7 @@ onMounted(loadSettings)
               </div>
               <label class="relative inline-block w-11 h-6">
                 <input v-model="settings.auto_calculate_progress" type="checkbox" :true-value="1" :false-value="0" class="sr-only peer" />
-                <span class="absolute inset-0 bg-gray-200 dark:bg-gray-600 rounded-full cursor-pointer peer-checked:bg-orga-500 transition-all"></span>
+                <span class="absolute inset-0 bg-gray-200 dark:bg-gray-600 rounded-full cursor-pointer peer-checked:bg-accent-500 transition-all"></span>
                 <span class="absolute left-0.5 top-0.5 w-5 h-5 bg-white rounded-full transition-transform peer-checked:translate-x-5"></span>
               </label>
             </div>
@@ -272,7 +274,7 @@ onMounted(loadSettings)
               </div>
               <label class="relative inline-block w-11 h-6">
                 <input v-model="settings.auto_set_missed_milestones" type="checkbox" :true-value="1" :false-value="0" class="sr-only peer" />
-                <span class="absolute inset-0 bg-gray-200 dark:bg-gray-600 rounded-full cursor-pointer peer-checked:bg-orga-500 transition-all"></span>
+                <span class="absolute inset-0 bg-gray-200 dark:bg-gray-600 rounded-full cursor-pointer peer-checked:bg-accent-500 transition-all"></span>
                 <span class="absolute left-0.5 top-0.5 w-5 h-5 bg-white rounded-full transition-transform peer-checked:translate-x-5"></span>
               </label>
             </div>
@@ -285,7 +287,7 @@ onMounted(loadSettings)
               </div>
               <label class="relative inline-block w-11 h-6">
                 <input v-model="settings.enable_time_tracking" type="checkbox" :true-value="1" :false-value="0" class="sr-only peer" />
-                <span class="absolute inset-0 bg-gray-200 dark:bg-gray-600 rounded-full cursor-pointer peer-checked:bg-orga-500 transition-all"></span>
+                <span class="absolute inset-0 bg-gray-200 dark:bg-gray-600 rounded-full cursor-pointer peer-checked:bg-accent-500 transition-all"></span>
                 <span class="absolute left-0.5 top-0.5 w-5 h-5 bg-white rounded-full transition-transform peer-checked:translate-x-5"></span>
               </label>
             </div>
@@ -302,7 +304,7 @@ onMounted(loadSettings)
                   type="number"
                   min="1"
                   max="168"
-                  class="px-3 py-2 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm w-20 text-right text-gray-900 dark:text-gray-100 focus:outline-none focus:border-orga-500 dark:focus:border-orga-400"
+                  class="px-3 py-2 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm w-20 text-right text-gray-900 dark:text-gray-100 focus:outline-none focus:border-accent-500 dark:focus:border-accent-400"
                 />
                 <span class="text-sm text-gray-500 dark:text-gray-400">{{ __('hours') }}</span>
               </div>
@@ -325,7 +327,7 @@ onMounted(loadSettings)
               </div>
               <label class="relative inline-block w-11 h-6">
                 <input v-model="settings.notify_on_task_assignment" type="checkbox" :true-value="1" :false-value="0" class="sr-only peer" />
-                <span class="absolute inset-0 bg-gray-200 dark:bg-gray-600 rounded-full cursor-pointer peer-checked:bg-orga-500 transition-all"></span>
+                <span class="absolute inset-0 bg-gray-200 dark:bg-gray-600 rounded-full cursor-pointer peer-checked:bg-accent-500 transition-all"></span>
                 <span class="absolute left-0.5 top-0.5 w-5 h-5 bg-white rounded-full transition-transform peer-checked:translate-x-5"></span>
               </label>
             </div>
@@ -338,7 +340,7 @@ onMounted(loadSettings)
               </div>
               <label class="relative inline-block w-11 h-6">
                 <input v-model="settings.notify_on_status_change" type="checkbox" :true-value="1" :false-value="0" class="sr-only peer" />
-                <span class="absolute inset-0 bg-gray-200 dark:bg-gray-600 rounded-full cursor-pointer peer-checked:bg-orga-500 transition-all"></span>
+                <span class="absolute inset-0 bg-gray-200 dark:bg-gray-600 rounded-full cursor-pointer peer-checked:bg-accent-500 transition-all"></span>
                 <span class="absolute left-0.5 top-0.5 w-5 h-5 bg-white rounded-full transition-transform peer-checked:translate-x-5"></span>
               </label>
             </div>
@@ -351,7 +353,7 @@ onMounted(loadSettings)
               </div>
               <label class="relative inline-block w-11 h-6">
                 <input v-model="settings.notify_on_due_date" type="checkbox" :true-value="1" :false-value="0" class="sr-only peer" />
-                <span class="absolute inset-0 bg-gray-200 dark:bg-gray-600 rounded-full cursor-pointer peer-checked:bg-orga-500 transition-all"></span>
+                <span class="absolute inset-0 bg-gray-200 dark:bg-gray-600 rounded-full cursor-pointer peer-checked:bg-accent-500 transition-all"></span>
                 <span class="absolute left-0.5 top-0.5 w-5 h-5 bg-white rounded-full transition-transform peer-checked:translate-x-5"></span>
               </label>
             </div>
@@ -368,7 +370,7 @@ onMounted(loadSettings)
                   type="number"
                   min="1"
                   max="30"
-                  class="px-3 py-2 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm w-20 text-right text-gray-900 dark:text-gray-100 focus:outline-none focus:border-orga-500 dark:focus:border-orga-400"
+                  class="px-3 py-2 bg-white dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded text-sm w-20 text-right text-gray-900 dark:text-gray-100 focus:outline-none focus:border-accent-500 dark:focus:border-accent-400"
                 />
                 <span class="text-sm text-gray-500 dark:text-gray-400">{{ __('days') }}</span>
               </div>
@@ -413,7 +415,7 @@ onMounted(loadSettings)
             <!-- Update Available Banner -->
             <div v-if="updateInfo?.update_available" class="mt-4 p-4 bg-amber-50 dark:bg-amber-950/30 border border-amber-200 dark:border-amber-800 rounded-lg">
               <div class="flex items-start gap-3">
-                <i class="fa-solid fa-circle-up text-amber-500 text-xl mt-0.5"></i>
+                <ArrowUpCircle class="w-5 h-5 text-amber-500 mt-0.5" aria-hidden="true" />
                 <div class="flex-1">
                   <h4 class="text-sm font-semibold text-amber-800 dark:text-amber-300 m-0">
                     {{ __('Update Available') }}
@@ -434,7 +436,7 @@ onMounted(loadSettings)
                       rel="noopener noreferrer"
                       class="inline-flex items-center gap-1.5 px-3 py-1.5 bg-amber-600 hover:bg-amber-700 text-white text-sm font-medium rounded transition-colors no-underline"
                     >
-                      <i class="fa-brands fa-github text-xs"></i>
+                      <span class="text-xs" aria-hidden="true">GH</span>
                       {{ __('View Release') }}
                     </a>
                     <button
@@ -451,7 +453,7 @@ onMounted(loadSettings)
             <!-- Up to Date Banner -->
             <div v-else-if="updateInfo && !updateInfo.update_available" class="mt-4 p-4 bg-green-50 dark:bg-green-950/30 border border-green-200 dark:border-green-800 rounded-lg">
               <div class="flex items-center gap-3">
-                <i class="fa-solid fa-circle-check text-green-500 text-xl"></i>
+                <CircleCheck class="w-5 h-5 text-green-500" aria-hidden="true" />
                 <div>
                   <h4 class="text-sm font-semibold text-green-800 dark:text-green-300 m-0">{{ __('Up to Date') }}</h4>
                   <p class="text-sm text-green-700 dark:text-green-400 mt-1 mb-0">{{ __('You are running the latest version of Orga.') }}</p>
@@ -466,7 +468,7 @@ onMounted(loadSettings)
 
             <!-- Error Message -->
             <div v-if="checkError" class="mt-3 p-3 bg-red-50 dark:bg-red-950/30 border border-red-200 dark:border-red-800 rounded text-sm text-red-600 dark:text-red-400">
-              <i class="fa-solid fa-exclamation-triangle mr-1"></i>
+              <TriangleAlert class="w-3.5 h-3.5 inline mr-1" aria-hidden="true" />
               {{ __('Update check failed: {0}', [checkError]) }}
             </div>
 
@@ -477,7 +479,7 @@ onMounted(loadSettings)
                 :disabled="isChecking"
                 class="px-4 py-2 bg-gray-100 dark:bg-gray-600 text-gray-700 dark:text-gray-200 border border-gray-200 dark:border-gray-500 rounded hover:bg-gray-200 dark:hover:bg-gray-500 text-sm font-medium transition-colors disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
               >
-                <i :class="['fa-solid', isChecking ? 'fa-spinner fa-spin' : 'fa-rotate']"></i>
+                <Loader2 v-if="isChecking" class="w-4 h-4 animate-spin" aria-hidden="true" /><RotateCcw v-else class="w-4 h-4" aria-hidden="true" />
                 {{ isChecking ? __('Checking...') : __('Check for Updates') }}
               </button>
             </div>
@@ -495,9 +497,9 @@ onMounted(loadSettings)
           <button
             @click="saveSettings"
             :disabled="isSaving"
-            class="px-4 py-2 bg-orga-500 hover:bg-orga-600 dark:bg-orga-600 dark:hover:bg-orga-700 text-white rounded disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2 transition-colors"
+            class="px-4 py-2 bg-accent-500 hover:bg-accent-600 dark:bg-accent-600 dark:hover:bg-accent-700 text-white rounded disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2 transition-colors"
           >
-            <i v-if="isSaving" class="fa-solid fa-spinner fa-spin"></i>
+            <Loader2 v-if="isSaving" class="w-4 h-4 animate-spin" aria-hidden="true" />
             {{ isSaving ? __('Saving...') : __('Save Changes') }}
           </button>
         </div>

@@ -6,6 +6,7 @@
 -->
 <script setup lang="ts">
 import { ref, computed, watch, nextTick } from 'vue'
+import { TriangleAlert, X, FolderOpen, ClipboardList, Flag, Trash2, Loader2 } from 'lucide-vue-next'
 import { useProjectApi } from '@/composables/useApi'
 import { useToast } from '@/composables/useToast'
 import { __ } from '@/composables/useTranslate'
@@ -81,7 +82,7 @@ function handleClose(): void {
         <!-- Header -->
         <div class="flex items-center gap-3 p-5 pb-4 border-b border-red-200 dark:border-red-900/50 bg-red-50 dark:bg-red-950/30 rounded-t-xl">
           <div class="w-10 h-10 rounded-full bg-red-100 dark:bg-red-900/50 flex items-center justify-center flex-shrink-0">
-            <i class="fa-solid fa-triangle-exclamation text-red-600 dark:text-red-400 text-lg"></i>
+            <TriangleAlert class="w-5 h-5 text-red-600 dark:text-red-400" aria-hidden="true" />
           </div>
           <div class="flex-1 min-w-0">
             <h2 class="text-lg font-semibold text-red-900 dark:text-red-200 m-0">{{ __('Delete Project') }}</h2>
@@ -91,7 +92,7 @@ function handleClose(): void {
             :disabled="isDeleting"
             class="text-gray-400 dark:text-gray-500 hover:text-gray-600 dark:hover:text-gray-300 transition-colors disabled:opacity-50"
           >
-            <i class="fa-solid fa-xmark text-lg"></i>
+            <X class="w-5 h-5" aria-hidden="true" />
           </button>
         </div>
 
@@ -106,15 +107,15 @@ function handleClose(): void {
             <p class="text-xs font-semibold text-red-800 dark:text-red-300 uppercase tracking-wider m-0">{{ __('This will permanently delete:') }}</p>
             <ul class="list-none p-0 m-0 space-y-1">
               <li class="flex items-center gap-2 text-sm text-red-700 dark:text-red-400">
-                <i class="fa-solid fa-folder text-xs w-4 text-center"></i>
+                <FolderOpen class="w-3 h-3" aria-hidden="true" />
                 {{ __('The project') }} "<strong>{{ projectLabel }}</strong>"
               </li>
               <li class="flex items-center gap-2 text-sm text-red-700 dark:text-red-400">
-                <i class="fa-solid fa-list-check text-xs w-4 text-center"></i>
+                <ClipboardList class="w-3 h-3" aria-hidden="true" />
                 {{ taskCount }} {{ taskCount === 1 ? __('task') : __('tasks') }}
               </li>
               <li class="flex items-center gap-2 text-sm text-red-700 dark:text-red-400">
-                <i class="fa-solid fa-flag text-xs w-4 text-center"></i>
+                <Flag class="w-3 h-3" aria-hidden="true" />
                 {{ milestoneCount }} {{ milestoneCount === 1 ? __('milestone') : __('milestones') }}
               </li>
             </ul>
@@ -163,8 +164,8 @@ function handleClose(): void {
                 : 'bg-gray-300 dark:bg-gray-600'
             ]"
           >
-            <i v-if="isDeleting" class="fa-solid fa-spinner fa-spin"></i>
-            <i v-else class="fa-solid fa-trash"></i>
+            <Loader2 v-if="isDeleting" class="w-4 h-4 animate-spin" aria-hidden="true" />
+            <Trash2 v-else class="w-4 h-4" aria-hidden="true" />
             {{ isDeleting ? __('Deleting...') : __('Delete this project') }}
           </button>
         </div>

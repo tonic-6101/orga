@@ -5,6 +5,8 @@
   KanbanColumnQuickAdd.vue - Quick-add button for Kanban columns
 -->
 <script setup lang="ts">
+import { Plus } from 'lucide-vue-next'
+
 interface Props {
   status: string
 }
@@ -23,9 +25,9 @@ function handleClick() {
 <template>
   <button
     @click="handleClick"
-    class="w-full py-2 px-3 mt-2 text-sm text-gray-500 dark:text-gray-400 hover:text-orga-500 hover:bg-orga-50 dark:hover:bg-orga-900/20 rounded-lg border border-dashed border-gray-300 dark:border-gray-600 hover:border-orga-500 transition-colors flex items-center justify-center gap-2"
+    class="w-full py-2 px-3 mt-2 text-sm text-gray-500 dark:text-gray-400 hover:text-accent-500 hover:bg-accent-50 dark:hover:bg-accent-900/20 rounded-lg border border-dashed border-gray-300 dark:border-gray-600 hover:border-accent-500 transition-colors flex items-center justify-center gap-2"
   >
-    <i class="fa-solid fa-plus text-xs"></i>
+    <Plus class="w-3 h-3" aria-hidden="true" />
     {{ __('Add Task') }}
   </button>
 </template>

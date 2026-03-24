@@ -186,6 +186,7 @@ interface UseTaskApiReturn extends UseApiReturn {
   getTaskGroups: (project: string) => Promise<string[]>
   getGroupDependencyStatus: (project: string, groupName: string) => Promise<{ total: number; completed: number; incomplete: number; is_complete: boolean; tasks: Array<{ name: string; subject: string; status: string }> }>
   getMyTasks: (filters?: { status?: string | null; priority?: string | null; project?: string | null; search?: string | null; limit?: number; offset?: number; include_completed?: boolean; scope?: 'assigned' | 'my_projects' | 'all' }) => Promise<{ tasks: OrgaTask[]; total: number }>
+  getMyTasksByStatus: (filters?: { priority?: string | null; project?: string | null; assigned_to?: string | null; search?: string | null; scope?: 'assigned' | 'my_projects' | 'all' }) => Promise<Record<string, OrgaTask[]>>
   promoteChecklistToTask: (taskName: string, itemName: string) => Promise<{ name: string; subject: string }>
   bulkUpdateStatus: (tasks: string[], status: string) => Promise<{ success: boolean; updated: number }>
   reorderTasks: (project: string, taskId: string, newIndex: number) => Promise<{ success: boolean; updated_tasks: string[]; new_order: string[] }>
@@ -255,6 +256,15 @@ export function useTaskApi(): UseTaskApiReturn {
         limit: filters.limit || 20,
         offset: filters.offset || 0,
         include_completed: filters.include_completed || false,
+        scope: filters.scope || 'assigned'
+      }),
+
+    getMyTasksByStatus: (filters: { priority?: string | null; project?: string | null; assigned_to?: string | null; search?: string | null; scope?: 'assigned' | 'my_projects' | 'all' } = {}) =>
+      call<Record<string, OrgaTask[]>>('orga.orga.api.task.get_my_tasks_by_status', {
+        priority: filters.priority || null,
+        project: filters.project || null,
+        assigned_to: filters.assigned_to || null,
+        search: filters.search || null,
         scope: filters.scope || 'assigned'
       }),
 

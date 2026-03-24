@@ -583,7 +583,7 @@ export interface EventRSVPInfo {
 export interface ManagerTab {
   /** Unique identifier for the tab */
   id: string
-  /** FontAwesome icon class (without fa-solid prefix) */
+  /** Lucide icon name */
   icon: string
   /** Display label (shown in tooltip) */
   label: string

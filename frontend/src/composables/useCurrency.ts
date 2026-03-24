@@ -63,20 +63,20 @@ export function useCurrency() {
     return symbols[currency.value] || currency.value
   })
 
-  /** FontAwesome icon class for the active currency (for tab icons, badges, etc.). */
+  /** Lucide icon name for the active currency (for tab icons, badges, etc.). */
   const currencyIcon = computed(() => {
     const icons: Record<string, string> = {
-      USD: 'fa-solid fa-dollar-sign',
-      EUR: 'fa-solid fa-euro-sign',
-      GBP: 'fa-solid fa-sterling-sign',
-      JPY: 'fa-solid fa-yen-sign',
-      CNY: 'fa-solid fa-yen-sign',
-      INR: 'fa-solid fa-indian-rupee-sign',
-      KRW: 'fa-solid fa-won-sign',
-      TRY: 'fa-solid fa-lira-sign',
-      BRL: 'fa-solid fa-brazilian-real-sign',
+      USD: 'dollar-sign',
+      EUR: 'euro',
+      GBP: 'pound-sterling',
+      JPY: 'japanese-yen',
+      CNY: 'japanese-yen',
+      INR: 'indian-rupee',
+      KRW: 'coins',
+      TRY: 'coins',
+      BRL: 'coins',
     }
-    return icons[currency.value] || 'fa-solid fa-coins'
+    return icons[currency.value] || 'coins'
   })
 
   return { currency, formatCurrency, loadCurrency, currencySymbol, currencyIcon }

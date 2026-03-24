@@ -9,6 +9,7 @@ import { useCurrency } from '@/composables/useCurrency'
 import StatusBadge from '@/components/common/StatusBadge.vue'
 import EmptyState from '@/components/common/EmptyState.vue'
 import { __ } from '@/composables/useTranslate'
+import { Plus, Loader2, TriangleAlert, X, ArrowDown, ArrowDownWideNarrow, Info } from 'lucide-vue-next'
 import type { OrgaProject, OrgaProjectTemplate, ProjectStatus, ProjectType } from '@/types/orga'
 
 const { getProjects, createProject, loading, error } = useProjectApi()
@@ -236,9 +237,9 @@ onMounted(() => {
       </div>
       <button
         @click="showNewProjectModal = true"
-        class="px-4 py-2 bg-orga-500 text-white rounded hover:bg-orga-600 flex items-center gap-2"
+        class="px-4 py-2 bg-accent-500 text-white rounded hover:bg-accent-600 flex items-center gap-2"
       >
-        <i class="fa-solid fa-plus"></i> {{ __('New Project') }}
+        <Plus class="w-4 h-4" aria-hidden="true" /> {{ __('New Project') }}
       </button>
     </div>
 
@@ -270,7 +271,7 @@ onMounted(() => {
 
       <!-- Sort -->
       <div class="flex items-center gap-2">
-        <i class="fa-solid fa-arrow-down-wide-short text-xs text-gray-400 dark:text-gray-500"></i>
+        <ArrowDownWideNarrow class="w-3.5 h-3.5 text-gray-400 dark:text-gray-500" aria-hidden="true" />
         <select
           v-model="sortBy"
           @change="applyFilters"
@@ -297,7 +298,7 @@ onMounted(() => {
     <!-- Loading State -->
     <div v-if="isLoading" class="flex items-center justify-center py-12">
       <div class="text-center">
-        <i class="fa-solid fa-spinner fa-spin text-3xl text-orga-500 mb-3"></i>
+        <Loader2 class="w-8 h-8 text-accent-500 mb-3 animate-spin" aria-hidden="true" />
         <p class="text-gray-600 dark:text-gray-400">{{ __('Loading projects...') }}</p>
       </div>
     </div>
@@ -305,7 +306,7 @@ onMounted(() => {
     <!-- Error State -->
     <div v-else-if="loadError" class="bg-red-50 border border-red-200 rounded-lg p-6">
       <div class="flex items-center gap-3">
-        <i class="fa-solid fa-exclamation-triangle text-red-500 text-xl"></i>
+        <TriangleAlert class="w-5 h-5 text-red-500" aria-hidden="true" />
         <div>
           <h3 class="text-red-800 font-medium">{{ __('Error loading projects') }}</h3>
           <p class="text-red-600 text-sm">{{ loadError }}</p>
@@ -322,7 +323,7 @@ onMounted(() => {
     <!-- Empty State -->
     <EmptyState
       v-else-if="projects.length === 0"
-      icon="fa-folder-open"
+      icon="folder-open"
       :title="__('No projects found')"
       :description="__('Create your first project to get started.')"
       :action-label="__('New Project')"
@@ -353,7 +354,7 @@ onMounted(() => {
           <div class="mb-4">
             <div class="h-1.5 bg-gray-100 dark:bg-gray-700 rounded overflow-hidden">
               <div
-                class="h-full bg-orga-500 rounded transition-all"
+                class="h-full bg-accent-500 rounded transition-all"
                 :style="{ width: `${project.progress || 0}%` }"
               ></div>
             </div>
@@ -368,7 +369,7 @@ onMounted(() => {
             <div class="flex items-center">
               <div
                 v-if="project.project_manager_name"
-                class="w-7 h-7 rounded-full bg-orga-500 text-white text-[10px] flex items-center justify-center font-semibold"
+                class="w-7 h-7 rounded-full bg-accent-500 text-white text-[10px] flex items-center justify-center font-semibold"
                 :title="project.project_manager_name"
               >
                 {{ getInitials(project.project_manager_name) }}
@@ -390,9 +391,9 @@ onMounted(() => {
           :disabled="isLoadingMore"
           class="px-4 py-2 bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-600 text-gray-700 dark:text-gray-300 rounded hover:bg-gray-50 dark:hover:bg-gray-700 disabled:opacity-50 transition-colors text-sm flex items-center gap-2"
         >
-          <i v-if="isLoadingMore" class="fa-solid fa-spinner fa-spin"></i>
+          <Loader2 v-if="isLoadingMore" class="w-4 h-4 animate-spin" aria-hidden="true" />
           <template v-else>
-            <i class="fa-solid fa-arrow-down"></i>
+            <ArrowDown class="w-4 h-4" aria-hidden="true" />
             {{ __('Load More') }}
           </template>
         </button>
@@ -412,7 +413,7 @@ onMounted(() => {
             @click="showNewProjectModal = false"
             class="text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200 transition-colors"
           >
-            <i class="fa-solid fa-xmark text-xl"></i>
+            <X class="w-5 h-5" aria-hidden="true" />
           </button>
         </div>
 
@@ -427,7 +428,7 @@ onMounted(() => {
               v-model="newProject.project_name"
               type="text"
               required
-              class="w-full px-3 py-2 border border-gray-200 dark:border-gray-600 rounded bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:border-orga-500 focus:outline-none focus:ring-2 focus:ring-orga-500/20"
+              class="w-full px-3 py-2 border border-gray-200 dark:border-gray-600 rounded bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:border-accent-500 focus:outline-none focus:ring-2 focus:ring-accent-500/20"
               :placeholder="__('Enter project name')"
             />
           </div>
@@ -437,7 +438,7 @@ onMounted(() => {
             <textarea
               v-model="newProject.description"
               rows="3"
-              class="w-full px-3 py-2 border border-gray-200 dark:border-gray-600 rounded bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:border-orga-500 focus:outline-none focus:ring-2 focus:ring-orga-500/20"
+              class="w-full px-3 py-2 border border-gray-200 dark:border-gray-600 rounded bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:border-accent-500 focus:outline-none focus:ring-2 focus:ring-accent-500/20"
               :placeholder="__('Brief project description')"
             ></textarea>
           </div>
@@ -449,7 +450,7 @@ onMounted(() => {
                 v-model="newProject.start_date"
                 type="date"
                 required
-                class="w-full px-3 py-2 border border-gray-200 dark:border-gray-600 rounded bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:border-orga-500 focus:outline-none focus:ring-2 focus:ring-orga-500/20"
+                class="w-full px-3 py-2 border border-gray-200 dark:border-gray-600 rounded bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:border-accent-500 focus:outline-none focus:ring-2 focus:ring-accent-500/20"
               />
             </div>
             <div>
@@ -458,7 +459,7 @@ onMounted(() => {
                 v-model="newProject.end_date"
                 type="date"
                 required
-                class="w-full px-3 py-2 border border-gray-200 dark:border-gray-600 rounded bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:border-orga-500 focus:outline-none focus:ring-2 focus:ring-orga-500/20"
+                class="w-full px-3 py-2 border border-gray-200 dark:border-gray-600 rounded bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:border-accent-500 focus:outline-none focus:ring-2 focus:ring-accent-500/20"
               />
             </div>
           </div>
@@ -467,7 +468,7 @@ onMounted(() => {
             <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">{{ __('Project Type') }}</label>
             <select
               v-model="newProject.project_type"
-              class="w-full px-3 py-2 border border-gray-200 dark:border-gray-600 rounded bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:border-orga-500 focus:outline-none focus:ring-2 focus:ring-orga-500/20"
+              class="w-full px-3 py-2 border border-gray-200 dark:border-gray-600 rounded bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:border-accent-500 focus:outline-none focus:ring-2 focus:ring-accent-500/20"
             >
               <option value="Internal">{{ __('Internal') }}</option>
               <option value="Client">{{ __('Client') }}</option>
@@ -484,7 +485,7 @@ onMounted(() => {
                 type="number"
                 min="0"
                 step="100"
-                class="w-full pl-7 pr-3 py-2 border border-gray-200 dark:border-gray-600 rounded bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:border-orga-500 focus:outline-none focus:ring-2 focus:ring-orga-500/20"
+                class="w-full pl-7 pr-3 py-2 border border-gray-200 dark:border-gray-600 rounded bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:border-accent-500 focus:outline-none focus:ring-2 focus:ring-accent-500/20"
                 placeholder="0"
               />
             </div>
@@ -498,15 +499,15 @@ onMounted(() => {
             </label>
             <select
               v-model="selectedTemplate"
-              class="w-full px-3 py-2 border border-gray-200 dark:border-gray-600 rounded bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:border-orga-500 focus:outline-none focus:ring-2 focus:ring-orga-500/20"
+              class="w-full px-3 py-2 border border-gray-200 dark:border-gray-600 rounded bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:border-accent-500 focus:outline-none focus:ring-2 focus:ring-accent-500/20"
             >
               <option value="">{{ __('No template') }}</option>
               <option v-for="tpl in availableTemplates" :key="tpl.name" :value="tpl.name">
                 {{ tpl.template_name }} ({{ __('{0} tasks, {1} milestones', [tpl.task_count, tpl.milestone_count]) }})
               </option>
             </select>
-            <p v-if="selectedTemplate" class="text-xs text-orga-600 dark:text-orga-400 mt-1">
-              <i class="fa-solid fa-info-circle mr-1"></i>
+            <p v-if="selectedTemplate" class="text-xs text-accent-600 dark:text-accent-400 mt-1">
+              <Info class="w-3.5 h-3.5 inline mr-1" aria-hidden="true" />
               {{ __('Tasks and milestones will be created with dates relative to the project start date.') }}
             </p>
           </div>
@@ -522,9 +523,9 @@ onMounted(() => {
             <button
               type="submit"
               :disabled="isCreating"
-              class="px-4 py-2 bg-orga-500 text-white rounded hover:bg-orga-600 disabled:opacity-50"
+              class="px-4 py-2 bg-accent-500 text-white rounded hover:bg-accent-600 disabled:opacity-50"
             >
-              <i v-if="isCreating" class="fa-solid fa-spinner fa-spin mr-2"></i>
+              <Loader2 v-if="isCreating" class="w-4 h-4 animate-spin mr-2 inline" aria-hidden="true" />
               {{ isCreating ? __('Creating...') : __('Create Project') }}
             </button>
           </div>

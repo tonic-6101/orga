@@ -8,8 +8,10 @@
   It provides helpful messaging and optionally a call-to-action button.
 -->
 <script setup lang="ts">
+import OrgaIcon from './OrgaIcon.vue'
+
 interface Props {
-  /** Font Awesome icon class (without fa-solid prefix) */
+  /** Lucide icon name (resolved by OrgaIcon) */
   icon?: string
   /** Main heading text */
   title: string
@@ -24,7 +26,7 @@ interface Props {
 }
 
 const props = withDefaults(defineProps<Props>(), {
-  icon: 'fa-inbox',
+  icon: 'inbox',
   size: 'md'
 })
 
@@ -37,7 +39,7 @@ const sizeClasses = {
   sm: {
     wrapper: 'py-6 px-4',
     iconWrapper: 'w-10 h-10 mb-3',
-    icon: 'text-lg',
+    icon: 'w-5 h-5',
     title: 'text-sm font-medium',
     description: 'text-xs',
     button: 'px-3 py-1.5 text-sm'
@@ -45,7 +47,7 @@ const sizeClasses = {
   md: {
     wrapper: 'py-12 px-6',
     iconWrapper: 'w-16 h-16 mb-4',
-    icon: 'text-2xl',
+    icon: 'w-7 h-7',
     title: 'text-lg font-medium',
     description: 'text-sm',
     button: 'px-4 py-2 text-sm'
@@ -53,7 +55,7 @@ const sizeClasses = {
   lg: {
     wrapper: 'py-16 px-8',
     iconWrapper: 'w-20 h-20 mb-5',
-    icon: 'text-3xl',
+    icon: 'w-9 h-9',
     title: 'text-xl font-semibold',
     description: 'text-base',
     button: 'px-5 py-2.5 text-base'
@@ -72,15 +74,11 @@ const classes = sizeClasses[props.size]
         classes.iconWrapper
       ]"
     >
-      <i
-        :class="[
-          'fa-solid',
-          icon,
-          classes.icon,
-          'text-gray-400 dark:text-gray-500'
-        ]"
+      <OrgaIcon
+        :name="icon"
+        :class="[classes.icon, 'text-gray-400 dark:text-gray-500']"
         aria-hidden="true"
-      ></i>
+      />
     </div>
 
     <!-- Title -->
@@ -102,9 +100,9 @@ const classes = sizeClasses[props.size]
         v-if="actionLabel"
         @click="emit('action')"
         :class="[
-          'bg-orga-500 text-white rounded-lg font-medium',
-          'hover:bg-orga-600 transition-colors',
-          'focus:outline-none focus:ring-2 focus:ring-orga-500 focus:ring-offset-2',
+          'bg-accent-500 text-white rounded-lg font-medium',
+          'hover:bg-accent-600 transition-colors',
+          'focus:outline-none focus:ring-2 focus:ring-accent-500 focus:ring-offset-2',
           'dark:focus:ring-offset-gray-900',
           classes.button
         ]"

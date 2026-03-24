@@ -16,6 +16,8 @@
 import { ref, computed, onMounted } from 'vue'
 import { frappeRequest } from '@/composables/useApi'
 import { __ } from '@/composables/useTranslate'
+import { FileInput, Loader2, AlertCircle, TriangleAlert, Info, FlaskConical, Play, CircleCheck, History, RotateCcw } from 'lucide-vue-next'
+import OrgaIcon from '@/components/common/OrgaIcon.vue'
 
 interface MigrationPreview {
   success: boolean
@@ -193,7 +195,7 @@ function formatDate(dateStr: string): string {
     <!-- Header -->
     <div class="p-4 border-b border-gray-200">
       <h3 class="text-lg font-semibold text-gray-800 flex items-center gap-2">
-        <i class="fa-solid fa-file-import text-orga-500"></i>
+        <FileInput class="w-5 h-5 text-accent-500" aria-hidden="true" />
         {{ __('Frappe Projects Migration') }}
       </h3>
       <p class="text-sm text-gray-500 mt-1">
@@ -209,7 +211,7 @@ function formatDate(dateStr: string): string {
           :class="[
             'px-4 py-2 text-sm font-medium border-b-2 -mb-px',
             activeTab === 'migrate'
-              ? 'border-orga-500 text-orga-600'
+              ? 'border-accent-500 text-accent-600'
               : 'border-transparent text-gray-500 hover:text-gray-700'
           ]"
         >
@@ -220,7 +222,7 @@ function formatDate(dateStr: string): string {
           :class="[
             'px-4 py-2 text-sm font-medium border-b-2 -mb-px',
             activeTab === 'history'
-              ? 'border-orga-500 text-orga-600'
+              ? 'border-accent-500 text-accent-600'
               : 'border-transparent text-gray-500 hover:text-gray-700'
           ]"
         >
@@ -236,13 +238,13 @@ function formatDate(dateStr: string): string {
     <div v-if="activeTab === 'migrate'" class="p-4">
       <!-- Loading -->
       <div v-if="isLoading && !migrationResult" class="text-center py-8">
-        <i class="fa-solid fa-spinner fa-spin text-2xl text-gray-400"></i>
+        <Loader2 class="w-6 h-6 animate-spin text-gray-400 mx-auto" aria-hidden="true" />
         <p class="text-sm text-gray-500 mt-2">{{ __('Loading...') }}</p>
       </div>
 
       <!-- No Frappe Projects -->
       <div v-else-if="preview && !preview.success" class="text-center py-8">
-        <i class="fa-solid fa-exclamation-circle text-3xl text-yellow-500"></i>
+        <AlertCircle class="w-8 h-8 text-yellow-500 mx-auto" aria-hidden="true" />
         <p class="text-sm text-gray-600 mt-2">{{ preview.message || __('Frappe Projects module not available') }}</p>
       </div>
 
@@ -274,7 +276,8 @@ function formatDate(dateStr: string): string {
               warning.type === 'warning' ? 'bg-yellow-50 text-yellow-700' : 'bg-blue-50 text-blue-700'
             ]"
           >
-            <i :class="['fa-solid', warning.type === 'warning' ? 'fa-exclamation-triangle' : 'fa-info-circle']"></i>
+            <TriangleAlert v-if="warning.type === 'warning'" class="w-4 h-4" aria-hidden="true" />
+            <Info v-else class="w-4 h-4" aria-hidden="true" />
             {{ warning.message }}
           </div>
         </div>
@@ -285,7 +288,7 @@ function formatDate(dateStr: string): string {
             <input
               type="checkbox"
               v-model="skipExisting"
-              class="rounded border-gray-300 text-orga-500 focus:ring-orga-500"
+              class="rounded border-gray-300 text-accent-500 focus:ring-accent-500"
             />
             <span class="text-sm text-gray-700">{{ __('Skip already migrated projects') }}</span>
           </label>
@@ -298,16 +301,16 @@ function formatDate(dateStr: string): string {
             :disabled="!canMigrate"
             class="px-4 py-2 text-sm bg-gray-100 text-gray-700 rounded hover:bg-gray-200 disabled:opacity-50 flex items-center gap-2"
           >
-            <i class="fa-solid fa-flask"></i>
+            <FlaskConical class="w-4 h-4" aria-hidden="true" />
             {{ __('Dry Run') }}
           </button>
           <button
             @click="executeMigration"
             :disabled="!canMigrate"
-            class="px-4 py-2 text-sm bg-orga-500 text-white rounded hover:bg-orga-600 disabled:opacity-50 flex items-center gap-2"
+            class="px-4 py-2 text-sm bg-accent-500 text-white rounded hover:bg-accent-600 disabled:opacity-50 flex items-center gap-2"
           >
-            <i v-if="isLoading" class="fa-solid fa-spinner fa-spin"></i>
-            <i v-else class="fa-solid fa-play"></i>
+            <Loader2 v-if="isLoading" class="w-4 h-4 animate-spin" aria-hidden="true" />
+            <Play v-else class="w-4 h-4" aria-hidden="true" />
             {{ __('Start Migration') }}
           </button>
         </div>
@@ -315,7 +318,8 @@ function formatDate(dateStr: string): string {
         <!-- Migration Result -->
         <div v-if="migrationResult" class="mt-4 p-4 rounded-lg" :class="migrationResult.success ? 'bg-green-50' : 'bg-red-50'">
           <h4 class="font-medium mb-2 flex items-center gap-2" :class="migrationResult.success ? 'text-green-700' : 'text-red-700'">
-            <i :class="['fa-solid', migrationResult.success ? 'fa-check-circle' : 'fa-exclamation-circle']"></i>
+            <CircleCheck v-if="migrationResult.success" class="w-4 h-4" aria-hidden="true" />
+            <AlertCircle v-else class="w-4 h-4" aria-hidden="true" />
             {{ migrationResult.dry_run ? __('Dry Run Complete') : __('Migration Complete') }}
           </h4>
 
@@ -350,7 +354,7 @@ function formatDate(dateStr: string): string {
     <!-- History Tab -->
     <div v-if="activeTab === 'history'" class="p-4">
       <div v-if="history.length === 0" class="text-center py-8 text-gray-400">
-        <i class="fa-solid fa-clock-rotate-left text-3xl mb-2"></i>
+        <History class="w-8 h-8 mb-2 mx-auto" aria-hidden="true" />
         <p class="text-sm">{{ __('No migration history') }}</p>
       </div>
 
@@ -372,8 +376,8 @@ function formatDate(dateStr: string): string {
                 <span class="text-blue-600">{{ mig.projects_created }}</span> {{ __('projects') }},
                 <span class="text-green-600">{{ mig.tasks_created }}</span> {{ __('tasks') }}
               </div>
-              <div v-if="mig.rolled_back" class="text-xs text-red-500">
-                <i class="fa-solid fa-undo"></i> {{ __('Rolled back') }}
+              <div v-if="mig.rolled_back" class="text-xs text-red-500 flex items-center gap-1 justify-end">
+                <RotateCcw class="w-3 h-3" aria-hidden="true" /> {{ __('Rolled back') }}
               </div>
             </div>
           </div>
@@ -384,7 +388,8 @@ function formatDate(dateStr: string): string {
               :disabled="isRollingBack"
               class="text-xs text-red-500 hover:text-red-700 flex items-center gap-1"
             >
-              <i :class="['fa-solid', isRollingBack ? 'fa-spinner fa-spin' : 'fa-undo']"></i>
+              <Loader2 v-if="isRollingBack" class="w-3 h-3 animate-spin" aria-hidden="true" />
+              <RotateCcw v-else class="w-3 h-3" aria-hidden="true" />
               {{ __('Rollback') }}
             </button>
           </div>

@@ -26,6 +26,7 @@ import type {
   DependencyType,
 } from '@/types/orga';
 import { isGanttTask } from '@/types/orga';
+import { Network, ChevronRight, ChevronDown, GripVertical, Flag, ArrowLeftRight, ShieldHalf, Lock, CalendarX2 } from 'lucide-vue-next';
 import UserAvatar from '@/components/common/UserAvatar.vue';
 import { __ } from '@/composables/useTranslate';
 
@@ -1989,8 +1990,7 @@ const dependencySvgHeight = computed<number>(() => {
       v-if="tasks.length === 0"
       class="flex-1 flex items-center justify-center p-8 text-gray-500 dark:text-gray-400">
       <div class="text-center">
-        <i
-          class="fa-solid fa-diagram-project text-4xl text-gray-300 dark:text-gray-600 mb-3"></i>
+        <Network class="w-8 h-8 text-gray-300 dark:text-gray-600 mb-3" aria-hidden="true" />
         <p class="text-sm">{{ __('No tasks with dates to display') }}</p>
         <p class="text-xs text-gray-400 dark:text-gray-500 mt-1">
           {{ __('Add start and due dates to tasks to see them on the Gantt chart') }}
@@ -2012,7 +2012,7 @@ const dependencySvgHeight = computed<number>(() => {
                 >{{ __('Tasks') }}</span
               >
               <select v-model="groupMode"
-                class="text-[10px] bg-transparent border border-gray-300 dark:border-gray-600 rounded px-1.5 py-0.5 text-gray-500 dark:text-gray-400 cursor-pointer focus:outline-none focus:ring-1 focus:ring-orga-500">
+                class="text-[10px] bg-transparent border border-gray-300 dark:border-gray-600 rounded px-1.5 py-0.5 text-gray-500 dark:text-gray-400 cursor-pointer focus:outline-none focus:ring-1 focus:ring-accent-500">
                 <option value="none">{{ __('No Grouping') }}</option>
                 <option value="group">{{ __('By Group') }}</option>
                 <option value="status">{{ __('By Status') }}</option>
@@ -2113,9 +2113,8 @@ const dependencySvgHeight = computed<number>(() => {
                   v-if="row.kind === 'group-header'"
                   class="h-10 px-3 flex items-center gap-2 border-b border-gray-200 dark:border-gray-600 bg-gray-50 dark:bg-gray-800 cursor-pointer select-none"
                   @click="toggleGroup(row.key)">
-                  <i
-                    :class="collapsedGroups.has(row.key) ? 'fa-solid fa-chevron-right' : 'fa-solid fa-chevron-down'"
-                    class="text-[10px] text-gray-400 dark:text-gray-500 w-3"></i>
+                  <ChevronRight v-if="collapsedGroups.has(row.key)" class="w-3 h-3 text-gray-400 dark:text-gray-500" aria-hidden="true" />
+                  <ChevronDown v-else class="w-3 h-3 text-gray-400 dark:text-gray-500" aria-hidden="true" />
                   <span class="text-xs font-semibold text-gray-600 dark:text-gray-300 uppercase tracking-wide">{{ row.label }}</span>
                   <span class="text-[10px] text-gray-400 dark:text-gray-500">({{ row.count }})</span>
                 </div>
@@ -2132,7 +2131,7 @@ const dependencySvgHeight = computed<number>(() => {
                   :class="[
                     'gantt-task-row h-10 px-3 flex items-center gap-2 border-b border-gray-100 dark:border-gray-700 bg-white dark:bg-gray-900 cursor-pointer select-none overflow-hidden',
                     selectedTaskId === row.item.name
-                      ? 'bg-orga-50 dark:bg-orga-900/20'
+                      ? 'bg-accent-50 dark:bg-accent-900/20'
                       : 'hover:bg-gray-50/50 dark:hover:bg-gray-800/50',
                     isValidDropTarget(rowIndex) ? 'drag-over' : '',
                     isTaskBeingDragged(row.item as GanttTask) &&
@@ -2141,9 +2140,9 @@ const dependencySvgHeight = computed<number>(() => {
                       : '',
                     isJustReordered(row.item as GanttTask) ? 'just-reordered' : '',
                   ]">
-                  <i
+                  <GripVertical
                     v-if="groupMode === 'none'"
-                    class="fa-solid fa-grip-vertical text-[10px] text-gray-300 dark:text-gray-600 hover:text-gray-500 dark:hover:text-gray-400 cursor-grab shrink-0"></i>
+                    class="w-3 h-3 text-gray-300 dark:text-gray-600 hover:text-gray-500 dark:hover:text-gray-400 cursor-grab shrink-0" aria-hidden="true" />
                   <span
                     :class="[
                       'w-2 h-2 rounded-full shrink-0',
@@ -2177,17 +2176,17 @@ const dependencySvgHeight = computed<number>(() => {
                       ? 'dragging'
                       : '',
                   ]">
-                  <i
+                  <GripVertical
                     v-if="groupMode === 'none'"
                     data-drag-handle
-                    class="fa-solid fa-grip-vertical text-[10px] text-gray-300 dark:text-gray-600 hover:text-gray-500 dark:hover:text-gray-400 cursor-grab"></i>
+                    class="w-3 h-3 text-gray-300 dark:text-gray-600 hover:text-gray-500 dark:hover:text-gray-400 cursor-grab" aria-hidden="true" />
                   <span
                     class="w-2 h-2 rotate-45 shrink-0"
                     :class="
                       milestoneStatusColors[(row.item as GanttMilestone).status]
                     "></span>
-                  <i
-                    class="fa-solid fa-flag text-[10px] text-indigo-400 dark:text-indigo-300"></i>
+                  <Flag
+                    class="w-3 h-3 text-indigo-400 dark:text-indigo-300" aria-hidden="true" />
                   <span
                     class="text-sm text-gray-800 dark:text-gray-200 truncate flex-1"
                     >{{ row.item.subject }}</span
@@ -2244,7 +2243,7 @@ const dependencySvgHeight = computed<number>(() => {
                     'gantt-timeline-row h-10 relative',
                     'border-b border-gray-100 dark:border-gray-700',
                     selectedTaskId === row.item.name
-                      ? 'bg-orga-50 dark:bg-orga-900/20'
+                      ? 'bg-accent-50 dark:bg-accent-900/20'
                       : 'hover:bg-gray-50/50 dark:hover:bg-gray-800/50',
                     isValidDropTarget(rowIndex) ? 'drag-over' : '',
                     draggingTask?.taskId === row.item.name &&
@@ -2306,7 +2305,7 @@ const dependencySvgHeight = computed<number>(() => {
                         : '',
                       (row.item as GanttTask).task_scheduling_type !== 'Hammock' ? 'cursor-grab' : 'cursor-default',
                       selectedTaskId === row.item.name
-                        ? 'ring-2 ring-orga-500 ring-offset-1'
+                        ? 'ring-2 ring-accent-500 ring-offset-1'
                         : '',
                       isTaskBeingDragged(row.item as GanttTask) &&
                       draggingTask?.dragType === 'dates'
@@ -2321,21 +2320,21 @@ const dependencySvgHeight = computed<number>(() => {
                         ? `${row.item.subject} (Buffer)\n${(row.item as GanttTask).start_date} - ${(row.item as GanttTask).due_date || (row.item as GanttTask).start_date}\nBuffer: ${(row.item as GanttTask).buffer_size || 0} days, ${Math.round((row.item as GanttTask).buffer_consumed || 0)}% consumed`
                         : `${row.item.subject}\n${(row.item as GanttTask).start_date} - ${(row.item as GanttTask).due_date || (row.item as GanttTask).start_date}\nDuration: ${getTaskDuration(row.item as GanttTask)} day(s)${(row.item as GanttTask).depends_on_group ? `\nGroup dependency: ${(row.item as GanttTask).depends_on_group}${(row.item as GanttTask).is_blocked ? ' (BLOCKED)' : ' (unblocked)'}` : ''}\n\nDrag bar left/right to change dates\nDrag row handle to reorder`">
                     <!-- Hammock icon -->
-                    <i
+                    <ArrowLeftRight
                       v-if="(row.item as GanttTask).task_scheduling_type === 'Hammock'"
-                      class="fa-solid fa-arrows-left-right text-[9px] text-indigo-500 dark:text-indigo-400 shrink-0"
-                    ></i>
+                      class="w-3 h-3 text-indigo-500 dark:text-indigo-400 shrink-0" aria-hidden="true"
+                    />
                     <!-- Buffer icon -->
-                    <i
+                    <ShieldHalf
                       v-else-if="(row.item as GanttTask).task_scheduling_type === 'Buffer'"
-                      class="fa-solid fa-shield-halved text-[9px] text-amber-700 dark:text-amber-400 shrink-0"
-                    ></i>
+                      class="w-3 h-3 text-amber-700 dark:text-amber-400 shrink-0" aria-hidden="true"
+                    />
                     <!-- Blocked by group icon -->
-                    <i
+                    <Lock
                       v-else-if="(row.item as GanttTask).depends_on_group && (row.item as GanttTask).is_blocked"
-                      class="fa-solid fa-lock text-[9px] text-amber-600 dark:text-amber-400 shrink-0"
+                      class="w-3 h-3 text-amber-600 dark:text-amber-400 shrink-0" aria-hidden="true"
                       :title="`Blocked by group: ${(row.item as GanttTask).depends_on_group}`"
-                    ></i>
+                    />
                     <span
                       class="gantt-bar-text text-xs truncate font-medium flex-1">
                       {{ row.item.subject }}
@@ -2390,7 +2389,7 @@ const dependencySvgHeight = computed<number>(() => {
                   <div
                     v-if="!(row.item as GanttTask).start_date"
                     class="absolute left-2 top-1.5 h-7 flex items-center text-xs text-gray-400 dark:text-gray-500">
-                    <i class="fa-solid fa-calendar-xmark mr-1"></i>
+                    <CalendarX2 class="w-3 h-3 mr-1 inline-block" aria-hidden="true" />
                     {{ __('No dates set') }}
                   </div>
                 </div>
@@ -2456,7 +2455,7 @@ const dependencySvgHeight = computed<number>(() => {
                         : 'transition-all',
                       milestoneStatusColors[(row.item as GanttMilestone).status],
                       selectedTaskId === row.item.name
-                        ? 'ring-2 ring-orga-500 ring-offset-2 dark:ring-offset-gray-900'
+                        ? 'ring-2 ring-accent-500 ring-offset-2 dark:ring-offset-gray-900'
                         : 'hover:scale-110',
                     ]"
                     :title="`${row.item.subject}\nDue: ${(row.item as GanttMilestone).due_date}\nStatus: ${(row.item as GanttMilestone).status}\n\nDrag to change date`"></div>

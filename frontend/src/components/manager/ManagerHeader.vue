@@ -8,7 +8,7 @@
     <ManagerHeader
       title="Manager"
       subtitle="Task Details"
-      icon="fa-sliders"
+      icon="sliders"
       :show-pin="true"
       :is-pinned="isPinned"
       @pin="handlePin"
@@ -22,7 +22,7 @@
 <template>
   <div class="p-4 border-b border-gray-200 flex items-center justify-between shrink-0">
     <h3 class="font-semibold text-gray-800 m-0 flex items-center gap-2">
-      <i :class="['fa-solid', icon, 'text-orga-500']"></i>
+      <OrgaIcon :name="icon" class="w-4 h-4 text-accent-500" />
       <span>{{ title }}</span>
       <span v-if="subtitle" class="text-xs font-normal text-gray-400">{{ subtitle }}</span>
     </h3>
@@ -40,7 +40,7 @@
         ]"
         :title="isPinned ? __('Unpin') : __('Pin')"
       >
-        <i class="fa-solid fa-thumbtack"></i>
+        <Pin class="w-4 h-4" aria-hidden="true" />
       </button>
 
       <!-- Custom Actions Slot -->
@@ -52,7 +52,7 @@
         class="p-1.5 text-gray-400 hover:text-gray-600 rounded hover:bg-gray-100 transition-colors"
         :title="__('Close')"
       >
-        <i class="fa-solid fa-xmark"></i>
+        <X class="w-4 h-4" aria-hidden="true" />
       </button>
     </div>
   </div>
@@ -72,13 +72,15 @@
  * Used by: ActivityPanel, TaskPanel, EventPanel
  */
 import { __ } from '@/composables/useTranslate'
+import { Pin, X } from 'lucide-vue-next'
+import OrgaIcon from '@/components/common/OrgaIcon.vue'
 
 interface Props {
   /** Main title displayed in the header */
   title?: string
   /** Optional subtitle (smaller, gray text) */
   subtitle?: string
-  /** FontAwesome icon class (without fa-solid prefix) */
+  /** Lucide icon name for OrgaIcon */
   icon?: string
   /** Whether to show the pin toggle button */
   showPin?: boolean
@@ -89,7 +91,7 @@ interface Props {
 withDefaults(defineProps<Props>(), {
   title: __('Manager'),
   subtitle: '',
-  icon: 'fa-sliders',
+  icon: 'sliders',
   showPin: false,
   isPinned: false
 })

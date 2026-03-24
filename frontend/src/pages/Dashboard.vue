@@ -10,6 +10,8 @@ import { useCurrency } from '@/composables/useCurrency'
 import StatusBadge from '@/components/common/StatusBadge.vue'
 import Skeleton from '@/components/common/Skeleton.vue'
 import { __ } from '@/composables/useTranslate'
+import { TriangleAlert, CircleCheck, Clock, FolderOpen } from 'lucide-vue-next'
+import OrgaIcon from '@/components/common/OrgaIcon.vue'
 import type { OrgaTask, OrgaProject, DashboardStats, ActivityItem, HealthOverview } from '@/types/orga'
 
 const router = useRouter()
@@ -47,7 +49,7 @@ const loadError = ref<string | null>(null)
 const displayStats = computed<DisplayStat[]>(() => {
   if (!stats.value) {
     return [
-      { label: __('Active Projects'), value: '-', icon: 'folder-open', color: 'text-orga-500', route: '/orga/projects', tooltip: __('View all active projects') },
+      { label: __('Active Projects'), value: '-', icon: 'folder-open', color: 'text-accent-500', route: '/orga/projects', tooltip: __('View all active projects') },
       { label: __('Open Tasks'), value: '-', icon: 'tasks', color: 'text-blue-500', route: '/orga/projects', tooltip: __('View all open tasks') },
       { label: __('Overdue Tasks'), value: '-', icon: 'exclamation-circle', color: 'text-red-500', route: '/orga/projects', tooltip: __('View overdue tasks') },
       { label: __('Due This Week'), value: '-', icon: 'calendar-week', color: 'text-teal-500', route: '/orga/schedule', tooltip: __('View this week\'s schedule') },
@@ -64,7 +66,7 @@ const displayStats = computed<DisplayStat[]>(() => {
       label: __('Active Projects'),
       value: activeCount,
       icon: 'folder-open',
-      color: 'text-orga-500',
+      color: 'text-accent-500',
       route: '/orga/projects',
       tooltip: __("{0} project(s) currently in progress", [activeCount])
     },
@@ -235,7 +237,7 @@ onMounted(loadDashboard)
     <!-- Error State -->
     <div v-else-if="loadError" class="bg-red-50 border border-red-200 rounded-lg p-6 mb-6">
       <div class="flex items-center gap-3">
-        <i class="fa-solid fa-exclamation-triangle text-red-500 text-xl"></i>
+        <TriangleAlert class="w-5 h-5 text-red-500" aria-hidden="true" />
         <div>
           <h3 class="text-red-800 font-medium">{{ __('Error loading dashboard') }}</h3>
           <p class="text-red-600 text-sm">{{ loadError }}</p>
@@ -258,9 +260,9 @@ onMounted(loadDashboard)
           :key="stat.label"
           @click="navigateToStat(stat)"
           :title="stat.tooltip"
-          class="stat-card bg-white dark:bg-gray-800 rounded-lg p-5 border border-gray-200 dark:border-gray-700 cursor-pointer text-left transition-all hover:shadow-md hover:border-orga-300 dark:hover:border-orga-600 focus:outline-none focus:ring-2 focus:ring-orga-500/20 group"
+          class="stat-card bg-white dark:bg-gray-800 rounded-lg p-5 border border-gray-200 dark:border-gray-700 cursor-pointer text-left transition-all hover:shadow-md hover:border-accent-300 dark:hover:border-accent-600 focus:outline-none focus:ring-2 focus:ring-accent-500/20 group"
         >
-          <i :class="['fa-solid', `fa-${stat.icon}`, 'float-right text-h2 opacity-30 group-hover:opacity-50 transition-opacity']"></i>
+          <OrgaIcon :name="stat.icon" class="w-8 h-8 float-right opacity-30 group-hover:opacity-50 transition-opacity" />
           <div class="text-overline text-gray-600 dark:text-gray-400 mb-2">{{ stat.label }}</div>
           <div :class="['text-display', stat.color]">{{ stat.value }}</div>
           <div class="text-xs text-gray-500 dark:text-gray-500 mt-2 opacity-0 group-hover:opacity-100 transition-opacity">
@@ -275,11 +277,11 @@ onMounted(loadDashboard)
         <div class="bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700">
           <div class="flex justify-between items-center p-4 border-b border-gray-200 dark:border-gray-700">
             <span class="text-overline text-gray-800 dark:text-gray-100">{{ __('My Tasks') }}</span>
-            <router-link to="/orga/my-tasks" class="text-caption text-orga-500 hover:underline">{{ __('View All') }}</router-link>
+            <router-link to="/orga/my-tasks" class="text-caption text-accent-500 hover:underline">{{ __('View All') }}</router-link>
           </div>
           <div class="p-4">
             <div v-if="myTasks.length === 0" class="text-center py-6 text-gray-600 dark:text-gray-400">
-              <i class="fa-solid fa-check-circle text-3xl text-green-400 mb-2"></i>
+              <CircleCheck class="w-8 h-8 text-green-400 mb-2 mx-auto" aria-hidden="true" />
               <p>{{ __('No tasks assigned to you') }}</p>
             </div>
             <div
@@ -288,7 +290,7 @@ onMounted(loadDashboard)
               :key="task.name"
               class="task-row flex items-center py-2.5 border-b border-gray-100 dark:border-gray-700 last:border-0"
             >
-              <div class="w-4 h-4 border-2 border-gray-300 dark:border-gray-600 rounded mr-3 cursor-pointer hover:border-orga-500"></div>
+              <div class="w-4 h-4 border-2 border-gray-300 dark:border-gray-600 rounded mr-3 cursor-pointer hover:border-accent-500"></div>
               <div class="flex-1 min-w-0">
                 <div class="text-sm text-gray-800 dark:text-gray-200 truncate">{{ task.subject }}</div>
                 <div class="text-xs text-gray-600 dark:text-gray-400 truncate">{{ task.project_name || task.project }}</div>
@@ -304,11 +306,11 @@ onMounted(loadDashboard)
         <div class="bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700">
           <div class="flex justify-between items-center p-4 border-b border-gray-200 dark:border-gray-700">
             <span class="text-overline text-gray-800 dark:text-gray-100">{{ __('Recent Activity') }}</span>
-            <router-link to="/orga/activity" class="text-caption text-orga-500 hover:underline">{{ __('View All') }}</router-link>
+            <router-link to="/orga/activity" class="text-caption text-accent-500 hover:underline">{{ __('View All') }}</router-link>
           </div>
           <div class="p-4">
             <div v-if="activities.length === 0" class="text-center py-6 text-gray-600 dark:text-gray-400">
-              <i class="fa-solid fa-clock text-3xl text-gray-300 dark:text-gray-600 mb-2"></i>
+              <Clock class="w-8 h-8 text-gray-300 dark:text-gray-600 mb-2 mx-auto" aria-hidden="true" />
               <p>{{ __('No recent activity') }}</p>
             </div>
             <div
@@ -409,7 +411,7 @@ onMounted(loadDashboard)
                 <div :class="['w-2 h-2 rounded-full mr-3', project.health_status === 'Red' ? 'bg-red-500' : 'bg-yellow-500']"></div>
                 <router-link
                   :to="`/orga/projects/${project.name}`"
-                  class="flex-1 text-sm text-gray-800 dark:text-gray-200 hover:text-orga-500 truncate"
+                  class="flex-1 text-sm text-gray-800 dark:text-gray-200 hover:text-accent-500 truncate"
                 >
                   {{ project.project_name }}
                 </router-link>
@@ -425,11 +427,11 @@ onMounted(loadDashboard)
       <div class="bg-white dark:bg-gray-800 rounded-lg border border-gray-200 dark:border-gray-700 mb-6">
         <div class="flex justify-between items-center p-4 border-b border-gray-200 dark:border-gray-700">
           <span class="text-overline text-gray-800 dark:text-gray-100">{{ __('Projects Overview') }}</span>
-          <router-link to="/orga/projects" class="text-caption text-orga-500 hover:underline">{{ __('View All') }}</router-link>
+          <router-link to="/orga/projects" class="text-caption text-accent-500 hover:underline">{{ __('View All') }}</router-link>
         </div>
         <div class="p-4">
           <div v-if="projects.length === 0" class="text-center py-6 text-gray-600 dark:text-gray-400">
-            <i class="fa-solid fa-folder-open text-3xl text-gray-300 dark:text-gray-600 mb-2"></i>
+            <FolderOpen class="w-8 h-8 text-gray-300 dark:text-gray-600 mb-2 mx-auto" aria-hidden="true" />
             <p>{{ __('No active projects') }}</p>
           </div>
           <router-link
@@ -439,7 +441,7 @@ onMounted(loadDashboard)
             :to="`/orga/projects/${project.name}`"
             class="project-card flex items-center py-3 border-b border-gray-100 dark:border-gray-700 last:border-0 hover:bg-gray-50 dark:hover:bg-gray-700/50 -mx-2 px-2 rounded transition-colors"
           >
-            <span class="w-36 text-subtitle text-gray-800 dark:text-gray-200 hover:text-orga-500 truncate">
+            <span class="w-36 text-subtitle text-gray-800 dark:text-gray-200 hover:text-accent-500 truncate">
               {{ project.project_name }}
             </span>
             <div
@@ -450,7 +452,7 @@ onMounted(loadDashboard)
                 :class="[
                   'h-full rounded transition-all',
                   (project.progress || 0) >= 100 ? 'bg-green-500' :
-                  (project.progress || 0) >= 75 ? 'bg-orga-500' :
+                  (project.progress || 0) >= 75 ? 'bg-accent-500' :
                   (project.progress || 0) >= 50 ? 'bg-blue-500' :
                   (project.progress || 0) >= 25 ? 'bg-yellow-500' :
                   'bg-orange-500'

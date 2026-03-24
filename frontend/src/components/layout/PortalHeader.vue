@@ -5,6 +5,7 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { useRoute } from 'vue-router'
+import { Headset } from 'lucide-vue-next'
 import UserMenu from '@/components/layout/UserMenu.vue'
 import { useAuth } from '@/composables/useAuth'
 import { __ } from '@/composables/useTranslate'
@@ -35,16 +36,16 @@ const showBreadcrumb = computed(() => {
     <!-- Left: Logo + Title -->
     <div class="flex items-center gap-4">
       <router-link to="/orga/portal" class="flex items-center gap-2 font-bold text-lg no-underline">
-        <svg class="w-6 h-6 text-orga-500" fill="currentColor" viewBox="0 0 24 24">
+        <svg class="w-6 h-6 text-accent-500" fill="currentColor" viewBox="0 0 24 24">
           <path d="M3 3h7v7H3V3zm11 0h7v7h-7V3zm0 11h7v7h-7v-7zM3 14h7v7H3v-7z"/>
         </svg>
-        <span class="text-gray-800"><span class="text-orga-500">ORGA</span></span>
+        <span class="text-gray-800"><span class="text-accent-500">ORGA</span></span>
       </router-link>
 
       <!-- Breadcrumb navigation -->
       <nav v-if="showBreadcrumb" class="hidden sm:flex items-center gap-2 text-sm text-gray-500">
         <span class="text-gray-300">/</span>
-        <router-link to="/orga/portal" class="hover:text-orga-500 no-underline text-gray-500">
+        <router-link to="/orga/portal" class="hover:text-accent-500 no-underline text-gray-500">
           {{ __('Portal') }}
         </router-link>
         <span class="text-gray-300">/</span>
@@ -57,10 +58,10 @@ const showBreadcrumb = computed(() => {
       <!-- Support Link -->
       <router-link
         to="/orga/portal/support"
-        class="flex items-center gap-2 px-3 py-1.5 text-sm text-gray-600 hover:text-orga-500 hover:bg-gray-50 rounded transition-colors no-underline"
-        :class="{ 'text-orga-500 bg-orga-50': route.name === 'PortalSupport' }"
+        class="flex items-center gap-2 px-3 py-1.5 text-sm text-gray-600 hover:text-accent-500 hover:bg-gray-50 rounded transition-colors no-underline"
+        :class="{ 'text-accent-500 bg-accent-50': route.name === 'PortalSupport' }"
       >
-        <i class="fa-solid fa-headset"></i>
+        <Headset class="w-4 h-4" aria-hidden="true" />
         <span class="hidden sm:inline">{{ __('Support') }}</span>
       </router-link>
 

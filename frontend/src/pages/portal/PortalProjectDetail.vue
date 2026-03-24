@@ -16,6 +16,7 @@ import type {
   ProjectStatus
 } from '@/types/portal'
 import { PROJECT_STATUS_COLORS, HEALTH_STATUS_COLORS, MILESTONE_STATUS_COLORS } from '@/types/portal'
+import { Loader2, TriangleAlert, ArrowLeft, Heart, TrendingUp, Flag, Check, AlertCircle, Clock, CircleCheck, Calendar, History, Info, Coins, Zap, Mail } from 'lucide-vue-next'
 
 const route = useRoute()
 const { getPortalProject, loading, error } = usePortalApi()
@@ -120,7 +121,7 @@ const budgetBarColor = computed(() => {
     <!-- Loading State -->
     <div v-if="loading" class="flex items-center justify-center py-12">
       <div class="text-center">
-        <i class="fa-solid fa-spinner fa-spin text-3xl text-orga-500 mb-3"></i>
+        <Loader2 class="w-8 h-8 text-accent-500 mb-3 animate-spin" aria-hidden="true" />
         <p class="text-gray-500">{{ __('Loading project...') }}</p>
       </div>
     </div>
@@ -128,7 +129,7 @@ const budgetBarColor = computed(() => {
     <!-- Error State -->
     <div v-else-if="error" class="bg-red-50 border border-red-200 rounded-lg p-6">
       <div class="flex items-center gap-3">
-        <i class="fa-solid fa-exclamation-triangle text-red-500 text-xl"></i>
+        <TriangleAlert class="w-5 h-5 text-red-500" aria-hidden="true" />
         <div>
           <h3 class="text-red-800 font-medium">{{ __('Error loading project') }}</h3>
           <p class="text-red-600 text-sm">{{ error }}</p>
@@ -138,7 +139,7 @@ const budgetBarColor = computed(() => {
         to="/orga/portal"
         class="inline-flex items-center gap-2 mt-4 px-4 py-2 bg-red-100 text-red-700 rounded hover:bg-red-200 no-underline"
       >
-        <i class="fa-solid fa-arrow-left"></i>
+        <ArrowLeft class="w-4 h-4" aria-hidden="true" />
         {{ __('Back to Projects') }}
       </router-link>
     </div>
@@ -159,7 +160,7 @@ const budgetBarColor = computed(() => {
                   v-if="project.health_status"
                   :class="['px-3 py-1 text-sm font-medium rounded-full', getHealthClass(project.health_status)]"
                 >
-                  <i class="fa-solid fa-heart mr-1"></i>
+                  <Heart class="w-3 h-3 inline mr-1" aria-hidden="true" />
                   {{ project.health_status }}
                 </span>
               </div>
@@ -171,7 +172,7 @@ const budgetBarColor = computed(() => {
 
             <!-- Progress Display -->
             <div class="text-right">
-              <div class="text-4xl font-bold text-orga-500">{{ Math.round(project.progress || 0) }}%</div>
+              <div class="text-4xl font-bold text-accent-500">{{ Math.round(project.progress || 0) }}%</div>
               <div class="text-sm text-gray-500">{{ __('Complete') }}</div>
             </div>
           </div>
@@ -186,7 +187,7 @@ const budgetBarColor = computed(() => {
           <div class="bg-white rounded-lg border border-gray-200 shadow-sm">
             <div class="p-4 border-b border-gray-100">
               <h2 class="font-semibold text-gray-800 flex items-center gap-2">
-                <i class="fa-solid fa-chart-line text-orga-500"></i>
+                <TrendingUp class="w-4 h-4 text-accent-500" aria-hidden="true" />
                 {{ __('Progress Overview') }}
               </h2>
             </div>
@@ -199,7 +200,7 @@ const budgetBarColor = computed(() => {
                 </div>
                 <div class="h-3 bg-gray-100 rounded-full overflow-hidden">
                   <div
-                    class="h-full bg-orga-500 rounded-full transition-all"
+                    class="h-full bg-accent-500 rounded-full transition-all"
                     :style="{ width: `${project.progress || 0}%` }"
                   ></div>
                 </div>
@@ -223,7 +224,7 @@ const budgetBarColor = computed(() => {
           <div class="bg-white rounded-lg border border-gray-200 shadow-sm">
             <div class="p-4 border-b border-gray-100">
               <h2 class="font-semibold text-gray-800 flex items-center gap-2">
-                <i class="fa-solid fa-flag text-yellow-500"></i>
+                <Flag class="w-4 h-4 text-yellow-500" aria-hidden="true" />
                 {{ __('Milestones') }}
               </h2>
             </div>
@@ -240,16 +241,16 @@ const budgetBarColor = computed(() => {
                       v-if="milestone.status === 'Completed'"
                       class="w-8 h-8 rounded-full bg-green-100 flex items-center justify-center"
                     >
-                      <i class="fa-solid fa-check text-green-600"></i>
+                      <Check class="w-4 h-4 text-green-600" aria-hidden="true" />
                     </div>
                     <div
                       v-else-if="milestone.is_overdue"
                       class="w-8 h-8 rounded-full bg-red-100 flex items-center justify-center"
                     >
-                      <i class="fa-solid fa-exclamation text-red-600"></i>
+                      <AlertCircle class="w-4 h-4 text-red-600" aria-hidden="true" />
                     </div>
                     <div v-else class="w-8 h-8 rounded-full bg-blue-100 flex items-center justify-center">
-                      <i class="fa-solid fa-clock text-blue-600"></i>
+                      <Clock class="w-4 h-4 text-blue-600" aria-hidden="true" />
                     </div>
                   </div>
 
@@ -280,15 +281,15 @@ const budgetBarColor = computed(() => {
                     </div>
                     <div class="text-xs text-gray-400 mt-1">
                       <template v-if="milestone.status === 'Completed' && milestone.completion_date">
-                        <i class="fa-solid fa-check-circle text-green-500 mr-1"></i>
+                        <CircleCheck class="w-3 h-3 text-green-500 inline mr-1" aria-hidden="true" />
                         {{ __('Completed') }} {{ formatDate(milestone.completion_date) }}
                       </template>
                       <template v-else-if="milestone.is_overdue">
-                        <i class="fa-solid fa-exclamation-triangle text-red-500 mr-1"></i>
+                        <TriangleAlert class="w-3 h-3 text-red-500 inline mr-1" aria-hidden="true" />
                         {{ __('Overdue - was due {0}', [formatDate(milestone.due_date)]) }}
                       </template>
                       <template v-else>
-                        <i class="fa-regular fa-calendar mr-1"></i>
+                        <Calendar class="w-3 h-3 inline mr-1" aria-hidden="true" />
                         {{ __('Due {0}', [formatDate(milestone.due_date)]) }}
                       </template>
                     </div>
@@ -298,7 +299,7 @@ const budgetBarColor = computed(() => {
 
               <!-- Empty State -->
               <div v-else class="text-center py-8 text-gray-500">
-                <i class="fa-solid fa-flag fa-2x text-gray-300 mb-2"></i>
+                <Flag class="w-6 h-6 text-gray-300 mb-2 mx-auto" aria-hidden="true" />
                 <p>{{ __('No milestones defined for this project.') }}</p>
               </div>
             </div>
@@ -308,7 +309,7 @@ const budgetBarColor = computed(() => {
           <div v-if="recentActivity.length" class="bg-white rounded-lg border border-gray-200 shadow-sm">
             <div class="p-4 border-b border-gray-100">
               <h2 class="font-semibold text-gray-800 flex items-center gap-2">
-                <i class="fa-solid fa-history text-gray-500"></i>
+                <History class="w-4 h-4 text-gray-500" aria-hidden="true" />
                 {{ __('Recent Activity') }}
               </h2>
             </div>
@@ -324,7 +325,7 @@ const budgetBarColor = computed(() => {
                     activity.type === 'milestone' ? 'bg-yellow-500' : 'bg-green-500'
                   ]"
                 >
-                  <i :class="['fa-solid text-sm', activity.type === 'milestone' ? 'fa-flag' : 'fa-check']"></i>
+                  <Flag v-if="activity.type === 'milestone'" class="w-3.5 h-3.5" aria-hidden="true" /><Check v-else class="w-3.5 h-3.5" aria-hidden="true" />
                 </span>
                 <div class="flex-1 min-w-0">
                   <div class="font-medium text-gray-800 truncate">{{ activity.title }}</div>
@@ -344,7 +345,7 @@ const budgetBarColor = computed(() => {
           <div class="bg-white rounded-lg border border-gray-200 shadow-sm">
             <div class="p-4 border-b border-gray-100">
               <h2 class="font-semibold text-gray-800 flex items-center gap-2">
-                <i class="fa-solid fa-info-circle text-blue-500"></i>
+                <Info class="w-4 h-4 text-blue-500" aria-hidden="true" />
                 {{ __('Project Details') }}
               </h2>
             </div>
@@ -382,7 +383,7 @@ const budgetBarColor = computed(() => {
           <div v-if="project.budget" class="bg-white rounded-lg border border-gray-200 shadow-sm">
             <div class="p-4 border-b border-gray-100">
               <h2 class="font-semibold text-gray-800 flex items-center gap-2">
-                <i class="fa-solid fa-coins text-yellow-500"></i>
+                <Coins class="w-4 h-4 text-yellow-500" aria-hidden="true" />
                 {{ __('Budget') }}
               </h2>
             </div>
@@ -411,7 +412,7 @@ const budgetBarColor = computed(() => {
           <div class="bg-white rounded-lg border border-gray-200 shadow-sm">
             <div class="p-4 border-b border-gray-100">
               <h2 class="font-semibold text-gray-800 flex items-center gap-2">
-                <i class="fa-solid fa-bolt text-orga-500"></i>
+                <Zap class="w-4 h-4 text-accent-500" aria-hidden="true" />
                 {{ __('Quick Actions') }}
               </h2>
             </div>
@@ -420,14 +421,14 @@ const budgetBarColor = computed(() => {
                 to="/orga/portal"
                 class="flex items-center gap-2 w-full px-4 py-2 text-gray-700 border border-gray-200 rounded hover:bg-gray-50 no-underline"
               >
-                <i class="fa-solid fa-arrow-left text-gray-500"></i>
+                <ArrowLeft class="w-4 h-4 text-gray-500" aria-hidden="true" />
                 {{ __('Back to Projects') }}
               </router-link>
               <router-link
                 :to="`/orga/portal/support?project=${project.name}`"
                 class="flex items-center gap-2 w-full px-4 py-2 text-gray-700 border border-gray-200 rounded hover:bg-gray-50 no-underline"
               >
-                <i class="fa-solid fa-envelope text-gray-500"></i>
+                <Mail class="w-4 h-4 text-gray-500" aria-hidden="true" />
                 {{ __('Contact Support') }}
               </router-link>
             </div>

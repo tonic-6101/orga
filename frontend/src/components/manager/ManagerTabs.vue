@@ -7,8 +7,8 @@
   Usage:
     <ManagerTabs
       :tabs="[
-        { id: 'details', icon: 'fa-file-alt', label: 'Details' },
-        { id: 'actions', icon: 'fa-bolt', label: 'Actions' }
+        { id: 'details', icon: 'file-alt', label: 'Details' },
+        { id: 'actions', icon: 'bolt', label: 'Actions' }
       ]"
       storage-key="activity-manager"
       section-label="ACTIVITY"
@@ -33,17 +33,17 @@
         class="flex-1 flex items-center justify-center py-2 relative group transition-colors"
         :class="[
           activeTab === tab.id
-            ? 'text-orga-500'
+            ? 'text-accent-500'
             : 'text-gray-400 hover:text-gray-600 dark:text-gray-500 dark:hover:text-gray-300'
         ]"
         :title="tab.label"
       >
-        <i :class="['fa-solid', tab.icon, 'text-base']"></i>
+        <OrgaIcon :name="tab.icon" class="w-4 h-4" />
 
         <!-- Active Indicator -->
         <div
           v-if="activeTab === tab.id"
-          class="absolute bottom-0 left-2 right-2 h-0.5 bg-orga-500 rounded-full"
+          class="absolute bottom-0 left-2 right-2 h-0.5 bg-accent-500 rounded-full"
         ></div>
 
         <!-- Tooltip -->
@@ -60,6 +60,7 @@
 <script setup lang="ts">
 import { ref, onMounted, watch } from 'vue'
 import type { ManagerTab } from '@/types/orga'
+import OrgaIcon from '@/components/common/OrgaIcon.vue'
 
 interface Props {
   /** Array of tab definitions */

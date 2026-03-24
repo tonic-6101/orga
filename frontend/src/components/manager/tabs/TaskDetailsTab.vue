@@ -9,7 +9,7 @@
     <!-- Priority, Status & Task Type Badges -->
     <div class="flex items-center gap-2 flex-wrap">
       <span :class="['px-2 py-1 text-xs rounded-full border', priorityColors[task.priority]]">
-        <i class="fa-solid fa-flag mr-1"></i>
+        <Flag class="w-3 h-3 inline mr-1" aria-hidden="true" />
         {{ task.priority }}
       </span>
       <span :class="['px-2 py-1 text-xs rounded-full', statusColors[task.status]]">
@@ -19,7 +19,7 @@
         v-if="task.task_type"
         :class="['px-2 py-1 text-xs rounded-full border', taskTypeColors[task.task_type] || taskTypeColors.default]"
       >
-        <i :class="['mr-1', taskTypeIcons[task.task_type] || 'fa-solid fa-circle']"></i>
+        <OrgaIcon :name="taskTypeIcons[task.task_type] || 'circle'" class="w-3 h-3 inline mr-1" />
         {{ task.task_type }}
       </span>
     </div>
@@ -30,7 +30,7 @@
       <select
         :value="task.task_type || ''"
         @change="handleTaskTypeChange(($event.target as HTMLSelectElement).value)"
-        class="w-full mt-1 px-2 py-1.5 text-sm border border-gray-200 dark:border-gray-700 rounded-lg bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:outline-none focus:border-orga-500 dark:focus:border-orga-400 focus:ring-1 focus:ring-orga-500 dark:focus:ring-orga-400 cursor-pointer"
+        class="w-full mt-1 px-2 py-1.5 text-sm border border-gray-200 dark:border-gray-700 rounded-lg bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:outline-none focus:border-accent-500 dark:focus:border-accent-400 focus:ring-1 focus:ring-accent-500 dark:focus:ring-accent-400 cursor-pointer"
       >
         <option value="">{{ __('None') }}</option>
         <option value="Task">{{ __('Task') }}</option>
@@ -49,7 +49,7 @@
           ref="subjectInputRef"
           v-model="editSubjectText"
           type="text"
-          class="w-full px-2 py-1.5 text-sm font-medium border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:outline-none focus:border-orga-500 dark:focus:border-orga-400 focus:ring-1 focus:ring-orga-500 dark:focus:ring-orga-400"
+          class="w-full px-2 py-1.5 text-sm font-medium border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:outline-none focus:border-accent-500 dark:focus:border-accent-400 focus:ring-1 focus:ring-accent-500 dark:focus:ring-accent-400"
           @keydown.enter="saveSubject"
           @keydown.escape="cancelEditSubject"
           @blur="saveSubject"
@@ -58,7 +58,7 @@
       <p
         v-else
         @click="startEditSubject"
-        class="text-sm text-gray-800 dark:text-gray-200 mt-1 font-medium cursor-text hover:text-orga-600 dark:hover:text-orga-400 transition-colors"
+        class="text-sm text-gray-800 dark:text-gray-200 mt-1 font-medium cursor-text hover:text-accent-600 dark:hover:text-accent-400 transition-colors"
         :title="__('Click to edit')"
       >{{ task.subject }}</p>
       <p class="text-xs text-gray-500 dark:text-gray-400 mt-0.5">{{ task.name }}</p>
@@ -72,7 +72,7 @@
         <textarea
           v-model="editDescriptionText"
           rows="3"
-          class="w-full px-2 py-1.5 text-sm border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 focus:outline-none focus:border-orga-500 dark:focus:border-orga-400 focus:ring-1 focus:ring-orga-500 dark:focus:ring-orga-400 resize-y"
+          class="w-full px-2 py-1.5 text-sm border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-700 dark:text-gray-300 focus:outline-none focus:border-accent-500 dark:focus:border-accent-400 focus:ring-1 focus:ring-accent-500 dark:focus:ring-accent-400 resize-y"
           :placeholder="__('Add a task description...')"
           @keydown.escape="cancelEditDescription"
         ></textarea>
@@ -86,9 +86,9 @@
           <button
             @click="saveDescription"
             :disabled="isSavingDescription"
-            class="px-2 py-1 text-xs font-medium text-white bg-orga-500 rounded hover:bg-orga-600 transition-colors disabled:opacity-50 flex items-center gap-1"
+            class="px-2 py-1 text-xs font-medium text-white bg-accent-500 rounded hover:bg-accent-600 transition-colors disabled:opacity-50 flex items-center gap-1"
           >
-            <i v-if="isSavingDescription" class="fa-solid fa-spinner fa-spin"></i>
+            <Loader2 v-if="isSavingDescription" class="w-3 h-3 animate-spin" aria-hidden="true" />
             {{ isSavingDescription ? __('Saving...') : __('Save') }}
           </button>
         </div>
@@ -102,9 +102,9 @@
       >
         <p
           v-if="task.description"
-          class="text-sm text-gray-700 dark:text-gray-300 whitespace-pre-wrap m-0 group-hover:text-orga-600 dark:group-hover:text-orga-400 transition-colors"
+          class="text-sm text-gray-700 dark:text-gray-300 whitespace-pre-wrap m-0 group-hover:text-accent-600 dark:group-hover:text-accent-400 transition-colors"
         >{{ task.description }}</p>
-        <p v-else class="text-sm text-gray-400 dark:text-gray-500 m-0 italic group-hover:text-orga-500 dark:group-hover:text-orga-400 transition-colors">
+        <p v-else class="text-sm text-gray-400 dark:text-gray-500 m-0 italic group-hover:text-accent-500 dark:group-hover:text-accent-400 transition-colors">
           {{ __('Click to add description...') }}
         </p>
       </div>
@@ -120,7 +120,7 @@
           type="text"
           list="task-group-suggestions"
           placeholder="e.g. Pre-work, Finishing..."
-          class="w-full px-2 py-1.5 text-sm border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:outline-none focus:border-orga-500 dark:focus:border-orga-400 focus:ring-1 focus:ring-orga-500 dark:focus:ring-orga-400"
+          class="w-full px-2 py-1.5 text-sm border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:outline-none focus:border-accent-500 dark:focus:border-accent-400 focus:ring-1 focus:ring-accent-500 dark:focus:ring-accent-400"
           @keydown.enter="saveGroup"
           @keydown.escape="cancelEditGroup"
           @blur="saveGroup"
@@ -134,10 +134,10 @@
           v-if="task.task_group"
           class="inline-flex items-center gap-1 px-2 py-0.5 text-xs font-medium rounded-full bg-indigo-100 dark:bg-indigo-900/30 text-indigo-700 dark:text-indigo-300 group-hover:bg-indigo-200 dark:group-hover:bg-indigo-900/50 transition-colors"
         >
-          <i class="fa-solid fa-layer-group text-[9px]"></i>
+          <Layers class="w-2.5 h-2.5" aria-hidden="true" />
           {{ task.task_group }}
         </span>
-        <span v-else class="text-sm text-gray-400 dark:text-gray-500 italic group-hover:text-orga-500 dark:group-hover:text-orga-400 transition-colors">
+        <span v-else class="text-sm text-gray-400 dark:text-gray-500 italic group-hover:text-accent-500 dark:group-hover:text-accent-400 transition-colors">
           {{ __('Click to set group...') }}
         </span>
         <button
@@ -146,13 +146,13 @@
           class="text-gray-400 hover:text-red-500 dark:hover:text-red-400 transition-colors opacity-0 group-hover:opacity-100"
           :title="__('Remove from group')"
         >
-          <i class="fa-solid fa-xmark text-[10px]"></i>
+          <X class="w-2.5 h-2.5" aria-hidden="true" />
         </button>
       </div>
     </div>
 
-    <!-- Depends on Group (Inline Editable with Autocomplete) -->
-    <div class="relative">
+    <!-- Depends on Group (Inline Editable with Autocomplete) — only for project tasks -->
+    <div v-if="task.project" class="relative">
       <label class="text-[10px] font-semibold text-gray-400 dark:text-gray-500 uppercase tracking-wider">{{ __('Depends on Group') }}</label>
       <div v-if="isEditingDependsOnGroup" class="mt-1 relative">
         <input
@@ -161,7 +161,7 @@
           type="text"
           list="depends-on-group-suggestions"
           placeholder="e.g. Pre-work — blocks until all complete"
-          class="w-full px-2 py-1.5 text-sm border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:outline-none focus:border-orga-500 dark:focus:border-orga-400 focus:ring-1 focus:ring-orga-500 dark:focus:ring-orga-400"
+          class="w-full px-2 py-1.5 text-sm border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:outline-none focus:border-accent-500 dark:focus:border-accent-400 focus:ring-1 focus:ring-accent-500 dark:focus:ring-accent-400"
           @keydown.enter="saveDependsOnGroup"
           @keydown.escape="cancelEditDependsOnGroup"
           @blur="saveDependsOnGroup"
@@ -175,10 +175,10 @@
           v-if="task.depends_on_group"
           class="inline-flex items-center gap-1 px-2 py-0.5 text-xs font-medium rounded-full bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-300 group-hover:bg-amber-200 dark:group-hover:bg-amber-900/50 transition-colors"
         >
-          <i class="fa-solid fa-lock text-[9px]"></i>
+          <Lock class="w-2.5 h-2.5" aria-hidden="true" />
           {{ __('Waits for:') }} {{ task.depends_on_group }}
         </span>
-        <span v-else class="text-sm text-gray-400 dark:text-gray-500 italic group-hover:text-orga-500 dark:group-hover:text-orga-400 transition-colors">
+        <span v-else class="text-sm text-gray-400 dark:text-gray-500 italic group-hover:text-accent-500 dark:group-hover:text-accent-400 transition-colors">
           {{ __('Click to set group dependency...') }}
         </span>
         <button
@@ -187,7 +187,7 @@
           class="text-gray-400 hover:text-red-500 dark:hover:text-red-400 transition-colors opacity-0 group-hover:opacity-100"
           :title="__('Remove group dependency')"
         >
-          <i class="fa-solid fa-xmark text-[10px]"></i>
+          <X class="w-2.5 h-2.5" aria-hidden="true" />
         </button>
       </div>
     </div>
@@ -209,7 +209,7 @@
           <span class="text-sm text-gray-800 dark:text-gray-200 flex-1">{{ task.assigned_to_name }}</span>
         </template>
         <span v-else class="text-sm text-gray-400 dark:text-gray-500 flex-1">{{ __('Unassigned') }}</span>
-        <i class="fa-solid fa-chevron-down text-[10px] text-gray-400"></i>
+        <ChevronDown class="w-2.5 h-2.5 text-gray-400" aria-hidden="true" />
       </button>
       <!-- Dropdown -->
       <div
@@ -222,7 +222,7 @@
           @click="selectContact(null)"
           class="w-full flex items-center gap-2 px-3 py-2 text-sm text-gray-500 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors border-b border-gray-100 dark:border-gray-700"
         >
-          <i class="fa-solid fa-user-slash text-xs text-gray-400 w-5 text-center"></i>
+          <UserX class="w-3 h-3 text-gray-400" aria-hidden="true" />
           <span>{{ __('Unassign') }}</span>
         </button>
         <!-- Contacts -->
@@ -233,7 +233,7 @@
           :class="[
             'w-full flex items-center gap-2 px-3 py-2 text-sm transition-colors',
             assignedContact?.name === contact.name
-              ? 'bg-orga-50 dark:bg-orga-900/20 text-orga-700 dark:text-orga-400'
+              ? 'bg-accent-50 dark:bg-accent-900/20 text-accent-700 dark:text-accent-400'
               : 'text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-800'
           ]"
         >
@@ -242,7 +242,7 @@
             <span class="block truncate">{{ contact.resource_name }}</span>
             <span class="text-[10px] text-gray-400 dark:text-gray-500">{{ contact.department || contact.status }}</span>
           </div>
-          <i v-if="assignedContact?.name === contact.name" class="fa-solid fa-check text-xs text-orga-500"></i>
+          <Check v-if="assignedContact?.name === contact.name" class="w-3 h-3 text-accent-500" aria-hidden="true" />
         </button>
         <!-- Empty state -->
         <p v-if="!contacts.length" class="text-xs text-gray-400 dark:text-gray-500 text-center py-3">
@@ -260,7 +260,7 @@
             type="date"
             :value="task.start_date || ''"
             @change="handleDateChange('start_date', ($event.target as HTMLInputElement).value)"
-            class="w-full px-2 py-1.5 text-sm text-gray-800 dark:text-gray-200 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg focus:ring-2 focus:ring-orga-500 focus:border-orga-500 transition-colors"
+            class="w-full px-2 py-1.5 text-sm text-gray-800 dark:text-gray-200 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg focus:ring-2 focus:ring-accent-500 focus:border-accent-500 transition-colors"
           />
           <button
             v-if="task.start_date"
@@ -268,7 +268,7 @@
             class="absolute right-8 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600 dark:hover:text-gray-300"
             :title="__('Clear date')"
           >
-            <i class="fa-solid fa-xmark text-xs"></i>
+            <X class="w-3 h-3" aria-hidden="true" />
           </button>
         </div>
       </div>
@@ -279,7 +279,7 @@
             type="date"
             :value="task.due_date || ''"
             @change="handleDateChange('due_date', ($event.target as HTMLInputElement).value)"
-            class="w-full px-2 py-1.5 text-sm text-gray-800 dark:text-gray-200 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg focus:ring-2 focus:ring-orga-500 focus:border-orga-500 transition-colors"
+            class="w-full px-2 py-1.5 text-sm text-gray-800 dark:text-gray-200 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg focus:ring-2 focus:ring-accent-500 focus:border-accent-500 transition-colors"
           />
           <button
             v-if="task.due_date"
@@ -287,7 +287,7 @@
             class="absolute right-8 top-1/2 -translate-y-1/2 text-gray-400 hover:text-gray-600 dark:hover:text-gray-300"
             :title="__('Clear date')"
           >
-            <i class="fa-solid fa-xmark text-xs"></i>
+            <X class="w-3 h-3" aria-hidden="true" />
           </button>
         </div>
       </div>
@@ -354,7 +354,7 @@
             @input="handleProgressInput(($event.target as HTMLInputElement).valueAsNumber)"
             @change="handleProgressCommit"
             :disabled="isProgressDisabled"
-            class="flex-1 h-2 bg-gray-200 dark:bg-gray-700 rounded-lg appearance-none cursor-pointer accent-orga-500 disabled:opacity-50 disabled:cursor-not-allowed"
+            class="flex-1 h-2 bg-gray-200 dark:bg-gray-700 rounded-lg appearance-none cursor-pointer accent-accent-500 disabled:opacity-50 disabled:cursor-not-allowed"
           />
           <input
             type="number"
@@ -366,7 +366,7 @@
             @blur="handleProgressCommit"
             @keydown.enter="handleProgressCommit"
             :disabled="isProgressDisabled"
-            class="w-16 px-2 py-1 text-sm text-center text-gray-800 dark:text-gray-200 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg focus:ring-2 focus:ring-orga-500 focus:border-orga-500 disabled:opacity-50 disabled:cursor-not-allowed"
+            class="w-16 px-2 py-1 text-sm text-center text-gray-800 dark:text-gray-200 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg focus:ring-2 focus:ring-accent-500 focus:border-accent-500 disabled:opacity-50 disabled:cursor-not-allowed"
           />
         </div>
 
@@ -380,7 +380,7 @@
             :class="[
               'px-2 py-1 text-xs font-medium rounded-md transition-colors',
               localProgress === preset
-                ? 'bg-orga-500 text-white'
+                ? 'bg-accent-500 text-white'
                 : 'bg-gray-100 text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:text-gray-400 dark:hover:bg-gray-700',
               'disabled:opacity-50 disabled:cursor-not-allowed'
             ]"
@@ -388,31 +388,41 @@
             {{ preset }}%
           </button>
           <span v-if="isSavingProgress" class="ml-2 text-xs text-gray-400">
-            <i class="fa-solid fa-spinner fa-spin mr-1"></i>{{ __('Saving...') }}
+            <Loader2 class="w-3 h-3 animate-spin inline mr-1" aria-hidden="true" />{{ __('Saving...') }}
           </span>
         </div>
 
         <!-- Status Hint -->
         <p v-if="isProgressDisabled" class="text-xs text-gray-400 dark:text-gray-500">
-          <i class="fa-solid fa-info-circle mr-1"></i>
+          <Info class="w-3 h-3 inline mr-1" aria-hidden="true" />
           {{ progressDisabledReason }}
         </p>
       </div>
     </div>
 
-    <!-- Project Reference -->
-    <div v-if="task.project">
+    <!-- Project (Editable Select) -->
+    <div>
       <label class="text-[10px] font-semibold text-gray-400 dark:text-gray-500 uppercase tracking-wider">{{ __('Project') }}</label>
-      <p class="text-sm text-gray-800 dark:text-gray-200 mt-1">{{ task.project_name || task.project }}</p>
+      <select
+        :value="task.project || ''"
+        @change="handleProjectChange(($event.target as HTMLSelectElement).value)"
+        class="w-full mt-1 px-2 py-1.5 text-sm border border-gray-200 dark:border-gray-700 rounded-lg bg-white dark:bg-gray-800 text-gray-800 dark:text-gray-200 focus:outline-none focus:border-accent-500 dark:focus:border-accent-400 focus:ring-1 focus:ring-accent-500 dark:focus:ring-accent-400 cursor-pointer"
+      >
+        <option value="">{{ __('No project (standalone)') }}</option>
+        <option v-for="p in projects" :key="p.name" :value="p.name">{{ p.project_name || p.name }}</option>
+      </select>
     </div>
   </div>
 </template>
 
 <script setup lang="ts">
-import { ref, computed, watch, nextTick } from 'vue'
+import { ref, computed, watch, nextTick, onMounted } from 'vue'
 import { __ } from '@/composables/useTranslate'
-import type { OrgaTask, OrgaContact, TaskPriority, TaskType } from '@/types/orga'
+import { useProjectApi } from '@/composables/useApi'
+import type { OrgaTask, OrgaContact, OrgaProject, TaskPriority, TaskType } from '@/types/orga'
 import UserAvatar from '@/components/common/UserAvatar.vue'
+import OrgaIcon from '@/components/common/OrgaIcon.vue'
+import { Flag, X, Loader2, Layers, Lock, ChevronDown, UserX, Check, Info } from 'lucide-vue-next'
 
 interface Props {
   task: OrgaTask
@@ -422,7 +432,20 @@ interface Props {
 
 const props = withDefaults(defineProps<Props>(), {
   contacts: () => [],
-  availableGroups: () => []
+  availableGroups: () => [],
+})
+
+// Load projects for the project picker
+const projectApi = useProjectApi()
+const projects = ref<OrgaProject[]>([])
+
+onMounted(async () => {
+  try {
+    const result = await projectApi.getProjects({ status: 'Active', limit: 200 })
+    projects.value = result.projects || []
+  } catch {
+    // Non-critical — picker will just be empty
+  }
 })
 
 const emit = defineEmits<{
@@ -435,6 +458,7 @@ const emit = defineEmits<{
   'depends-on-group-change': [value: string]
   'task-type-change': [value: string]
   'auto-trail-change': [value: boolean]
+  'project-change': [value: string | null]
 }>()
 
 // ============================================
@@ -444,6 +468,16 @@ const emit = defineEmits<{
 function handleTaskTypeChange(value: string): void {
   if (value === (props.task.task_type || '')) return
   emit('task-type-change', value)
+}
+
+// ============================================
+// Project Change
+// ============================================
+
+function handleProjectChange(value: string): void {
+  const newProject = value || null
+  if (newProject === (props.task.project || null)) return
+  emit('project-change', newProject)
 }
 
 // ============================================
@@ -644,7 +678,7 @@ const progressDisabledReason = computed(() => {
 // Progress bar color based on value
 const progressBarClass = computed(() => {
   if (localProgress.value === 100) return 'bg-green-500'
-  if (localProgress.value >= 75) return 'bg-orga-500'
+  if (localProgress.value >= 75) return 'bg-accent-500'
   if (localProgress.value >= 50) return 'bg-yellow-500'
   if (localProgress.value >= 25) return 'bg-orange-500'
   return 'bg-gray-400'
@@ -745,11 +779,11 @@ const taskTypeColors: Record<string, string> = {
 }
 
 const taskTypeIcons: Record<string, string> = {
-  'Task': 'fa-solid fa-check-circle',
-  'Bug': 'fa-solid fa-bug',
-  'Feature': 'fa-solid fa-star',
-  'Research': 'fa-solid fa-flask',
-  'Meeting': 'fa-solid fa-users'
+  'Task': 'check-circle',
+  'Bug': 'bug',
+  'Feature': 'star',
+  'Research': 'flask',
+  'Meeting': 'users'
 }
 
 function formatDate(date: string | null | undefined): string {

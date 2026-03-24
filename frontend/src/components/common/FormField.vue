@@ -13,7 +13,8 @@
   - Accessible with proper ARIA attributes
 -->
 <script setup lang="ts">
-import { computed, ref, watch } from 'vue'
+import { computed, ref } from 'vue'
+import { CircleCheck, AlertCircle, TriangleAlert } from 'lucide-vue-next'
 
 interface Props {
   label: string
@@ -61,11 +62,11 @@ const charCounterClass = computed(() => {
       </label>
 
       <!-- Validation indicator -->
-      <span v-if="isValid" class="text-green-500 text-sm" :aria-label="__('Valid')">
-        <i class="fa-solid fa-check-circle"></i>
+      <span v-if="isValid" class="text-green-500" :aria-label="__('Valid')">
+        <CircleCheck class="w-4 h-4" />
       </span>
-      <span v-else-if="hasError" class="text-red-500 text-sm" :aria-label="__('Error')">
-        <i class="fa-solid fa-exclamation-circle"></i>
+      <span v-else-if="hasError" class="text-red-500" :aria-label="__('Error')">
+        <AlertCircle class="w-4 h-4" />
       </span>
     </div>
 
@@ -83,7 +84,7 @@ const charCounterClass = computed(() => {
           class="text-xs text-red-500 flex items-center gap-1"
           role="alert"
         >
-          <i class="fa-solid fa-exclamation-triangle text-[10px]"></i>
+          <TriangleAlert class="w-3 h-3" />
           {{ error }}
         </p>
         <p

@@ -7,6 +7,7 @@ import { ref, onMounted } from 'vue'
 import { useTemplateApi } from '@/composables/useApi'
 import { useToast } from '@/composables/useToast'
 import { __ } from '@/composables/useTranslate'
+import { Loader2, TriangleAlert, Copy, FileInput, ListChecks, Flag, Link, Play, Download, Pencil, Trash2 } from 'lucide-vue-next'
 import ApplyTemplateModal from '@/components/project/ApplyTemplateModal.vue'
 import type { OrgaProjectTemplate, TemplateCategory } from '@/types/orga'
 
@@ -184,10 +185,10 @@ onMounted(loadTemplates)
       <button
         @click="triggerImport"
         :disabled="isImporting"
-        class="px-4 py-2 bg-orga-500 text-white rounded hover:bg-orga-600 flex items-center gap-2 disabled:opacity-50"
+        class="px-4 py-2 bg-accent-500 text-white rounded hover:bg-accent-600 flex items-center gap-2 disabled:opacity-50"
       >
-        <i v-if="isImporting" class="fa-solid fa-spinner fa-spin"></i>
-        <i v-else class="fa-solid fa-file-import"></i>
+        <Loader2 v-if="isImporting" class="w-4 h-4 animate-spin" aria-hidden="true" />
+        <FileInput v-else class="w-4 h-4" aria-hidden="true" />
         {{ __('Import Template') }}
       </button>
       <input
@@ -214,7 +215,7 @@ onMounted(loadTemplates)
     <!-- Loading State -->
     <div v-if="isLoading" class="flex items-center justify-center py-12">
       <div class="text-center">
-        <i class="fa-solid fa-spinner fa-spin text-3xl text-orga-500 mb-3"></i>
+        <Loader2 class="w-8 h-8 text-accent-500 mb-3 animate-spin" aria-hidden="true" />
         <p class="text-gray-500 dark:text-gray-400">{{ __('Loading templates...') }}</p>
       </div>
     </div>
@@ -222,7 +223,7 @@ onMounted(loadTemplates)
     <!-- Error State -->
     <div v-else-if="loadError" class="bg-red-50 dark:bg-red-950/30 border border-red-200 dark:border-red-800 rounded-lg p-6">
       <div class="flex items-center gap-3">
-        <i class="fa-solid fa-exclamation-triangle text-red-500 text-xl"></i>
+        <TriangleAlert class="w-5 h-5 text-red-500" aria-hidden="true" />
         <div>
           <h3 class="text-red-800 dark:text-red-300 font-medium">{{ __('Error loading templates') }}</h3>
           <p class="text-red-600 dark:text-red-400 text-sm">{{ loadError }}</p>
@@ -238,14 +239,14 @@ onMounted(loadTemplates)
 
     <!-- Empty State -->
     <div v-else-if="templates.length === 0" class="text-center py-12">
-      <i class="fa-solid fa-copy text-5xl text-gray-300 dark:text-gray-600 mb-4"></i>
+      <Copy class="w-12 h-12 text-gray-300 dark:text-gray-600 mb-4 mx-auto" aria-hidden="true" />
       <h3 class="text-lg font-medium text-gray-800 dark:text-gray-100 mb-2">{{ __('No templates yet') }}</h3>
       <p class="text-gray-500 dark:text-gray-400 mb-4">{{ __('Save a project as a template, or import one from a JSON file.') }}</p>
       <button
         @click="triggerImport"
-        class="px-4 py-2 bg-orga-500 text-white rounded hover:bg-orga-600"
+        class="px-4 py-2 bg-accent-500 text-white rounded hover:bg-accent-600"
       >
-        <i class="fa-solid fa-file-import mr-2"></i> {{ __('Import Template') }}
+        <FileInput class="w-4 h-4 inline mr-2" aria-hidden="true" /> {{ __('Import Template') }}
       </button>
     </div>
 
@@ -261,18 +262,18 @@ onMounted(loadTemplates)
           <input
             v-model="editName"
             type="text"
-            class="w-full px-3 py-1.5 text-sm border border-gray-300 dark:border-gray-600 rounded bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 focus:border-orga-500 focus:outline-none"
+            class="w-full px-3 py-1.5 text-sm border border-gray-300 dark:border-gray-600 rounded bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 focus:border-accent-500 focus:outline-none"
             :placeholder="__('Template name')"
           />
           <textarea
             v-model="editDescription"
             rows="2"
-            class="w-full px-3 py-1.5 text-sm border border-gray-300 dark:border-gray-600 rounded bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 focus:border-orga-500 focus:outline-none"
+            class="w-full px-3 py-1.5 text-sm border border-gray-300 dark:border-gray-600 rounded bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 focus:border-accent-500 focus:outline-none"
             :placeholder="__('Description')"
           ></textarea>
           <select
             v-model="editCategory"
-            class="w-full px-3 py-1.5 text-sm border border-gray-300 dark:border-gray-600 rounded bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 focus:border-orga-500 focus:outline-none"
+            class="w-full px-3 py-1.5 text-sm border border-gray-300 dark:border-gray-600 rounded bg-white dark:bg-gray-700 text-gray-900 dark:text-gray-100 focus:border-accent-500 focus:outline-none"
           >
             <option v-for="cat in categories" :key="cat" :value="cat">{{ cat }}</option>
           </select>
@@ -285,9 +286,9 @@ onMounted(loadTemplates)
             <button
               @click="saveEdit"
               :disabled="!editName.trim() || isSavingEdit"
-              class="px-3 py-1 text-xs bg-orga-500 text-white rounded hover:bg-orga-600 disabled:opacity-50"
+              class="px-3 py-1 text-xs bg-accent-500 text-white rounded hover:bg-accent-600 disabled:opacity-50"
             >
-              <i v-if="isSavingEdit" class="fa-solid fa-spinner fa-spin mr-1"></i>
+              <Loader2 v-if="isSavingEdit" class="w-3 h-3 animate-spin inline mr-1" aria-hidden="true" />
               {{ __('Save') }}
             </button>
           </div>
@@ -311,17 +312,17 @@ onMounted(loadTemplates)
           <!-- Counts -->
           <div class="flex gap-4 mb-3 text-sm text-gray-600 dark:text-gray-300">
             <span class="flex items-center gap-1">
-              <i class="fa-solid fa-list-check text-xs text-gray-400"></i>
+              <ListChecks class="w-3 h-3 text-gray-400" aria-hidden="true" />
               {{ tpl.task_count === 1 ? __('1 task') : __('{0} tasks', [tpl.task_count]) }}
             </span>
             <span class="flex items-center gap-1">
-              <i class="fa-solid fa-flag text-xs text-gray-400"></i>
+              <Flag class="w-3 h-3 text-gray-400" aria-hidden="true" />
               {{ tpl.milestone_count === 1 ? __('1 milestone') : __('{0} milestones', [tpl.milestone_count]) }}
             </span>
           </div>
 
           <div v-if="tpl.dependency_count" class="text-xs text-gray-500 dark:text-gray-400 mb-3">
-            <i class="fa-solid fa-link text-xs mr-1"></i>
+            <Link class="w-3 h-3 inline mr-1" aria-hidden="true" />
             {{ tpl.dependency_count === 1 ? __('1 dependency') : __('{0} dependencies', [tpl.dependency_count]) }}
           </div>
 
@@ -338,9 +339,9 @@ onMounted(loadTemplates)
           <div class="flex justify-between items-center pt-3 border-t border-gray-200 dark:border-gray-700">
             <button
               @click="handleApply(tpl)"
-              class="px-3 py-1.5 text-xs font-medium bg-orga-500 text-white rounded hover:bg-orga-600 transition-colors flex items-center gap-1"
+              class="px-3 py-1.5 text-xs font-medium bg-accent-500 text-white rounded hover:bg-accent-600 transition-colors flex items-center gap-1"
             >
-              <i class="fa-solid fa-play text-[10px]"></i> {{ __('Apply') }}
+              <Play class="w-2.5 h-2.5" aria-hidden="true" /> {{ __('Apply') }}
             </button>
             <div class="flex gap-1">
               <button
@@ -348,21 +349,21 @@ onMounted(loadTemplates)
                 class="p-1.5 text-gray-400 dark:text-gray-500 hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
                 :title="__('Export JSON')"
               >
-                <i class="fa-solid fa-download text-sm"></i>
+                <Download class="w-3.5 h-3.5" aria-hidden="true" />
               </button>
               <button
                 @click="startEdit(tpl)"
                 class="p-1.5 text-gray-400 dark:text-gray-500 hover:text-gray-600 dark:hover:text-gray-300 transition-colors"
                 :title="__('Edit')"
               >
-                <i class="fa-solid fa-pen text-sm"></i>
+                <Pencil class="w-3.5 h-3.5" aria-hidden="true" />
               </button>
               <button
                 @click="handleDelete(tpl)"
                 class="p-1.5 text-gray-400 dark:text-gray-500 hover:text-red-500 dark:hover:text-red-400 transition-colors"
                 :title="__('Delete')"
               >
-                <i class="fa-solid fa-trash text-sm"></i>
+                <Trash2 class="w-3.5 h-3.5" aria-hidden="true" />
               </button>
             </div>
           </div>

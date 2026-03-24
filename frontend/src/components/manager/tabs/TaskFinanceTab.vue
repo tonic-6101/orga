@@ -8,19 +8,19 @@
 <template>
   <div class="space-y-6">
     <!-- Cost Summary -->
-    <div class="bg-gradient-to-br from-orga-50 to-orga-100 dark:from-orga-900/30 dark:to-orga-800/20 rounded-lg p-4">
-      <h5 class="text-xs font-semibold text-orga-700 dark:text-orga-400 uppercase tracking-wider mb-3">
+    <div class="bg-gradient-to-br from-accent-50 to-accent-100 dark:from-accent-900/30 dark:to-accent-800/20 rounded-lg p-4">
+      <h5 class="text-xs font-semibold text-accent-700 dark:text-accent-400 uppercase tracking-wider mb-3">
         {{ __('Cost Summary') }}
       </h5>
       <div class="grid grid-cols-2 gap-4">
         <!-- Estimated Cost (editable) -->
         <div>
-          <p class="text-[10px] text-orga-600 dark:text-orga-500 uppercase">{{ __('Estimated') }}</p>
+          <p class="text-[10px] text-accent-600 dark:text-accent-500 uppercase">{{ __('Estimated') }}</p>
           <div
             v-if="editingField === 'estimated_cost'"
             class="flex items-center gap-1 mt-1"
           >
-            <span class="text-sm text-orga-600">{{ currencySymbol }}</span>
+            <span class="text-sm text-accent-600">{{ currencySymbol }}</span>
             <input
               ref="editInputRef"
               v-model.number="editValue"
@@ -30,13 +30,13 @@
               @keydown.enter="saveField"
               @keydown.escape="cancelEdit"
               @blur="saveField"
-              class="w-full text-lg font-bold bg-transparent border-b-2 border-orga-500 outline-none text-orga-800 dark:text-orga-300"
+              class="w-full text-lg font-bold bg-transparent border-b-2 border-accent-500 outline-none text-accent-800 dark:text-accent-300"
             />
           </div>
           <p
             v-else
             @click="startEdit('estimated_cost', task.estimated_cost || 0)"
-            class="text-xl font-bold text-orga-800 dark:text-orga-300 cursor-text hover:text-orga-600 dark:hover:text-orga-200 transition-colors"
+            class="text-xl font-bold text-accent-800 dark:text-accent-300 cursor-text hover:text-accent-600 dark:hover:text-accent-200 transition-colors"
             :title="__('Click to edit')"
           >
             {{ formatCurrency(task.estimated_cost || 0) }}
@@ -45,12 +45,12 @@
 
         <!-- Actual Cost (editable) -->
         <div>
-          <p class="text-[10px] text-orga-600 dark:text-orga-500 uppercase">{{ __('Actual') }}</p>
+          <p class="text-[10px] text-accent-600 dark:text-accent-500 uppercase">{{ __('Actual') }}</p>
           <div
             v-if="editingField === 'actual_cost'"
             class="flex items-center gap-1 mt-1"
           >
-            <span class="text-sm text-orga-600">{{ currencySymbol }}</span>
+            <span class="text-sm text-accent-600">{{ currencySymbol }}</span>
             <input
               ref="editInputRef"
               v-model.number="editValue"
@@ -60,13 +60,13 @@
               @keydown.enter="saveField"
               @keydown.escape="cancelEdit"
               @blur="saveField"
-              class="w-full text-lg font-bold bg-transparent border-b-2 border-orga-500 outline-none text-orga-800 dark:text-orga-300"
+              class="w-full text-lg font-bold bg-transparent border-b-2 border-accent-500 outline-none text-accent-800 dark:text-accent-300"
             />
           </div>
           <p
             v-else
             @click="startEdit('actual_cost', task.actual_cost || 0)"
-            class="text-xl font-bold text-orga-800 dark:text-orga-300 cursor-text hover:text-orga-600 dark:hover:text-orga-200 transition-colors"
+            class="text-xl font-bold text-accent-800 dark:text-accent-300 cursor-text hover:text-accent-600 dark:hover:text-accent-200 transition-colors"
             :title="__('Click to edit')"
           >
             {{ formatCurrency(task.actual_cost || 0) }}
@@ -75,9 +75,9 @@
       </div>
 
       <!-- Budget Variance -->
-      <div v-if="budgetVariance !== null" class="mt-3 pt-3 border-t border-orga-200 dark:border-orga-700">
+      <div v-if="budgetVariance !== null" class="mt-3 pt-3 border-t border-accent-200 dark:border-accent-700">
         <div class="flex items-center justify-between">
-          <span class="text-xs text-orga-600 dark:text-orga-500">{{ __('Variance') }}</span>
+          <span class="text-xs text-accent-600 dark:text-accent-500">{{ __('Variance') }}</span>
           <span :class="[
             'text-sm font-semibold',
             budgetVariance >= 0 ? 'text-green-600 dark:text-green-400' : 'text-red-600 dark:text-red-400'
@@ -92,7 +92,7 @@
     <!-- Time & Billing -->
     <div>
       <h5 class="text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider mb-3 flex items-center gap-2">
-        <i class="fa-solid fa-clock text-orga-500"></i>
+        <Clock class="w-3.5 h-3.5 text-accent-500" aria-hidden="true" />
         {{ __('Time & Billing') }}
       </h5>
 
@@ -126,7 +126,7 @@
               ]"
               :title="__('Toggle billable')"
             >
-              <i v-if="task.is_billable" class="fa-solid fa-check text-xs"></i>
+              <Check v-if="task.is_billable" class="w-3 h-3" aria-hidden="true" />
             </button>
             <span class="text-sm text-gray-700 dark:text-gray-300">{{ __('Billable') }}</span>
           </div>
@@ -147,14 +147,14 @@
                 @keydown.enter="saveField"
                 @keydown.escape="cancelEdit"
                 @blur="saveField"
-                class="w-20 text-sm font-medium bg-transparent border-b-2 border-orga-500 outline-none text-gray-800 dark:text-gray-200 text-right"
+                class="w-20 text-sm font-medium bg-transparent border-b-2 border-accent-500 outline-none text-gray-800 dark:text-gray-200 text-right"
               />
               <span class="text-xs text-gray-400">/hr</span>
             </div>
             <span
               v-else
               @click="startEdit('billing_rate', task.billing_rate || 0)"
-              class="text-sm font-medium text-gray-800 dark:text-gray-200 cursor-text hover:text-orga-600 dark:hover:text-orga-400 transition-colors"
+              class="text-sm font-medium text-gray-800 dark:text-gray-200 cursor-text hover:text-accent-600 dark:hover:text-accent-400 transition-colors"
               :title="__('Click to edit rate')"
             >
               {{ task.billing_rate ? `${formatCurrency(task.billing_rate)}/hr` : __('Set rate') }}
@@ -180,6 +180,7 @@
 import { ref, computed, nextTick } from 'vue'
 import type { OrgaTask } from '@/types/orga'
 import { useCurrency } from '@/composables/useCurrency'
+import { Clock, Check } from 'lucide-vue-next'
 
 interface Props {
   task: OrgaTask

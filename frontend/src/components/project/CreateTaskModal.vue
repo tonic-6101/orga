@@ -6,6 +6,7 @@
 -->
 <script setup lang="ts">
 import { ref, computed, watch } from 'vue'
+import { X, ChevronDown, Info, Loader2 } from 'lucide-vue-next'
 import { useTaskApi, useUserApi } from '@/composables/useApi'
 import { useToast } from '@/composables/useToast'
 import { __ } from '@/composables/useTranslate'
@@ -226,7 +227,7 @@ watch(() => props.isOpen, (open) => {
             @click="handleClose"
             class="p-1 text-gray-400 hover:text-gray-600 dark:hover:text-gray-300 rounded"
           >
-            <i class="fa-solid fa-xmark text-xl"></i>
+            <X class="w-5 h-5" aria-hidden="true" />
           </button>
         </div>
 
@@ -260,7 +261,7 @@ watch(() => props.isOpen, (open) => {
                     ? 'border-red-500 focus:ring-red-500/20 focus:border-red-500'
                     : isValid
                     ? 'border-green-500 focus:ring-green-500/20 focus:border-green-500'
-                    : 'border-gray-300 dark:border-gray-600 focus:ring-orga-500/20 focus:border-orga-500'
+                    : 'border-gray-300 dark:border-gray-600 focus:ring-accent-500/20 focus:border-accent-500'
                 ]"
               />
             </template>
@@ -277,7 +278,7 @@ watch(() => props.isOpen, (open) => {
                 v-model="formData.description"
                 rows="3"
                 :placeholder="__('Add details about this task...')"
-                class="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg text-sm bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-100 focus:outline-none focus:ring-2 focus:ring-orga-500/20 focus:border-orga-500 transition-colors"
+                class="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg text-sm bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-100 focus:outline-none focus:ring-2 focus:ring-accent-500/20 focus:border-accent-500 transition-colors"
               ></textarea>
             </template>
           </FormField>
@@ -299,7 +300,7 @@ watch(() => props.isOpen, (open) => {
                     <span class="truncate flex-1">{{ selectedUser.full_name || selectedUser.name }}</span>
                   </template>
                   <span v-else class="text-gray-400 dark:text-gray-500 flex-1">{{ __('Unassigned') }}</span>
-                  <i class="fa-solid fa-chevron-down text-[10px] text-gray-400 shrink-0"></i>
+                  <ChevronDown class="w-3 h-3 text-gray-400 shrink-0" aria-hidden="true" />
                 </button>
                 <div
                   v-if="isAssignDropdownOpen"
@@ -320,7 +321,7 @@ watch(() => props.isOpen, (open) => {
                     :class="[
                       'w-full flex items-center gap-2 px-3 py-2 text-sm transition-colors text-left',
                       formData.assigned_to === user.name
-                        ? 'bg-orga-50 dark:bg-orga-900/20 text-orga-700 dark:text-orga-300'
+                        ? 'bg-accent-50 dark:bg-accent-900/20 text-accent-700 dark:text-accent-300'
                         : 'text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-700'
                     ]"
                   >
@@ -422,7 +423,7 @@ watch(() => props.isOpen, (open) => {
             </div>
             <p v-if="errors.dates" class="text-xs text-red-500 mt-1">{{ errors.dates }}</p>
             <p v-else class="text-xs text-gray-500 dark:text-gray-400 mt-1">
-              <i class="fa-solid fa-circle-info mr-1"></i>
+              <Info class="w-3 h-3 mr-1 inline-block" aria-hidden="true" />
               {{ __('Both dates are needed to display task as a bar in Gantt chart') }}
             </p>
           </div>
@@ -455,7 +456,7 @@ watch(() => props.isOpen, (open) => {
               min="0"
               step="0.01"
               placeholder="0.00"
-              class="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg text-sm bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-100 focus:outline-none focus:ring-2 focus:ring-orga-500/20 focus:border-orga-500 transition-colors"
+              class="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-lg text-sm bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-100 focus:outline-none focus:ring-2 focus:ring-accent-500/20 focus:border-accent-500 transition-colors"
             />
             <p class="text-xs text-gray-500 dark:text-gray-400 mt-1">{{ __('Planned budget for this task') }}</p>
           </div>
@@ -480,9 +481,9 @@ watch(() => props.isOpen, (open) => {
             type="submit"
             @click="handleSubmit"
             :disabled="isSubmitting || !isValid"
-            class="px-4 py-2 text-sm font-medium text-white bg-orga-500 rounded-lg hover:bg-orga-600 disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
+            class="px-4 py-2 text-sm font-medium text-white bg-accent-500 rounded-lg hover:bg-accent-600 disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2"
           >
-            <i v-if="isSubmitting" class="fa-solid fa-spinner fa-spin"></i>
+            <Loader2 v-if="isSubmitting" class="w-4 h-4 animate-spin" aria-hidden="true" />
             {{ isSubmitting ? __('Creating...') : __('Create Task') }}
           </button>
         </div>

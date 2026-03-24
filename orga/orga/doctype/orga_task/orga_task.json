@@ -74,7 +74,7 @@
       "in_standard_filter": 1,
       "label": "Project",
       "options": "Orga Project",
-      "reqd": 1
+      "reqd": 0
     },
     {
       "fieldname": "column_break_1",

@@ -94,7 +94,7 @@ const textSizeClasses: Record<AvatarSize, string> = {
  */
 const colorClasses: Record<AvatarColor, string> = {
   teal: 'bg-teal-500 text-white',
-  orga: 'bg-orga-500 text-white',
+  orga: 'bg-accent-500 text-white',
   blue: 'bg-blue-500 text-white',
   purple: 'bg-purple-500 text-white',
   pink: 'bg-pink-500 text-white',

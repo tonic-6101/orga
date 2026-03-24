@@ -29,7 +29,7 @@
         v-if="!tabs.length && !['details', 'changes', 'notes', 'actions', 'dependencies', 'finance', 'checklist', 'comments', 'attendees', 'skills', 'assignments'].includes(activeTab)"
         class="text-gray-400 dark:text-gray-500 text-center py-8"
       >
-        <i class="fa-solid fa-circle-question fa-2x mb-2 opacity-30 block"></i>
+        <CircleHelp class="w-8 h-8 mb-2 opacity-30 mx-auto" aria-hidden="true" />
         {{ __('No content for this tab') }}
       </div>
     </div>
@@ -51,6 +51,7 @@
  * matches the tab id from ManagerTabs.
  */
 
+import { CircleHelp } from 'lucide-vue-next'
 import type { ManagerTab } from '@/types/orga'
 
 interface Props {

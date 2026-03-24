@@ -14,7 +14,7 @@
   <div class="flex flex-col h-full">
     <!-- Loading State -->
     <div v-if="isLoading" class="text-center py-8">
-      <i class="fa-solid fa-spinner fa-spin text-gray-400 dark:text-gray-500 text-xl"></i>
+      <Loader2 class="w-5 h-5 animate-spin text-gray-400 dark:text-gray-500 mx-auto" aria-hidden="true" />
       <p class="text-sm text-gray-400 dark:text-gray-500 mt-2">{{ __('Loading dependencies...') }}</p>
     </div>
 
@@ -22,7 +22,7 @@
       <!-- Predecessors (Blocked By) -->
       <div class="mb-6">
         <h5 class="text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider mb-3 flex items-center gap-2">
-          <i class="fa-solid fa-arrow-left text-orga-500"></i>
+          <ArrowLeft class="w-3.5 h-3.5 text-accent-500" aria-hidden="true" />
           {{ __('Predecessors (Blocked By)') }}
         </h5>
 
@@ -37,7 +37,7 @@
               v-if="confirmingDelete === dep.name"
               class="p-2.5 bg-red-50 dark:bg-red-900/20 flex items-center gap-2 text-xs"
             >
-              <i class="fa-solid fa-triangle-exclamation text-red-500"></i>
+              <TriangleAlert class="w-3 h-3 text-red-500" aria-hidden="true" />
               <span class="text-red-600 dark:text-red-400 flex-1">{{ __('Remove dependency on') }} <strong>{{ dep.depends_on_subject || dep.depends_on }}</strong>?</span>
               <button
                 @click="confirmingDelete = null"
@@ -54,9 +54,9 @@
             </div>
 
             <!-- Inline edit row -->
-            <div v-else-if="editingDep === dep.name" class="p-2.5 space-y-2 border border-orga-300 dark:border-orga-700 rounded-lg">
-              <p class="text-xs text-gray-600 dark:text-gray-300 truncate font-medium">
-                <i class="fa-solid fa-pen text-orga-500 mr-1"></i>
+            <div v-else-if="editingDep === dep.name" class="p-2.5 space-y-2 border border-accent-300 dark:border-accent-700 rounded-lg">
+              <p class="text-xs text-gray-600 dark:text-gray-300 truncate font-medium flex items-center gap-1">
+                <Pencil class="w-2.5 h-2.5 text-accent-500" aria-hidden="true" />
                 {{ dep.depends_on_subject || dep.depends_on }}
               </p>
               <div class="flex items-center gap-2">
@@ -90,9 +90,9 @@
                 <button
                   @click="saveEditing(dep.name)"
                   :disabled="isSaving"
-                  class="px-2.5 py-1 text-xs bg-orga-500 text-white rounded hover:bg-orga-600 disabled:opacity-50 transition-colors"
+                  class="px-2.5 py-1 text-xs bg-accent-500 text-white rounded hover:bg-accent-600 disabled:opacity-50 transition-colors flex items-center gap-1"
                 >
-                  <i v-if="isSaving" class="fa-solid fa-spinner fa-spin mr-1"></i>
+                  <Loader2 v-if="isSaving" class="w-3 h-3 animate-spin" aria-hidden="true" />
                   {{ __('Save') }}
                 </button>
               </div>
@@ -107,7 +107,7 @@
                 <p class="text-sm text-gray-800 dark:text-gray-200 truncate">{{ dep.depends_on_subject || dep.depends_on }}</p>
                 <p class="text-[10px] text-gray-400 dark:text-gray-500">
                   {{ getDependencyTypeLabel(dep.dependency_type) }}
-                  <span v-if="dep.lag_days" class="ml-1 text-orga-500">+{{ dep.lag_days }}d lag</span>
+                  <span v-if="dep.lag_days" class="ml-1 text-accent-500">+{{ dep.lag_days }}d lag</span>
                 </p>
               </div>
               <span :class="['text-[10px] px-1.5 py-0.5 rounded shrink-0', getStatusColor(dep.depends_on_status)]">
@@ -116,17 +116,17 @@
               <div v-if="!readonly" class="flex items-center gap-0.5 shrink-0">
                 <button
                   @click.stop="startEditing(dep)"
-                  class="p-1 text-gray-400 dark:text-gray-500 hover:text-orga-500 dark:hover:text-orga-400 rounded hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
+                  class="p-1 text-gray-400 dark:text-gray-500 hover:text-accent-500 dark:hover:text-accent-400 rounded hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
                   :title="__('Edit dependency')"
                 >
-                  <i class="fa-solid fa-pen text-[10px]"></i>
+                  <Pencil class="w-2.5 h-2.5" aria-hidden="true" />
                 </button>
                 <button
                   @click.stop="confirmingDelete = dep.name"
                   class="p-1 text-gray-400 dark:text-gray-500 hover:text-red-500 dark:hover:text-red-400 rounded hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors"
                   :title="__('Remove dependency')"
                 >
-                  <i class="fa-solid fa-trash-can text-[10px]"></i>
+                  <Trash2 class="w-2.5 h-2.5" aria-hidden="true" />
                 </button>
               </div>
             </div>
@@ -141,7 +141,7 @@
       <!-- Successors (Blocking) -->
       <div class="mb-6">
         <h5 class="text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wider mb-3 flex items-center gap-2">
-          <i class="fa-solid fa-arrow-right text-orga-500"></i>
+          <ArrowRight class="w-3.5 h-3.5 text-accent-500" aria-hidden="true" />
           {{ __('Successors (Blocking)') }}
         </h5>
 
@@ -158,7 +158,7 @@
               <p class="text-sm text-gray-800 dark:text-gray-200 truncate">{{ dep.task_subject || dep.task }}</p>
               <p class="text-[10px] text-gray-400 dark:text-gray-500">
                 {{ __('Waiting for this task') }}
-                <span v-if="dep.lag_days" class="ml-1 text-orga-500">+{{ dep.lag_days }}d lag</span>
+                <span v-if="dep.lag_days" class="ml-1 text-accent-500">+{{ dep.lag_days }}d lag</span>
               </p>
             </div>
             <span :class="['text-[10px] px-1.5 py-0.5 rounded', getStatusColor(dep.task_status)]">
@@ -199,9 +199,10 @@
           <button
             @click="handleAddDependency"
             :disabled="!selectedTask || isAdding"
-            class="px-3 py-1.5 bg-orga-500 text-white rounded text-xs hover:bg-orga-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
+            class="px-3 py-1.5 bg-accent-500 text-white rounded text-xs hover:bg-accent-600 disabled:opacity-50 disabled:cursor-not-allowed transition-colors"
           >
-            <i :class="['fa-solid', isAdding ? 'fa-spinner fa-spin' : 'fa-plus']"></i>
+            <Loader2 v-if="isAdding" class="w-3 h-3 animate-spin" aria-hidden="true" />
+            <Plus v-else class="w-3 h-3" aria-hidden="true" />
           </button>
         </div>
       </div>
@@ -213,6 +214,7 @@
 import { ref } from 'vue'
 import { __ } from '@/composables/useTranslate'
 import type { OrgaTask, TaskDependency, DependencyType } from '@/types/orga'
+import { Loader2, ArrowLeft, ArrowRight, TriangleAlert, Pencil, Trash2, Plus } from 'lucide-vue-next'
 
 interface Props {
   task: OrgaTask

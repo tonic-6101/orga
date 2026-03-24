@@ -61,9 +61,14 @@ def _enrich_assigned_to(task):
         if user_info:
             task["assigned_to_name"] = user_info.get("full_name") or task["assigned_to"]
             # Prefer the Orga Resource custom avatar over the Frappe User image
-            resource_image = frappe.db.get_value(
-                "Orga Resource", {"user": task["assigned_to"]}, "image"
-            )
+            resource_image = ""
+            try:
+                if frappe.db.has_column("Orga Resource", "image"):
+                    resource_image = frappe.db.get_value(
+                        "Orga Resource", {"user": task["assigned_to"]}, "image"
+                    ) or ""
+            except Exception:
+                pass
             task["assigned_to_image"] = resource_image or user_info.get("user_image") or ""
         else:
             task["assigned_to_name"] = task["assigned_to"]
@@ -88,8 +93,15 @@ def _enrich_task_resource(task):
         order_by="creation desc"
     )
     if assignment:
+        # Safely fetch resource fields — image column may not exist yet
+        res_fields = ["resource_name"]
+        try:
+            if frappe.db.has_column("Orga Resource", "image"):
+                res_fields.append("image")
+        except Exception:
+            pass
         res_info = frappe.db.get_value(
-            "Orga Resource", assignment.resource, ["resource_name", "image"], as_dict=True
+            "Orga Resource", assignment.resource, res_fields, as_dict=True
         )
         resource_name = res_info.resource_name if res_info else ""
         task["assigned_resource"] = assignment.resource
@@ -98,7 +110,7 @@ def _enrich_task_resource(task):
         if not task.get("assigned_to_name") and resource_name:
             task["assigned_to_name"] = resource_name
         # Resource custom avatar takes priority over Frappe user image
-        if res_info and res_info.image:
+        if res_info and getattr(res_info, "image", None):
             task["assigned_to_image"] = res_info.image
     else:
         task["assigned_resource"] = ""
@@ -289,8 +301,8 @@ def create_task(data):
 
     Args:
         data: dict or JSON string with task fields
-            Required: subject, project
-            Optional: status, priority, description, due_date, assigned_to, etc.
+            Required: subject
+            Optional: project, status, priority, description, due_date, assigned_to, etc.
 
     Returns:
         dict: Created task data
@@ -299,13 +311,13 @@ def create_task(data):
         data = json.loads(data)
 
     # Validate required fields
-    required = ["subject", "project"]
+    required = ["subject"]
     for field in required:
         if not data.get(field):
             frappe.throw(_("{0} is required").format(field))
 
-    # Validate project exists
-    if not frappe.db.exists("Orga Project", data["project"]):
+    # Validate project exists (if provided)
+    if data.get("project") and not frappe.db.exists("Orga Project", data["project"]):
         frappe.throw(_("Project {0} not found").format(data["project"]))
 
     # Only allow known task fields (prevents unexpected fields from causing errors)
@@ -327,6 +339,10 @@ def create_task(data):
     for field in allowed_fields:
         if field in data and data[field] is not None:
             task_data[field] = data[field]
+
+    # Default assigned_to to current user for standalone tasks
+    if "assigned_to" not in task_data:
+        task_data["assigned_to"] = frappe.session.user
 
     # Apply project-level auto_trail_start default if not explicitly set
     if "auto_trail_start" not in data and _has_auto_trail_start():
@@ -373,7 +389,7 @@ def update_task(name, data):
     # doesn't exist yet because bench migrate hasn't been run)
     allowed_fields = [
         "subject", "description", "status", "priority", "task_type",
-        "start_date", "due_date", "assigned_to", "milestone",
+        "start_date", "due_date", "assigned_to", "milestone", "project",
         "estimated_hours", "progress", "parent_task",
         "estimated_cost", "actual_cost", "is_billable", "billing_rate"
     ]
@@ -420,6 +436,12 @@ def update_task(name, data):
         old_start_date = str(doc.start_date) if doc.start_date else None
         old_end_date = str(doc.due_date) if doc.due_date else None
         dates_changed = ("start_date" in updates or "due_date" in updates)
+
+        # When project is cleared, also clear project-scoped fields
+        if "project" in updates and not updates["project"]:
+            frappe.db.set_value("Orga Task", name, "milestone", None, update_modified=False)
+            if _has_depends_on_group():
+                frappe.db.set_value("Orga Task", name, "depends_on_group", None, update_modified=False)
 
         # Apply field updates individually (avoids schema mismatch with
         # doc.save() when task_group column doesn't exist yet)
@@ -468,16 +490,23 @@ def update_task(name, data):
                 _advance_successors_on_completion(name)
 
         # Trigger project progress/spent/estimated recalculation
-        project = doc.project
-        if project and frappe.db.exists("Orga Project", project):
-            try:
-                project_doc = frappe.get_doc("Orga Project", project)
-                project_doc.update_progress()
-                project_doc.update_spent()
-                project_doc.update_estimated_cost()
-            except Exception as e:
-                # Non-critical: progress will sync on next load
-                frappe.log_error(f"Project progress update failed for {project}: {e}", "Orga Task Update")
+        # If project changed, recalculate both old and new project
+        old_project = doc.project
+        new_project = updates.get("project", old_project)
+        projects_to_update = set()
+        if old_project:
+            projects_to_update.add(old_project)
+        if new_project:
+            projects_to_update.add(new_project)
+        for proj in projects_to_update:
+            if frappe.db.exists("Orga Project", proj):
+                try:
+                    project_doc = frappe.get_doc("Orga Project", proj)
+                    project_doc.update_progress()
+                    project_doc.update_spent()
+                    project_doc.update_estimated_cost()
+                except Exception as e:
+                    frappe.log_error(f"Project progress update failed for {proj}: {e}", "Orga Task Update")
 
     doc = frappe.get_doc("Orga Task", name)
     result = doc.as_dict()
@@ -924,6 +953,103 @@ def get_my_tasks(status=None, priority=None, project=None, assigned_to=None, sea
         _enrich_assigned_to(task)
 
     return {"tasks": tasks, "total": total}
+
+
+@frappe.whitelist()
+def get_my_tasks_by_status(priority=None, project=None, assigned_to=None, search=None, scope="assigned"):
+    """
+    Get current user's tasks grouped by status for the My Tasks board view.
+
+    Args:
+        priority: Optional priority filter
+        project: Optional project filter
+        assigned_to: Optional assigned_to filter
+        search: Optional search string
+        scope: "assigned" (default), "my_projects", or "all"
+
+    Returns:
+        dict: {Open: [...], "In Progress": [...], Review: [...], Completed: [...]}
+    """
+    user = frappe.session.user
+
+    if scope not in ("assigned", "my_projects", "all"):
+        scope = "assigned"
+
+    if scope == "all":
+        user_roles = frappe.get_roles(user)
+        if "Administrator" not in user_roles and "Orga Manager" not in user_roles:
+            frappe.throw(_("Insufficient permissions to view all tasks"), frappe.PermissionError)
+
+    fields = [
+        "name", "subject", "status", "priority",
+        "start_date", "due_date", "assigned_to",
+        "project", "progress", "modified"
+    ]
+
+    filters = frappe._dict()
+    # Exclude cancelled tasks from board view
+    filters["status"] = ["not in", ["Cancelled"]]
+
+    if priority:
+        filters["priority"] = priority
+    if project:
+        filters["project"] = project
+    if assigned_to:
+        filters["assigned_to"] = assigned_to
+    if search:
+        filters["subject"] = ["like", f"%{search}%"]
+
+    if scope == "assigned":
+        direct_assigned = frappe.get_all(
+            "Orga Task",
+            filters={"assigned_to": user},
+            pluck="name"
+        )
+        resource_assigned = _get_resource_assigned_task_names(user)
+        my_task_names = list(set(direct_assigned + resource_assigned))
+        if not my_task_names:
+            return {"Open": [], "In Progress": [], "Review": [], "Completed": []}
+        filters["name"] = ["in", my_task_names]
+
+    elif scope == "my_projects":
+        my_projects = frappe.get_all(
+            "Orga Project",
+            filters={"project_manager": user},
+            pluck="name"
+        )
+        if not my_projects:
+            return {"Open": [], "In Progress": [], "Review": [], "Completed": []}
+        if project and project in my_projects:
+            filters["project"] = project
+        elif project and project not in my_projects:
+            return {"Open": [], "In Progress": [], "Review": [], "Completed": []}
+        else:
+            filters["project"] = ["in", my_projects]
+
+    tasks = frappe.get_all(
+        "Orga Task",
+        filters=filters,
+        fields=fields,
+        order_by="priority DESC, due_date ASC",
+        limit_page_length=0,
+    )
+
+    # Enrich with project names and assignee info
+    for task in tasks:
+        if task.get("project"):
+            task["project_name"] = frappe.db.get_value(
+                "Orga Project", task["project"], "project_name"
+            )
+        _enrich_assigned_to(task)
+
+    # Group by status
+    result = {"Open": [], "In Progress": [], "Review": [], "Completed": []}
+    for task in tasks:
+        status = task.get("status")
+        if status in result:
+            result[status].append(task)
+
+    return result
 
 
 @frappe.whitelist()

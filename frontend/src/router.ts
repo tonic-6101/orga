@@ -16,6 +16,12 @@ const dockInstalled = !!(window as any).frappe?.boot?.dock?.installed
 
 const dockSharedRoutes: RouteRecordRaw[] = dockInstalled ? [
   {
+    path: '/orga/account',
+    name: 'dock-account',
+    component: () => import(/* @vite-ignore */ dockEsm).then(m => m.dockSharedRoutes('/orga').find((r: any) => r.name === 'dock-account').component()),
+    meta: { dockShared: true, title: 'My Account', layout: 'default' },
+  },
+  {
     path: '/orga/calendar',
     name: 'dock-calendar',
     component: () => import(/* @vite-ignore */ dockEsm).then(m => m.dockSharedRoutes('/orga').find((r: any) => r.name === 'dock-calendar').component()),
@@ -68,6 +74,12 @@ const dockSharedRoutes: RouteRecordRaw[] = dockInstalled ? [
     name: 'dock-discussion-detail',
     component: () => import(/* @vite-ignore */ dockEsm).then(m => m.dockSharedRoutes('/orga').find((r: any) => r.name === 'dock-discussion-detail').component()),
     meta: { dockShared: true, title: 'Discussion', layout: 'default' },
+  },
+  {
+    path: '/orga/bin',
+    name: 'dock-bin',
+    component: () => import(/* @vite-ignore */ dockEsm).then(m => m.dockSharedRoutes('/orga').find((r: any) => r.name === 'dock-bin').component()),
+    meta: { dockShared: true, title: 'Bin', layout: 'default' },
   },
 ] : []
 
