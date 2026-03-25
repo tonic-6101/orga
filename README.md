@@ -2,11 +2,13 @@
 
 **Project Management for Frappe Framework**
 
-[![Version](https://img.shields.io/badge/version-0.15.2-blue.svg)](https://github.com/tonic-6101/orga/releases)
+[![Version](https://img.shields.io/badge/version-0.15.3-blue.svg)](https://github.com/tonic-6101/orga/releases)
 [![Frappe](https://img.shields.io/badge/frappe-v16+-green.svg)](https://frappeframework.com)
 [![License](https://img.shields.io/badge/license-AGPL--3.0-orange.svg)](LICENSE)
 
-Orga is a comprehensive project management application built on Frappe Framework. Designed for teams who need powerful project tracking without leaving their Frappe ecosystem, Orga offers everything from simple task management to team coordination.
+Orga is a project management app built on Frappe Framework. It provides Kanban boards, Gantt charts, resource planning, and automation — designed for teams who need project tracking within their Frappe ecosystem.
+
+Part of the [Tonic ecosystem](https://github.com/tonic-6101). Integrates with [Dock](https://github.com/tonic-6101/dock) for calendar, notifications, search, and the people hub, and with [Watch](https://github.com/tonic-6101/watch) for time tracking.
 
 ---
 
@@ -14,39 +16,38 @@ Orga is a comprehensive project management application built on Frappe Framework
 
 ### Project Management
 
-Organize your work into projects with automatic code generation, visual progress tracking, and health monitoring.
+Organize work into projects with automatic code generation, progress tracking, and health monitoring.
 
-- Create projects with auto-generated codes (ORG-YYYY-NNNN)
-- Track status through lifecycle stages (Planning, Active, On Hold, Completed)
-- Monitor progress calculated automatically from task completion
-- Set budgets and track spending
-- Assign project managers and link to departments
+- Auto-generated project codes (ORG-YYYY-NNNN)
+- Lifecycle stages: Planning, Active, On Hold, Completed
+- Progress calculated automatically from task completion
+- Budget tracking
+- Project manager assignment and department linking
 
 ### Task Tracking
 
-Break down projects into actionable tasks with priorities, assignments, and deadlines. Track progress through customizable workflows.
+Break down projects into tasks with priorities, assignments, deadlines, and dependencies.
 
 - Four-column Kanban board with drag-and-drop
-- List and Gantt chart views
+- List view
 - Priority levels (Urgent, High, Medium, Low)
 - Task checklists with completion tracking
-- Threaded comments and discussions
 - Task dependencies with circular detection
-- Subtask support for complex work breakdown
+- Subtask support
 
-### Gantt Chart Visualization
+### Gantt Chart
 
-Plan timelines with an interactive Gantt chart view showing task dependencies and progress at a glance.
+Plan timelines with an interactive Gantt chart showing dependencies and progress.
 
 - Timeline view with task bars and milestones
-- Visual dependency lines between tasks
-- Today marker for current date orientation
-- Cascade preview shows impact of date changes
-- Click any task to edit in the focus panel
+- Visual dependency lines
+- Today marker
+- Cascade preview for date change impact
+- Click-to-edit via focus panel
 
 ### Resource Management
 
-Build a registry of your team members, track skills, and manage workload allocation across projects.
+Track team members, skills, and workload allocation across projects.
 
 - Team member profiles with capacity settings
 - Skills tracking with proficiency levels
@@ -54,77 +55,56 @@ Build a registry of your team members, track skills, and manage workload allocat
 - Assignment management with allocated hours
 - Overallocation warnings
 
-### Appointment Scheduling
+### Appointments
 
-Coordinate meetings, deadlines, and milestones with a visual calendar and automatic reminders.
+Coordinate meetings, deadlines, and milestones with attendee tracking and reminders.
 
-- Monthly calendar view with event colors
 - Meeting, deadline, review, and milestone types
 - Invite attendees with RSVP tracking
 - Automatic email reminders
 - Location and meeting URL support
+- Synced to Dock's unified calendar for viewing
 
 ### Project Health Monitoring
 
-Automatic health calculation helps identify at-risk projects before they become problems.
+Automatic health scoring identifies at-risk projects.
 
 - Weighted scoring based on schedule, budget, tasks, and milestones
-- Green/Yellow/Red status indicators
+- Green / Yellow / Red status indicators
 - Actionable improvement recommendations
-- Dashboard widgets for quick overview
-
-### Custom Workflows
-
-Define workflows that match your team's processes with states, transitions, and role-based permissions.
-
-- Create custom states with colors
-- Define allowed transitions
-- Role-based permissions per transition
-- Workflow action buttons on documents
 
 ### Automation Rules
 
-Automate repetitive tasks with rules that trigger on document events.
+Automate repetitive tasks with event-driven rules.
 
 - Trigger on create, update, status change, or assignment
 - Condition-based execution
 - Actions: set field values, assign users, send notifications, add comments
 
-### In-App Notifications
-
-Stay informed with real-time notifications for assignments, mentions, and deadlines.
-
-- Notification bell with unread count
-- Assignment and status change alerts
-- @mention support in comments
-- Deadline reminders
-
 ### Client Portal
 
-Register external clients and grant them portal access to view their project progress.
+Register external clients and grant portal access to view project progress.
 
 - Client management with contact details
 - Link clients to projects
-- Portal access with automatic user provisioning
+- Portal access with automatic user provisioning (via Dock portal framework)
 - Clients see only their linked projects
 
 ### Reports
 
-Generate insights on project status, resource utilization, and task completion.
-
-- Project Summary Report
-- Resource Utilization Report
-- Task Completion Report
-- Budget Tracking Report
-- Milestone Report
+- Project Summary
+- Resource Utilization
+- Task Completion
+- Budget Tracking
+- Milestone
 
 ### Integrations
 
-Connect Orga to external systems and other Frappe applications.
-
+- **Dock**: Calendar sync, notifications, activity feed, people hub, global search, settings hub
+- **Watch**: Time tracking on tasks, projects, and appointments
 - **Webhooks**: Notify external systems on 25+ event types with HMAC signing
 - **Import/Export**: Bulk operations via CSV and JSON
-- **Frappe Projects**: Optional sync with built-in Projects module
+- **Frappe Projects**: Optional two-way sync with built-in Projects module
 - **ERPNext**: Link resources to Employees, export time logs to Timesheets
 
 ---
@@ -133,7 +113,8 @@ Connect Orga to external systems and other Frappe applications.
 
 ### Prerequisites
 
-- Frappe Framework v15 or higher
+- Frappe Framework v16+
+- [Dock](https://github.com/tonic-6101/dock) (required dependency)
 - Python 3.14+
 - Node.js 24+
 - MariaDB 10.6+
@@ -154,7 +135,7 @@ bench --site your-site.localhost migrate
 bench build --app orga
 ```
 
-### Access the Application
+### Access
 
 After installation, access Orga at: `https://your-site.localhost/orga`
 
@@ -162,28 +143,18 @@ After installation, access Orga at: `https://your-site.localhost/orga`
 
 ## Quick Start
 
-1. **Create a Project**: Navigate to Projects and click "New Project"
-2. **Add Tasks**: Open your project and add tasks to the Kanban board
-3. **Assign Team Members**: Create resources and assign them to tasks
-4. **Track Progress**: Watch your project progress update automatically
-5. **Schedule Meetings**: Use the calendar to coordinate team appointments
-
----
-
-## Documentation
-
-- [Getting Started Guide](docs/user-guide/getting-started.md)
-- [API Reference](docs/developer-guide/API.md)
-- [Changelog](docs/CHANGELOG.md)
-- [FAQ](docs/user-guide/faq.md)
+1. **Create a Project** — Navigate to Projects and click "New Project"
+2. **Add Tasks** — Open your project and add tasks to the Kanban board
+3. **Assign Resources** — Create resources and assign them to tasks
+4. **Track Progress** — Project progress updates automatically from task completion
+5. **Schedule Appointments** — Create appointments that sync to Dock's calendar
 
 ---
 
 ## Technology Stack
 
-- **Backend**: Frappe Framework, Python 3.14+
-- **Frontend**: Vue 3, TypeScript, Tailwind CSS
-- **UI Components**: FrappeUI
+- **Backend**: Frappe Framework v16+, Python
+- **Frontend**: Vue 3, TypeScript, Tailwind CSS, FrappeUI
 - **Database**: MariaDB
 
 ---
@@ -202,7 +173,6 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) before s
 
 ## Support
 
-- **Documentation**: [docs/](docs/)
 - **Issues**: [GitHub Issues](https://github.com/tonic-6101/orga/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/tonic-6101/orga/discussions)
 
@@ -215,7 +185,5 @@ GNU Affero General Public License v3.0 (AGPL-3.0)
 See [LICENSE](LICENSE) for details.
 
 ---
-
-## Acknowledgments
 
 Built with [Frappe Framework](https://frappeframework.com) and [FrappeUI](https://github.com/frappe/frappe-ui).
