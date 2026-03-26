@@ -209,7 +209,7 @@ function s(d, r) {
         i = i.replace(new RegExp(`\\{${c}\\}`, "g"), String(l));
   return i;
 }
-const Oe = "0.15.1";
+const Oe = "0.15.4";
 const Re = (d) => {
   for (const r in d)
     if (r.startsWith("aria-") || r === "role" || r === "title")
@@ -1287,25 +1287,25 @@ const ga = t("zap", [
 }, Va = { class: "w-60 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg py-3 shrink-0" }, Sa = ["onClick"], Ha = { class: "flex-1 bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg" }, La = { class: "p-6 border-b border-gray-200 dark:border-gray-700" }, Ua = { class: "text-base font-semibold text-gray-900 dark:text-gray-100 m-0" }, Ea = { class: "text-sm text-gray-500 dark:text-gray-400 mt-1 mb-0" }, Pa = { class: "p-6" }, Oa = { class: "flex justify-between items-center py-3 border-b border-gray-100 dark:border-gray-700" }, Ra = { class: "text-sm font-medium text-gray-900 dark:text-gray-100 m-0" }, Ta = { class: "text-xs text-gray-500 dark:text-gray-400 m-0 mt-1" }, Da = { value: "Open" }, Fa = { value: "In Progress" }, Ia = { class: "flex justify-between items-center py-3 border-b border-gray-100 dark:border-gray-700" }, Na = { class: "text-sm font-medium text-gray-900 dark:text-gray-100 m-0" }, Ba = { class: "text-xs text-gray-500 dark:text-gray-400 m-0 mt-1" }, Ga = { value: "Planning" }, Ja = { value: "Active" }, $a = { class: "flex justify-between items-center py-3 border-b border-gray-100 dark:border-gray-700" }, Xa = { class: "text-sm font-medium text-gray-900 dark:text-gray-100 m-0" }, Za = { class: "text-xs text-gray-500 dark:text-gray-400 m-0 mt-1" }, Wa = { class: "flex justify-between items-center py-3" }, Ya = { class: "text-sm font-medium text-gray-900 dark:text-gray-100 m-0" }, Qa = { class: "text-xs text-gray-500 dark:text-gray-400 m-0 mt-1" }, Ka = { value: "Low" }, er = { value: "Medium" }, tr = { value: "High" }, ar = { value: "Urgent" }, rr = { class: "p-6 border-b border-gray-200 dark:border-gray-700" }, sr = { class: "text-base font-semibold text-gray-900 dark:text-gray-100 m-0" }, or = { class: "text-sm text-gray-500 dark:text-gray-400 mt-1 mb-0" }, nr = { class: "p-6" }, lr = { class: "flex justify-between items-center py-3 border-b border-gray-100 dark:border-gray-700" }, dr = { class: "text-sm font-medium text-gray-900 dark:text-gray-100 m-0" }, ir = { class: "text-xs text-gray-500 dark:text-gray-400 m-0 mt-1" }, cr = { class: "relative inline-block w-11 h-6" }, yr = { class: "flex justify-between items-center py-3 border-b border-gray-100 dark:border-gray-700" }, hr = { class: "text-sm font-medium text-gray-900 dark:text-gray-100 m-0" }, ur = { class: "text-xs text-gray-500 dark:text-gray-400 m-0 mt-1" }, pr = { class: "relative inline-block w-11 h-6" }, kr = { class: "flex justify-between items-center py-3 border-b border-gray-100 dark:border-gray-700" }, gr = { class: "text-sm font-medium text-gray-900 dark:text-gray-100 m-0" }, mr = { class: "text-xs text-gray-500 dark:text-gray-400 m-0 mt-1" }, xr = { class: "relative inline-block w-11 h-6" }, fr = { class: "flex justify-between items-center py-3" }, br = { class: "text-sm font-medium text-gray-900 dark:text-gray-100 m-0" }, vr = { class: "text-xs text-gray-500 dark:text-gray-400 m-0 mt-1" }, _r = { class: "flex items-center gap-2" }, wr = { class: "text-sm text-gray-500 dark:text-gray-400" }, Mr = { class: "p-6 border-b border-gray-200 dark:border-gray-700" }, jr = { class: "text-base font-semibold text-gray-900 dark:text-gray-100 m-0" }, Cr = { class: "text-sm text-gray-500 dark:text-gray-400 mt-1 mb-0" }, zr = { class: "p-6" }, qr = { class: "flex justify-between items-center py-3 border-b border-gray-100 dark:border-gray-700" }, Ar = { class: "text-sm font-medium text-gray-900 dark:text-gray-100 m-0" }, Vr = { class: "text-xs text-gray-500 dark:text-gray-400 m-0 mt-1" }, Sr = { class: "relative inline-block w-11 h-6" }, Hr = { class: "flex justify-between items-center py-3 border-b border-gray-100 dark:border-gray-700" }, Lr = { class: "text-sm font-medium text-gray-900 dark:text-gray-100 m-0" }, Ur = { class: "text-xs text-gray-500 dark:text-gray-400 m-0 mt-1" }, Er = { class: "relative inline-block w-11 h-6" }, Pr = { class: "flex justify-between items-center py-3 border-b border-gray-100 dark:border-gray-700" }, Or = { class: "text-sm font-medium text-gray-900 dark:text-gray-100 m-0" }, Rr = { class: "text-xs text-gray-500 dark:text-gray-400 m-0 mt-1" }, Tr = { class: "relative inline-block w-11 h-6" }, Dr = { class: "flex justify-between items-center py-3" }, Fr = { class: "text-sm font-medium text-gray-900 dark:text-gray-100 m-0" }, Ir = { class: "text-xs text-gray-500 dark:text-gray-400 m-0 mt-1" }, Nr = { class: "flex items-center gap-2" }, Br = { class: "text-sm text-gray-500 dark:text-gray-400" }, Gr = { class: "p-6 border-b border-gray-200 dark:border-gray-700" }, Jr = { class: "text-base font-semibold text-gray-900 dark:text-gray-100 m-0" }, $r = { class: "text-sm text-gray-500 dark:text-gray-400 mt-1 mb-0" }, Xr = { class: "p-6" }, Zr = { class: "flex justify-between items-center py-3 border-b border-gray-100 dark:border-gray-700" }, Wr = { class: "text-sm font-medium text-gray-900 dark:text-gray-100 m-0" }, Yr = { class: "text-xs text-gray-500 dark:text-gray-400 m-0 mt-1" }, Qr = { class: "text-sm font-mono text-gray-900 dark:text-gray-100" }, Kr = {
   key: 0,
   class: "flex justify-between items-center py-3 border-b border-gray-100 dark:border-gray-700"
-}, e1 = { class: "text-sm font-medium text-gray-900 dark:text-gray-100 m-0" }, t1 = { class: "text-xs text-gray-500 dark:text-gray-400 m-0 mt-1" }, a1 = {
+}, e0 = { class: "text-sm font-medium text-gray-900 dark:text-gray-100 m-0" }, t0 = { class: "text-xs text-gray-500 dark:text-gray-400 m-0 mt-1" }, a0 = {
   key: 1,
   class: "mt-4 p-4 bg-amber-50 dark:bg-amber-950/30 border border-amber-200 dark:border-amber-800 rounded-lg"
-}, r1 = { class: "flex items-start gap-3" }, s1 = { class: "flex-1" }, o1 = { class: "text-sm font-semibold text-amber-800 dark:text-amber-300 m-0" }, n1 = { class: "text-sm text-amber-700 dark:text-amber-400 mt-1 mb-0" }, l1 = {
+}, r0 = { class: "flex items-start gap-3" }, s0 = { class: "flex-1" }, o0 = { class: "text-sm font-semibold text-amber-800 dark:text-amber-300 m-0" }, n0 = { class: "text-sm text-amber-700 dark:text-amber-400 mt-1 mb-0" }, l0 = {
   key: 0,
   class: "mt-3 text-xs text-amber-700 dark:text-amber-400 bg-amber-100 dark:bg-amber-900/30 rounded p-3 max-h-40 overflow-y-auto whitespace-pre-wrap"
-}, d1 = { key: 0 }, i1 = { class: "mt-3 flex items-center gap-3" }, c1 = ["href"], y1 = {
+}, d0 = { key: 0 }, i0 = { class: "mt-3 flex items-center gap-3" }, c0 = ["href"], y0 = {
   key: 2,
   class: "mt-4 p-4 bg-green-50 dark:bg-green-950/30 border border-green-200 dark:border-green-800 rounded-lg"
-}, h1 = { class: "flex items-center gap-3" }, u1 = { class: "text-sm font-semibold text-green-800 dark:text-green-300 m-0" }, p1 = { class: "text-sm text-green-700 dark:text-green-400 mt-1 mb-0" }, k1 = {
+}, h0 = { class: "flex items-center gap-3" }, u0 = { class: "text-sm font-semibold text-green-800 dark:text-green-300 m-0" }, p0 = { class: "text-sm text-green-700 dark:text-green-400 mt-1 mb-0" }, k0 = {
   key: 3,
   class: "mt-4 p-4 bg-gray-50 dark:bg-gray-700/30 border border-gray-200 dark:border-gray-600 rounded-lg text-center"
-}, g1 = { class: "text-sm text-gray-500 dark:text-gray-400 m-0" }, m1 = {
+}, g0 = { class: "text-sm text-gray-500 dark:text-gray-400 m-0" }, m0 = {
   key: 4,
   class: "mt-3 p-3 bg-red-50 dark:bg-red-950/30 border border-red-200 dark:border-red-800 rounded text-sm text-red-600 dark:text-red-400"
-}, x1 = { class: "mt-6 pt-4 border-t border-gray-100 dark:border-gray-700" }, f1 = ["disabled"], b1 = {
+}, x0 = { class: "mt-6 pt-4 border-t border-gray-100 dark:border-gray-700" }, f0 = ["disabled"], b0 = {
   key: 5,
   class: "p-4 bg-gray-50 dark:bg-gray-700/50 flex justify-end gap-3 border-t border-gray-200 dark:border-gray-700"
-}, v1 = ["disabled"], M1 = /* @__PURE__ */ fe({
+}, v0 = ["disabled"], M0 = /* @__PURE__ */ fe({
   __name: "Settings",
   setup(d) {
     const { getSettings: r, updateSettings: h } = Le(), { updateInfo: i, isChecking: c, checkError: l, forceCheck: x, dismissUpdate: j } = Pe(), p = v("defaults"), _ = [
@@ -1413,7 +1413,7 @@ const ga = t("zap", [
               "flex items-center gap-3 px-5 py-3 text-sm transition-all no-underline",
               p.value === y.id ? "text-accent-500 dark:text-accent-400 bg-accent-50 dark:bg-accent-950/30 border-l-[3px] border-accent-500 dark:border-accent-400" : "text-gray-500 dark:text-gray-400 hover:text-gray-800 dark:hover:text-gray-200 hover:bg-gray-50 dark:hover:bg-gray-700"
             ]),
-            onClick: qe((_1) => p.value = y.id, ["prevent"])
+            onClick: qe((_0) => p.value = y.id, ["prevent"])
           }, [
             C(xa, {
               name: y.icon,
@@ -1698,8 +1698,8 @@ const ga = t("zap", [
               ]),
               a(i) ? (k(), m("div", Kr, [
                 e("div", null, [
-                  e("h4", e1, o(a(s)("Latest Version")), 1),
-                  e("p", t1, o(a(s)("Last checked: {0}", [a(i).checked_at ? new Date(a(i).checked_at).toLocaleString() : a(s)("Never")])), 1)
+                  e("h4", e0, o(a(s)("Latest Version")), 1),
+                  e("p", t0, o(a(s)("Last checked: {0}", [a(i).checked_at ? new Date(a(i).checked_at).toLocaleString() : a(s)("Never")])), 1)
                 ]),
                 e("span", {
                   class: D([
@@ -1708,20 +1708,20 @@ const ga = t("zap", [
                   ])
                 }, " v" + o(a(i).latest_version), 3)
               ])) : w("", !0),
-              a(i)?.update_available ? (k(), m("div", a1, [
-                e("div", r1, [
+              a(i)?.update_available ? (k(), m("div", a0, [
+                e("div", r0, [
                   C(a(ve), {
                     class: "w-5 h-5 text-amber-500 mt-0.5",
                     "aria-hidden": "true"
                   }),
-                  e("div", s1, [
-                    e("h4", o1, o(a(s)("Update Available")), 1),
-                    e("p", n1, o(a(s)("Version {0} is available. You are running {1}.", [a(i).latest_version, a(i).current_version])), 1),
-                    a(i).release_notes ? (k(), m("div", l1, [
+                  e("div", s0, [
+                    e("h4", o0, o(a(s)("Update Available")), 1),
+                    e("p", n0, o(a(s)("Version {0} is available. You are running {1}.", [a(i).latest_version, a(i).current_version])), 1),
+                    a(i).release_notes ? (k(), m("div", l0, [
                       z(o(a(i).release_notes.substring(0, 500)) + " ", 1),
-                      a(i).release_notes.length > 500 ? (k(), m("span", d1, "...")) : w("", !0)
+                      a(i).release_notes.length > 500 ? (k(), m("span", d0, "...")) : w("", !0)
                     ])) : w("", !0),
-                    e("div", i1, [
+                    e("div", i0, [
                       e("a", {
                         href: a(i).release_url,
                         target: "_blank",
@@ -1733,7 +1733,7 @@ const ga = t("zap", [
                           "aria-hidden": "true"
                         }, "GH", -1)),
                         z(" " + o(a(s)("View Release")), 1)
-                      ], 8, c1),
+                      ], 8, c0),
                       e("button", {
                         onClick: n[12] || (n[12] = //@ts-ignore
                         (...y) => a(j) && a(j)(...y)),
@@ -1742,28 +1742,28 @@ const ga = t("zap", [
                     ])
                   ])
                 ])
-              ])) : a(i) && !a(i).update_available ? (k(), m("div", y1, [
-                e("div", h1, [
+              ])) : a(i) && !a(i).update_available ? (k(), m("div", y0, [
+                e("div", h0, [
                   C(a(I), {
                     class: "w-5 h-5 text-green-500",
                     "aria-hidden": "true"
                   }),
                   e("div", null, [
-                    e("h4", u1, o(a(s)("Up to Date")), 1),
-                    e("p", p1, o(a(s)("You are running the latest version of Orga.")), 1)
+                    e("h4", u0, o(a(s)("Up to Date")), 1),
+                    e("p", p0, o(a(s)("You are running the latest version of Orga.")), 1)
                   ])
                 ])
-              ])) : (k(), m("div", k1, [
-                e("p", g1, o(a(s)("No update information available yet.")), 1)
+              ])) : (k(), m("div", k0, [
+                e("p", g0, o(a(s)("No update information available yet.")), 1)
               ])),
-              a(l) ? (k(), m("div", m1, [
+              a(l) ? (k(), m("div", m0, [
                 C(a(N), {
                   class: "w-3.5 h-3.5 inline mr-1",
                   "aria-hidden": "true"
                 }),
                 z(" " + o(a(s)("Update check failed: {0}", [a(l)])), 1)
               ])) : w("", !0),
-              e("div", x1, [
+              e("div", x0, [
                 e("button", {
                   onClick: n[13] || (n[13] = //@ts-ignore
                   (...y) => a(x) && a(x)(...y)),
@@ -1780,11 +1780,11 @@ const ga = t("zap", [
                     "aria-hidden": "true"
                   })),
                   z(" " + o(a(c) ? a(s)("Checking...") : a(s)("Check for Updates")), 1)
-                ], 8, f1)
+                ], 8, f0)
               ])
             ])
           ], 64)) : w("", !0),
-          p.value !== "updates" ? (k(), m("div", b1, [
+          p.value !== "updates" ? (k(), m("div", b0, [
             e("button", {
               onClick: we,
               class: "px-4 py-2 bg-gray-100 dark:bg-gray-600 text-gray-700 dark:text-gray-200 border border-gray-200 dark:border-gray-500 rounded hover:bg-gray-200 dark:hover:bg-gray-500 text-sm font-medium transition-colors"
@@ -1800,7 +1800,7 @@ const ga = t("zap", [
                 "aria-hidden": "true"
               })) : w("", !0),
               z(" " + o(S.value ? a(s)("Saving...") : a(s)("Save Changes")), 1)
-            ], 8, v1)
+            ], 8, v0)
           ])) : w("", !0)
         ])
       ]))
@@ -1808,5 +1808,5 @@ const ga = t("zap", [
   }
 });
 export {
-  M1 as OrgaSettings
+  M0 as OrgaSettings
 };

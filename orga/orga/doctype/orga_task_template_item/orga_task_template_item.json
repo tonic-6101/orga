@@ -1,0 +1,78 @@
+{
+  "actions": [],
+  "creation": "2026-03-25 12:00:00.000000",
+  "doctype": "DocType",
+  "engine": "InnoDB",
+  "field_order": [
+    "subject",
+    "task_type",
+    "priority",
+    "column_break_item",
+    "days_offset",
+    "estimated_hours",
+    "section_notes",
+    "notes"
+  ],
+  "fields": [
+    {
+      "fieldname": "subject",
+      "fieldtype": "Data",
+      "in_list_view": 1,
+      "label": "Subject",
+      "reqd": 1
+    },
+    {
+      "fieldname": "task_type",
+      "fieldtype": "Data",
+      "in_list_view": 1,
+      "label": "Task Type"
+    },
+    {
+      "default": "Medium",
+      "fieldname": "priority",
+      "fieldtype": "Select",
+      "in_list_view": 1,
+      "label": "Priority",
+      "options": "Low\nMedium\nHigh\nUrgent"
+    },
+    {
+      "fieldname": "column_break_item",
+      "fieldtype": "Column Break"
+    },
+    {
+      "default": "0",
+      "description": "Schedule N days after the template start date",
+      "fieldname": "days_offset",
+      "fieldtype": "Int",
+      "in_list_view": 1,
+      "label": "Days Offset"
+    },
+    {
+      "fieldname": "estimated_hours",
+      "fieldtype": "Float",
+      "label": "Estimated Hours"
+    },
+    {
+      "fieldname": "section_notes",
+      "fieldtype": "Section Break",
+      "label": "Notes"
+    },
+    {
+      "fieldname": "notes",
+      "fieldtype": "Small Text",
+      "label": "Notes"
+    }
+  ],
+  "index_web_pages_for_search": 0,
+  "istable": 1,
+  "links": [],
+  "modified": "2026-03-25 12:00:00.000000",
+  "modified_by": "Administrator",
+  "module": "Orga",
+  "name": "Orga Task Template Item",
+  "owner": "Administrator",
+  "permissions": [],
+  "sort_field": "creation",
+  "sort_order": "ASC",
+  "states": []
+}

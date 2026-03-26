@@ -89,6 +89,14 @@ dock_search_sections = [
         "description_field": "appointment_type",
         "route_template": "/orga/calendar",
     },
+    {
+        "label": "Task Templates",
+        "doctype": "Orga Task Template",
+        "search_fields": ["template_name", "description"],
+        "display_field": "template_name",
+        "description_field": "category",
+        "route_template": "/app/orga-task-template/{name}",
+    },
 ]
 dock_settings_sections = [
     {

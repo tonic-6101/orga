@@ -9,7 +9,16 @@ import datetime
 import frappe
 from frappe import _
 from frappe.model.document import Document
-from frappe.utils import getdate, nowdate, now_datetime
+from frappe.utils import getdate, nowdate, now_datetime, add_days, add_months
+
+RECURRENCE_MAP = {
+    "Weekly": lambda d: add_days(d, 7),
+    "Bi-weekly": lambda d: add_days(d, 14),
+    "Monthly": lambda d: add_months(d, 1),
+    "Quarterly": lambda d: add_months(d, 3),
+    "Bi-annual": lambda d: add_months(d, 6),
+    "Annual": lambda d: add_months(d, 12),
+}
 
 
 class OrgaTask(Document):
@@ -20,6 +29,7 @@ class OrgaTask(Document):
         self.validate_parent_task()
         self.validate_dependencies()
         self.validate_group_dependency()
+        self.validate_recurrence()
         self.update_blocked_status()
 
     def clear_project_scoped_fields(self):
@@ -109,6 +119,11 @@ class OrgaTask(Document):
         task_group = getattr(self, "task_group", None)
         if depends_on_group and task_group and depends_on_group == task_group:
             frappe.throw(_("Task cannot depend on the group it belongs to"))
+
+    def validate_recurrence(self):
+        """Ensure recurring tasks have a recurrence interval set."""
+        if getattr(self, "is_recurring", False) and not getattr(self, "recurrence", None):
+            frappe.throw(_("Recurrence interval is required for recurring tasks"))
 
     def update_blocked_status(self):
         """Check if task is blocked by incomplete task or group dependencies"""
@@ -215,11 +230,43 @@ class OrgaTask(Document):
         self.sync_progress_with_status()
 
     def set_completed_date(self):
-        """Auto-set completed date when status changes to Completed"""
+        """Auto-set completed date when status changes to Completed.
+        For recurring tasks, auto-create the next occurrence.
+        """
         if self.status == "Completed" and not self.completed_date:
             self.completed_date = nowdate()
+            if getattr(self, "is_recurring", False) and getattr(self, "recurrence", None):
+                self._create_next_occurrence()
         elif self.status != "Completed" and self.completed_date:
             self.completed_date = None
+
+    def _create_next_occurrence(self):
+        """Auto-create the next occurrence of a recurring task."""
+        calc_fn = RECURRENCE_MAP.get(self.recurrence)
+        if not calc_fn:
+            return
+
+        base_date = getdate(self.completed_date or nowdate())
+        next_date = calc_fn(base_date)
+
+        # Respect recurrence end date
+        end_date = getattr(self, "recurrence_end_date", None)
+        if end_date and getdate(next_date) > getdate(end_date):
+            return
+
+        next_task = frappe.copy_doc(self)
+        next_task.status = "Open"
+        next_task.start_date = next_date
+        next_task.due_date = next_date
+        next_task.completed_date = None
+        next_task.progress = 0
+        next_task.parent_task = self.name
+        next_task.insert(ignore_permissions=True)
+
+        frappe.msgprint(
+            _("Next recurring task {0} created for {1}").format(next_task.name, next_date),
+            alert=True,
+        )
 
     def sync_progress_with_status(self):
         """Keep progress field in sync with task status.
