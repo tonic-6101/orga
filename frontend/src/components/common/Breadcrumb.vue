@@ -46,7 +46,8 @@ const routeLabels: Record<string, string> = {
   'orga': __('Dashboard'),
   'activity': __('Activity'),
   'projects': __('Projects'),
-  'contacts': __('Contacts'),
+  'contacts': __('People'),
+  'people': __('People'),
   'schedule': __('Schedule'),
   'settings': __('Settings')
 }
