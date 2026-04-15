@@ -108,7 +108,7 @@ def get_resource_utilization_report(date_from=None, date_to=None, department=Non
     resources = frappe.get_all(
         "Orga Resource",
         filters=filters,
-        fields=["name", "resource_name", "email", "weekly_capacity", "department"]
+        fields=["name", "resource_name", "user", "weekly_capacity", "department"]
     )
 
     result = []
@@ -139,7 +139,7 @@ def get_resource_utilization_report(date_from=None, date_to=None, department=Non
         result.append({
             "resource": resource.name,
             "resource_name": resource.resource_name,
-            "email": resource.email,
+            "email": resource.user,
             "department": resource.department,
             "weekly_capacity": capacity,
             "allocated_hours": allocated,
