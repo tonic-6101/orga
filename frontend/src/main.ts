@@ -9,7 +9,7 @@ import {
   Button,
   Input,
   Badge,
-  Spinner,
+  LoadingIndicator,
 } from 'frappe-ui'
 
 import router from './router'
@@ -35,7 +35,7 @@ document.documentElement.lang = getLang()
 app.component('Button', Button)
 app.component('Input', Input)
 app.component('Badge', Badge)
-app.component('Spinner', Spinner)
+app.component('LoadingIndicator', LoadingIndicator)
 
 // Global error handler to prevent silent SPA crashes
 app.config.errorHandler = (err, _instance, info) => {

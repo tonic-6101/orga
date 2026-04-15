@@ -148,7 +148,7 @@ declare module 'frappe-ui' {
   export const Button: Component
   export const Input: Component
   export const Badge: Component
-  export const Spinner: Component
+  export const LoadingIndicator: Component
   export const Dialog: Component
   export const Dropdown: Component
   export const Avatar: Component
