@@ -153,7 +153,7 @@ function settingsEsmPlugin(): Plugin {
         plugins: [
           vueSharedPlugin,
           vue(),
-          ...(frappeui ? [frappeui({ frappeProxy: false, lucideIcons: true, jinjaBootData: false })] : []),
+          ...(frappeui ? [frappeui({ frappeProxy: false, lucideIcons: true, jinjaBootData: false, buildConfig: false })] : []),
         ],
         resolve: {
           alias: {
@@ -206,7 +206,8 @@ export default defineConfig({
     frappeui && frappeui({
       frappeProxy: true,
       lucideIcons: true,
-      jinjaBootData: true
+      jinjaBootData: true,
+      buildConfig: false,
     }),
     frappeManifestPlugin(),
     settingsEsmPlugin(),
