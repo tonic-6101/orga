@@ -22,6 +22,25 @@ def _orga_color():
 	return _ORGA_COLOR
 
 
+def _get_user_reminder_defaults(user: str) -> dict:
+	"""Read event reminder defaults from Dock User Preference (soft dependency)."""
+	try:
+		vals = frappe.db.get_value(
+			"Dock User Preference",
+			user,
+			["event_reminder_enabled", "event_reminder_minutes"],
+			as_dict=True,
+		)
+		if vals:
+			return {
+				"enabled": int(vals.event_reminder_enabled or 0),
+				"minutes": int(vals.event_reminder_minutes or 15),
+			}
+	except Exception:
+		pass
+	return {"enabled": 0, "minutes": 15}
+
+
 def _upsert(source_doc, payload: dict):
 	"""Create or update the Dock Event for a source document + user pair."""
 	user = payload.get("user")
@@ -89,7 +108,13 @@ def sync_appointment(doc, method=None):
 			users.add(row.user)
 
 	for user in users:
-		_upsert(doc, {**payload, "user": user})
+		reminder = _get_user_reminder_defaults(user)
+		_upsert(doc, {
+			**payload,
+			"user": user,
+			"send_reminder": reminder["enabled"],
+			"reminder_minutes": reminder["minutes"],
+		})
 
 	_remove_stale_user_events(doc, users)
 
@@ -125,7 +150,13 @@ def sync_task(doc, method=None):
 		users.add(doc.owner)
 
 	for user in users:
-		_upsert(doc, {**payload, "user": user})
+		reminder = _get_user_reminder_defaults(user)
+		_upsert(doc, {
+			**payload,
+			"user": user,
+			"send_reminder": reminder["enabled"],
+			"reminder_minutes": reminder["minutes"],
+		})
 
 	_remove_stale_user_events(doc, users)
 
@@ -140,6 +171,7 @@ def sync_milestone(doc, method=None):
 	color = _orga_color()
 	due_dt = get_datetime(f"{doc.due_date} 00:00:00")
 
+	reminder = _get_user_reminder_defaults(doc.owner)
 	_upsert(doc, {
 		"title":          doc.milestone_name,
 		"start_datetime": due_dt,
@@ -150,6 +182,8 @@ def sync_milestone(doc, method=None):
 		"url":            f"/orga/projects/{doc.project}" if doc.project else f"/orga",
 		"description":    None,
 		"user":           doc.owner,
+		"send_reminder":    reminder["enabled"],
+		"reminder_minutes": reminder["minutes"],
 	})
 
 	_remove_stale_user_events(doc, {doc.owner})

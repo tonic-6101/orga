@@ -454,6 +454,63 @@ scheduler_events = {
 	}
 }
 
+# Jana integration (AI assistant permissions)
+# ---------------
+
+jana_briefing_source = "orga.orga.api.jana_briefing.get_briefing"
+
+jana_permissions = {
+	"doctypes": {
+		"read": [
+			"Orga Project", "Orga Task", "Orga Milestone",
+			"Orga Appointment", "Orga Resource",
+		],
+		"create": [],
+		"update": [],
+		"never": [],
+	},
+	"endpoints": [
+		{
+			"label": "Orga — Dashboard",
+			"description": "Project stats, task summaries, health indicators",
+			"methods": [
+				"orga.orga.api.dashboard.get_stats",
+				"orga.orga.api.dashboard.get_project_summary",
+				"orga.orga.api.dashboard.get_task_summary",
+				"orga.orga.api.dashboard.get_milestone_summary",
+				"orga.orga.api.dashboard.get_health_check",
+			],
+			"scoping": "user",
+		},
+		{
+			"label": "Orga — Calendar",
+			"description": "Appointments and calendar events",
+			"methods": [
+				"orga.orga.api.appointment.get_appointments",
+				"orga.orga.api.appointment.get_my_appointments",
+			],
+			"scoping": "user",
+		},
+		{
+			"label": "Orga — Reports",
+			"description": "Milestone and task completion reports",
+			"methods": [
+				"orga.orga.api.report.get_milestone_report",
+				"orga.orga.api.report.get_task_completion_report",
+			],
+			"scoping": "user",
+		},
+		{
+			"label": "Orga — Daily Briefing",
+			"description": "Aggregated briefing data for Jana Daily Briefing agent",
+			"methods": [
+				"orga.orga.api.jana_briefing.get_briefing",
+			],
+			"scoping": "user",
+		},
+	],
+}
+
 # Testing
 # -------
 

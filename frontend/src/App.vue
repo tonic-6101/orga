@@ -8,7 +8,7 @@ import { useRoute } from 'vue-router'
 // @ts-ignore — served by Dock's built assets
 import { DockLayout, DockSidebarShell } from '/assets/dock/js/dock-navbar.esm.js'
 import {
-  LayoutDashboard, CircleCheckBig, FolderOpen, BarChart3, Copy, Linkedin,
+  LayoutDashboard, CircleCheckBig, FolderOpen, BarChart3, Copy,
 } from 'lucide-vue-next'
 import PortalLayout from './components/layout/PortalLayout.vue'
 import ToastContainer from './components/common/ToastContainer.vue'
@@ -36,9 +36,7 @@ const footer = computed(() => ({
   sourceUrl: 'https://github.com/tonic-6101/orga',
   updateAvailable: updateAvailable.value,
   updateUrl: '/dock/settings/app/orga',
-  links: [
-    { label: 'LinkedIn', url: 'https://www.linkedin.com/in/tonic-s-solutions-1642a0273/', icon: Linkedin },
-  ],
+  // LinkedIn is now injected globally by DockSidebarShell from Dock boot data
 }))
 </script>
 

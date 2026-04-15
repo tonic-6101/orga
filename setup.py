@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="orga",
-    version="0.15.5",
+    version="0.15.6",
     description="Orga - Project Management System",
     author="Orga",
     author_email="info@orga.localhost",
