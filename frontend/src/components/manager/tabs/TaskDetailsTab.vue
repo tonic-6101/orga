@@ -246,7 +246,7 @@
         </button>
         <!-- Empty state -->
         <p v-if="!contacts.length" class="text-xs text-gray-400 dark:text-gray-500 text-center py-3">
-          {{ __('No contacts available') }}
+          {{ __('No team members available') }}
         </p>
       </div>
     </div>

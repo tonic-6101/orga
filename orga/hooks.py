@@ -89,6 +89,14 @@ dock_search_sections = [
         "description_field": "appointment_type",
         "route_template": "/orga/calendar",
     },
+    {
+        "label": "Task Templates",
+        "doctype": "Orga Task Template",
+        "search_fields": ["template_name", "description"],
+        "display_field": "template_name",
+        "description_field": "category",
+        "route_template": "/app/orga-task-template/{name}",
+    },
 ]
 dock_settings_sections = [
     {
@@ -444,6 +452,63 @@ scheduler_events = {
 			"orga.orga.services.health_calculator.update_all_project_health"
 		]
 	}
+}
+
+# Jana integration (AI assistant permissions)
+# ---------------
+
+jana_briefing_source = "orga.orga.api.jana_briefing.get_briefing"
+
+jana_permissions = {
+	"doctypes": {
+		"read": [
+			"Orga Project", "Orga Task", "Orga Milestone",
+			"Orga Appointment", "Orga Resource",
+		],
+		"create": [],
+		"update": [],
+		"never": [],
+	},
+	"endpoints": [
+		{
+			"label": "Orga — Dashboard",
+			"description": "Project stats, task summaries, health indicators",
+			"methods": [
+				"orga.orga.api.dashboard.get_stats",
+				"orga.orga.api.dashboard.get_project_summary",
+				"orga.orga.api.dashboard.get_task_summary",
+				"orga.orga.api.dashboard.get_milestone_summary",
+				"orga.orga.api.dashboard.get_health_check",
+			],
+			"scoping": "user",
+		},
+		{
+			"label": "Orga — Calendar",
+			"description": "Appointments and calendar events",
+			"methods": [
+				"orga.orga.api.appointment.get_appointments",
+				"orga.orga.api.appointment.get_my_appointments",
+			],
+			"scoping": "user",
+		},
+		{
+			"label": "Orga — Reports",
+			"description": "Milestone and task completion reports",
+			"methods": [
+				"orga.orga.api.report.get_milestone_report",
+				"orga.orga.api.report.get_task_completion_report",
+			],
+			"scoping": "user",
+		},
+		{
+			"label": "Orga — Daily Briefing",
+			"description": "Aggregated briefing data for Jana Daily Briefing agent",
+			"methods": [
+				"orga.orga.api.jana_briefing.get_briefing",
+			],
+			"scoping": "user",
+		},
+	],
 }
 
 # Testing

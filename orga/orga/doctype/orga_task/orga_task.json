@@ -48,7 +48,12 @@
     "billing_rate",
     "section_frappe_integration",
     "frappe_task_link",
-    "last_frappe_sync"
+    "last_frappe_sync",
+    "is_recurring",
+    "section_recurrence",
+    "recurrence",
+    "column_break_recurrence",
+    "recurrence_end_date"
   ],
   "fields": [
     {
@@ -331,6 +336,38 @@
       "fieldtype": "Datetime",
       "label": "Last Sync",
       "read_only": 1
+    },
+    {
+      "default": "0",
+      "fieldname": "is_recurring",
+      "fieldtype": "Check",
+      "label": "Recurring Task"
+    },
+    {
+      "collapsible": 1,
+      "depends_on": "eval:doc.is_recurring",
+      "fieldname": "section_recurrence",
+      "fieldtype": "Section Break",
+      "label": "Recurrence"
+    },
+    {
+      "depends_on": "eval:doc.is_recurring",
+      "fieldname": "recurrence",
+      "fieldtype": "Select",
+      "label": "Recurrence Interval",
+      "mandatory_depends_on": "eval:doc.is_recurring",
+      "options": "\nWeekly\nBi-weekly\nMonthly\nQuarterly\nBi-annual\nAnnual"
+    },
+    {
+      "fieldname": "column_break_recurrence",
+      "fieldtype": "Column Break"
+    },
+    {
+      "depends_on": "eval:doc.is_recurring",
+      "description": "Leave blank for indefinite recurrence",
+      "fieldname": "recurrence_end_date",
+      "fieldtype": "Date",
+      "label": "Recurrence End Date"
     }
   ],
   "index_web_pages_for_search": 1,

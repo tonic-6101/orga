@@ -52,6 +52,22 @@ def _has_auto_trail_start() -> bool:
         return False
 
 
+def _has_recurrence() -> bool:
+    """Check if is_recurring column exists on Orga Task (pre-migration safe)."""
+    try:
+        return frappe.db.has_column("Orga Task", "is_recurring")
+    except Exception:
+        return False
+
+
+def _has_home_custom_fields() -> bool:
+    """Check if Home custom fields exist on Orga Task (added by Home app)."""
+    try:
+        return frappe.db.has_column("Orga Task", "home_property")
+    except Exception:
+        return False
+
+
 def _enrich_assigned_to(task):
     """Add assigned_to_name and assigned_to_image from User doctype."""
     if task.get("assigned_to"):
@@ -334,6 +350,15 @@ def create_task(data):
         allowed_fields.append("depends_on_group")
     if _has_auto_trail_start():
         allowed_fields.append("auto_trail_start")
+    if _has_recurrence():
+        allowed_fields.extend(["is_recurring", "recurrence", "recurrence_end_date"])
+
+    # Allow Home custom fields if they exist (added by Home app via Custom Fields)
+    if _has_home_custom_fields():
+        allowed_fields.extend([
+            "home_property", "home_room", "home_item",
+            "home_contractor", "home_maintenance_category",
+        ])
 
     task_data = {"doctype": "Orga Task"}
     for field in allowed_fields:
@@ -399,6 +424,13 @@ def update_task(name, data):
         allowed_fields.append("depends_on_group")
     if _has_auto_trail_start():
         allowed_fields.append("auto_trail_start")
+    if _has_recurrence():
+        allowed_fields.extend(["is_recurring", "recurrence", "recurrence_end_date"])
+    if _has_home_custom_fields():
+        allowed_fields.extend([
+            "home_property", "home_room", "home_item",
+            "home_contractor", "home_maintenance_category",
+        ])
 
     updates = {}
     for field, value in data.items():
