@@ -7,6 +7,7 @@
  "engine": "InnoDB",
  "field_order": [
   "task",
+  "contact",
   "resource",
   "project",
   "column_break_1",
@@ -32,11 +33,20 @@
    "in_standard_filter": 1
   },
   {
+   "fieldname": "contact",
+   "fieldtype": "Link",
+   "label": "Contact",
+   "options": "Contact",
+   "description": "Authoritative identity of the assignee. Both internal (Contact.user IS NOT NULL) and external contacts allowed.",
+   "in_list_view": 1,
+   "in_standard_filter": 1
+  },
+  {
    "fieldname": "resource",
    "fieldtype": "Link",
    "label": "Resource",
    "options": "Orga Resource",
-   "reqd": 1,
+   "description": "Optional enrichment — set only when the assigned contact is a capacity-tracked Orga Resource. Identity lives on `contact`.",
    "in_list_view": 1,
    "in_standard_filter": 1
   },

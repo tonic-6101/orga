@@ -6,3 +6,4 @@ orga.patches.v0_0.set_workspace_icon
 orga.patches.v0_0.link_resources_to_contacts
 orga.patches.v0_15.migrate_appointments_to_dock_event
 orga.patches.v0_15.migrate_clients_to_contact
+orga.patches.v0_15.backfill_assignment_contact

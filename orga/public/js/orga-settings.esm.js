@@ -209,7 +209,7 @@ function a(i, s) {
         l = l.replace(new RegExp(`\\{${d}\\}`, "g"), String(o));
   return l;
 }
-const de = "0.15.4";
+const de = "0.15.8";
 const ce = (i) => {
   for (const s in i)
     if (s.startsWith("aria-") || s === "role" || s === "title")

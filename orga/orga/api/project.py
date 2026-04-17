@@ -36,6 +36,46 @@ def _has_column(doctype: str, column: str) -> bool:
         return False
 
 
+def _enrich_task_assignees(tasks: list[dict]) -> None:
+    """Add an `assignees` list to each task from Orga Assignment contacts (batch query)."""
+    task_names = [t["name"] for t in tasks if t.get("name")]
+    if not task_names or not frappe.db.exists("DocType", "Orga Assignment"):
+        for t in tasks:
+            t["assignees"] = []
+        return
+
+    assignments = frappe.get_all(
+        "Orga Assignment",
+        filters={"task": ("in", task_names)},
+        fields=["task", "contact"],
+        order_by="creation asc",
+    )
+
+    contact_names = list({a["contact"] for a in assignments if a.get("contact")})
+    contact_map: dict[str, dict] = {}
+    if contact_names:
+        contacts = frappe.get_all(
+            "Contact",
+            filters={"name": ("in", contact_names)},
+            fields=["name", "full_name", "image", "user"],
+        )
+        contact_map = {c["name"]: c for c in contacts}
+
+    # Group by task
+    task_assignees: dict[str, list] = {t["name"]: [] for t in tasks}
+    for a in assignments:
+        c = contact_map.get(a.get("contact", ""))
+        if not c:
+            continue
+        task_assignees.setdefault(a["task"], []).append({
+            "name": c.get("full_name") or c["name"],
+            "image": c.get("image") or None,
+        })
+
+    for t in tasks:
+        t["assignees"] = task_assignees.get(t["name"], [])
+
+
 @frappe.whitelist()
 def get_projects(status=None, project_type=None, project_manager=None, limit=20, offset=0, order_by="modified desc"):
     """
@@ -179,6 +219,9 @@ def get_project(name):
         _enrich_assigned_to(task)
         _enrich_task_resource(task)
 
+    # Enrich tasks with full assignee list (for Gantt avatar stacks)
+    _enrich_task_assignees(tasks)
+
     # Get milestones (sort_order first for user-defined ordering, then due_date)
     ms_has_sort = _has_sort_order("Orga Milestone")
     ms_fields = ["name", "milestone_name", "status", "due_date", "completed_date", "description"]
@@ -218,42 +261,21 @@ def get_project(name):
         "completed_milestones": sum(1 for m in milestones if m["status"] == "Completed"),
     }
 
-    # Get unique team members from task assignments (Users + Resources)
+    # Get unique team members from task assignments (Contacts via Orga Assignment)
     team_members = []
-    seen_users = set()
-    seen_resources = set()
+    seen_contacts = set()
     pm = project.project_manager
 
-    # Collect users assigned via assigned_to (User accounts)
-    for task in tasks:
-        user = task.get("assigned_to")
-        if user and user not in seen_users:
-            seen_users.add(user)
-            user_info = frappe.db.get_value(
-                "User",
-                user,
-                ["full_name", "user_image"],
-                as_dict=True
-            )
-            if user_info:
-                team_members.append({
-                    "user": user,
-                    "full_name": user_info.get("full_name") or user,
-                    "user_image": user_info.get("user_image"),
-                    "is_manager": user == pm,
-                    "source": "user"
-                })
-
-    # Also add project manager if not already in team
-    if pm and pm not in seen_users:
+    # Add project manager first
+    if pm:
         pm_info = frappe.db.get_value(
-            "User",
-            pm,
-            ["full_name", "user_image"],
-            as_dict=True
+            "User", pm, ["full_name", "user_image"], as_dict=True
         )
         if pm_info:
-            team_members.insert(0, {
+            pm_contact = frappe.db.get_value("Contact", {"user": pm}, "name")
+            if pm_contact:
+                seen_contacts.add(pm_contact)
+            team_members.append({
                 "user": pm,
                 "full_name": pm_info.get("full_name") or pm,
                 "user_image": pm_info.get("user_image"),
@@ -261,37 +283,35 @@ def get_project(name):
                 "source": "user"
             })
 
-    # Collect resources assigned via Orga Assignment (contacts/contractors)
+    # Collect all contacts assigned to project tasks via Orga Assignment
     if frappe.db.exists("DocType", "Orga Assignment"):
         task_names = [t.get("name") for t in tasks if t.get("name")]
         if task_names:
             assignments = frappe.get_all(
                 "Orga Assignment",
                 filters={"task": ["in", task_names]},
-                fields=["resource"],
-                group_by="resource"
+                fields=["contact"],
+                group_by="contact"
             )
-            for assignment in assignments:
-                res_name = assignment.resource
-                if res_name and res_name not in seen_resources:
-                    seen_resources.add(res_name)
-                    res_info = frappe.db.get_value(
-                        "Orga Resource",
-                        res_name,
-                        ["resource_name", "user", "email", "image"],
-                        as_dict=True
-                    )
-                    if res_info:
-                        # Skip if this resource's linked user is already in the list
-                        if res_info.user and res_info.user in seen_users:
-                            continue
-                        team_members.append({
-                            "user": res_info.user or res_info.email or res_name,
-                            "full_name": res_info.resource_name or res_name,
-                            "user_image": res_info.image or None,
-                            "is_manager": False,
-                            "source": "resource"
-                        })
+            contact_names = [a.contact for a in assignments if a.get("contact")]
+            if contact_names:
+                contacts = frappe.get_all(
+                    "Contact",
+                    filters={"name": ("in", contact_names)},
+                    fields=["name", "full_name", "image", "user", "email_id"],
+                )
+                for c in contacts:
+                    if c["name"] in seen_contacts:
+                        continue
+                    seen_contacts.add(c["name"])
+                    team_members.append({
+                        "user": c.get("user") or c.get("email_id") or c["name"],
+                        "full_name": c.get("full_name") or c["name"],
+                        "user_image": c.get("image"),
+                        "is_manager": False,
+                        "is_internal": bool(c.get("user")),
+                        "source": "contact"
+                    })
 
     # Get project documents/attachments (all, not just public)
     documents = frappe.get_all(

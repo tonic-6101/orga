@@ -9,6 +9,8 @@ export {}
 declare module 'vue' {
   export interface GlobalComponents {
     ApplyTemplateModal: typeof import('./src/components/project/ApplyTemplateModal.vue')['default']
+    AssigneePicker: typeof import('./src/components/assignment/AssigneePicker.vue')['default']
+    AvatarStack: typeof import('./src/components/common/AvatarStack.vue')['default']
     Breadcrumb: typeof import('./src/components/common/Breadcrumb.vue')['default']
     BudgetBurnRate: typeof import('./src/components/gantt/BudgetBurnRate.vue')['default']
     CascadePreview: typeof import('./src/components/gantt/CascadePreview.vue')['default']

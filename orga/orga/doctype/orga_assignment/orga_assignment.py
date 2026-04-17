@@ -22,21 +22,27 @@ class OrgaAssignment(Document):
                 frappe.throw(_("End Date cannot be before Start Date"))
 
     def validate_duplicate_assignment(self):
-        """Prevent duplicate task-resource assignments"""
+        """Prevent duplicate task-contact assignments.
+
+        Identity is Contact (new Owner + Collaborators model). `resource` is an
+        optional capacity-enrichment pointer and may be null — don't key on it.
+        """
+        if not self.contact:
+            return
         existing = frappe.db.get_value(
             "Orga Assignment",
             {
                 "task": self.task,
-                "resource": self.resource,
+                "contact": self.contact,
                 "status": ["not in", ["Completed", "Cancelled"]],
-                "name": ("!=", self.name)
+                "name": ("!=", self.name),
             },
-            "name"
+            "name",
         )
         if existing:
             frappe.throw(
-                _("Resource {0} is already assigned to this task ({1})").format(
-                    self.resource, existing
+                _("{0} is already assigned to this task ({1})").format(
+                    self.contact, existing
                 )
             )
 
@@ -54,29 +60,3 @@ class OrgaAssignment(Document):
                 alert=True
             )
 
-    def on_update(self):
-        self.update_task_assigned_to()
-
-    def on_trash(self):
-        self.update_task_assigned_to()
-
-    def update_task_assigned_to(self):
-        """Update task's assigned_to field based on assignments"""
-        if self.task:
-            # Get first active assignment's resource user
-            assignment = frappe.db.get_value(
-                "Orga Assignment",
-                {
-                    "task": self.task,
-                    "status": ["in", ["Assigned", "In Progress"]]
-                },
-                ["resource"],
-                order_by="creation asc"
-            )
-
-            if assignment:
-                user = frappe.db.get_value("Orga Resource", assignment, "user")
-                if user:
-                    frappe.db.set_value("Orga Task", self.task, "assigned_to", user)
-            else:
-                frappe.db.set_value("Orga Task", self.task, "assigned_to", None)
