@@ -135,6 +135,34 @@ bench --site your-site.localhost migrate
 bench build --app orga
 ```
 
+### Install via Frappe Manager
+
+[Frappe Manager](https://github.com/rtCamp/Frappe-Manager) provides a Docker-based environment with a GUI for managing Frappe sites — no manual bench setup required.
+
+1. **Install Frappe Manager** following the [official instructions](https://github.com/rtCamp/Frappe-Manager#installation)
+
+2. **Create a new site** (or use an existing one):
+
+   ```bash
+   fm create mysite
+   ```
+
+3. **Install Dock** (required dependency) and **Orga** on your site:
+
+   ```bash
+   fm shell mysite
+   # Inside the container:
+   cd /workspace/frappe-bench
+   bench get-app dock https://github.com/tonic-6101/dock.git
+   bench get-app orga https://github.com/tonic-6101/orga.git
+   bench --site mysite.localhost install-app dock
+   bench --site mysite.localhost install-app orga
+   bench --site mysite.localhost migrate
+   bench build --app orga
+   ```
+
+4. **Access your site** at `https://mysite.localhost`
+
 ### Access
 
 After installation, access Orga at: `https://your-site.localhost/orga`
@@ -168,6 +196,15 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) before s
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
+
+### AI-Assisted Development
+
+This repo ships with configuration files for AI coding agents:
+
+- **`AGENTS.md`** — Repository guidelines, coding conventions, build commands, commit format, and Frappe v16 gotchas. AI agents (and human contributors) should read this before making changes.
+- **`CLAUDE.md`** — Points to `AGENTS.md`. If you use [Claude Code](https://claude.ai/code), it picks this up automatically as project context.
+
+If you're contributing with an AI assistant, point it at `AGENTS.md` to get up to speed on the project's conventions quickly.
 
 ---
 
