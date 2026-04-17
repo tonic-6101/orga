@@ -84,7 +84,8 @@ interface TeamMember {
   full_name: string
   user_image?: string
   is_manager?: boolean
-  source?: 'user' | 'resource'
+  is_internal?: boolean
+  source?: 'user' | 'resource' | 'contact'
 }
 
 interface ProjectDocument {
@@ -2392,17 +2393,18 @@ onUnmounted(() => {
             </div>
           </div>
 
-          <!-- Team (Users assigned to project tasks) -->
+          <!-- Team (all people assigned across project tasks) -->
           <div class="w-48 p-4">
             <h4 class="text-overline text-gray-600 dark:text-gray-400 mb-3 flex items-center gap-2">
               <Users class="w-4 h-4" aria-hidden="true" /> {{ __('Team') }}
+              <span v-if="teamMembers.length" class="text-[10px] font-normal text-gray-400">{{ teamMembers.length }}</span>
             </h4>
-            <div v-if="teamMembers.length > 0" class="flex flex-wrap gap-1">
+            <div v-if="teamMembers.length > 0" class="flex flex-wrap gap-1.5 max-h-24 overflow-y-auto pt-1 pr-1">
               <div
                 v-for="member in teamMembers"
                 :key="member.user"
-                class="relative group"
-                :title="member.full_name + (member.is_manager ? ' (' + __('Manager') + ')' : '')"
+                class="relative group overflow-visible"
+                :title="member.full_name + (member.is_manager ? ' (' + __('Manager') + ')' : '') + (member.is_internal === false ? ' (ext)' : '')"
               >
                 <img
                   v-if="member.user_image"

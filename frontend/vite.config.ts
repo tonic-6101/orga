@@ -244,6 +244,7 @@ export default defineConfig({
     }
   },
   optimizeDeps: {
-    include: ['frappe-ui', 'feather-icons', 'vue', 'vue-router']
+    include: ['feather-icons'],
+    exclude: ['frappe-ui', 'vue', 'vue-router', '@vue/runtime-dom', '@vue/runtime-core', '@vue/reactivity'],
   }
 })

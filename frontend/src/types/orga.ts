@@ -17,6 +17,24 @@ export interface OrgaDocument {
   docstatus: 0 | 1 | 2
 }
 
+// Task assignment picker — see src/composables/useAssignees.ts for runtime shape.
+// Spec: ecosystem.localhost/spec/apps/orga/features/community/task-assignment.md
+export interface Assignable {
+  contact: string
+  name: string
+  avatar: string | null
+  email: string | null
+  is_internal: boolean
+  role_label: string
+  resource: string | null
+  last_assigned: string | null
+}
+
+export interface AssigneeSelection {
+  ownerContact: string | null
+  collaboratorContacts: string[]
+}
+
 // ============================================
 // Orga Project
 // ============================================
@@ -69,6 +87,7 @@ export interface OrgaTask extends OrgaDocument {
   assigned_to?: string
   assigned_to_name?: string
   assigned_to_image?: string
+  assignees?: { name: string; image?: string | null }[]
   assigned_resource?: string
   assigned_resource_name?: string
   start_date?: string

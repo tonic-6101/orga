@@ -192,62 +192,33 @@
       </div>
     </div>
 
-    <!-- Contact Assignment (Clickable Picker) -->
-    <div class="relative">
-      <label class="text-[10px] font-semibold text-gray-400 dark:text-gray-500 uppercase tracking-wider">{{ __('Assigned Contact') }}</label>
+    <!-- Assignees (AssigneePicker)
+         Spec: ecosystem.localhost/spec/apps/orga/features/community/task-assignment.md -->
+    <div ref="assigneeContainerRef" class="relative">
+      <label class="text-[10px] font-semibold text-gray-400 dark:text-gray-500 uppercase tracking-wider">{{ __('Assigned') }}</label>
       <button
         @click="isAssigneeOpen = !isAssigneeOpen"
         class="w-full flex items-center gap-2 mt-1 px-2 py-1.5 rounded-lg border border-transparent hover:border-gray-200 dark:hover:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors text-left"
-        :title="__('Click to assign contact')"
+        :title="__('Click to assign')"
       >
-        <template v-if="assignedContact">
-          <UserAvatar :name="assignedContact.resource_name" size="xs" color="orga" />
-          <span class="text-sm text-gray-800 dark:text-gray-200 flex-1">{{ assignedContact.resource_name }}</span>
-        </template>
-        <template v-else-if="task.assigned_to_name">
-          <UserAvatar :name="task.assigned_to_name" :image="task.assigned_to_image" size="xs" color="orga" />
-          <span class="text-sm text-gray-800 dark:text-gray-200 flex-1">{{ task.assigned_to_name }}</span>
-        </template>
-        <span v-else class="text-sm text-gray-400 dark:text-gray-500 flex-1">{{ __('Unassigned') }}</span>
+        <AvatarStack
+          v-if="assigneeList.length"
+          :items="assigneeList.map((c: PickerAssignee) => ({ name: c.name, image: c.avatar }))"
+        />
+        <span v-else class="text-sm text-gray-400 dark:text-gray-500">{{ __('Unassigned') }}</span>
+
+        <span class="flex-1" />
         <ChevronDown class="w-2.5 h-2.5 text-gray-400" aria-hidden="true" />
       </button>
-      <!-- Dropdown -->
-      <div
-        v-if="isAssigneeOpen"
-        class="absolute left-0 right-0 mt-1 z-30 bg-white dark:bg-gray-900 border border-gray-200 dark:border-gray-700 rounded-lg shadow-lg max-h-60 overflow-y-auto"
-      >
-        <!-- Unassign option -->
-        <button
-          v-if="assignedContact || task.assigned_to"
-          @click="selectContact(null)"
-          class="w-full flex items-center gap-2 px-3 py-2 text-sm text-gray-500 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors border-b border-gray-100 dark:border-gray-700"
-        >
-          <UserX class="w-3 h-3 text-gray-400" aria-hidden="true" />
-          <span>{{ __('Unassign') }}</span>
-        </button>
-        <!-- Contacts -->
-        <button
-          v-for="contact in contacts"
-          :key="contact.name"
-          @click="selectContact(contact.name)"
-          :class="[
-            'w-full flex items-center gap-2 px-3 py-2 text-sm transition-colors',
-            assignedContact?.name === contact.name
-              ? 'bg-accent-50 dark:bg-accent-900/20 text-accent-700 dark:text-accent-400'
-              : 'text-gray-700 dark:text-gray-300 hover:bg-gray-50 dark:hover:bg-gray-800'
-          ]"
-        >
-          <UserAvatar :name="contact.resource_name" size="xs" color="orga" />
-          <div class="flex-1 text-left min-w-0">
-            <span class="block truncate">{{ contact.resource_name }}</span>
-            <span class="text-[10px] text-gray-400 dark:text-gray-500">{{ contact.department || contact.status }}</span>
-          </div>
-          <Check v-if="assignedContact?.name === contact.name" class="w-3 h-3 text-accent-500" aria-hidden="true" />
-        </button>
-        <!-- Empty state -->
-        <p v-if="!contacts.length" class="text-xs text-gray-400 dark:text-gray-500 text-center py-3">
-          {{ __('No team members available') }}
-        </p>
+
+      <div v-if="isAssigneeOpen" class="absolute left-0 mt-1 z-30">
+        <AssigneePicker
+          :task="props.task.name"
+          :contacts="assigneeList.map((c: PickerAssignee) => c.contact)"
+          :project="props.task.project ?? null"
+          @update="onAssigneesUpdate"
+          @close="isAssigneeOpen = false"
+        />
       </div>
     </div>
 
@@ -416,13 +387,16 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed, watch, nextTick, onMounted } from 'vue'
+import { ref, computed, watch, nextTick, onMounted, onBeforeUnmount } from 'vue'
 import { __ } from '@/composables/useTranslate'
 import { useProjectApi } from '@/composables/useApi'
 import type { OrgaTask, OrgaContact, OrgaProject, TaskPriority, TaskType } from '@/types/orga'
 import UserAvatar from '@/components/common/UserAvatar.vue'
 import OrgaIcon from '@/components/common/OrgaIcon.vue'
-import { Flag, X, Loader2, Layers, Lock, ChevronDown, UserX, Check, Info } from 'lucide-vue-next'
+import AvatarStack from '@/components/common/AvatarStack.vue'
+import AssigneePicker from '@/components/assignment/AssigneePicker.vue'
+import { useAssignees } from '@/composables/useAssignees'
+import { Flag, X, Loader2, Layers, Lock, ChevronDown, Info } from 'lucide-vue-next'
 
 interface Props {
   task: OrgaTask
@@ -571,33 +545,58 @@ function clearDependsOnGroup(): void {
 }
 
 // ============================================
-// Contact Assignment Picker
+// Assignees (flat model — Model 1a)
+// Spec: ecosystem.localhost/spec/apps/orga/features/community/task-assignment.md
 // ============================================
 
-const isAssigneeOpen = ref(false)
-
-// Find the currently assigned contact
-const assignedContact = computed(() => {
-  const task = props.task as Record<string, unknown>
-  // First check if there's a direct contact assignment (from API or optimistic update)
-  if (task.assigned_resource) {
-    const byName = props.contacts.find(r => r.name === task.assigned_resource)
-    if (byName) return byName
-  }
-  // Fallback: match by user field
-  if (props.task.assigned_to) {
-    return props.contacts.find(r => r.user === props.task.assigned_to) || null
-  }
-  return null
-})
-
-function selectContact(contactName: string | null): void {
-  isAssigneeOpen.value = false
-  // Find current contact to compare
-  const currentContactName = assignedContact.value?.name || null
-  if (contactName === currentContactName) return
-  emit('assign-contact', contactName)
+interface PickerAssignee {
+  contact: string
+  name: string
+  avatar: string | null
+  email: string | null
+  is_internal: boolean
 }
+
+const isAssigneeOpen = ref(false)
+const assigneeList = ref<PickerAssignee[]>([])
+const assigneeContainerRef = ref<HTMLElement | null>(null)
+
+function onClickOutsideAssignee(e: MouseEvent) {
+  if (assigneeContainerRef.value && !assigneeContainerRef.value.contains(e.target as Node)) {
+    isAssigneeOpen.value = false
+  }
+}
+
+watch(isAssigneeOpen, (open) => {
+  if (open) document.addEventListener('mousedown', onClickOutsideAssignee)
+  else document.removeEventListener('mousedown', onClickOutsideAssignee)
+})
+onBeforeUnmount(() => document.removeEventListener('mousedown', onClickOutsideAssignee))
+
+const assignees = useAssignees()
+
+async function refreshAssignees(): Promise<void> {
+  if (!props.task?.name) return
+  try {
+    const data = await assignees.load(props.task.name)
+    assigneeList.value = data.assignees
+  } catch (e) {
+    console.warn('[orga] failed to load assignees', e)
+  }
+}
+
+async function onAssigneesUpdate(payload: { contacts: string[] }): Promise<void> {
+  try {
+    await assignees.commit(props.task.name, { contacts: payload.contacts })
+    await refreshAssignees()
+    const firstInternal = assigneeList.value.find(a => a.is_internal)?.contact ?? null
+    emit('assign-contact', firstInternal)
+  } catch (e) {
+    console.error('[orga] set_assignees failed', e)
+  }
+}
+
+watch(() => props.task?.name, (name) => { if (name) refreshAssignees() }, { immediate: true })
 
 // ============================================
 // Date Handling

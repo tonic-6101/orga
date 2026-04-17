@@ -28,6 +28,7 @@ import type {
 import { isGanttTask } from '@/types/orga';
 import { Network, ChevronRight, ChevronDown, GripVertical, Flag, ArrowLeftRight, ShieldHalf, Lock, CalendarX2 } from 'lucide-vue-next';
 import UserAvatar from '@/components/common/UserAvatar.vue';
+import AvatarStack from '@/components/common/AvatarStack.vue';
 import { __ } from '@/composables/useTranslate';
 
 // Grouping types
@@ -2373,17 +2374,28 @@ const dependencySvgHeight = computed<number>(() => {
                       <div class="dep-handle-dot"></div>
                     </div>
                   </div>
-                  <!-- Assignee avatar (positioned after bar's right edge) -->
-                  <UserAvatar
-                    v-if="(row.item as GanttTask).start_date && (row.item as GanttTask).assigned_to_name"
-                    :name="(row.item as GanttTask).assigned_to_name"
-                    :image="(row.item as GanttTask).assigned_to_image"
-                    size="xs"
-                    color="orga"
-                    class="!w-5 !h-5 !text-[9px] absolute top-1/2 -translate-y-1/2 z-30"
+                  <!-- Assignee avatars (positioned after bar's right edge) -->
+                  <div
+                    v-if="(row.item as GanttTask).start_date && ((row.item as GanttTask).assignees?.length || (row.item as GanttTask).assigned_to_name)"
+                    class="absolute top-1/2 -translate-y-1/2 z-30"
                     :style="getAvatarStyle(row.item as GanttTask)"
-                    :title="(row.item as GanttTask).assigned_to_name"
-                  />
+                  >
+                    <AvatarStack
+                      v-if="(row.item as GanttTask).assignees?.length"
+                      :items="(row.item as GanttTask).assignees!"
+                      :max="3"
+                      size="xs"
+                    />
+                    <UserAvatar
+                      v-else
+                      :name="(row.item as GanttTask).assigned_to_name!"
+                      :image="(row.item as GanttTask).assigned_to_image"
+                      size="xs"
+                      color="orga"
+                      class="!w-5 !h-5 !text-[9px]"
+                      :title="(row.item as GanttTask).assigned_to_name"
+                    />
+                  </div>
 
                   <!-- No dates indicator -->
                   <div
