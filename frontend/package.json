@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "apexcharts": "^4.3.0",
+    "apexcharts": "^5.10.6",
     "feather-icons": "^4.29.0",
     "frappe-ui": "0.1.270",
     "lucide-vue-next": "^1.0.0",
